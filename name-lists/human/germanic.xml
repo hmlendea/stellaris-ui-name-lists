@@ -294,6 +294,14 @@
         </NameGroup>
       </MilitaryPeopleTier3>
     </Warfare>
+    <MythologicalCreatures>
+      <NameGroup>
+        <Name>Mythological Creatures</Name>
+        <Values>
+          <string>Krampus</string>
+        </Values>
+      </NameGroup>
+    </MythologicalCreatures>
     <Ships>
       <Corvette>
         <NameGroup>

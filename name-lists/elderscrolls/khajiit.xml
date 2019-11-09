@@ -2,7 +2,7 @@
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
     <Id>elderscrolls_khajiit</Id>
-    <Name>The Elder Scrolls - Khajiit</Name>
+    <Name>ElderScrolls - Khajiit</Name>
     <Nationalities>
       <NameGroup>
         <Name>Denonyms</Name>

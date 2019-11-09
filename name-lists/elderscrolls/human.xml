@@ -2,7 +2,7 @@
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
     <Id>elderscrolls_human</Id>
-    <Name>The Elder Scrolls - Human</Name>
+    <Name>ElderScrolls - Human</Name>
     <Denonyms>
       <NameGroup>
         <Name>Denonyms - The Elder Scrolls</Name>
