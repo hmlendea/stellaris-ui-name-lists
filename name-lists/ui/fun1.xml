@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_fun1</Id>
+    <Name>UI - Fungoid 1</Name>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Values>
+            <string>Algobeem</string>
+            <string>Argobeem</string>
+            <string>Asibb</string>
+            <string>Astoribeem</string>
+            <string>Avabbiva</string>
+            <string>Baliasbeem</string>
+            <string>Boltreem</string>
+            <string>Bufflabb</string>
+            <string>Bufflabeem</string>
+            <string>Cuffeem</string>
+            <string>Cufflabeem</string>
+            <string>Daareem</string>
+            <string>Daarnobeem</string>
+            <string>Dolav</string>
+            <string>Driva</string>
+            <string>Elgordeem</string>
+            <string>Endorneem</string>
+            <string>Eriothoreem</string>
+            <string>Evadnob</string>
+            <string>Fingavv</string>
+            <string>Fleehn</string>
+            <string>Fleem</string>
+            <string>Gfaleem</string>
+            <string>Gfaleeyup</string>
+            <string>Hestareem</string>
+            <string>Hestarobeem</string>
+            <string>Horbadeem</string>
+            <string>Houtrieeg</string>
+            <string>Iblabb</string>
+            <string>Iblabeem</string>
+            <string>Iblargudd</string>
+            <string>Indagrineem</string>
+            <string>Indareem</string>
+            <string>Irrigav</string>
+            <string>Ivijhareem</string>
+            <string>Karbageem</string>
+            <string>Kashgadeem</string>
+            <string>Keleehn</string>
+            <string>Libareem</string>
+            <string>Libaremt</string>
+            <string>Lothoreem</string>
+            <string>Lyrrasmadd</string>
+            <string>Mantharemt</string>
+            <string>Mashbadeem</string>
+            <string>Masheem</string>
+            <string>Mogoneem</string>
+            <string>Muldaraguud</string>
+            <string>Muldareem</string>
+            <string>Murgareem</string>
+            <string>Nagrineem</string>
+            <string>Nargobeem</string>
+            <string>Nargoreem</string>
+            <string>Neerokeem</string>
+            <string>Omadeem</string>
+            <string>Ondagreem</string>
+            <string>Ondagrid</string>
+            <string>Ondaraguud</string>
+            <string>Ondaryyn</string>
+            <string>Othafeem</string>
+            <string>Otharabeem</string>
+            <string>Othareem</string>
+            <string>Ovgarabeem</string>
+            <string>Patheem</string>
+            <string>Petheem</string>
+            <string>Pethreem</string>
+            <string>Purgareem</string>
+            <string>Putrend</string>
+            <string>Rasheem</string>
+            <string>Ruuvgrud</string>
+            <string>Salav</string>
+            <string>Savabb</string>
+            <string>Savirbeem</string>
+            <string>Savironeem</string>
+            <string>Sepavabb</string>
+            <string>Sindoreem</string>
+            <string>Solbareem</string>
+            <string>Solteem</string>
+            <string>Sraknoreem</string>
+            <string>Sulabeem</string>
+            <string>Ugareem</string>
+            <string>Uldorneem</string>
+            <string>Uliasbeem</string>
+            <string>Uliav</string>
+            <string>Undageem</string>
+            <string>Undarabeem</string>
+            <string>Undareem</string>
+            <string>Undaryyn</string>
+            <string>Urascameen</string>
+            <string>Urigav</string>
+            <string>Utharomeen</string>
+            <string>Vabreem</string>
+            <string>Vvibbava</string>
+            <string>Yehmadd</string>
+            <string>Yehmagreem</string>
+            <string>Yrlivafin</string>
+            <string>Ysabb</string>
+            <string>Ythafeem</string>
+            <string>Ytharabeem</string>
+            <string>Ytharomeen</string>
+            <string>Ythlabb</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Ships>
+    <Armies>
+      <Fleet>
+        <NameGroup>
+          <Values>
+            <string>Croglogo Spore Fleet</string>
+            <string>Crogloo Spore Fleet</string>
+            <string>Finavad Spore Fleet</string>
+            <string>Finava Spore Fleet</string>
+            <string>Forgoolaga Spore Fleet</string>
+            <string>Forgoolock Spore Fleet</string>
+            <string>Forgoologg Spore Fleet</string>
+            <string>Forgooloho Spore Fleet</string>
+            <string>Forgool Spore Fleet</string>
+            <string>Fraglogo Spore Fleet</string>
+            <string>Fragloogm Spore Fleet</string>
+            <string>Fragloog Spore Fleet</string>
+            <string>Fragloo Spore Fleet</string>
+            <string>Greeh Spore Fleet</string>
+            <string>Grothjod Spore Fleet</string>
+            <string>Guava Spore Fleet</string>
+            <string>Guavfinavad Spore Fleet</string>
+            <string>Guavfin Spore Fleet</string>
+            <string>Hathurdool Spore Fleet</string>
+            <string>Hathureeh Spore Fleet</string>
+            <string>Hathuuna Spore Fleet</string>
+            <string>Hathuurgla Spore Fleet</string>
+            <string>Holock Spore Fleet</string>
+            <string>Hologg Spore Fleet</string>
+            <string>Holoho Spore Fleet</string>
+            <string>Holovv Spore Fleet</string>
+            <string>Hoolaga Spore Fleet</string>
+            <string>Hoolag Spore Fleet</string>
+            <string>Hoologg Spore Fleet</string>
+            <string>Hoorebbavad Spore Fleet</string>
+            <string>Hoorebbilv Spore Fleet</string>
+            <string>Hurdolock Spore Fleet</string>
+            <string>Hurdologg Spore Fleet</string>
+            <string>Hurdool Spore Fleet</string>
+            <string>Hurdoosh Spore Fleet</string>
+            <string>Hurdualaan Spore Fleet</string>
+            <string>Hurduulag Spore Fleet</string>
+            <string>Hureeh Spore Fleet</string>
+            <string>Hureelmash Spore Fleet</string>
+            <string>Huvvabb Spore Fleet</string>
+            <string>Juava Spore Fleet</string>
+            <string>Juavfinavad Spore Fleet</string>
+            <string>Juavfinava Spore Fleet</string>
+            <string>Kuthoolaga Spore Fleet</string>
+            <string>Kuthoolag Spore Fleet</string>
+            <string>Kuthoolock Spore Fleet</string>
+            <string>Kuthooloho Spore Fleet</string>
+            <string>Kuthoolovv Spore Fleet</string>
+            <string>Kuthooregh Spore Fleet</string>
+            <string>Lishurabb Spore Fleet</string>
+            <string>Lishurr Spore Fleet</string>
+            <string>Lurdolock Spore Fleet</string>
+            <string>Lurdologg Spore Fleet</string>
+            <string>Lurdologo Spore Fleet</string>
+            <string>Lurdoolag Spore Fleet</string>
+            <string>Lurdoolock Spore Fleet</string>
+            <string>Lurdoolovv Spore Fleet</string>
+            <string>Lurdool Spore Fleet</string>
+            <string>Lurdualaan Spore Fleet</string>
+            <string>Lurduulaga Spore Fleet</string>
+            <string>Lurduulag Spore Fleet</string>
+            <string>Morebbavad Spore Fleet</string>
+            <string>Morebbilv Spore Fleet</string>
+            <string>Moregh Spore Fleet</string>
+            <string>Ordologg Spore Fleet</string>
+            <string>Ordoolag Spore Fleet</string>
+            <string>Ordoolock Spore Fleet</string>
+            <string>Ordoologg Spore Fleet</string>
+            <string>Ordoolovv Spore Fleet</string>
+            <string>Ordool Spore Fleet</string>
+            <string>Ordoosh Spore Fleet</string>
+            <string>Polock Spore Fleet</string>
+            <string>Pologg Spore Fleet</string>
+            <string>Pologo Spore Fleet</string>
+            <string>Poloho Spore Fleet</string>
+            <string>Qroog Spore Fleet</string>
+            <string>Shaglogg Spore Fleet</string>
+            <string>Shaglogo Spore Fleet</string>
+            <string>Shagloogm Spore Fleet</string>
+            <string>Shanbaloogm Spore Fleet</string>
+            <string>Shanbaloog Spore Fleet</string>
+            <string>Thurdologg Spore Fleet</string>
+            <string>Thurdoosh Spore Fleet</string>
+            <string>Thurr Spore Fleet</string>
+            <string>Urdolock Spore Fleet</string>
+            <string>Urdologg Spore Fleet</string>
+            <string>Urdologo Spore Fleet</string>
+            <string>Urdoloho Spore Fleet</string>
+            <string>Urdolovv Spore Fleet</string>
+            <string>Urdooloho Spore Fleet</string>
+            <string>Urdoolovv Spore Fleet</string>
+            <string>Urdool Spore Fleet</string>
+            <string>Urdoosh Spore Fleet</string>
+            <string>Urduulaga Spore Fleet</string>
+            <string>Vvinfinavad Spore Fleet</string>
+            <string>Vvinfin Spore Fleet</string>
+            <string>Yrdualaan Spore Fleet</string>
+            <string>Yrduulag Spore Fleet</string>
+            <string>Zebbavad Spore Fleet</string>
+            <string>Zebbava Spore Fleet</string>
+          </Values>
+        </NameGroup>
+      </Fleet>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Values>
+              <string>Arlavafinev</string>
+              <string>Arlavan</string>
+              <string>Batoor</string>
+              <string>Bhanguur</string>
+              <string>Cinfin</string>
+              <string>Civareed</string>
+              <string>Cufferaakh</string>
+              <string>Davfinev</string>
+              <string>Efiguurem</string>
+              <string>Efiguur</string>
+              <string>Efinev</string>
+              <string>Falagh</string>
+              <string>Faliidh</string>
+              <string>Falmeed</string>
+              <string>Favillop</string>
+              <string>Fheed</string>
+              <string>Fhengoor</string>
+              <string>Fhenne</string>
+              <string>Filav</string>
+              <string>Flugeerdaga</string>
+              <string>Ghandreelen</string>
+              <string>Ghanguukh</string>
+              <string>Ghirgaamen</string>
+              <string>Ghirgav</string>
+              <string>Habraakh</string>
+              <string>Hugiv</string>
+              <string>Hugivva</string>
+              <string>Iplibbyn</string>
+              <string>Jalmareen</string>
+              <string>Jalmeedhun</string>
+              <string>Javib</string>
+              <string>Jhiva</string>
+              <string>Julkoduurem</string>
+              <string>Kaljpherem</string>
+              <string>Kaquur</string>
+              <string>Kaquus</string>
+              <string>Karaluudhal</string>
+              <string>Karand</string>
+              <string>Kenjaam</string>
+              <string>Kharabeed</string>
+              <string>Kharanaag</string>
+              <string>Kharandh</string>
+              <string>Kharndoondh</string>
+              <string>Kharndoorgh</string>
+              <string>Kharombeem</string>
+              <string>Knuumen</string>
+              <string>Knuum</string>
+              <string>Krombeedegh</string>
+              <string>Krombeem</string>
+              <string>Nihisquurem</string>
+              <string>Odalkhaadgh</string>
+              <string>Onadraaq</string>
+              <string>Ondaar</string>
+              <string>Ophaluus</string>
+              <string>Pabdeel</string>
+              <string>Pabdoor</string>
+              <string>Paraaq</string>
+              <string>Parabarand</string>
+              <string>Ponsavan</string>
+              <string>Qlaruum</string>
+              <string>Qraluhaad</string>
+              <string>Qraluhaan</string>
+              <string>Qraluus</string>
+              <string>Qurliigh</string>
+              <string>Sabaraakh</string>
+              <string>Sabaranaagh</string>
+              <string>Sahuug</string>
+              <string>Sahuuligh</string>
+              <string>Sahuus</string>
+              <string>Sanguukh</string>
+              <string>Saphuused</string>
+              <string>Saranava</string>
+              <string>Sarombeem</string>
+              <string>Sepiavafin</string>
+              <string>Seraaq</string>
+              <string>Seraphaluus</string>
+              <string>Seraphandh</string>
+              <string>Seroondaar</string>
+              <string>Seroon</string>
+              <string>Shondh</string>
+              <string>Shuuligh</string>
+              <string>Shuul</string>
+              <string>Shuus</string>
+              <string>Sohoodeph</string>
+              <string>Sohoor</string>
+              <string>Ularabeem</string>
+              <string>Ularaluen</string>
+              <string>Ularuumen</string>
+              <string>Ularuumjal</string>
+              <string>Ularuum</string>
+              <string>Upaad</string>
+              <string>Vurgivva</string>
+              <string>Wanava</string>
+              <string>Woraal</string>
+              <string>Woraan</string>
+              <string>Xurgivv</string>
+              <string>Yvven</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>default</Id>
+        <Weight>100</Weight>
+        <FullNames>
+          <NameGroup>
+            <Values>
+              <string>Addabbav</string>
+              <string>Addaddfin</string>
+              <string>Addava</string>
+              <string>Ajbvava</string>
+              <string>Avafinava</string>
+              <string>Avval</string>
+              <string>Avvalurd</string>
+              <string>Avvavan</string>
+              <string>Avvav</string>
+              <string>Balvivav</string>
+              <string>Bubaddadd</string>
+              <string>Bubaddiv</string>
+              <string>Bubad</string>
+              <string>Cevval</string>
+              <string>Cevvav</string>
+              <string>Cibbad</string>
+              <string>Cibbavafin</string>
+              <string>Cibbava</string>
+              <string>Crellfinavv</string>
+              <string>Dagglog</string>
+              <string>Davadd</string>
+              <string>Doglava</string>
+              <string>Dulavvavadd</string>
+              <string>Dulavv</string>
+              <string>Elgicroonh</string>
+              <string>Elgothuun</string>
+              <string>Finava</string>
+              <string>Finavtab</string>
+              <string>Finavv</string>
+              <string>Gabbavv</string>
+              <string>Gallvava</string>
+              <string>Gurloon</string>
+              <string>Gurloor</string>
+              <string>Haddiv</string>
+              <string>Havfinavtab</string>
+              <string>Hingoriim</string>
+              <string>Hmaag</string>
+              <string>Hobloor</string>
+              <string>Huavaddadd</string>
+              <string>Humiig</string>
+              <string>Huurh</string>
+              <string>Jhutleesh</string>
+              <string>Joaddadd</string>
+              <string>Joaddavv</string>
+              <string>Kaghoreel</string>
+              <string>Kasval</string>
+              <string>Kasvalurd</string>
+              <string>Kovublaana</string>
+              <string>Laravvbadd</string>
+              <string>Livval</string>
+              <string>Livvavafad</string>
+              <string>Maiva</string>
+              <string>Maivava</string>
+              <string>Mashgreel</string>
+              <string>Navvaluur</string>
+              <string>Oleghatuum</string>
+              <string>Oleghatuurh</string>
+              <string>Oveliaddfin</string>
+              <string>Oveliavan</string>
+              <string>Oveliava</string>
+              <string>Paddavv</string>
+              <string>Pivve</string>
+              <string>Pivvyl</string>
+              <string>Pubgluud</string>
+              <string>Pugleeg</string>
+              <string>Qovva</string>
+              <string>Qovvava</string>
+              <string>Qovvav</string>
+              <string>Ravafin</string>
+              <string>Rivval</string>
+              <string>Rivvav</string>
+              <string>Rivve</string>
+              <string>Shabanva</string>
+              <string>Shabava</string>
+              <string>Shabavv</string>
+              <string>Shunblorgh</string>
+              <string>Sonnava</string>
+              <string>Spurbliguum</string>
+              <string>Spurbliigol</string>
+              <string>Thrumaalurd</string>
+              <string>Thrumaaluud</string>
+              <string>Thuum</string>
+              <string>Thuun</string>
+              <string>Uavan</string>
+              <string>Ufinavv</string>
+              <string>Uhliadd</string>
+              <string>Uhliava</string>
+              <string>Uravva</string>
+              <string>Uravvbad</string>
+              <string>Vaddabbiva</string>
+              <string>Vaggatuum</string>
+              <string>Vagorgh</string>
+              <string>Vagoriim</string>
+              <string>Vagorilv</string>
+              <string>Vinadd</string>
+              <string>Vinavtab</string>
+              <string>Vvafin</string>
+              <string>Waddavv</string>
+              <string>Yidfrileeg</string>
+              <string>Yidfrileesh</string>
+            </Values>
+          </NameGroup>
+        </FullNames>
+        <RoyalFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Alabaratek</string>
+              <string>Cerberotek</string>
+              <string>Dagglog</string>
+              <string>Dianamotek</string>
+              <string>Elgothuum</string>
+              <string>Epirotek</string>
+              <string>Furiotek</string>
+              <string>Gargantek</string>
+              <string>Hingoriim</string>
+              <string>Hingoriotek</string>
+              <string>Horiim</string>
+              <string>Horiotek</string>
+              <string>Igorgh</string>
+              <string>Igoriotek</string>
+              <string>Ilmanahek</string>
+              <string>Krokotek</string>
+              <string>Mashgreel</string>
+              <string>Mishgirg</string>
+              <string>Monarhotek</string>
+              <string>Printotek</string>
+              <string>Regalotek</string>
+              <string>Ultimotek</string>
+              <string>Vaggatuum</string>
+              <string>Xarxotek</string>
+            </Values>
+          </NameGroup>
+        </RoyalFirstNames>
+        <RoyalSecondNames>
+          <NameGroup>
+            <Values>
+              <string>Ilmaqa</string>
+              <string>Waqqava</string>
+              <string>Xarvull</string>
+            </Values>
+          </NameGroup>
+        </RoyalSecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

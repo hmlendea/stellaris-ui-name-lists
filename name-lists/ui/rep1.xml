@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_rep1</Id>
+    <Name>UI - Reptilian 1</Name>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Values>
+            <string>Crond-Arenda</string>
+            <string>Crond-Armas</string>
+            <string>Crond-Barbat</string>
+            <string>Crond-Cadet</string>
+            <string>Crond-Cercex</string>
+            <string>Crond-Cesmat</string>
+            <string>Crond-Chiria</string>
+            <string>Crond-Cloric</string>
+            <string>Crond-Decrond</string>
+            <string>Crond-Dracu</string>
+            <string>Crond-Ergut</string>
+            <string>Crond-Fraier</string>
+            <string>Crond-Furcep</string>
+            <string>Crond-Gerped</string>
+            <string>Crond-Gilget</string>
+            <string>Crond-Goder</string>
+            <string>Crond-Harvac</string>
+            <string>Crond-Jegos</string>
+            <string>Crond-Kalodi</string>
+            <string>Crond-Karmac</string>
+            <string>Crond-Lupic</string>
+            <string>Crond-Mumbas</string>
+            <string>Crond-Naiba</string>
+            <string>Crond-Narud</string>
+            <string>Crond-Negan</string>
+            <string>Crond-Nimeni</string>
+            <string>Crond-Oprix</string>
+            <string>Crond-Pahar</string>
+            <string>Crond-Prosten</string>
+            <string>Crond-Rupe</string>
+            <string>Crond-Sapian</string>
+            <string>Crond-Spada</string>
+            <string>Crond-Spatar</string>
+            <string>Crond-Targat</string>
+            <string>Crond-Tigan</string>
+            <string>Crond-Upter</string>
+            <string>Crond-Urat</string>
+            <string>Crond-Urzut</string>
+            <string>Crond-Vezian</string>
+            <string>Crond-Vodnic</string>
+            <string>Crond-Walder</string>
+            <string>Crond-Xoder</string>
+            <string>Crond-Zalpi</string>
+            <string>Crond-Zerga</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Ships>
+    <Armies>
+      <Fleet>
+        <NameGroup>
+          <Values>
+            <string>Argon Space Tails</string>
+            <string>Brodek Space Tails</string>
+            <string>Curcut Space Tails</string>
+            <string>Daramba Space Tails</string>
+            <string>Folenga Space Tails</string>
+            <string>Forkas Space Tails</string>
+            <string>Gehand Space Tails</string>
+            <string>Jimbak Space Tails</string>
+            <string>Katanga Space Tails</string>
+            <string>Kilkax Space Tails</string>
+            <string>Kituran Space Tails</string>
+            <string>Lumberc Space Tails</string>
+            <string>Nuriba Space Tails</string>
+            <string>Opzar Space Tails</string>
+            <string>Pelgarix Space Tails</string>
+            <string>Salamandra Space Tails</string>
+          </Values>
+        </NameGroup>
+      </Fleet>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Values>
+            <string>Ankoda</string>
+            <string>Apinga</string>
+            <string>Arkata</string>
+            <string>Bihaka</string>
+            <string>Bikoda</string>
+            <string>Boperka</string>
+            <string>Colbra</string>
+            <string>Dikam</string>
+            <string>Doloka</string>
+            <string>Druhax</string>
+            <string>Duraka</string>
+            <string>Farda</string>
+            <string>Felkas</string>
+            <string>Findor</string>
+            <string>Furakex</string>
+            <string>Furka</string>
+            <string>Gargata</string>
+            <string>Garhara</string>
+            <string>Gegon</string>
+            <string>Gonda</string>
+            <string>Horka</string>
+            <string>Horsana</string>
+            <string>Jivana</string>
+            <string>Kagex</string>
+            <string>Kandaka</string>
+            <string>Karketa</string>
+            <string>Kitara</string>
+            <string>Kroka</string>
+            <string>Luperka</string>
+            <string>Narga</string>
+            <string>Opegix</string>
+            <string>Pintarak</string>
+            <string>Piroza</string>
+            <string>Polgix</string>
+            <string>Ralex</string>
+            <string>Sakada</string>
+            <string>Scagint</string>
+            <string>Serpata</string>
+            <string>Skolda</string>
+            <string>Sopinga</string>
+            <string>Sulgeta</string>
+            <string>Traka</string>
+            <string>Trinaka</string>
+            <string>Trupaka</string>
+            <string>Turhenex</string>
+            <string>Wlaka</string>
+            <string>Xorbaka</string>
+            <string>Zabarak</string>
+            <string>Zibara</string>
+            <string>Zoben</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>default</Id>
+        <Weight>100</Weight>
+        <FirstNames>
+          <NameGroup>
+            <Values>
+              <string>Armatek</string>
+              <string>Bacek</string>
+              <string>Bravcek</string>
+              <string>Crutek</string>
+              <string>Ertek</string>
+              <string>Facek</string>
+              <string>Feltek</string>
+              <string>Gacek</string>
+              <string>Guntek</string>
+              <string>Guratek</string>
+              <string>Jintek</string>
+              <string>Kratek</string>
+              <string>Lancek</string>
+              <string>Loratek</string>
+              <string>Mozek</string>
+              <string>Orotek</string>
+              <string>Parotek</string>
+              <string>Pitarcek</string>
+              <string>Portek</string>
+              <string>Racek</string>
+              <string>Trutek</string>
+              <string>Vibitek</string>
+              <string>Xantek</string>
+              <string>Zartek</string>
+            </Values>
+          </NameGroup>
+        </FirstNames>
+        <RoyalFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Alabaratek</string>
+              <string>Barbatonek</string>
+              <string>Cerberotek</string>
+              <string>Dianahek</string>
+              <string>Epirotek</string>
+              <string>Furiotek</string>
+              <string>Gargantek</string>
+              <string>Horiotek</string>
+              <string>Ilmanamotek</string>
+              <string>Krokotek</string>
+              <string>Monarhotek</string>
+              <string>Printotek</string>
+              <string>Regalotek</string>
+              <string>Ultimotek</string>
+              <string>Xarxotek</string>
+            </Values>
+          </NameGroup>
+        </RoyalFirstNames>
+        <RoyalSecondNames>
+          <NameGroup>
+            <Values>
+              <string>Baronex</string>
+              <string>Contex</string>
+              <string>Domnitorex</string>
+              <string>Ducex</string>
+              <string>Imperatorex</string>
+              <string>Monarhex</string>
+              <string>Papalex</string>
+              <string>Pharotex</string>
+              <string>Princex</string>
+              <string>Regex</string>
+              <string>Sultanex</string>
+              <string>Voivodex</string>
+            </Values>
+          </NameGroup>
+        </RoyalSecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_rep3</Id>
+    <Name>UI - Reptilian 3</Name>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Values>
+            <string>Acazizauxl</string>
+            <string>Achiruxl</string>
+            <string>Acirzhuxl</string>
+            <string>Aenqicoxl</string>
+            <string>Agutlixoxl</string>
+            <string>Aneroxl</string>
+            <string>Aneroxxixl</string>
+            <string>Anqajuxl</string>
+            <string>Areirshoxl</string>
+            <string>Arzhicoxl</string>
+            <string>Arzhoxl</string>
+            <string>Arzhuxl</string>
+            <string>Athraxl</string>
+            <string>Athrexl</string>
+            <string>Athrixl</string>
+            <string>Athroxl</string>
+            <string>Athrultuxl</string>
+            <string>Athruxl</string>
+            <string>Atluzixl</string>
+            <string>Aucoatozoxl</string>
+            <string>Aucotszauxl</string>
+            <string>Azdouxl</string>
+            <string>Badrezexl</string>
+            <string>Barqaszauxl</string>
+            <string>Batershoxl</string>
+            <string>Beccutizoxl</string>
+            <string>Bekzotuxl</string>
+            <string>Betaknoxl</string>
+            <string>Bhokakkauxl</string>
+            <string>Bhokketuxl</string>
+            <string>Bhoknoxl</string>
+            <string>Bhuntixoxl</string>
+            <string>Bokketuxl</string>
+            <string>Borzhicoxl</string>
+            <string>Borzhuxl</string>
+            <string>Borzizauxl</string>
+            <string>Botaknoxl</string>
+            <string>Braotaknoxl</string>
+            <string>Brauraxl</string>
+            <string>Braurluzixl</string>
+            <string>Brikizauxl</string>
+            <string>Brikuthrexl</string>
+            <string>Brixxaxl</string>
+            <string>Brizoxl</string>
+            <string>Brokakkauxl</string>
+            <string>Brokixl</string>
+            <string>Brokuthrexl</string>
+            <string>Brokuthruxl</string>
+            <string>Brozaxl</string>
+            <string>Brozdouxl</string>
+            <string>Chanqajuxl</string>
+            <string>Charzaxl</string>
+            <string>Chekluruxl</string>
+            <string>Cherzuxl</string>
+            <string>Chiaklaxl</string>
+            <string>Chiaxuklaxl</string>
+            <string>Chikkizauxl</string>
+            <string>Chirqicoxl</string>
+            <string>Chiruxl</string>
+            <string>Chiruxxaxl</string>
+            <string>Chirzaxl</string>
+            <string>Chirzhicoxl</string>
+            <string>Chirzuxl</string>
+            <string>Chiszizauxl</string>
+            <string>Chithrexl</string>
+            <string>Chithrixl</string>
+            <string>Chixekkauxl</string>
+            <string>Chokakkauxl</string>
+            <string>Chokketuxl</string>
+            <string>Chokkuzoxl</string>
+            <string>Choknoxl</string>
+            <string>Chuccixl</string>
+            <string>Chutlixxaxl</string>
+            <string>Criaxuklaxl</string>
+            <string>Crixxaxl</string>
+            <string>Crizoxl</string>
+            <string>Crorzhoxl</string>
+            <string>Crozaxl</string>
+            <string>Crozdouxl</string>
+            <string>Daedezixl</string>
+            <string>Daoklaxl</string>
+            <string>Darsixxaxl</string>
+            <string>Dezorzhoxl</string>
+            <string>Dezorzhuxl</string>
+            <string>Dhetaknoxl</string>
+            <string>Dhiruxl</string>
+            <string>Dhiruxxixl</string>
+            <string>Dhirzaxl</string>
+            <string>Doathrekixl</string>
+            <string>Doathrexl</string>
+            <string>Doathrixl</string>
+            <string>Doathruxl</string>
+            <string>Doatozoxl</string>
+            <string>Drathrekixl</string>
+            <string>Drathrokixl</string>
+            <string>Drathruxl</string>
+            <string>Dratszauxl</string>
+            <string>Drauraxl</string>
+            <string>Driuxxaxl</string>
+            <string>Droqajuxl</string>
+            <string>Droxxixl</string>
+            <string>Drukizauxl</string>
+            <string>Drukzuxl</string>
+            <string>Druquzuxl</string>
+            <string>Druthrekixl</string>
+            <string>Druthuxl</string>
+            <string>Druzouxl</string>
+            <string>Druzoxl</string>
+            <string>Dugaozaxl</string>
+            <string>Dukkuzouxl</string>
+            <string>Dukkuzoxl</string>
+            <string>Duklaxl</string>
+            <string>Dukluruxl</string>
+            <string>Dukzuxl</string>
+            <string>Echathruxl</string>
+            <string>Ecuzdouxl</string>
+            <string>Eiklaxl</string>
+            <string>Eikluruxl</string>
+            <string>Eikluzixl</string>
+            <string>Ejecirzuxl</string>
+            <string>Ejizdouxl</string>
+            <string>Ekakkauxl</string>
+            <string>Ekluruxl</string>
+            <string>Ekluruxxaxl</string>
+            <string>Eqerzuxl</string>
+            <string>Eqiklaxl</string>
+            <string>Eqikluzouxl</string>
+            <string>Ethraxl</string>
+            <string>Ethrekixl</string>
+            <string>Ethrexl</string>
+            <string>Ethrixl</string>
+            <string>Ethruxl</string>
+            <string>Gaknoxl</string>
+            <string>Garsixxaxl</string>
+            <string>Gaxuklaxl</string>
+            <string>Gintixoxl</string>
+            <string>Girzaxl</string>
+            <string>Girzhuxl</string>
+            <string>Girzuxl</string>
+            <string>Gograxl</string>
+            <string>Gograxxixl</string>
+            <string>Griltozoxl</string>
+            <string>Griltuxl</string>
+            <string>Griuxxaxl</string>
+            <string>Grixxaxl</string>
+            <string>Grizoxl</string>
+            <string>Grohoaxxixl</string>
+            <string>Grokakkauxl</string>
+            <string>Grokixl</string>
+            <string>Grokuthuxl</string>
+            <string>Grollixoxl</string>
+            <string>Grollixxaxl</string>
+            <string>Grorshoxl</string>
+            <string>Grorzhicoxl</string>
+            <string>Grorzhoxl</string>
+            <string>Groxxixl</string>
+            <string>Gruxxaxl</string>
+            <string>Gruxxixl</string>
+            <string>Gruzouxl</string>
+            <string>Gruzoxl</string>
+            <string>Gushrokixl</string>
+            <string>Guthrekixl</string>
+            <string>Guthruccixl</string>
+            <string>Guthuxl</string>
+            <string>Horzhicoxl</string>
+            <string>Horzhuxl</string>
+            <string>Iaklaxl</string>
+            <string>Iccauraxl</string>
+            <string>Icotszauxl</string>
+            <string>Icutszauxl</string>
+            <string>Iecirzuxl</string>
+            <string>Irukzotuxl</string>
+            <string>Irukzuxl</string>
+            <string>Isuccixl</string>
+            <string>Ittizoxl</string>
+            <string>Iuccixl</string>
+            <string>Iujuaciuxl</string>
+            <string>Jiatershoxl</string>
+            <string>Jiatluzixl</string>
+            <string>Jiltuxl</string>
+            <string>Jiltuxxaxl</string>
+            <string>Jiltuxxixl</string>
+            <string>Jitlauccixl</string>
+            <string>Jitlixoxl</string>
+            <string>Jitlixxaxl</string>
+            <string>Jiutizoxl</string>
+            <string>Jograciuxl</string>
+            <string>Jograxl</string>
+            <string>Jurnoaxxixl</string>
+            <string>Juzouxl</string>
+            <string>Kaszauxl</string>
+            <string>Kharzaxl</string>
+            <string>Khashoxl</string>
+            <string>Khiruxl</string>
+            <string>Khirzaxl</string>
+            <string>Khirzuxl</string>
+            <string>Kirqicoxl</string>
+            <string>Kregraciuxl</string>
+            <string>Kregraxl</string>
+            <string>Kregraxxixl</string>
+            <string>Krikizauxl</string>
+            <string>Krikuthuxl</string>
+            <string>Krikuxl</string>
+            <string>Krokakkauxl</string>
+            <string>Krokixl</string>
+            <string>Krokizauxl</string>
+            <string>Kukzuxl</string>
+            <string>Ocarzaxl</string>
+            <string>Ocarzizauxl</string>
+            <string>Ocathrexl</string>
+            <string>Ocatluzouxl</string>
+            <string>Ochiruxl</string>
+            <string>Okkuukzuxl</string>
+            <string>Okkuzouxl</string>
+            <string>Orikizauxl</string>
+            <string>Orikuthruxl</string>
+            <string>Orikuxl</string>
+            <string>Oszuaccixl</string>
+            <string>Oszuaciuxl</string>
+            <string>Othrekixl</string>
+            <string>Othrexl</string>
+            <string>Othriuxl</string>
+            <string>Othruxl</string>
+            <string>Oujoushraxl</string>
+            <string>Qotuxxixl</string>
+            <string>Rherzuxl</string>
+            <string>Rhetaknoxl</string>
+            <string>Rhirqicoxl</string>
+            <string>Rhiruxl</string>
+            <string>Rhirzaxl</string>
+            <string>Rhirzhicoxl</string>
+            <string>Rhirzhuxl</string>
+            <string>Rhirzuxl</string>
+            <string>Rhithrexl</string>
+            <string>Rhithriuxl</string>
+            <string>Ruklaxl</string>
+            <string>Shadrezexl</string>
+            <string>Shanqajuxl</string>
+            <string>Shrikuxl</string>
+            <string>Shriuxl</string>
+            <string>Shriuxxaxl</string>
+            <string>Shruccixl</string>
+            <string>Shrukzuxl</string>
+            <string>Shrultuxl</string>
+            <string>Shruxxaxl</string>
+            <string>Shruxxixl</string>
+            <string>Srultuxl</string>
+            <string>Srultuxxaxl</string>
+            <string>Thatroajuxl</string>
+            <string>Thiruxl</string>
+            <string>Thiruxxaxl</string>
+            <string>Thirzaxl</string>
+            <string>Thirzhoxl</string>
+            <string>Thirzhuxl</string>
+            <string>Thirzuxl</string>
+            <string>Thraszauxl</string>
+            <string>Threkixl</string>
+            <string>Thrikuxl</string>
+            <string>Thriuxl</string>
+            <string>Thriuxxaxl</string>
+            <string>Thriuxxixl</string>
+            <string>Throkixl</string>
+            <string>Throzaxl</string>
+            <string>Thukzuxl</string>
+            <string>Thutlixoxl</string>
+            <string>Trashoxl</string>
+            <string>Trikizauxl</string>
+            <string>Trikuthuxl</string>
+            <string>Trikuxl</string>
+            <string>Truukzuxl</string>
+            <string>Truxxaxl</string>
+            <string>Truxxixl</string>
+            <string>Uacuruxl</string>
+            <string>Uacuruxxaxl</string>
+            <string>Uacuruxxixl</string>
+            <string>Ucathrikuxl</string>
+            <string>Ugirqicoxl</string>
+            <string>Ujoruxxixl</string>
+            <string>Ukxoccixl</string>
+            <string>Ultuxxaxl</string>
+            <string>Uretlixoxl</string>
+            <string>Uretlixxaxl</string>
+            <string>Ursixxaxl</string>
+            <string>Urzuxashoxl</string>
+            <string>Uszruquzuxl</string>
+            <string>Uthrekixl</string>
+            <string>Uthrexl</string>
+            <string>Uthroxxixl</string>
+            <string>Uthruccixl</string>
+            <string>Uthrukzuxl</string>
+            <string>Utlixoxl</string>
+            <string>Utlixxaxl</string>
+            <string>Uzaoshoxl</string>
+            <string>Yashoxl</string>
+            <string>Yerzuxl</string>
+            <string>Zottaquzuxl</string>
+            <string>Zushraxl</string>
+            <string>Zuzouxl</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Ships>
+    <Armies>
+      <Fleet>
+        <NameGroup>
+          <Values>
+            <string>Achirqouzk Armada</string>
+            <string>Achirqozk Armada</string>
+            <string>Acichirqozk Armada</string>
+            <string>Acichizk Armada</string>
+            <string>Acichuazk Armada</string>
+            <string>Acirqouzk Armada</string>
+            <string>Aneroxxizk Armada</string>
+            <string>Athrazk Armada</string>
+            <string>Athruuzk Armada</string>
+            <string>Atichirqozk Armada</string>
+            <string>Atichizk Armada</string>
+            <string>Atichuazk Armada</string>
+            <string>Aucoazizk Armada</string>
+            <string>Aucotszizk Armada</string>
+            <string>Badruttazk Armada</string>
+            <string>Beccutizozk Armada</string>
+            <string>Beccutszizk Armada</string>
+            <string>Bhagrigozk Armada</string>
+            <string>Bhathrazk Armada</string>
+            <string>Bhathruazk Armada</string>
+            <string>Bhathruuzk Armada</string>
+            <string>Bhiszizk Armada</string>
+            <string>Bhoknoazizk Armada</string>
+            <string>Bhugrigozk Armada</string>
+            <string>Bhugruttazk Armada</string>
+            <string>Bhushrazk Armada</string>
+            <string>Brikuttazk Armada</string>
+            <string>Brizozk Armada</string>
+            <string>Brokuttazk Armada</string>
+            <string>Brokxiszizk Armada</string>
+            <string>Brokxizk Armada</string>
+            <string>Bruszruquzk Armada</string>
+            <string>Charzizk Armada</string>
+            <string>Chayottazk Armada</string>
+            <string>Chirqouzk Armada</string>
+            <string>Chirqozk Armada</string>
+            <string>Chithaqizk Armada</string>
+            <string>Choknoazizk Armada</string>
+            <string>Choyichizk Armada</string>
+            <string>Choyichuazk Armada</string>
+            <string>Criszizk Armada</string>
+            <string>Crizozk Armada</string>
+            <string>Decaziszizk Armada</string>
+            <string>Decazizk Armada</string>
+            <string>Dhetazk Armada</string>
+            <string>Dhirqouzk Armada</string>
+            <string>Dhirqozk Armada</string>
+            <string>Dhiruxxizk Armada</string>
+            <string>Drarliszizk Armada</string>
+            <string>Dratszizk Armada</string>
+            <string>Drauraxxizk Armada</string>
+            <string>Driushruazk Armada</string>
+            <string>Driuxxizk Armada</string>
+            <string>Droshruuzk Armada</string>
+            <string>Droxxizk Armada</string>
+            <string>Druqukxizk Armada</string>
+            <string>Druquzk Armada</string>
+            <string>Drushruazk Armada</string>
+            <string>Druthrazk Armada</string>
+            <string>Druthruuzk Armada</string>
+            <string>Druttazk Armada</string>
+            <string>Duchirqouzk Armada</string>
+            <string>Duchirqozk Armada</string>
+            <string>Duchizk Armada</string>
+            <string>Eccecazizk Armada</string>
+            <string>Eichirqozk Armada</string>
+            <string>Eichizk Armada</string>
+            <string>Eichuazk Armada</string>
+            <string>Ejecirqouzk Armada</string>
+            <string>Ejecirqozk Armada</string>
+            <string>Ekluruxxizk Armada</string>
+            <string>Ethrazk Armada</string>
+            <string>Ethrokxizk Armada</string>
+            <string>Ethruuzk Armada</string>
+            <string>Gaknoaxxizk Armada</string>
+            <string>Gaknoazizk Armada</string>
+            <string>Gaxunjuzk Armada</string>
+            <string>Gogracizk Armada</string>
+            <string>Gograzizk Armada</string>
+            <string>Gograzk Armada</string>
+            <string>Gogroshrazk Armada</string>
+            <string>Graxxizk Armada</string>
+            <string>Griltuxxizk Armada</string>
+            <string>Griuxxizk Armada</string>
+            <string>Grizozk Armada</string>
+            <string>Grokuttazk Armada</string>
+            <string>Grokxizk Armada</string>
+            <string>Groxxizk Armada</string>
+            <string>Grushrazk Armada</string>
+            <string>Grushruazk Armada</string>
+            <string>Gruxxizk Armada</string>
+            <string>Gushrazk Armada</string>
+            <string>Gushrokxizk Armada</string>
+            <string>Gushruazk Armada</string>
+            <string>Gushruuzk Armada</string>
+            <string>Guthrazk Armada</string>
+            <string>Icotszizk Armada</string>
+            <string>Icutizozk Armada</string>
+            <string>Icutszizk Armada</string>
+            <string>Idrujuacizk Armada</string>
+            <string>Idruthruazk Armada</string>
+            <string>Idruthruuzk Armada</string>
+            <string>Idruttaquzk Armada</string>
+            <string>Idruttazk Armada</string>
+            <string>Iecirqouzk Armada</string>
+            <string>Iecirqozk Armada</string>
+            <string>Ishugrigozk Armada</string>
+            <string>Iuccecazizk Armada</string>
+            <string>Iugruazk Armada</string>
+            <string>Iujuacizk Armada</string>
+            <string>Jigruazk Armada</string>
+            <string>Jigruthrazk Armada</string>
+            <string>Jigruttazk Armada</string>
+            <string>Jiltuxxizk Armada</string>
+            <string>Jishugruazk Armada</string>
+            <string>Jizzizk Armada</string>
+            <string>Jogracizk Armada</string>
+            <string>Jograzizk Armada</string>
+            <string>Jograzk Armada</string>
+            <string>Jugrigozk Armada</string>
+            <string>Jugruazk Armada</string>
+            <string>Jugruttazk Armada</string>
+            <string>Jurnoaxxizk Armada</string>
+            <string>Kharzizk Armada</string>
+            <string>Khirqouzk Armada</string>
+            <string>Khirqozk Armada</string>
+            <string>Kigruazk Armada</string>
+            <string>Kigruttazk Armada</string>
+            <string>Kirqouzk Armada</string>
+            <string>Kirqozk Armada</string>
+            <string>Krikuttazk Armada</string>
+            <string>Krokxizk Armada</string>
+            <string>Oacunjuzk Armada</string>
+            <string>Oacuruxxizk Armada</string>
+            <string>Ocarzizk Armada</string>
+            <string>Ocathrazk Armada</string>
+            <string>Occecazizk Armada</string>
+            <string>Ochirqozk Armada</string>
+            <string>Ogushruazk Armada</string>
+            <string>Okkushrazk Armada</string>
+            <string>Orikuttazk Armada</string>
+            <string>Oszushrazk Armada</string>
+            <string>Othruazk Armada</string>
+            <string>Othruuzk Armada</string>
+            <string>Outsziszizk Armada</string>
+            <string>Outszizk Armada</string>
+            <string>Outszuacizk Armada</string>
+            <string>Qothaqizk Armada</string>
+            <string>Qrarliszizk Armada</string>
+            <string>Rhigziszizk Armada</string>
+            <string>Rhirqozk Armada</string>
+            <string>Rhiruxxizk Armada</string>
+            <string>Rhiszizk Armada</string>
+            <string>Rhithaqizk Armada</string>
+            <string>Roushrazk Armada</string>
+            <string>Shrazizk Armada</string>
+            <string>Shrikuttazk Armada</string>
+            <string>Shriszizk Armada</string>
+            <string>Shruazk Armada</string>
+            <string>Shrushruazk Armada</string>
+            <string>Shruuzk Armada</string>
+            <string>Sochirqouzk Armada</string>
+            <string>Sochizk Armada</string>
+            <string>Sraxxizk Armada</string>
+            <string>Srultuxxizk Armada</string>
+            <string>Srushrazk Armada</string>
+            <string>Sruszruquzk Armada</string>
+            <string>Thathruazk Armada</string>
+            <string>Thirqouzk Armada</string>
+            <string>Thirqozk Armada</string>
+            <string>Thomzozk Armada</string>
+            <string>Thothaqizk Armada</string>
+            <string>Thraxxizk Armada</string>
+            <string>Thrazizk Armada</string>
+            <string>Thriszizk Armada</string>
+            <string>Throkuttazk Armada</string>
+            <string>Throthaqizk Armada</string>
+            <string>Throxxizk Armada</string>
+            <string>Thruazk Armada</string>
+            <string>Thrushruuzk Armada</string>
+            <string>Thruuzk Armada</string>
+            <string>Thushrazk Armada</string>
+            <string>Thuszruquzk Armada</string>
+            <string>Trazizk Armada</string>
+            <string>Trikuthrazk Armada</string>
+            <string>Trothaqizk Armada</string>
+            <string>Truxxizk Armada</string>
+            <string>Uacunjuzk Armada</string>
+            <string>Uacuruxxizk Armada</string>
+            <string>Ucathrazk Armada</string>
+            <string>Ucathruazk Armada</string>
+            <string>Ugirqouzk Armada</string>
+            <string>Ugirqozk Armada</string>
+            <string>Ugracizk Armada</string>
+            <string>Ugrazizk Armada</string>
+            <string>Ultuxxizk Armada</string>
+            <string>Uszratszizk Armada</string>
+            <string>Uszrichizk Armada</string>
+            <string>Uszruquzk Armada</string>
+            <string>Uthrazizk Armada</string>
+            <string>Uthrazk Armada</string>
+            <string>Uthroxxizk Armada</string>
+            <string>Uthruuzk Armada</string>
+            <string>Vathrazizk Armada</string>
+            <string>Vathrazk Armada</string>
+            <string>Vathruazk Armada</string>
+            <string>Vathruuzk Armada</string>
+            <string>Yushrazk Armada</string>
+            <string>Yushruazk Armada</string>
+            <string>Yuszrichizk Armada</string>
+            <string>Yuszruquzk Armada</string>
+            <string>Zottaquzk Armada</string>
+            <string>Zottizozk Armada</string>
+            <string>Zuanjuzk Armada</string>
+            <string>Zukxizk Armada</string>
+            <string>Zushrazk Armada</string>
+            <string>Zushruazk Armada</string>
+            <string>Zushruuzk Armada</string>
+          </Values>
+        </NameGroup>
+      </Fleet>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Values>
+              <string>Acichatrass</string>
+              <string>Aerushrass</string>
+              <string>Aeruss</string>
+              <string>Aqorshaess</string>
+              <string>Aqorshiss</string>
+              <string>Aqorsiass</string>
+              <string>Areirshiss</string>
+              <string>Areiss</string>
+              <string>Arzhuss</string>
+              <string>Athraess</string>
+              <string>Athrass</string>
+              <string>Athridoss</string>
+              <string>Athrusess</string>
+              <string>Athrushrass</string>
+              <string>Athruss</string>
+              <string>Badrujuss</string>
+              <string>Badruthruss</string>
+              <string>Batershaess</string>
+              <string>Batershiss</string>
+              <string>Betakzass</string>
+              <string>Bhathraess</string>
+              <string>Bhathrass</string>
+              <string>Bhathrusess</string>
+              <string>Bhathruss</string>
+              <string>Bhatrass</string>
+              <string>Bhiss</string>
+              <string>Bhushraess</string>
+              <string>Bhuss</string>
+              <string>Biatershiss</string>
+              <string>Biatluzoss</string>
+              <string>Birshaess</string>
+              <string>Birshiss</string>
+              <string>Bokkushruss</string>
+              <string>Bokkuukzass</string>
+              <string>Bokkuukzoss</string>
+              <string>Botakzass</string>
+              <string>Brahukzass</string>
+              <string>Braotakzass</string>
+              <string>Brass</string>
+              <string>Braurluzoss</string>
+              <string>Briknishuss</string>
+              <string>Brikuthrass</string>
+              <string>Brikuthruss</string>
+              <string>Brixireiss</string>
+              <string>Broshraess</string>
+              <string>Brozarsiass</string>
+              <string>Brozdoss</string>
+              <string>Brusess</string>
+              <string>Brushraess</string>
+              <string>Brushrusess</string>
+              <string>Brushruss</string>
+              <string>Bruss</string>
+              <string>Bruukzass</string>
+              <string>Bruukzoss</string>
+              <string>Chaess</string>
+              <string>Chayorshiss</string>
+              <string>Chirzhuss</string>
+              <string>Chuccass</string>
+              <string>Chuccecass</string>
+              <string>Chukzass</string>
+              <string>Chukzoss</string>
+              <string>Creirshaess</string>
+              <string>Creirshiss</string>
+              <string>Creiss</string>
+              <string>Criass</string>
+              <string>Crishuss</string>
+              <string>Crorshaess</string>
+              <string>Crorshiss</string>
+              <string>Crorzhuss</string>
+              <string>Crozarsiass</string>
+              <string>Crozdoss</string>
+              <string>Darsiass</string>
+              <string>Decass</string>
+              <string>Decazishuss</string>
+              <string>Dezorzhuss</string>
+              <string>Dhetakzass</string>
+              <string>Dhirzhuss</string>
+              <string>Dozarsiass</string>
+              <string>Draqorshiss</string>
+              <string>Draqorsiass</string>
+              <string>Drass</string>
+              <string>Drauqishuss</string>
+              <string>Draurluzoss</string>
+              <string>Drishuss</string>
+              <string>Driushraess</string>
+              <string>Driushruss</string>
+              <string>Droshraess</string>
+              <string>Droshruss</string>
+              <string>Drukzass</string>
+              <string>Drukzoss</string>
+              <string>Druqishuss</string>
+              <string>Drusess</string>
+              <string>Drushraess</string>
+              <string>Druss</string>
+              <string>Druthruss</string>
+              <string>Dukzass</string>
+              <string>Dukzoss</string>
+              <string>Echathraess</string>
+              <string>Echathruss</string>
+              <string>Echatrass</string>
+              <string>Eichirzhuss</string>
+              <string>Ejecirzhuss</string>
+              <string>Ekerusess</string>
+              <string>Ekeruss</string>
+              <string>Ethraess</string>
+              <string>Ethrass</string>
+              <string>Ethridoss</string>
+              <string>Ethrishuss</string>
+              <string>Ethrusess</string>
+              <string>Ethruss</string>
+              <string>Garsiass</string>
+              <string>Gaxatrass</string>
+              <string>Girzhuss</string>
+              <string>Griushruss</string>
+              <string>Grixireiss</string>
+              <string>Grixxatrass</string>
+              <string>Grorshaess</string>
+              <string>Grorshiss</string>
+              <string>Grorzhuss</string>
+              <string>Groshraess</string>
+              <string>Grukzass</string>
+              <string>Grukzoss</string>
+              <string>Grusess</string>
+              <string>Grushraess</string>
+              <string>Grushruss</string>
+              <string>Gruss</string>
+              <string>Gruxxatrass</string>
+              <string>Gruzoss</string>
+              <string>Gushraess</string>
+              <string>Gushrass</string>
+              <string>Gushrusess</string>
+              <string>Gushruss</string>
+              <string>Guthraess</string>
+              <string>Guthrass</string>
+              <string>Guthridoss</string>
+              <string>Guthrozdoss</string>
+              <string>Guthruccass</string>
+              <string>Guthruss</string>
+              <string>Horzhuss</string>
+              <string>Iccass</string>
+              <string>Iecirzhuss</string>
+              <string>Imzaoshruss</string>
+              <string>Ishuss</string>
+              <string>Isuccass</string>
+              <string>Isuccecass</string>
+              <string>Itlauccass</string>
+              <string>Iuccass</string>
+              <string>Iuccecass</string>
+              <string>Iujuss</string>
+              <string>Jarozdoss</string>
+              <string>Jiatershiss</string>
+              <string>Jiatluzoss</string>
+              <string>Jiknishuss</string>
+              <string>Jishuss</string>
+              <string>Jitlauccass</string>
+              <string>Jitluzoss</string>
+              <string>Juzoshrass</string>
+              <string>Juzoss</string>
+              <string>Katluzoss</string>
+              <string>Khirzhuss</string>
+              <string>Krahukzass</string>
+              <string>Krahukzoss</string>
+              <string>Krershaess</string>
+              <string>Kriass</string>
+              <string>Krokuthrass</string>
+              <string>Kukzass</string>
+              <string>Ocathraess</string>
+              <string>Ocathrass</string>
+              <string>Ocathridoss</string>
+              <string>Ocathruss</string>
+              <string>Ocatluzoss</string>
+              <string>Occecass</string>
+              <string>Ochatrass</string>
+              <string>Ocohukzass</string>
+              <string>Ocohukzoss</string>
+              <string>Ogushraess</string>
+              <string>Ogushrass</string>
+              <string>Ogushruss</string>
+              <string>Okkushraess</string>
+              <string>Okkushrass</string>
+              <string>Okkushruss</string>
+              <string>Okkuukzass</string>
+              <string>Okkuukzoss</string>
+              <string>Oriknishuss</string>
+              <string>Orshaess</string>
+              <string>Orshiss</string>
+              <string>Orsiass</string>
+              <string>Othraess</string>
+              <string>Othrass</string>
+              <string>Othridoss</string>
+              <string>Othrusess</string>
+              <string>Othruss</string>
+              <string>Rhigzishuss</string>
+              <string>Rhirzhuss</string>
+              <string>Rhiss</string>
+              <string>Rhukzoss</string>
+              <string>Rhuss</string>
+              <string>Shadrujuss</string>
+              <string>Shess</string>
+              <string>Shrass</string>
+              <string>Shridoss</string>
+              <string>Shrishuss</string>
+              <string>Shruccass</string>
+              <string>Shruccecass</string>
+              <string>Shrusess</string>
+              <string>Shrushraess</string>
+              <string>Shruukzass</string>
+              <string>Shruukzoss</string>
+              <string>Sraess</string>
+              <string>Srusess</string>
+              <string>Srushrass</string>
+              <string>Sruss</string>
+              <string>Suzass</string>
+              <string>Thathrass</string>
+              <string>Thathridoss</string>
+              <string>Thatrass</string>
+              <string>Thraess</string>
+              <string>Thrazishuss</string>
+              <string>Thrershaess</string>
+              <string>Thrershiss</string>
+              <string>Thridoss</string>
+              <string>Thrishuss</string>
+              <string>Thruccass</string>
+              <string>Thrusess</string>
+              <string>Thrushrass</string>
+              <string>Thruss</string>
+              <string>Thukzass</string>
+              <string>Thukzoss</string>
+              <string>Thushraess</string>
+              <string>Trass</string>
+              <string>Trazishuss</string>
+              <string>Trikuthrass</string>
+              <string>Truukzass</string>
+              <string>Truukzoss</string>
+              <string>Ucathraess</string>
+              <string>Ucathrass</string>
+              <string>Ucathridoss</string>
+              <string>Ucathrusess</string>
+              <string>Ucathruss</string>
+              <string>Ucatluzoss</string>
+              <string>Uccass</string>
+              <string>Ursiass</string>
+              <string>Uthraess</string>
+              <string>Uthrass</string>
+              <string>Uthridoss</string>
+              <string>Uthrozdoss</string>
+              <string>Uthrusess</string>
+              <string>Uthruss</string>
+              <string>Vathraess</string>
+              <string>Vathrass</string>
+              <string>Vathridoss</string>
+              <string>Vathrishuss</string>
+              <string>Vathrozdoss</string>
+              <string>Vathrusess</string>
+              <string>Vathruss</string>
+              <string>Yushraess</string>
+              <string>Yushrass</string>
+              <string>Yushruccass</string>
+              <string>Yushruss</string>
+              <string>Zeiss</string>
+              <string>Zushraess</string>
+              <string>Zushrass</string>
+              <string>Zushrozdoss</string>
+              <string>Zushruss</string>
+              <string>Zuzoss</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>default</Id>
+        <Weight>100</Weight>
+        <FullNames>
+          <NameGroup>
+            <Values>
+              <string>Acirqi</string>
+              <string>Acirqouzk</string>
+              <string>Acirqox</string>
+              <string>Agutlasza</string>
+              <string>Athrazusz</string>
+              <string>Athroz</string>
+              <string>Atichuak</string>
+              <string>Atichuazk</string>
+              <string>Atluk</string>
+              <string>Atluzosz</string>
+              <string>Atluz</string>
+              <string>Aucoazizk</string>
+              <string>Aucotszishk</string>
+              <string>Aucotszisk</string>
+              <string>Aucotszoqu</string>
+              <string>Bhagrigozk</string>
+              <string>Bhagrijoshk</string>
+              <string>Bhatrashk</string>
+              <string>Bhiszishk</string>
+              <string>Bhisziz</string>
+              <string>Bhisz</string>
+              <string>Bhoji</string>
+              <string>Bhokakkiz</string>
+              <string>Bhokkushk</string>
+              <string>Bhugru</string>
+              <string>Bhugruthuxl</string>
+              <string>Bhugua</string>
+              <string>Bhujattuk</string>
+              <string>Bhuntixo</string>
+              <string>Bhuszra</string>
+              <string>Bhusz</string>
+              <string>Bhuusz</string>
+              <string>Brauraxl</string>
+              <string>Braurluzosz</string>
+              <string>Braurluzox</string>
+              <string>Brikiknishk</string>
+              <string>Brikikni</string>
+              <string>Brikiz</string>
+              <string>Brikni</string>
+              <string>Briknuat</string>
+              <string>Brikuthro</string>
+              <string>Brikuttusk</string>
+              <string>Brixxaosz</string>
+              <string>Brixxatrasz</string>
+              <string>Brizoxl</string>
+              <string>Brokiz</string>
+              <string>Brokuttazk</string>
+              <string>Brokuttushk</string>
+              <string>Brokxiszisz</string>
+              <string>Broshk</string>
+              <string>Broshot</string>
+              <string>Brozaxl</string>
+              <string>Brushk</string>
+              <string>Brusz</string>
+              <string>Bruukitluz</string>
+              <string>Bruuzk</string>
+              <string>Charnikkiti</string>
+              <string>Charnikkiz</string>
+              <string>Charniucoaz</string>
+              <string>Chauszra</string>
+              <string>Chausz</string>
+              <string>Chikkiz</string>
+              <string>Chikko</string>
+              <string>Chirqox</string>
+              <string>Chirqozk</string>
+              <string>Chithaqizk</string>
+              <string>Chokakkiz</string>
+              <string>Chokaorla</string>
+              <string>Chokkushk</string>
+              <string>Choknoaxot</string>
+              <string>Choknoujiu</string>
+              <string>Chouxl</string>
+              <string>Choux</string>
+              <string>Chukosk</string>
+              <string>Chuuhoji</string>
+              <string>Draqorsix</string>
+              <string>Drashk</string>
+              <string>Drauqishk</string>
+              <string>Drausk</string>
+              <string>Drishk</string>
+              <string>Drisz</string>
+              <string>Driushk</string>
+              <string>Driushrashk</string>
+              <string>Driuxl</string>
+              <string>Droqajuxl</string>
+              <string>Droqask</string>
+              <string>Droqat</string>
+              <string>Droshk</string>
+              <string>Drosk</string>
+              <string>Drosz</string>
+              <string>Drotha</string>
+              <string>Drothot</string>
+              <string>Droxausk</string>
+              <string>Droxxiz</string>
+              <string>Drukiqatzi</string>
+              <string>Drukitlusk</string>
+              <string>Drukzashk</string>
+              <string>Drukzuxashk</string>
+              <string>Druqishk</string>
+              <string>Druqiuntixo</string>
+              <string>Druqix</string>
+              <string>Druqukxisz</string>
+              <string>Druqukxiz</string>
+              <string>Druquzk</string>
+              <string>Drushk</string>
+              <string>Druthrisk</string>
+              <string>Druthru</string>
+              <string>Druthuxl</string>
+              <string>Druttusk</string>
+              <string>Drutuk</string>
+              <string>Gaknoaxxima</string>
+              <string>Gaknoujiu</string>
+              <string>Garsix</string>
+              <string>Gaxattushru</string>
+              <string>Gaxattusk</string>
+              <string>Gaxuk</string>
+              <string>Ginti</string>
+              <string>Gintuux</string>
+              <string>Girzuszra</string>
+              <string>Girzuxl</string>
+              <string>Gixanjo</string>
+              <string>Gixanjousk</string>
+              <string>Goszoqat</string>
+              <string>Graxl</string>
+              <string>Griltozox</string>
+              <string>Griltut</string>
+              <string>Griltuxl</string>
+              <string>Griushk</string>
+              <string>Griushruak</string>
+              <string>Griuxl</string>
+              <string>Griuxusk</string>
+              <string>Griuxxaxl</string>
+              <string>Griuxxiz</string>
+              <string>Grixl</string>
+              <string>Grixxaxuk</string>
+              <string>Grizoxl</string>
+              <string>Grizox</string>
+              <string>Grizozk</string>
+              <string>Grohoaxotha</string>
+              <string>Grohoaxot</string>
+              <string>Grokuttuk</string>
+              <string>Grollix</string>
+              <string>Grollixxot</string>
+              <string>Grorsat</string>
+              <string>Grorsix</string>
+              <string>Grosho</string>
+              <string>Grosk</string>
+              <string>Grosz</string>
+              <string>Groxl</string>
+              <string>Grukiqatzi</string>
+              <string>Grukzashk</string>
+              <string>Grukzuxashk</string>
+              <string>Grushk</string>
+              <string>Gruxl</string>
+              <string>Gruxuutuk</string>
+              <string>Gruxxaosz</string>
+              <string>Gruxxixl</string>
+              <string>Gruxxiz</string>
+              <string>Gruzoshk</string>
+              <string>Gruzouk</string>
+              <string>Gushrazk</string>
+              <string>Gushro</string>
+              <string>Guthro</string>
+              <string>Guxusk</string>
+              <string>Guxuutuux</string>
+              <string>Icotsza</string>
+              <string>Icotszauxl</string>
+              <string>Icotszit</string>
+              <string>Icotszizk</string>
+              <string>Icotszoqu</string>
+              <string>Icutszauxl</string>
+              <string>Icutszit</string>
+              <string>Icutszoqu</string>
+              <string>Imzaoshk</string>
+              <string>Itlasz</string>
+              <string>Itlauccit</string>
+              <string>Iuccauraxl</string>
+              <string>Iuccinti</string>
+              <string>Iuccit</string>
+              <string>Iuccixl</string>
+              <string>Iugru</string>
+              <string>Iujuaccit</string>
+              <string>Iujuacizk</string>
+              <string>Jaroz</string>
+              <string>Jigozk</string>
+              <string>Jiknuat</string>
+              <string>Jitlix</string>
+              <string>Jitluk</string>
+              <string>Jitlusk</string>
+              <string>Jizzizk</string>
+              <string>Jogroshk</string>
+              <string>Jogrosk</string>
+              <string>Jogrosz</string>
+              <string>Jozurnu</string>
+              <string>Jugrigoushk</string>
+              <string>Jugrigozk</string>
+              <string>Jugrijosk</string>
+              <string>Jugru</string>
+              <string>Jugrutuux</string>
+              <string>Jurnax</string>
+              <string>Jurnoaxot</string>
+              <string>Jurnoazishk</string>
+              <string>Jurnu</string>
+              <string>Juzoshot</string>
+              <string>Juzosz</string>
+              <string>Juzox</string>
+              <string>Kigruak</string>
+              <string>Kigru</string>
+              <string>Kirqicoxl</string>
+              <string>Kirqox</string>
+              <string>Krikuthrasz</string>
+              <string>Krokaorla</string>
+              <string>Krokuttazk</string>
+              <string>Ocathrok</string>
+              <string>Ocatluzouk</string>
+              <string>Ochathro</string>
+              <string>Ocohukosk</string>
+              <string>Ogushk</string>
+              <string>Ogushrasz</string>
+              <string>Ogushrot</string>
+              <string>Ogushrozaxl</string>
+              <string>Oszuaccixl</string>
+              <string>Oszuaciuxl</string>
+              <string>Oszuszrat</string>
+              <string>Othrishk</string>
+              <string>Othroz</string>
+              <string>Outszisz</string>
+              <string>Outszoqu</string>
+              <string>Qothaqizk</string>
+              <string>Qotha</string>
+              <string>Rhikkiz</string>
+              <string>Rhikko</string>
+              <string>Rhikkotza</string>
+              <string>Rhirzuxashk</string>
+              <string>Rhushk</string>
+              <string>Roushk</string>
+              <string>Thashk</string>
+              <string>Thask</string>
+              <string>Thatrashk</string>
+              <string>Thatrasza</string>
+              <string>Thatrasz</string>
+              <string>Thatroaju</string>
+              <string>Thrikiz</string>
+              <string>Thrisz</string>
+              <string>Thriuxl</string>
+              <string>Thriuxu</string>
+              <string>Thriuxuutuk</string>
+              <string>Thriuxxaxl</string>
+              <string>Thriuxxot</string>
+              <string>Throkaorla</string>
+              <string>Throsk</string>
+              <string>Thruazk</string>
+              <string>Thruaz</string>
+              <string>Thrultut</string>
+              <string>Thuahashk</string>
+              <string>Thuaz</string>
+              <string>Thuszra</string>
+              <string>Thusz</string>
+              <string>Thutlasz</string>
+              <string>Trazizk</string>
+              <string>Trazushra</string>
+              <string>Trikiknishk</string>
+              <string>Trikiknuat</string>
+              <string>Trikiz</string>
+              <string>Trotha</string>
+              <string>Truukiqat</string>
+              <string>Truukzashk</string>
+              <string>Truxl</string>
+              <string>Truxxaxuk</string>
+              <string>Truxxixl</string>
+              <string>Truxxiz</string>
+              <string>Truxxothot</string>
+              <string>Uacunju</string>
+              <string>Uacunjuzk</string>
+              <string>Uacurux</string>
+              <string>Ucatloji</string>
+              <string>Ucatlot</string>
+              <string>Uccaurluz</string>
+              <string>Ukxoccixl</string>
+              <string>Ultuxl</string>
+              <string>Ultuxxizk</string>
+              <string>Ursisk</string>
+              <string>Uszrichuak</string>
+              <string>Vathroxxixl</string>
+              <string>Yushk</string>
+              <string>Yushroxl</string>
+              <string>Zottaquzk</string>
+              <string>Zottaquz</string>
+              <string>Zuanjousk</string>
+              <string>Zukxiszit</string>
+              <string>Zukxiszizk</string>
+              <string>Zukxizk</string>
+              <string>Zukxiz</string>
+              <string>Zukxu</string>
+              <string>Zushrot</string>
+              <string>Zuzoshk</string>
+              <string>Zuzoshot</string>
+              <string>Zuzosz</string>
+            </Values>
+          </NameGroup>
+        </FullNames>
+        <RoyalFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Achirzeiqu</string>
+              <string>Acirzeiqu</string>
+              <string>Areirzeiqu</string>
+              <string>Aucotszoqu</string>
+              <string>Beccutszoqu</string>
+              <string>Broszoqu</string>
+              <string>Chanroszoqu</string>
+              <string>Chirzeiqu</string>
+              <string>Creirzeiqu</string>
+              <string>Crorzeiqu</string>
+              <string>Dezorzeiqu</string>
+              <string>Droszoqu</string>
+              <string>Drukzoszoqu</string>
+              <string>Dukzoszoqu</string>
+              <string>Ejecirzeiqu</string>
+              <string>Girzeiqu</string>
+              <string>Gogroszoqu</string>
+              <string>Goszoqu</string>
+              <string>Grorzeiqu</string>
+              <string>Groszoqu</string>
+              <string>Grukzoszoqu</string>
+              <string>Gruzoszoqu</string>
+              <string>Horzeiqu</string>
+              <string>Icotszoqu</string>
+              <string>Icutszoqu</string>
+              <string>Iecirzeiqu</string>
+              <string>Imzaoszoqu</string>
+              <string>Isanroszoqu</string>
+              <string>Jogroszoqu</string>
+              <string>Juzoszoqu</string>
+              <string>Kukzoszoqu</string>
+              <string>Ochirzeiqu</string>
+              <string>Outszoqu</string>
+              <string>Rherzeiqu</string>
+              <string>Rhirzeiqu</string>
+              <string>Shanroszoqu</string>
+              <string>Thirzeiqu</string>
+              <string>Uszratszoqu</string>
+              <string>Voszoqu</string>
+              <string>Zuzoszoqu</string>
+            </Values>
+          </NameGroup>
+        </RoyalFirstNames>
+        <RoyalSecondNames>
+          <NameGroup>
+            <Values>
+              <string>Athrax</string>
+              <string>Brozax</string>
+              <string>Criax</string>
+              <string>Crozax</string>
+              <string>Dozax</string>
+              <string>Girzax</string>
+              <string>Grax</string>
+              <string>Ieciax</string>
+              <string>Jurnax</string>
+              <string>Kriax</string>
+              <string>Othrax</string>
+              <string>Shrax</string>
+              <string>Thrax</string>
+              <string>Uthrax</string>
+            </Values>
+          </NameGroup>
+        </RoyalSecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

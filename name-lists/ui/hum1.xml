@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_hum1</Id>
+    <Name>UI - Humanoid 1</Name>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Values>
+            <string>Astanir</string>
+            <string>Bandomar</string>
+            <string>Dagrevel</string>
+            <string>Egravor</string>
+            <string>Ertodil</string>
+            <string>Evremar</string>
+            <string>Remblenor</string>
+            <string>Ribiator</string>
+            <string>Rogator</string>
+            <string>Ustagranor</string>
+            <string>Vargolir</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Ships>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Values>
+            <string>Abranur</string>
+            <string>Acatobor</string>
+            <string>Adromol</string>
+            <string>Agrol</string>
+            <string>Balteril</string>
+            <string>Brenor</string>
+            <string>Calanur</string>
+            <string>Cetregol</string>
+            <string>Elverog</string>
+            <string>Fangur</string>
+            <string>Flopur</string>
+            <string>Galagur</string>
+            <string>Madrog</string>
+            <string>Miscavor</string>
+            <string>Nurilond</string>
+            <string>Raglenor</string>
+            <string>Ritogol</string>
+            <string>Robor</string>
+            <string>Romeril</string>
+            <string>Scalgur</string>
+            <string>Tolvor</string>
+            <string>Trogol</string>
+            <string>Turgol</string>
+            <string>Ugranur</string>
+            <string>Vertil</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>default</Id>
+        <Weight>100</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Agradon</string>
+              <string>Alcor</string>
+              <string>Barlond</string>
+              <string>Bosgor</string>
+              <string>Branor</string>
+              <string>Buralog</string>
+              <string>Cobol</string>
+              <string>Elviron</string>
+              <string>Fegaton</string>
+              <string>Galvac</string>
+              <string>Gerebog</string>
+              <string>Goldomar</string>
+              <string>Gropatur</string>
+              <string>Gursol</string>
+              <string>Hagranor</string>
+              <string>Norilond</string>
+              <string>Racnum</string>
+              <string>Robilor</string>
+              <string>Scutnum</string>
+              <string>Staldir</string>
+              <string>Stelevon</string>
+              <string>Torbon</string>
+              <string>Trebin</string>
+              <string>Ugrobor</string>
+              <string>Vestor</string>
+            </Values>
+          </NameGroup>
+        </MaleFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Aleny</string>
+              <string>Asny</string>
+              <string>Blonvy</string>
+              <string>Catny</string>
+              <string>Gutny</string>
+              <string>Masvy</string>
+              <string>Olby</string>
+              <string>Perny</string>
+              <string>Racny</string>
+              <string>Salovy</string>
+              <string>Scutny</string>
+              <string>Usna</string>
+              <string>Vorny</string>
+            </Values>
+          </NameGroup>
+        </FemaleFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Values>
+              <string>pro Abranur</string>
+              <string>pro Balteril</string>
+              <string>pro Brenor</string>
+              <string>pro Cetregol</string>
+              <string>pro Flopur</string>
+              <string>pro Madrog</string>
+              <string>pro Nurilond</string>
+              <string>pro Ritogol</string>
+              <string>pro Robor</string>
+              <string>pro Scalgur</string>
+              <string>pro Tolvor</string>
+              <string>pro Turgol</string>
+              <string>pro Ugranur</string>
+              <string>pro Vertil</string>
+            </Values>
+          </NameGroup>
+        </SecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

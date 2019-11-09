@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_art1</Id>
+    <Name>UI - Arthropoid 1</Name>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Values>
+            <string>Azradenaz</string>
+            <string>Cazudivuz</string>
+            <string>Chuabifuz</string>
+            <string>Danolnokavuz</string>
+            <string>Dinutazaz</string>
+            <string>Dudonumolukoz</string>
+            <string>Duzzejajikonaz</string>
+            <string>Ebemphadegaruzz</string>
+            <string>Evudodocuz</string>
+            <string>Evukuzzeruaz</string>
+            <string>Ezzackkidoz</string>
+            <string>Flomotruraz</string>
+            <string>Gaahumoraz</string>
+            <string>Gedodrimaaz</string>
+            <string>Gogrodizz</string>
+            <string>Guzebelnaz</string>
+            <string>Inelorrarazz</string>
+            <string>Iragevavez</string>
+            <string>Jadibigenozz</string>
+            <string>Jadudrrnaz</string>
+            <string>Jagrerinolruz</string>
+            <string>Jalridazz</string>
+            <string>Janukokulgaz</string>
+            <string>Jasuvibaz</string>
+            <string>Jibadikkaz</string>
+            <string>Jitsahaazruaz</string>
+            <string>Joggagizzez</string>
+            <string>Jokegebraribozz</string>
+            <string>Jotcumaaz</string>
+            <string>Juvethoginoz</string>
+            <string>Kaguegoruzz</string>
+            <string>Kammasazz</string>
+            <string>Kamutrnosaz</string>
+            <string>Kazrugingazz</string>
+            <string>Khajaarathuz</string>
+            <string>Khenokazz</string>
+            <string>Khimruaboz</string>
+            <string>Kruejomez</string>
+            <string>Kuaddradrimuz</string>
+            <string>Kukrukozz</string>
+            <string>Laaromotrodovez</string>
+            <string>Libebanaz</string>
+            <string>Limatcorukaz</string>
+            <string>Lirivaaguz</string>
+            <string>Mijavejizz</string>
+            <string>Mitckunezz</string>
+            <string>Mubilegrduz</string>
+            <string>Mukkagazz</string>
+            <string>Muzeatthilamezz</string>
+            <string>Nagrnnaaz</string>
+            <string>Nejedreamamuz</string>
+            <string>Nemarlgalaz</string>
+            <string>Ninazcuzejutaz</string>
+            <string>Nizrozegejalaz</string>
+            <string>Nukrodruz</string>
+            <string>Okoggasonezz</string>
+            <string>Orunatttaz</string>
+            <string>Qahirinuz</string>
+            <string>Qebodacoz</string>
+            <string>Qebogarikiz</string>
+            <string>Qerikahaazz</string>
+            <string>Qikanogez</string>
+            <string>Qivejogroruzz</string>
+            <string>Qomavavilguz</string>
+            <string>Qonuvinaalez</string>
+            <string>Quaginubomorraz</string>
+            <string>Quckuerrejaz</string>
+            <string>Quvemagemumazz</string>
+            <string>Ralvanunoritruz</string>
+            <string>Ranaduzorogazz</string>
+            <string>Rodanempozz</string>
+            <string>Rudavogoz</string>
+            <string>Rukebeguz</string>
+            <string>Rukoravekozz</string>
+            <string>Rulolaaz</string>
+            <string>Runubujuz</string>
+            <string>Seveaduzz</string>
+            <string>Shutsqiduz</string>
+            <string>Silaluarijuvnaz</string>
+            <string>Smrattroz</string>
+            <string>Tesojomruveruz</string>
+            <string>Uamuavezzuzz</string>
+            <string>Uriahukuaanuzz</string>
+            <string>Urodikukaz</string>
+            <string>Vakuezrirrudezz</string>
+            <string>Vanimudrozz</string>
+            <string>Vavabudoz</string>
+            <string>Vrrugijiz</string>
+            <string>Vuzzelgaz</string>
+            <string>Wulbreredathuz</string>
+            <string>Xemarujaz</string>
+            <string>Xemomododaz</string>
+            <string>Xiomazraaz</string>
+            <string>Zeaanngaz</string>
+            <string>Zenisckaz</string>
+            <string>Zidavamanabroz</string>
+            <string>Zimuserrevez</string>
+            <string>Zudruneduz</string>
+            <string>Zukkejodovaz</string>
+            <string>Zukkkazcolvovaz</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Ships>
+    <Armies>
+      <Fleet>
+        <NameGroup>
+          <Values>
+              <string>Abakod Space Swarm</string>
+              <string>Ajaanuno Space Swarm</string>
+              <string>Ajahanacot Space Swarm</string>
+              <string>Azokkket Space Swarm</string>
+              <string>Buavoi Space Swarm</string>
+              <string>Camoth Space Swarm</string>
+              <string>Canasun Space Swarm</string>
+              <string>Cranunith Space Swarm</string>
+              <string>Crinoth Space Swarm</string>
+              <string>Critabaz Space Swarm</string>
+              <string>Crunil Space Swarm</string>
+              <string>Cyogivaah Space Swarm</string>
+              <string>Dabogroz Space Swarm</string>
+              <string>Dumazes Space Swarm</string>
+              <string>Duzruvoz Space Swarm</string>
+              <string>Ebikan Space Swarm</string>
+              <string>Ekenex Space Swarm</string>
+              <string>Ekoddumuz Space Swarm</string>
+              <string>Flamon Space Swarm</string>
+              <string>Flgelok Space Swarm</string>
+              <string>Flkkum Space Swarm</string>
+              <string>Gaagren Space Swarm</string>
+              <string>Gaconunux Space Swarm</string>
+              <string>Gatenifun Space Swarm</string>
+              <string>Gomarux Space Swarm</string>
+              <string>Hamaaz Space Swarm</string>
+              <string>Inolvirad Space Swarm</string>
+              <string>Irnidd Space Swarm</string>
+              <string>Izajod Space Swarm</string>
+              <string>Izzogr Space Swarm</string>
+              <string>Janottth Space Swarm</string>
+              <string>Jigirettts Space Swarm</string>
+              <string>Jirigimaam Space Swarm</string>
+              <string>Jivejem Space Swarm</string>
+              <string>Jujage Space Swarm</string>
+              <string>Juzzes Space Swarm</string>
+              <string>Kajaruras Space Swarm</string>
+              <string>Kanuackux Space Swarm</string>
+              <string>Kaurscorom Space Swarm</string>
+              <string>Khogugin Space Swarm</string>
+              <string>Kimumd Space Swarm</string>
+              <string>Kisqinom Space Swarm</string>
+              <string>Kittecodaz Space Swarm</string>
+              <string>Krukinun Space Swarm</string>
+              <string>Kudvuken Space Swarm</string>
+              <string>Kugimol Space Swarm</string>
+              <string>Kugukr Space Swarm</string>
+              <string>Kuvevex Space Swarm</string>
+              <string>Nedoge Space Swarm</string>
+              <string>Negrraz Space Swarm</string>
+              <string>Nijurimmm Space Swarm</string>
+              <string>Okackorum Space Swarm</string>
+              <string>Okobejex Space Swarm</string>
+              <string>Onuban Space Swarm</string>
+              <string>Orununaaa Space Swarm</string>
+              <string>Otebajox Space Swarm</string>
+              <string>Penomarex Space Swarm</string>
+              <string>Qidrmirola Space Swarm</string>
+              <string>Qigoga Space Swarm</string>
+              <string>Qimockez Space Swarm</string>
+              <string>Racosux Space Swarm</string>
+              <string>Ralubanom Space Swarm</string>
+              <string>Ratthah Space Swarm</string>
+              <string>Redukod Space Swarm</string>
+              <string>Rukrozz Space Swarm</string>
+              <string>Rulbots Space Swarm</string>
+              <string>Ruzras Space Swarm</string>
+              <string>Sagovedoze Space Swarm</string>
+              <string>Sagrurrux Space Swarm</string>
+              <string>Saranodrex Space Swarm</string>
+              <string>Sivanom Space Swarm</string>
+              <string>Smmoth Space Swarm</string>
+              <string>Soraas Space Swarm</string>
+              <string>Sozodosa Space Swarm</string>
+              <string>Stemrrezeh Space Swarm</string>
+              <string>Sthuts Space Swarm</string>
+              <string>Sthuvogen Space Swarm</string>
+              <string>Sudomumat Space Swarm</string>
+              <string>Sukkaah Space Swarm</string>
+              <string>Sukvumudi Space Swarm</string>
+              <string>Tigraz Space Swarm</string>
+              <string>Timubom Space Swarm</string>
+              <string>Tinikuzed Space Swarm</string>
+              <string>Ugemmud Space Swarm</string>
+              <string>Ugotith Space Swarm</string>
+              <string>Uguvix Space Swarm</string>
+              <string>Vaattsah Space Swarm</string>
+              <string>Vascurd Space Swarm</string>
+              <string>Vibedr Space Swarm</string>
+              <string>Vrugrath Space Swarm</string>
+              <string>Vrukogux Space Swarm</string>
+              <string>Vubrux Space Swarm</string>
+              <string>Wammanumre Space Swarm</string>
+              <string>Wimuzex Space Swarm</string>
+              <string>Zejorager Space Swarm</string>
+              <string>Zeluathe Space Swarm</string>
+              <string>Zenerid Space Swarm</string>
+              <string>Zodoma Space Swarm</string>
+              <string>Zuanuh Space Swarm</string>
+          </Values>
+        </NameGroup>
+      </Fleet>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Values>
+            <string>Blacken</string>
+            <string>Brackrose</string>
+            <string>Braunfelsee</string>
+            <string>Carmarsh</string>
+            <string>Carmont</string>
+            <string>Hels</string>
+            <string>Helsee</string>
+            <string>Kels</string>
+            <string>Kelstrom</string>
+            <string>Marmar</string>
+            <string>Marmarsh</string>
+            <string>Morn</string>
+            <string>Pantan</string>
+            <string>Panton</string>
+            <string>Redscalemar</string>
+            <string>Scale</string>
+            <string>Scalemar</string>
+            <string>Thorness</string>
+            <string>Trantan</string>
+            <string>Trantano</string>
+            <string>Weltano</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>default</Id>
+        <Weight>100</Weight>
+        <FullNames>
+          <NameGroup>
+            <Values>
+              <string>Ajazrakes</string>
+              <string>Ajaz</string>
+              <string>Anenezru</string>
+              <string>Azam</string>
+              <string>Azeggah</string>
+              <string>Azex</string>
+              <string>Azrretts</string>
+              <string>Azurm</string>
+              <string>Cazemon</string>
+              <string>Cazz</string>
+              <string>Dascozah</string>
+              <string>Didaboz</string>
+              <string>Duduzzo</string>
+              <string>Dukez</string>
+              <string>Dunuveza</string>
+              <string>Duveze</string>
+              <string>Ebozax</string>
+              <string>Ebuzzubad</string>
+              <string>Evaz</string>
+              <string>Evuze</string>
+              <string>Gaze</string>
+              <string>Gazrma</string>
+              <string>Gezud</string>
+              <string>Gokezesu</string>
+              <string>Harrazadd</string>
+              <string>Hazux</string>
+              <string>Iozosal</string>
+              <string>Izamots</string>
+              <string>Izza</string>
+              <string>Jaasazos</string>
+              <string>Jajuzori</string>
+              <string>Jazam</string>
+              <string>Jinazzone</string>
+              <string>Jozom</string>
+              <string>Juazuzaat</string>
+              <string>Juguzzel</string>
+              <string>Juzrm</string>
+              <string>Khidrovez</string>
+              <string>Khivivaz</string>
+              <string>Khukrunuz</string>
+              <string>Kidaaz</string>
+              <string>Kidazred</string>
+              <string>Kinazux</string>
+              <string>Kivazegr</string>
+              <string>Kogaze</string>
+              <string>Konozex</string>
+              <string>Kozonex</string>
+              <string>Kuzah</string>
+              <string>Kuzenes</string>
+              <string>Kuzrovex</string>
+              <string>Kuzzaah</string>
+              <string>Naaraz</string>
+              <string>Nazoka</string>
+              <string>Nazre</string>
+              <string>Nezada</string>
+              <string>Nunuz</string>
+              <string>Nuzemrmux</string>
+              <string>Nuzz</string>
+              <string>Okuaz</string>
+              <string>Omubezal</string>
+              <string>Omuz</string>
+              <string>Oraz</string>
+              <string>Orezegas</string>
+              <string>Ormazzrme</string>
+              <string>Pezam</string>
+              <string>Qersckuz</string>
+              <string>Qozejil</string>
+              <string>Qukuzeth</string>
+              <string>Qunozu</string>
+              <string>Quzzecom</string>
+              <string>Ravezrim</string>
+              <string>Razzos</string>
+              <string>Resazex</string>
+              <string>Rogezazre</string>
+              <string>Rozox</string>
+              <string>Rukkirazz</string>
+              <string>Ruzah</string>
+              <string>Ruzebom</string>
+              <string>Ruzrah</string>
+              <string>Ruzzad</string>
+              <string>Ruzzes</string>
+              <string>Saazeh</string>
+              <string>Sahezza</string>
+              <string>Sanoz</string>
+              <string>Sazegi</string>
+              <string>Sazos</string>
+              <string>Valaz</string>
+              <string>Vazam</string>
+              <string>Vozegex</string>
+              <string>Vudezat</string>
+              <string>Vuzrukun</string>
+              <string>Wazras</string>
+              <string>Xezrrazz</string>
+              <string>Zohazesco</string>
+              <string>Zothozz</string>
+              <string>Zozoz</string>
+              <string>Zozrim</string>
+              <string>Zozzarnu</string>
+              <string>Zudutsazz</string>
+              <string>Zuzrebex</string>
+            </Values>
+          </NameGroup>
+        </FullNames>
+        <RoyalFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Azah</string>
+              <string>Azan</string>
+              <string>Azard</string>
+              <string>Azel</string>
+              <string>Azes</string>
+              <string>Azez</string>
+              <string>Azrah</string>
+              <string>Azre</string>
+              <string>Azrim</string>
+              <string>Azrl</string>
+              <string>Azrul</string>
+              <string>Azuma</string>
+              <string>Azza</string>
+              <string>Cazos</string>
+              <string>Duzux</string>
+              <string>Duzz</string>
+              <string>Gaazz</string>
+              <string>Gazr</string>
+              <string>Gezah</string>
+              <string>Gezen</string>
+              <string>Gozah</string>
+              <string>Gozam</string>
+              <string>Hazas</string>
+              <string>Inoz</string>
+              <string>Iozet</string>
+              <string>Iruz</string>
+              <string>Izah</string>
+              <string>Izal</string>
+              <string>Izas</string>
+              <string>Izath</string>
+              <string>Izer</string>
+              <string>Izoba</string>
+              <string>Izra</string>
+              <string>Izua</string>
+              <string>Izubu</string>
+              <string>Izzes</string>
+              <string>Jacoz</string>
+              <string>Jazas</string>
+              <string>Jaza</string>
+              <string>Judoz</string>
+              <string>Kazod</string>
+              <string>Kezah</string>
+              <string>Kezas</string>
+              <string>Khez</string>
+              <string>Kozez</string>
+              <string>Kozz</string>
+              <string>Kuoz</string>
+              <string>Kuroz</string>
+              <string>Kuzoh</string>
+              <string>Kuzzo</string>
+              <string>Muzen</string>
+              <string>Nazz</string>
+              <string>Nenez</string>
+              <string>Nuzoh</string>
+              <string>Nuzz</string>
+              <string>Pezru</string>
+              <string>Qazod</string>
+              <string>Qezom</string>
+              <string>Qozen</string>
+              <string>Qubuz</string>
+              <string>Quzah</string>
+              <string>Quze</string>
+              <string>Quzol</string>
+              <string>Quzos</string>
+              <string>Quzux</string>
+              <string>Rezad</string>
+              <string>Rezz</string>
+              <string>Rudaz</string>
+              <string>Ruze</string>
+              <string>Ruzex</string>
+              <string>Ruzum</string>
+              <string>Sazre</string>
+              <string>Sinuz</string>
+              <string>Sozrm</string>
+              <string>Sozux</string>
+              <string>Suhoz</string>
+              <string>Suzem</string>
+              <string>Ukezz</string>
+              <string>Vaaz</string>
+              <string>Vazum</string>
+              <string>Vidaz</string>
+              <string>Voza</string>
+              <string>Vozrd</string>
+              <string>Vozux</string>
+              <string>Vukuz</string>
+              <string>Vunaz</string>
+              <string>Waze</string>
+              <string>Wazr</string>
+              <string>Xemez</string>
+              <string>Xeruz</string>
+              <string>Xesaz</string>
+              <string>Zezah</string>
+              <string>Zezun</string>
+              <string>Zomez</string>
+              <string>Zonoz</string>
+              <string>Zoza</string>
+              <string>Zozom</string>
+              <string>Zozze</string>
+              <string>Zukuz</string>
+              <string>Zuza</string>
+            </Values>
+          </NameGroup>
+        </RoyalFirstNames>
+        <RoyalSecondNames>
+          <NameGroup>
+            <Values>
+              <string>Dex</string>
+              <string>Gex</string>
+              <string>Kex</string>
+              <string>Tex</string>
+            </Values>
+          </NameGroup>
+        </RoyalSecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

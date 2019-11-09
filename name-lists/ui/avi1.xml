@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_avi1</Id>
+    <Name>UI - Avian 1</Name>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Values>
+            <string>Aenyreryn</string>
+            <string>Aryryphyn</string>
+            <string>Bephynin</string>
+            <string>Cenethyryn</string>
+            <string>Cylenen</string>
+            <string>Cyphien</string>
+            <string>Cyrinn</string>
+            <string>Dhyleniann</string>
+            <string>Dorynalan</string>
+            <string>Dorynerinin</string>
+            <string>Dyloran</string>
+            <string>Dyrorisin</string>
+            <string>Dysinean</string>
+            <string>Dytineriran</string>
+            <string>Goenenavyn</string>
+            <string>Gwylolin</string>
+            <string>Gwynin</string>
+            <string>Gwyorin</string>
+            <string>Gylelen</string>
+            <string>Gynollyn</string>
+            <string>Gyphyryninn</string>
+            <string>Heshynin</string>
+            <string>Hyalyn</string>
+            <string>Hyapyn</string>
+            <string>Hylirinoryn</string>
+            <string>Hynanenon</string>
+            <string>Hynelalien</string>
+            <string>Hyoneonon</string>
+            <string>Hyphan</string>
+            <string>Hyphirin</string>
+            <string>Iaphineryn</string>
+            <string>Ileralyn</string>
+            <string>Illelyn</string>
+            <string>Ilyphon</string>
+            <string>Iollyn</string>
+            <string>Iolyphiean</string>
+            <string>Laleranyn</string>
+            <string>Linisyn</string>
+            <string>Linynn</string>
+            <string>Liphynin</string>
+            <string>Loryrgesyan</string>
+            <string>Lylorin</string>
+            <string>Lynevian</string>
+            <string>Lyoren</string>
+            <string>Lyphian</string>
+            <string>Lyphien</string>
+            <string>Lyphin</string>
+            <string>Lyphyn</string>
+            <string>Lyrenn</string>
+            <string>Lytelen</string>
+            <string>Myniaemorin</string>
+            <string>Nollolyn</string>
+            <string>Norisiryron</string>
+            <string>Norylyn</string>
+            <string>Nynyninon</string>
+            <string>Nynyninorin</string>
+            <string>Nynyphonn</string>
+            <string>Nyphen</string>
+            <string>Nyphin</string>
+            <string>Nyphynn</string>
+            <string>Nyphyn</string>
+            <string>Nyriaenavon</string>
+            <string>Ocaleloyn</string>
+            <string>Ocyanan</string>
+            <string>Ocylon</string>
+            <string>Ocynoraphin</string>
+            <string>Ocynorin</string>
+            <string>Ocyphyllen</string>
+            <string>Ocyphynin</string>
+            <string>Orylen</string>
+            <string>Pesellisyn</string>
+            <string>Petholyn</string>
+            <string>Salynon</string>
+            <string>Sanelearyn</string>
+            <string>Sylenasan</string>
+            <string>Synorynan</string>
+            <string>Theloyan</string>
+            <string>Thialyphin</string>
+            <string>Thyorin</string>
+            <string>Tyanesin</string>
+            <string>Tylisyavonn</string>
+            <string>Tyllyvoryn</string>
+            <string>Tylysin</string>
+            <string>Tynanerenon</string>
+            <string>Tynelyrien</string>
+            <string>Typhellin</string>
+            <string>Typhian</string>
+            <string>Typhinonin</string>
+            <string>Typhin</string>
+            <string>Tyryphin</string>
+            <string>Vonynereron</string>
+            <string>Vynean</string>
+            <string>Vyrorynerin</string>
+            <string>Vysyphyn</string>
+            <string>Xinorynn</string>
+            <string>Xyrelelelin</string>
+            <string>Xyrellin</string>
+            <string>Yerynon</string>
+            <string>Zelystoloen</string>
+            <string>Zephyn</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Ships>
+    <Armies>
+      <Fleet>
+        <NameGroup>
+          <Values>
+            <string>Bevysine Star Wings</string>
+            <string>Cyanishe Star Wings</string>
+            <string>Cylaphynaeme Star Wings</string>
+            <string>Cynialynae Star Wings</string>
+            <string>Cynisaline Star Wings</string>
+            <string>Cypheolare Star Wings</string>
+            <string>Dereryphe Star Wings</string>
+            <string>Dhisasyale Star Wings</string>
+            <string>Dhynaere Star Wings</string>
+            <string>Dhyphorgete Star Wings</string>
+            <string>Dorielyle Star Wings</string>
+            <string>Dylonore Star Wings</string>
+            <string>Dypheste Star Wings</string>
+            <string>Favyrele Star Wings</string>
+            <string>Glarylyniae Star Wings</string>
+            <string>Gloriaellyae Star Wings</string>
+            <string>Gwyalene Star Wings</string>
+            <string>Gwyllollerae Star Wings</string>
+            <string>Gwyrgere Star Wings</string>
+            <string>Gwysypynirie Star Wings</string>
+            <string>Gwyvyphene Star Wings</string>
+            <string>Herelyoephe Star Wings</string>
+            <string>Hylylere Star Wings</string>
+            <string>Hynororyphe Star Wings</string>
+            <string>Hyphiretynoe Star Wings</string>
+            <string>Hyronerie Star Wings</string>
+            <string>Hyrorise Star Wings</string>
+            <string>Hyryphere Star Wings</string>
+            <string>Hyteanane Star Wings</string>
+            <string>Iaeloryphore Star Wings</string>
+            <string>Iavoresyrere Star Wings</string>
+            <string>Iearialyae Star Wings</string>
+            <string>Loyphine Star Wings</string>
+            <string>Lyanephiare Star Wings</string>
+            <string>Lyneraresere Star Wings</string>
+            <string>Lynierore Star Wings</string>
+            <string>Lynnephe Star Wings</string>
+            <string>Lynoryle Star Wings</string>
+            <string>Lynysene Star Wings</string>
+            <string>Lyonerge Star Wings</string>
+            <string>Lyphinoe Star Wings</string>
+            <string>Lysininete Star Wings</string>
+            <string>Lysthyoe Star Wings</string>
+            <string>Lysylyle Star Wings</string>
+            <string>Marypheryle Star Wings</string>
+            <string>Mynnelyle Star Wings</string>
+            <string>Mynoriahone Star Wings</string>
+            <string>Myphisinae Star Wings</string>
+            <string>Nelyrenoe Star Wings</string>
+            <string>Neninoraryne Star Wings</string>
+            <string>Nethoyre Star Wings</string>
+            <string>Noylleriare Star Wings</string>
+            <string>Nynerysane Star Wings</string>
+            <string>Nynorenore Star Wings</string>
+            <string>Nypherianne Star Wings</string>
+            <string>Nyphininore Star Wings</string>
+            <string>Nyvallolane Star Wings</string>
+            <string>Ocylyphynore Star Wings</string>
+            <string>Ocyninevyphe Star Wings</string>
+            <string>Ocynisyre Star Wings</string>
+            <string>Ocyorelophe Star Wings</string>
+            <string>Ocyserie Star Wings</string>
+            <string>Olelysyrelle Star Wings</string>
+            <string>Orelyophe Star Wings</string>
+            <string>Phoyteryve Star Wings</string>
+            <string>Seranoryle Star Wings</string>
+            <string>Solyphiaphe Star Wings</string>
+            <string>Synanyse Star Wings</string>
+            <string>Syoyrylle Star Wings</string>
+            <string>Syphynelelie Star Wings</string>
+            <string>Syphyphanere Star Wings</string>
+            <string>Thyphysie Star Wings</string>
+            <string>Tyaelyae Star Wings</string>
+            <string>Tyaneallore Star Wings</string>
+            <string>Tyloreponne Star Wings</string>
+            <string>Tyloriephe Star Wings</string>
+            <string>Tynaralese Star Wings</string>
+            <string>Tyneaphe Star Wings</string>
+            <string>Tynirere Star Wings</string>
+            <string>Tynniane Star Wings</string>
+            <string>Tynollyle Star Wings</string>
+            <string>Tynorinoe Star Wings</string>
+            <string>Tyonerene Star Wings</string>
+            <string>Tyoraroe Star Wings</string>
+            <string>Tyoryrelyle Star Wings</string>
+            <string>Typheriene Star Wings</string>
+            <string>Typhinone Star Wings</string>
+            <string>Typhisthie Star Wings</string>
+            <string>Typhynane Star Wings</string>
+            <string>Tyriarease Star Wings</string>
+            <string>Tyshiane Star Wings</string>
+            <string>Veremerisyne Star Wings</string>
+            <string>Volynine Star Wings</string>
+            <string>Voylyrephete Star Wings</string>
+            <string>Xylirine Star Wings</string>
+            <string>Xypheryphe Star Wings</string>
+            <string>Xyphinne Star Wings</string>
+            <string>Yellavyne Star Wings</string>
+            <string>Yesoryrele Star Wings</string>
+            <string>Zelyroenonae Star Wings</string>
+          </Values>
+        </NameGroup>
+      </Fleet>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Values>
+            <string>Avylyna</string>
+            <string>Cyvinina</string>
+            <string>Dereanynia</string>
+            <string>Dhylola</string>
+            <string>Dhyphia</string>
+            <string>Dhyranypha</string>
+            <string>Doryvia</string>
+            <string>Dynela</string>
+            <string>Glisyphora</string>
+            <string>Gloynona</string>
+            <string>Gwylellia</string>
+            <string>Gwynana</string>
+            <string>Gwyphyra</string>
+            <string>Hyanerera</string>
+            <string>Hylina</string>
+            <string>Hynia</string>
+            <string>Hynnea</string>
+            <string>Hynnoia</string>
+            <string>Hynoelonia</string>
+            <string>Hynoia</string>
+            <string>Hyoda</string>
+            <string>Hyphethia</string>
+            <string>Hyrya</string>
+            <string>Ielya</string>
+            <string>Ilalloryna</string>
+            <string>Ioryoena</string>
+            <string>Lyaea</string>
+            <string>Lylina</string>
+            <string>Lynena</string>
+            <string>Lyniemea</string>
+            <string>Lynisthia</string>
+            <string>Lynoelea</string>
+            <string>Lynoinea</string>
+            <string>Lynyna</string>
+            <string>Lyphella</string>
+            <string>Lyphena</string>
+            <string>Lyphia</string>
+            <string>Lyphyna</string>
+            <string>Lyrallena</string>
+            <string>Lysthisea</string>
+            <string>Lystypheva</string>
+            <string>Mylororia</string>
+            <string>Mysalyla</string>
+            <string>Myteana</string>
+            <string>Nonyora</string>
+            <string>Nyanna</string>
+            <string>Nynesonea</string>
+            <string>Nyneteroa</string>
+            <string>Nyphena</string>
+            <string>Nyreara</string>
+            <string>Ocalyphisa</string>
+            <string>Ocyna</string>
+            <string>Ocynea</string>
+            <string>Ocyneralea</string>
+            <string>Ocyniserya</string>
+            <string>Ocynista</string>
+            <string>Ocynonera</string>
+            <string>Ocyrieloya</string>
+            <string>Ocysinea</string>
+            <string>Ocysyphia</string>
+            <string>Olyrenynea</string>
+            <string>Oryna</string>
+            <string>Orynynoria</string>
+            <string>Porynia</string>
+            <string>Selya</string>
+            <string>Sererypa</string>
+            <string>Syalysa</string>
+            <string>Sylyna</string>
+            <string>Synoia</string>
+            <string>Syria</string>
+            <string>Syvya</string>
+            <string>Teryna</string>
+            <string>Tyavoea</string>
+            <string>Tylellela</string>
+            <string>Tylepa</string>
+            <string>Tyllinava</string>
+            <string>Tynavoria</string>
+            <string>Tyneanea</string>
+            <string>Tynerona</string>
+            <string>Tynia</string>
+            <string>Tynisena</string>
+            <string>Tynninia</string>
+            <string>Tyorera</string>
+            <string>Tyrela</string>
+            <string>Tyrolia</string>
+            <string>Tyryria</string>
+            <string>Tythya</string>
+            <string>Tyvera</string>
+            <string>Tyvia</string>
+            <string>Uetyna</string>
+            <string>Urynalia</string>
+            <string>Uvynia</string>
+            <string>Verelyra</string>
+            <string>Vorynenna</string>
+            <string>Vylara</string>
+            <string>Vyorea</string>
+            <string>Xynyla</string>
+            <string>Xyphea</string>
+            <string>Xypoemora</string>
+            <string>Zeorylea</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>default</Id>
+        <Weight>100</Weight>
+        <FullNames>
+          <NameGroup>
+            <Values>
+              <string>Aeryris</string>
+              <string>Araphys</string>
+              <string>Belylline</string>
+              <string>Cyle</string>
+              <string>Cyph</string>
+              <string>Cyphynala</string>
+              <string>Cyrirys</string>
+              <string>Cyser</string>
+              <string>Dhisyr</string>
+              <string>Dhynienna</string>
+              <string>Dhynis</string>
+              <string>Dhyphe</string>
+              <string>Dyna</string>
+              <string>Dyore</string>
+              <string>Glynnole</string>
+              <string>Goryle</string>
+              <string>Gorynea</string>
+              <string>Gwyloryra</string>
+              <string>Gwyoa</string>
+              <string>Gwypa</string>
+              <string>Gwyphis</string>
+              <string>Gwyva</string>
+              <string>Gwyvonea</string>
+              <string>Gyasyris</string>
+              <string>Gyavia</string>
+              <string>Gynera</string>
+              <string>Gyonin</string>
+              <string>Hyarollis</string>
+              <string>Hylletana</string>
+              <string>Hyna</string>
+              <string>Hyneryte</string>
+              <string>Hyorenea</string>
+              <string>Hyorynane</string>
+              <string>Hyphia</string>
+              <string>Hyph</string>
+              <string>Hyreae</string>
+              <string>Hyseryne</string>
+              <string>Hyvelya</string>
+              <string>Hyvisine</string>
+              <string>Ialanevys</string>
+              <string>Ieryne</string>
+              <string>Ilys</string>
+              <string>Ioryryne</string>
+              <string>Liaphya</string>
+              <string>Lonorylia</string>
+              <string>Loryshoda</string>
+              <string>Lylialle</string>
+              <string>Lylia</string>
+              <string>Lyllo</string>
+              <string>Lynenona</string>
+              <string>Lyne</string>
+              <string>Lyphirise</string>
+              <string>Lyphis</string>
+              <string>Marylyne</string>
+              <string>Meroryne</string>
+              <string>Myaesynyr</string>
+              <string>Myonnero</string>
+              <string>Nephynya</string>
+              <string>Nyna</string>
+              <string>Nyphisis</string>
+              <string>Nyre</string>
+              <string>Nyselor</string>
+              <string>Nysyra</string>
+              <string>Ocyla</string>
+              <string>Ocyvalo</string>
+              <string>Oryphe</string>
+              <string>Perys</string>
+              <string>Syalis</string>
+              <string>Sylia</string>
+              <string>Syne</string>
+              <string>Synien</string>
+              <string>Sypale</string>
+              <string>Sysea</string>
+              <string>Tylianele</string>
+              <string>Tyllys</string>
+              <string>Tylyph</string>
+              <string>Tyneravo</string>
+              <string>Tyne</string>
+              <string>Tynnne</string>
+              <string>Tyno</string>
+              <string>Tynylyne</string>
+              <string>Typhenoe</string>
+              <string>Typhoralo</string>
+              <string>Typhorere</string>
+              <string>Tyra</string>
+              <string>Tyria</string>
+              <string>Tyrie</string>
+              <string>Tysinoda</string>
+              <string>Urylle</string>
+              <string>Vylene</string>
+              <string>Vylynne</string>
+              <string>Vyphe</string>
+              <string>Vyphiala</string>
+              <string>Vyphyra</string>
+              <string>Vyre</string>
+              <string>Vysera</string>
+              <string>Xinnys</string>
+              <string>Xyna</string>
+              <string>Xynorine</string>
+              <string>Xyre</string>
+            </Values>
+          </NameGroup>
+        </FullNames>
+        <RoyalFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Aenys</string>
+              <string>Aisyphys</string>
+              <string>Belyris</string>
+              <string>Cylis</string>
+              <string>Cyloris</string>
+              <string>Cyris</string>
+              <string>Cyvas</string>
+              <string>Dhisyris</string>
+              <string>Dhodys</string>
+              <string>Dhynyphis</string>
+              <string>Dhys</string>
+              <string>Dylis</string>
+              <string>Dylys</string>
+              <string>Dyvis</string>
+              <string>Ferelisys</string>
+              <string>Glelynis</string>
+              <string>Glys</string>
+              <string>Gwyas</string>
+              <string>Gwyllis</string>
+              <string>Gwynis</string>
+              <string>Gwyras</string>
+              <string>Gynenes</string>
+              <string>Gyneras</string>
+              <string>Gyphis</string>
+              <string>Gyshis</string>
+              <string>Hetys</string>
+              <string>Hyleles</string>
+              <string>Hynas</string>
+              <string>Hynavis</string>
+              <string>Hyois</string>
+              <string>Hyphis</string>
+              <string>Ianys</string>
+              <string>Ilevys</string>
+              <string>Ilys</string>
+              <string>Iorys</string>
+              <string>Loelolys</string>
+              <string>Lolys</string>
+              <string>Loneryris</string>
+              <string>Lophyles</string>
+              <string>Lorys</string>
+              <string>Lylevis</string>
+              <string>Lynanis</string>
+              <string>Lynellias</string>
+              <string>Lynevisis</string>
+              <string>Lyphenis</string>
+              <string>Lyphis</string>
+              <string>Lyphys</string>
+              <string>Lyres</string>
+              <string>Lysis</string>
+              <string>Manavys</string>
+              <string>Manodynis</string>
+              <string>Marys</string>
+              <string>Myphis</string>
+              <string>Myris</string>
+              <string>Mysennes</string>
+              <string>Nemolyrys</string>
+              <string>Nyas</string>
+              <string>Nylas</string>
+              <string>Nynois</string>
+              <string>Nyris</string>
+              <string>Ocylis</string>
+              <string>Ocylles</string>
+              <string>Ocyloras</string>
+              <string>Ocyphis</string>
+              <string>Ocyphoys</string>
+              <string>Ocys</string>
+              <string>Oryphis</string>
+              <string>Orysenes</string>
+              <string>Orys</string>
+              <string>Saephys</string>
+              <string>Saryorys</string>
+              <string>Selys</string>
+              <string>Sylyrynis</string>
+              <string>Syrys</string>
+              <string>Thisys</string>
+              <string>Thyphonis</string>
+              <string>Thys</string>
+              <string>Tyallyris</string>
+              <string>Tyaroris</string>
+              <string>Tyles</string>
+              <string>Tynasavys</string>
+              <string>Tynis</string>
+              <string>Tynores</string>
+              <string>Tynoris</string>
+              <string>Tyrisinis</string>
+              <string>Tysoris</string>
+              <string>Vorys</string>
+              <string>Voys</string>
+              <string>Vynavis</string>
+              <string>Vynyres</string>
+              <string>Vyrois</string>
+              <string>Xisytas</string>
+              <string>Xyllyras</string>
+              <string>Xynis</string>
+              <string>Xyphys</string>
+              <string>Yelenolys</string>
+              <string>Yellylys</string>
+              <string>Yenynyvis</string>
+              <string>Zealys</string>
+              <string>Zelinys</string>
+            </Values>
+          </NameGroup>
+        </RoyalFirstNames>
+        <RoyalSecondNames>
+          <NameGroup>
+            <Values>
+              <string>Cys</string>
+              <string>Dys</string>
+              <string>Gys</string>
+              <string>Hys</string>
+              <string>Lys</string>
+              <string>Mys</string>
+              <string>Nys</string>
+              <string>Sys</string>
+              <string>Tys</string>
+              <string>Vys</string>
+              <string>Xys</string>
+            </Values>
+          </NameGroup>
+        </RoyalSecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

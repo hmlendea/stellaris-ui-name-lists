@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_rep2</Id>
+    <Name>UI - Reptilian 2</Name>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Values>
+            <string>Aojeelpent</string>
+            <string>Asheejapent</string>
+            <string>Azeenumpent</string>
+            <string>Barnaxithpent</string>
+            <string>Batuupent</string>
+            <string>Beenazapent</string>
+            <string>Bezeeuspent</string>
+            <string>Bimeem</string>
+            <string>Chalureeuspent</string>
+            <string>Chankaatupent</string>
+            <string>Chitakupent</string>
+            <string>Dakeepapent</string>
+            <string>Dakeeuspent</string>
+            <string>Darashpent</string>
+            <string>Debameedpent</string>
+            <string>Debampent</string>
+            <string>Deetulpent</string>
+            <string>Demeetapent</string>
+            <string>Derkeethpent</string>
+            <string>Derkeetumpent</string>
+            <string>Dunaxipent</string>
+            <string>Eleedpent</string>
+            <string>Etakuspent</string>
+            <string>Hareepent</string>
+            <string>Huleenpent</string>
+            <string>Huleeshpent</string>
+            <string>Jaraleelpent</string>
+            <string>Jaraleethpent</string>
+            <string>Jareeyapent</string>
+            <string>Jeebameedpent</string>
+            <string>Jeelanpent</string>
+            <string>Keemarzpent</string>
+            <string>Keeradeekpent</string>
+            <string>Keesekeeuspent</string>
+            <string>Kiameelpent</string>
+            <string>Klankapent</string>
+            <string>Kluleenpent</string>
+            <string>Kluleeyapent</string>
+            <string>Kluleezpent</string>
+            <string>Luteemarzpent</string>
+            <string>Meejapent</string>
+            <string>Metakuspent</string>
+            <string>Mobareelpent</string>
+            <string>Mobareepent</string>
+            <string>Nosaleetpent</string>
+            <string>Nowajeenpent</string>
+            <string>Nowajpent</string>
+            <string>Nuleenpent</string>
+            <string>Nuleeshpent</string>
+            <string>Odeelapent</string>
+            <string>Odeeluspent</string>
+            <string>Oleedalpent</string>
+            <string>Otumeekpent</string>
+            <string>Paduxithpent</string>
+            <string>Pajeempent</string>
+            <string>Paraskenpent</string>
+            <string>Peerasapent</string>
+            <string>Pideelapent</string>
+            <string>Pojeepent</string>
+            <string>Powajeenpent</string>
+            <string>Radeehpent</string>
+            <string>Radeekpent</string>
+            <string>Rareedpent</string>
+            <string>Rareepent</string>
+            <string>Rareeyapent</string>
+            <string>Reenuspent</string>
+            <string>Reezarapent</string>
+            <string>Sakeepent</string>
+            <string>Seemapent</string>
+            <string>Skeethpent</string>
+            <string>Skeethuspent</string>
+            <string>Skeetumpent</string>
+            <string>Sureelpent</string>
+            <string>Taleethpent</string>
+            <string>Taleetpent</string>
+            <string>Teebameedpent</string>
+            <string>Teebameelpent</string>
+            <string>Teekaspent</string>
+            <string>Teekeethpent</string>
+            <string>Teekeethuspent</string>
+            <string>Teemeepapent</string>
+            <string>Teineejapapent</string>
+            <string>Topeethuspent</string>
+            <string>Usheejapapent</string>
+            <string>Usheeuspent</string>
+            <string>Utadeehpent</string>
+            <string>Utadeelapent</string>
+            <string>Utadeelpent</string>
+            <string>Veekapent</string>
+            <string>Veenalzpent</string>
+            <string>Vudeelapent</string>
+            <string>Vudeelpent</string>
+            <string>Weebapent</string>
+            <string>Wideelpent</string>
+            <string>Wideeluspent</string>
+            <string>Wuleeshpent</string>
+            <string>Wuleeyapent</string>
+            <string>Wuleezpent</string>
+            <string>Wumeelpent</string>
+            <string>Wunalpent</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Ships>
+    <Armies>
+      <Fleet>
+        <NameGroup>
+          <Values>
+            <string>Asheejapa Flotilla</string>
+            <string>Barnaxith Flotilla</string>
+            <string>Busheejapa Flotilla</string>
+            <string>Chalureeus Flotilla</string>
+            <string>Chankaatu Flotilla</string>
+            <string>Derkeetul Flotilla</string>
+            <string>Derkeetum Flotilla</string>
+            <string>Jaraleeth Flotilla</string>
+            <string>Jaraleethus Flotilla</string>
+            <string>Jeebameed Flotilla</string>
+            <string>Jeebameel Flotilla</string>
+            <string>Keeradeeh Flotilla</string>
+            <string>Keeradeek Flotilla</string>
+            <string>Keeradeela Flotilla</string>
+            <string>Keeradeelal Flotilla</string>
+            <string>Keeradeel Flotilla</string>
+            <string>Keeradeelus Flotilla</string>
+            <string>Keesekeethus Flotilla</string>
+            <string>Keesekeetul Flotilla</string>
+            <string>Keesekeetum Flotilla</string>
+            <string>Keesekeeus Flotilla</string>
+            <string>Luteemarz Flotilla</string>
+            <string>Mobareeya Flotilla</string>
+            <string>Netapatuus Flotilla</string>
+            <string>Nosaleethus Flotilla</string>
+            <string>Peeradeek Flotilla</string>
+            <string>Peeradeela Flotilla</string>
+            <string>Peeradeelal Flotilla</string>
+            <string>Peeradeelan Flotilla</string>
+            <string>Peeradeel Flotilla</string>
+            <string>Peeradeelus Flotilla</string>
+            <string>Pejureeus Flotilla</string>
+            <string>Taleethus Flotilla</string>
+            <string>Teebameed Flotilla</string>
+            <string>Teebameel Flotilla</string>
+            <string>Teekeethus Flotilla</string>
+            <string>Teekeetul Flotilla</string>
+            <string>Teekeetum Flotilla</string>
+            <string>Teineejapa Flotilla</string>
+            <string>Topeethus Flotilla</string>
+            <string>Usheejapa Flotilla</string>
+            <string>Utadeelal Flotilla</string>
+            <string>Utadeelan Flotilla</string>
+            <string>Utadeelus Flotilla</string>
+            <string>Weebameed Flotilla</string>
+            <string>Weebameel Flotilla</string>
+          </Values>
+        </NameGroup>
+      </Fleet>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Values>
+            <string>Abersh</string>
+            <string>Aberystrom</string>
+            <string>Altano</string>
+            <string>Altanquag</string>
+            <string>Archodfell</string>
+            <string>Archold</string>
+            <string>Archorness</string>
+            <string>Archorn</string>
+            <string>Backen</string>
+            <string>Bandamesh</string>
+            <string>Banton</string>
+            <string>Baydoulresh</string>
+            <string>Baydout</string>
+            <string>Bellee</string>
+            <string>Belstish</string>
+            <string>Beltant</string>
+            <string>Brackrose</string>
+            <string>Braclash</string>
+            <string>Brandamesh</string>
+            <string>Brandeon</string>
+            <string>Braunfelten</string>
+            <string>Braunfen</string>
+            <string>Cairhadis</string>
+            <string>Cairhadist</string>
+            <string>Cairhale</string>
+            <string>Caleef</string>
+            <string>Calleef</string>
+            <string>Fenestish</string>
+            <string>Gadontess</string>
+            <string>Gadoulresh</string>
+            <string>Garesh</string>
+            <string>Garmesh</string>
+            <string>Garmhon</string>
+            <string>Gelflindish</string>
+            <string>Gelflingorn</string>
+            <string>Gelleash</string>
+            <string>Gidenesh</string>
+            <string>Gideresh</string>
+            <string>Gidesh</string>
+            <string>Gioveresh</string>
+            <string>Giovesh</string>
+            <string>Gristeness</string>
+            <string>Harkeksish</string>
+            <string>Harmer</string>
+            <string>Heltarr</string>
+            <string>Heltesh</string>
+            <string>Kelsting</string>
+            <string>Kelten</string>
+            <string>Kelteshpesh</string>
+            <string>Klosodfen</string>
+            <string>Lilmon</string>
+            <string>Maresh</string>
+            <string>Marest</string>
+            <string>Markeksish</string>
+            <string>Markis</string>
+            <string>Marmarr</string>
+            <string>Marmash</string>
+            <string>Marmersh</string>
+            <string>Marmhold</string>
+            <string>Marmhon</string>
+            <string>Marmothim</string>
+            <string>Maroseptese</string>
+            <string>Meirhadish</string>
+            <string>Mormesh</string>
+            <string>Mornesh</string>
+            <string>Pandish</string>
+            <string>Sanquag</string>
+            <string>Scalaclash</string>
+            <string>Scalash</string>
+            <string>Scalee</string>
+            <string>Scalemash</string>
+            <string>Scarmoth</string>
+            <string>Septesten</string>
+            <string>Shadis</string>
+            <string>Shodden</string>
+            <string>Skeksish</string>
+            <string>Sleandamesh</string>
+            <string>Sodfen</string>
+            <string>Spalashpesh</string>
+            <string>Spandish</string>
+            <string>Spantormhon</string>
+            <string>Spleef</string>
+            <string>Stindish</string>
+            <string>Stingorn</string>
+            <string>Stromish</string>
+            <string>Tamesh</string>
+            <string>Tarmeryst</string>
+            <string>Tattingor</string>
+            <string>Tattish</string>
+            <string>Thodfen</string>
+            <string>Traunfelsh</string>
+            <string>Veresh</string>
+            <string>Verystish</string>
+            <string>Vilmothim</string>
+            <string>Vilmoth</string>
+            <string>Welleash</string>
+            <string>Welten</string>
+            <string>Weyesh</string>
+            <string>Weyess</string>
+            <string>Winderyst</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>default</Id>
+        <Weight>100</Weight>
+        <FullNames>
+          <NameGroup>
+            <Values>
+              <string>Ahuus</string>
+              <string>Aoheidez</string>
+              <string>Aojojo</string>
+              <string>Azali</string>
+              <string>Banken</string>
+              <string>Bumaka</string>
+              <string>Bushebaw</string>
+              <string>Chaana</string>
+              <string>Chatrat</string>
+              <string>Cheit</string>
+              <string>Chmaw</string>
+              <string>Chshtah</string>
+              <string>Daikeimar</string>
+              <string>Dalixi</string>
+              <string>Danaz</string>
+              <string>Danyeti</string>
+              <string>Daralm</string>
+              <string>Davan</string>
+              <string>Deebakeem</string>
+              <string>Dekas</string>
+              <string>Doteth</string>
+              <string>Drejaj</string>
+              <string>Dusatvum</string>
+              <string>Eepeth</string>
+              <string>Eitaneva</string>
+              <string>Eitpaka</string>
+              <string>Eixixi</string>
+              <string>Gakulee</string>
+              <string>Gejanema</string>
+              <string>Gethi</string>
+              <string>Hapan</string>
+              <string>Haxil</string>
+              <string>Itajani</string>
+              <string>Jeedan</string>
+              <string>Jeeuxtupa</string>
+              <string>Jeevaw</string>
+              <string>Jejar</string>
+              <string>Jevat</string>
+              <string>Juleeus</string>
+              <string>Juljii</string>
+              <string>Katai</string>
+              <string>Katarz</string>
+              <string>Keiimus</string>
+              <string>Klach</string>
+              <string>Lacham</string>
+              <string>Laduje</string>
+              <string>Lakeeseen</string>
+              <string>Laluh</string>
+              <string>Lamerz</string>
+              <string>Leethnash</string>
+              <string>Macheen</string>
+              <string>Madus</string>
+              <string>Manus</string>
+              <string>Maserni</string>
+              <string>Meuush</string>
+              <string>Moooh</string>
+              <string>Mowee</string>
+              <string>Najesh</string>
+              <string>Nekavux</string>
+              <string>Nemenus</string>
+              <string>Nosaz</string>
+              <string>Notey</string>
+              <string>Olelz</string>
+              <string>Oparees</string>
+              <string>Pajaz</string>
+              <string>Patule</string>
+              <string>Pekeleka</string>
+              <string>Pikatezi</string>
+              <string>Rarak</string>
+              <string>Reieit</string>
+              <string>Retul</string>
+              <string>Shami</string>
+              <string>Shema</string>
+              <string>Sheum</string>
+              <string>Skaah</string>
+              <string>Skush</string>
+              <string>Taimsah</string>
+              <string>Teeitshr</string>
+              <string>Teetuus</string>
+              <string>Teeur</string>
+              <string>Teisa</string>
+              <string>Tinal</string>
+              <string>Tumalw</string>
+              <string>Tuxilel</string>
+              <string>Tuz'Rax</string>
+              <string>Ukenatara</string>
+              <string>Usharata</string>
+              <string>Usshur</string>
+              <string>Utheeir</string>
+              <string>Uthelius</string>
+              <string>Utvura</string>
+              <string>Vanit</string>
+              <string>Vilenu</string>
+              <string>Vojal</string>
+              <string>Wilik</string>
+              <string>Wukawus</string>
+              <string>Wuxilaii</string>
+              <string>Yexah</string>
+              <string>Zerajum</string>
+              <string>Zerzan</string>
+            </Values>
+          </NameGroup>
+        </FullNames>
+        <RoyalFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Abaikasheh</string>
+              <string>Alimukaje</string>
+              <string>Aopanimat</string>
+              <string>Asqoshinata</string>
+              <string>Azajopeepaiuus</string>
+              <string>Azashnenul</string>
+              <string>Azeeumeekeetul</string>
+              <string>Bebadularuli</string>
+              <string>Beextuloopasha</string>
+              <string>Boheeitalus</string>
+              <string>Bremeuuxithen</string>
+              <string>Bushapanusyalel</string>
+              <string>Cheeinemamujan</string>
+              <string>Chekepeelul</string>
+              <string>Chemakalen</string>
+              <string>Clareetuzeeu</string>
+              <string>Dandaanah</string>
+              <string>Daurtalur</string>
+              <string>Deretujobuserik</string>
+              <string>Eienyavuulaxi</string>
+              <string>Eikutushach</string>
+              <string>Eililiatapaxin</string>
+              <string>Einanulax</string>
+              <string>Eisleusess</string>
+              <string>Eithevail</string>
+              <string>Esshtarzunus</string>
+              <string>Gikataurz</string>
+              <string>Hidatathen</string>
+              <string>Hindatheer</string>
+              <string>Jahapiweer</string>
+              <string>Jahenatish</string>
+              <string>Jebahajen</string>
+              <string>Jedarohatvan</string>
+              <string>Jedikeemeitai</string>
+              <string>Jeledeluz</string>
+              <string>Jepowaheeim</string>
+              <string>Jessarawur</string>
+              <string>Jethithikeede</string>
+              <string>Judahaheu</string>
+              <string>Junuzalla</string>
+              <string>Juranacheen</string>
+              <string>Jushetuln</string>
+              <string>Kakeletul</string>
+              <string>Kararimax</string>
+              <string>Katsseiulikalus</string>
+              <string>Keenoshaish</string>
+              <string>Kiteenoth</string>
+              <string>Kleexikasth</string>
+              <string>Klzelepasi</string>
+              <string>Kuletalzatus</string>
+              <string>Lareludih</string>
+              <string>Leheemeel</string>
+              <string>Maieerapim</string>
+              <string>Matumanowar</string>
+              <string>Medazanoth</string>
+              <string>Meeimudeth</string>
+              <string>Meekumaarlath</string>
+              <string>Meijhataz</string>
+              <string>Merashulul</string>
+              <string>Moseeuropar</string>
+              <string>Motheldun</string>
+              <string>Motumekunus</string>
+              <string>Mushareinund</string>
+              <string>Najeemirapaw</string>
+              <string>Neelnunaith</string>
+              <string>Nemaleedal</string>
+              <string>Noteekkkalai</string>
+              <string>Nulimeesarakum</string>
+              <string>Obaruuleelush</string>
+              <string>Obumuunexika</string>
+              <string>Odumiihaze</string>
+              <string>Okamelzaleedake</string>
+              <string>Onopekakesh</string>
+              <string>Oopodepak</string>
+              <string>Peeuludeeli</string>
+              <string>Remitarzan</string>
+              <string>Reraleletaaseei</string>
+              <string>Sararz'rahenz</string>
+              <string>Sawekelach</string>
+              <string>Schtheeztha</string>
+              <string>Sematshth</string>
+              <string>Shareulma</string>
+              <string>Talakkach</string>
+              <string>Tatapilalexitpan</string>
+              <string>Tejusheulus</string>
+              <string>Tumazayapin</string>
+              <string>Ukurkanuxi</string>
+              <string>Utheununk</string>
+              <string>Utusyaranopajaz</string>
+              <string>Vepawazanez</string>
+              <string>Vohatishei</string>
+              <string>Vohekkanelesen</string>
+              <string>Vuunekasaraa</string>
+              <string>Webujenireva</string>
+              <string>Wukauleetankus</string>
+              <string>Wusanopal</string>
+              <string>Wusheeium</string>
+              <string>Xasajaxije</string>
+              <string>Xunapanaximslzax</string>
+              <string>Zerataxim</string>
+            </Values>
+          </NameGroup>
+        </RoyalFirstNames>
+        <RoyalSecondNames>
+          <NameGroup>
+            <Values>
+              <string>Derkeeth</string>
+              <string>Jaraleeth</string>
+              <string>Nosaleet</string>
+              <string>Radeelal</string>
+              <string>Vudeelan</string>
+            </Values>
+          </NameGroup>
+        </RoyalSecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>
