@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starcraft_protoss</Id>
+    <Name>StarCraft - Protoss</Name>
+    <Nationalities>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Protoss</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Denonyms - Groups</Name>
+        <Values>
+          <string>Ihan-rii</string>
+          <string>Khalai</string>
+          <string>Nerazim</string>
+          <string>Tal'darim</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Denonyms - Tribes - Khalai</Name>
+        <Values>
+          <string>Akilae</string>
+          <string>Ara</string>
+          <string>Auriga</string>
+          <string>Furinax</string>
+          <string>Sargas</string>
+          <string>Shelak</string>
+          <string>Velari</string>
+          <string>Venatir</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Denonyms - Groups - Khalai</Name>
+        <Values>
+          <string>Shel'na Kryhas</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Denonyms - Tribes - Nerazim</Name>
+        <Values>
+          <string>Alysaar</string>
+          <string>Boros</string>
+          <string>Lenassa</string>
+          <string>Zer'atai</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Denonyms - Groups - Tal'darim</Name>
+        <Values>
+          <string>Xava'kai</string>
+        </Values>
+      </NameGroup>
+    </Nationalities>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Daelaam</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions - Aiur</Name>
+          <Values>
+            <string>Asari</string>
+            <string>Ni Monn Adun</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Aiur - Provinces</Name>
+          <Values>
+            <string>Antioch</string>
+            <string>Scion</string>
+            <string>Velari</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Aiur - Locations</Name>
+          <Values>
+            <string>Shreka</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Bel'Shir - Locations</Name>
+          <Values>
+            <string>Kulas</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Shakuras</Name>
+          <Values>
+            <string>Katuul</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Shakuras - Locations</Name>
+          <Values>
+            <string>Razjan</string>
+            <string>Kakaru</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Aiur</Name>
+          <Values>
+            <string>Aldera</string>
+            <string>Kherrisan</string>
+            <string>Kor-shakal</string>
+            <string>Mendella</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Dylar IV</Name>
+          <Values>
+            <string>Dylar</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Ehlna</Name>
+          <Values>
+            <string>Alys'aril</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Shakuras</Name>
+          <Values>
+            <string>Lizul</string>
+            <string>New Antioch</string>
+            <string>Talematros</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains - Shakuras</Name>
+          <Values>
+            <string>Naszar</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+    </Places>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Blades - Protoss</Name>
+          <Values>
+            <string>Sal'bak</string>
+            <string>Shikma</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types - Daelaam</Name>
+          <Values>
+            <string>Akhundelar</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military unit types - Khalai</Name>
+          <Values>
+            <string>Dragoon</string>
+            <string>Void Ray</string>
+            <string>Mothership</string>
+            <string>Colossus</string>
+            <string>Phoenix</string>
+            <string>Carrier</string>
+            <string>Arbiter</string>
+            <string>Tempest</string>
+            <string>Scarab</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military unit types - Nerazim</Name>
+          <Values>
+            <string>Annihilator</string>
+            <string>Centurion</string>
+            <string>Corsair</string>
+            <string>Stalker</string>
+            <string>Void Ray</string>
+            <string>Void Templar</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military unit types - Tal'darim</Name>
+          <Values>
+            <string>Ascendant</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+      <Forts>
+        <NameGroup>
+          <Name>Strongholds - Bel'Shir</Name>
+          <Values>
+            <string>Arakan</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Strongholds - Shakuras</Name>
+          <Values>
+            <string>Alterzim</string>
+          </Values>
+        </NameGroup>
+      </Forts>
+      <MilitaryPeopleTier3>
+        <NameGroup>
+          <Name>Persons - Military - Khalai</Name>
+          <Values>
+            <string>Adun</string>
+            <string>Tassadar</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier3>
+    </Warfare>
+    <MythologicalCreatures>
+      <NameGroup>
+        <Name>Mythological creatures - </Name>
+        <Values>
+        </Values>
+      </NameGroup>
+    </MythologicalCreatures>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Ships - Supercarriers</Name>
+          <Values>
+            <string>Antiomnd</string>
+            <string>Gantrithor</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Ships - Carriers</Name>
+          <Values>
+            <string>Koramund</string>
+            <string>Tempest</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Ships - Motherships</Name>
+          <Values>
+            <string>Moratun</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Corvette>
+        <NameGroup>
+          <Name>Animals - Aiur</Name>
+          <Values>
+            <string>Bengalaas</string>
+            <string>Kal-taar</string>
+            <string>Kwah-kai</string>
+            <string>Lombad</string>
+            <string>Mai-lur</string>
+            <string>Omhara</string>
+            <string>Urubu</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Animals - Khyrador</Name>
+          <Values>
+            <string>Ursadon</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Animals - Shakuras</Name>
+          <Values>
+            <string>Kakaru</string>
+            <string>Karak</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Animals - Slayn</Name>
+          <Values>
+            <string>Dirge</string>
+            <string>Slayn</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+      <Coloniser>
+        <NameGroup>
+          <Name>Ships</Name>
+          <Values>
+            <string>Daelaam</string>
+            <string>Memory of Nazin</string>
+            <string>Pride of Altaris</string>
+            <string>Spear of Adun</string>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+    </Ships>
+    <ShipClasses>
+      <Coloniser>
+        <NameGroup>
+          <Name>Arkship</Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+    </ShipClasses>
+    <Stations>
+      <MilitaryStations>
+        <Generic>
+          <NameGroup>
+            <Name>Space Platforms - Purifiers</Name>
+            <Values>
+              <string>Cybros</string>
+            </Values>
+          </NameGroup>
+        </Generic>
+      </MilitaryStations>
+    </Stations>
+    <Armies>
+      <Fleet>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+            <string>Koprulu Expeditionary Force</string>
+            <string>The Golden Armada</string>
+            <string>The Great Fleet</string>
+          </Values>
+        </NameGroup>
+      </Fleet>
+      <AssaultArmy>
+        <NameGroup>
+          <Name>Khalai warbands</Name>
+          <Values>
+            <string>Blackman's Reavers</string>
+            <string>Venetir Scouts</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Nerazim warbands</Name>
+          <Values>
+            <string>Airun Corsairs</string>
+            <string>Dabiri's Shadow Company</string>
+            <string>Fist of Ulrezaj</string>
+            <string>Zeratul's Warband</string>
+          </Values>
+        </NameGroup>
+      </AssaultArmy>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Daelaam</Name>
+          <Values>
+            <string>Artika</string>
+            <string>Cantar</string>
+            <string>Nelyth</string>
+            <string>Rajal</string>
+            <string>Saalok</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Protoss Empire</Name>
+          <Values>
+            <string>Samiku</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Tal'darim</Name>
+          <Values>
+            <string>Atrias</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Nerazim</Name>
+          <Values>
+            <string>Ehlna</string>
+            <string>Shakuras</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Tal'darim</Name>
+          <Values>
+            <string>Xil</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Daelaam</Name>
+          <Values>
+            <string>Ash'Arak</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Protoss Empire</Name>
+          <Values>
+            <string>Aiur</string>
+            <string>Braken</string>
+            <string>Gyras</string>
+            <string>Swampus</string>
+            <string>Vanass</string>
+            <string>Zhakul</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Tal'darim</Name>
+          <Values>
+            <string>Bel'Shir</string>
+            <string>Slayn</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Protoss Empire</Name>
+          <Values>
+            <string>Endion</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Protoss Empire</Name>
+          <Values>
+            <string>Glacius</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - Protoss Empire</Name>
+          <Values>
+            <string>Kaldir</string>
+            <string>Khyrador</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+      <Barren>
+        <NameGroup>
+          <Name>Planets - Protoss Empire</Name>
+          <Values>
+            <string>Monlyth</string>
+          </Values>
+        </NameGroup>
+      </Barren>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>khalai</Id>
+        <Weight>66</Weight>
+        <MaleFullNames>
+          <NameGroup>
+            <Values>
+              <string>Adamis</string>
+              <string>Adun</string>
+              <string>Aedus</string>
+              <string>Akam</string>
+              <string>Aldaris</string>
+              <string>Aldrion</string>
+              <string>Alzadar</string>
+              <string>Amdor</string>
+              <string>Amur</string>
+              <string>Andinunn</string>
+              <string>Andraxxus</string>
+              <string>Argus</string>
+              <string>Artanis</string>
+              <string>Assmael</string>
+              <string>Aurioch</string>
+              <string>Bratalix</string>
+              <string>Colarion</string>
+              <string>Damiarch</string>
+              <string>Darsiris</string>
+              <string>Demioch</string>
+              <string>Doraelus</string>
+              <string>Eredas</string>
+              <string>Erekul</string>
+              <string>Felanis</string>
+              <string>Fenix</string>
+              <string>Feranon</string>
+              <string>Forthum</string>
+              <string>Garius</string>
+              <string>Gloarath</string>
+              <string>Gruu</string>
+              <string>Harrum</string>
+              <string>Iaalu</string>
+              <string>Jhas</string>
+              <string>Juras</string>
+              <string>Kaeon</string>
+              <string>Kaldalis</string>
+              <string>Karass</string>
+              <string>Karax</string>
+              <string>Keldalis</string>
+              <string>Ketalis</string>
+              <string>Khas</string>
+              <string>Kizrath</string>
+              <string>Korlendir</string>
+              <string>Koronis</string>
+              <string>Kortanul</string>
+              <string>Krtanul</string>
+              <string>Ladranix</string>
+              <string>Leredar</string>
+              <string>Mardonis</string>
+              <string>Menbellir</string>
+              <string>Mess'Ta</string>
+              <string>Mojo</string>
+              <string>Muadun</string>
+              <string>Naganis</string>
+              <string>Nahaan</string>
+              <string>Nannoth</string>
+              <string>Nehaan</string>
+              <string>Nubas</string>
+              <string>Nuun-Min</string>
+              <string>Oong</string>
+              <string>Palmet</string>
+              <string>Rassidan</string>
+              <string>Rihod</string>
+              <string>Rimmicu</string>
+              <string>Ruom</string>
+              <string>Sacopo</string>
+              <string>Saldrian</string>
+              <string>Sinar</string>
+              <string>Taarim</string>
+              <string>Tabrenus</string>
+              <string>Taeradun</string>
+              <string>Taldarin</string>
+              <string>Tassadar</string>
+              <string>Telbrus</string>
+              <string>Temlaa</string>
+              <string>Tenarsis</string>
+              <string>Teredal</string>
+              <string>Thuras</string>
+              <string>Turavis</string>
+              <string>Urun</string>
+              <string>Varloris</string>
+              <string>Vartanil</string>
+              <string>Vetraas</string>
+              <string>Wa'Rak</string>
+              <string>Wotarra</string>
+              <string>Xerxes</string>
+              <string>Xulata</string>
+              <string>Yaiino</string>
+              <string>Zekrath</string>
+              <string>Zentheon</string>
+              <string>Zeranek</string>
+              <string>Zoranis</string>
+            </Values>
+          </NameGroup>
+        </MaleFullNames>
+        <FemaleFullNames>
+          <NameGroup>
+            <Values>
+              <string>Deloria</string>
+              <string>Edullon</string>
+              <string>Khastiana</string>
+              <string>Lasarra</string>
+              <string>Lekila</string>
+              <string>Martul</string>
+              <string>Orlana</string>
+              <string>Quordas</string>
+              <string>Rohana</string>
+              <string>Selendis</string>
+              <string>Shantira</string>
+              <string>Syndrea</string>
+              <string>Talis</string>
+              <string>Tenzaal</string>
+              <string>Ydalin</string>
+              <string>Zamara</string>
+            </Values>
+          </NameGroup>
+        </FemaleFullNames>
+      </CharacterNames>
+    </Characters>
+    <Characters>
+      <CharacterNames>
+        <Id>nerazim</Id>
+        <Weight>24</Weight>
+        <MaleFullNames>
+          <NameGroup>
+            <Values>
+              <string>Alikka</string>
+              <string>Althai</string>
+              <string>Ataldis</string>
+              <string>Azimar</string>
+              <string>Dabiri</string>
+              <string>Darakian</string>
+              <string>Imrian</string>
+              <string>Jarzul</string>
+              <string>Khashilar</string>
+              <string>Kherenoss</string>
+              <string>Khirillian</string>
+              <string>Krythkal</string>
+              <string>Lassatar</string>
+              <string>Lyrak</string>
+              <string>Malete</string>
+              <string>Miratix</string>
+              <string>Mohandar</string>
+              <string>Rastadon</string>
+              <string>Razturul</string>
+              <string>Sagaya</string>
+              <string>Serdath</string>
+              <string>Taelus</string>
+              <string>Theromos</string>
+              <string>Tyrak</string>
+              <string>Ulavu</string>
+              <string>Ulrezaj</string>
+              <string>Xy'tal</string>
+              <string>Zahan</string>
+              <string>Zangakkar</string>
+              <string>Zeratul</string>
+            </Values>
+          </NameGroup>
+        </MaleFullNames>
+        <FemaleFullNames>
+          <NameGroup>
+            <Values>
+              <string>Kehdana</string>
+              <string>Naraza</string>
+              <string>Raszagal</string>
+              <string>Sharas</string>
+              <string>Vorazun</string>
+              <string>Xerana</string>
+              <string>Zoraya</string>
+            </Values>
+          </NameGroup>
+        </FemaleFullNames>
+      </CharacterNames>
+    <Characters>
+      <CharacterNames>
+        <Id>taldarim</Id>
+        <Weight>10</Weight>
+        <MaleFullNames>
+          <NameGroup>
+            <Values>
+              <string>Alarak</string>
+              <string>Ma'lash</string>
+              <string>Nuroka</string>
+              <string>Nyon</string>
+              <string>Zenish</string>
+            </Values>
+          </NameGroup>
+        </MaleFullNames>
+        <FemaleFullNames>
+          <NameGroup>
+            <Values>
+              <string>Ji'nara</string>
+              <string>Guraj</string>
+            </Values>
+          </NameGroup>
+        </FemaleFullNames>
+      </CharacterNames>
+    </Characters>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

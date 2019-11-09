@@ -27,6 +27,19 @@
       </Countries>
       <Cities>
         <NameGroup>
+          <Name>Cities - StarCraft - Terran - Braxis</Name>
+          <Values>
+            <string>Boralis</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - StarCraft - Terran - Tyrandor IX</Name>
+          <Values>
+            <string>Elsecaro</string>
+            <string>New Canaan</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - StarCraft - Terran</Name>
           <Values>
             <string>Augustgrad</string>
@@ -39,8 +52,24 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains - StarCraft - Braxis</Name>
+          <Values>
+            <string>Grendel</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
     </Places>
     <Ships>
+      <Corvette>
+        <NameGroup>
+          <Name>Ships - StarCraft - Terran Dominion</Name>
+          <Values>
+            <string>Griffin</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
       <Cruiser>
         <NameGroup>
           <Name>Ships - StarCraft - Terran</Name>
@@ -433,7 +462,6 @@
             <string>Halcyon</string>
             <string>Haven</string>
             <string>Korhal</string>
-            <string>Roxara</string>
             <string>Sammy</string>
             <string>Shiloh</string>
             <string>TarKossia</string>
@@ -441,6 +469,12 @@
             <string>Tashai</string>
             <string>Umoja</string>
             <string>Urona Sigma</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - StarCraft - Terran Dominion</Name>
+          <Values>
+            <string>Roxara</string>
             <string>Vardona</string>
           </Values>
         </NameGroup>

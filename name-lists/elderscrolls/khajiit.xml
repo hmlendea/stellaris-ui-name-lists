@@ -29,7 +29,7 @@
           </Values>
         </NameGroup>
       </Countries>
-      <States>
+      <Regions>
         <NameGroup>
           <Name>Regions - Elsweyr</Name>
           <Values>
@@ -48,7 +48,7 @@
             <string>Anequina</string>
           </Values>
         </NameGroup>
-      </States>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Elsweyr</Name>

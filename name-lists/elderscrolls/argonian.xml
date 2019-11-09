@@ -36,7 +36,7 @@
           </Values>
         </NameGroup>
       </Countries>
-      <States>
+      <Regions>
         <NameGroup>
           <Name>Regions - Argonia</Name>
           <Values>
@@ -48,7 +48,7 @@
             <string>Topal</string>
           </Values>
         </NameGroup>
-      </States>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Argonia</Name>
