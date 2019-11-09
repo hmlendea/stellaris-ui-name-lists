@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human</Id>
+    <Name>Other Media - Human</Name>
+    <Nationalities>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+        </Values>
+      </NameGroup>
+    </Nationalities>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <States>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </States>
+      <Cities>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains - A Song of Ice and Fire</Name>
+          <Values>
+            <string>Frostfang</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts - </Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Deserts>
+    </Places>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Swords - Puzzle Pirates</Name>
+          <Values>
+            <string>Backsword</string>
+            <string>Cutlass</string>
+            <string>Dadao</string>
+            <string>Dirk</string>
+            <string>Falchion</string>
+            <string>Foil</string>
+            <string>Katana</string>
+            <string>Longsword</string>
+            <string>Poniard</string>
+            <string>Rapier</string>
+            <string>Saber</string>
+            <string>Scimitar</string>
+            <string>Shortsword</string>
+            <string>Stiletto</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
+    <Ships>
+      <Generic />
+      <Corvette>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Corvette>
+      <Destroyer>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Destroyer>
+      <Cruiser>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Battleship>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Science>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Science>
+      <Coloniser>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+    </Ships>
+    <ShipClasses>
+      <Generic>
+        <NameGroup>
+          <Name>Ship classes - XCOM</Name>
+          <Values>
+            <string>XCOM</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </ShipClasses>
+    <Stations>
+      <MilitaryStations>
+        <Generic>
+          <NameGroup>
+            <Name></Name>
+            <Values>
+            </Values>
+          </NameGroup>
+        </Generic>
+      </MilitaryStations>
+      <Starbases>
+        <Outposts>
+          <NameGroup>
+            <Name>Outposts - Games</Name>
+            <Values>
+              <string>No Man's Sky</string>
+            </Values>
+          </NameGroup>
+        </Outposts>
+      </Starbases>
+      <ResearchStations>
+        <NameGroup>
+          <Name>Research facilities - Half Life</Name>
+          <Values>
+            <string>Black Mesa</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Fallout</Name>
+          <Values>
+            <string>Helios One</string>
+          </Values>
+        </NameGroup>
+      </ResearchStations>
+    </Stations>
+    <Armies>
+      <Fleet>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Fleet>
+      <SuperSoldierArmy>
+        <NameGroup>
+          <Name>Others - Based on cheat codes from GTA San Andreas</Name>
+          <Values>
+            <string>Experimental Unit 'Aezkami'</string>
+            <string>Experimental Unit 'Asnaeb'</string>
+            <string>Experimental Unit 'Baguvix'</string>
+            <string>Experimental Unit 'Hesoyam'</string>
+            <string>Experimental Unit 'Iowdlac'</string>
+            <string>Experimental Unit 'Uzumymw'</string>
+            <string>Experimental Unit 'Ylteicz'</string>
+            <string>Experimental Unit 'Ysohnul'</string>
+          </Values>
+        </NameGroup>
+      </SuperSoldierArmy>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Galactik Football</Name>
+          <Values>
+            <string>Escaron</string>
+            <string>Hectonia</string>
+            <string>Obia</string>
+            <string>Oeno</string>
+            <string>Unadar</string>
+            <string>Xenon</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Grand Theft Auto</Name>
+          <Values>
+            <string>Liberty</string>
+            <string>Vice</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Puzzle Pirates</Name>
+          <Values>
+            <string>Ansel</string>
+            <string>Arakoua</string>
+            <string>Blackthrope</string>
+            <string>Boyle</string>
+            <string>Byrne</string>
+            <string>Chaparral</string>
+            <string>Cnossos</string>
+            <string>Osterum</string>
+            <string>Scrimshaw</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Galactik Football</Name>
+          <Values>
+            <string>Menor</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Arid>
+        <NameGroup>
+          <Name>Places - A Song of Ice and Fire</Name>
+          <Values>
+            <string>Dorne</string>
+            <string>Sunspear</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Grand Theft Auto</Name>
+          <Values>
+            <string>Las Venturas</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Puzzle Pirates</Name>
+          <Values>
+            <string>Caravenserai</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Avatar</Name>
+          <Values>
+            <string>Pandora</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Galactik Football</Name>
+          <Values>
+            <string>Wamba</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Games</Name>
+          <Values>
+            <string>Tropico</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Warhammer</Name>
+          <Values>
+            <string>Espandor</string>
+            <string>Gudrun</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Dark Souls</Name>
+          <Values>
+            <string>Astora</string>
+            <string>Lothric</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Grand Theft Auto</Name>
+          <Values>
+            <string>San Fierro</string>
+            <string>Los Santos</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Mount and Blade</Name>
+          <Values>
+            <string>Calradia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Puzzle Pirates</Name>
+          <Values>
+            <string>Wensleydale</string>
+            <string>Admiral</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Warcraft</Name>
+          <Values>
+            <string>Andorhal</string>
+            <string>Lordaeron</string>
+            <string>Stormwind</string>
+            <string>Stratholme</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Doctor Who</Name>
+          <Values>
+            <string>Gallifrey</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Elder Scrolls</Name>
+          <Values>
+            <string>Summerset</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Puzzle Pirates</Name>
+          <Values>
+            <string>Cleopatra's Pearl</string>
+            <string>Midsummer</string>
+            <string>Port Venture</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - The Lord of the Rings</Name>
+          <Values>
+            <string>Valinor</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Games</Name>
+          <Values>
+            <string>Terraria</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Ocean>
+        <NameGroup>
+          <Name>Places - A Song of Ice and Fire</Name>
+          <Values>
+            <string>Blazewater</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Lovecraft</Name>
+          <Values>
+            <string>R'lyeh</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Puzzle Pirates</Name>
+          <Values>
+            <string>Angelfish</string>
+            <string>Barracuda</string>
+            <string>Cormorant</string>
+            <string>Dugong</string>
+            <string>Starfish</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Heroes - Age of Mythology</Name>
+          <Values>
+            <string>Arkantos</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Tundra>
+        <NameGroup>
+          <Name>Places - Puzzle Pirates</Name>
+          <Values>
+            <string>Jorvik</string>
+            <string>Norse</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - The Lord of the Rings</Name>
+          <Values>
+            <string>Rohan</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - Galactik Football</Name>
+          <Values>
+            <string>Akillian</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Frostpunk</Name>
+          <Values>
+            <string>Frostfire</string>
+            <string>Frostpunk</string>
+            <string>Winterhome</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Warhammer</Name>
+          <Values>
+            <string>Krieg</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - A Song of Ice and Fire</Name>
+          <Values>
+            <string>Valyria</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Dark Souls</Name>
+          <Values>
+            <string>Blighttown</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Fallout</Name>
+          <Values>
+            <string>Megaton</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Puzzle Pirates</Name>
+          <Values>
+            <string>Ebony</string>
+            <string>Gallows</string>
+            <string>Shatterstone</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - The Elder Scrolls</Name>
+          <Values>
+            <string>Coldharbour</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - The Lord of the Rings</Name>
+          <Values>
+            <string>Mordor</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+      <Alpine>
+        <NameGroup>
+          <Name>Places - A Song of Ice and Fire</Name>
+          <Values>
+            <string>Skyreach</string>
+            <string>Runestone</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Fallout</Name>
+          <Values>
+            <string>Grayditch</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Puzzle Pirates</Name>
+          <Values>
+            <string>Charcoal</string>
+            <string>Yorrick</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+      <Molten>
+        <NameGroup>
+          <Name>Places - Puzzle Pirates</Name>
+          <Values>
+            <string>Ember</string>
+            <string>Hephaestus' Forge</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id></Id>
+        <Weight>100</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </MaleFirstNames>
+        <MaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </MaleRoyalFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </FemaleFirstNames>
+        <FemaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </FemaleRoyalFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </SecondNames>
+        <RoyalSecondNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </RoyalSecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

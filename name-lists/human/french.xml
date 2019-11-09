@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_french</Id>
+    <Name>Humans - French</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>French</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>France</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions - France - French names</Name>
+          <Values>
+            <string>Alpes</string>
+            <string>Auvergne</string>
+            <string>Bourgogne</string>
+            <string>Bretagne</string>
+            <string>Centre-Val de Loire</string>
+            <string>Comté</string>
+            <string>Corse</string>
+            <string>Côte d'Azur</string>
+            <string>Franche</string>
+            <string>Grand Est</string>
+            <string>Hauts-de-France</string>
+            <string>Île-de-France</string>
+            <string>Normandie</string>
+            <string>Aquitaine</string>
+            <string>Occitanie</string>
+            <string>Pays de la Loire</string>
+            <string>Provence</string>
+            <string>Rhône</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - France - English names</Name>
+          <Values>
+            <string>Brittany</string>
+            <string>Burgundy</string>
+            <string>Corsica</string>
+            <string>Great East</string>
+            <string>Normandy</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - France</Name>
+          <Values>
+            <string>Amiens</string>
+            <string>Bordeaux</string>
+            <string>Brest</string>
+            <string>Dijon</string>
+            <string>Grenoble</string>
+            <string>Le Havre</string>
+            <string>Le Mans</string>
+            <string>Liege</string>
+            <string>Lille</string>
+            <string>Limoges</string>
+            <string>Lyon</string>
+            <string>Marseille</string>
+            <string>Metz</string>
+            <string>Montpellier</string>
+            <string>Nantes</string>
+            <string>Nice</string>
+            <string>Paris</string>
+            <string>Reims</string>
+            <string>Rennes</string>
+            <string>Strasbourg</string>
+            <string>Toulon</string>
+            <string>Toulouse</string>
+            <string>Tours</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Crossbows - French</Name>
+          <Values>
+            <string>Arbalest</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types - French</Name>
+          <Values>
+            <string>Arbalester</string>
+            <string>Gendarme</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations - France</Name>
+          <Values>
+            <string>Belleau Wood</string>
+            <string>Somme</string>
+            <string>Verdun</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+      <MilitaryPeopleTier1>
+        <NameGroup>
+          <Name>Persons - Military - French</Name>
+          <Values>
+            <string>Clostermann</string>
+            <string>Fonck</string>
+            <string>Pierre Clostermann</string>
+            <string>Pierre Henri Clostermann</string>
+            <string>René Fonck</string>
+            <string>René Paul Fonck</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Military - Belgian</Name>
+          <Values>
+            <string>Coppens</string>
+            <string>Willy Coppens</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier1>
+      <MilitaryPeopleTier3>
+        <NameGroup>
+          <Name>Persons - Military - French</Name>
+          <Values>
+            <string>Charles de Gaulle</string>
+            <string>De Gaulle</string>
+            <string>Louis-René Tréville</string>
+            <string>Pierre André de Suffren</string>
+            <string>Pierre-Charles Villeneuve</string>
+            <string>Suffren</string>
+            <string>Treville</string>
+            <string>Villeneuve</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier3>
+    </Warfare>
+    <Ships>
+      <Corvette>
+        <NameGroup>
+          <Name>Persons - Heroes</Name>
+          <Values>
+            <string>Jeanne Fourquet</string>
+            <string>Jeanne Hachette</string>
+            <string>Jeanne Laisné</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+      <Destroyer>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Destroyer>
+      <Cruiser>
+        <NameGroup>
+          <Name>Ships - British</Name>
+          <Values>
+            <string>Téméraire</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Leaders - French</Name>
+          <Values>
+            <string>Clemenceau</string>
+            <string>Georges Clemenceau</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Battleship>
+        <NameGroup>
+          <Name>Persons - Leaders - French</Name>
+          <Values>
+            <string>Charlemagne</string>
+            <string>Napoleon Bonaparte</string>
+            <string>Napoleon</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Science>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Science>
+      <Coloniser>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+    </Ships>
+    <ShipClasses>
+      <Generic>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Belgian</Name>
+          <Values>
+            <string>QuentiQ</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Aircraft manufacturers</Name>
+          <Values>
+            <string>Dessault</string>
+            <string>Safran</string>
+            <string>Thales</string>
+            <string>Snecma</string>
+            <string>Arianespace</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </ShipClasses>
+    <Stations>
+      <MilitaryStations>
+        <Generic>
+          <NameGroup>
+            <Name></Name>
+            <Values>
+            </Values>
+          </NameGroup>
+        </Generic>
+      </MilitaryStations>
+      <Starbases>
+        <Starports>
+          <NameGroup>
+            <Name>Airports - France</Name>
+            <Values>
+              <string>Charles de Gaulle</string>
+            </Values>
+          </NameGroup>
+        </Starports>
+      </Starbases>
+    </Stations>
+    <Armies>
+      <Fleet>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Fleet>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth - French</Name>
+          <Values>
+            <string>Mullineux</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Franco-Iberia - French</Name>
+          <Values>
+            <string>Bouclier</string>
+            <string>Espérance</string>
+            <string>Fidèle</string>
+            <string>Honorée</string>
+            <string>Kenza</string>
+            <string>Le Coeur</string>
+            <string>Mirabelle</string>
+            <string>Pacifique</string>
+            <string>Prospérité</string>
+            <string>Senén</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Gaia>
+        <NameGroup>
+          <Name>Mythology - Places - French</Name>
+          <Values>
+            <string>Agartha</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>french</Id>
+        <Weight>6</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Values>
+              <string>André</string>
+              <string>Antoine</string>
+              <string>Armand</string>
+              <string>Charles</string>
+              <string>Claude</string>
+              <string>Daniel</string>
+              <string>Dominic</string>
+              <string>Francois</string>
+              <string>Gaston</string>
+              <string>Georges</string>
+              <string>Gerard</string>
+              <string>Guy</string>
+              <string>Henri</string>
+              <string>Hubert</string>
+              <string>Hugo</string>
+              <string>Jacques</string>
+              <string>Jamie</string>
+              <string>Jean</string>
+              <string>Jean-Francois</string>
+              <string>Jean-Marie</string>
+              <string>Jean-Paul</string>
+              <string>Joseph</string>
+              <string>Louis</string>
+              <string>Louis-René</string>
+              <string>Luc</string>
+              <string>Lucien</string>
+              <string>Marc</string>
+              <string>Marcel</string>
+              <string>Mathieu</string>
+              <string>Maurice</string>
+              <string>Michel</string>
+              <string>Olivier</string>
+              <string>Patrice</string>
+              <string>Paul</string>
+              <string>Philippe</string>
+              <string>Pierre</string>
+              <string>Pierre-Charles</string>
+              <string>Raymond</string>
+              <string>René</string>
+              <string>Robert</string>
+              <string>Sébastien</string>
+              <string>Simon</string>
+              <string>Thibault</string>
+              <string>Thierry</string>
+              <string>Yves</string>
+            </Values>
+          </NameGroup>
+        </MaleFirstNames>
+        <MaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Antoine</string>
+              <string>Armand</string>
+              <string>Charles</string>
+              <string>Francois</string>
+              <string>Henri</string>
+              <string>Jean</string>
+              <string>Louis</string>
+              <string>Philippe</string>
+              <string>Robert</string>
+            </Values>
+          </NameGroup>
+        </MaleRoyalFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Andrea</string>
+              <string>Angeline</string>
+              <string>Bernadette</string>
+              <string>Camille</string>
+              <string>Celine</string>
+              <string>Charlotte</string>
+              <string>Chloe</string>
+              <string>Clara</string>
+              <string>Clarisse</string>
+              <string>Clémence</string>
+              <string>Daphne</string>
+              <string>Eleonore</string>
+              <string>Elina</string>
+              <string>Elise</string>
+              <string>Fanny</string>
+              <string>Helena</string>
+              <string>Inés</string>
+              <string>Isabella</string>
+              <string>Jeanette</string>
+              <string>Jeanne</string>
+              <string>Jessica</string>
+              <string>Julia</string>
+              <string>Juliette</string>
+              <string>Justine</string>
+              <string>Leila</string>
+              <string>Lianne</string>
+              <string>Lilianne</string>
+              <string>Louise</string>
+              <string>Manon</string>
+              <string>Margaret</string>
+              <string>Marie</string>
+              <string>Maud</string>
+              <string>Melanie</string>
+              <string>Nina</string>
+              <string>Pauline</string>
+              <string>Selma</string>
+              <string>Sophie</string>
+              <string>Suzanne</string>
+              <string>Veronique</string>
+              <string>Viviane</string>
+              <string>Yasmine</string>
+            </Values>
+          </NameGroup>
+        </FemaleFirstNames>
+        <FemaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Isabella</string>
+              <string>Louise</string>
+              <string>Margaret</string>
+              <string>Marie</string>
+              <string>Suzanne</string>
+            </Values>
+          </NameGroup>
+        </FemaleRoyalFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Values>
+              <string>Bergeron</string>
+              <string>Bernard</string>
+              <string>Bosquet</string>
+              <string>Bouchard</string>
+              <string>Bourbon</string>
+              <string>Clemenceau</string>
+              <string>de Castelnau</string>
+              <string>de Montaignac</string>
+              <string>de Suffren</string>
+              <string>Deveraux</string>
+              <string>Deville</string>
+              <string>Dubois</string>
+              <string>Duchaine</string>
+              <string>DuGalle</string>
+              <string>Dupont</string>
+              <string>Durand</string>
+              <string>Duval</string>
+              <string>Foch</string>
+              <string>Fortin</string>
+              <string>Fourquet</string>
+              <string>Gagne</string>
+              <string>Gagnon</string>
+              <string>Gauthier</string>
+              <string>Gerard</string>
+              <string>Gilbert</string>
+              <string>Giroud</string>
+              <string>Hachette</string>
+              <string>Hébert</string>
+              <string>Isabella</string>
+              <string>Jauvin</string>
+              <string>Laisné</string>
+              <string>Lambert</string>
+              <string>Laurent</string>
+              <string>Lavoie</string>
+              <string>Le Gall</string>
+              <string>Le Roux</string>
+              <string>Lebouef</string>
+              <string>Leclerc</string>
+              <string>Leroy</string>
+              <string>Louise</string>
+              <string>Martin</string>
+              <string>Montagne</string>
+              <string>Moreau</string>
+              <string>Morin</string>
+              <string>Paquette</string>
+              <string>Pelletier</string>
+              <string>Péllissier</string>
+              <string>Petain</string>
+              <string>Rémy</string>
+              <string>Renard</string>
+              <string>Roy</string>
+              <string>Tremblay</string>
+              <string>Tréville</string>
+              <string>Villeneuve</string>
+            </Values>
+          </NameGroup>
+        </SecondNames>
+        <RoyalSecondNames>
+          <NameGroup>
+            <Values>
+              <string>Bourbon</string>
+            </Values>
+          </NameGroup>
+        </RoyalSecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

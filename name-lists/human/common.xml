@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_common</Id>
+    <Name>Human - Common</Name>
+    <Nationalities>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Human</string>
+          <string>European</string>
+        </Values>
+      </NameGroup>
+    </Nationalities>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Weapons</Name>
+          <Values>
+            <string>Cleaver</string>
+            <string>Club</string>
+            <string>Glaive</string>
+            <string>Halberd</string>
+            <string>Harpoon</string>
+            <string>Pike</string>
+            <string>Spear</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Axes</Name>
+          <Values>
+            <string>Axe</string>
+            <string>Battleaxe</string>
+            <string>Hatchet</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Crossbows</Name>
+          <Values>
+            <string>Crossbow</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Bows</Name>
+          <Values>
+            <string>Bow</string>
+            <string>Longbow</string>
+            <string>Shortbow</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Javelins</Name>
+          <Values>
+            <string>Javelin</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Swords</Name>
+          <Values>
+            <string>Longsword</string>
+            <string>Poignard</string>
+            <string>Saber</string>
+            <string>Shortsword</string>
+            <string>Sword</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Daggers</Name>
+          <Values>
+            <string>Dagger</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Hammers</Name>
+          <Values>
+            <string>Warhammer</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Siege Weapons</Name>
+          <Values>
+            <string>Catapult</string>
+            <string>Trebuchet</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types</Name>
+          <Values>
+            <string>Archer</string>
+            <string>Assassin</string>
+            <string>Axeman</string>
+            <string>Bowman</string>
+            <string>Cavalry</string>
+            <string>Chariot</string>
+            <string>Cluman</string>
+            <string>Corsair</string>
+            <string>Crossbowman</string>
+            <string>Halberdier</string>
+            <string>Hussar</string>
+            <string>Knight</string>
+            <string>Lancer</string>
+            <string>Longbowman</string>
+            <string>Musketeer</string>
+            <string>Paladin</string>
+            <string>Pikeman</string>
+            <string>Privateer</string>
+            <string>Shortbowman</string>
+            <string>Skirmisher</string>
+            <string>Spearman</string>
+            <string>Swordsman</string>
+            <string>Titan</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
+    <MythologicalCreatures>
+      <NameGroup>
+        <Name>Mythological creatures</Name>
+        <Values>
+          <string>Dragon</string>
+          <string>Gargoyle</string>
+          <string>Ghost</string>
+          <string>Goblin</string>
+          <string>Grim Reaper</string>
+          <string>Incubus</string>
+          <string>Kraken</string>
+          <string>Mermaid</string>
+          <string>Nymph</string>
+          <string>Ogre</string>
+          <string>Phantom</string>
+          <string>Reaper</string>
+          <string>Specter</string>
+          <string>Spectre</string>
+          <string>Succubus</string>
+          <string>Warlock</string>
+          <string>Wraith</string>
+        </Values>
+      </NameGroup>
+    </MythologicalCreatures>
+    <Ships>
+      <Corvette>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Corvette>
+      <Destroyer>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Destroyer>
+      <Cruiser>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Battleship>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Science>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Science>
+      <Coloniser>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+    </Ships>
+    <ShipClasses>
+      <Generic>
+        <NameGroup>
+          <Name>Aircraft manufacturers</Name>
+          <Values>
+            <string>Airbus</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </ShipClasses>
+    <Stations>
+      <MilitaryStations>
+        <Generic>
+          <NameGroup>
+            <Name></Name>
+            <Values>
+            </Values>
+          </NameGroup>
+        </Generic>
+      </MilitaryStations>
+      <Starbases>
+        <Outposts>
+          <NameGroup>
+            <Name>Outposts - FantasyNameGenerator</Name>
+            <Values>
+              <string>Dire Post</string>
+              <string>Direstar Point</string>
+              <string>Gloom Station</string>
+              <string>Razor Watch</string>
+              <string>Starbreeze Outpost</string>
+              <string>Starwatch Outpost</string>
+              <string>Storm Haven</string>
+            </Values>
+          </NameGroup>
+        </Outposts>
+      </Starbases>
+      <ResearchStations>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </ResearchStations>
+    </Stations>
+    <Armies>
+      <DefenceArmy>
+        <NameGroup>
+          <Name>Armies - FantasyNameGenerator</Name>
+          <Values>
+            <string>The Guardians</string>
+            <string>The Last Hope</string>
+            <string>The Maroon Martyrs</string>
+            <string>The Saints</string>
+          </Values>
+        </NameGroup>
+      </DefenceArmy>
+      <AssaultArmy>
+        <NameGroup>
+          <Name>Armies - FantasyNameGenerator</Name>
+          <Values>
+            <string>The Silver Lining</string>
+            <string>The Saints</string>
+            <string>The Hounds</string>
+            <string>The Black Sheep</string>
+            <string>The Crushing</string>
+            <string>The Hell Squad</string>
+            <string>The Srumanir</string>
+            <string>The Hell Hosts</string>
+            <string>The Undefeated</string>
+            <string>The Illustrious</string>
+            <string>The Immortals</string>
+            <string>The Rose Regiment</string>
+            <string>The Thunder Troops</string>
+            <string>The Rose Riders</string>
+            <string>The Great Army</string>
+            <string>The Fire Battalion</string>
+            <string>The Eclipse</string>
+            <string>The Punishers</string>
+            <string>The Hellfire Squad</string>
+            <string>The Silver Soldiers</string>
+            <string>The Cataclysm Corps</string>
+            <string>Crimson Corps</string>
+            <string>Vanquisher Corps</string>
+          </Values>
+        </NameGroup>
+      </AssaultArmy>
+      <OccupationArmy>
+        <NameGroup>
+          <Name>Armies - FantasyNameGenerator</Name>
+          <Values>
+            <string>The New Order</string>
+          </Values>
+        </NameGroup>
+      </OccupationArmy>
+      <SlaveArmy>
+        <NameGroup>
+          <Name>Armies - FantasyNameGenerator</Name>
+          <Values>
+            <string>The Dogs</string>
+          </Values>
+        </NameGroup>
+      </SlaveArmy>
+      <PsionicArmy>
+        <NameGroup>
+          <Name>Armies - FantasyNameGenerator</Name>
+          <Values>
+            <string>The Pure Platoon</string>
+          </Values>
+        </NameGroup>
+      </PsionicArmy>
+      <XenomorphArmy>
+        <NameGroup>
+          <Name>Armies - FantasyNameGenerator</Name>
+          <Values>
+            <string>The Swarm</string>
+            <string>The Crimson Cloud</string>
+          </Values>
+        </NameGroup>
+      </XenomorphArmy>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Desert>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Tropical>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Continental>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Ocean>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Tundra>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Tundra>
+      <Arctic>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Arctic>
+      <Tomb>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Tomb>
+      <Savannah>
+        <NameGroup>
+          <Values>
+            <string>Savannah</string>
+          </Values>
+        </NameGroup>
+      </Savannah>
+      <Alpine>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Alpine>
+      <Molten>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Molten>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

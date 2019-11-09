@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_african</Id>
+    <Name>Human - African</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>African</string>
+          <string>Congolese</string>
+          <string>Ethiopian</string>
+          <string>Kabyle</string>
+          <string>Kenyan</string>
+          <string>Namibian</string>
+          <string>Nigerian</string>
+          <string>Somali</string>
+          <string>Sudanese</string>
+          <string>Tunisian</string>
+          <string>Ugandan</string>
+          <string>Zambian</string>
+          <string>Zimbabwean</string>
+          <string>Zimbo</string>
+          <string>Zulu</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Algeria</string>
+            <string>Angola</string>
+            <string>Chad</string>
+            <string>Congo</string>
+            <string>Djibouti</string>
+            <string>Eritrea</string>
+            <string>Ethiopia</string>
+            <string>Ghana</string>
+            <string>Ivory Coast</string>
+            <string>Kenya</string>
+            <string>Liberia</string>
+            <string>Madagascar</string>
+            <string>Mali</string>
+            <string>Mauritania</string>
+            <string>Mozambique</string>
+            <string>Namibia</string>
+            <string>Nigeria</string>
+            <string>Senegal</string>
+            <string>Somalia</string>
+            <string>South Africa</string>
+            <string>Sudan</string>
+            <string>Tanzania</string>
+            <string>Tunisia</string>
+            <string>Uganda</string>
+            <string>Zambia</string>
+            <string>Zimbabwe</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Native names</Name>
+          <Values>
+            <string>Côte d'Ivoire</string>
+            <string>Kongo</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions -Africa</Name>
+          <Values>
+            <string>Sahara</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions -Nigeria</Name>
+          <Values>
+            <string>Abia</string>
+            <string>Adamawa</string>
+            <string>Akwa Ibom</string>
+            <string>Anambra</string>
+            <string>Bauchi</string>
+            <string>Bayelsa</string>
+            <string>Benue</string>
+            <string>Borno</string>
+            <string>Cross River</string>
+            <string>Delta</string>
+            <string>Ebonyi</string>
+            <string>Edo</string>
+            <string>Ekiti</string>
+            <string>Enugu</string>
+            <string>Gombe</string>
+            <string>Imo</string>
+            <string>Jigawa</string>
+            <string>Kaduna</string>
+            <string>Kano</string>
+            <string>Katsina</string>
+            <string>Kebbi</string>
+            <string>Kogi</string>
+            <string>Kwara</string>
+            <string>Lagos</string>
+            <string>Nasarawa</string>
+            <string>Niger</string>
+            <string>Ogun</string>
+            <string>Ondo</string>
+            <string>Osun</string>
+            <string>Oyo</string>
+            <string>Plateau</string>
+            <string>Rivers</string>
+            <string>Sokoto</string>
+            <string>Taraba</string>
+            <string>Yobe</string>
+            <string>Zamfara</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions -Mauritania</Name>
+          <Values>
+            <string>Adrar</string>
+            <string>Assaba</string>
+            <string>Brakna</string>
+            <string>Dakhlet Nouadhibou</string>
+            <string>Duidimaka</string>
+            <string>Gorgol</string>
+            <string>Hodh Ech Chargui</string>
+            <string>Hodh El Gharbi</string>
+            <string>Inchiri</string>
+            <string>Nouakchott</string>
+            <string>Tagant</string>
+            <string>Tiris Zemmour</string>
+            <string>Trarza</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Algeria</Name>
+          <Values>
+            <string>Algiers</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Angola</Name>
+          <Values>
+            <string>Luanda</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Chad</Name>
+          <Values>
+            <string>N'Djamena</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Congo</Name>
+          <Values>
+            <string>Kinshasa</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Djibouti</Name>
+          <Values>
+            <string>Djibouti</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Eritrea</Name>
+          <Values>
+            <string>Asmara</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Ethiopia</Name>
+          <Values>
+            <string>Addis Ababa</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Ghana</Name>
+          <Values>
+            <string>Accra</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Ivory Coast</Name>
+          <Values>
+            <string>Abidjan</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Kenya</Name>
+          <Values>
+            <string>Mombasa</string>
+            <string>Nairobi</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Liberia</Name>
+          <Values>
+            <string>Monrovia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Madagascar</Name>
+          <Values>
+            <string>Antananarivo</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Mali</Name>
+          <Values>
+            <string>Bamako</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Mauritania</Name>
+          <Values>
+            <string>Akjoujt</string>
+            <string>Aleg</string>
+            <string>Arafat</string>
+            <string>Atar</string>
+            <string>Ayoun el Atrous</string>
+            <string>Dar-Naim</string>
+            <string>Kaédi</string>
+            <string>Kiffa</string>
+            <string>Néma</string>
+            <string>Nouadhibou</string>
+            <string>Nouakchott</string>
+            <string>Rosso</string>
+            <string>Sélibaby</string>
+            <string>Tevragh-Zeina</string>
+            <string>Tidjikja</string>
+            <string>Zouérat</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Mozambique</Name>
+          <Values>
+            <string>Maputo</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Namibia</Name>
+          <Values>
+            <string>Windhoek</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Nigeria</Name>
+          <Values>
+            <string>Abuja</string>
+            <string>Ibadan</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Senegal</Name>
+          <Values>
+            <string>Dakar</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Somalia</Name>
+          <Values>
+            <string>Mogadishu</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - South Africa</Name>
+          <Values>
+            <string>Cape Town</string>
+            <string>Port Elizabeth</string>
+            <string>Pretoria</string>
+            <string>Ekurhuleni</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Sudan</Name>
+          <Values>
+            <string>Khartoum</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Tanzania</Name>
+          <Values>
+            <string>Dar es Salaam</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Tunisia</Name>
+          <Values>
+            <string>Tunis</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Zambia</Name>
+          <Values>
+            <string>Lusaka</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Zimbabwe</Name>
+          <Values>
+            <string>Harare</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains - </Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts</Name>
+          <Values>
+            <string>Kalahari</string>
+            <string>Namib</string>
+            <string>Sahara</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers - Congo</Name>
+          <Values>
+            <string>Congo</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rivers - Mozambique</Name>
+          <Values>
+            <string>Limpopo</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rivers - Nigeria</Name>
+          <Values>
+            <string>Niger</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rivers - Zambia</Name>
+          <Values>
+            <string>Zambezi</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+    </Places>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Swords - Kabyle</Name>
+          <Values>
+              <string>Flyssa</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Swords - Sudan, Chad, Eritrea</Name>
+          <Values>
+              <string>Kaskara</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+    </Warfare>
+    <Ships>
+      <Corvette>
+        <NameGroup>
+          <Name>Persons - Leaders - Zulu</Name>
+          <Values>
+            <string>Shaka Zulu</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Animals</Name>
+          <Values>
+            <string>Dromedary</string>
+            <string>Elephant</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+      <Destroyer>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Destroyer>
+      <Cruiser>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Battleship>
+        <NameGroup>
+          <Name>Persons - Leaders - Tunisian</Name>
+          <Values>
+            <string>Hannibal</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Constructor>
+        <NameGroup>
+          <Name>Mythology - Spirits - Irish</Name>
+          <Values>
+            <string>Ikenga</string>
+          </Values>
+        </NameGroup>
+      </Constructor>
+      <Coloniser>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+    </Ships>
+    <Stations>
+        <MilitaryStations>
+        <Generic>
+            <NameGroup>
+                <Name></Name>
+                <Values>
+                </Values>
+            </NameGroup>
+        </Generic>
+        </MilitaryStations>
+    </Stations>
+    <Armies>
+      <Fleet>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Fleet>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - People's African Union - Shona</Name>
+          <Values>
+            <string>Ayaan</string>
+            <string>Ladan</string>
+            <string>Magan</string>
+            <string>Qarsi</string>
+            <string>Warsame</string>
+            <string>Xirsi</string>
+            <string>Zuberi</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - People's African Union - Somali</Name>
+          <Values>
+            <string>Chengetai</string>
+            <string>Fadziso</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - People's African Union - Swahili</Name>
+          <Values>
+            <string>Hoodo</string>
+            <string>Jenali</string>
+            <string>Libaan</string>
+            <string>Roonaan</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - People's African Union - Tswana</Name>
+          <Values>
+            <string>Masego</string>
+            <string>Thabo</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - People's African Union - Xhosa</Name>
+          <Values>
+            <string>Sizwe</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - People's African Union - Zulu</Name>
+          <Values>
+            <string>Bongani</string>
+            <string>Jabulile</string>
+            <string>Mzoxolo</string>
+            <string>Thula</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Desert>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Tundra>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Tundra>
+      <Arctic>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Arctic>
+      <Tomb>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Tomb>
+      <Alpine>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Alpine>
+      <Molten>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Molten>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id></Id>
+        <Weight>100</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </MaleFirstNames>
+        <MaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </MaleRoyalFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </FemaleFirstNames>
+        <FemaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </FemaleRoyalFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </SecondNames>
+        <RoyalSecondNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </RoyalSecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

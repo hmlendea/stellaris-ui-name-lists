@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_germanic</Id>
+    <Name>Human - Germanic</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Austrian</string>
+          <string>Belgian</string>
+          <string>Danish</string>
+          <string>Dutch</string>
+          <string>German</string>
+          <string>Gothic</string>
+          <string>Norwegian</string>
+          <string>Swedish</string>
+          <string>Swiss</string>
+          <string>Vandal</string>
+          <string>Viking</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - Native names</Name>
+          <Values>
+            <string>Belgie</string>
+            <string>Danmark</string>
+            <string>Deutschland</string>
+            <string>Grønland</string>
+            <string>Ísland</string>
+            <string>Nederland</string>
+            <string>Norge</string>
+            <string>Osterreich</string>
+            <string>Schweiz</string>
+            <string>Sverige</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Austria</string>
+            <string>Belgium</string>
+            <string>Denmark</string>
+            <string>Germany</string>
+            <string>Greenland</string>
+            <string>Iceland</string>
+            <string>Netherlands</string>
+            <string>Norway</string>
+            <string>Sweden</string>
+            <string>Switzerland</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Austria</Name>
+          <Values>
+            <string>Vienna</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Belgium</Name>
+          <Values>
+            <string>Antwerp</string>
+            <string>Brussels</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Belgium - Endonyms</Name>
+          <Values>
+            <string>Antwerpen</string>
+            <string>Brussel</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Denmark</Name>
+          <Values>
+            <string>Aarhus</string>
+            <string>Copenhagen</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Denmark - Endonyms</Name>
+          <Values>
+            <string>København</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Germany</Name>
+          <Values>
+            <string>Aachen</string>
+            <string>Augsburg</string>
+            <string>Berlin</string>
+            <string>Bonn</string>
+            <string>Bremen</string>
+            <string>Dortmund</string>
+            <string>Dresden</string>
+            <string>Duisburg</string>
+            <string>Düsseldorf</string>
+            <string>Essen</string>
+            <string>Frankfurt</string>
+            <string>Freiburg</string>
+            <string>Hamburg</string>
+            <string>Hannover</string>
+            <string>Karlsruhe</string>
+            <string>Köln</string>
+            <string>Leipzig</string>
+            <string>Lübeck</string>
+            <string>Mainz</string>
+            <string>Mannheim</string>
+            <string>München</string>
+            <string>Münster</string>
+            <string>Nürnberg</string>
+            <string>Potsdam</string>
+            <string>Rostock</string>
+            <string>Stuttgart</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Iceland</Name>
+          <Values>
+            <string>Reykjavík</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Netherlands</Name>
+          <Values>
+            <string>Amsterdam</string>
+            <string>Arnhem</string>
+            <string>Den Haag</string>
+            <string>Rotterdam</string>
+            <string>The Hague</string>
+            <string>Utrecht</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Norway</Name>
+          <Values>
+            <string>Narvik</string>
+            <string>Oslo</string>
+            <string>Trondheim</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Sweden</Name>
+          <Values>
+            <string>Gothenburg</string>
+            <string>Lund</string>
+            <string>Malmö</string>
+            <string>Stockholm</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Switzerland</Name>
+          <Values>
+            <string>Bern</string>
+            <string>Geneva</string>
+            <string>Zürich</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Luxembourg</Name>
+          <Values>
+            <string>Lëtzebuerg</string>
+            <string>Luxembourg</string>
+            <string>Luxemburg</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Others</Name>
+          <Values>
+            <string>Johannesburg</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers - Germany</Name>
+          <Values>
+            <string>Danube</string>
+            <string>Rhine</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rivers - Sweden</Name>
+          <Values>
+            <string>Göta</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+    </Places>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Swords - Danish</Name>
+          <Values>
+            <string>Sparth</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Swords - German</Name>
+          <Values>
+            <string>Katzbalger</string>
+            <string>Flamberge</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types</Name>
+          <Values>
+            <string>Berserker</string>
+            <string>Landsknechte</string>
+            <string>Panzer</string>
+            <string>Templar</string>
+            <string>Viking</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations</Name>
+          <Values>
+            <string>Arnhem</string>
+            <string>Austerlitz</string>
+            <string>Breitenfeld</string>
+            <string>Breslau</string>
+            <string>Essen</string>
+            <string>Jutland</string>
+            <string>Königgrätz</string>
+            <string>Leipzig</string>
+            <string>Lund</string>
+            <string>Lützen</string>
+            <string>Tannenberg</string>
+            <string>Teutoburg Forest</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations - </Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+      <MilitaryPeopleTier1>
+        <NameGroup>
+          <Name>Persons - Military - German</Name>
+          <Values>
+            <string>Erich Hartmann</string>
+            <string>Hartmann</string>
+            <string>Manfred von Richthofen</string>
+            <string>Richthofen</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier1>
+      <MilitaryPeopleTier2>
+        <NameGroup>
+          <Name>Persons - Military</Name>
+          <Values>
+            <string>Roland</string>
+            <string>Frederick the Great</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Military - Dutch</Name>
+          <Values>
+            <string>De Ruyter</string>
+            <string>Michiel de Ruyter</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Military - German</Name>
+          <Values>
+            <string>Erwin Rommel</string>
+            <string>Hindenburg</string>
+            <string>Paul von Hindenburg</string>
+            <string>Rommel</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier2>
+      <MilitaryPeopleTier3>
+        <NameGroup>
+          <Name>Persons - Military</Name>
+          <Values>
+            <string>Bismarck</string>
+            <string>Franz von Hipper</string>
+            <string>Hipper</string>
+            <string>Otto von Bismarck</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier3>
+    </Warfare>
+    <Ships>
+      <Corvette>
+        <NameGroup>
+          <Name>Ships - Swedish</Name>
+          <Values>
+            <string>Dristigheten</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Politics - Anglo-saxon</Name>
+          <Values>
+            <string>Ethelfleda</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Sport - Belgian</Name>
+          <Values>
+            <string>Van Lierde</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Folklore - Swiss</Name>
+          <Values>
+            <string>William Tell</string>
+            <string>Wilhelm Teil</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Folklore - German</Name>
+          <Values>
+            <string>Brunhild</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Science - Swiss</Name>
+          <Values>
+            <string>Rickenbacker</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Art - German</Name>
+          <Values>
+            <string>Orff</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+      <Destroyer>
+        <NameGroup>
+          <Name>Regions - Others</Name>
+          <Values>
+            <string>Scandinavia</string>
+          </Values>
+        </NameGroup>
+      </Destroyer>
+      <Cruiser>
+        <NameGroup>
+          <Name>Ships - German</Name>
+          <Values>
+            <string>Scharnhorst</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Leaders - Swedish</Name>
+          <Values>
+            <string>Gustavus Adolphus</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mythology - Norse</Name>
+          <Values>
+            <string>Fafnir</string>
+            <string>Fenris</string>
+            <string>Freya</string>
+            <string>Loki</string>
+            <string>Mjolnir</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Battleship>
+        <NameGroup>
+          <Name>Mythology - Norse</Name>
+          <Values>
+            <string>Valkyrie</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Science>
+        <NameGroup>
+          <Name>Persons - Science - Dutch</Name>
+          <Values>
+            <string>Fahrenheit</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Science - German</Name>
+          <Values>
+            <string>Einstein</string>
+            <string>Kepler</string>
+            <string>Von Braun</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Science - Swedish</Name>
+          <Values>
+            <string>Nobel</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Exploration - Norse</Name>
+          <Values>
+            <string>Leif Ericson</string>
+          </Values>
+        </NameGroup>
+      </Science>
+      <Coloniser>
+        <NameGroup>
+          <Name>Mythology</Name>
+          <Values>
+            <string>Valhalla</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Others</Name>
+          <Values>
+            <string>Scandinavia</string>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+      <Transport>
+        <NameGroup>
+          <Name>Mythology - Ships - Norse</Name>
+          <Values>
+            <string>Nagglfar</string>
+          </Values>
+        </NameGroup>
+      </Transport>
+    </Ships>
+    <ShipClasses>
+      <Generic>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Belgian</Name>
+          <Values>
+            <string>QuentiQ</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Danish</Name>
+          <Values>
+            <string>GomSpace</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Dutch</Name>
+          <Values>
+            <string>Fokker</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Aircraft manufacturers - Austrian</Name>
+          <Values>
+            <string>Diamond Aircraft</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Aircraft manufacturers - Swiss</Name>
+          <Values>
+            <string>Pilatus</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Science>
+        <NameGroup>
+          <Name>Ship Classes - StarCraft - Terran</Name>
+          <Values>
+            <string>Kurzweil</string>
+          </Values>
+        </NameGroup>
+      </Science>
+    </ShipClasses>
+    <Stations>
+      <MilitaryStations>
+        <Generic>
+          <NameGroup>
+            <Name>Ships - German</Name>
+            <Values>
+              <string>Tirpitz</string>
+            </Values>
+          </NameGroup>
+        </Generic>
+      </MilitaryStations>
+    </Stations>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Stellaris - Commonwealth of Man</Name>
+          <Values>
+            <string>Schimmel's World</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Media</Name>
+          <Values>
+            <string>Friedland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mythology - Places - Norse</Name>
+          <Values>
+            <string>Alfheim</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - North Sea Alliance - Danish</Name>
+          <Values>
+            <string>Klog Hjerte</string>
+            <string>Vanfald</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - North Sea Alliance - Icelandic</Name>
+          <Values>
+            <string>Himinn</string>
+            <string>Örlög</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - North Sea Alliance - Norwegian</Name>
+          <Values>
+            <string>Bredt Øye</string>
+            <string>Gryten</string>
+            <string>Sìorraidh</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - North Sea Alliance - Old Norse</Name>
+          <Values>
+            <string>Duncankeld</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - North Sea Alliance - Swedish</Name>
+          <Values>
+            <string>Fjarran</string>
+            <string>Helgedom</string>
+            <string>Ståndaktig</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Franco-Iberia - Old High German</Name>
+          <Values>
+            <string>Beraht</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Desert>
+        <NameGroup>
+          <Name>Mythology - Places</Name>
+          <Values>
+            <string>Muspelheim</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Mythology - Places - Norse</Name>
+          <Values>
+            <string>Asgard</string>
+            <string>Midgard</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Germany</Name>
+          <Values>
+            <string>Neu Berlin</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Based on rivers</Name>
+          <Values>
+            <string>Danubia</string>
+            <string>Elba</string>
+            <string>Rheinland</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Tundra>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Iceland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Native names</Name>
+          <Values>
+            <string>Ísland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mythology - Places - Norse</Name>
+          <Values>
+            <string>Utgard</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Puzzle Pirates</Name>
+          <Values>
+            <string>Jorvik</string>
+            <string>Norse</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+      <Arctic>
+        <NameGroup>
+          <Name>Countries - Native names</Name>
+          <Values>
+            <string>Grønland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Greenland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mythology - Places</Name>
+          <Values>
+            <string>Jotunheim</string>
+            <string>Niflheim</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+      <Tomb>
+        <NameGroup>
+          <Name>Words</Name>
+          <Values>
+            <string>Krieg</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places</Name>
+          <Values>
+            <string>Auschwitz</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+      <Molten>
+        <NameGroup>
+          <Name>Mythology - Places</Name>
+          <Values>
+            <string>Muspelheim</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>german</Id>
+        <Weight>3</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Adolf</string>
+              <string>Albert</string>
+              <string>Andreas</string>
+              <string>Arnold</string>
+              <string>Artur</string>
+              <string>August</string>
+              <string>Axel</string>
+              <string>Bruno</string>
+              <string>Conrad</string>
+              <string>Dieter</string>
+              <string>Eggert</string>
+              <string>Emil</string>
+              <string>Erhard</string>
+              <string>Erich</string>
+              <string>Ernst</string>
+              <string>Erwin</string>
+              <string>Felix</string>
+              <string>Franz</string>
+              <string>Friedrich</string>
+              <string>Fritz</string>
+              <string>Gerhard</string>
+              <string>Gerhardt</string>
+              <string>Gottfried</string>
+              <string>Gottlob</string>
+              <string>Günther</string>
+              <string>Gustav</string>
+              <string>Hans</string>
+              <string>Heinrich</string>
+              <string>Heinz</string>
+              <string>Helmuth</string>
+              <string>Herbert</string>
+              <string>Hermann</string>
+              <string>Holger</string>
+              <string>Horst</string>
+              <string>Hravn</string>
+              <string>Jakob</string>
+              <string>Joachim</string>
+              <string>Johann</string>
+              <string>Jörg</string>
+              <string>Josef</string>
+              <string>Jürgen</string>
+              <string>Karl</string>
+              <string>Klaus</string>
+              <string>Konrad</string>
+              <string>Konstantin</string>
+              <string>Kurt</string>
+              <string>Lothar</string>
+              <string>Ludolf</string>
+              <string>Ludwig</string>
+              <string>Lukas</string>
+              <string>Manfred</string>
+              <string>Martin</string>
+              <string>Matthias</string>
+              <string>Max</string>
+              <string>Moritz</string>
+              <string>Oswald</string>
+              <string>Otto</string>
+              <string>Paul</string>
+              <string>Peter</string>
+              <string>Reinhard</string>
+              <string>Rolf</string>
+              <string>Rudolf</string>
+              <string>Sepp</string>
+              <string>Sigismund</string>
+              <string>Stefan</string>
+              <string>Theodor</string>
+              <string>Thomas</string>
+              <string>Udo</string>
+              <string>Ulrich</string>
+              <string>Uwe</string>
+              <string>Walter</string>
+              <string>Werner</string>
+              <string>Wilhelm</string>
+              <string>Wolfgang</string>
+              <string>Xaver</string>
+            </Values>
+          </NameGroup>
+        </MaleFirstNames>
+        <MaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Wilhelm</string>
+              <string>Leopold</string>
+              <string>Rudolf</string>
+              <string>Freidrich</string>
+              <string>Karl</string>
+              <string>Ferdinand</string>
+              <string>Franz</string>
+              <string>Otto</string>
+              <string>Johann</string>
+            </Values>
+          </NameGroup>
+        </MaleRoyalFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Adelaide</string>
+              <string>Andrea</string>
+              <string>Angelika</string>
+              <string>Anita</string>
+              <string>Anja</string>
+              <string>Anna</string>
+              <string>Annike</string>
+              <string>Bettina</string>
+              <string>Birgit</string>
+              <string>Christel</string>
+              <string>Claudia</string>
+              <string>Edith</string>
+              <string>Elsa</string>
+              <string>Emma</string>
+              <string>Erika</string>
+              <string>Eva</string>
+              <string>Gertrude</string>
+              <string>Gisela</string>
+              <string>Gretchen</string>
+              <string>Heidi</string>
+              <string>Heike</string>
+              <string>Helga</string>
+              <string>Hermine</string>
+              <string>Hilde</string>
+              <string>Hildegard</string>
+              <string>Ilse</string>
+              <string>Ingrid</string>
+              <string>Jessika</string>
+              <string>Johanna</string>
+              <string>Julia</string>
+              <string>Katharina</string>
+              <string>Katrin</string>
+              <string>Kerstin</string>
+              <string>Lena</string>
+              <string>Lina</string>
+              <string>Lisa</string>
+              <string>Lisbeth</string>
+              <string>Margaret</string>
+              <string>Maria</string>
+              <string>Marith</string>
+              <string>Martina</string>
+              <string>Petra</string>
+              <string>Renate</string>
+              <string>Sabine</string>
+              <string>Sabrina</string>
+              <string>Sandra</string>
+              <string>Sara</string>
+              <string>Silvia</string>
+              <string>Stefanie</string>
+              <string>Tina</string>
+              <string>Ursula</string>
+              <string>Wibke</string>
+              <string>Wilhelmina</string>
+            </Values>
+          </NameGroup>
+        </FemaleFirstNames>
+        <FemaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Adelaide</string>
+              <string>Anna</string>
+              <string>Hermine</string>
+              <string>Margaret</string>
+              <string>Maria</string>
+            </Values>
+          </NameGroup>
+        </FemaleRoyalFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Values>
+              <string>Alpers</string>
+              <string>Amann</string>
+              <string>Andbert</string>
+              <string>Bach</string>
+              <string>Backe</string>
+              <string>Bauer</string>
+              <string>Baumann</string>
+              <string>Baur</string>
+              <string>Becker</string>
+              <string>Berchtold</string>
+              <string>Berger</string>
+              <string>Bergmeister</string>
+              <string>Best</string>
+              <string>Bittrich</string>
+              <string>Bohle</string>
+              <string>Bomhard</string>
+              <string>Bouhler</string>
+              <string>Braemer</string>
+              <string>Brandt</string>
+              <string>Braun</string>
+              <string>Breithaupt</string>
+              <string>Brenner</string>
+              <string>Brill</string>
+              <string>Brinkmann</string>
+              <string>Buch</string>
+              <string>Bürckel</string>
+              <string>Daluege</string>
+              <string>Demelhubeer</string>
+              <string>Dietrich</string>
+              <string>Dreyer</string>
+              <string>Eberstein</string>
+              <string>Eggeling</string>
+              <string>Eicke</string>
+              <string>Erhard</string>
+              <string>Fegelein</string>
+              <string>Fiehler</string>
+              <string>Fischer</string>
+              <string>Fitzthum</string>
+              <string>Forster</string>
+              <string>Frank</string>
+              <string>Freyberg</string>
+              <string>Friedrichs</string>
+              <string>Gebhardt</string>
+              <string>Genzken</string>
+              <string>Gille</string>
+              <string>Glücks</string>
+              <string>Gottberg</string>
+              <string>Grasser</string>
+              <string>Grawitz</string>
+              <string>Greifelt</string>
+              <string>Greiser</string>
+              <string>Hanke</string>
+              <string>Harster</string>
+              <string>Hausser</string>
+              <string>Heiden</string>
+              <string>Heissmeyer</string>
+              <string>HeissmeyerHenlein</string>
+              <string>Heydrich</string>
+              <string>Hilderbrandt</string>
+              <string>Himmler</string>
+              <string>Hinkel</string>
+              <string>Hoffmann</string>
+              <string>Höfle</string>
+              <string>Hofmann</string>
+              <string>Jeckeln</string>
+              <string>Jüttner</string>
+              <string>Kaltenbrunner</string>
+              <string>Kammler</string>
+              <string>Katzmann</string>
+              <string>Keller</string>
+              <string>Keppler</string>
+              <string>Klein</string>
+              <string>Kleinheisterkamp</string>
+              <string>Klopfer</string>
+              <string>Koppe</string>
+              <string>Kreutz</string>
+              <string>Krüger</string>
+              <string>Kube</string>
+              <string>Lammers</string>
+              <string>Lauterbacher</string>
+              <string>Loeper</string>
+              <string>Lorenz</string>
+              <string>Lörner</string>
+              <string>Meyer</string>
+              <string>Moder</string>
+              <string>Müller</string>
+              <string>Mülverstadt</string>
+              <string>Naumann</string>
+              <string>Nebe</string>
+              <string>Neumann</string>
+              <string>Oberg</string>
+              <string>Ohlendorf</string>
+              <string>Ostendorff</string>
+              <string>Pancke</string>
+              <string>Pfeffer</string>
+              <string>Phelps</string>
+              <string>Pohl</string>
+              <string>Prieß</string>
+              <string>Prützmann</string>
+              <string>Querner</string>
+              <string>Rattenhuber</string>
+              <string>Rauter</string>
+              <string>Rediess</string>
+              <string>Reeder</string>
+              <string>Reinefarth</string>
+              <string>Ribbentrop</string>
+              <string>Richter</string>
+              <string>Rösener</string>
+              <string>Saubeerzweig</string>
+              <string>Sauckel</string>
+              <string>Sauer</string>
+              <string>Schäfer</string>
+              <string>Scharfe</string>
+              <string>Schaub</string>
+              <string>Scheid</string>
+              <string>Schimana</string>
+              <string>Schmidt</string>
+              <string>Schneider</string>
+              <string>Scholz</string>
+              <string>Schreck</string>
+              <string>Schubert</string>
+              <string>Schulz</string>
+              <string>Schwarz</string>
+              <string>Schwarzenegger</string>
+              <string>Sporrenberg</string>
+              <string>Stein</string>
+              <string>Steiner</string>
+              <string>Strasse</string>
+              <string>Streckenbach</string>
+              <string>Stroop</string>
+              <string>Stuckart</string>
+              <string>von Alvensleben</string>
+              <string>von Boyen</string>
+              <string>von Falkenstein</string>
+              <string>von Fritsch</string>
+              <string>von Gebser</string>
+              <string>von Halkett</string>
+              <string>von Helldorf</string>
+              <string>von Herff</string>
+              <string>von Hotzendorf</string>
+              <string>von Neurath</string>
+              <string>von Woyrsch</string>
+              <string>von Wrangel</string>
+              <string>Wächter</string>
+              <string>Wächtler</string>
+              <string>Wagner</string>
+              <string>Weber</string>
+              <string>Weiss</string>
+              <string>Weitzel</string>
+              <string>Wendler</string>
+              <string>Wildenbruch</string>
+              <string>Wolf</string>
+              <string>Wolff</string>
+              <string>Wünnenberg</string>
+              <string>Ziegler</string>
+            </Values>
+          </NameGroup>
+        </SecondNames>
+        <RoyalSecondNames>
+          <NameGroup>
+            <Values>
+              <string>Habsburg</string>
+              <string>Hohenstaufen</string>
+              <string>Hohenzollern</string>
+              <string>Karling</string>
+              <string>Luxemburg</string>
+              <string>Sigmaringen</string>
+              <string>Welf</string>
+              <string>Wittelsbach</string>
+            </Values>
+          </NameGroup>
+        </RoyalSecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

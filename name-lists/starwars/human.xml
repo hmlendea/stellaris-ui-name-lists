@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starwars_human</Id>
+    <Name>StarWars - Human</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - StarWars - Human</Name>
+        <Values>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - StarWars - </Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Ships>
+      <Corvette>
+        <NameGroup>
+          <Name>Ships - StarWars - Human</Name>
+          <Values>
+            <string>Millenium Falcon</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+    </Ships>
+    <ShipClasses>
+      <Generic>
+        <NameGroup>
+          <Name>Ship classes - StarWars - Human</Name>
+          <Values>
+            <string>Bengel</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Corvette>
+        <NameGroup>
+          <Name>Ship classes - StarWars - Human</Name>
+          <Values>
+            <string>TIE</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+    </ShipClasses>
+    <Stations>
+      <MiningStations>
+        <NameGroup>
+          <Name>Mining Stations - StarWars - Human</Name>
+          <Values>
+            <string>Arah</string>
+            <string>CMC-A14</string>
+            <string>Firebase Alpha</string>
+            <string>H-5 70</string>
+            <string>Nallera's Mining Field</string>
+            <string>Peragus</string>
+            <string>Void Anvil</string>
+          </Values>
+        </NameGroup>
+      </MiningStations>
+      <MilitaryStations>
+        <Generic>
+          <NameGroup>
+            <Name></Name>
+            <Values>
+            </Values>
+          </NameGroup>
+        </Generic>
+      </MilitaryStations>
+      <ResearchStations>
+        <NameGroup>
+          <Name>Research stations - StarWars - Human</Name>
+          <Values>
+            <string>Youst</string>
+          </Values>
+        </NameGroup>
+      </ResearchStations>
+    </Stations>
+    <Armies>
+      <CloneArmy>
+        <NameGroup>
+          <Name>Clone armies - StarWars - Human</Name>
+          <Values>
+            <string>104th Battalion</string>
+            <string>212th Attack Battalion</string>
+            <string>327th Star Corps</string>
+            <string>41st Elite Corps</string>
+            <string>501st Legion</string>
+            <string>7th Sky Corps</string>
+            <string>91st Reconissance Corps</string>
+            <string>ARC Troppers</string>
+            <string>ARF Troopers</string>
+            <string>Blue Squadron</string>
+            <string>Bravo Squad</string>
+            <string>Clone Commando Squads</string>
+            <string>Doom's Unit</string>
+            <string>Ghost Company</string>
+            <string>Gold Squadron</string>
+            <string>Green Company</string>
+            <string>Horn Company</string>
+            <string>Jet's Unit</string>
+            <string>Lancer Battalion</string>
+            <string>Lightning Squadron</string>
+            <string>Rancor Battalion</string>
+            <string>Slick's Platoon</string>
+            <string>Tango Company</string>
+            <string>Torrent Company</string>
+            <string>Trauma's Unit</string>
+            <string>Wolfpack</string>
+          </Values>
+        </NameGroup>
+      </CloneArmy>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - StarWars - Human</Name>
+          <Values>
+            <string>Chalcata</string>
+            <string>Pamarthe</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - StarWars - Human</Name>
+          <Values>
+            <string>Geonosis</string>
+            <string>Mandalore</string>
+            <string>Tatooine</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - StarWars - Human</Name>
+          <Values>
+            <string>Akiva</string>
+            <string>Daflomia</string>
+            <string>Felucia</string>
+            <string>Onderon</string>
+            <string>Valrar</string>
+            <string>Vestar</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - StarWars - Human</Name>
+          <Values>
+            <string>Alderaan</string>
+            <string>Aradan</string>
+            <string>Bakura</string>
+            <string>Bastion</string>
+            <string>Brentaal</string>
+            <string>Carida</string>
+            <string>Champala</string>
+            <string>Chandrila</string>
+            <string>Corellia</string>
+            <string>Coruscant</string>
+            <string>Dantooine</string>
+            <string>Fondor</string>
+            <string>Lianna</string>
+            <string>Lothal</string>
+            <string>Naboo</string>
+            <string>Orinda</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - StarWars - Human</Name>
+          <Values>
+            <string>Achillea</string>
+            <string>Agamar</string>
+            <string>Borleias</string>
+            <string>Dathomir</string>
+            <string>Scarif</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - StarWars - Human</Name>
+          <Values>
+            <string>Admastor</string>
+            <string>Aguarl</string>
+            <string>Amethia</string>
+            <string>Kamino</string>
+            <string>Selonia</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - StarWars - Human</Name>
+          <Values>
+            <string>Akuria</string>
+            <string>Carlac</string>
+            <string>Pelorum</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+      <Molten>
+        <NameGroup>
+          <Name>Planets - StarWars - Human</Name>
+          <Values>
+            <string>Mustafar</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id></Id>
+        <Weight>100</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </MaleFirstNames>
+        <MaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </MaleRoyalFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </FemaleFirstNames>
+        <FemaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </FemaleRoyalFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </SecondNames>
+        <RoyalSecondNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </RoyalSecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

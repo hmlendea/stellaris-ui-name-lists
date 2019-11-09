@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starcraft_human</Id>
+    <Name>StarCraft - Human</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - StarCraft</Name>
+        <Values>
+          <string>Kel-Morian</string>
+          <string>Terran</string>
+          <string>Umojan</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - StarCraft</Name>
+          <Values>
+            <string>Confederacy</string>
+            <string>Dominion</string>
+            <string>Kel-Moria</string>
+            <string>Umoja</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - StarCraft - Terran</Name>
+          <Values>
+            <string>Augustgrad</string>
+            <string>Backwater</string>
+            <string>Boralis</string>
+            <string>Deadman's Port</string>
+            <string>Mar Sara</string>
+            <string>Spearpoint</string>
+            <string>Tarsonis</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Ships>
+      <Cruiser>
+        <NameGroup>
+          <Name>Ships - StarCraft - Terran</Name>
+          <Values>
+            <string>Victory</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - StarCraft - Terran</Name>
+          <Values>
+            <string>Aeneas</string>
+            <string>Aethon</string>
+            <string>Amphitrite</string>
+            <string>Antigone</string>
+            <string>Bismarck</string>
+            <string>Bucephalus</string>
+            <string>Cerberus</string>
+            <string>Circe</string>
+            <string>Cyrus</string>
+            <string>Dark Skies</string>
+            <string>Dominion's Revenge</string>
+            <string>Emperor's Fury</string>
+            <string>Eos</string>
+            <string>Fury</string>
+            <string>Gray Tiger</string>
+            <string>Helios</string>
+            <string>Hephaestus</string>
+            <string>Herakles</string>
+            <string>Hoosier</string>
+            <string>Huey Long</string>
+            <string>Hyperion</string>
+            <string>Iron Fist</string>
+            <string>Iron Justice</string>
+            <string>Jackson's Revenge</string>
+            <string>Jackson</string>
+            <string>Kimera</string>
+            <string>Kimeran Juggernaut</string>
+            <string>Medusa</string>
+            <string>Meleager</string>
+            <string>Merrimack</string>
+            <string>Metis</string>
+            <string>Napoleon</string>
+            <string>Norad</string>
+            <string>Palatine</string>
+            <string>Patroclus</string>
+            <string>Phobos</string>
+            <string>Ragnorak</string>
+            <string>Scion</string>
+            <string>Tahoe</string>
+            <string>Theodore G. Bilbo</string>
+            <string>Thunder Child</string>
+            <string>Titan</string>
+            <string>Valor of Vardona</string>
+            <string>Victory</string>
+            <string>White Star</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Titan>
+        <NameGroup>
+          <Name>Ships - StarCraft - Terran</Name>
+          <Values>
+            <string>Aleksander</string>
+            <string>Loki</string>
+          </Values>
+        </NameGroup>
+      </Titan>
+      <Science>
+        <NameGroup>
+          <Name>Ships - StarCraft - Terran</Name>
+          <Values>
+            <string>Amerigo</string>
+            <string>Brin</string>
+          </Values>
+        </NameGroup>
+      </Science>
+      <Coloniser>
+        <NameGroup>
+          <Name>Ships - StarCraft - Terran</Name>
+          <Values>
+            <string>Argo</string>
+            <string>Nagglfar</string>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+      <Transport>
+        <NameGroup>
+          <Name>Ships - StarCraft - Terran</Name>
+          <Values>
+            <string>Cormorant</string>
+            <string>Daisy</string>
+            <string>Hydrus</string>
+          </Values>
+        </NameGroup>
+      </Transport>
+    </Ships>
+    <ShipClasses>
+      <Corvette>
+        <NameGroup>
+          <Name>Ship Classes - StarCraft - Terran</Name>
+          <Values>
+            <string>Avenger</string>
+            <string>Banshee</string>
+            <string>Valkyrie</string>
+            <string>Viking</string>
+            <string>Wraith</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+      <Battleship>
+        <NameGroup>
+          <Name>Ship Classes - StarCraft - Terran</Name>
+          <Values>
+            <string>Behemoth</string>
+            <string>Gorgon</string>
+            <string>Hercules</string>
+            <string>Hurricane</string>
+            <string>Leviathan</string>
+            <string>Minotaur</string>
+            <string>Moirai</string>
+            <string>Pride of Augustgrad</string>
+            <string>Sovereign</string>
+            <string>Starcruiser</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Science>
+        <NameGroup>
+          <Name>Ship Classes - StarCraft - Terran</Name>
+          <Values>
+            <string>Explorer</string>
+            <string>Kurzweil</string>
+          </Values>
+        </NameGroup>
+      </Science>
+      <Transport>
+        <NameGroup>
+          <Name>Ship Classes - StarCraft - Terran</Name>
+          <Values>
+            <string>Cyrus</string>
+            <string>Gladiator</string>
+            <string>Hydrus</string>
+            <string>Mammoth</string>
+          </Values>
+        </NameGroup>
+      </Transport>
+    </ShipClasses>
+    <Stations>
+      <MiningStations>
+        <NameGroup>
+          <Name>Mining Stations - StarCraft - Terran</Name>
+          <Values>
+            <string>Avernus</string>
+            <string>Char Aleph</string>
+            <string>Erebus</string>
+            <string>Revelation</string>
+            <string>Sakrysta</string>
+            <string>Scrap</string>
+            <string>Shi</string>
+            <string>Sorona</string>
+          </Values>
+        </NameGroup>
+      </MiningStations>
+      <ResearchStations>
+        <NameGroup>
+          <Name>Research Stations - StarCraft - Terran</Name>
+          <Values>
+            <string>Castanar</string>
+            <string>Immortal Forge</string>
+            <string>Prometheus</string>
+            <string>Skygeirr</string>
+          </Values>
+        </NameGroup>
+      </ResearchStations>
+      <MilitaryStations>
+        <Small>
+          <NameGroup>
+            <Name>Military Stations - StarCraft - Terran</Name>
+            <Values>
+              <string>Catwalk Alley</string>
+              <string>Gemini</string>
+              <string>Horley Barton</string>
+              <string>Nova</string>
+              <string>Osborne Port</string>
+              <string>Sky Shield</string>
+              <string>Theta Prime</string>
+              <string>Waypoint Junction</string>
+            </Values>
+          </NameGroup>
+        </Small>
+        <Medium>
+          <NameGroup>
+            <Name>Military Stations - StarCraft - Terran</Name>
+            <Values>
+              <string>Crusader</string>
+              <string>Gutterhulk</string>
+              <string>New Gettysburg</string>
+              <string>Nimbus</string>
+              <string>Paladino Terminal</string>
+              <string>Proxima</string>
+              <string>Sigma Centari</string>
+            </Values>
+          </NameGroup>
+        </Medium>
+        <Large>
+          <NameGroup>
+            <Name>Military Stations - StarCraft - Terran</Name>
+            <Values>
+              <string>Gehanna</string>
+              <string>The Keep</string>
+            </Values>
+          </NameGroup>
+        </Large>
+      </MilitaryStations>
+      <Starbases>
+        <Generic>
+          <NameGroup>
+            <Name>Starbases - StarCraft - Terran</Name>
+            <Values>
+              <string>Dylar</string>
+            </Values>
+          </NameGroup>
+        </Generic>
+      </Starbases>
+    </Stations>
+    <Armies>
+      <Fleet>
+        <NameGroup>
+          <Name>Squadrons - StarCraft - Terran</Name>
+          <Values>
+            <string>Alpha Squadron</string>
+            <string>Delta Squadron</string>
+            <string>Epsilon Squadron</string>
+            <string>Gamma Squadron</string>
+            <string>Omega Squadron</string>
+            <string>Rho Squadron</string>
+            <string>Zeta Squadron</string>
+          </Values>
+        </NameGroup>
+      </Fleet>
+      <DefenceArmy>
+        <NameGroup>
+          <Name>Armies - StarCraft - Terran</Name>
+          <Values>
+            <string>Aegis Guard</string>
+            <string>Delta Company</string>
+            <string>Elite Guard</string>
+          </Values>
+        </NameGroup>
+      </DefenceArmy>
+      <AssaultArmy>
+        <NameGroup>
+          <Name>Armies - StarCraft - Terran</Name>
+          <Values>
+            <string>Annihilators</string>
+            <string>Blackhammers</string>
+            <string>Brute Squad</string>
+            <string>Bulwark Company</string>
+            <string>Cerberus Squad</string>
+            <string>Charlie Squad</string>
+            <string>Death Heads</string>
+            <string>Death's Head Legion</string>
+            <string>Field Response Theta</string>
+            <string>Hammer Strike Force</string>
+            <string>Heaven's Devils</string>
+            <string>Hellbringers</string>
+            <string>Iron Jesters</string>
+            <string>Lost Wolves</string>
+            <string>Night Wolves</string>
+            <string>Outback Hunters</string>
+            <string>Prometheus Company</string>
+            <string>Shock Division</string>
+            <string>Sky Fury Squadron</string>
+            <string>Thundering Third</string>
+            <string>Torch Seven</string>
+            <string>War Pigs</string>
+          </Values>
+        </NameGroup>
+      </AssaultArmy>
+      <PsionicArmy>
+        <NameGroup>
+          <Name>Armies - StarCraft - Terran</Name>
+          <Values>
+            <string>Nova Squadron</string>
+          </Values>
+        </NameGroup>
+      </PsionicArmy>
+      <XenomorphArmy>
+        <NameGroup>
+          <Name>Armies - StarCraft - Terran</Name>
+          <Values>
+            <string>The Tamed</string>
+          </Values>
+        </NameGroup>
+      </XenomorphArmy>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - StarCraft - Terran - Unknown or unsure climate</Name>
+          <Values>
+            <string>Thys</string>
+            <string>Pegasus</string>
+            <string>Brontes</string>
+            <string>Gohbus</string>
+            <string>Torus</string>
+            <string>Valhalla</string>
+            <string>Bacchus</string>
+            <string>Tal Qirat</string>
+            <string>Asteria</string>
+            <string>Marlowe</string>
+            <string>Gelgaris</string>
+            <string>Demon's Fair</string>
+            <string>Jotun</string>
+            <string>Parragos</string>
+            <string>Pho-Rekh</string>
+            <string>Tepperus</string>
+            <string>Melkora</string>
+            <string>Cirion</string>
+            <string>Great Bend</string>
+            <string>Chiron</string>
+            <string>Ravera</string>
+            <string>Seti</string>
+            <string>Lakius</string>
+            <string>Adena</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - StarCraft - Terran - Unknown or unsure climate - Mining worlds</Name>
+          <Values>
+            <string>Brutus</string>
+            <string>Feronis</string>
+            <string>Pyramus</string>
+            <string>Thisby</string>
+            <string>Vito</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - StarCraft - Terran</Name>
+          <Values>
+            <string>Altara</string>
+            <string>Choss</string>
+            <string>Gurdlac</string>
+            <string>Moria</string>
+            <string>New Sydney</string>
+            <string>Phaeton</string>
+            <string>Sirocco</string>
+            <string>Sonyan</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Arid>
+        <NameGroup>
+          <Name>Planets - StarCraft - Terran</Name>
+          <Values>
+            <string>Gamma Dorian</string>
+            <string>Mar Sara</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - StarCraft - Terran</Name>
+          <Values>
+            <string>Aridas</string>
+            <string>Brokas Hur</string>
+            <string>Calus</string>
+            <string>Candore</string>
+            <string>Chau Sara</string>
+            <string>Garxxax</string>
+            <string>Miranar</string>
+            <string>Vygoire</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - StarCraft - Terran</Name>
+          <Values>
+            <string>Bhekar Ro</string>
+            <string>Boone</string>
+            <string>Bountiful</string>
+            <string>Goldilocks</string>
+            <string>Gystt</string>
+            <string>Haji</string>
+            <string>Halcyon</string>
+            <string>Haven</string>
+            <string>Korhal</string>
+            <string>Roxara</string>
+            <string>Sammy</string>
+            <string>Shiloh</string>
+            <string>TarKossia</string>
+            <string>Tarsonis</string>
+            <string>Tashai</string>
+            <string>Umoja</string>
+            <string>Urona Sigma</string>
+            <string>Vardona</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - StarCraft - Terran</Name>
+          <Values>
+            <string>Agria</string>
+            <string>Meinhoff</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - StarCraft - Terran</Name>
+          <Values>
+            <string>Hydrax</string>
+            <string>Pridewater</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Tundra>
+        <NameGroup>
+          <Name>Planets - StarCraft - Terran</Name>
+          <Values>
+            <string>Borea</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - StarCraft - Terran</Name>
+          <Values>
+            <string>Anselm</string>
+            <string>Braxis</string>
+            <string>Onuru Sigma</string>
+            <string>Planet Christmas</string>
+            <string>Saluset</string>
+            <string>Zenn</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - StarCraft - Terran</Name>
+          <Values>
+            <string>Dead Man's Rock</string>
+            <string>Port Zion</string>
+            <string>Van Osten's Moon</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+      <Alpine>
+        <NameGroup>
+          <Name>Planets - StarCraft - Terran</Name>
+          <Values>
+            <string>Jarban Minor</string>
+            <string>Karkulv</string>
+            <string>Pike's Peak</string>
+            <string>Ursa</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+      <Molten>
+        <NameGroup>
+          <Name>Planets - StarCraft - Terran</Name>
+          <Values>
+            <string>Abaddon</string>
+            <string>Ashrigo</string>
+            <string>Char</string>
+            <string>Ignus</string>
+            <string>New Folsom</string>
+            <string>New Trinidad</string>
+            <string>Old Faithful</string>
+            <string>Scoria</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+      <Barren>
+        <NameGroup>
+          <Name>Planets - StarCraft - Terran</Name>
+          <Values>
+            <string>Brutus</string>
+            <string>Canis</string>
+            <string>Nemaka</string>
+          </Values>
+        </NameGroup>
+      </Barren>
+      <Asteroid>
+        <NameGroup>
+          <Name>Planets - StarCraft - Terran</Name>
+          <Values>
+            <string>Chanuk</string>
+          </Values>
+        </NameGroup>
+      </Asteroid>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id></Id>
+        <Weight>1</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </MaleFirstNames>
+        <MaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </MaleRoyalFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </FemaleFirstNames>
+        <FemaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </FemaleRoyalFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </SecondNames>
+        <RoyalSecondNames>
+          <NameGroup>
+            <Values>
+            </Values>
+          </NameGroup>
+        </RoyalSecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>
