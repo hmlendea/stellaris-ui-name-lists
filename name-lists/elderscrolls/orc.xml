@@ -1,0 +1,2118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>elderscrolls_orc</Id>
+    <Name>The Elder Scrolls - Orc</Name>
+    <Nationalities>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Orc</string>
+          <string>Orsimer</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Denonyms - Clans</Name>
+        <Values>
+          <string>Bragosh</string>
+          <string>Enclave</string>
+          <string>Fharun</string>
+          <string>Luccin</string>
+          <string>Morkul</string>
+          <string>Murtag</string>
+          <string>Pandrum</string>
+          <string>Ruskahr</string>
+          <string>Shatul</string>
+          <string>Tumnosh</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Denonyms - Clans - Wood Orcs</Name>
+        <Values>
+          <string>Barkbite</string>
+          <string>Darkfen</string>
+          <string>Drublog</string>
+          <string>Lhurgash</string>
+        </Values>
+      </NameGroup>
+    </Nationalities>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Wrothgar</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Orsinium</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Wrothgar</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+    </Places>
+    <Warfare>
+      <Forts>
+        <NameGroup>
+          <Name>Strongholds - High Rock</Name>
+          <Values>
+            <string>Fharun</string>
+            <string>Morkul</string>
+            <string>Murtag</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Strongholds - Skyrim</Name>
+          <Values>
+            <string>Dushnikh Yal</string>
+            <string>Largashbur</string>
+            <string>Mor Khazgur</string>
+            <string>Narzulbur</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Strongholds - Valenwood</Name>
+          <Values>
+            <string>Dra'bul</string>
+            <string>Jathsogur</string>
+          </Values>
+        </NameGroup>
+      </Forts>
+    </Warfare>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Markov-generated based on city, clan, stronghold names</Name>
+          <Values>
+            <string>Bargar</string>
+            <string>Bargargar</string>
+            <string>Bargargash</string>
+            <string>Bargarkfen</string>
+            <string>Bargarkul</string>
+            <string>Bargarum</string>
+            <string>Bargarun</string>
+            <string>Bargarzul</string>
+            <string>Bargash</string>
+            <string>Bargashbur</string>
+            <string>Barkfen</string>
+            <string>Barkul</string>
+            <string>Barkulbur</string>
+            <string>Barublog</string>
+            <string>Barum</string>
+            <string>Barumnosh</string>
+            <string>Barun</string>
+            <string>Barzul</string>
+            <string>Barzulbur</string>
+            <string>Brag</string>
+            <string>Bragoshbur</string>
+            <string>Dargar</string>
+            <string>Dargargar</string>
+            <string>Dargargash</string>
+            <string>Dargarkfen</string>
+            <string>Dargarkul</string>
+            <string>Dargarum</string>
+            <string>Dargarun</string>
+            <string>Dargarzul</string>
+            <string>Dargash</string>
+            <string>Dargashbur</string>
+            <string>Darkbite</string>
+            <string>Darkul</string>
+            <string>Darkulbur</string>
+            <string>Darublog</string>
+            <string>Darum</string>
+            <string>Darumnosh</string>
+            <string>Darun</string>
+            <string>Darzul</string>
+            <string>Darzulbur</string>
+            <string>Drum</string>
+            <string>Drumnosh</string>
+            <string>Drun</string>
+            <string>Dush</string>
+            <string>Dushbur</string>
+            <string>Dushburgar</string>
+            <string>Dushburtag</string>
+            <string>Dushnikhar</string>
+            <string>Dushnium</string>
+            <string>Duskahr</string>
+            <string>Enclar</string>
+            <string>Enclargar</string>
+            <string>Enclargash</string>
+            <string>Enclarkfen</string>
+            <string>Enclarkul</string>
+            <string>Enclarum</string>
+            <string>Enclarun</string>
+            <string>Enclarzul</string>
+            <string>Fhar</string>
+            <string>Fhargar</string>
+            <string>Fhargargar</string>
+            <string>Fhargarkul</string>
+            <string>Fhargarum</string>
+            <string>Fhargarun</string>
+            <string>Fhargarzul</string>
+            <string>Fhargash</string>
+            <string>Fharkbite</string>
+            <string>Fharkfen</string>
+            <string>Fharkul</string>
+            <string>Fharkulbur</string>
+            <string>Fharublog</string>
+            <string>Fharum</string>
+            <string>Fharumnosh</string>
+            <string>Fharzul</string>
+            <string>Fharzulbur</string>
+            <string>Fhatul</string>
+            <string>Fhatulbur</string>
+            <string>Fhazgur</string>
+            <string>Fhazgurgar</string>
+            <string>Fhazgurtag</string>
+            <string>Khar</string>
+            <string>Khargar</string>
+            <string>Khargargar</string>
+            <string>Khargarkul</string>
+            <string>Khargarum</string>
+            <string>Khargarun</string>
+            <string>Khargarzul</string>
+            <string>Khargash</string>
+            <string>Kharkbite</string>
+            <string>Kharkfen</string>
+            <string>Kharkul</string>
+            <string>Kharkulbur</string>
+            <string>Kharublog</string>
+            <string>Kharum</string>
+            <string>Kharumnosh</string>
+            <string>Kharun</string>
+            <string>Kharzul</string>
+            <string>Kharzulbur</string>
+            <string>Khatul</string>
+            <string>Khatulbur</string>
+            <string>Khazgurgar</string>
+            <string>Khazgurtag</string>
+            <string>Largar</string>
+            <string>Largargar</string>
+            <string>Largargash</string>
+            <string>Largarkfen</string>
+            <string>Largarkul</string>
+            <string>Largarum</string>
+            <string>Largarun</string>
+            <string>Largarzul</string>
+            <string>Largash</string>
+            <string>Larkbite</string>
+            <string>Larkfen</string>
+            <string>Larkul</string>
+            <string>Larkulbur</string>
+            <string>Larublog</string>
+            <string>Larum</string>
+            <string>Larumnosh</string>
+            <string>Larun</string>
+            <string>Larzul</string>
+            <string>Larzulbur</string>
+            <string>Lave</string>
+            <string>Lhur</string>
+            <string>Lhurgar</string>
+            <string>Lhurgargar</string>
+            <string>Lhurgarkul</string>
+            <string>Lhurgarum</string>
+            <string>Lhurgarun</string>
+            <string>Lhurgarzul</string>
+            <string>Lhurtag</string>
+            <string>Lhurtagosh</string>
+            <string>Luccinikh</string>
+            <string>Luccinium</string>
+            <string>Morkbite</string>
+            <string>Morkfen</string>
+            <string>Morkulbur</string>
+            <string>Murgar</string>
+            <string>Murgargar</string>
+            <string>Murgargash</string>
+            <string>Murgarkfen</string>
+            <string>Murgarkul</string>
+            <string>Murgarum</string>
+            <string>Murgarun</string>
+            <string>Murgarzul</string>
+            <string>Murgash</string>
+            <string>Murgashbur</string>
+            <string>Murtagosh</string>
+            <string>Nargar</string>
+            <string>Nargargar</string>
+            <string>Nargargash</string>
+            <string>Nargarkfen</string>
+            <string>Nargarkul</string>
+            <string>Nargarum</string>
+            <string>Nargarun</string>
+            <string>Nargarzul</string>
+            <string>Nargash</string>
+            <string>Nargashbur</string>
+            <string>Narkbite</string>
+            <string>Narkfen</string>
+            <string>Narkul</string>
+            <string>Narkulbur</string>
+            <string>Narublog</string>
+            <string>Narum</string>
+            <string>Narumnosh</string>
+            <string>Narun</string>
+            <string>Narzul</string>
+            <string>Orsin</string>
+            <string>Orsinikh</string>
+            <string>Orsinikhar</string>
+            <string>Pandrublog</string>
+            <string>Pandrun</string>
+            <string>Rush</string>
+            <string>Rushbur</string>
+            <string>Rushburgar</string>
+            <string>Rushburtag</string>
+            <string>Rushnikh</string>
+            <string>Rushnikhar</string>
+            <string>Rushnium</string>
+            <string>Shar</string>
+            <string>Shargar</string>
+            <string>Shargargar</string>
+            <string>Shargarkul</string>
+            <string>Shargarum</string>
+            <string>Shargarun</string>
+            <string>Shargarzul</string>
+            <string>Shargash</string>
+            <string>Sharkbite</string>
+            <string>Sharkfen</string>
+            <string>Sharkul</string>
+            <string>Sharkulbur</string>
+            <string>Sharublog</string>
+            <string>Sharum</string>
+            <string>Sharumnosh</string>
+            <string>Sharun</string>
+            <string>Sharzul</string>
+            <string>Sharzulbur</string>
+            <string>Shatulbur</string>
+            <string>Shazgur</string>
+            <string>Shazgurgar</string>
+            <string>Shazgurtag</string>
+            <string>Tumnoshbur</string>
+            <string>Wrothgarum</string>
+            <string>Wrothgarun</string>
+            <string>Wrothgash</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>orcish</Id>
+        <Weight>100</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Abzag gro</string>
+              <string>Abzrolg gro</string>
+              <string>Abzug gro</string>
+              <string>Agganor gro</string>
+              <string>Aghurz gro</string>
+              <string>Agnar gro</string>
+              <string>Agrakh gro</string>
+              <string>Agrobal gro</string>
+              <string>Agronak gro</string>
+              <string>Agstarg gro</string>
+              <string>Aguz gro</string>
+              <string>Ahzug gro</string>
+              <string>Arghragdush gro</string>
+              <string>Arghur gro</string>
+              <string>Ashzu gro</string>
+              <string>Atulg gro</string>
+              <string>Aturgh gro</string>
+              <string>Avreg gro</string>
+              <string>Azarg gro</string>
+              <string>Azgarub gro</string>
+              <string>Azimbul gro</string>
+              <string>Azogu gro</string>
+              <string>Azrath gro</string>
+              <string>Azuk gro</string>
+              <string>Azulg gro</string>
+              <string>Bagamul gro</string>
+              <string>Bakh gro</string>
+              <string>Balagog gro</string>
+              <string>Balarkh gro</string>
+              <string>Balknakh gro</string>
+              <string>Balmeg gro</string>
+              <string>Balorgh gro</string>
+              <string>Baloth gro</string>
+              <string>Balrook gro</string>
+              <string>Balzag gro</string>
+              <string>Bargo gro</string>
+              <string>Bargrug gro</string>
+              <string>Baronk gro</string>
+              <string>Bash gro</string>
+              <string>Bashag gro</string>
+              <string>Bashagorn gro</string>
+              <string>Bashnag gro</string>
+              <string>Bat gro</string>
+              <string>Batgrul gro</string>
+              <string>Bazgulub gro</string>
+              <string>Bazrag gro</string>
+              <string>Bazur gro</string>
+              <string>Begnar gro</string>
+              <string>Begozug gro</string>
+              <string>Bekhwug gro</string>
+              <string>Bhagrun gro</string>
+              <string>Biknuk gro</string>
+              <string>Bisquelas gro</string>
+              <string>Blodrat gro</string>
+              <string>Boagog gro</string>
+              <string>Bogakh gro</string>
+              <string>Boggeryk gro</string>
+              <string>Bogham gro</string>
+              <string>Bognash gro</string>
+              <string>Bogodug gro</string>
+              <string>Bogrum gro</string>
+              <string>Bogzul gro</string>
+              <string>Boldarkh gro</string>
+              <string>Bolg gro</string>
+              <string>Bolgrul gro</string>
+              <string>Bologra gro</string>
+              <string>Borab gro</string>
+              <string>Boragrul gro</string>
+              <string>Borbuz gro</string>
+              <string>Borgath gro</string>
+              <string>Borgh gro</string>
+              <string>Borkul gro</string>
+              <string>Bormolg gro</string>
+              <string>Borolg gro</string>
+              <string>Borth gro</string>
+              <string>Borug gro</string>
+              <string>Borz gro</string>
+              <string>Borzighu gro</string>
+              <string>Borzugh gro</string>
+              <string>Both gro</string>
+              <string>Bothamul gro</string>
+              <string>Braadoth gro</string>
+              <string>Brag gro</string>
+              <string>Braghul gro</string>
+              <string>Brog gro</string>
+              <string>Brogdul gro</string>
+              <string>Brokil gro</string>
+              <string>Brugagikh gro</string>
+              <string>Brugdush gro</string>
+              <string>Brughamug gro</string>
+              <string>Brugo gro</string>
+              <string>Brulak gro</string>
+              <string>Bugak gro</string>
+              <string>Bugdul gro</string>
+              <string>Bugharz gro</string>
+              <string>Bugnerg gro</string>
+              <string>Bugrash gro</string>
+              <string>Bugrol gro</string>
+              <string>Bugunh gro</string>
+              <string>Bulg gro</string>
+              <string>Bullig gro</string>
+              <string>Bulozog gro</string>
+              <string>Bulugbek gro</string>
+              <string>Bulzog gro</string>
+              <string>Bumbub gro</string>
+              <string>Bumnog gro</string>
+              <string>Buragrub gro</string>
+              <string>Buramog gro</string>
+              <string>Burguk gro</string>
+              <string>Burul gro</string>
+              <string>Burush gro</string>
+              <string>Burz gro</string>
+              <string>Burzgrag gro</string>
+              <string>Burzunguk gro</string>
+              <string>Burzura gro</string>
+              <string>Buzog gro</string>
+              <string>Carzog gro</string>
+              <string>Charlvain gro</string>
+              <string>Cognor gro</string>
+              <string>Dagnub gro</string>
+              <string>Dorzogg gro</string>
+              <string>Dragom gro</string>
+              <string>Dromash gro</string>
+              <string>Drudun gro</string>
+              <string>Dubok gro</string>
+              <string>Dugakh gro</string>
+              <string>Dugan gro</string>
+              <string>Dugroth gro</string>
+              <string>Dugrul gro</string>
+              <string>Dugtosh gro</string>
+              <string>Dugug gro</string>
+              <string>Dugugikh gro</string>
+              <string>Dul gro</string>
+              <string>Dular gro</string>
+              <string>Dulfish gro</string>
+              <string>Dulph gro</string>
+              <string>Dulphago gro</string>
+              <string>Dulphumph gro</string>
+              <string>Dulrat gro</string>
+              <string>Duluk gro</string>
+              <string>Duma gro</string>
+              <string>Dumag gro</string>
+              <string>Dumbuk gro</string>
+              <string>Dumburz gro</string>
+              <string>Dumolg gro</string>
+              <string>Dur gro</string>
+              <string>Durak gro</string>
+              <string>Durang gro</string>
+              <string>Durbul gro</string>
+              <string>Durgash gro</string>
+              <string>Durgob gro</string>
+              <string>Durz gro</string>
+              <string>Durzol gro</string>
+              <string>Durzub gro</string>
+              <string>Durzum gro</string>
+              <string>Dushgor gro</string>
+              <string>Dushkul gro</string>
+              <string>Dushnamub gro</string>
+              <string>Dushugg gro</string>
+              <string>Fangoz gro</string>
+              <string>Farbalg gro</string>
+              <string>Fheg gro</string>
+              <string>Gadba gro</string>
+              <string>Gag gro</string>
+              <string>Gahar gro</string>
+              <string>Gahgdar gro</string>
+              <string>Gahznar gro</string>
+              <string>Gard gro</string>
+              <string>Gargak gro</string>
+              <string>Garikh gro</string>
+              <string>Garmeg gro</string>
+              <string>Garnag gro</string>
+              <string>Garnikh gro</string>
+              <string>Garothmuk gro</string>
+              <string>Garzonk gro</string>
+              <string>Gashdug gro</string>
+              <string>Gasheg gro</string>
+              <string>Gashna gro</string>
+              <string>Gashzug gro</string>
+              <string>Gat gro</string>
+              <string>Gaturn gro</string>
+              <string>Gezdak gro</string>
+              <string>Gezorz gro</string>
+              <string>Ghagrub gro</string>
+              <string>Ghak gro</string>
+              <string>Ghaknag gro</string>
+              <string>Ghakorz gro</string>
+              <string>Ghamborz gro</string>
+              <string>Ghamonk gro</string>
+              <string>Ghamorz gro</string>
+              <string>Ghamron gro</string>
+              <string>Ghamulg gro</string>
+              <string>Ghash gro</string>
+              <string>Ghashur gro</string>
+              <string>Ghatrugh gro</string>
+              <string>Ghaturn gro</string>
+              <string>Ghaz gro</string>
+              <string>Ghobargh gro</string>
+              <string>Ghogurz gro</string>
+              <string>Ghola gro</string>
+              <string>Ghoragdush gro</string>
+              <string>Ghorbash gro</string>
+              <string>Ghorlorz gro</string>
+              <string>Ghorn gro</string>
+              <string>Ghornag gro</string>
+              <string>Ghornugag gro</string>
+              <string>Ghorub gro</string>
+              <string>Ghrategg gro</string>
+              <string>Ghromrash gro</string>
+              <string>Ghrubugbash gro</string>
+              <string>Ghrum gro</string>
+              <string>Ghunzul gro</string>
+              <string>Gladba gro</string>
+              <string>Glag gro</string>
+              <string>Glagbor gro</string>
+              <string>Glamalg gro</string>
+              <string>Glarg gro</string>
+              <string>Glaz gro</string>
+              <string>Glazgor gro</string>
+              <string>Glazulg gro</string>
+              <string>Glegokh gro</string>
+              <string>Gloorag gro</string>
+              <string>Gloorot gro</string>
+              <string>Glorgzorgo gro</string>
+              <string>Gloth gro</string>
+              <string>Glothozug gro</string>
+              <string>Glothun gro</string>
+              <string>Glud gro</string>
+              <string>Glundeg gro</string>
+              <string>Glunrum gro</string>
+              <string>Glunurgakh gro</string>
+              <string>Glurdag gro</string>
+              <string>Glurnt gro</string>
+              <string>Glush gro</string>
+              <string>Glushonkh gro</string>
+              <string>Gluthob gro</string>
+              <string>Gluthush gro</string>
+              <string>Gobur gro</string>
+              <string>Goburbak gro</string>
+              <string>Godrun gro</string>
+              <string>Gogaz gro</string>
+              <string>Gogbag gro</string>
+              <string>Gogrikh gro</string>
+              <string>Gogron gro</string>
+              <string>Goh gro</string>
+              <string>Gohazgu gro</string>
+              <string>Gohorg gro</string>
+              <string>Golbag gro</string>
+              <string>Golg gro</string>
+              <string>Goorgul gro</string>
+              <string>Goragol gro</string>
+              <string>Gorak gro</string>
+              <string>Goramalg gro</string>
+              <string>Gorbakh gro</string>
+              <string>Gorblad gro</string>
+              <string>Gorbu gro</string>
+              <string>Gordag gro</string>
+              <string>Gorgath gro</string>
+              <string>Gorgo gro</string>
+              <string>Gorgrolg gro</string>
+              <string>Gorlar gro</string>
+              <string>Gorotho gro</string>
+              <string>Gorrath gro</string>
+              <string>Gortwog gro</string>
+              <string>Goruz gro</string>
+              <string>Gorzesh gro</string>
+              <string>Gothag gro</string>
+              <string>Gothurg gro</string>
+              <string>Gozarth gro</string>
+              <string>Graalug gro</string>
+              <string>Graguz gro</string>
+              <string>Graklak gro</string>
+              <string>Gralturg gro</string>
+              <string>Graman gro</string>
+              <string>Grashbag gro</string>
+              <string>Grashegg gro</string>
+              <string>Grashub gro</string>
+              <string>Grat gro</string>
+              <string>Gravik gro</string>
+              <string>Grazhwu gro</string>
+              <string>Grezgor gro</string>
+              <string>Grishduf gro</string>
+              <string>Grodagur gro</string>
+              <string>Grodoguz gro</string>
+              <string>Grog gro</string>
+              <string>Grogmar gro</string>
+              <string>Gromazgu gro</string>
+              <string>Grommok gro</string>
+              <string>Gronov gro</string>
+              <string>Grookh gro</string>
+              <string>Grubdosh gro</string>
+              <string>Grudogub gro</string>
+              <string>Grugnur gro</string>
+              <string>Grul gro</string>
+              <string>Grulbash gro</string>
+              <string>Gruldum gro</string>
+              <string>Gruloq gro</string>
+              <string>Gruluk gro</string>
+              <string>Grulzul gro</string>
+              <string>Grumth gro</string>
+              <string>Grunyun gro</string>
+              <string>Grushbub gro</string>
+              <string>Grushnag gro</string>
+              <string>Gruudus gro</string>
+              <string>Gruzdash gro</string>
+              <string>Gruzgob gro</string>
+              <string>Gruznak gro</string>
+              <string>Guarg gro</string>
+              <string>Gudrig gro</string>
+              <string>Gul gro</string>
+              <string>Gulargh gro</string>
+              <string>Gularzob gro</string>
+              <string>Gulburz gro</string>
+              <string>Gulug gro</string>
+              <string>Gulzog gro</string>
+              <string>Gunagud gro</string>
+              <string>Gunda gro</string>
+              <string>Gunran gro</string>
+              <string>Gurag gro</string>
+              <string>Gurak gro</string>
+              <string>Gurg gro</string>
+              <string>Gurgozod gro</string>
+              <string>Gurlak gro</string>
+              <string>Guruzug gro</string>
+              <string>Gushagub gro</string>
+              <string>Gushorg gro</string>
+              <string>Guzg gro</string>
+              <string>Gwilherm gro</string>
+              <string>Hagard gro</string>
+              <string>Hanz gro</string>
+              <string>Hazbur gro</string>
+              <string>Horak gro</string>
+              <string>Hothmuk gro</string>
+              <string>Ilthag gro</string>
+              <string>Inazzur gro</string>
+              <string>Joun gro</string>
+              <string>Kadrun gro</string>
+              <string>Kargnuth gro</string>
+              <string>Kazok gro</string>
+              <string>Kelrog gro</string>
+              <string>Kentosh gro</string>
+              <string>Khadba gro</string>
+              <string>Khagra gro</string>
+              <string>Khal gro</string>
+              <string>Khamagash gro</string>
+              <string>Kharag gro</string>
+              <string>Kharg gro</string>
+              <string>Khargol gro</string>
+              <string>Kharsh gro</string>
+              <string>Kharsthun gro</string>
+              <string>Khartag gro</string>
+              <string>Khoruzoth gro</string>
+              <string>Khralek gro</string>
+              <string>Kirgut gro</string>
+              <string>Klang gro</string>
+              <string>Klovag gro</string>
+              <string>Koffutto gro</string>
+              <string>Kogaz gro</string>
+              <string>Kradauk gro</string>
+              <string>Krodak gro</string>
+              <string>Krog gro</string>
+              <string>Krognak gro</string>
+              <string>Krogrash gro</string>
+              <string>Kulth gro</string>
+              <string>Kurd gro</string>
+              <string>Kurdan gro</string>
+              <string>Kurlash gro</string>
+              <string>Kurog gro</string>
+              <string>Kurz gro</string>
+              <string>Lagarg gro</string>
+              <string>Lagrog gro</string>
+              <string>Lahkgarg gro</string>
+              <string>Lakhalg gro</string>
+              <string>Lakhdosh gro</string>
+              <string>Larak gro</string>
+              <string>Largakh gro</string>
+              <string>Larhoth gro</string>
+              <string>Larob gro</string>
+              <string>Lashbag gro</string>
+              <string>Latumph gro</string>
+              <string>Laurig gro</string>
+              <string>Lazgel gro</string>
+              <string>Lob gro</string>
+              <string>Logbur gro</string>
+              <string>Loghorz gro</string>
+              <string>Logogru gro</string>
+              <string>Logrun gro</string>
+              <string>Lorbash gro</string>
+              <string>Lorbumol gro</string>
+              <string>Lorzub gro</string>
+              <string>Lothdush gro</string>
+              <string>Lothgud gro</string>
+              <string>Lozotusk gro</string>
+              <string>Lozruth gro</string>
+              <string>Lug gro</string>
+              <string>Lugbagg gro</string>
+              <string>Lugbur gro</string>
+              <string>Lugdakh gro</string>
+              <string>Lugdugul gro</string>
+              <string>Lugdum gro</string>
+              <string>Lugnikh gro</string>
+              <string>Lugolg gro</string>
+              <string>Lugrots gro</string>
+              <string>Lugrub gro</string>
+              <string>Lugrun gro</string>
+              <string>Lugulg gro</string>
+              <string>Lugzod gro</string>
+              <string>Lum gro</string>
+              <string>Lumdum gro</string>
+              <string>Lumgol gro</string>
+              <string>Lungruk gro</string>
+              <string>Lurash gro</string>
+              <string>Lurbozog gro</string>
+              <string>Lurbuk gro</string>
+              <string>Lurg gro</string>
+              <string>Lurgonash gro</string>
+              <string>Lurog gro</string>
+              <string>Luronk gro</string>
+              <string>Luz gro</string>
+              <string>Luzmash gro</string>
+              <string>Maaga gro</string>
+              <string>Mag gro</string>
+              <string>Magra gro</string>
+              <string>Magrol gro</string>
+              <string>Magub gro</string>
+              <string>Magunh gro</string>
+              <string>Mahk gro</string>
+              <string>Makhel gro</string>
+              <string>Makhoguz gro</string>
+              <string>Makhug gro</string>
+              <string>Maknok gro</string>
+              <string>Makor gro</string>
+              <string>Malkus gro</string>
+              <string>Margog gro</string>
+              <string>Marzul gro</string>
+              <string>Mash gro</string>
+              <string>Matuk gro</string>
+              <string>Maugash gro</string>
+              <string>Mauhoth gro</string>
+              <string>Mauhul gro</string>
+              <string>Mauhulakh gro</string>
+              <string>Mazabakh gro</string>
+              <string>Mazgro gro</string>
+              <string>Mazogug gro</string>
+              <string>Mazorn gro</string>
+              <string>Megorz gro</string>
+              <string>Mekag gro</string>
+              <string>Modig gro</string>
+              <string>Mog gro</string>
+              <string>Mogazgur gro</string>
+              <string>Moghakh gro</string>
+              <string>Mogrub gro</string>
+              <string>Mogrul gro</string>
+              <string>Mokhrul gro</string>
+              <string>Mokhul gro</string>
+              <string>Mol gro</string>
+              <string>Molg gro</string>
+              <string>Monru gro</string>
+              <string>Morbash gro</string>
+              <string>Morbrogug gro</string>
+              <string>Mordrog gro</string>
+              <string>Mordugul gro</string>
+              <string>Mordularg gro</string>
+              <string>Morg gro</string>
+              <string>Morgaz gro</string>
+              <string>Morgbrath gro</string>
+              <string>Morlak gro</string>
+              <string>Morothmash gro</string>
+              <string>Morotub gro</string>
+              <string>Mort gro</string>
+              <string>Moth gro</string>
+              <string>Mothozog gro</string>
+              <string>Muduk gro</string>
+              <string>Mudush gro</string>
+              <string>Mug gro</string>
+              <string>Mugdul gro</string>
+              <string>Muglugd gro</string>
+              <string>Mugrub gro</string>
+              <string>Muhaimin gro</string>
+              <string>Muk gro</string>
+              <string>Mul gro</string>
+              <string>Mulatub gro</string>
+              <string>Mulgargh gro</string>
+              <string>Mulgu gro</string>
+              <string>Mulur gro</string>
+              <string>Mulush gro</string>
+              <string>Mulzalt gro</string>
+              <string>Mungro gro</string>
+              <string>Murag gro</string>
+              <string>Murdodosh gro</string>
+              <string>Murgonak gro</string>
+              <string>Murgoz gro</string>
+              <string>Murgrud gro</string>
+              <string>Murkh gro</string>
+              <string>Murkub gro</string>
+              <string>Murlog gro</string>
+              <string>Murukh gro</string>
+              <string>Murzog gro</string>
+              <string>Murzol gro</string>
+              <string>Muzb gro</string>
+              <string>Muzbar gro</string>
+              <string>Muzdrulz gro</string>
+              <string>Muzgalg gro</string>
+              <string>Muzgash gro</string>
+              <string>Muzgonk gro</string>
+              <string>Muzgu gro</string>
+              <string>Muzogu gro</string>
+              <string>Nag gro</string>
+              <string>Nagoth gro</string>
+              <string>Nagrub gro</string>
+              <string>Nagrul gro</string>
+              <string>Nahzgra gro</string>
+              <string>Nahzush gro</string>
+              <string>Nakhul gro</string>
+              <string>Namoroth gro</string>
+              <string>Nar gro</string>
+              <string>Narazz gro</string>
+              <string>Nargbagorn gro</string>
+              <string>Nargi gro</string>
+              <string>Narhag gro</string>
+              <string>Narkhagikh gro</string>
+              <string>Narkhozikh gro</string>
+              <string>Narkhukulg gro</string>
+              <string>Narkularz gro</string>
+              <string>Nash gro</string>
+              <string>Nashruth gro</string>
+              <string>Nenesh gro</string>
+              <string>Norgol gro</string>
+              <string>Nugok gro</string>
+              <string>Nugwugg gro</string>
+              <string>Nunkuk gro</string>
+              <string>Obdeg gro</string>
+              <string>Obgol gro</string>
+              <string>Obgurob gro</string>
+              <string>Obrash gro</string>
+              <string>Ofglog gro</string>
+              <string>Oglub gro</string>
+              <string>Ogmash gro</string>
+              <string>Ogog gro</string>
+              <string>Ogol gro</string>
+              <string>Ogorosh gro</string>
+              <string>Ogozod gro</string>
+              <string>Ograt gro</string>
+              <string>Ogruk gro</string>
+              <string>Ogrul gro</string>
+              <string>Ogrumbu gro</string>
+              <string>Ogularz gro</string>
+              <string>Ogumalg gro</string>
+              <string>Ogzor gro</string>
+              <string>Okrat gro</string>
+              <string>Olfim gro</string>
+              <string>Olfin gro</string>
+              <string>Olfrig gro</string>
+              <string>Olgol gro</string>
+              <string>Olpac gro</string>
+              <string>Olugush gro</string>
+              <string>Olumba gro</string>
+              <string>Olur gro</string>
+              <string>Ontogu gro</string>
+              <string>Oodeg gro</string>
+              <string>Oodegu gro</string>
+              <string>Oogron gro</string>
+              <string>Oorg gro</string>
+              <string>Oorgurn gro</string>
+              <string>Oorlug gro</string>
+              <string>Oosh gro</string>
+              <string>Orakh gro</string>
+              <string>Ordooth gro</string>
+              <string>Orgak gro</string>
+              <string>Orgdragog gro</string>
+              <string>Orgdugrash gro</string>
+              <string>Orgotash gro</string>
+              <string>Orgush gro</string>
+              <string>Orntosh gro</string>
+              <string>Orok gro</string>
+              <string>Orzbara gro</string>
+              <string>Orzuk gro</string>
+              <string>Osgrikh gro</string>
+              <string>Osgulug gro</string>
+              <string>Othbug gro</string>
+              <string>Othigu gro</string>
+              <string>Othmash gro</string>
+              <string>Othogor gro</string>
+              <string>Othohoth gro</string>
+              <string>Otholug gro</string>
+              <string>Othukul gro</string>
+              <string>Othulg gro</string>
+              <string>Othzog gro</string>
+              <string>Ozor gro</string>
+              <string>Pergol gro</string>
+              <string>Putor gro</string>
+              <string>Rablarz gro</string>
+              <string>Ragbul gro</string>
+              <string>Ragbur gro</string>
+              <string>Ragnast gro</string>
+              <string>Ramash gro</string>
+              <string>Ramazbur gro</string>
+              <string>Ramolg gro</string>
+              <string>Ramorgol gro</string>
+              <string>Ramosh gro</string>
+              <string>Razgor gro</string>
+              <string>Razgugul gro</string>
+              <string>Razgurug gro</string>
+              <string>Rhosh gro</string>
+              <string>Rogbum gro</string>
+              <string>Rogdul gro</string>
+              <string>Rognar gro</string>
+              <string>Rogrug gro</string>
+              <string>Rogthun gro</string>
+              <string>Rogurog gro</string>
+              <string>Roguzog gro</string>
+              <string>Rokaug gro</string>
+              <string>Rokut gro</string>
+              <string>Roog gro</string>
+              <string>Rooghub gro</string>
+              <string>Rooglag gro</string>
+              <string>Rorburz gro</string>
+              <string>Rozag gro</string>
+              <string>Rugdrulz gro</string>
+              <string>Rugdugbash gro</string>
+              <string>Rugdumph gro</string>
+              <string>Rugmeg gro</string>
+              <string>Ruzgrol gro</string>
+              <string>Sgagul gro</string>
+              <string>Sgolag gro</string>
+              <string>Shab gro</string>
+              <string>Shagol gro</string>
+              <string>Shagrod gro</string>
+              <string>Shagrol gro</string>
+              <string>Shakh gro</string>
+              <string>Shakhighu gro</string>
+              <string>Shamagug gro</string>
+              <string>Shamar gro</string>
+              <string>Shamlakh gro</string>
+              <string>Shamob gro</string>
+              <string>Shargam gro</string>
+              <string>Shargarkh gro</string>
+              <string>Shargunh gro</string>
+              <string>Sharkagub gro</string>
+              <string>Sharkub gro</string>
+              <string>Sharkuzog gro</string>
+              <string>Sharnag gro</string>
+              <string>Shat gro</string>
+              <string>Shazgob gro</string>
+              <string>Shelakh gro</string>
+              <string>Shobob gro</string>
+              <string>Shogarz gro</string>
+              <string>Shogorn gro</string>
+              <string>Shugral gro</string>
+              <string>Shukul gro</string>
+              <string>Shulong gro</string>
+              <string>Shulthog gro</string>
+              <string>Shum gro</string>
+              <string>Shura gro</string>
+              <string>Shurkol gro</string>
+              <string>Shurkul gro</string>
+              <string>Shuzug gro</string>
+              <string>Skagurn gro</string>
+              <string>Skagwar gro</string>
+              <string>Skalgunh gro</string>
+              <string>Skalguth gro</string>
+              <string>Skarath gro</string>
+              <string>Skordo gro</string>
+              <string>Skulzak gro</string>
+              <string>Slagwug gro</string>
+              <string>Slayag gro</string>
+              <string>Slegbash gro</string>
+              <string>Smagbogoth gro</string>
+              <string>Smagg gro</string>
+              <string>Smauk gro</string>
+              <string>Snabazkur gro</string>
+              <string>Snagbash gro</string>
+              <string>Snagdurl gro</string>
+              <string>Snagg gro</string>
+              <string>Snagh gro</string>
+              <string>Snaglak gro</string>
+              <string>Snakh gro</string>
+              <string>Snakha gro</string>
+              <string>Snakzut gro</string>
+              <string>Snalikh gro</string>
+              <string>Snarbugag gro</string>
+              <string>Snargorg gro</string>
+              <string>Snat gro</string>
+              <string>Snazumph gro</string>
+              <string>Sneg gro</string>
+              <string>Snegbug gro</string>
+              <string>Snegburgak gro</string>
+              <string>Snegh gro</string>
+              <string>Sneghar gro</string>
+              <string>Snikhbat gro</string>
+              <string>Snoog gro</string>
+              <string>Snoorg gro</string>
+              <string>Snugar gro</string>
+              <string>Snugok gro</string>
+              <string>Snukh gro</string>
+              <string>Snushbat gro</string>
+              <string>Sogh gro</string>
+              <string>Spagel gro</string>
+              <string>Storgh gro</string>
+              <string>Stugbrulz gro</string>
+              <string>Stugbulukh gro</string>
+              <string>Szugburg gro</string>
+              <string>Szugogroth gro</string>
+              <string>Targak gro</string>
+              <string>Targoth gro</string>
+              <string>Tazgol gro</string>
+              <string>Tazgul gro</string>
+              <string>Thagam gro</string>
+              <string>Thagbruth gro</string>
+              <string>Thagbush gro</string>
+              <string>Thakaz gro</string>
+              <string>Thakh gro</string>
+              <string>Thakush gro</string>
+              <string>Tharag gro</string>
+              <string>Tharkul gro</string>
+              <string>Thaz gro</string>
+              <string>Thazeg gro</string>
+              <string>Thaznog gro</string>
+              <string>Thegur gro</string>
+              <string>Thereg gro</string>
+              <string>Tholog gro</string>
+              <string>Thoogh gro</string>
+              <string>Thorkh gro</string>
+              <string>Thorzh gro</string>
+              <string>Thorzhul gro</string>
+              <string>Thrag gro</string>
+              <string>Thragdosh gro</string>
+              <string>Thragosh gro</string>
+              <string>Threg gro</string>
+              <string>Thrug gro</string>
+              <string>Thrugb gro</string>
+              <string>Thrunikh gro</string>
+              <string>Thukbug gro</string>
+              <string>Thungdosh gro</string>
+              <string>Todrak gro</string>
+              <string>Togbrig gro</string>
+              <string>Tograz gro</string>
+              <string>Torg gro</string>
+              <string>Torug gro</string>
+              <string>Tugam gro</string>
+              <string>Tugawuz gro</string>
+              <string>Tumuthag gro</string>
+              <string>Tungthu gro</string>
+              <string>Ufthag gro</string>
+              <string>Ugdumph gro</string>
+              <string>Ugdush gro</string>
+              <string>Uggnath gro</string>
+              <string>Ughash gro</string>
+              <string>Ugorz gro</string>
+              <string>Ugruntuk gro</string>
+              <string>Uguntig gro</string>
+              <string>Ugurz gro</string>
+              <string>Ulag gro</string>
+              <string>Ulagash gro</string>
+              <string>Ulagug gro</string>
+              <string>Ulam gro</string>
+              <string>Ulang gro</string>
+              <string>Ulgdagorn gro</string>
+              <string>Ulghesh gro</string>
+              <string>Ulmamug gro</string>
+              <string>Ulmug gro</string>
+              <string>Ulozikh gro</string>
+              <string>Umug gro</string>
+              <string>Umurn gro</string>
+              <string>Undrigug gro</string>
+              <string>Undugar gro</string>
+              <string>Ungruk gro</string>
+              <string>Unrahg gro</string>
+              <string>Unthrikh gro</string>
+              <string>Urag gro</string>
+              <string>Uragor gro</string>
+              <string>Urak gro</string>
+              <string>Uram gro</string>
+              <string>Urbul gro</string>
+              <string>Urdbug gro</string>
+              <string>Urgdosh gro</string>
+              <string>Urim gro</string>
+              <string>Urmuk gro</string>
+              <string>Urok gro</string>
+              <string>Urul gro</string>
+              <string>Urzog gro</string>
+              <string>Ushamph gro</string>
+              <string>Ushang gro</string>
+              <string>Ushat gro</string>
+              <string>Ushnar gro</string>
+              <string>Usn gro</string>
+              <string>Usnagikh gro</string>
+              <string>Uugus gro</string>
+              <string>Uulgarg gro</string>
+              <string>Uuth gro</string>
+              <string>Uzgakh gro</string>
+              <string>Uznom gro</string>
+              <string>Uzul gro</string>
+              <string>Vargos gro</string>
+              <string>Vulmon gro</string>
+              <string>Vundrum gro</string>
+              <string>Waghuth gro</string>
+              <string>Wardush gro</string>
+              <string>Wort gro</string>
+              <string>Wuzgu gro</string>
+              <string>Yadba gro</string>
+              <string>Yagak gro</string>
+              <string>Yagarg gro</string>
+              <string>Yagorkh gro</string>
+              <string>Yagramak gro</string>
+              <string>Yak gro</string>
+              <string>Yakegg gro</string>
+              <string>Yam gro</string>
+              <string>Yamarz gro</string>
+              <string>Yambagorn gro</string>
+              <string>Yambul gro</string>
+              <string>Yamukuz gro</string>
+              <string>Yar gro</string>
+              <string>Yargob gro</string>
+              <string>Yargol gro</string>
+              <string>Yarnabakh gro</string>
+              <string>Yarnag gro</string>
+              <string>Yarulg gro</string>
+              <string>Yashnarz gro</string>
+              <string>Yat gro</string>
+              <string>Yatog gro</string>
+              <string>Yatur gro</string>
+              <string>Yggnast gro</string>
+              <string>Yggoz gro</string>
+              <string>Yggruk gro</string>
+              <string>Yggurz gro</string>
+              <string>Yozth gro</string>
+              <string>Yzzgol gro</string>
+              <string>Zagh gro</string>
+              <string>Zaghurbak gro</string>
+              <string>Zagrakh gro</string>
+              <string>Zagrugh gro</string>
+              <string>Zbulg gro</string>
+              <string>Zegol gro</string>
+              <string>Zgog gro</string>
+              <string>Zhagush gro</string>
+              <string>Zhasim gro</string>
+              <string>Zhosh gro</string>
+              <string>Zilbash gro</string>
+              <string>Zogbag gro</string>
+              <string>Zugnor gro</string>
+              <string>Zulbash gro</string>
+              <string>Zulbek gro</string>
+              <string>Zulgozu gro</string>
+              <string>Zulgroth gro</string>
+              <string>Zulgukh gro</string>
+              <string>Zulohoth gro</string>
+              <string>Zungarg gro</string>
+              <string>Zunlog gro</string>
+            </Values>
+          </NameGroup>
+        </MaleFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Abimfash gra</string>
+              <string>Adkul gra</string>
+              <string>Adlugbuk gra</string>
+              <string>Agazu gra</string>
+              <string>Agdesh gra</string>
+              <string>Aglash gra</string>
+              <string>Agli gra</string>
+              <string>Agral gra</string>
+              <string>Agrash gra</string>
+              <string>Agrob gra</string>
+              <string>Agrulla gra</string>
+              <string>Agzurz gra</string>
+              <string>Akarah gra</string>
+              <string>Akash gra</string>
+              <string>Akgruhl gra</string>
+              <string>Akkra gra</string>
+              <string>Aklash gra</string>
+              <string>Akur gra</string>
+              <string>Alga gra</string>
+              <string>Anbarah gra</string>
+              <string>Arakh gra</string>
+              <string>Argurgol gra</string>
+              <string>Arob gra</string>
+              <string>Arzakh gra</string>
+              <string>Arzorag gra</string>
+              <string>Ashaka gra</string>
+              <string>Ashgara gra</string>
+              <string>Ashgel gra</string>
+              <string>Ashrashag gra</string>
+              <string>Atarga gra</string>
+              <string>Atoga gra</string>
+              <string>Atorag gra</string>
+              <string>Atub gra</string>
+              <string>Atugol gra</string>
+              <string>Atzurbesh gra</string>
+              <string>Aza gra</string>
+              <string>Azabesh gra</string>
+              <string>Azadhai gra</string>
+              <string>Azga gra</string>
+              <string>Azhnakha gra</string>
+              <string>Azhnolga gra</string>
+              <string>Azhnura gra</string>
+              <string>Azilkh gra</string>
+              <string>Azlakha gra</string>
+              <string>Azulga gra</string>
+              <string>Baag gra</string>
+              <string>Baagug gra</string>
+              <string>Badbog gra</string>
+              <string>Badush gra</string>
+              <string>Bafthaka gra</string>
+              <string>Bagda gra</string>
+              <string>Bagrak gra</string>
+              <string>Bagrugbesh gra</string>
+              <string>Bagul gra</string>
+              <string>Bagula gra</string>
+              <string>Barazal gra</string>
+              <string>Barza gra</string>
+              <string>Bashotha gra</string>
+              <string>Bashuk gra</string>
+              <string>Batara gra</string>
+              <string>Batasha gra</string>
+              <string>Batorabesh gra</string>
+              <string>Batul gra</string>
+              <string>Batum gra</string>
+              <string>Bazbava gra</string>
+              <string>Bazgabesh gra</string>
+              <string>Bazgara gra</string>
+              <string>Bhagruan gra</string>
+              <string>Bizra gra</string>
+              <string>Bluga gra</string>
+              <string>Bogdub gra</string>
+              <string>Bolaag gra</string>
+              <string>Bolar gra</string>
+              <string>Bolash gra</string>
+              <string>Bolgar gra</string>
+              <string>Bolugbeka gra</string>
+              <string>Bor gra</string>
+              <string>Borba gra</string>
+              <string>Borbgur gra</string>
+              <string>Borbuga gra</string>
+              <string>Borgakh gra</string>
+              <string>Borgburakh gra</string>
+              <string>Borgdorga gra</string>
+              <string>Borghak gra</string>
+              <string>Borgrara gra</string>
+              <string>Boroth gra</string>
+              <string>Borzog gra</string>
+              <string>Brekgun gra</string>
+              <string>Bugbekh gra</string>
+              <string>Bugbesh gra</string>
+              <string>Bugdurash gra</string>
+              <string>Bugha gra</string>
+              <string>Bula gra</string>
+              <string>Bulag gra</string>
+              <string>Bulak gra</string>
+              <string>Bularkh gra</string>
+              <string>Bulfim gra</string>
+              <string>Bulfor gra</string>
+              <string>Bum gra</string>
+              <string>Bumava gra</string>
+              <string>Bumbuk gra</string>
+              <string>Bumph gra</string>
+              <string>Bumzuna gra</string>
+              <string>Burub gra</string>
+              <string>Burzob gra</string>
+              <string>Dagarha gra</string>
+              <string>Darezha gra</string>
+              <string>Drienne gra</string>
+              <string>Droka gra</string>
+              <string>Druga gra</string>
+              <string>Dufbash gra</string>
+              <string>Dulasha gra</string>
+              <string>Dulfra gra</string>
+              <string>Dulfraga gra</string>
+              <string>Dulkhi gra</string>
+              <string>Dulroi gra</string>
+              <string>Dulug gra</string>
+              <string>Dulzugha gra</string>
+              <string>Dumoga gra</string>
+              <string>Dumuguk gra</string>
+              <string>Dumula gra</string>
+              <string>Dumurzog gra</string>
+              <string>Dura gra</string>
+              <string>Duragma gra</string>
+              <string>Durash gra</string>
+              <string>Durga gra</string>
+              <string>Durgat gra</string>
+              <string>Durgura gra</string>
+              <string>Durhaz gra</string>
+              <string>Durogbesh gra</string>
+              <string>Durz gra</string>
+              <string>Dushug gra</string>
+              <string>Erisa gra</string>
+              <string>Fnagdesh gra</string>
+              <string>Gahgra gra</string>
+              <string>Garakh gra</string>
+              <string>Gargahz gra</string>
+              <string>Gargum gra</string>
+              <string>Garl gra</string>
+              <string>Garlor gra</string>
+              <string>Garlub gra</string>
+              <string>Garotusha gra</string>
+              <string>Gashnakh gra</string>
+              <string>Ghak gra</string>
+              <string>Ghamarguk gra</string>
+              <string>Ghamzeh gra</string>
+              <string>Gharakul gra</string>
+              <string>Gharn gra</string>
+              <string>Gharol gra</string>
+              <string>Ghat gra</string>
+              <string>Gheshol gra</string>
+              <string>Ghob gra</string>
+              <string>Ghobub gra</string>
+              <string>Ghogogg gra</string>
+              <string>Ghorbog gra</string>
+              <string>Ghorza gra</string>
+              <string>Ghorzolga gra</string>
+              <string>Ghratutha gra</string>
+              <string>Glagag gra</string>
+              <string>Glagosh gra</string>
+              <string>Glarikha gra</string>
+              <string>Glash gra</string>
+              <string>Glasha gra</string>
+              <string>Glath gra</string>
+              <string>Glatha gra</string>
+              <string>Glathuhl gra</string>
+              <string>Glathut gra</string>
+              <string>Glega gra</string>
+              <string>Glesh gra</string>
+              <string>Glob gra</string>
+              <string>Glolbikla gra</string>
+              <string>Glothum gra</string>
+              <string>Glurala gra</string>
+              <string>Glurbasha gra</string>
+              <string>Glurduk gra</string>
+              <string>Glurmghal gra</string>
+              <string>Gluronk gra</string>
+              <string>Glurzul gra</string>
+              <string>Gluth gra</string>
+              <string>Gluthesh gra</string>
+              <string>Gnush gra</string>
+              <string>Gogul gra</string>
+              <string>Golakha gra</string>
+              <string>Golga gra</string>
+              <string>Gonbubal gra</string>
+              <string>Gonbush gra</string>
+              <string>Gondubaga gra</string>
+              <string>Gonk gra</string>
+              <string>Goorga gra</string>
+              <string>Gorsha gra</string>
+              <string>Grabash gra</string>
+              <string>Graghesh gra</string>
+              <string>Grahla gra</string>
+              <string>Grahuar gra</string>
+              <string>Grakguhl gra</string>
+              <string>Graklha gra</string>
+              <string>Grash gra</string>
+              <string>Grashla gra</string>
+              <string>Grashug gra</string>
+              <string>Grat gra</string>
+              <string>Grazda gra</string>
+              <string>Grazob gra</string>
+              <string>Grazubesha gra</string>
+              <string>Grenbet gra</string>
+              <string>Groddi gra</string>
+              <string>Grubalash gra</string>
+              <string>Grubathag gra</string>
+              <string>Grubazh gra</string>
+              <string>Grubesha gra</string>
+              <string>Grugleg gra</string>
+              <string>Grumgha gra</string>
+              <string>Grundag gra</string>
+              <string>Gruzbura gra</string>
+              <string>Guazh gra</string>
+              <string>Gul gra</string>
+              <string>Gula gra</string>
+              <string>Gulara gra</string>
+              <string>Gulfim gra</string>
+              <string>Gulgula gra</string>
+              <string>Gulorz gra</string>
+              <string>Gulugash gra</string>
+              <string>Gulza gra</string>
+              <string>Gulzurgol gra</string>
+              <string>Gunzga gra</string>
+              <string>Gurhul gra</string>
+              <string>Gurikha gra</string>
+              <string>Gursthuk gra</string>
+              <string>Gurum gra</string>
+              <string>Guth gra</string>
+              <string>Guurzash gra</string>
+              <string>Guuth gra</string>
+              <string>Guz gra</string>
+              <string>Guzash gra</string>
+              <string>Guzmara gra</string>
+              <string>Haghai gra</string>
+              <string>Harfza gra</string>
+              <string>Harza gra</string>
+              <string>Homraz gra</string>
+              <string>Hurabesh gra</string>
+              <string>Ilg gra</string>
+              <string>Irsugha gra</string>
+              <string>Jorthan gra</string>
+              <string>Junlock gra</string>
+              <string>Kashurthag gra</string>
+              <string>Kelagi gra</string>
+              <string>Khagral gra</string>
+              <string>Khagruk gra</string>
+              <string>Khaguga gra</string>
+              <string>Khaguur gra</string>
+              <string>Kharekh gra</string>
+              <string>Kharza gra</string>
+              <string>Kharzolga gra</string>
+              <string>Kharzug gra</string>
+              <string>Khazrakh gra</string>
+              <string>Kora gra</string>
+              <string>Korgha gra</string>
+              <string>Krithgra gra</string>
+              <string>Kroma gra</string>
+              <string>Kruaga gra</string>
+              <string>Kuhlon gra</string>
+              <string>Kurz gra</string>
+              <string>Lagabul gra</string>
+              <string>Lagakh gra</string>
+              <string>Laganakh gra</string>
+              <string>Lagbaal gra</string>
+              <string>Lagbuga gra</string>
+              <string>Lagdabash gra</string>
+              <string>Lagra gra</string>
+              <string>Lagruda gra</string>
+              <string>Lahzga gra</string>
+              <string>Lakhazga gra</string>
+              <string>Lamazh gra</string>
+              <string>Lambug gra</string>
+              <string>Lambur gra</string>
+              <string>Lamburak gra</string>
+              <string>Lamugbek gra</string>
+              <string>Lamur gra</string>
+              <string>Lamzakha gra</string>
+              <string>Larzgug gra</string>
+              <string>Lash gra</string>
+              <string>Lashakh gra</string>
+              <string>Lashbesh gra</string>
+              <string>Lashbura gra</string>
+              <string>Lashdura gra</string>
+              <string>Lashgikh gra</string>
+              <string>Lashgurgol gra</string>
+              <string>Lashza gra</string>
+              <string>Lazdutha gra</string>
+              <string>Lazgar gra</string>
+              <string>Lazgara gra</string>
+              <string>Lazghal gra</string>
+              <string>Legdul gra</string>
+              <string>Lhazbura gra</string>
+              <string>Lig gra</string>
+              <string>Lobamob gra</string>
+              <string>Logdotha gra</string>
+              <string>Loglorag gra</string>
+              <string>Logru gra</string>
+              <string>Lokra gra</string>
+              <string>Lorak gra</string>
+              <string>Lorku gra</string>
+              <string>Lorogdu gra</string>
+              <string>Luga gra</string>
+              <string>Lugharz gra</string>
+              <string>Luglorash gra</string>
+              <string>Lugrugha gra</string>
+              <string>Lugurzog gra</string>
+              <string>Lulgra gra</string>
+              <string>Lurgush gra</string>
+              <string>Luruzesh gra</string>
+              <string>Lurz gra</string>
+              <string>Lushak gra</string>
+              <string>Mabgikha gra</string>
+              <string>Mabgrolabesh gra</string>
+              <string>Mabgrorga gra</string>
+              <string>Mabgrubaga gra</string>
+              <string>Mabgruhl gra</string>
+              <string>Magarakh gra</string>
+              <string>Magula gra</string>
+              <string>Maraka gra</string>
+              <string>Marutha gra</string>
+              <string>Maugruhl gra</string>
+              <string>Mazgar gra</string>
+              <string>Mazgroth gra</string>
+              <string>Mazoga gra</string>
+              <string>Mazrah gra</string>
+              <string>Mazuka gra</string>
+              <string>Megruk gra</string>
+              <string>Mog gra</string>
+              <string>Mogak gra</string>
+              <string>Mogdurz gra</string>
+              <string>Moglurkgul gra</string>
+              <string>Mograg gra</string>
+              <string>Mogul gra</string>
+              <string>Mor gra</string>
+              <string>Moramat gra</string>
+              <string>Mordra gra</string>
+              <string>Morga gra</string>
+              <string>Morn gra</string>
+              <string>Mornamph gra</string>
+              <string>Morndag gra</string>
+              <string>Morndolag gra</string>
+              <string>Morushna gra</string>
+              <string>Mozgosh gra</string>
+              <string>Mugaga gra</string>
+              <string>Mugumurn gra</string>
+              <string>Muguur gra</string>
+              <string>Mula gra</string>
+              <string>Mulgabesh gra</string>
+              <string>Multa gra</string>
+              <string>Mulzah gra</string>
+              <string>Mulzara gra</string>
+              <string>Murboga gra</string>
+              <string>Murbul gra</string>
+              <string>Murob gra</string>
+              <string>Murotha gra</string>
+              <string>Murzgut gra</string>
+              <string>Murzush gra</string>
+              <string>Muzgraga gra</string>
+              <string>Nargol gra</string>
+              <string>Naroga gra</string>
+              <string>Narzbash gra</string>
+              <string>Narzdush gra</string>
+              <string>Nazdura gra</string>
+              <string>Nazhag gra</string>
+              <string>Nazhataga gra</string>
+              <string>Nazubesh gra</string>
+              <string>Noguza gra</string>
+              <string>Nulra gra</string>
+              <string>Nunchak gra</string>
+              <string>Nuza gra</string>
+              <string>Oghash gra</string>
+              <string>Ogzaz gra</string>
+              <string>Oorga gra</string>
+              <string>Oorza gra</string>
+              <string>Oorzuka gra</string>
+              <string>Orag gra</string>
+              <string>Orbuhl gra</string>
+              <string>Orbul gra</string>
+              <string>Orcolag gra</string>
+              <string>Ordatha gra</string>
+              <string>Orgotha gra</string>
+              <string>Orlozag gra</string>
+              <string>Orlugash gra</string>
+              <string>Orluguk gra</string>
+              <string>Orthuna gra</string>
+              <string>Orutha gra</string>
+              <string>Orzbara gra</string>
+              <string>Orzdara gra</string>
+              <string>Orzorga gra</string>
+              <string>Oshgana gra</string>
+              <string>Othbekha gra</string>
+              <string>Othgozag gra</string>
+              <string>Othikha gra</string>
+              <string>Othrika gra</string>
+              <string>Ozrog gra</string>
+              <string>Pruzag gra</string>
+              <string>Pruzga gra</string>
+              <string>Ragash gra</string>
+              <string>Ragbarlag gra</string>
+              <string>Ragushna gra</string>
+              <string>Rakhaz gra</string>
+              <string>Rakuga gra</string>
+              <string>Ranarsh gra</string>
+              <string>Razasha gra</string>
+              <string>Razbela gra</string>
+              <string>Rogag gra</string>
+              <string>Rogba gra</string>
+              <string>Rogbual gra</string>
+              <string>Rogbut gra</string>
+              <string>Rogmesh gra</string>
+              <string>Rogoga gra</string>
+              <string>Rogzesh gra</string>
+              <string>Roku gra</string>
+              <string>Rolbutha gra</string>
+              <string>Rolfikha gra</string>
+              <string>Rolfish gra</string>
+              <string>Rolfzal gra</string>
+              <string>Rolga gra</string>
+              <string>Ronag gra</string>
+              <string>Rulbagab gra</string>
+              <string>Rulbza gra</string>
+              <string>Ruldor gra</string>
+              <string>Rulfala gra</string>
+              <string>Rulfim gra</string>
+              <string>Rulfub gra</string>
+              <string>Rulfuna gra</string>
+              <string>Rulfzub gra</string>
+              <string>Rulgum gra</string>
+              <string>Sgala gra</string>
+              <string>Sgrugbesh gra</string>
+              <string>Sgrugha gra</string>
+              <string>Sgrula gra</string>
+              <string>Sgugh gra</string>
+              <string>Shabaga gra</string>
+              <string>Shabeg gra</string>
+              <string>Shabeshga gra</string>
+              <string>Shabgrut gra</string>
+              <string>Shabon gra</string>
+              <string>Shadbak gra</string>
+              <string>Shagar gra</string>
+              <string>Shagareg gra</string>
+              <string>Shagdub gra</string>
+              <string>Shagduka gra</string>
+              <string>Shagora gra</string>
+              <string>Shagrum gra</string>
+              <string>Shagrush gra</string>
+              <string>Shagugbeka gra</string>
+              <string>Shagura gra</string>
+              <string>Shakul gra</string>
+              <string>Shaldagan gra</string>
+              <string>Shalug gra</string>
+              <string>Shamuk gra</string>
+              <string>Shamush gra</string>
+              <string>Shara gra</string>
+              <string>Sharamph gra</string>
+              <string>Sharbzur gra</string>
+              <string>Sharduka gra</string>
+              <string>Shardush gra</string>
+              <string>Shardzozag gra</string>
+              <string>Sharga gra</string>
+              <string>Shargalash gra</string>
+              <string>Shargduguk gra</string>
+              <string>Shargra gra</string>
+              <string>Sharn gra</string>
+              <string>Sharog gra</string>
+              <string>Sharuk gra</string>
+              <string>Sharushnam gra</string>
+              <string>Shaza gra</string>
+              <string>Shebakh gra</string>
+              <string>Shel gra</string>
+              <string>Shelboth gra</string>
+              <string>Sheluka gra</string>
+              <string>Shelur gra</string>
+              <string>Shera gra</string>
+              <string>Shgrag gra</string>
+              <string>Sholg gra</string>
+              <string>Shubesha gra</string>
+              <string>Shufdal gra</string>
+              <string>Shufgrut gra</string>
+              <string>Shufthakul gra</string>
+              <string>Shuftharz gra</string>
+              <string>Shuga gra</string>
+              <string>Shugzur gra</string>
+              <string>Shurkul gra</string>
+              <string>Shuzrag gra</string>
+              <string>Sloobdakha gra</string>
+              <string>Sloogolga gra</string>
+              <string>Sloomalah gra</string>
+              <string>Sluz gra</string>
+              <string>Snabgrara gra</string>
+              <string>Snabugha gra</string>
+              <string>Snagara gra</string>
+              <string>Snaghusha gra</string>
+              <string>Snak gra</string>
+              <string>Snarataga gra</string>
+              <string>Snarga gra</string>
+              <string>Snargara gra</string>
+              <string>Snaruga gra</string>
+              <string>Snarzikha gra</string>
+              <string>Sneehash gra</string>
+              <string>Snilga gra</string>
+              <string>Snoogh gra</string>
+              <string>Snushbesh gra</string>
+              <string>Solgra gra</string>
+              <string>Stilga gra</string>
+              <string>Stroda gra</string>
+              <string>Stuga gra</string>
+              <string>Stughrush gra</string>
+              <string>Stulga gra</string>
+              <string>Tamozag gra</string>
+              <string>Theg gra</string>
+              <string>Thegbesh gra</string>
+              <string>Thegshakul gra</string>
+              <string>Thegshalash gra</string>
+              <string>Theshaga gra</string>
+              <string>Theshgoth gra</string>
+              <string>Thishnaku gra</string>
+              <string>Thoga gra</string>
+              <string>Thogra gra</string>
+              <string>Thrugrak gra</string>
+              <string>Thugnekh gra</string>
+              <string>Thulga gra</string>
+              <string>Thushleg gra</string>
+              <string>Tugha gra</string>
+              <string>Ubzigub gra</string>
+              <string>Udai gra</string>
+              <string>Ufalga gra</string>
+              <string>Ufgabesh gra</string>
+              <string>Ufgalash gra</string>
+              <string>Ufgaz gra</string>
+              <string>Ufgel gra</string>
+              <string>Ufgra gra</string>
+              <string>Uftheg gra</string>
+              <string>Ugak gra</string>
+              <string>Ugarnesh gra</string>
+              <string>Ugduk gra</string>
+              <string>Ugor gra</string>
+              <string>Ugrash gra</string>
+              <string>Ugrush gra</string>
+              <string>Uldushna gra</string>
+              <string>Ulfgalash gra</string>
+              <string>Ulg gra</string>
+              <string>Ulgush gra</string>
+              <string>Ulliceta gra</string>
+              <string>Uloth gra</string>
+              <string>Ulsha gra</string>
+              <string>Ulu gra</string>
+              <string>Ulubesh gra</string>
+              <string>Uluga gra</string>
+              <string>Ulukhaz gra</string>
+              <string>Ulumpha gra</string>
+              <string>Umar gra</string>
+              <string>Umbaka gra</string>
+              <string>Umbugbek gra</string>
+              <string>Umgubesh gra</string>
+              <string>Umog gra</string>
+              <string>Umutha gra</string>
+              <string>Umzolabesh gra</string>
+              <string>Undorga gra</string>
+              <string>Undush gra</string>
+              <string>Undusha gra</string>
+              <string>Unsulag gra</string>
+              <string>Uratag gra</string>
+              <string>Urbalash gra</string>
+              <string>Urbutha gra</string>
+              <string>Urbzag gra</string>
+              <string>Urdboga gra</string>
+              <string>Urgarlag gra</string>
+              <string>Urog gra</string>
+              <string>Urshra gra</string>
+              <string>Uruka gra</string>
+              <string>Urzoga gra</string>
+              <string>Urzoth gra</string>
+              <string>Urzul gra</string>
+              <string>Urzula gra</string>
+              <string>Usha gra</string>
+              <string>Ushaga gra</string>
+              <string>Ushenat gra</string>
+              <string>Ushruka gra</string>
+              <string>Ushug gra</string>
+              <string>Ushuta gra</string>
+              <string>Uthik gra</string>
+              <string>Uzka gra</string>
+              <string>Voltha gra</string>
+              <string>Vosh gra</string>
+              <string>Vumnish gra</string>
+              <string>Vush gra</string>
+              <string>Vusha gra</string>
+              <string>Yag gra</string>
+              <string>Yagrigbesh gra</string>
+              <string>Yakhu gra</string>
+              <string>Yarlak gra</string>
+              <string>Yarulorz gra</string>
+              <string>Yashurah gra</string>
+              <string>Yatanakh gra</string>
+              <string>Yatul gra</string>
+              <string>Yatular gra</string>
+              <string>Yatzog gra</string>
+              <string>Yazara gra</string>
+              <string>Yazgash gra</string>
+              <string>Yazgruga gra</string>
+              <string>Yazoga gra</string>
+              <string>Zaag gra</string>
+              <string>Zagla gra</string>
+              <string>Zagula gra</string>
+              <string>Zazsha gra</string>
+              <string>Zelguma gra</string>
+              <string>Zubesha gra</string>
+              <string>Zugh gra</string>
+              <string>Zuugarz gra</string>
+              <string>Zuuthag gra</string>
+              <string>Zuuthusha gra</string>
+            </Values>
+          </NameGroup>
+        </FemaleFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Values>
+              <string>Agadbu</string>
+              <string>Agamph</string>
+              <string>Agdur</string>
+              <string>Aglakh</string>
+              <string>Agluk</string>
+              <string>Agum</string>
+              <string>Arzug</string>
+              <string>Atumph</string>
+              <string>Azorku</string>
+              <string>Badbu</string>
+              <string>Badbul</string>
+              <string>Bagat</string>
+              <string>Bagdub</string>
+              <string>Bagol</string>
+              <string>Bagrat</string>
+              <string>Bagul</string>
+              <string>Bamog</string>
+              <string>Bar</string>
+              <string>Barak</string>
+              <string>Barbol</string>
+              <string>Bargamph</string>
+              <string>Bargol</string>
+              <string>Barok</string>
+              <string>Baroth</string>
+              <string>Bashnag</string>
+              <string>Bashnarz</string>
+              <string>Bat</string>
+              <string>Batul</string>
+              <string>Bazgar</string>
+              <string>Bazul</string>
+              <string>Bekh</string>
+              <string>Bharg</string>
+              <string>Birgo</string>
+              <string>Boga</string>
+              <string>Bogamakh</string>
+              <string>Bogharz</string>
+              <string>Bogla</string>
+              <string>Boglar</string>
+              <string>Bogrol</string>
+              <string>Boguk</string>
+              <string>Bol</string>
+              <string>Bolak</string>
+              <string>Bolmog</string>
+              <string>Bonk</string>
+              <string>Bor</string>
+              <string>Borbog</string>
+              <string>Borbul</string>
+              <string>Borgakh</string>
+              <string>Borgub</string>
+              <string>Born</string>
+              <string>Brok</string>
+              <string>Bug</string>
+              <string>Bugarn</string>
+              <string>Buglump</string>
+              <string>Bugurz</string>
+              <string>Bulag</string>
+              <string>Bularz</string>
+              <string>Bulfim</string>
+              <string>Bulfimorn</string>
+              <string>Bulfish</string>
+              <string>Bumolg</string>
+              <string>Bumph</string>
+              <string>Bura</string>
+              <string>Burbog</string>
+              <string>Burbug</string>
+              <string>Burbulg</string>
+              <string>Burgal</string>
+              <string>Burish</string>
+              <string>Burku</string>
+              <string>Burol</string>
+              <string>Burz</string>
+              <string>Burzag</string>
+              <string>Buzbee</string>
+              <string>Buzga</string>
+              <string>Coblug</string>
+              <string>Cromgog</string>
+              <string>Dasik</string>
+              <string>Dragol</string>
+              <string>Drol</string>
+              <string>Drom</string>
+              <string>Drublog</string>
+              <string>Dugronk</string>
+              <string>Dugul</string>
+              <string>Dul</string>
+              <string>Dula</string>
+              <string>Dulob</string>
+              <string>Dumul</string>
+              <string>Dumulg</string>
+              <string>Durbug</string>
+              <string>Durga</string>
+              <string>Durgamph</string>
+              <string>Durgoth</string>
+              <string>Durog</string>
+              <string>Durug</string>
+              <string>Dush</string>
+              <string>Dushnikh</string>
+              <string>Fakal</string>
+              <string>Galash</string>
+              <string>Gamorn</string>
+              <string>Gar</string>
+              <string>Garbug</string>
+              <string>Gash</string>
+              <string>Gashel</string>
+              <string>Gat</string>
+              <string>Gatuk</string>
+              <string>Ghammak</string>
+              <string>Gharz</string>
+              <string>Ghash</string>
+              <string>Ghasharzol</string>
+              <string>Ghol</string>
+              <string>Gholfim</string>
+              <string>Gholob</string>
+              <string>Ghorak</string>
+              <string>Ghoth</string>
+              <string>Ghralog</string>
+              <string>Gilgar</string>
+              <string>Glorzuf</string>
+              <string>Gluk</string>
+              <string>Glurkub</string>
+              <string>Glurzog</string>
+              <string>Goldfolly</string>
+              <string>Golpok</string>
+              <string>Gonk</string>
+              <string>Gortwog</string>
+              <string>Gorzog</string>
+              <string>Gorzoth</string>
+              <string>Grambak</string>
+              <string>Grulam</string>
+              <string>Grush</string>
+              <string>Gular</string>
+              <string>Gularz</string>
+              <string>Gulash</string>
+              <string>Gulfim</string>
+              <string>Gum</string>
+              <string>Gurakh</string>
+              <string>Gurba</string>
+              <string>Gurub</string>
+              <string>Guthra</string>
+              <string>Hubrag</string>
+              <string>Kashug</string>
+              <string>Khagdum</string>
+              <string>Khamagash</string>
+              <string>Khambol</string>
+              <string>Khamug</string>
+              <string>Khar</string>
+              <string>Kharbush</string>
+              <string>Khargub</string>
+              <string>Kharz</string>
+              <string>Khash</string>
+              <string>Khashnar</string>
+              <string>Khatub</string>
+              <string>Khazgur</string>
+              <string>Khazor</string>
+              <string>Kogg</string>
+              <string>Korith</string>
+              <string>Korma</string>
+              <string>Kruts</string>
+              <string>Kush</string>
+              <string>Ladba</string>
+              <string>Lag</string>
+              <string>Lagdub</string>
+              <string>Largash</string>
+              <string>Largum</string>
+              <string>Lazgarn</string>
+              <string>Logdum</string>
+              <string>Loghash</string>
+              <string>Logob</string>
+              <string>Logrob</string>
+              <string>Lorga</string>
+              <string>Lort</string>
+              <string>Lumborn</string>
+              <string>Lumbuk</string>
+              <string>Lumob</string>
+              <string>Lurkul</string>
+              <string>Lurn</string>
+              <string>Luruk</string>
+              <string>Luzgan</string>
+              <string>Madba</string>
+              <string>Magar</string>
+              <string>Magrish</string>
+              <string>Magul</string>
+              <string>Makla</string>
+              <string>Malak</string>
+              <string>Malog</string>
+              <string>Malorz</string>
+              <string>Mar</string>
+              <string>Marad</string>
+              <string>Marguz</string>
+              <string>Marob</string>
+              <string>Mashnar</string>
+              <string>Mashul</string>
+              <string>Mogakh</string>
+              <string>Mogduk</string>
+              <string>Moghakh</string>
+              <string>Morad</string>
+              <string>Morgrump</string>
+              <string>Mughol</string>
+              <string>Muk</string>
+              <string>Mulakh</string>
+              <string>Murgak</string>
+              <string>Murgob</string>
+              <string>Murgol</string>
+              <string>Murkha</string>
+              <string>Murtag</string>
+              <string>Murug</string>
+              <string>Murz</string>
+              <string>Muzgob</string>
+              <string>Muzgol</string>
+              <string>Muzgub</string>
+              <string>Muzgur</string>
+              <string>Nagorm</string>
+              <string>Namor</string>
+              <string>Nar</string>
+              <string>Narzul</string>
+              <string>Naybek</string>
+              <string>Nogremor</string>
+              <string>Nolob</string>
+              <string>Ogar</string>
+              <string>Ogdub</string>
+              <string>Ogdula</string>
+              <string>Ogdum</string>
+              <string>Oglurn</string>
+              <string>Olor</string>
+              <string>Olub</string>
+              <string>Oluk</string>
+              <string>Olurba</string>
+              <string>Orbuma</string>
+              <string>Orgak</string>
+              <string>Orguk</string>
+              <string>Orkul</string>
+              <string>Orkulg</string>
+              <string>Orum</string>
+              <string>Othmog</string>
+              <string>Ragdam</string>
+              <string>Ram</string>
+              <string>Rimat</string>
+              <string>Rimph</string>
+              <string>Rugdush</string>
+              <string>Rugob</string>
+              <string>Ruguk</string>
+              <string>Rush</string>
+              <string>Rushub</string>
+              <string>Ruumsh</string>
+              <string>Sgrugdul</string>
+              <string>Shadborgob</string>
+              <string>Shadbuk</string>
+              <string>Shagdub</string>
+              <string>Shagdulg</string>
+              <string>Shagk</string>
+              <string>Shagob</string>
+              <string>Shagrak</string>
+              <string>Shagramph</string>
+              <string>Shagronk</string>
+              <string>Shak</string>
+              <string>Sham</string>
+              <string>Shamub</string>
+              <string>Shar</string>
+              <string>Sharbag</string>
+              <string>Sharga</string>
+              <string>Shargakh</string>
+              <string>Sharob</string>
+              <string>Sharolg</string>
+              <string>Shat</string>
+              <string>Shatub</string>
+              <string>Shatur</string>
+              <string>Shazgul</string>
+              <string>Shazog</string>
+              <string>Shegub</string>
+              <string>Shelakh</string>
+              <string>Sheluk</string>
+              <string>Shub</string>
+              <string>Shug</string>
+              <string>Shugarz</string>
+              <string>Shugduk</string>
+              <string>Shugdurbam</string>
+              <string>Shugham</string>
+              <string>Shugharz</string>
+              <string>Shugurz</string>
+              <string>Shuhgharz</string>
+              <string>Shula</string>
+              <string>Shulor</string>
+              <string>Shumba</string>
+              <string>Shura</string>
+              <string>Shurgak</string>
+              <string>Shurkul</string>
+              <string>Shuzgub</string>
+              <string>Skandar</string>
+              <string>Snagarz</string>
+              <string>Snagdu</string>
+              <string>Stugbaz</string>
+              <string>Stugh</string>
+              <string>Thormok</string>
+              <string>Trailslag</string>
+              <string>Ufthamph</string>
+              <string>Uftharz</string>
+              <string>Ugdub</string>
+              <string>Ugruma</string>
+              <string>Ugrush</string>
+              <string>Ular</string>
+              <string>Ulfimph</string>
+              <string>Ulfish</string>
+              <string>Urgak</string>
+              <string>Urgash</string>
+              <string>Urku</string>
+              <string>Urkub</string>
+              <string>Urula</string>
+              <string>Ushar</string>
+              <string>Usharku</string>
+              <string>Ushug</string>
+              <string>Ushul</string>
+              <string>Uzgash</string>
+              <string>Uzguk</string>
+              <string>Uzgurn</string>
+              <string>Uzug</string>
+              <string>Uzuk</string>
+              <string>Vortag</string>
+              <string>Wroggin</string>
+              <string>Yagarz</string>
+              <string>Yagash</string>
+              <string>Yak</string>
+              <string>Yamwort</string>
+              <string>Yargul</string>
+              <string>Yarug</string>
+              <string>Yarzol</string>
+              <string>Yggrub</string>
+            </Values>
+          </NameGroup>
+        </SecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

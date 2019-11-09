@@ -228,10 +228,9 @@
     <Ships>
       <Generic>
         <NameGroup>
-          <Name>Ships - Supercarriers</Name>
+          <Name>Ships - Arbiters</Name>
           <Values>
-            <string>Antiomnd</string>
-            <string>Gantrithor</string>
+            <string>Serenity</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -239,6 +238,13 @@
           <Values>
             <string>Koramund</string>
             <string>Tempest</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Ships - Supercarriers</Name>
+          <Values>
+            <string>Antiomnd</string>
+            <string>Gantrithor</string>
           </Values>
         </NameGroup>
         <NameGroup>
