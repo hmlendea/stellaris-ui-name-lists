@@ -210,13 +210,20 @@
         </MilitaryStations>
     </Stations>
     <Armies>
-      <Fleet>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Fleet>
+      <FleetSequentialName>Star Legion %R%</FleetSequentialName>
+      <DefenceArmySequentialName>Garrison Legion %R%</DefenceArmySequentialName>
+      <AssaultArmySequentialName>Legion %R%</AssaultArmySequentialName>
+      <OccupationArmySequentialName>Legion %R%</OccupationArmySequentialName>
+      <SlaveArmySequentialName>Conscripted Legion %R%</SlaveArmySequentialName>
+      <CloneArmySequentialName>Clone Legion %R%</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>Robotic Legion %R%</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>Robotic Legion %R%</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>Robotic Legion %R%</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>Synthetic Legion %R%</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>Synthetic Legion %R%</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>Psionic Legion %R%</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>Beast Legion %R%</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>Super-Legion %R%</SuperSoldierArmySequentialName>
     </Armies>
     <Planets>
       <Generic>

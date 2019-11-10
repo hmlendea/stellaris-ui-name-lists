@@ -298,6 +298,7 @@
       </Starbases>
     </Stations>
     <Armies>
+      <FleetSequentialName>%O% Fleet</FleetSequentialName>
       <Fleet>
         <NameGroup>
           <Name>Squadrons - StarCraft - Terran</Name>
@@ -312,6 +313,7 @@
           </Values>
         </NameGroup>
       </Fleet>
+      <DefenceArmySequentialName>%O% Colonial Militia</DefenceArmySequentialName>
       <DefenceArmy>
         <NameGroup>
           <Name>Armies - StarCraft - Terran</Name>
@@ -322,6 +324,7 @@
           </Values>
         </NameGroup>
       </DefenceArmy>
+      <AssaultArmySequentialName>%O% Ground Assault Division</AssaultArmySequentialName>
       <AssaultArmy>
         <NameGroup>
           <Name>Armies - StarCraft - Terran</Name>
@@ -351,6 +354,15 @@
           </Values>
         </NameGroup>
       </AssaultArmy>
+      <OccupationArmySequentialName>%0% Garrison Force</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Indentured Rifles</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Clone Division</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Hunter-Killer Group</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Hunter-Killer Group</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Hunter-Killer Garrison</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Guard</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Force</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Ghosts</PsionicArmySequentialName>
       <PsionicArmy>
         <NameGroup>
           <Name>Armies - StarCraft - Terran</Name>
@@ -359,6 +371,7 @@
           </Values>
         </NameGroup>
       </PsionicArmy>
+      <XenomorphArmySequentialName>%O% Death Flock</XenomorphArmySequentialName>
       <XenomorphArmy>
         <NameGroup>
           <Name>Armies - StarCraft - Terran</Name>
@@ -367,6 +380,7 @@
           </Values>
         </NameGroup>
       </XenomorphArmy>
+      <SuperSoldierArmySequentialName>%O% Resocialised Division</SuperSoldierArmySequentialName>
     </Armies>
     <Planets>
       <Generic>

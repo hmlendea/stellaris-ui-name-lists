@@ -241,6 +241,7 @@
       </Generic>
     </ShipClasses>
     <Armies>
+      <FleetSequentialName>%O% Flota</FleetSequentialName>
       <Fleet>
         <NameGroup>
           <Values>
@@ -338,6 +339,19 @@
           </Values>
         </NameGroup>
       </Fleet>
+      <DefenceArmySequentialName>%O% Home Guard</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Invader Horde</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Garrison Force</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Slave Horde</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Attrition Troopers</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Machine Guardians</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Machine Shells</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Machine Garrison</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Guardians</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Shells</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Psychic Shells</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Xenomorph Horde</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Augmented Shells</SuperSoldierArmySequentialName>
     </Armies>
     <Planets>
       <Generic>

@@ -54,6 +54,21 @@
         </NameGroup>
       </Generic>
     </Ships>
+    <Armies>
+      <DefenceArmySequentialName>%O% Root Guard</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Invasion Thorns</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Garrison Leaves</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Slave Horde</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Cloned Trunks</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Iron Leaves</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Iron Leaves</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Iron Garrison</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Plants</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Plants</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Tele-branch</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Mutated Weeds</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Cybertrees</SuperSoldierArmySequentialName>
+    </Armies>
     <Planets>
       <Generic>
         <NameGroup>

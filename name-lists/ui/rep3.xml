@@ -310,6 +310,7 @@
       </Generic>
     </Ships>
     <Armies>
+      <FleetSequentialName>%O% Armada</FleetSequentialName>
       <Fleet>
         <NameGroup>
           <Values>
@@ -534,6 +535,19 @@
           </Values>
         </NameGroup>
       </Fleet>
+      <DefenceArmySequentialName>%O% Lair Guard</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Predator Host</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Garrison Host</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Enslaved Horde</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Clone Cohort</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Iron Guard</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Iron Legion</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Iron Garrison</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Guard</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Legion</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Psi Commando</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Xenomorph Band</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Elite Commando</SuperSoldierArmySequentialName>
     </Armies>
     <Planets>
       <Generic>

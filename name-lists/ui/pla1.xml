@@ -137,6 +137,7 @@
       </Generic>
     </Ships>
     <Armies>
+      <FleetSequentialName>%O% Spaceleaves</FleetSequentialName>
       <Fleet>
         <NameGroup>
           <Values>
@@ -193,6 +194,19 @@
           </Values>
         </NameGroup>
       </Fleet>
+      <DefenceArmySequentialName>%O% Defence Roots</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Assault Spines</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Garrison Force</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Chained Weeds</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Cloned Seeds</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Iron Shield</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Iron Roses</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Iron Garrison</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Shield</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Roses</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Psychic Roses</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Weedmorphs Swarm</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Augmented Roses</SuperSoldierArmySequentialName>
     </Armies>
     <Planets>
       <Generic>

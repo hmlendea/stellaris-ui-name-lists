@@ -112,6 +112,7 @@
       </Generic>
     </Ships>
     <Armies>
+      <FleetSequentialName>%O% Flotilla</FleetSequentialName>
       <Fleet>
         <NameGroup>
           <Values>
@@ -164,6 +165,19 @@
           </Values>
         </NameGroup>
       </Fleet>
+      <DefenceArmySequentialName>%O% Nest Guard</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Hunters</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Garrison Force</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Slave Horde</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Cloned Platoon</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Iron Guard</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Iron Hunters</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Iron Garrison</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Guard</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Hunters</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Psychic Hunters</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Mutant Lurkers</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Supertillian Division</SuperSoldierArmySequentialName>
     </Armies>
     <Planets>
       <Generic>

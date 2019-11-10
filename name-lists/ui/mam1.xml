@@ -252,6 +252,22 @@
         </NameGroup>
       </Generic>
     </Ships>
+    <Armies>
+      <FleetSequentialName>%O% Fleet</FleetSequentialName>
+      <DefenceArmySequentialName>%O% Defence Force</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Mobile Troops</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Garrison Squadron</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Conscripts</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Clone Troops</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Droid Shields</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Droid Legion</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Droid Garrison</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Shields</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Legion</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Psionic Troops</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Xenomorph Brood</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Augmented Troops</SuperSoldierArmySequentialName>
+    </Armies>
     <Planets>
       <Generic>
         <NameGroup>

@@ -22,6 +22,22 @@
         </NameGroup>
       </Generic>
     </Ships>
+    <Armies>
+      <FleetSequentialName>%O% Fleet</FleetSequentialName>
+      <DefenceArmySequentialName>%O% Planetary Guard</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% War Band</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Garrison Force</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Conscripts</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Clone Troopers</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Drone Guard</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Drone Squad</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Mechanised Garrison</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Guard</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Force</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Psi Rangers</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Xenomorph Pack</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Death Squad</SuperSoldierArmySequentialName>
+    </Armies>
     <Planets>
       <Generic>
         <NameGroup>

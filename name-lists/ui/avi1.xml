@@ -112,6 +112,7 @@
       </Generic>
     </Ships>
     <Armies>
+      <FleetSequentialName>%O% Space Swarm</FleetSequentialName>
       <Fleet>
         <NameGroup>
           <Values>
@@ -218,6 +219,19 @@
           </Values>
         </NameGroup>
       </Fleet>
+      <DefenceArmySequentialName>%O% Defence Harpies</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Invasion Harpies</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Invasion Nest</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Slave Flock</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Replicated Harpies</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Steel Harpies</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Steel Harpies</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Steel Nest</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Harpies</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Harpies</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Psionic Harpies</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Mutant Flock</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Enhanced Harpies</SuperSoldierArmySequentialName>
     </Armies>
     <Planets>
       <Generic>

@@ -90,6 +90,22 @@
         </NameGroup>
       </Forts>
     </Warfare>
+    <Armies>
+      <FleetSequentialName>%O% Warband</FleetSequentialName>
+      <DefenceArmySequentialName>%O% Defender Clan</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Warrior Clan</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Garrison Clan</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Thrall Cohort</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Clone Cohort</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Automated Shields</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Iron Fists</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Automated Garrison</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Warriors</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Warriors</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Psi Squad</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Glowing Ones</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Enhanced Warriors</SuperSoldierArmySequentialName>
+    </Armies>
     <Planets>
       <Generic>
         <NameGroup>

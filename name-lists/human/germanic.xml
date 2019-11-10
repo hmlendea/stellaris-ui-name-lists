@@ -493,6 +493,12 @@
         </Generic>
       </MilitaryStations>
     </Stations>
+    <Armies>
+      <RoboticDefenceArmySequentialName>%O% Panzer Division</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Panzer Division</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Panzer Division</RoboticOccupationArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Supersoldatten Divison</SuperSoldierArmySequentialName>
+    </Armies>
     <Planets>
       <Generic>
         <NameGroup>

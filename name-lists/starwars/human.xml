@@ -81,6 +81,12 @@
       </ResearchStations>
     </Stations>
     <Armies>
+      <FleetSequentialName>%O% Fleet</FleetSequentialName>
+      <DefenceArmySequentialName>%O% Stormtroopers</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Storm Commandos</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Storm Garrison</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Slave Auxiliaries</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Clone Troopers</CloneArmySequentialName>
       <CloneArmy>
         <NameGroup>
           <Name>Clone armies - StarWars - Human</Name>
@@ -114,6 +120,14 @@
           </Values>
         </NameGroup>
       </CloneArmy>
+      <RoboticDefenceArmySequentialName>%O% Battle Droids</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Super Battle Droids</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Garrison Droids</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Troopers</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Troopers</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Force-Sensitives</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Xenomorph Troopers</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Death Troopers</SuperSoldierArmySequentialName>
     </Armies>
     <Planets>
       <Generic>

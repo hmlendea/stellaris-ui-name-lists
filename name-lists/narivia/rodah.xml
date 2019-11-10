@@ -7,293 +7,309 @@
       <Generic>
         <NameGroup>
           <Values>
-              <string>Abladab</string>
-              <string>Abuzamanagal</string>
-              <string>Abuzamanag</string>
-              <string>Agadur</string>
-              <string>Agazuladanar</string>
-              <string>Ardatakar</string>
-              <string>Ardatakodor</string>
-              <string>Ardatak</string>
-              <string>Avarigitar</string>
-              <string>Baratar</string>
-              <string>Bardakelamun</string>
-              <string>Bardakelamunzad</string>
-              <string>Bardak</string>
-              <string>Bekar</string>
-              <string>Berzogalad</string>
-              <string>Betagal</string>
-              <string>Betokaridad</string>
-              <string>Borgavatargol</string>
-              <string>Borgavatarkar</string>
-              <string>Brakanagal</string>
-              <string>Brakazidar</string>
-              <string>Bundabal</string>
-              <string>Bundabatur</string>
-              <string>Bundar</string>
-              <string>Dangabadonom</string>
-              <string>Dangabatar</string>
-              <string>Dangabatur</string>
-              <string>Dangabaz</string>
-              <string>Dugabadal</string>
-              <string>Dugabatur</string>
-              <string>Dugabaz</string>
-              <string>Erdakar</string>
-              <string>Erdakelamunzad</string>
-              <string>Erdak</string>
-              <string>Etregadab</string>
-              <string>Etregadak</string>
-              <string>Etregardakar</string>
-              <string>Etrokoridal</string>
-              <string>Foldurekarobag</string>
-              <string>Fordabalad</string>
-              <string>Fordabar</string>
-              <string>Fusabatargol</string>
-              <string>Fusabatar</string>
-              <string>Gamas</string>
-              <string>Gatakar</string>
-              <string>Gatak</string>
-              <string>Gatakud</string>
-              <string>Genakadar</string>
-              <string>Genakadol</string>
-              <string>Genakadom</string>
-              <string>Gulagabatur</string>
-              <string>Gulagabaz</string>
-              <string>Hundikatargol</string>
-              <string>Hundikatar</string>
-              <string>Ikabadal</string>
-              <string>Iotkabadal</string>
-              <string>Iotkabadonom</string>
-              <string>Iotkabadur</string>
-              <string>Kabadal</string>
-              <string>Kabadol</string>
-              <string>Kabadurad</string>
-              <string>Kabadur</string>
-              <string>Kalmundabalad</string>
-              <string>Kalmundabal</string>
-              <string>Kalmundabatar</string>
-              <string>Katarkar</string>
-              <string>Katar</string>
-              <string>Ketorigapog</string>
-              <string>Kezad</string>
-              <string>Kolnatakar</string>
-              <string>Kolnatakud</string>
-              <string>Kulabadal</string>
-              <string>Kulabadol</string>
-              <string>Kulabadonom</string>
-              <string>Kulabadurad</string>
-              <string>Kuligazavul</string>
-              <string>Kundabal</string>
-              <string>Kundabatargol</string>
-              <string>Kundabatar</string>
-              <string>Kundabatur</string>
-              <string>Kundar</string>
-              <string>Laman</string>
-              <string>Limugatarkar</string>
-              <string>Limugatar</string>
-              <string>Lurakanag</string>
-              <string>Metagontek</string>
-              <string>Monugatur</string>
-              <string>Morikad</string>
-              <string>Oganoribar</string>
-              <string>Pogadab</string>
-              <string>Pogad</string>
-              <string>Ragdamasukar</string>
-              <string>Redunogadab</string>
-              <string>Redunogadak</string>
-              <string>Repegar</string>
-              <string>Rundabalad</string>
-              <string>Rundabal</string>
-              <string>Rundabar</string>
-              <string>Samatak</string>
-              <string>Samatakud</string>
-              <string>Starigal</string>
-              <string>Takadar</string>
-              <string>Takadorun</string>
-              <string>Takatag</string>
-              <string>Takatargol</string>
-              <string>Tregadak</string>
-              <string>Tregardak</string>
-              <string>Tregar</string>
-              <string>Trikadom</string>
-              <string>Trikad</string>
-              <string>Trikal</string>
-              <string>Trimikadom</string>
-              <string>Trimikadorun</string>
-              <string>Tulagabatar</string>
-              <string>Tulagan</string>
-              <string>Ulazaribal</string>
-              <string>Valukezaduman</string>
-              <string>Volgakadol</string>
-              <string>Volgakadom</string>
-              <string>Zoldogaleg</string>
+            <string>Abladab</string>
+            <string>Abuzamanagal</string>
+            <string>Abuzamanag</string>
+            <string>Agadur</string>
+            <string>Agazuladanar</string>
+            <string>Ardatakar</string>
+            <string>Ardatakodor</string>
+            <string>Ardatak</string>
+            <string>Avarigitar</string>
+            <string>Baratar</string>
+            <string>Bardakelamun</string>
+            <string>Bardakelamunzad</string>
+            <string>Bardak</string>
+            <string>Bekar</string>
+            <string>Berzogalad</string>
+            <string>Betagal</string>
+            <string>Betokaridad</string>
+            <string>Borgavatargol</string>
+            <string>Borgavatarkar</string>
+            <string>Brakanagal</string>
+            <string>Brakazidar</string>
+            <string>Bundabal</string>
+            <string>Bundabatur</string>
+            <string>Bundar</string>
+            <string>Dangabadonom</string>
+            <string>Dangabatar</string>
+            <string>Dangabatur</string>
+            <string>Dangabaz</string>
+            <string>Dugabadal</string>
+            <string>Dugabatur</string>
+            <string>Dugabaz</string>
+            <string>Erdakar</string>
+            <string>Erdakelamunzad</string>
+            <string>Erdak</string>
+            <string>Etregadab</string>
+            <string>Etregadak</string>
+            <string>Etregardakar</string>
+            <string>Etrokoridal</string>
+            <string>Foldurekarobag</string>
+            <string>Fordabalad</string>
+            <string>Fordabar</string>
+            <string>Fusabatargol</string>
+            <string>Fusabatar</string>
+            <string>Gamas</string>
+            <string>Gatakar</string>
+            <string>Gatak</string>
+            <string>Gatakud</string>
+            <string>Genakadar</string>
+            <string>Genakadol</string>
+            <string>Genakadom</string>
+            <string>Gulagabatur</string>
+            <string>Gulagabaz</string>
+            <string>Hundikatargol</string>
+            <string>Hundikatar</string>
+            <string>Ikabadal</string>
+            <string>Iotkabadal</string>
+            <string>Iotkabadonom</string>
+            <string>Iotkabadur</string>
+            <string>Kabadal</string>
+            <string>Kabadol</string>
+            <string>Kabadurad</string>
+            <string>Kabadur</string>
+            <string>Kalmundabalad</string>
+            <string>Kalmundabal</string>
+            <string>Kalmundabatar</string>
+            <string>Katarkar</string>
+            <string>Katar</string>
+            <string>Ketorigapog</string>
+            <string>Kezad</string>
+            <string>Kolnatakar</string>
+            <string>Kolnatakud</string>
+            <string>Kulabadal</string>
+            <string>Kulabadol</string>
+            <string>Kulabadonom</string>
+            <string>Kulabadurad</string>
+            <string>Kuligazavul</string>
+            <string>Kundabal</string>
+            <string>Kundabatargol</string>
+            <string>Kundabatar</string>
+            <string>Kundabatur</string>
+            <string>Kundar</string>
+            <string>Laman</string>
+            <string>Limugatarkar</string>
+            <string>Limugatar</string>
+            <string>Lurakanag</string>
+            <string>Metagontek</string>
+            <string>Monugatur</string>
+            <string>Morikad</string>
+            <string>Oganoribar</string>
+            <string>Pogadab</string>
+            <string>Pogad</string>
+            <string>Ragdamasukar</string>
+            <string>Redunogadab</string>
+            <string>Redunogadak</string>
+            <string>Repegar</string>
+            <string>Rundabalad</string>
+            <string>Rundabal</string>
+            <string>Rundabar</string>
+            <string>Samatak</string>
+            <string>Samatakud</string>
+            <string>Starigal</string>
+            <string>Takadar</string>
+            <string>Takadorun</string>
+            <string>Takatag</string>
+            <string>Takatargol</string>
+            <string>Tregadak</string>
+            <string>Tregardak</string>
+            <string>Tregar</string>
+            <string>Trikadom</string>
+            <string>Trikad</string>
+            <string>Trikal</string>
+            <string>Trimikadom</string>
+            <string>Trimikadorun</string>
+            <string>Tulagabatar</string>
+            <string>Tulagan</string>
+            <string>Ulazaribal</string>
+            <string>Valukezaduman</string>
+            <string>Volgakadol</string>
+            <string>Volgakadom</string>
+            <string>Zoldogaleg</string>
           </Values>
         </NameGroup>
       </Generic>
     </Ships>
+    <Armies>
+      <FleetSequentialName>%O% Fleet</FleetSequentialName>
+      <DefenceArmySequentialName>%O% Watchers</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Usurpers</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Garrison Force</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Slave Horde</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Replicated Warriors</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Turrets</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Destroyers</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Iron Garrison</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synth Watchers</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synth Usurpers</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Blessed Ones</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Abomination Pack</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Alpha Warriors</SuperSoldierArmySequentialName>
+    </Armies>
     <Planets>
       <Generic>
         <NameGroup>
           <Values>
-              <string>Bar Fusthin</string>
-              <string>Bar Kripathi</string>
-              <string>Bar Tagat</string>
-              <string>Bar Yarnit</string>
-              <string>Con Forthol</string>
-              <string>Con Grondur</string>
-              <string>Con Jeldon</string>
-              <string>Con Jordon</string>
-              <string>Con Jurthin</string>
-              <string>Con Kradal</string>
-              <string>Con Kunzim</string>
-              <string>Con Mardal</string>
-              <string>Con Mirdh</string>
-              <string>Con Ovgun</string>
-              <string>Con Vesdhi</string>
-              <string>Con Vurdur</string>
-              <string>Das Dongas</string>
-              <string>Das Kulgit</string>
-              <string>Das Kulhan</string>
-              <string>Das Yardei</string>
-              <string>Das Zoldin</string>
-              <string>Din Klobri</string>
-              <string>Din Kulgit</string>
-              <string>Din Mithol</string>
-              <string>Din Rofdur</string>
-              <string>Dol Bahbat</string>
-              <string>Dol Joldhi</string>
-              <string>Dol Kelthol</string>
-              <string>Dol Mefar</string>
-              <string>Dol Nirgun</string>
-              <string>Dol Ridei</string>
-              <string>For Kragas</string>
-              <string>For Zelgat</string>
-              <string>Gah Dondei</string>
-              <string>Gah Dovd</string>
-              <string>Gah Dunguthi</string>
-              <string>Gah Lasgat</string>
-              <string>Gah Sonpathi</string>
-              <string>Gah Vergrim</string>
-              <string>Gah Yaszim</string>
-              <string>Gal Jordur</string>
-              <string>Gal Krizad</string>
-              <string>Gal Sondri</string>
-              <string>Gem Nirdei</string>
-              <string>Gem Vurzad</string>
-              <string>Gud Gronrad</string>
-              <string>Gud Keldur</string>
-              <string>Gud Kulgit</string>
-              <string>Hal Dandri</string>
-              <string>Hal Furgothi</string>
-              <string>Hal Kulthron</string>
-              <string>Hal Mithin</string>
-              <string>Hal Vesgat</string>
-              <string>Hor Kulguthi</string>
-              <string>Hor Nosdin</string>
-              <string>Hor Yolgrim</string>
-              <string>Kal Kelgun</string>
-              <string>Kal Rothar</string>
-              <string>Kat Lasdhi</string>
-              <string>Kat Mebat</string>
-              <string>Kat Nospathi</string>
-              <string>Kat Rodin</string>
-              <string>Kat Yoldhi</string>
-              <string>Kol Dungat</string>
-              <string>Kol Ulgrim</string>
-              <string>Kol Yasdin</string>
-              <string>Kol Yoldhi</string>
-              <string>Kud Dandur</string>
-              <string>Kud Esthar</string>
-              <string>Kud Forhan</string>
-              <string>Kud Furhan</string>
-              <string>Kud Mirthol</string>
-              <string>Kud Robri</string>
-              <string>Kud Verdur</string>
-              <string>Kud Vesgas</string>
-              <string>Kun Dunbri</string>
-              <string>Kun Golguthi</string>
-              <string>Kun Lasd</string>
-              <string>Kun Meyfar</string>
-              <string>Kun Zolzim</string>
-              <string>Kut Bahrad</string>
-              <string>Kut Dahgas</string>
-              <string>Kut Estah</string>
-              <string>Kut Golgas</string>
-              <string>Lev Dahrad</string>
-              <string>Lev Gulnethi</string>
-              <string>Lev Marbri</string>
-              <string>Lev Ridon</string>
-              <string>Mag Dunthron</string>
-              <string>Mag Golgat</string>
-              <string>Mag Golgothi</string>
-              <string>Mag Kestah</string>
-              <string>Mag Midri</string>
-              <string>Mel Kelnit</string>
-              <string>Mel Mirzim</string>
-              <string>Mel Songit</string>
-              <string>Mel Uldei</string>
-              <string>Mok Durgit</string>
-              <string>Mok Jurhan</string>
-              <string>Mok Ovhan</string>
-              <string>Mok Vinzad</string>
-              <string>Mun Tatah</string>
-              <string>Mun Thol</string>
-              <string>Mun Vestah</string>
-              <string>Pog Bahzim</string>
-              <string>Pog Jardin</string>
-              <string>Pog Jordei</string>
-              <string>Pog Meynit</string>
-              <string>Pog Meytah</string>
-              <string>Pog Verthron</string>
-              <string>Pog Yoldh</string>
-              <string>Pog Yolfar</string>
-              <string>Rag Dinthron</string>
-              <string>Rag Gold</string>
-              <string>Rol Fusrad</string>
-              <string>Rol Kesgun</string>
-              <string>Rol Mirgas</string>
-              <string>Rol Rofbat</string>
-              <string>Rol Rofdon</string>
-              <string>Rol Torfar</string>
-              <string>Rot Gat</string>
-              <string>Rot Klothin</string>
-              <string>Rot Vesdal</string>
-              <string>Rot Virgit</string>
-              <string>Rot Zad</string>
-              <string>Tar Donpathi</string>
-              <string>Tar Jolbri</string>
-              <string>Tar Kungas</string>
-              <string>Tar Vesbri</string>
-              <string>Tin Dinhan</string>
-              <string>Tin Krifar</string>
-              <string>Tin Rofthol</string>
-              <string>Tin Torzim</string>
-              <string>Tol Dangun</string>
-              <string>Tol Jurzim</string>
-              <string>Tol Rofdhi</string>
-              <string>Tol Vesdon</string>
-              <string>Tol Vindin</string>
-              <string>Tor Dandri</string>
-              <string>Tor Gradei</string>
-              <string>Tor Jolfar</string>
-              <string>Tor Jorgat</string>
-              <string>Tor Jurthin</string>
-              <string>Yol Dingas</string>
-              <string>Yol Kridon</string>
-              <string>Yol Ovdur</string>
-              <string>Yol Vesdal</string>
-              <string>Zar Furgat</string>
-              <string>Zar Jeldri</string>
-              <string>Zar Meytah</string>
-              <string>Zar Nosgrim</string>
-              <string>Zar Yolgrim</string>
-              <string>Zar Zeldei</string>
-              <string>Zed Kespathi</string>
-              <string>Zed Kulthin</string>
-              <string>Zed Vurzim</string>
-              <string>Zot Dundri</string>
-              <string>Zot Durbat</string>
-              <string>Zot Yasthol</string>
+            <string>Bar Fusthin</string>
+            <string>Bar Kripathi</string>
+            <string>Bar Tagat</string>
+            <string>Bar Yarnit</string>
+            <string>Con Forthol</string>
+            <string>Con Grondur</string>
+            <string>Con Jeldon</string>
+            <string>Con Jordon</string>
+            <string>Con Jurthin</string>
+            <string>Con Kradal</string>
+            <string>Con Kunzim</string>
+            <string>Con Mardal</string>
+            <string>Con Mirdh</string>
+            <string>Con Ovgun</string>
+            <string>Con Vesdhi</string>
+            <string>Con Vurdur</string>
+            <string>Das Dongas</string>
+            <string>Das Kulgit</string>
+            <string>Das Kulhan</string>
+            <string>Das Yardei</string>
+            <string>Das Zoldin</string>
+            <string>Din Klobri</string>
+            <string>Din Kulgit</string>
+            <string>Din Mithol</string>
+            <string>Din Rofdur</string>
+            <string>Dol Bahbat</string>
+            <string>Dol Joldhi</string>
+            <string>Dol Kelthol</string>
+            <string>Dol Mefar</string>
+            <string>Dol Nirgun</string>
+            <string>Dol Ridei</string>
+            <string>For Kragas</string>
+            <string>For Zelgat</string>
+            <string>Gah Dondei</string>
+            <string>Gah Dovd</string>
+            <string>Gah Dunguthi</string>
+            <string>Gah Lasgat</string>
+            <string>Gah Sonpathi</string>
+            <string>Gah Vergrim</string>
+            <string>Gah Yaszim</string>
+            <string>Gal Jordur</string>
+            <string>Gal Krizad</string>
+            <string>Gal Sondri</string>
+            <string>Gem Nirdei</string>
+            <string>Gem Vurzad</string>
+            <string>Gud Gronrad</string>
+            <string>Gud Keldur</string>
+            <string>Gud Kulgit</string>
+            <string>Hal Dandri</string>
+            <string>Hal Furgothi</string>
+            <string>Hal Kulthron</string>
+            <string>Hal Mithin</string>
+            <string>Hal Vesgat</string>
+            <string>Hor Kulguthi</string>
+            <string>Hor Nosdin</string>
+            <string>Hor Yolgrim</string>
+            <string>Kal Kelgun</string>
+            <string>Kal Rothar</string>
+            <string>Kat Lasdhi</string>
+            <string>Kat Mebat</string>
+            <string>Kat Nospathi</string>
+            <string>Kat Rodin</string>
+            <string>Kat Yoldhi</string>
+            <string>Kol Dungat</string>
+            <string>Kol Ulgrim</string>
+            <string>Kol Yasdin</string>
+            <string>Kol Yoldhi</string>
+            <string>Kud Dandur</string>
+            <string>Kud Esthar</string>
+            <string>Kud Forhan</string>
+            <string>Kud Furhan</string>
+            <string>Kud Mirthol</string>
+            <string>Kud Robri</string>
+            <string>Kud Verdur</string>
+            <string>Kud Vesgas</string>
+            <string>Kun Dunbri</string>
+            <string>Kun Golguthi</string>
+            <string>Kun Lasd</string>
+            <string>Kun Meyfar</string>
+            <string>Kun Zolzim</string>
+            <string>Kut Bahrad</string>
+            <string>Kut Dahgas</string>
+            <string>Kut Estah</string>
+            <string>Kut Golgas</string>
+            <string>Lev Dahrad</string>
+            <string>Lev Gulnethi</string>
+            <string>Lev Marbri</string>
+            <string>Lev Ridon</string>
+            <string>Mag Dunthron</string>
+            <string>Mag Golgat</string>
+            <string>Mag Golgothi</string>
+            <string>Mag Kestah</string>
+            <string>Mag Midri</string>
+            <string>Mel Kelnit</string>
+            <string>Mel Mirzim</string>
+            <string>Mel Songit</string>
+            <string>Mel Uldei</string>
+            <string>Mok Durgit</string>
+            <string>Mok Jurhan</string>
+            <string>Mok Ovhan</string>
+            <string>Mok Vinzad</string>
+            <string>Mun Tatah</string>
+            <string>Mun Thol</string>
+            <string>Mun Vestah</string>
+            <string>Pog Bahzim</string>
+            <string>Pog Jardin</string>
+            <string>Pog Jordei</string>
+            <string>Pog Meynit</string>
+            <string>Pog Meytah</string>
+            <string>Pog Verthron</string>
+            <string>Pog Yoldh</string>
+            <string>Pog Yolfar</string>
+            <string>Rag Dinthron</string>
+            <string>Rag Gold</string>
+            <string>Rol Fusrad</string>
+            <string>Rol Kesgun</string>
+            <string>Rol Mirgas</string>
+            <string>Rol Rofbat</string>
+            <string>Rol Rofdon</string>
+            <string>Rol Torfar</string>
+            <string>Rot Gat</string>
+            <string>Rot Klothin</string>
+            <string>Rot Vesdal</string>
+            <string>Rot Virgit</string>
+            <string>Rot Zad</string>
+            <string>Tar Donpathi</string>
+            <string>Tar Jolbri</string>
+            <string>Tar Kungas</string>
+            <string>Tar Vesbri</string>
+            <string>Tin Dinhan</string>
+            <string>Tin Krifar</string>
+            <string>Tin Rofthol</string>
+            <string>Tin Torzim</string>
+            <string>Tol Dangun</string>
+            <string>Tol Jurzim</string>
+            <string>Tol Rofdhi</string>
+            <string>Tol Vesdon</string>
+            <string>Tol Vindin</string>
+            <string>Tor Dandri</string>
+            <string>Tor Gradei</string>
+            <string>Tor Jolfar</string>
+            <string>Tor Jorgat</string>
+            <string>Tor Jurthin</string>
+            <string>Yol Dingas</string>
+            <string>Yol Kridon</string>
+            <string>Yol Ovdur</string>
+            <string>Yol Vesdal</string>
+            <string>Zar Furgat</string>
+            <string>Zar Jeldri</string>
+            <string>Zar Meytah</string>
+            <string>Zar Nosgrim</string>
+            <string>Zar Yolgrim</string>
+            <string>Zar Zeldei</string>
+            <string>Zed Kespathi</string>
+            <string>Zed Kulthin</string>
+            <string>Zed Vurzim</string>
+            <string>Zot Dundri</string>
+            <string>Zot Durbat</string>
+            <string>Zot Yasthol</string>
           </Values>
         </NameGroup>
       </Generic>

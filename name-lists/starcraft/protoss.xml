@@ -322,9 +322,9 @@
       </MilitaryStations>
     </Stations>
     <Armies>
+      <FleetSequentialName>%O% Armada</FleetSequentialName>
       <Fleet>
         <NameGroup>
-          <Name></Name>
           <Values>
             <string>Koprulu Expeditionary Force</string>
             <string>The Golden Armada</string>
@@ -332,6 +332,16 @@
           </Values>
         </NameGroup>
       </Fleet>
+      <DefenceArmySequentialName>%O% Dragoons</DefenceArmySequentialName>
+      <DefenceArmy>
+        <NameGroup>
+          <Name>Guardians - Nerazim</Name>
+          <Values>
+            <string>Shadow Guard</string>
+          </Values>
+        </NameGroup>
+      </DefenceArmy>
+      <AssaultArmySequentialName>%O% Zealots</AssaultArmySequentialName>
       <AssaultArmy>
         <NameGroup>
           <Name>Khalai warbands</Name>
@@ -350,6 +360,17 @@
           </Values>
         </NameGroup>
       </AssaultArmy>
+      <OccupationArmySequentialName>%0% Stalkers</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Slave Corps</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Clone Division</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Immortals</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Sentinels</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Photon Cannon Field</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Purifier Guard</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Purifier Force</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% High Templars</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Death Flock</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Dark Templars</SuperSoldierArmySequentialName>
     </Armies>
     <Planets>
       <Generic>

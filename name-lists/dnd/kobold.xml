@@ -276,6 +276,7 @@
       </Generic>
     </Ships>
     <Armies>
+      <FleetSequentialName>%0% Navy</FleetSequentialName>
       <Fleet>
         <NameGroup>
           <Values>
@@ -314,6 +315,19 @@
           </Values>
         </NameGroup>
       </Fleet>
+      <DefenceArmySequentialName>%O% Assault Warband</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Guardian Sentinels</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Garrison Force</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Slave Warband</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Clone Warband</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Robotic Sentinels</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Robotic Warband</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Robotic Garrison</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%0% Sythetic Shields</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%0% Synthetic Warband</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Sorcerer Warband</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Beast Warband</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Gene-Enhanced Warband</SuperSoldierArmySequentialName>
     </Armies>
     <Planets>
       <Generic>

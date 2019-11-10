@@ -56,6 +56,7 @@
       </Generic>
     </Ships>
     <Armies>
+      <FleetSequentialName>%O% Space Tails</FleetSequentialName>
       <Fleet>
         <NameGroup>
           <Values>
@@ -78,6 +79,19 @@
           </Values>
         </NameGroup>
       </Fleet>
+      <DefenceArmySequentialName>%O% Defence Scales</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Invasion Scales</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Garrison Scales</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Slave Horde</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Cloned Scales</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Automated Guard</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Automated Scales</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Automated Garrison</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Guard</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Scales</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Tele-scales</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Mutant Scalemorphs</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Augmented Scales</SuperSoldierArmySequentialName>
     </Armies>
     <Planets>
       <Generic>

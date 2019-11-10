@@ -109,6 +109,21 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
+    <Armies>
+      <DefenceArmySequentialName>%O% Homeland Security</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Battlecats</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Garrison Force</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Enslaved Conscripts</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Clone Batch</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Automatic Warriors</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Automatic Defenders</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Automatic Garrison</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Claws</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Claws</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Telepathic Ops</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Hybrid Pack</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Augmented Warriors</SuperSoldierArmySequentialName>
+    </Armies>
     <Planets>
       <Generic>
         <NameGroup>

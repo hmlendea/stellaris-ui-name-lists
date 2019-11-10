@@ -112,6 +112,7 @@
       </Generic>
     </Ships>
     <Armies>
+      <FleetSequentialName>%O% Spore Fleet</FleetSequentialName>
       <Fleet>
         <NameGroup>
           <Values>
@@ -218,6 +219,19 @@
           </Values>
         </NameGroup>
       </Fleet>
+      <DefenceArmySequentialName>%O% Defence Spores</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Assault Spores</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Garrison Spores</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Chained Regiment</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Clone Platoon</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Mechanized Spore Host</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Mechanized Spore Host</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Mechanized Garrison</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Spores</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Spores</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Psi Host</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Sporemorphs</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Storm Caps</SuperSoldierArmySequentialName>
     </Armies>
     <Planets>
       <Generic>
