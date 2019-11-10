@@ -1,18 +1,27 @@
 #!/bin/bash
 
+MOD_ID="ui-name-lists"
+MOD_NAME="Universum Infinitum - Name Lists"
+STELLARIS_VERSION="2.5.*"
+
 BUILD_DIRECTORY_PATH="./build"
 OUTPUT_DIRECTORY_PATH="./out"
-OUTPUT_NAMELISTS_DIRECTORY_PATH="${OUTPUT_DIRECTORY_PATH}/common/name_lists"
-OUTPUT_LOCALISATION_DIRECTORY_PATH="${OUTPUT_DIRECTORY_PATH}/localisation"
+OUTPUT_MOD_DIRECTORY_PATH="${OUTPUT_DIRECTORY_PATH}/${MOD_ID}"
+OUTPUT_NAMELISTS_DIRECTORY_PATH="${OUTPUT_MOD_DIRECTORY_PATH}/common/name_lists"
+OUTPUT_LOCALISATION_DIRECTORY_PATH="${OUTPUT_MOD_DIRECTORY_PATH}/localisation/english"
 OUTPUT_LOCALISATION_FILE_PATH="${OUTPUT_LOCALISATION_DIRECTORY_PATH}/ui_names_l_english.yml"
 GENERATOR_EXECUTABLE="dotnet /home/horatiu/Downloads/stellaris-name-list-generator/bin/Debug/netcoreapp2.2/StellarisNameListGenerator.dll"
+
+MOD_DESCRIPTOR_PRIMARY_FILE_PATH="${OUTPUT_DIRECTORY_PATH}/${MOD_ID}.mod"
+MOD_DESCRIPTOR_SECONDARY_FILE_PATH="${OUTPUT_MOD_DIRECTORY_PATH}/descriptor.mod"
 
 [ ! -d "${BUILD_DIRECTORY_PATH}" ] && mkdir -p "${BUILD_DIRECTORY_PATH}"
 [ ! -d "${OUTPUT_DIRECTORY_PATH}" ] && mkdir -p "${OUTPUT_DIRECTORY_PATH}"
 [ ! -d "${OUTPUT_NAMELISTS_DIRECTORY_PATH}" ] && mkdir -p "${OUTPUT_NAMELISTS_DIRECTORY_PATH}"
 [ ! -d "${OUTPUT_LOCALISATION_DIRECTORY_PATH}" ] && mkdir -p "${OUTPUT_LOCALISATION_DIRECTORY_PATH}"
 
-echo "l_english:" > ${OUTPUT_LOCALISATION_FILE_PATH}
+printf '\xEF\xBB\xBF' > ${OUTPUT_LOCALISATION_FILE_PATH}
+printf "l_english:\n" >> ${OUTPUT_LOCALISATION_FILE_PATH}
 
 function merge {
     OUTPUT_FILE_NAME=$1
@@ -43,54 +52,69 @@ function add-localisation {
 }
 
 function build {
-    NAMELIST_ID=$1
+    NAMELIST_ID=$1 && shift
+    NAMELIST_NAME=$1 && shift
     NAMELIST_FILE_PATH="${BUILD_DIRECTORY_PATH}/${NAMELIST_ID}.xml"
     OUTPUT_NAMELIST_FILE_PATH="${OUTPUT_NAMELISTS_DIRECTORY_PATH}/${NAMELIST_ID}.txt"
-
-    shift
 
     echo "Building ${NAMELIST_ID}..."
 
     merge ${NAMELIST_FILE_PATH} $@
-    ${GENERATOR_EXECUTABLE} -i ${NAMELIST_FILE_PATH} -o ${OUTPUT_NAMELIST_FILE_PATH}
+    ${GENERATOR_EXECUTABLE} -i "${NAMELIST_FILE_PATH}" -o "${OUTPUT_NAMELIST_FILE_PATH}" -n "${NAMELIST_NAME}"
     add-localisation ${NAMELIST_ID}
 }
 
-build ui_extra_humans_asian human/asian
-build ui_extra_humans_germanic human/germanic
-build ui_extra_humans_slavic human/slavic
-build ui_extra_humans_spqr_extended human/roman
-build ui_extra_humans_extended \
+function generate-mod-descriptor {
+    FILE_PATH=$1
+
+    echo "name=\"${MOD_NAME}\"" > ${FILE_PATH}
+    echo "path=\"mod/${MOD_ID}\"" >> ${FILE_PATH}
+    echo "tags={" >> ${FILE_PATH}
+    echo "  \"Species\"" >> ${FILE_PATH}
+    echo "}" >> ${FILE_PATH}
+    echo "picture=\"logo.png\"" >> ${FILE_PATH}
+    echo "supported_version=\"${STELLARIS_VERSION}\"" >> ${FILE_PATH}
+}
+
+build "ui_extra_humans_asian" "Human - Asian" human/asian
+build "ui_extra_humans_germanic" "Human - Germanic" human/germanic
+build "ui_extra_humans_latino" "Human - Latino" human/latino
+build "ui_extra_humans_slavic" "Human - Slavic" human/slavic
+build "ui_extra_humans_spqr_extended" "Human - Roman" human/roman human/human3
+build "ui_extra_humans_extended" "Human - Extended" \
       human/african human/arabic human/asian human/baltic human/celtic human/english \
-      human/french human/germanic human/hellenic human/hindi human/italian human/latino \
+      human/french human/germanic human/hellenic human/hindi human/hungarian human/italian human/latino \
       human/persian human/roman human/romanian human/slavic human/turkic human/common \
-      starcraft/human starwars/human runescape/human other-media/human
+      starcraft/human starwars/human runescape/human other-media/human human/human1 human/human2 human/human3 human/zextended
 
-build ui_dnd_kobold dnd/kobold
+build "ui_dnd_kobold" "D&D - Kobold" dnd/kobold
 
-build ui_elderscrolls_argonian elderscrolls/argonian
-build ui_elderscrolls_khajiit elderscrolls/khajiit
-build ui_elderscrolls_orc elderscrolls/orc
-build ui_elderscrolls_spriggan elderscrolls/spriggan
+build "ui_elderscrolls_argonian" "ElderScrolls - Argonian" elderscrolls/argonian
+build "ui_elderscrolls_khajiit" "ElderScrolls - Khajiit" elderscrolls/khajiit
+build "ui_elderscrolls_orc" "ElderScrolls - Orc" elderscrolls/orc
+build "ui_elderscrolls_spriggan" "ElderScrolls - Spriggan" elderscrolls/spriggan
 
-build ui_narivia_rodah narivia/rodah
+build "ui_narivia_rodah" "Narivia - Rodah" narivia/rodah
 
-build ui_runescape_human runescape/human
+build "ui_runescape_human" "RuneScape - Human" runescape/human
 
-build ui_starcraft_human starcraft/human
-build ui_starcraft_protoss starcraft/protoss
+build "ui_starcraft_human" "StarCraft - Human" starcraft/human
+build "ui_starcraft_protoss" "StarCraft - Protoss" starcraft/protoss
 
-build ui_starwars_human starwars/human
+build "ui_starwars_human" "StarWars - Human" starwars/human
 
-build ui_extra_art1 ui/art1
-build ui_extra_avi1 ui/avi1
-build ui_extra_fun1 ui/fun1
-build ui_extra_hum1 ui/hum1
-build ui_extra_mam1 ui/mam1
-build ui_extra_mam2 ui/mam2
-build ui_extra_mol1 ui/mol1
-build ui_extra_mol2 ui/mol2
-build ui_extra_pla1 ui/pla1
-build ui_extra_rep1 ui/rep1
-build ui_extra_rep2 ui/rep2
-build ui_extra_rep3 ui/rep3
+build "ui_extra_art1" "Extra - Arthropoid 1" ui/art1
+build "ui_extra_avi1" "Extra - Avian 1" ui/avi1
+build "ui_extra_fun1" "Extra - Fungoid 1" ui/fun1
+build "ui_extra_hum1" "Extra - Humanoid 1" ui/hum1
+build "ui_extra_mam1" "Extra - Mammalian 1" ui/mam1
+build "ui_extra_mam2" "Extra - Mammalian 2" ui/mam2
+build "ui_extra_mol1" "Extra - Molluscoid 1" ui/mol1
+build "ui_extra_mol2" "Extra - Molluscoid 2" ui/mol2
+build "ui_extra_pla1" "Extra - Plantoid 1" ui/pla1
+build "ui_extra_rep1" "Extra - Reptillian 1" ui/rep1
+build "ui_extra_rep2" "Extra - Reptillian 2" ui/rep2
+build "ui_extra_rep3" "Extra - Reptillian 3" ui/rep3
+
+generate-mod-descriptor ${MOD_DESCRIPTOR_PRIMARY_FILE_PATH}
+generate-mod-descriptor ${MOD_DESCRIPTOR_SECONDARY_FILE_PATH}
