@@ -192,6 +192,46 @@
         </NameGroup>
       </Rivers>
     </Places>
+    <GreatPeople>
+      <Explorers>
+        <NameGroup>
+          <Name>Explorers - Norse</Name>
+          <Values>
+            <string>Leif Ericson</string>
+          </Values>
+        </NameGroup>
+      </Explorers>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists - Dutch</Name>
+          <Values>
+            <string>Fahrenheit</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Scientists - German</Name>
+          <Values>
+            <string>Einstein</string>
+            <string>Kepler</string>
+            <string>Von Braun</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Scientists - Swedish</Name>
+          <Values>
+            <string>Nobel</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders - Swedish</Name>
+          <Values>
+            <string>Gustavus Adolphus</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
+    </GreatPeople>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -336,12 +376,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Persons - Science - Swiss</Name>
-          <Values>
-            <string>Rickenbacker</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Persons - Art - German</Name>
           <Values>
             <string>Orff</string>
@@ -364,12 +398,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Persons - Leaders - Swedish</Name>
-          <Values>
-            <string>Gustavus Adolphus</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Mythology - Norse</Name>
           <Values>
             <string>Fafnir</string>
@@ -388,34 +416,6 @@
           </Values>
         </NameGroup>
       </Battleship>
-      <Science>
-        <NameGroup>
-          <Name>Persons - Science - Dutch</Name>
-          <Values>
-            <string>Fahrenheit</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Science - German</Name>
-          <Values>
-            <string>Einstein</string>
-            <string>Kepler</string>
-            <string>Von Braun</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Science - Swedish</Name>
-          <Values>
-            <string>Nobel</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Exploration - Norse</Name>
-          <Values>
-            <string>Leif Ericson</string>
-          </Values>
-        </NameGroup>
-      </Science>
       <Coloniser>
         <NameGroup>
           <Name>Mythology</Name>

@@ -299,6 +299,39 @@
         </NameGroup>
       </Rivers>
     </Places>
+    <GreatPeople>
+      <Explorers>
+        <NameGroup>
+          <Name>Explorers - Chinese</Name>
+          <Values>
+            <string>Zheng He</string>
+          </Values>
+        </NameGroup>
+      </Explorers>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists - Chinese</Name>
+          <Values>
+            <string>Confucius</string>
+            <string>Kongzi</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders - Chinese</Name>
+          <Values>
+            <string>Changping</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Mongol</Name>
+          <Values>
+            <string>Genghis Khan</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
+    </GreatPeople>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -451,18 +484,6 @@
             <string>Nagato</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Persons - Leaders - Chinese</Name>
-          <Values>
-            <string>Changping</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Leaders - Mongol</Name>
-          <Values>
-            <string>Genghis Khan</string>
-          </Values>
-        </NameGroup>
       </Cruiser>
       <Battleship>
         <NameGroup>
@@ -486,14 +507,6 @@
           </Values>
         </NameGroup>
       </Battleship>
-      <Science>
-        <NameGroup>
-          <Name>Persons - Explorers - Chinese</Name>
-          <Values>
-            <string>Zheng He</string>
-          </Values>
-        </NameGroup>
-      </Science>
       <Transport>
         <NameGroup>
           <Name>Islands</Name>

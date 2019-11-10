@@ -243,6 +243,95 @@
         </NameGroup>
       </Rivers>
     </Places>
+    <GreatPeople>
+      <Explorers>
+        <NameGroup>
+          <Name>Explorers - American</Name>
+          <Values>
+            <string>Aldrin</string>
+            <string>Armstrong</string>
+            <string>Grissom</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Explorers - British</Name>
+          <Values>
+            <string>James Cook</string>
+            <string>Walter Raleigh</string>
+          </Values>
+        </NameGroup>
+      </Explorers>
+      <Pioneers>
+        <NameGroup>
+          <Name>Pioneers - American</Name>
+          <Values>
+            <string>Earhart</string>
+          </Values>
+        </NameGroup>
+      </Pioneers>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists - American</Name>
+          <Values>
+            <string>Goddard</string>
+            <string>Hubble</string>
+            <string>Sagan</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Scientists - British</Name>
+          <Values>
+            <string>Darwin</string>
+            <string>Hawking</string>
+            <string>Kelvin</string>
+            <string>Newton</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders - American</Name>
+          <Values>
+            <string>Lincoln</string>
+            <string>Roosevelt</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - British</Name>
+          <Values>
+            <string>Churchill</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders - American</Name>
+          <Values>
+            <string>Washington</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - British</Name>
+          <Values>
+            <string>Victoria</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - English</Name>
+          <Values>
+            <string>Lionheart</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
+      <FlyingAces>
+        <NameGroup>
+          <Name>Flying Aces - American</Name>
+          <Values>
+            <string>Rickenbacker</string>
+          </Values>
+        </NameGroup>
+      </FlyingAces>
+    </GreatPeople>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -421,13 +510,6 @@
           </Values>
         </NameGroup>
       </Corvette>
-      <Destroyer>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Destroyer>
       <Cruiser>
         <NameGroup>
           <Name>Ships - American</Name>
@@ -442,40 +524,7 @@
             <string>Temeraire</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Persons - Leaders - American</Name>
-          <Values>
-            <string>Abraham Lincoln</string>
-            <string>Franklin Delano Roosevelt</string>
-            <string>Franklin Roosevelt</string>
-            <string>Lincoln</string>
-            <string>Roosevelt</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Leaders - British</Name>
-          <Values>
-            <string>Churchill</string>
-            <string>Winston Churchill</string>
-          </Values>
-        </NameGroup>
       </Cruiser>
-      <Battleship>
-        <NameGroup>
-          <Name>Persons - Leaders - American</Name>
-          <Values>
-            <string>George Washington</string>
-            <string>Washington</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Leaders - English</Name>
-          <Values>
-            <string>Lionheart</string>
-            <string>Richard the Lionheart</string>
-          </Values>
-        </NameGroup>
-      </Battleship>
       <Science>
         <NameGroup>
           <Name>Ships - British</Name>
@@ -483,62 +532,7 @@
             <string>Untiring</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Persons - Scientists - British</Name>
-          <Values>
-            <string>Charles Darwin</string>
-            <string>Darwin</string>
-            <string>Hawking</string>
-            <string>Isaac Newton</string>
-            <string>Kelvin</string>
-            <string>Newton</string>
-            <string>Stephen Hawking</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Scientists - American</Name>
-          <Values>
-            <string>Carl Sagan</string>
-            <string>Edwin Hubble</string>
-            <string>Goddard</string>
-            <string>Hubble</string>
-            <string>Robert H. Goddard</string>
-            <string>Sagan</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Explorers - British</Name>
-          <Values>
-            <string>James Cook</string>
-            <string>Walter Raleigh</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Explorers - American</Name>
-          <Values>
-            <string>Aldrin</string>
-            <string>Armstrong</string>
-            <string>Buzz Aldrin</string>
-            <string>Grissom</string>
-            <string>Gus Grissom</string>
-            <string>Neil Armstrong</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Pioneers - American</Name>
-          <Values>
-            <string>Amelia Earhart</string>
-            <string>Earhart</string>
-          </Values>
-        </NameGroup>
       </Science>
-      <Coloniser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Coloniser>
     </Ships>
     <ShipClasses>
       <Generic>
@@ -610,16 +604,6 @@
       </Generic>
     </ShipClasses>
     <Stations>
-      <MilitaryStations>
-        <Generic>
-          <NameGroup>
-            <Name>Persons - Leaders - British</Name>
-            <Values>
-              <string>Victoria</string>
-            </Values>
-          </NameGroup>
-        </Generic>
-      </MilitaryStations>
       <Starbases>
         <Starports>
           <NameGroup>

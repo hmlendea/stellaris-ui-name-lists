@@ -272,6 +272,40 @@
         </NameGroup>
       </Seas>
     </Places>
+    <GreatPeople>
+      <Explorers>
+        <NameGroup>
+          <Name>Explorers - Russian</Name>
+          <Values>
+            <string>Gagarin</string>
+            <string>Tereshkova</string>
+          </Values>
+        </NameGroup>
+      </Explorers>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists - Russian</Name>
+          <Values>
+            <string>Tsiolkovsky</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Scientists - Serbian</Name>
+          <Values>
+            <string>Tesla</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders - Russian</Name>
+          <Values>
+            <string>Alexander Nevsky</string>
+            <string>Catherine the Great</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
+    </GreatPeople>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -371,13 +405,6 @@
       </Corvette>
       <Cruiser>
         <NameGroup>
-          <Name>Persons - Leaders - Russian</Name>
-          <Values>
-            <string>Alexander Nevsky</string>
-            <string>Catherine the Great</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Ships - Russian</Name>
           <Values>
             <string>Kursk</string>
@@ -386,33 +413,9 @@
       </Cruiser>
       <Science>
         <NameGroup>
-          <Name>People - Scientists - Russian</Name>
-          <Values>
-            <string>Konstantin Tsiolkovsky</string>
-            <string>Tsiolkovsky</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>People - Scientists - Serbia</Name>
-          <Values>
-            <string>Nikola Tesla</string>
-            <string>Tesla</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>People - Explorers - Russian</Name>
-          <Values>
-            <string>Gagarin</string>
-            <string>Tereshkova</string>
-            <string>Valentina Tereshkova</string>
-            <string>Yuri Gagarin</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>People - Writers - Russian</Name>
           <Values>
             <string>Asimov</string>
-            <string>Isaac Asimov</string>
           </Values>
         </NameGroup>
         <NameGroup>

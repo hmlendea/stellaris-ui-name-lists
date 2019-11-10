@@ -78,6 +78,17 @@
           </Values>
         </NameGroup>
       </Regions>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Apusenia</string>
+            <string>Bucegi</string>
+            <string>Carpathia</string>
+            <string>Făgăraș</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
       <Cities>
         <NameGroup>
           <Name>Cities</Name>
@@ -124,6 +135,24 @@
         </NameGroup>
       </Seas>
     </Places>
+    <GreatPeople>
+      <Explorers>
+        <NameGroup>
+          <Name>Explorers</Name>
+          <Values>
+            <string>Prunariu</string>
+          </Values>
+        </NameGroup>
+      </Explorers>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists</Name>
+          <Values>
+            <string>Racoviță</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+    </GreatPeople>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -194,22 +223,6 @@
           </Values>
         </NameGroup>
       </Battleship>
-      <Science>
-        <NameGroup>
-          <Name>Persons - Scientists</Name>
-          <Values>
-            <string>Racoviță</string>
-            <string>Emil Racoviță</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Explorers</Name>
-          <Values>
-            <string>Prunariu</string>
-            <string>Dumitru Prunariu</string>
-          </Values>
-        </NameGroup>
-      </Science>
       <Coloniser>
         <NameGroup>
           <Name></Name>
@@ -228,6 +241,16 @@
         </NameGroup>
       </Generic>
       </MilitaryStations>
+      <Starbases>
+        <Starports>
+          <NameGroup>
+            <Name>Airports</Name>
+            <Values>
+              <string>Otopeni</string>
+            </Values>
+          </NameGroup>
+        </Starports>
+      </Starbases>
     </Stations>
     <Armies>
       <Fleet>

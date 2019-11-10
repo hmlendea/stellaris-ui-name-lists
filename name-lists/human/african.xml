@@ -356,6 +356,24 @@
         </NameGroup>
       </Rivers>
     </Places>
+    <GreatPeople>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders - Zulu</Name>
+          <Values>
+            <string>Shaka Zulu</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+      <GeneralsTier3>
+        <NameGroup>
+          <Name>Generals - Tunisian</Name>
+          <Values>
+            <string>Hannibal</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier3>
+    </GreatPeople>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -374,12 +392,6 @@
     </Warfare>
     <Ships>
       <Corvette>
-        <NameGroup>
-          <Name>Persons - Leaders - Zulu</Name>
-          <Values>
-            <string>Shaka Zulu</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Animals</Name>
           <Values>
@@ -402,14 +414,6 @@
           </Values>
         </NameGroup>
       </Cruiser>
-      <Battleship>
-        <NameGroup>
-          <Name>Persons - Leaders - Tunisian</Name>
-          <Values>
-            <string>Hannibal</string>
-          </Values>
-        </NameGroup>
-      </Battleship>
       <Constructor>
         <NameGroup>
           <Name>Mythology - Spirits - Irish</Name>

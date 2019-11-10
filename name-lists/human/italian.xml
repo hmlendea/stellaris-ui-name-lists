@@ -97,6 +97,26 @@
         </NameGroup>
       </Seas>
     </Places>
+    <GreatPeople>
+      <Explorers>
+        <NameGroup>
+          <Name>Explorers</Name>
+          <Values>
+            <string>Columbus</string>
+            <string>Marco Polo</string>
+          </Values>
+        </NameGroup>
+      </Explorers>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists</Name>
+          <Values>
+            <string>Galileo</string>
+            <string>Lagrange</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+    </GreatPeople>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -150,20 +170,6 @@
           </Values>
         </NameGroup>
       </Battleship>
-      <Science>
-        <NameGroup>
-          <Name>Persons - Scientists</Name>
-          <Values>
-            <string>Columbus</string>
-            <string>Cristopher Columbus</string>
-            <string>Galileo Galilei</string>
-            <string>Galileo</string>
-            <string>Giuseppe Lagrange</string>
-            <string>Lagrange</string>
-            <string>Marco Polo</string>
-          </Values>
-        </NameGroup>
-      </Science>
       <Coloniser>
         <NameGroup>
           <Name></Name>

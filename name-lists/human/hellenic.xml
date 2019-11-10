@@ -83,6 +83,20 @@
         </NameGroup>
       </Seas>
     </Places>
+    <GreatPeople>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists</Name>
+          <Values>
+            <string>Archimedes</string>
+            <string>Callippus</string>
+            <string>Isidore</string>
+            <string>Ptolemy</string>
+            <string>Pytheas</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+    </GreatPeople>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -184,18 +198,6 @@
           </Values>
         </NameGroup>
       </Battleship>
-      <Science>
-        <NameGroup>
-          <Name>Persons - Scientists</Name>
-          <Values>
-            <string>Archimedes</string>
-            <string>Callippus</string>
-            <string>Isidore</string>
-            <string>Ptolemy</string>
-            <string>Pytheas</string>
-          </Values>
-        </NameGroup>
-      </Science>
       <Coloniser>
         <NameGroup>
           <Name></Name>

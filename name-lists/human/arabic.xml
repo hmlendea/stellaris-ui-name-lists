@@ -121,6 +121,16 @@
         </NameGroup>
       </Cities>
     </Places>
+    <GreatPeople>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists - Berber</Name>
+          <Values>
+            <string>Ibn Battuta</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+    </GreatPeople>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -174,14 +184,6 @@
           </Values>
         </NameGroup>
       </Battleship>
-      <Science>
-        <NameGroup>
-          <Name>Persons - Scientsits - Berber</Name>
-          <Values>
-            <string>Ibn Battuta</string>
-          </Values>
-        </NameGroup>
-      </Science>
       <Coloniser>
         <NameGroup>
           <Name></Name>

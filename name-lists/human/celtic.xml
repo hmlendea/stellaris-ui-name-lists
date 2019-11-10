@@ -67,6 +67,30 @@
         </NameGroup>
       </Lakes>
     </Places>
+    <GreatPeople>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists - Irish</Name>
+          <Values>
+            <string>Kelvin</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Gwendolen</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Welsh</Name>
+          <Values>
+            <string>Gwenllian</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+    </GreatPeople>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -99,20 +123,7 @@
       </NameGroup>
     </MythologicalCreatures>
     <Ships>
-      <Generic />
       <Corvette>
-        <NameGroup>
-          <Name>Persons - Leaders</Name>
-          <Values>
-            <string>Gwendolen</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Leaders - Welsh</Name>
-          <Values>
-            <string>Gwenllian</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Mythology</Name>
           <Values>
@@ -151,14 +162,6 @@
           </Values>
         </NameGroup>
       </Constructor>
-      <Science>
-        <NameGroup>
-          <Name>Persons - Scientists - Irish</Name>
-          <Values>
-            <string>Kelvin</string>
-          </Values>
-        </NameGroup>
-      </Science>
       <Coloniser>
         <NameGroup>
           <Name></Name>

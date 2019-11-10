@@ -57,6 +57,16 @@
         </NameGroup>
       </Rivers>
     </Places>
+    <GreatPeople>
+      <Explorers>
+        <NameGroup>
+          <Name>Explorers</Name>
+          <Values>
+            <string>Magellan</string>
+          </Values>
+        </NameGroup>
+      </Explorers>
+    </GreatPeople>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -75,17 +85,6 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <Ships>
-      <Science>
-        <NameGroup>
-          <Name>Persons - Explorers - Portuguese</Name>
-          <Values>
-            <string>Fernando Magellan</string>
-            <string>Magellan</string>
-          </Values>
-        </NameGroup>
-      </Science>
-    </Ships>
     <ShipClasses>
       <Generic>
         <NameGroup>

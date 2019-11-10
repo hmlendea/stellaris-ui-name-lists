@@ -156,6 +156,20 @@
         </NameGroup>
       </Seas>
     </Places>
+    <GreatPeople>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists</Name>
+          <Values>
+            <string>Hyginus</string>
+            <string>Lucilius</string>
+            <string>Plinius</string>
+            <string>Pliny</string>
+            <string>Polemius Silvius</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+    </GreatPeople>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -288,27 +302,6 @@
           </Values>
         </NameGroup>
       </Colossus>
-      <Science>
-        <NameGroup>
-          <Name>Persons - Scientists</Name>
-          <Values>
-            <string>Hyginus</string>
-            <string>Lucilius</string>
-            <string>Plinius</string>
-            <string>Pliny the Elder</string>
-            <string>Pliny the Younger</string>
-            <string>Pliny</string>
-            <string>Polemius Silvius</string>
-          </Values>
-        </NameGroup>
-      </Science>
-      <Coloniser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Coloniser>
     </Ships>
     <ShipClasses>
       <Corvette>

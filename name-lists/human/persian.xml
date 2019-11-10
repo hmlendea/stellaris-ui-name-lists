@@ -48,8 +48,25 @@
         </NameGroup>
       </Deserts>
     </Places>
+    <GreatPeople>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists - Persian</Name>
+          <Values>
+            <string>Azophi</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders - Persian</Name>
+          <Values>
+            <string>Xerxes</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
+    </GreatPeople>
     <Ships>
-      <Generic />
       <Corvette>
         <NameGroup>
           <Name>Persons - Heroes - Iranian</Name>
@@ -72,22 +89,6 @@
           </Values>
         </NameGroup>
       </Cruiser>
-      <Battleship>
-        <NameGroup>
-          <Name>Persons - Leaders - Persian</Name>
-          <Values>
-            <string>Xerxes</string>
-          </Values>
-        </NameGroup>
-      </Battleship>
-      <Science>
-        <NameGroup>
-          <Name>Persons - Science - Persian</Name>
-          <Values>
-            <string>Azophi</string>
-          </Values>
-        </NameGroup>
-      </Science>
       <Coloniser>
         <NameGroup>
           <Name></Name>

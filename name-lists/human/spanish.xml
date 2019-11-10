@@ -270,6 +270,17 @@
         </NameGroup>
       </Deserts>
     </Places>
+    <GreatPeople>
+      <Explorers>
+        <NameGroup>
+          <Name>Explorers - Spanish</Name>
+          <Values>
+            <string>Cortés</string>
+            <string>Cortez</string>
+          </Values>
+        </NameGroup>
+      </Explorers>
+    </GreatPeople>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -350,17 +361,6 @@
           </Values>
         </NameGroup>
       </Battleship>
-      <Science>
-        <NameGroup>
-          <Name>Persons - Explorers - Spanish</Name>
-          <Values>
-            <string>Cortés</string>
-            <string>Cortez</string>
-            <string>Hernan Cortez</string>
-            <string>Hernándo Cortés</string>
-          </Values>
-        </NameGroup>
-      </Science>
       <Coloniser>
         <NameGroup>
           <Name></Name>

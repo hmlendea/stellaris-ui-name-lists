@@ -86,6 +86,25 @@
         </NameGroup>
       </Cities>
     </Places>
+    <GreatPeople>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Clemenceau</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Charlemagne</string>
+            <string>Napoleon</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
+    </GreatPeople>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -175,38 +194,7 @@
             <string>Téméraire</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Persons - Leaders - French</Name>
-          <Values>
-            <string>Clemenceau</string>
-            <string>Georges Clemenceau</string>
-          </Values>
-        </NameGroup>
       </Cruiser>
-      <Battleship>
-        <NameGroup>
-          <Name>Persons - Leaders - French</Name>
-          <Values>
-            <string>Charlemagne</string>
-            <string>Napoleon Bonaparte</string>
-            <string>Napoleon</string>
-          </Values>
-        </NameGroup>
-      </Battleship>
-      <Science>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Science>
-      <Coloniser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Coloniser>
     </Ships>
     <ShipClasses>
       <Generic>
@@ -241,7 +229,7 @@
       <Starbases>
         <Starports>
           <NameGroup>
-            <Name>Airports - France</Name>
+            <Name>Airports</Name>
             <Values>
               <string>Charles de Gaulle</string>
             </Values>
