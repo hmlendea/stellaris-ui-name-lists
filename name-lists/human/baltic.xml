@@ -3,7 +3,7 @@
   <NameList>
     <Id>human_baltic</Id>
     <Name>Human - Baltic</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
@@ -12,7 +12,7 @@
           <string>Lithuanian</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Places>
       <Countries>
         <NameGroup>

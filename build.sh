@@ -89,6 +89,7 @@ build "ui_extra_humans_extended" "Human - Extended" \
 
 build "ui_dnd_kobold" "D&D - Kobold" dnd/kobold
 
+build "ui_elderscrolls_altmer" "ElderScrolls - Altmer" elderscrolls/altmer
 build "ui_elderscrolls_argonian" "ElderScrolls - Argonian" elderscrolls/argonian
 build "ui_elderscrolls_khajiit" "ElderScrolls - Khajiit" elderscrolls/khajiit
 build "ui_elderscrolls_orc" "ElderScrolls - Orc" elderscrolls/orc

@@ -3,13 +3,13 @@
   <NameList>
     <Id>other-media_human</Id>
     <Name>Other Media - Human</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Places>
       <Countries>
         <NameGroup>

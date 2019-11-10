@@ -3,7 +3,7 @@
   <NameList>
     <Id>ui_extra_humans_hungarian</Id>
     <Name>Human - Hungarian</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
@@ -16,7 +16,7 @@
           <string>Szekely</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Places>
       <Countries>
         <NameGroup>

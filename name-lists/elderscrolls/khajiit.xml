@@ -3,7 +3,7 @@
   <NameList>
     <Id>elderscrolls_khajiit</Id>
     <Name>ElderScrolls - Khajiit</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
@@ -19,7 +19,7 @@
           <string>Tojay</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Places>
       <Countries>
         <NameGroup>

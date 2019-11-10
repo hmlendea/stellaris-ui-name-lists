@@ -3,7 +3,7 @@
   <NameList>
     <Id>elderscrolls_orc</Id>
     <Name>ElderScrolls - Orc</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
@@ -35,7 +35,7 @@
           <string>Lhurgash</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Places>
       <Regions>
         <NameGroup>

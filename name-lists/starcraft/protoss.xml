@@ -3,7 +3,7 @@
   <NameList>
     <Id>starcraft_protoss</Id>
     <Name>StarCraft - Protoss</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
@@ -53,7 +53,7 @@
           <string>Xava'kai</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Places>
       <Countries>
         <NameGroup>
