@@ -103,8 +103,9 @@
       </Cruiser>
       <Battleship>
         <NameGroup>
-          <Name></Name>
+          <Name>Movies</Name>
           <Values>
+            <string>Disaster Artist</string>
           </Values>
         </NameGroup>
       </Battleship>

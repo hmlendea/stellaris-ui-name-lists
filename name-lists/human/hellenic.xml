@@ -26,7 +26,7 @@
         <NameGroup>
           <Name>Regions -Greece</Name>
           <Values>
-            <string>Aegean</string>
+            <string>Aegea</string>
             <string>Attica</string>
             <string>Crete</string>
             <string>Epirus</string>
@@ -75,9 +75,10 @@
       </Cities>
       <Seas>
         <NameGroup>
-          <Name>Seas - Greece</Name>
+          <Name>Words</Name>
           <Values>
-            <string>Aegean</string>
+            <string>Panthalassa</string>
+            <string>Thalassa</string>
           </Values>
         </NameGroup>
       </Seas>
@@ -104,6 +105,7 @@
           <Values>
             <string>Cataphract</string>
             <string>Hoplite</string>
+            <string>Myrmidon</string>
             <string>Phalanx</string>
             <string>Varangian</string>
           </Values>
@@ -262,9 +264,9 @@
       </Gaia>
       <Ocean>
         <NameGroup>
-          <Name>Places</Name>
+          <Name>Rivers</Name>
           <Values>
-            <string>Aegean</string>
+            <string>Istros</string>
           </Values>
         </NameGroup>
       </Ocean>

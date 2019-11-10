@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human2</Id>
+    <Name>zzz HUMAN2</Name>
+    <Ships>
+      <Corvette>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Agile</string>
+            <string>Archer</string>
+            <string>Arrow</string>
+            <string>Bruiser</string>
+            <string>Cherub</string>
+            <string>Chimera</string>
+            <string>Claymore</string>
+            <string>Broadsword</string>
+            <string>Battleaxe</string>
+            <string>Cutlass</string>
+            <string>Deterrent</string>
+            <string>Errant</string>
+            <string>Faithful</string>
+            <string>Fierce</string>
+            <string>Gladius</string>
+            <string>Grappler</string>
+            <string>Hammer</string>
+            <string>Vampire</string>
+            <string>Velox</string>
+            <string>Venator</string>
+            <string>Vendetta</string>
+            <string>Venerable</string>
+            <string>Venomous</string>
+            <string>Taciturn</string>
+            <string>Supreme</string>
+            <string>Success</string>
+            <string>Shredder</string>
+            <string>Seraph</string>
+            <string>Serpent</string>
+            <string>Spitfire</string>
+            <string>Stalker</string>
+            <string>Stratagem</string>
+            <string>Scimitar</string>
+            <string>Scorcher</string>
+            <string>Scourge</string>
+            <string>Scythe</string>
+            <string>Revenant</string>
+            <string>Redoubtable</string>
+            <string>Raptor</string>
+            <string>Reaver</string>
+            <string>Prodigal</string>
+            <string>Rapier</string>
+            <string>Prudent</string>
+            <string>Persistent</string>
+            <string>Peerless</string>
+            <string>Myrmidon</string>
+            <string>Indignant</string>
+            <string>Javelin</string>
+            <string>Knight</string>
+            <string>Starwolf</string>
+            <string>Bonaventure</string>
+            <string>Adventure</string>
+            <string>Boxer</string>
+            <string>Buccaneer</string>
+            <string>Cavalier</string>
+            <string>Celestial</string>
+            <string>Chariot</string>
+            <string>Comet</string>
+            <string>Crucible</string>
+            <string>Cyclone</string>
+            <string>Decisive</string>
+            <string>Dexterous</string>
+            <string>Diadem</string>
+            <string>Earnest</string>
+            <string>Eclipse</string>
+            <string>Forger</string>
+            <string>Fortune</string>
+            <string>Gauntlet</string>
+            <string>Griffin</string>
+            <string>Horizon</string>
+            <string>Hotspur</string>
+            <string>Hurricane</string>
+            <string>Hussar</string>
+            <string>Jubilant</string>
+            <string>Lancer</string>
+            <string>Lightning</string>
+            <string>Magic</string>
+            <string>Mediator</string>
+            <string>Mermaid</string>
+            <string>Meteor</string>
+            <string>Minstrel</string>
+            <string>Miranda</string>
+            <string>Mustang</string>
+            <string>Sharpshooter</string>
+            <string>Mystic</string>
+            <string>Naiad</string>
+            <string>Nautilus</string>
+            <string>Nebula</string>
+            <string>Nimble</string>
+            <string>North Star</string>
+            <string>Nymph</string>
+            <string>Obdurate</string>
+            <string>Ocean</string>
+            <string>Onward</string>
+            <string>Oracle</string>
+            <string>Paradox</string>
+            <string>Paragon</string>
+            <string>Pearl</string>
+            <string>Peregrine</string>
+            <string>Perseverance</string>
+            <string>Marksman</string>
+            <string>Rifleman</string>
+            <string>Sniper</string>
+            <string>Maelstrom</string>
+            <string>Lucidity</string>
+            <string>Berserker</string>
+            <string>Brigand</string>
+            <string>Celerity</string>
+            <string>Cudgel</string>
+            <string>Cuirass</string>
+            <string>Growler</string>
+            <string>Incubus</string>
+            <string>Prowler</string>
+            <string>Fury</string>
+            <string>Fireball</string>
+            <string>Dart</string>
+            <string>Falchion</string>
+            <string>Spadroon</string>
+            <string>Longsword</string>
+            <string>Bolo</string>
+            <string>Spatha</string>
+            <string>Xiphos</string>
+            <string>Mirage</string>
+            <string>Snapper</string>
+            <string>Firebrand</string>
+            <string>Ambuscade</string>
+            <string>Ad Astra</string>
+            <string>Attack</string>
+            <string>Buckler</string>
+            <string>Conquest</string>
+            <string>Domino</string>
+            <string>Gemini</string>
+            <string>Glaive</string>
+            <string>Halberd</string>
+            <string>Harpy</string>
+            <string>Kite</string>
+            <string>Petard</string>
+            <string>Regal</string>
+            <string>Reprise</string>
+            <string>Skirmisher</string>
+            <string>Sprite</string>
+            <string>Succubus</string>
+            <string>Tisiphone</string>
+            <string>Alecto</string>
+            <string>Megaera</string>
+            <string>Troubadour</string>
+            <string>Balladeer</string>
+            <string>Bard</string>
+            <string>Cannonball</string>
+            <string>Horatius</string>
+            <string>Rampart</string>
+            <string>Serenader</string>
+            <string>Dirk</string>
+            <string>Epee</string>
+            <string>Glimmer</string>
+            <string>Cockatrice</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+      <Destroyer>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Adversary</string>
+            <string>Alchemist</string>
+            <string>Archangel</string>
+            <string>Argo</string>
+            <string>Ascendant</string>
+            <string>Assassin</string>
+            <string>Audacious</string>
+            <string>Avalanche</string>
+            <string>Awesome</string>
+            <string>Boanerges</string>
+            <string>Canticle</string>
+            <string>Cantrip</string>
+            <string>Carronade</string>
+            <string>Centaur</string>
+            <string>Culverin</string>
+            <string>Cyclops</string>
+            <string>Cygnus</string>
+            <string>Dagger</string>
+            <string>Daring</string>
+            <string>Demon</string>
+            <string>Duty</string>
+            <string>Enfield</string>
+            <string>Erinyes</string>
+            <string>Garm</string>
+            <string>Goblin</string>
+            <string>Harasser</string>
+            <string>Havoc</string>
+            <string>Hero</string>
+            <string>Hippogriff</string>
+            <string>Hunter</string>
+            <string>Hydra</string>
+            <string>Impeccable</string>
+            <string>Impulse</string>
+            <string>Infernal</string>
+            <string>Inspired</string>
+            <string>Insuperable</string>
+            <string>Interceptor</string>
+            <string>Interdictor</string>
+            <string>Intolerant</string>
+            <string>Intransigent</string>
+            <string>Intruder</string>
+            <string>Ironside</string>
+            <string>Irresistible</string>
+            <string>Justice</string>
+            <string>Loyal</string>
+            <string>Magician</string>
+            <string>Magus</string>
+            <string>Malice</string>
+            <string>Mandrake</string>
+            <string>Manticore</string>
+            <string>Matchless</string>
+            <string>Mauler</string>
+            <string>Mayhem</string>
+            <string>Menace</string>
+            <string>Merciless</string>
+            <string>Minotaur</string>
+            <string>Mischief</string>
+            <string>Monarch</string>
+            <string>Outrage</string>
+            <string>Paradigm</string>
+            <string>Patriot</string>
+            <string>Petulant</string>
+            <string>Phantom</string>
+            <string>Phoenix</string>
+            <string>Pike</string>
+            <string>Powerful</string>
+            <string>Predator</string>
+            <string>Probity</string>
+            <string>Punisher</string>
+            <string>Pursuer</string>
+            <string>Raider</string>
+            <string>Rainbow</string>
+            <string>Rakshasa</string>
+            <string>Rapid</string>
+            <string>Ravager</string>
+            <string>Reaper</string>
+            <string>Redemption</string>
+            <string>Rephaim</string>
+            <string>Righteous</string>
+            <string>Rigorous</string>
+            <string>Robust</string>
+            <string>Sabre</string>
+            <string>Salvation</string>
+            <string>Sanguine</string>
+            <string>Satyr</string>
+            <string>Savage</string>
+            <string>Scarab</string>
+            <string>Scepter</string>
+            <string>Sea Witch</string>
+            <string>Sephiroth</string>
+            <string>Shaman</string>
+            <string>Siren</string>
+            <string>Sorcerer</string>
+            <string>Sorceress</string>
+            <string>Spearhead</string>
+            <string>Specter</string>
+            <string>Spirit</string>
+            <string>Spiteful</string>
+            <string>Splendid</string>
+            <string>Stallion</string>
+            <string>Stalwart</string>
+            <string>Steadfast</string>
+            <string>Strenuous</string>
+            <string>Superb</string>
+            <string>Supernova</string>
+            <string>Surprise</string>
+            <string>Swiftsure</string>
+            <string>Talent</string>
+            <string>Talisman</string>
+            <string>Talon</string>
+            <string>Taurus</string>
+            <string>Templar</string>
+            <string>Tenacious</string>
+            <string>Terminator</string>
+            <string>Terror</string>
+            <string>Thaumaturge</string>
+            <string>Thrasher</string>
+            <string>Thunder Child</string>
+            <string>Thunderous</string>
+            <string>Tireless</string>
+            <string>Trebuchet</string>
+            <string>Trenchant</string>
+            <string>Trident</string>
+            <string>Trinity</string>
+            <string>Trojan</string>
+            <string>Truculent</string>
+            <string>Trumpet</string>
+            <string>Truncheon</string>
+            <string>Turbulent</string>
+            <string>Typhoon</string>
+            <string>Unbeaten</string>
+            <string>Unconquered</string>
+            <string>Undaunted</string>
+            <string>Venture</string>
+            <string>Versatile</string>
+            <string>Vigorous</string>
+            <string>Viper</string>
+            <string>Vivacious</string>
+            <string>War Maiden</string>
+            <string>Warlock</string>
+            <string>Werewolf</string>
+            <string>Winger</string>
+            <string>Wizard</string>
+            <string>Wolfhound</string>
+            <string>Wyvern</string>
+            <string>Zealous</string>
+          </Values>
+        </NameGroup>
+      </Destroyer>
+      <Cruiser>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Abaddon</string>
+            <string>Acheron</string>
+            <string>Achilles</string>
+            <string>Adamant</string>
+            <string>Adroit</string>
+            <string>Aegis</string>
+            <string>Aeolus</string>
+            <string>Aeshma</string>
+            <string>Agamemnon</string>
+            <string>Aggressor</string>
+            <string>Agni</string>
+            <string>Alastor</string>
+            <string>Amphion</string>
+            <string>Amun</string>
+            <string>Anchor</string>
+            <string>Andromache</string>
+            <string>Anhur</string>
+            <string>Anubis</string>
+            <string>Aquilon</string>
+            <string>Ardent</string>
+            <string>Ares</string>
+            <string>Arethusa</string>
+            <string>Argonaut</string>
+            <string>Argus</string>
+            <string>Ariel</string>
+            <string>Assail</string>
+            <string>Assault</string>
+            <string>Athena</string>
+            <string>Atreus</string>
+            <string>Atropos</string>
+            <string>Atum</string>
+            <string>Aurora</string>
+            <string>Austere</string>
+            <string>Avalon</string>
+            <string>Avernus</string>
+            <string>Bacchus</string>
+            <string>Banshee</string>
+            <string>Bastet</string>
+            <string>Bellona</string>
+            <string>Boreas</string>
+            <string>Bucephalus</string>
+            <string>Calliope</string>
+            <string>Calypso</string>
+            <string>Castor</string>
+            <string>Cephalus</string>
+            <string>Charybdis</string>
+            <string>Chiron</string>
+            <string>Circe</string>
+            <string>Cleopatra</string>
+            <string>Constantine</string>
+            <string>Cordelia</string>
+            <string>Corsair</string>
+            <string>Cyrus</string>
+            <string>Daedalus</string>
+            <string>Damocles</string>
+            <string>Darius</string>
+            <string>Deimos</string>
+            <string>Diomede</string>
+            <string>Dryad</string>
+            <string>Durendal</string>
+            <string>Electra</string>
+            <string>Enchantress</string>
+            <string>Endymion</string>
+            <string>Erebus</string>
+            <string>Eris</string>
+            <string>Excellence</string>
+            <string>Fafnir</string>
+            <string>Fenris</string>
+            <string>Freya</string>
+            <string>Galahad</string>
+            <string>Ganymede</string>
+            <string>Gawain</string>
+            <string>Gilgamesh</string>
+            <string>Gorgon</string>
+            <string>Halcyon</string>
+            <string>Hecate</string>
+            <string>Hector</string>
+            <string>Hedetet</string>
+            <string>Hesperus</string>
+            <string>Horus</string>
+            <string>Idomeneus</string>
+            <string>Ishtar</string>
+            <string>Ivanhoe</string>
+            <string>Janus</string>
+            <string>Jason</string>
+            <string>Juno</string>
+            <string>Jupiter</string>
+            <string>King Arthur</string>
+            <string>Lancelot</string>
+            <string>Lazarus</string>
+            <string>Leander</string>
+            <string>Leonidas</string>
+            <string>Loki</string>
+            <string>Lysander</string>
+            <string>Maenad</string>
+            <string>Marduk</string>
+            <string>Mars</string>
+            <string>Medea</string>
+            <string>Medusa</string>
+            <string>Menelaus</string>
+            <string>Menestheus</string>
+            <string>Mercury</string>
+            <string>Merlin</string>
+            <string>Midas</string>
+            <string>Minerva</string>
+            <string>Minos</string>
+            <string>Mjolnir</string>
+            <string>Narayana</string>
+            <string>Neptune</string>
+            <string>Nessus</string>
+            <string>Nestor</string>
+            <string>Nimrod</string>
+            <string>Niobe</string>
+            <string>Oberon</string>
+            <string>Odin</string>
+            <string>Ophelia</string>
+            <string>Orestes</string>
+            <string>Orpheus</string>
+            <string>Osiris</string>
+            <string>Ozymandias</string>
+            <string>Pandora</string>
+            <string>Parnassus</string>
+            <string>Penelope</string>
+            <string>Percival</string>
+            <string>Persephone</string>
+            <string>Perseus</string>
+            <string>Pharos</string>
+            <string>Phoebe</string>
+            <string>Pluto</string>
+            <string>Poseidon</string>
+            <string>Priam</string>
+            <string>Proteus</string>
+            <string>Pylades</string>
+            <string>Raijin</string>
+            <string>Ravana</string>
+            <string>Sekhmet</string>
+            <string>Senator</string>
+            <string>Seraphim</string>
+            <string>Serapis</string>
+            <string>Shiva</string>
+            <string>Sobek</string>
+            <string>Stygian</string>
+            <string>Tantalus</string>
+            <string>Taranis</string>
+            <string>Telemachus</string>
+            <string>Thalassa</string>
+            <string>Theseus</string>
+            <string>Thetis</string>
+            <string>Thor</string>
+            <string>Tiamat</string>
+            <string>Tornado</string>
+            <string>Toutatis</string>
+            <string>Trajan</string>
+            <string>Tristan</string>
+            <string>Triton</string>
+            <string>Tyr</string>
+            <string>Unswerving</string>
+            <string>Usurper</string>
+            <string>Utmost</string>
+            <string>Uziel</string>
+            <string>Venus</string>
+            <string>Whirlwind</string>
+            <string>Xanthus</string>
+            <string>Zephyrus</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Battleship>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Allegiance</string>
+            <string>Ambush</string>
+            <string>Archon</string>
+            <string>Armageddon</string>
+            <string>Artemis</string>
+            <string>Audacity</string>
+            <string>Avatar</string>
+            <string>Avenger</string>
+            <string>Azrael</string>
+            <string>Basilisk</string>
+            <string>Bastion</string>
+            <string>Blazer</string>
+            <string>Brilliant</string>
+            <string>Centurion</string>
+            <string>Cerberus</string>
+            <string>Challenger</string>
+            <string>Champion</string>
+            <string>Citadel</string>
+            <string>Conqueror</string>
+            <string>Conquistador</string>
+            <string>Consummate</string>
+            <string>Courageous</string>
+            <string>Crius</string>
+            <string>Cronus</string>
+            <string>Crusader</string>
+            <string>Decimator</string>
+            <string>Defiance</string>
+            <string>Demolisher</string>
+            <string>Devastator</string>
+            <string>Dominance</string>
+            <string>Dragon</string>
+            <string>Dreadnought</string>
+            <string>Eminence</string>
+            <string>Epimetheus</string>
+            <string>Eviscerator</string>
+            <string>Fearless</string>
+            <string>Furious</string>
+            <string>Galatea</string>
+            <string>Gallant</string>
+            <string>Gladiator</string>
+            <string>Hades</string>
+            <string>Helios</string>
+            <string>Hyperion</string>
+            <string>Impenetrable</string>
+            <string>Impervious</string>
+            <string>Implacable</string>
+            <string>Impregnable</string>
+            <string>Incomparable</string>
+            <string>Incorruptible</string>
+            <string>Indomitable</string>
+            <string>Inexorable</string>
+            <string>Infinity</string>
+            <string>Insurmountable</string>
+            <string>Invictus</string>
+            <string>Judicator</string>
+            <string>Katana</string>
+            <string>Legion</string>
+            <string>Leviathan</string>
+            <string>Magnificent</string>
+            <string>Majestic</string>
+            <string>Meridian</string>
+            <string>Nemesis</string>
+            <string>Nike</string>
+            <string>Nova</string>
+            <string>Ogre</string>
+            <string>Onslaught</string>
+            <string>Paladin</string>
+            <string>Perfection</string>
+            <string>Pinnacle</string>
+            <string>Preponderous</string>
+            <string>Prospero</string>
+            <string>Protector</string>
+            <string>Relentless</string>
+            <string>Renown</string>
+            <string>Reprisal</string>
+            <string>Repulse</string>
+            <string>Requiem</string>
+            <string>Retribution</string>
+            <string>Revenge</string>
+            <string>Scylla</string>
+            <string>Sentinel</string>
+            <string>Shadow</string>
+            <string>Sovereign</string>
+            <string>Tempest</string>
+            <string>Thanatos</string>
+            <string>Tormentor</string>
+            <string>Triumphant</string>
+            <string>Typhon</string>
+            <string>Unbreakable</string>
+            <string>Unrivalled</string>
+            <string>Untiring</string>
+            <string>Unyielding</string>
+            <string>Valkyrie</string>
+            <string>Valorous</string>
+            <string>Vanguard</string>
+            <string>Vanquisher</string>
+            <string>Vehement</string>
+            <string>Vengeance</string>
+            <string>Victorious</string>
+            <string>Vigilance</string>
+            <string>Vindicator</string>
+            <string>Warhammer</string>
+            <string>Warlord</string>
+            <string>Warrior</string>
+            <string>Zenith</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Titan>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Executor</string>
+            <string>Glory</string>
+            <string>Goliath</string>
+            <string>Immortal</string>
+            <string>Imperator</string>
+            <string>Prometheus</string>
+          </Values>
+        </NameGroup>
+      </Titan>
+      <Colossus>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Behemoth</string>
+            <string>Eradicator</string>
+            <string>Harbinger</string>
+            <string>Juggernaut</string>
+            <string>Kraken</string>
+          </Values>
+        </NameGroup>
+      </Colossus>
+      <Constructor>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Accommodator</string>
+            <string>Anvil</string>
+            <string>Architect</string>
+            <string>Assiduity</string>
+            <string>Beast</string>
+            <string>Builder</string>
+            <string>Craftsman</string>
+            <string>Creator</string>
+            <string>Creidhne</string>
+            <string>Developer</string>
+            <string>Effort</string>
+            <string>Engineer</string>
+            <string>Factory</string>
+            <string>Forger</string>
+            <string>Foundry</string>
+            <string>Gobannus</string>
+            <string>Goibniu</string>
+            <string>Hard Hat</string>
+            <string>Ikenga</string>
+            <string>Ilmarinen</string>
+            <string>Industry</string>
+            <string>Laborer</string>
+            <string>Longshoreman</string>
+            <string>Luchtaine</string>
+            <string>Ogoun</string>
+            <string>Pillar</string>
+            <string>Progress</string>
+            <string>Promise</string>
+            <string>Ptah</string>
+            <string>Qaynan</string>
+            <string>Service</string>
+            <string>Shelter</string>
+            <string>Stevedore</string>
+            <string>Tvastar</string>
+            <string>Ucuetis</string>
+            <string>Vishvakarman</string>
+          </Values>
+        </NameGroup>
+      </Constructor>
+      <Science>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Acuity</string>
+            <string>Alacrity</string>
+            <string>Ambassador</string>
+            <string>Arbiter</string>
+            <string>Asperity</string>
+            <string>Astute</string>
+            <string>Crescent</string>
+            <string>Diligent</string>
+            <string>Emissary</string>
+            <string>Enigma</string>
+            <string>Khonsu</string>
+            <string>Nomad</string>
+            <string>Pathfinder</string>
+            <string>Pilgrim</string>
+            <string>Remembrance</string>
+            <string>Sagacious</string>
+            <string>Torch</string>
+            <string>Trailblazer</string>
+            <string>Traveler</string>
+            <string>Vagabond</string>
+            <string>Wanderer</string>
+            <string>Wayfarer</string>
+            <string>Zephyr</string>
+          </Values>
+        </NameGroup>
+      </Science>
+      <Coloniser>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Acquirer</string>
+            <string>Brotherhood</string>
+            <string>Ceres</string>
+            <string>Community</string>
+            <string>Cultivator</string>
+            <string>Dawn of Civilization</string>
+            <string>Demeter</string>
+            <string>Exodus</string>
+            <string>Expansion</string>
+            <string>Foundation</string>
+            <string>Godspeed</string>
+            <string>Harvest</string>
+            <string>Heket</string>
+            <string>Isis</string>
+            <string>Manifest Destiny</string>
+            <string>Obligation</string>
+            <string>Pioneer Spirit</string>
+            <string>Potential</string>
+            <string>Progeny</string>
+            <string>Prophecy</string>
+            <string>Prosperity</string>
+            <string>Provider</string>
+            <string>Purity</string>
+            <string>Purpose</string>
+            <string>Scion</string>
+            <string>Seeder</string>
+            <string>Shining City</string>
+            <string>Summit</string>
+            <string>Virtue</string>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+      <Transport>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Cinquedea</string>
+            <string>Estoc</string>
+            <string>Falx</string>
+            <string>Flamberge</string>
+            <string>Foil</string>
+            <string>Katzbalger</string>
+            <string>Poignard</string>
+            <string>Sword</string>
+          </Values>
+        </NameGroup>
+      </Transport>
+      <IonCannon>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Arbalest</string>
+            <string>Crossbow</string>
+            <string>Gargoyle</string>
+            <string>Hellfire</string>
+            <string>Longbow</string>
+          </Values>
+        </NameGroup>
+      </IonCannon>
+    </Ships>
+    <Stations>
+      <MilitaryStations>
+        <Generic>
+          <NameGroup>
+            <Name>zzz HUMAN2</Name>
+            <Values>
+              <string>Constancy</string>
+              <string>Dignity</string>
+              <string>Diligence</string>
+              <string>Discipline</string>
+              <string>Distinction</string>
+              <string>Exemplary</string>
+              <string>Integrity</string>
+              <string>Paramount</string>
+              <string>Pertinacity</string>
+              <string>Prudence</string>
+              <string>Recompense</string>
+              <string>Rectitude</string>
+              <string>Sedulity</string>
+              <string>Tenacity</string>
+            </Values>
+          </NameGroup>
+        </Generic>
+      </MilitaryStations>
+    </Stations>
+    <Armies>
+      <FleetSequentialNames>%0% Strike Force</FleetSequentialNames>
+      <Fleet>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Strike Force Basilisk</string>
+            <string>Strike Force Behemoth</string>
+            <string>Strike Force Centaur</string>
+            <string>Strike Force Cerberus</string>
+            <string>Strike Force Charybdis</string>
+            <string>Strike Force Chimera</string>
+            <string>Strike Force Cyclops</string>
+            <string>Strike Force Dragon</string>
+            <string>Strike Force Enfield</string>
+            <string>Strike Force Garuda</string>
+            <string>Strike Force Gorgon</string>
+            <string>Strike Force Griffin</string>
+            <string>Strike Force Hippogriff</string>
+            <string>Strike Force Hydra</string>
+            <string>Strike Force Kraken</string>
+            <string>Strike Force Manticore</string>
+            <string>Strike Force Medusa</string>
+            <string>Strike Force Minotaur</string>
+            <string>Strike Force Pegasus</string>
+            <string>Strike Force Phoenix</string>
+            <string>Strike Force Scylla</string>
+            <string>Strike Force Sphinx</string>
+            <string>Strike Force Titan</string>
+            <string>Strike Force Werewolf</string>
+            <string>Strike Force Wyvern</string>
+          </Values>
+        </NameGroup>
+      </Fleet>
+      <DefenceArmySequentialName>%O% Colonial Gendarmerie</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Assault Legion</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Occupation Legion</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Janissary Corps</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Vatgrown Soldiery</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Unmanned Gendarmerie</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Unmanned Battlegroup</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Unmanned Garrison</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Gendarmerie</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Battlegroup</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Psy Warriors</PsionicArmySequentialName>
+      <PsionicArmy>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Banshee Legion</string>
+            <string>Ghost Legion</string>
+            <string>Phantom Legion</string>
+            <string>Reaper Legion</string>
+            <string>Shadow Legion</string>
+            <string>Skull Legion</string>
+            <string>Specter Legion</string>
+            <string>Warlock Legion</string>
+            <string>Widowmaker Legion</string>
+            <string>Wraith Legion</string>
+          </Values>
+        </NameGroup>
+      </PsionicArmy>
+      <XenomorphArmySequentialName>%O% Morphling Marauders</XenomorphArmySequentialName>
+      <XenomorphArmy>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Experimental Unit 'Amaru'</string>
+            <string>Experimental Unit 'Bakunawa'</string>
+            <string>Experimental Unit 'Fafnir'</string>
+            <string>Experimental Unit 'Illuyanka'</string>
+            <string>Experimental Unit 'Jaculus'</string>
+            <string>Experimental Unit 'Orochi'</string>
+            <string>Experimental Unit 'Rahab'</string>
+            <string>Experimental Unit 'Tarasque'</string>
+            <string>Experimental Unit 'Tiamat'</string>
+            <string>Experimental Unit 'Typhon'</string>
+          </Values>
+        </NameGroup>
+      </XenomorphArmy>
+      <SuperSoldierArmySequentialName>%O% Eugenic Vanguard</SuperSoldierArmySequentialName>
+      <PrimitiveArmySequentialName>%O% Primitive Battlegroup</PrimitiveArmySequentialName>
+      <IndustrialArmySequentialName>%O% Industrial Battlegroup</IndustrialArmySequentialName>
+      <PostAtomicArmySequentialName>%O% Post-Atomic Battlegroup</PostAtomicArmySequentialName>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Acrisia</string>
+            <string>Agartha</string>
+            <string>Athura</string>
+            <string>Aurora</string>
+            <string>Capella</string>
+            <string>Corregan</string>
+            <string>Destinikon</string>
+            <string>Doron</string>
+            <string>Durkheim</string>
+            <string>Euterpe</string>
+            <string>Faunus</string>
+            <string>Fincastle</string>
+            <string>Fitzroy's World</string>
+            <string>Flaxington</string>
+            <string>Girdwood</string>
+            <string>Grinstead</string>
+            <string>Hesperides</string>
+            <string>Hesperos</string>
+            <string>Hinckley's Hope</string>
+            <string>Hoxworth</string>
+            <string>Keresia</string>
+            <string>Knutton</string>
+            <string>Leffingwell</string>
+            <string>Lockney</string>
+            <string>Melpomenia</string>
+            <string>Mullineux</string>
+            <string>Nexon</string>
+            <string>Noricum</string>
+            <string>Nova Constantinople</string>
+            <string>Osiris</string>
+            <string>Pallas</string>
+            <string>Pallena</string>
+            <string>Proclas</string>
+            <string>Rattenbury</string>
+            <string>Rhea</string>
+            <string>Saon</string>
+            <string>Schimmel's World</string>
+            <string>Smitheus</string>
+            <string>Solaria</string>
+            <string>St. Caspar</string>
+            <string>St. Hossack</string>
+            <string>St. Knatchbull</string>
+            <string>Tartessos</string>
+            <string>Tethys</string>
+            <string>Theia</string>
+            <string>Treadway</string>
+            <string>Tronchet</string>
+            <string>Truett</string>
+            <string>Tyndis</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Desert>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Frampton Sands</string>
+            <string>Inferno</string>
+            <string>Nova Alexandria</string>
+            <string>Sunrise</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Tropical>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Broadleaf</string>
+            <string>Jangala</string>
+            <string>Khersonia</string>
+            <string>Shrub</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Arid>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>High Ground</string>
+            <string>Nova Antioch</string>
+            <string>Tartarus</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Continental>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Abbassus</string>
+            <string>Acropolis</string>
+            <string>Arcadia</string>
+            <string>Ashur</string>
+            <string>Bastion</string>
+            <string>Camelot</string>
+            <string>Citadel</string>
+            <string>Dawnlight</string>
+            <string>Delphi</string>
+            <string>Destiny</string>
+            <string>Harmony</string>
+            <string>Myndos</string>
+            <string>Thebes</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Apollonia</string>
+            <string>Deliverance</string>
+            <string>Garden</string>
+            <string>Nova Babylon</string>
+            <string>Sanctuary</string>
+            <string>Serendipity</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Ocean>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Hyderia</string>
+            <string>Meredith Bay</string>
+            <string>Neritum</string>
+            <string>Port Bixby</string>
+            <string>Port Snedden</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Tundra>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Evonium</string>
+            <string>Nova Samarkand</string>
+            <string>Stonehead</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+      <Arctic>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Jotunheim</string>
+            <string>Winter</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

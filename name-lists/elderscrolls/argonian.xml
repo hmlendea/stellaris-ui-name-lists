@@ -115,6 +115,9 @@
       <PsionicArmySequentialName>%O% Shadowscales</PsionicArmySequentialName>
       <XenomorphArmySequentialName>%O% Mutant Scalemorphs</XenomorphArmySequentialName>
       <SuperSoldierArmySequentialName>%O% Augmented Scales</SuperSoldierArmySequentialName>
+      <PrimitiveArmySequentialName>%O% Primitive Horde</PrimitiveArmySequentialName>
+      <IndustrialArmySequentialName>%O% Industrial Army</IndustrialArmySequentialName>
+      <PostAtomicArmySequentialName>%O% Post-Atomic Force</PostAtomicArmySequentialName>
     </Armies>
     <Planets>
       <Generic>

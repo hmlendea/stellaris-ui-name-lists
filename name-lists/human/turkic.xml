@@ -33,6 +33,14 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Seas>
+        <NameGroup>
+          <Name>Seas</Name>
+          <Values>
+            <string>Marmara</string>
+          </Values>
+        </NameGroup>
+      </Seas>
     </Places>
     <Warfare>
       <Weapons>

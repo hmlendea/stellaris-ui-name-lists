@@ -67,6 +67,7 @@
             <string>Illyricum</string>
             <string>Italia</string>
             <string>Judaea</string>
+            <string>Libya</string>
             <string>Lusitania</string>
             <string>Lycia</string>
             <string>Macedonia</string>
@@ -212,7 +213,7 @@
             <string>Legionaire</string>
             <string>Legionarius</string>
             <string>Praetorian</string>
-            <string>Signifier</string>
+            <string>Signifer</string>
             <string>Tablifer</string>
             <string>Tubicen</string>
             <string>Vexillarius</string>
@@ -371,13 +372,8 @@
         </MilitaryStations>
     </Stations>
     <Armies>
-      <Fleet>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Fleet>
+      <FleetSequentialNames>Classis %R%</FleetSequentialNames>
+      <DefenceArmySequentialName>Limitanei %R%</DefenceArmySequentialName>
       <DefenceArmy>
         <NameGroup>
           <Name>Defence armies</Name>
@@ -386,6 +382,21 @@
           </Values>
         </NameGroup>
       </DefenceArmy>
+      <AssaultArmySequentialName>Legio %R%</AssaultArmySequentialName>
+      <OccupationArmySequentialName>Cohort Vigilum %R%</OccupationArmySequentialName>
+      <SlaveArmySequentialName>Auxilia %R%</SlaveArmySequentialName>
+      <CloneArmySequentialName>Clonandi %R%</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>Limitanei Robotum %R%</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>Robotum %R%</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>Robotum Vigilum %R%</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>Limitanei Sinteticum %R%</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>Legio Sinteticum %R%</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>Legio Psychica %R%</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>Bestia Auxilia %R%</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>Legio Praetoriae %R%</SuperSoldierArmySequentialName>
+      <PrimitiveArmySequentialName>Legio Barbarum %R%</PrimitiveArmySequentialName>
+      <IndustrialArmySequentialName>Legio Industrialis %R%</IndustrialArmySequentialName>
+      <PostAtomicArmySequentialName>Legio Post-Nuclearum %R%</PostAtomicArmySequentialName>
     </Armies>
     <Planets>
       <Generic>
@@ -413,8 +424,11 @@
       </Continental>
       <Ocean>
         <NameGroup>
-          <Name></Name>
+          <Name>Words</Name>
           <Values>
+            <string>Aquarius</string>
+            <string>Diluvia</string>
+            <string>Oceanus</string>
           </Values>
         </NameGroup>
       </Ocean>
