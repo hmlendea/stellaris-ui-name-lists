@@ -2,10 +2,17 @@
 
 BUILD_DIRECTORY_PATH="./build"
 OUTPUT_DIRECTORY_PATH="./out"
+OUTPUT_NAMELISTS_DIRECTORY_PATH="${OUTPUT_DIRECTORY_PATH}/common/name_lists"
+OUTPUT_LOCALISATION_DIRECTORY_PATH="${OUTPUT_DIRECTORY_PATH}/localisation"
+OUTPUT_LOCALISATION_FILE_PATH="${OUTPUT_LOCALISATION_DIRECTORY_PATH}/ui_names_l_english.yml"
 GENERATOR_EXECUTABLE="dotnet /home/horatiu/Downloads/stellaris-name-list-generator/bin/Debug/netcoreapp2.2/StellarisNameListGenerator.dll"
 
-[ ! -d "${BUILD_DIRECTORY_PATH}" ] && mkdir "${BUILD_DIRECTORY_PATH}"
-[ ! -d "${OUTPUT_DIRECTORY_PATH}" ] && mkdir "${OUTPUT_DIRECTORY_PATH}"
+[ ! -d "${BUILD_DIRECTORY_PATH}" ] && mkdir -p "${BUILD_DIRECTORY_PATH}"
+[ ! -d "${OUTPUT_DIRECTORY_PATH}" ] && mkdir -p "${OUTPUT_DIRECTORY_PATH}"
+[ ! -d "${OUTPUT_NAMELISTS_DIRECTORY_PATH}" ] && mkdir -p "${OUTPUT_NAMELISTS_DIRECTORY_PATH}"
+[ ! -d "${OUTPUT_LOCALISATION_DIRECTORY_PATH}" ] && mkdir -p "${OUTPUT_LOCALISATION_DIRECTORY_PATH}"
+
+echo "l_english:" > ${OUTPUT_LOCALISATION_FILE_PATH}
 
 function merge {
     OUTPUT_FILE_NAME=$1
@@ -21,17 +28,32 @@ function merge {
     tail -1 "./name-lists/$1.xml" >> "${OUTPUT_FILE_NAME}"
 }
 
+function add-localisation {
+    NAMELIST_ID=$1
+    NAMELIST_FILE_PATH="${OUTPUT_NAMELISTS_DIRECTORY_PATH}/${NAMELIST_ID}.txt"
+
+    NAMELIST_NAME=$(sed -n '2{p;q}' ${OUTPUT_NAMELIST_FILE_PATH} | tail -c +5)
+    NAMELIST_LEADERS=$(sed -n '3{p;q}' ${OUTPUT_NAMELIST_FILE_PATH} | tail -c +14)
+    NAMELIST_SHIPS=$(sed -n '4{p;q}' ${OUTPUT_NAMELIST_FILE_PATH} | tail -c +12)
+    NAMELIST_FLEETS=$(sed -n '5{p;q}' ${OUTPUT_NAMELIST_FILE_PATH} | tail -c +13)
+    NAMELIST_COLONIES=$(sed -n '6{p;q}' ${OUTPUT_NAMELIST_FILE_PATH} | tail -c +15)
+
+    echo " name_list_${NAMELIST_ID}:0 \"${NAMELIST_NAME}\"" >> ${OUTPUT_LOCALISATION_FILE_PATH}
+    echo " name_list_${NAMELIST_ID}_desc:0 \"§YLeaders:§! ${NAMELIST_LEADERS}\n§YShips:§! ${NAMELIST_SHIPS}\n§YFleets:§! ${NAMELIST_FLEETS}\n§YColonies:§! ${NAMELIST_COLONIES}\"" >> ${OUTPUT_LOCALISATION_FILE_PATH}
+}
+
 function build {
     NAMELIST_ID=$1
     NAMELIST_FILE_PATH="${BUILD_DIRECTORY_PATH}/${NAMELIST_ID}.xml"
-    OUTPUT_FILE_PATH="${OUTPUT_DIRECTORY_PATH}/${NAMELIST_ID}.txt"
+    OUTPUT_NAMELIST_FILE_PATH="${OUTPUT_NAMELISTS_DIRECTORY_PATH}/${NAMELIST_ID}.txt"
 
     shift
 
     echo "Building ${NAMELIST_ID}..."
 
     merge ${NAMELIST_FILE_PATH} $@
-    ${GENERATOR_EXECUTABLE} -i ${NAMELIST_FILE_PATH} -o ${OUTPUT_FILE_PATH}
+    ${GENERATOR_EXECUTABLE} -i ${NAMELIST_FILE_PATH} -o ${OUTPUT_NAMELIST_FILE_PATH}
+    add-localisation ${NAMELIST_ID}
 }
 
 build ui_extra_humans_asian human/asian

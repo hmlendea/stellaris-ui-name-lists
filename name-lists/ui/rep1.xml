@@ -155,7 +155,7 @@
       <CharacterNames>
         <Id>default</Id>
         <Weight>100</Weight>
-        <FirstNames>
+        <FullNames>
           <NameGroup>
             <Values>
               <string>Armatek</string>
@@ -184,7 +184,7 @@
               <string>Zartek</string>
             </Values>
           </NameGroup>
-        </FirstNames>
+        </FullNames>
         <RoyalFirstNames>
           <NameGroup>
             <Values>
