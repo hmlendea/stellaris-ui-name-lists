@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_spanish</Id>
+    <Name>Human - Spanish</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Argentinian</string>
+          <string>Colombian</string>
+          <string>Cuban</string>
+          <string>Mexican</string>
+          <string>Peruvian</string>
+          <string>Spanish</string>
+          <string>Venezuelan</string>
+          <string>Visigothic</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Argentina</string>
+            <string>Catalonia</string>
+            <string>Colombia</string>
+            <string>Cuba</string>
+            <string>Ecuador</string>
+            <string>El Salvador</string>
+            <string>Mexico</string>
+            <string>Panama</string>
+            <string>Peru</string>
+            <string>Spain</string>
+            <string>Uruguay</string>
+            <string>Venezuela</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions - Mexico</Name>
+          <Values>
+            <string>Aguascalientes</string>
+            <string>Baja</string>
+            <string>Campeche</string>
+            <string>Chiapas</string>
+            <string>Chihuahua</string>
+            <string>Coahuila</string>
+            <string>Colima</string>
+            <string>Durango</string>
+            <string>Guanajuato</string>
+            <string>Guerrero</string>
+            <string>Hidalgo</string>
+            <string>Jalisco</string>
+            <string>Michoacán</string>
+            <string>Morelos</string>
+            <string>Nayarit</string>
+            <string>Nuevo León</string>
+            <string>Oaxaca</string>
+            <string>Puebla</string>
+            <string>Querétaro</string>
+            <string>Quintana Roo</string>
+            <string>San Luis Potosí</string>
+            <string>Sinaloa</string>
+            <string>Sonora</string>
+            <string>Tabasco</string>
+            <string>Tamaulipas</string>
+            <string>Tlaxcala</string>
+            <string>Veracruz</string>
+            <string>Yucatán</string>
+            <string>Zacatecas</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Spain</Name>
+          <Values>
+            <string>Andalusia</string>
+            <string>Aragon</string>
+            <string>Asturias</string>
+            <string>Basque</string>
+            <string>Cantabria</string>
+            <string>Castila</string>
+            <string>Catalonia</string>
+            <string>Extremadura</string>
+            <string>Galicia</string>
+            <string>Leon</string>
+            <string>Murcia</string>
+            <string>Navarre</string>
+            <string>Valencia</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Argentina</Name>
+          <Values>
+            <string>Buenos Aires</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Catalonia</Name>
+          <Values>
+            <string>Barcelona</string>
+            <string>Valencia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Colombia</Name>
+          <Values>
+            <string>Bogota</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Cuba</Name>
+          <Values>
+            <string>Havana</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Ecuador</Name>
+          <Values>
+            <string>Guayaquil</string>
+            <string>Quito</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - El Salvador</Name>
+          <Values>
+            <string>San Salvador</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Mexico</Name>
+          <Values>
+            <string>Acapulco</string>
+            <string>Aguascalientes</string>
+            <string>Cancún</string>
+            <string>Chetumal</string>
+            <string>Chihuahua</string>
+            <string>Chilpancingo</string>
+            <string>Ciudad Juárez</string>
+            <string>Ciudad Victoria</string>
+            <string>Colima</string>
+            <string>Cuernavaca</string>
+            <string>Culiacán</string>
+            <string>Ecatepec</string>
+            <string>Guadalajara</string>
+            <string>Guanajuato</string>
+            <string>Hermosillo</string>
+            <string>La Paz</string>
+            <string>León</string>
+            <string>Los Mochis</string>
+            <string>Manzanillo</string>
+            <string>Mérida</string>
+            <string>Mexicali</string>
+            <string>Mexico City</string>
+            <string>Monterrey</string>
+            <string>Morelia</string>
+            <string>Nuevo Laredo</string>
+            <string>Oaxaca</string>
+            <string>Pachuca</string>
+            <string>Puebla</string>
+            <string>Reynosa</string>
+            <string>Saltillo</string>
+            <string>Santiago</string>
+            <string>Tepic</string>
+            <string>Tijuana</string>
+            <string>Tlaxcala</string>
+            <string>Toluca</string>
+            <string>Tuxtla</string>
+            <string>Veracruz</string>
+            <string>Guerrero</string>
+            <string>Victoria</string>
+            <string>Villahermosa</string>
+            <string>Xalapa</string>
+            <string>Zacatecas</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Panama</Name>
+          <Values>
+            <string>Panama City</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Peru</Name>
+          <Values>
+            <string>Lima</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Spain</Name>
+          <Values>
+            <string>Alicante</string>
+            <string>Bilbao</string>
+            <string>Córdoba</string>
+            <string>Gibraltar</string>
+            <string>Madrid</string>
+            <string>Málaga</string>
+            <string>Murcia</string>
+            <string>Palma</string>
+            <string>Seville</string>
+            <string>Valladolid</string>
+            <string>Zaragoza</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Uruguay</Name>
+          <Values>
+            <string>Montevideo</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Amazon</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rivers - Mexico</Name>
+          <Values>
+            <string>Rio Grande</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rivers - Paraguay</Name>
+          <Values>
+            <string>Rio Paraguay</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rivers - Venezuela</Name>
+          <Values>
+            <string>Orinoco</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Andes</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts</Name>
+          <Values>
+            <string>Patagonia</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts - Chile</Name>
+          <Values>
+            <string>Atacama</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Deserts - Peru</Name>
+          <Values>
+            <string>Nazca</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
+    </Places>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Swords - Iberia</Name>
+          <Values>
+              <string>Falcata</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types - Mexican</Name>
+          <Values>
+            <string>Luchador</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Spanish</Name>
+          <Values>
+            <string>Conquistador</string>
+            <string>Tercio</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations - Argentina</Name>
+          <Values>
+            <string>Goose Green</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+      <MilitaryPeopleTier1>
+        <NameGroup>
+          <Name>Persons - Military - Mexican</Name>
+          <Values>
+            <string>Juan Valdivia</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier1>
+      <MilitaryPeopleTier2>
+        <NameGroup>
+          <Name>Persons - Military - Spanish</Name>
+          <Values>
+            <string>Pelayo</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier2>
+      <MilitaryPeopleTier3>
+        <NameGroup>
+          <Name>Persons - Military - Spanish</Name>
+          <Values>
+            <string>Blas de Lezo</string>
+            <string>Lezo</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier3>
+    </Warfare>
+    <Ships>
+      <Destroyer>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Destroyer>
+      <Cruiser>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Battleship>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Science>
+        <NameGroup>
+          <Name>Persons - Explorers - Spanish</Name>
+          <Values>
+            <string>Cortés</string>
+            <string>Cortez</string>
+            <string>Hernan Cortez</string>
+            <string>Hernándo Cortés</string>
+          </Values>
+        </NameGroup>
+      </Science>
+      <Coloniser>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+    </Ships>
+    <ShipClasses>
+      <Generic>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Argentinian</Name>
+          <Values>
+            <string>INVAP</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </ShipClasses>
+    <Stations>
+      <MilitaryStations>
+        <Generic>
+          <NameGroup>
+            <Name></Name>
+            <Values>
+            </Values>
+          </NameGroup>
+        </Generic>
+      </MilitaryStations>
+    </Stations>
+    <Armies>
+      <Fleet>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Fleet>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>La Isabela</string>
+            <string>Las Veredas</string>
+            <string>Nueva Cádiz</string>
+            <string>Nueva Sonora</string>
+            <string>Puerto González</string>
+            <string>San Cristóbal</string>
+            <string>San Fernando</string>
+            <string>San Lucas</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Franco-Iberia - Basque</Name>
+          <Values>
+            <string>Aintza</string>
+            <string>Igoa</string>
+            <string>Izar</string>
+            <string>Kemena</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Franco-Iberia - Catalan</Name>
+          <Values>
+            <string>Filoteu</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Franco-Iberia - Spanish</Name>
+          <Values>
+            <string>Gran Éxito</string>
+            <string>Fidèle</string>
+            <string>Amparo</string>
+            <string>Valienta</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Arid>
+        <NameGroup>
+          <Name>Places - Grand Theft Auto</Name>
+          <Values>
+            <string>Las Venturas</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Continental>
+        <NameGroup>
+          <Name>Places - Grand Theft Auto</Name>
+          <Values>
+            <string>San Fierro</string>
+            <string>Los Santos</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>Mythology - Places - Hispanic</Name>
+          <Values>
+            <string>El Dorado</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Ocean>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Tundra>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Tundra>
+      <Arctic>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Arctic>
+      <Tomb>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Tomb>
+      <Alpine>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Alpine>
+      <Molten>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Molten>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>spanish</Id>
+        <Weight>15</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Alejandro</string>
+              <string>Alfonso</string>
+              <string>Carlos</string>
+              <string>Diego</string>
+              <string>Eduardo</string>
+              <string>Emilio</string>
+              <string>Enrique</string>
+              <string>Ernesto</string>
+              <string>Esteban</string>
+              <string>Fernando</string>
+              <string>Francisco</string>
+              <string>Gaspar</string>
+              <string>Gerardo</string>
+              <string>Guillermo</string>
+              <string>Hernándo</string>
+              <string>Ignacio</string>
+              <string>Javier</string>
+              <string>Jesús</string>
+              <string>Joaquin</string>
+              <string>José</string>
+              <string>José Antonio</string>
+              <string>José Manuel</string>
+              <string>José María</string>
+              <string>Juan</string>
+              <string>Julio</string>
+              <string>Lorenzo</string>
+              <string>Luis</string>
+              <string>Manuel</string>
+              <string>Marcelo</string>
+              <string>Miguel</string>
+              <string>Pablo</string>
+              <string>Pedro</string>
+              <string>Raimundo</string>
+              <string>Ramón</string>
+              <string>Ricardo</string>
+              <string>Roberto</string>
+              <string>Salvadore</string>
+              <string>Santiago</string>
+              <string>Sergio</string>
+            </Values>
+          </NameGroup>
+        </MaleFirstNames>
+        <MaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Ernesto</string>
+              <string>Gerardo</string>
+              <string>Guillermo</string>
+              <string>Javier</string>
+              <string>Marcelo</string>
+              <string>Ricardo</string>
+              <string>Santiago</string>
+            </Values>
+          </NameGroup>
+        </MaleRoyalFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Agustina</string>
+              <string>Alejandra</string>
+              <string>Alicia</string>
+              <string>Antonella</string>
+              <string>Antonia</string>
+              <string>Camila</string>
+              <string>Carla</string>
+              <string>Carmen</string>
+              <string>Catalina</string>
+              <string>Constanza</string>
+              <string>Daniela</string>
+              <string>Dolores</string>
+              <string>Estefania</string>
+              <string>Eva</string>
+              <string>Fabiana</string>
+              <string>Fernanda</string>
+              <string>Florencia</string>
+              <string>Gabriela</string>
+              <string>Gloria</string>
+              <string>Graciela</string>
+              <string>Grizelda</string>
+              <string>Hortensia</string>
+              <string>Isabel</string>
+              <string>Julieta</string>
+              <string>Lorena</string>
+              <string>Luciana</string>
+              <string>Magdalena</string>
+              <string>Maria</string>
+              <string>Mariana</string>
+              <string>Marisa</string>
+              <string>Martina</string>
+              <string>Mercedes</string>
+              <string>Miriam</string>
+              <string>Paulina</string>
+              <string>Rebecca</string>
+              <string>Renata</string>
+              <string>Sofia</string>
+              <string>Valentina</string>
+              <string>Valeria</string>
+              <string>Yolanda</string>
+            </Values>
+          </NameGroup>
+        </FemaleFirstNames>
+        <FemaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Alicia</string>
+              <string>Antonella</string>
+              <string>Antonia</string>
+              <string>Carla</string>
+              <string>Carmen</string>
+              <string>Catalina</string>
+              <string>Dolores</string>
+              <string>Julieta</string>
+              <string>Martina</string>
+              <string>Renata</string>
+            </Values>
+          </NameGroup>
+        </FemaleRoyalFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Values>
+              <string>Aguera</string>
+              <string>Alazraqui</string>
+              <string>Alonso</string>
+              <string>Alvarez</string>
+              <string>Batista</string>
+              <string>Carmona</string>
+              <string>de la Cruz</string>
+              <string>de la Guardia</string>
+              <string>de la Vega</string>
+              <string>de Vargas</string>
+              <string>Diaz</string>
+              <string>Dominguez</string>
+              <string>Esguerra</string>
+              <string>Fernandez</string>
+              <string>Flores</string>
+              <string>Garcia</string>
+              <string>Gomez</string>
+              <string>Gonzalez</string>
+              <string>Hernandez</string>
+              <string>Ibanez</string>
+              <string>Linares</string>
+              <string>Lopez</string>
+              <string>Magellan</string>
+              <string>Martin</string>
+              <string>Martinez</string>
+              <string>Mendez</string>
+              <string>Mendoza</string>
+              <string>Moralez</string>
+              <string>Nombela</string>
+              <string>Ortega</string>
+              <string>Ortiz</string>
+              <string>Perez</string>
+              <string>Quesada</string>
+              <string>Ramirez</string>
+              <string>Riveros</string>
+              <string>Rodriguez</string>
+              <string>Romero</string>
+              <string>Rosario</string>
+              <string>Ruiz</string>
+              <string>Salamanca</string>
+              <string>Salazar</string>
+              <string>Saldana</string>
+              <string>Sanchez</string>
+              <string>Solano</string>
+              <string>Torres</string>
+              <string>Valdivia</string>
+              <string>Vasquez</string>
+              <string>Velazco</string>
+            </Values>
+          </NameGroup>
+        </SecondNames>
+        <RoyalSecondNames>
+          <NameGroup>
+            <Values>
+              <string>Alvarez</string>
+              <string>Diaz</string>
+              <string>Fernandez</string>
+              <string>Gomez</string>
+              <string>Gonzalez</string>
+              <string>Lopez</string>
+              <string>Martin</string>
+              <string>Perez</string>
+              <string>Sanchez</string>
+            </Values>
+          </NameGroup>
+        </RoyalSecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

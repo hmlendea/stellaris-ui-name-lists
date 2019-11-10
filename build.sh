@@ -78,13 +78,14 @@ function generate-mod-descriptor {
 
 build "ui_extra_humans_asian" "Human - Asian" human/asian
 build "ui_extra_humans_germanic" "Human - Germanic" human/germanic
-build "ui_extra_humans_latino" "Human - Latino" human/latino
+build "ui_extra_humans_latino" "Human - Latino" human/portuguese human/spanish
+build "ui_extra_humans_romance" "Human - Romance" human/french human/italian human/portuguese human/roman human/romanian human/spanish
 build "ui_extra_humans_slavic" "Human - Slavic" human/slavic
 build "ui_extra_humans_spqr_extended" "Human - Roman" human/roman human/human3
 build "ui_extra_humans_extended" "Human - Extended" \
       human/african human/arabic human/asian human/baltic human/celtic human/english \
-      human/french human/germanic human/hellenic human/hindi human/hungarian human/italian human/latino \
-      human/persian human/roman human/romanian human/slavic human/turkic human/common \
+      human/french human/germanic human/hellenic human/hindi human/hungarian human/italian human/persian \
+      human/portuguese human/roman human/romanian human/slavic human/spanish human/turkic human/common \
       starcraft/human starwars/human runescape/human other-media/human human/human1 human/human2 human/human3 human/zextended
 
 build "ui_dnd_kobold" "D&D - Kobold" dnd/kobold
