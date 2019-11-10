@@ -46,6 +46,12 @@
           <Values>
             <string>Budapest</string>
             <string>Debrecen</string>
+            <string>Győr</string>
+            <string>Kecskemét</string>
+            <string>Miskolc</string>
+            <string>Nyíregyháza</string>
+            <string>Pécs</string>
+            <string>Szeged</string>
           </Values>
         </NameGroup>
       </Cities>

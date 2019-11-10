@@ -48,6 +48,7 @@
             <string>Namibia</string>
             <string>Nigeria</string>
             <string>Senegal</string>
+            <string>Sierra Leone</string>
             <string>Somalia</string>
             <string>South Africa</string>
             <string>Sudan</string>
@@ -257,6 +258,12 @@
           <Name>Cities - Senegal</Name>
           <Values>
             <string>Dakar</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Sierra Leone</Name>
+          <Values>
+            <string>Freetown</string>
           </Values>
         </NameGroup>
         <NameGroup>

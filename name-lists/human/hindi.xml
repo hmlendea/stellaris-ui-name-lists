@@ -75,14 +75,40 @@
         <NameGroup>
           <Name>Cities - India</Name>
           <Values>
+            <string>Agra</string>
+            <string>Ahmedabad</string>
             <string>Bangalore</string>
+            <string>Bhopal</string>
             <string>Bombay</string>
             <string>Calcutta</string>
+            <string>Chennai</string>
             <string>Delhi</string>
+            <string>Faridabad</string>
+            <string>Ghaziabad</string>
             <string>Hyderabad</string>
+            <string>Hyderabad</string>
+            <string>Indore</string>
+            <string>Jaipur</string>
+            <string>Kanpur</string>
             <string>Kochi</string>
             <string>Lucknow</string>
+            <string>Ludhiana</string>
             <string>Mumbai</string>
+            <string>Nagpur</string>
+            <string>Nashik</string>
+            <string>Patna</string>
+            <string>Pimpri-Chinchwad</string>
+            <string>Pune</string>
+            <string>Surat</string>
+            <string>Thane</string>
+            <string>Vadodara</string>
+            <string>Visakhapatnam</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - India - Endonyms</Name>
+          <Values>
+            <string>Kolkata</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -447,7 +473,7 @@
     <Characters>
       <CharacterNames>
         <Id>hindi</Id>
-        <Weight>10</Weight>
+        <Weight>11</Weight>
         <MaleFirstNames>
           <NameGroup>
             <Values>
