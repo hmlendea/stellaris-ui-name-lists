@@ -144,14 +144,60 @@
           </Values>
         </NameGroup>
       </Explorers>
+      <Pioneers>
+        <NameGroup>
+          <Name>Pioneers</Name>
+          <Values>
+            <string>Vlaicu</string>
+            <string>Vuia</string>
+          </Values>
+        </NameGroup>
+      </Pioneers>
       <Scientists>
         <NameGroup>
           <Name>Scientists</Name>
           <Values>
+            <string>Palade</string>
             <string>Racoviță</string>
           </Values>
         </NameGroup>
       </Scientists>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Menumorut</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Regele Ferdinand</string>
+            <string>Regele Mihai</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Vlad the Impaler</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
+      <FlyingAces>
+        <NameGroup>
+          <Name>Flying Aces</Name>
+          <Values>
+            <string>Agarici</string>
+            <string>Cantacuzino</string>
+            <string>Dicezare</string>
+            <string>Șerbănescu</string>
+          </Values>
+        </NameGroup>
+      </FlyingAces>
     </GreatPeople>
     <Warfare>
       <Weapons>
@@ -194,53 +240,7 @@
         </Values>
       </NameGroup>
     </MythologicalCreatures>
-    <Ships>
-      <Corvette>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Corvette>
-      <Destroyer>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Destroyer>
-      <Cruiser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Cruiser>
-      <Battleship>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Battleship>
-      <Coloniser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Coloniser>
-    </Ships>
     <Stations>
-      <MilitaryStations>
-      <Generic>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Generic>
-      </MilitaryStations>
       <Starbases>
         <Starports>
           <NameGroup>
@@ -252,15 +252,6 @@
         </Starports>
       </Starbases>
     </Stations>
-    <Armies>
-      <Fleet>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Fleet>
-    </Armies>
     <Planets>
       <Generic>
         <NameGroup>
