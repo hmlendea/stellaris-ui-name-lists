@@ -59,8 +59,14 @@ function build {
 
     echo "Building ${NAMELIST_ID}..."
 
+    GENERATOR_EXECUTABLE_WITH_ARGS=${GENERATOR_EXECUTABLE}
+
     merge ${NAMELIST_FILE_PATH} $@
-    ${GENERATOR_EXECUTABLE} -i "${NAMELIST_FILE_PATH}" -o "${OUTPUT_NAMELIST_FILE_PATH}" -n "${NAMELIST_NAME}"
+    if [[ $string == *"human"* ]]; then
+        GENERATOR_EXECUTABLE_WITH_ARGS="${GENERATOR_EXECUTABLE} -l"
+    fi
+
+    ${GENERATOR_EXECUTABLE_WITH_ARGS} -i "${NAMELIST_FILE_PATH}" -o "${OUTPUT_NAMELIST_FILE_PATH}" -n "${NAMELIST_NAME}"
     add-localisation ${NAMELIST_ID}
 }
 
