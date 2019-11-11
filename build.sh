@@ -54,18 +54,16 @@ function add-localisation {
 function build {
     NAMELIST_ID=$1 && shift
     NAMELIST_NAME=$1 && shift
+    NAMELIST_ISLOCKED=$1 && shift
     NAMELIST_FILE_PATH="${BUILD_DIRECTORY_PATH}/${NAMELIST_ID}.xml"
     OUTPUT_NAMELIST_FILE_PATH="${OUTPUT_NAMELISTS_DIRECTORY_PATH}/${NAMELIST_ID}.txt"
 
     echo "Building ${NAMELIST_ID}..."
 
     GENERATOR_EXECUTABLE_WITH_ARGS=${GENERATOR_EXECUTABLE}
+    [ "$NAMELIST_ISLOCKED" == "L" ] && GENERATOR_EXECUTABLE_WITH_ARGS="${GENERATOR_EXECUTABLE} -l"
 
     merge ${NAMELIST_FILE_PATH} $@
-    if [[ $string == *"human"* ]]; then
-        GENERATOR_EXECUTABLE_WITH_ARGS="${GENERATOR_EXECUTABLE} -l"
-    fi
-
     ${GENERATOR_EXECUTABLE_WITH_ARGS} -i "${NAMELIST_FILE_PATH}" -o "${OUTPUT_NAMELIST_FILE_PATH}" -n "${NAMELIST_NAME}"
     add-localisation ${NAMELIST_ID}
 }
@@ -82,47 +80,47 @@ function generate-mod-descriptor {
     echo "supported_version=\"${STELLARIS_VERSION}\"" >> ${FILE_PATH}
 }
 
-build "ui_extra_humans_asian" "Human - Asian" human/asian
-build "ui_extra_humans_germanic" "Human - Germanic" human/germanic
-build "ui_extra_humans_latino" "Human - Latino" human/portuguese human/spanish
-build "ui_extra_humans_romance" "Human - Romance" human/french human/italian human/portuguese human/roman human/romanian human/spanish
-build "ui_extra_humans_slavic" "Human - Slavic" human/slavic
-build "ui_extra_humans_spqr_extended" "Human - Roman" human/roman human/human3
-build "ui_extra_humans_extended" "Human - Extended" \
+build "ui_extra_humans_asian"           "Human - Asian"     "L" human/asian
+build "ui_extra_humans_germanic"        "Human - Germanic"  "L" human/germanic
+build "ui_extra_humans_latino"          "Human - Latino"    "L" human/portuguese human/spanish
+build "ui_extra_humans_romance"         "Human - Romance"   "L" human/french human/italian human/portuguese human/roman human/romanian human/spanish
+build "ui_extra_humans_slavic"          "Human - Slavic"    "L" human/slavic
+build "ui_extra_humans_spqr_extended"   "Human - Roman"     "L" human/roman human/human3
+build "ui_extra_humans_extended"        "Human - Extended"  "L" \
       human/african human/arabic human/asian human/baltic human/celtic human/english \
       human/french human/germanic human/hellenic human/hindi human/hungarian human/italian human/persian \
       human/portuguese human/roman human/romanian human/slavic human/spanish human/turkic human/common \
       starcraft/human starwars/human runescape/human other-media/human human/human1 human/human2 human/human3 human/zextended
 
-build "ui_dnd_kobold" "D&D - Kobold" dnd/kobold
+build "ui_dnd_kobold" "D&D - Kobold" "L" dnd/kobold
 
-build "ui_elderscrolls_altmer" "ElderScrolls - Altmer" elderscrolls/altmer
-build "ui_elderscrolls_argonian" "ElderScrolls - Argonian" elderscrolls/argonian
-build "ui_elderscrolls_khajiit" "ElderScrolls - Khajiit" elderscrolls/khajiit
-build "ui_elderscrolls_orc" "ElderScrolls - Orc" elderscrolls/orc
-build "ui_elderscrolls_spriggan" "ElderScrolls - Spriggan" elderscrolls/spriggan
+build "ui_elderscrolls_altmer"      "ElderScrolls - Altmer"     "R" elderscrolls/altmer
+build "ui_elderscrolls_argonian"    "ElderScrolls - Argonian"   "R" elderscrolls/argonian
+build "ui_elderscrolls_khajiit"     "ElderScrolls - Khajiit"    "R" elderscrolls/khajiit
+build "ui_elderscrolls_orc"         "ElderScrolls - Orc"        "R" elderscrolls/orc
+build "ui_elderscrolls_spriggan"    "ElderScrolls - Spriggan"   "R" elderscrolls/spriggan
 
-build "ui_narivia_rodah" "Narivia - Rodah" narivia/rodah
+build "ui_narivia_rodah" "Narivia - Rodah" "R" narivia/rodah
 
-build "ui_runescape_human" "RuneScape - Human" runescape/human
+build "ui_runescape_human" "RuneScape - Human" "L" runescape/human
 
-build "ui_starcraft_human" "StarCraft - Human" starcraft/human
-build "ui_starcraft_protoss" "StarCraft - Protoss" starcraft/protoss
+build "ui_starcraft_human" "StarCraft - Human"      "L" starcraft/human
+build "ui_starcraft_protoss" "StarCraft - Protoss"  "R" starcraft/protoss
 
-build "ui_starwars_human" "StarWars - Human" starwars/human
+build "ui_starwars_human" "StarWars - Human" "L" starwars/human
 
-build "ui_extra_art1" "Extra - Arthropoid 1" ui/art1
-build "ui_extra_avi1" "Extra - Avian 1" ui/avi1
-build "ui_extra_fun1" "Extra - Fungoid 1" ui/fun1
-build "ui_extra_hum1" "Extra - Humanoid 1" ui/hum1
-build "ui_extra_mam1" "Extra - Mammalian 1" ui/mam1
-build "ui_extra_mam2" "Extra - Mammalian 2" ui/mam2
-build "ui_extra_mol1" "Extra - Molluscoid 1" ui/mol1
-build "ui_extra_mol2" "Extra - Molluscoid 2" ui/mol2
-build "ui_extra_pla1" "Extra - Plantoid 1" ui/pla1
-build "ui_extra_rep1" "Extra - Reptillian 1" ui/rep1
-build "ui_extra_rep2" "Extra - Reptillian 2" ui/rep2
-build "ui_extra_rep3" "Extra - Reptillian 3" ui/rep3
+build "ui_extra_art1" "Extra - Arthropoid 1"    "R" ui/art1
+build "ui_extra_avi1" "Extra - Avian 1"         "R" ui/avi1
+build "ui_extra_fun1" "Extra - Fungoid 1"       "R" ui/fun1
+build "ui_extra_hum1" "Extra - Humanoid 1"      "R" ui/hum1
+build "ui_extra_mam1" "Extra - Mammalian 1"     "R" ui/mam1
+build "ui_extra_mam2" "Extra - Mammalian 2"     "R" ui/mam2
+build "ui_extra_mol1" "Extra - Molluscoid 1"    "R" ui/mol1
+build "ui_extra_mol2" "Extra - Molluscoid 2"    "R" ui/mol2
+build "ui_extra_pla1" "Extra - Plantoid 1"      "R" ui/pla1
+build "ui_extra_rep1" "Extra - Reptillian 1"    "R" ui/rep1
+build "ui_extra_rep2" "Extra - Reptillian 2"    "R" ui/rep2
+build "ui_extra_rep3" "Extra - Reptillian 3"    "R" ui/rep3
 
 generate-mod-descriptor ${MOD_DESCRIPTOR_PRIMARY_FILE_PATH}
 generate-mod-descriptor ${MOD_DESCRIPTOR_SECONDARY_FILE_PATH}
