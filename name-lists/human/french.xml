@@ -100,10 +100,55 @@
           <Name>Leaders</Name>
           <Values>
             <string>Charlemagne</string>
+            <string>De Gaulle</string>
             <string>Napoleon</string>
           </Values>
         </NameGroup>
       </LeadersTier3>
+      <FlyingAces>
+        <NameGroup>
+          <Name>Flying Aces - Belgian</Name>
+          <Values>
+            <string>Coppens</string>
+            <string>Van Lierde</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Flying Aces - French</Name>
+          <Values>
+            <string>Clostermann</string>
+            <string>Fonck</string>
+          </Values>
+        </NameGroup>
+      </FlyingAces>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes</Name>
+          <Values>
+            <string>Jeanne Fourquet</string>
+            <string>Jeanne Hachette</string>
+            <string>Jeanne Laisné</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+      <Admirals>
+        <NameGroup>
+          <Name>Admirals</Name>
+          <Values>
+            <string>Suffren</string>
+            <string>Treville</string>
+            <string>Villeneuve</string>
+          </Values>
+        </NameGroup>
+      </Admirals>
+      <GeneralsTier2>
+        <NameGroup>
+          <Name>Generals</Name>
+          <Values>
+            <string>Roland</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier2>
     </GreatPeople>
     <Warfare>
       <Weapons>
@@ -133,60 +178,8 @@
           </Values>
         </NameGroup>
       </BattleLocations>
-      <MilitaryPeopleTier1>
-        <NameGroup>
-          <Name>Persons - Military - French</Name>
-          <Values>
-            <string>Clostermann</string>
-            <string>Fonck</string>
-            <string>Pierre Clostermann</string>
-            <string>Pierre Henri Clostermann</string>
-            <string>René Fonck</string>
-            <string>René Paul Fonck</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Military - Belgian</Name>
-          <Values>
-            <string>Coppens</string>
-            <string>Willy Coppens</string>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier1>
-      <MilitaryPeopleTier3>
-        <NameGroup>
-          <Name>Persons - Military - French</Name>
-          <Values>
-            <string>Charles de Gaulle</string>
-            <string>De Gaulle</string>
-            <string>Louis-René Tréville</string>
-            <string>Pierre André de Suffren</string>
-            <string>Pierre-Charles Villeneuve</string>
-            <string>Suffren</string>
-            <string>Treville</string>
-            <string>Villeneuve</string>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier3>
     </Warfare>
     <Ships>
-      <Corvette>
-        <NameGroup>
-          <Name>Persons - Heroes</Name>
-          <Values>
-            <string>Jeanne Fourquet</string>
-            <string>Jeanne Hachette</string>
-            <string>Jeanne Laisné</string>
-          </Values>
-        </NameGroup>
-      </Corvette>
-      <Destroyer>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Destroyer>
       <Cruiser>
         <NameGroup>
           <Name>Ships - British</Name>

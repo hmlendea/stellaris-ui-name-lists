@@ -331,6 +331,86 @@
           </Values>
         </NameGroup>
       </LeadersTier2>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders - Japanese</Name>
+          <Values>
+            <string>Yamato</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
+      <FlyingAces>
+        <NameGroup>
+          <Name>Flying Aces - Japanese</Name>
+          <Values>
+            <string>Shinohara</string>
+            <string>Nishizawa</string>
+            <string>Yamamoto</string>
+          </Values>
+        </NameGroup>
+      </FlyingAces>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - Chinese</Name>
+          <Values>
+            <string>Hua Mulan</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Heroes - Japanese</Name>
+          <Values>
+            <string>Tomoe Gozen</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+      <Admirals>
+        <NameGroup>
+          <Name>Admirals - Japanese</Name>
+          <Values>
+            <string>Heihachiro</string>
+            <string>Tanaka</string>
+            <string>Yamamoto</string>
+            <string>Yonai</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Admirals - Korean</Name>
+          <Values>
+            <string>Yi Sun-sin</string>
+          </Values>
+        </NameGroup>
+      </Admirals>
+      <GeneralsTier1>
+        <NameGroup>
+          <Name>Generals - Japanese</Name>
+          <Values>
+            <string>Sakai</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier1>
+      <GeneralsTier2>
+        <NameGroup>
+          <Name>Generals - Chinese</Name>
+          <Values>
+            <string>Sun Tzu</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Generals - Mongol</Name>
+          <Values>
+            <string>Subutai</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier2>
+      <GeneralsTier3>
+        <NameGroup>
+          <Name>Generals - Japanese</Name>
+          <Values>
+            <string>Akira</string>
+            <string>Musashi</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier3>
     </GreatPeople>
     <Warfare>
       <Weapons>
@@ -396,64 +476,6 @@
           </Values>
         </NameGroup>
       </BattleLocations>
-      <MilitaryPeopleTier1>
-        <NameGroup>
-          <Name>Persons - Military - Japanese</Name>
-          <Values>
-            <string>Hiromichi Shinohara</string>
-            <string>Hiroyoshi Nishizawa</string>
-            <string>Koji Sakai</string>
-            <string>Nishizawa</string>
-            <string>Sakai</string>
-            <string>Shinohara</string>
-            <string>Tomoe Gozen</string>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier1>
-      <MilitaryPeopleTier2>
-        <NameGroup>
-          <Name>Persons - Military - Chinese</Name>
-          <Values>
-            <string>Sun Tzu</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Military - Japanese</Name>
-          <Values>
-            <string>Heihachiro</string>
-            <string>Oshio Heihachiro</string>
-            <string>Togo Heihachiro</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Military - Korean</Name>
-          <Values>
-            <string>Yi Sun-sin</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Military - Mongol</Name>
-          <Values>
-            <string>Subutai</string>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier2>
-      <MilitaryPeopleTier3>
-        <NameGroup>
-          <Name>Persons - Military - Japanese</Name>
-          <Values>
-            <string>Akira Muto</string>
-            <string>Akira Yamamoto</string>
-            <string>Akira</string>
-            <string>Miyamoto Musashi</string>
-            <string>Musashi</string>
-            <string>Raizō Tanaka</string>
-            <string>Tanaka</string>
-            <string>Yamamoto</string>
-            <string>Yonai</string>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier3>
     </Warfare>
     <Ships>
       <Corvette>
@@ -461,12 +483,6 @@
           <Name>Ships - Chinese</Name>
           <Values>
             <string>Yangwei</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Heroes - Chinese</Name>
-          <Values>
-            <string>Hua Mulan</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -491,13 +507,6 @@
           <Values>
             <string>Akagi</string>
             <string>Kaga</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Leader - Japanese</Name>
-          <Values>
-            <string>Yamato Takeru</string>
-            <string>Yamato</string>
           </Values>
         </NameGroup>
         <NameGroup>

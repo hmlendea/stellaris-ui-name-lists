@@ -96,6 +96,22 @@
           </Values>
         </NameGroup>
       </Scientists>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Alexander</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
+      <FlyingAces>
+        <NameGroup>
+          <Name>Flying Aces</Name>
+          <Values>
+            <string>Mitralexis</string>
+          </Values>
+        </NameGroup>
+      </FlyingAces>
     </GreatPeople>
     <Warfare>
       <Weapons>
@@ -133,15 +149,6 @@
           </Values>
         </NameGroup>
       </BattleLocations>
-      <MilitaryPeopleTier1>
-        <NameGroup>
-          <Name>Persons - Military</Name>
-          <Values>
-            <string>Marinos Mitralexis</string>
-            <string>Mitralexis</string>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier1>
     </Warfare>
     <MythologicalCreatures>
       <NameGroup>
@@ -185,12 +192,6 @@
         </NameGroup>
       </Cruiser>
       <Battleship>
-        <NameGroup>
-          <Name>Persons - Leaders</Name>
-          <Values>
-            <string>Alexander</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Persons - Mythological Heroes</Name>
           <Values>

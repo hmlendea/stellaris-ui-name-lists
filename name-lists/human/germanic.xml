@@ -225,12 +225,78 @@
       </Scientists>
       <LeadersTier2>
         <NameGroup>
+          <Name>Leaders - German</Name>
+          <Values>
+            <string>Frederick the Great</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Leaders - Swedish</Name>
           <Values>
             <string>Gustavus Adolphus</string>
           </Values>
         </NameGroup>
       </LeadersTier2>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders - German</Name>
+          <Values>
+            <string>Bismarck</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
+      <FlyingAces>
+        <NameGroup>
+          <Name>Flying Aces - Austrian</Name>
+          <Values>
+            <string>Brumowski</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Flying Aces - German</Name>
+          <Values>
+            <string>Hartmann</string>
+            <string>Richthofen</string>
+          </Values>
+        </NameGroup>
+      </FlyingAces>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - German</Name>
+          <Values>
+            <string>Brunhild</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Heroes - Swiss</Name>
+          <Values>
+            <string>William Tell</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+      <Admirals>
+        <NameGroup>
+          <Name>Admirals - Dutch</Name>
+          <Values>
+            <string>De Ruyter</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Admirals - German</Name>
+          <Values>
+            <string>Hipper</string>
+          </Values>
+        </NameGroup>
+      </Admirals>
+      <GeneralsTier2>
+        <NameGroup>
+          <Name>Generals - German</Name>
+          <Values>
+            <string>Hindenburg</string>
+            <string>Rommel</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier2>
     </GreatPeople>
     <Warfare>
       <Weapons>
@@ -286,53 +352,6 @@
           </Values>
         </NameGroup>
       </BattleLocations>
-      <MilitaryPeopleTier1>
-        <NameGroup>
-          <Name>Persons - Military - German</Name>
-          <Values>
-            <string>Erich Hartmann</string>
-            <string>Hartmann</string>
-            <string>Manfred von Richthofen</string>
-            <string>Richthofen</string>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier1>
-      <MilitaryPeopleTier2>
-        <NameGroup>
-          <Name>Persons - Military</Name>
-          <Values>
-            <string>Roland</string>
-            <string>Frederick the Great</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Military - Dutch</Name>
-          <Values>
-            <string>De Ruyter</string>
-            <string>Michiel de Ruyter</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Military - German</Name>
-          <Values>
-            <string>Erwin Rommel</string>
-            <string>Hindenburg</string>
-            <string>Paul von Hindenburg</string>
-            <string>Rommel</string>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier2>
-      <MilitaryPeopleTier3>
-        <NameGroup>
-          <Name>Persons - Military</Name>
-          <Values>
-            <string>Bismarck</string>
-            <string>Franz von Hipper</string>
-            <string>Hipper</string>
-            <string>Otto von Bismarck</string>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier3>
     </Warfare>
     <MythologicalCreatures>
       <NameGroup>
@@ -354,25 +373,6 @@
           <Name>Persons - Politics - Anglo-saxon</Name>
           <Values>
             <string>Ethelfleda</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Sport - Belgian</Name>
-          <Values>
-            <string>Van Lierde</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Folklore - Swiss</Name>
-          <Values>
-            <string>William Tell</string>
-            <string>Wilhelm Teil</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Folklore - German</Name>
-          <Values>
-            <string>Brunhild</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -463,6 +463,12 @@
           <Name>Aircraft manufacturers - Austrian</Name>
           <Values>
             <string>Diamond Aircraft</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Aircraft manufacturers - German</Name>
+          <Values>
+            <string>Roland</string>
           </Values>
         </NameGroup>
         <NameGroup>

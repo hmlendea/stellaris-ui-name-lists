@@ -8,14 +8,16 @@
         <Name>Denonyms</Name>
         <Values>
           <string>Iranian</string>
+          <string>Persian</string>
         </Values>
       </NameGroup>
     </Denonyms>
     <Places>
       <Countries>
         <NameGroup>
-          <Name></Name>
+          <Name>Countries</Name>
           <Values>
+            <string>Iran</string>
           </Values>
         </NameGroup>
       </Countries>
@@ -65,122 +67,14 @@
           </Values>
         </NameGroup>
       </LeadersTier3>
-    </GreatPeople>
-    <Ships>
-      <Corvette>
+      <Heroes>
         <NameGroup>
-          <Name>Persons - Heroes - Iranian</Name>
+          <Name>Heroes - Iranian</Name>
           <Values>
             <string>Esfandiar</string>
           </Values>
         </NameGroup>
-      </Corvette>
-      <Destroyer>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Destroyer>
-      <Cruiser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Cruiser>
-      <Coloniser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Coloniser>
-    </Ships>
-    <Stations>
-        <MilitaryStations>
-        <Generic>
-            <NameGroup>
-                <Name></Name>
-                <Values>
-                </Values>
-            </NameGroup>
-        </Generic>
-        </MilitaryStations>
-    </Stations>
-    <Armies>
-      <Fleet>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Fleet>
-    </Armies>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Generic>
-      <Desert>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Desert>
-      <Continental>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Continental>
-      <Ocean>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Ocean>
-      <Tundra>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tundra>
-      <Arctic>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Arctic>
-      <Tomb>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tomb>
-      <Alpine>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Alpine>
-      <Molten>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Molten>
-    </Planets>
+      </Heroes>
+    </GreatPeople>
   </NameList>
 </ArrayOfNameList>

@@ -327,10 +327,93 @@
         <NameGroup>
           <Name>Flying Aces - American</Name>
           <Values>
+            <string>Boyington</string>
+            <string>McCampbell</string>
+            <string>O'Hare</string>
             <string>Rickenbacker</string>
+            <string>Yeager</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Flying Aces - British</Name>
+          <Values>
+            <string>MacLachlan</string>
+            <string>Milne</string>
           </Values>
         </NameGroup>
       </FlyingAces>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - American</Name>
+          <Values>
+            <string>Paul Bunyan</string>
+            <string>Reuben James</string>
+            <string>Rodger Young</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Heroes - British</Name>
+          <Values>
+            <string>Robin Hood</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+      <Admirals>
+        <NameGroup>
+          <Name>Admirals - American</Name>
+          <Values>
+            <string>Farragut</string>
+            <string>Fletcher</string>
+            <string>Halsey</string>
+            <string>Nimitz</string>
+            <string>Turner</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Admirals - British</Name>
+          <Values>
+            <string>Beatty</string>
+            <string>Byng</string>
+            <string>Codrington</string>
+            <string>Crutchley</string>
+            <string>Cunningham</string>
+            <string>Hargood</string>
+            <string>Hawke</string>
+            <string>Jellicoe</string>
+            <string>Laforey</string>
+            <string>Milne</string>
+            <string>Mountbatten</string>
+          </Values>
+        </NameGroup>
+      </Admirals>
+      <GeneralsTier1>
+        <NameGroup>
+          <Name>Generals - American</Name>
+          <Values>
+            <string>Doolittle</string>
+            <string>McAuliffe</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier1>
+      <GeneralsTier2>
+        <NameGroup>
+          <Name>Generals - American</Name>
+          <Values>
+            <string>Eisenhower</string>
+            <string>MacArthur</string>
+            <string>Patton</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier2>
+      <GeneralsTier3>
+        <NameGroup>
+          <Name>Generals - American</Name>
+          <Values>
+            <string>Hart</string>
+            <string>Tyler</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier3>
     </GreatPeople>
     <Warfare>
       <Weapons>
@@ -365,103 +448,6 @@
           </Values>
         </NameGroup>
       </BattleLocations>
-      <MilitaryPeopleTier1>
-        <NameGroup>
-          <Name>Persons - Military - American</Name>
-          <Values>
-            <string>Anthony McAuliffe</string>
-            <string>Boyington</string>
-            <string>Charles Camp Doolittle</string>
-            <string>Charles Doolittle</string>
-            <string>Chuck Yeager</string>
-            <string>David McCampbell</string>
-            <string>Doolittle</string>
-            <string>Edward O'Hare</string>
-            <string>Gregory Boyington</string>
-            <string>Gregory Pappy Boyington</string>
-            <string>John Paul Jones</string>
-            <string>McAuliffe</string>
-            <string>McCampbell</string>
-            <string>O'Hare</string>
-            <string>Pappy Boyington</string>
-            <string>Rodger Wilton Young</string>
-            <string>Rodger Young</string>
-            <string>Yeager</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Military - British</Name>
-          <Values>
-            <string>James MacLachlan</string>
-            <string>John Milne</string>
-            <string>MacLachlan</string>
-            <string>Milne</string>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier1>
-      <MilitaryPeopleTier2>
-        <NameGroup>
-          <Name>Persons - Military - American</Name>
-          <Values>
-            <string>Chester W. Nimitz</string>
-            <string>David Farragut</string>
-            <string>Douglas MacArthur</string>
-            <string>Dwight D. Eisenhower</string>
-            <string>Dwight David Eisenhower</string>
-            <string>Eisenhower</string>
-            <string>Farragut</string>
-            <string>George S. Patton</string>
-            <string>MacArthur</string>
-            <string>Nimitz</string>
-            <string>Patton</string>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier2>
-      <MilitaryPeopleTier3>
-        <NameGroup>
-          <Name>Persons - Military - American</Name>
-          <Values>
-            <string>C. Turner Joy</string>
-            <string>Delbert W. Halsey</string>
-            <string>Fletcher</string>
-            <string>Frank Fletcher</string>
-            <string>Halsey</string>
-            <string>Hart</string>
-            <string>Robert O. Tyler</string>
-            <string>Turner</string>
-            <string>Tyler</string>
-            <string>William Halsey</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Military - British</Name>
-          <Values>
-            <string>Aaron Cunningham</string>
-            <string>Alexander Milne</string>
-            <string>Andrew Cunningham</string>
-            <string>Beatty</string>
-            <string>Byng</string>
-            <string>Codrington</string>
-            <string>Crutchley</string>
-            <string>Cunningham</string>
-            <string>David Beatty</string>
-            <string>Edward Codrington</string>
-            <string>Edward Hawke</string>
-            <string>Francis Laforey</string>
-            <string>George Byng</string>
-            <string>Hargood</string>
-            <string>Hawke</string>
-            <string>Jellicoe</string>
-            <string>John Jellicoe</string>
-            <string>Laforey</string>
-            <string>Louis Mountbatten</string>
-            <string>Milne</string>
-            <string>Mountbatten</string>
-            <string>Victor Crutchley</string>
-            <string>William Hargood</string>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier3>
     </Warfare>
     <MythologicalCreatures>
       <NameGroup>
@@ -476,37 +462,16 @@
     <Ships>
       <Corvette>
         <NameGroup>
-          <Name>Persons - Heroes - American</Name>
-          <Values>
-            <string>Reuben James</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Folklore - American</Name>
+          <Name>Persons - Writers - American</Name>
           <Values>
             <string>John Henry</string>
-            <string>Paul Bunyan</string>
           </Values>
         </NameGroup>
         <NameGroup>
           <Name>Ships - American</Name>
           <Values>
+            <string>John Paul Jones</string>
             <string>Kearsarge</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Animals</Name>
-          <Values>
-            <string>Eagle</string>
-            <string>Jackal</string>
-            <string>Kangaroo</string>
-            <string>Panther</string>
-            <string>Piranha</string>
-            <string>Sardine</string>
-            <string>Scorpion</string>
-            <string>Seahorse</string>
-            <string>Sparrow</string>
-            <string>Spider</string>
           </Values>
         </NameGroup>
       </Corvette>

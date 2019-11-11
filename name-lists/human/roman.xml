@@ -169,6 +169,18 @@
           </Values>
         </NameGroup>
       </Scientists>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Imperator Augustus</string>
+            <string>Julius Caesar</string>
+            <string>Remus</string>
+            <string>Romulus</string>
+            <string>Trajan</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
     </GreatPeople>
     <Warfare>
       <Weapons>
@@ -251,47 +263,6 @@
       </NameGroup>
     </MythologicalCreatures>
     <Ships>
-      <Corvette>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Corvette>
-      <Destroyer>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Destroyer>
-      <Cruiser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Cruiser>
-      <Battleship>
-        <NameGroup>
-          <Name>Persons - Leaders</Name>
-          <Values>
-            <string>Nero</string>
-          </Values>
-        </NameGroup>
-      </Battleship>
-      <Titan>
-        <NameGroup>
-          <Name>Persons - Leaders</Name>
-          <Values>
-            <string>Imperator Augustus</string>
-            <string>Julius Caesar</string>
-            <string>Remus</string>
-            <string>Romulus</string>
-            <string>Trajan</string>
-          </Values>
-        </NameGroup>
-      </Titan>
       <Colossus>
         <NameGroup>
           <Name>Vanilla Human SPQR</Name>

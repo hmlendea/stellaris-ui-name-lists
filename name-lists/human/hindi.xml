@@ -161,6 +161,16 @@
         </NameGroup>
       </Deserts>
     </Places>
+    <GreatPeople>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - Nepali</Name>
+          <Values>
+            <string>Guru Baaje</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+    </GreatPeople>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -189,19 +199,11 @@
       </NameGroup>
     </MythologicalCreatures>
     <Ships>
-      <Generic />
       <Corvette>
         <NameGroup>
           <Name>Mythology - Deities</Name>
           <Values>
             <string>Dakshin Rai</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Religion - Nepali</Name>
-          <Values>
-            <string>Dharma Gurung</string>
-            <string>Guru Baaje</string>
           </Values>
         </NameGroup>
       </Corvette>

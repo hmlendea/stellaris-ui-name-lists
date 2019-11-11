@@ -142,8 +142,18 @@
     <Ships>
       <Corvette>
         <NameGroup>
-          <Name></Name>
+          <Name>Animals</Name>
           <Values>
+            <string>Eagle</string>
+            <string>Jackal</string>
+            <string>Kangaroo</string>
+            <string>Panther</string>
+            <string>Piranha</string>
+            <string>Sardine</string>
+            <string>Scorpion</string>
+            <string>Seahorse</string>
+            <string>Sparrow</string>
+            <string>Spider</string>
           </Values>
         </NameGroup>
       </Corvette>

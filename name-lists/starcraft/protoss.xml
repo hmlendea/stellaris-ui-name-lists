@@ -145,6 +145,17 @@
         </NameGroup>
       </Mountains>
     </Places>
+    <GreatPeople>
+      <Admirals>
+        <NameGroup>
+          <Name>Executors - Khalai</Name>
+          <Values>
+            <string>Adun</string>
+            <string>Tassadar</string>
+          </Values>
+        </NameGroup>
+      </Admirals>
+    </GreatPeople>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -208,15 +219,6 @@
           </Values>
         </NameGroup>
       </Forts>
-      <MilitaryPeopleTier3>
-        <NameGroup>
-          <Name>Persons - Military - Khalai</Name>
-          <Values>
-            <string>Adun</string>
-            <string>Tassadar</string>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier3>
     </Warfare>
     <MythologicalCreatures>
       <NameGroup>

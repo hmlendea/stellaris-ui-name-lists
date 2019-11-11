@@ -62,27 +62,6 @@
           </Values>
         </NameGroup>
       </BattleLocations>
-      <MilitaryPeopleTier1>
-        <NameGroup>
-          <Name>Persons - Military - </Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier1>
-      <MilitaryPeopleTier2>
-        <NameGroup>
-          <Name>Persons - Military - </Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier2>
-      <MilitaryPeopleTier3>
-        <NameGroup>
-          <Name>Persons - Military - </Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier3>
     </Warfare>
     <MythologicalCreatures>
       <NameGroup>

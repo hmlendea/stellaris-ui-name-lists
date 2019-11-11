@@ -305,6 +305,43 @@
           </Values>
         </NameGroup>
       </LeadersTier3>
+      <FlyingAces>
+        <NameGroup>
+          <Name>Flying Aces - Russian</Name>
+          <Values>
+            <string>Kozhedub</string>
+            <string>Litvyak</string>
+            <string>Shestakov</string>
+          </Values>
+        </NameGroup>
+      </FlyingAces>
+      <Admirals>
+        <NameGroup>
+          <Name>Admirals - Russian</Name>
+          <Values>
+            <string>Butakov</string>
+            <string>Kornilov</string>
+            <string>Kuznetsov</string>
+          </Values>
+        </NameGroup>
+      </Admirals>
+      <GeneralsTier2>
+        <NameGroup>
+          <Name>Generals - Russian</Name>
+          <Values>
+            <string>Brusilov</string>
+            <string>Zhukov</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier2>
+      <GeneralsTier3>
+        <NameGroup>
+          <Name>Generals - Russian</Name>
+          <Values>
+            <string>Potemkin</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier3>
     </GreatPeople>
     <Warfare>
       <Weapons>
@@ -340,51 +377,6 @@
           </Values>
         </NameGroup>
       </BattleLocations>
-      <MilitaryPeopleTier1>
-        <NameGroup>
-          <Name>Persons - Military - Polish</Name>
-          <Values>
-            <string>Brumowski</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Military - Russian</Name>
-          <Values>
-            <string>Ivan Kozhedub</string>
-            <string>Kozhedub</string>
-            <string>Lev Shestakov</string>
-            <string>Litvyak</string>
-            <string>Lydia Litvyak</string>
-            <string>Shestakov</string>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier1>
-      <MilitaryPeopleTier2>
-        <NameGroup>
-          <Name>Persons - Military - Russian</Name>
-          <Values>
-            <string>Alexei Brusilov</string>
-            <string>Brusilov</string>
-            <string>Georgy Zhukov</string>
-            <string>Zhukov</string>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier2>
-      <MilitaryPeopleTier3>
-        <NameGroup>
-          <Name>Persons - Military - Russian</Name>
-          <Values>
-            <string>Butakov</string>
-            <string>Grigory Butakov</string>
-            <string>Grigory Potemkin</string>
-            <string>Kornilov</string>
-            <string>Kuznetsov</string>
-            <string>Nikolai Kuznetsov</string>
-            <string>Potemkin</string>
-            <string>Vladimir Kornilov</string>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier3>
     </Warfare>
     <Ships>
       <Corvette>

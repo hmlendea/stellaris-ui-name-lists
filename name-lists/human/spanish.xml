@@ -280,6 +280,30 @@
           </Values>
         </NameGroup>
       </Explorers>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - Mexican</Name>
+          <Values>
+            <string>Juan Valdivia</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+      <Admirals>
+        <NameGroup>
+          <Name>Admirals - Spanish</Name>
+          <Values>
+            <string>Lezo</string>
+          </Values>
+        </NameGroup>
+      </Admirals>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders - Spanish</Name>
+          <Values>
+            <string>Pelayo</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
     </GreatPeople>
     <Warfare>
       <Weapons>
@@ -313,31 +337,6 @@
           </Values>
         </NameGroup>
       </BattleLocations>
-      <MilitaryPeopleTier1>
-        <NameGroup>
-          <Name>Persons - Military - Mexican</Name>
-          <Values>
-            <string>Juan Valdivia</string>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier1>
-      <MilitaryPeopleTier2>
-        <NameGroup>
-          <Name>Persons - Military - Spanish</Name>
-          <Values>
-            <string>Pelayo</string>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier2>
-      <MilitaryPeopleTier3>
-        <NameGroup>
-          <Name>Persons - Military - Spanish</Name>
-          <Values>
-            <string>Blas de Lezo</string>
-            <string>Lezo</string>
-          </Values>
-        </NameGroup>
-      </MilitaryPeopleTier3>
     </Warfare>
     <Ships>
       <Destroyer>
