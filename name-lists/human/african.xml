@@ -562,6 +562,55 @@
     </Planets>
     <Characters>
       <CharacterNames>
+        <Id>hausa</Id>
+        <Weight>1</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Adamu</string>
+              <string>Ali</string>
+              <string>Dauda</string>
+              <string>Haruna</string>
+              <string>Hasan</string>
+              <string>Husaini</string>
+              <string>Ibrahim</string>
+              <string>Isa</string>
+              <string>Isiyaku</string>
+              <string>Isma'ilu</string>
+              <string>Jibirilu</string>
+              <string>Muhammadu</string>
+              <string>Musa</string>
+              <string>Nuhu</string>
+              <string>Sulemanu</string>
+              <string>Yaƙubu</string>
+              <string>Yusufu</string>
+            </Values>
+          </NameGroup>
+        </MaleFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Values>
+              <string>A'ishatu</string>
+              <string>Faɗimatu</string>
+              <string>Hadizatu</string>
+              <string>Hauwa</string>
+              <string>Maryamu</string>
+              <string>Rahila</string>
+              <string>Saratu</string>
+              <string>Zainabu</string>
+            </Values>
+          </NameGroup>
+        </FemaleFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Values>
+              <string>Harouna</string>
+              <string>Rabiu</string>
+            </Values>
+          </NameGroup>
+        </SecondNames>
+      </CharacterNames>
+      <CharacterNames>
         <Id>somali</Id>
         <Weight>1</Weight>
         <MaleFirstNames>
