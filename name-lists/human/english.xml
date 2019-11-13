@@ -651,6 +651,15 @@
             <string>Oceanham</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Polystralia - English</Name>
+          <Values>
+            <string>Freeland</string>
+            <string>Holyfield</string>
+            <string>New Hope</string>
+            <string>Richport</string>
+          </Values>
+        </NameGroup>
       </Generic>
       <Desert>
         <NameGroup>
@@ -679,7 +688,7 @@
     <Characters>
       <CharacterNames>
         <Id>english</Id>
-        <Weight>11</Weight>
+        <Weight>10</Weight>
         <MaleFirstNames>
           <NameGroup>
             <Values>

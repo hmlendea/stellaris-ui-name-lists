@@ -80,14 +80,15 @@ function generate-mod-descriptor {
     echo "supported_version=\"${STELLARIS_VERSION}\"" >> ${FILE_PATH}
 }
 
-build "ui_extra_humans_asian"           "Human - Asian"     "L" human/asian
-build "ui_extra_humans_germanic"        "Human - Germanic"  "L" human/germanic
-build "ui_extra_humans_latino"          "Human - Latino"    "L" human/portuguese human/spanish
-build "ui_extra_humans_romance"         "Human - Romance"   "L" human/french human/italian human/portuguese human/roman human/romanian human/spanish
-build "ui_extra_humans_slavic"          "Human - Slavic"    "L" human/slavic
-build "ui_extra_humans_spqr_extended"   "Human - Roman"     "L" human/roman human/human3
-build "ui_extra_humans_extended"        "Human - Extended"  "L" \
-      human/african human/arabic human/asian human/baltic human/celtic human/english \
+build "ui_extra_humans_asian"           "Human - Asian"         "L" human/asian
+build "ui_extra_humans_austronesian"    "Human - Austronesian"  "L" human/austronesian
+build "ui_extra_humans_germanic"        "Human - Germanic"      "L" human/germanic
+build "ui_extra_humans_latino"          "Human - Latino"        "L" human/portuguese human/spanish
+build "ui_extra_humans_romance"         "Human - Romance"       "L" human/french human/italian human/portuguese human/roman human/romanian human/spanish
+build "ui_extra_humans_slavic"          "Human - Slavic"        "L" human/slavic
+build "ui_extra_humans_spqr_extended"   "Human - Roman"         "L" human/roman human/human3
+build "ui_extra_humans_extended"        "Human - Extended"      "L" \
+      human/african human/arabic human/asian human/austronesian human/baltic human/celtic human/english \
       human/french human/germanic human/hellenic human/hindi human/hungarian human/italian human/persian \
       human/portuguese human/roman human/romanian human/slavic human/spanish human/turkic human/common \
       starcraft/human starwars/human runescape/human other-media/human human/human1 human/human2 human/human3 human/zextended
