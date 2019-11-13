@@ -526,6 +526,30 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Civilisation: Beyond Earth - INTEGR</Name>
+          <Values>
+            <string>Belohnung</string>
+            <string>Blauwald</string>
+            <string>Demut</string>
+            <string>Ehrfurcht</string>
+            <string>Eintracht</string>
+            <string>Entschluss</string>
+            <string>Entwicklung</string>
+            <string>Gemüt</string>
+            <string>Hochachtung</string>
+            <string>Hochburg</string>
+            <string>Kastellan</string>
+            <string>Schwerweg</string>
+            <string>Streben</string>
+            <string>Trutzburg</string>
+            <string>Wächter</string>
+            <string>Wahrheit</string>
+            <string>Weisheit</string>
+            <string>Weltgeist</string>
+            <string>Zenit</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Civilisation: Beyond Earth - North Sea Alliance - Danish</Name>
           <Values>
             <string>Klog Hjerte</string>

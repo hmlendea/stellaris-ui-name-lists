@@ -224,6 +224,31 @@
             <string>Al-Nuqayrah</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Al Falah</Name>
+          <Values>
+            <string>Al Akdam</string>
+            <string>Alyad</string>
+            <string>Ard</string>
+            <string>Aswat Adida</string>
+            <string>Baeid</string>
+            <string>Bahr Ennour</string>
+            <string>Boka'</string>
+            <string>Dam</string>
+            <string>El Ein</string>
+            <string>Farah</string>
+            <string>Hajar</string>
+            <string>Janna</string>
+            <string>Khaled</string>
+            <string>Malek</string>
+            <string>Masheat Allah</string>
+            <string>Miah Mortafi'a</string>
+            <string>Midfa'a</string>
+            <string>Moamen</string>
+            <string>Wogohna</string>
+            <string>Zekra</string>
+          </Values>
+        </NameGroup>
       </Generic>
       <Desert>
         <NameGroup>
