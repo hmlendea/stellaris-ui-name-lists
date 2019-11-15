@@ -144,16 +144,31 @@
         <NameGroup>
           <Name>Animals</Name>
           <Values>
+            <string>Albatross</string>
+            <string>Alligator</string>
+            <string>Anaconda</string>
+            <string>Antilope</string>
+            <string>Badger</string>
+            <string>Cobra</string>
             <string>Eagle</string>
+            <string>Gazelle</string>
+            <string>Hawk</string>
             <string>Jackal</string>
+            <string>Jaguar</string>
             <string>Kangaroo</string>
+            <string>Lion</string>
+            <string>Lizard</string>
             <string>Panther</string>
             <string>Piranha</string>
+            <string>Salamander</string>
             <string>Sardine</string>
             <string>Scorpion</string>
             <string>Seahorse</string>
             <string>Sparrow</string>
             <string>Spider</string>
+            <string>Stingray</string>
+            <string>Stork</string>
+            <string>Sturgeon</string>
           </Values>
         </NameGroup>
       </Corvette>
