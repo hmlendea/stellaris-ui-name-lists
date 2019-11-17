@@ -29,6 +29,7 @@
             <string>Cuba</string>
             <string>Ecuador</string>
             <string>El Salvador</string>
+            <string>Guatemala</string>
             <string>Mexico</string>
             <string>Panama</string>
             <string>Peru</string>
@@ -92,6 +93,14 @@
           </Values>
         </NameGroup>
       </Regions>
+      <Forests>
+        <NameGroup>
+          <Name>Forests</Name>
+          <Values>
+            <string>Amazonia</string>
+          </Values>
+        </NameGroup>
+      </Forests>
       <Cities>
         <NameGroup>
           <Name>Cities - Argentina</Name>
@@ -129,6 +138,12 @@
           <Name>Cities - El Salvador</Name>
           <Values>
             <string>San Salvador</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Guatemala</Name>
+          <Values>
+            <string>Guatemala City</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -197,6 +212,7 @@
             <string>Bilbao</string>
             <string>Córdoba</string>
             <string>Gibraltar</string>
+            <string>Granada</string>
             <string>Madrid</string>
             <string>Málaga</string>
             <string>Murcia</string>

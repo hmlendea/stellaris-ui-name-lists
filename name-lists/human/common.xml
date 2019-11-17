@@ -160,6 +160,8 @@
             <string>Lizard</string>
             <string>Panther</string>
             <string>Piranha</string>
+            <string>Rattlesnake</string>
+            <string>Raven</string>
             <string>Salamander</string>
             <string>Sardine</string>
             <string>Scorpion</string>
@@ -169,6 +171,7 @@
             <string>Stingray</string>
             <string>Stork</string>
             <string>Sturgeon</string>
+            <string>Sworsfish</string>
           </Values>
         </NameGroup>
       </Corvette>
@@ -387,8 +390,12 @@
       </Arctic>
       <Tomb>
         <NameGroup>
-          <Name></Name>
+          <Name>Words</Name>
           <Values>
+            <string>Armageddon</string>
+            <string>Crypt</string>
+            <string>Gravestone</string>
+            <string>Tombstone</string>
           </Values>
         </NameGroup>
       </Tomb>

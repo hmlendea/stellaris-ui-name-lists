@@ -75,10 +75,9 @@
       </Cities>
       <Seas>
         <NameGroup>
-          <Name>Words</Name>
+          <Name>Seas</Name>
           <Values>
-            <string>Panthalassa</string>
-            <string>Thalassa</string>
+            <string>Aegea</string>
           </Values>
         </NameGroup>
       </Seas>
@@ -112,6 +111,14 @@
           </Values>
         </NameGroup>
       </FlyingAces>
+      <GeneralsTier2>
+        <NameGroup>
+          <Name>Generals</Name>
+          <Values>
+            <string>Themistocles</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier2>
     </GreatPeople>
     <Warfare>
       <Weapons>
@@ -126,6 +133,7 @@
           <Name>Daggers</Name>
           <Values>
             <string>Kopis</string>
+            <string>Makhaira</string>
           </Values>
         </NameGroup>
       </Weapons>
@@ -175,22 +183,6 @@
       </NameGroup>
     </MythologicalCreatures>
     <Ships>
-      <Corvette>
-      </Corvette>
-      <Destroyer>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Destroyer>
-      <Cruiser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Cruiser>
       <Battleship>
         <NameGroup>
           <Name>Persons - Mythological Heroes</Name>
@@ -199,34 +191,7 @@
           </Values>
         </NameGroup>
       </Battleship>
-      <Coloniser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Coloniser>
     </Ships>
-    <Stations>
-      <MilitaryStations>
-        <Generic>
-          <NameGroup>
-            <Name></Name>
-              <Values>
-              </Values>
-            </NameGroup>
-          </Generic>
-        </MilitaryStations>
-    </Stations>
-    <Armies>
-      <Fleet>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Fleet>
-    </Armies>
     <Planets>
       <Generic>
         <NameGroup>
@@ -242,21 +207,14 @@
             <string>Tartessos</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>CoDominium - Federacy</Name>
+          <Values>
+            <string>Alexander</string>
+            <string>New Thessaly</string>
+          </Values>
+        </NameGroup>
       </Generic>
-      <Desert>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Desert>
-      <Continental>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Continental>
       <Gaia>
         <NameGroup>
           <Name>Mythology - Places</Name>
@@ -272,35 +230,14 @@
             <string>Istros</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Words</Name>
+          <Values>
+            <string>Panthalassa</string>
+            <string>Thalassa</string>
+          </Values>
+        </NameGroup>
       </Ocean>
-      <Tundra>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tundra>
-      <Arctic>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Arctic>
-      <Tomb>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tomb>
-      <Alpine>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Alpine>
       <Molten>
         <NameGroup>
           <Name>Mythology - Deities</Name>

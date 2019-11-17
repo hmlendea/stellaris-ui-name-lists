@@ -148,13 +148,6 @@
           </Values>
         </NameGroup>
       </Cities>
-      <Seas>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Seas>
     </Places>
     <GreatPeople>
       <Scientists>
@@ -396,41 +389,6 @@
           </Values>
         </NameGroup>
       </Ocean>
-      <Tundra>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tundra>
-      <Arctic>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Arctic>
-      <Tomb>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tomb>
-      <Alpine>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Alpine>
-      <Molten>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Molten>
     </Planets>
     <Characters>
       <CharacterNames>

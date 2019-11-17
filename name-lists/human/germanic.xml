@@ -54,6 +54,49 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions - Germany</Name>
+          <Values>
+            <string>Anhalt</string>
+            <string>Baden</string>
+            <string>Bavaria</string>
+            <string>Berlin</string>
+            <string>Brandenburg</string>
+            <string>Bremen</string>
+            <string>Hamburg</string>
+            <string>Hesse</string>
+            <string>Holstein</string>
+            <string>Lower Saxony</string>
+            <string>Mecklenburg</string>
+            <string>North Rhine</string>
+            <string>Palatinate</string>
+            <string>Rhineland</string>
+            <string>Saarland</string>
+            <string>Saxony</string>
+            <string>Schleswig</string>
+            <string>Thuringia</string>
+            <string>Vorpommern</string>
+            <string>Westphalia</string>
+            <string>Württemberg</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Germany - Endonyms</Name>
+          <Values>
+            <string>Bayern</string>
+            <string>Hessen</string>
+            <string>Niedersachsen</string>
+            <string>Nordrhein</string>
+            <string>Pfalz</string>
+            <string>Pfalz</string>
+            <string>Rheinland</string>
+            <string>Sachsen</string>
+            <string>Thüringen</string>
+            <string>Westfalen</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Austria</Name>
@@ -256,6 +299,7 @@
           <Name>Flying Aces - German</Name>
           <Values>
             <string>Hartmann</string>
+            <string>Mölders</string>
             <string>Richthofen</string>
           </Values>
         </NameGroup>

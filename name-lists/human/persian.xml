@@ -76,5 +76,15 @@
         </NameGroup>
       </Heroes>
     </GreatPeople>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Swords</Name>
+          <Values>
+            <string>Acinaces</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+    </Warfare>
   </NameList>
 </ArrayOfNameList>

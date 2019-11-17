@@ -38,6 +38,7 @@
           <Name>Cities - Indonesia</Name>
           <Values>
             <string>Jakarta</string>
+            <string>Surabaya</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -49,7 +50,9 @@
         <NameGroup>
           <Name>Cities - Philippines</Name>
           <Values>
+            <string>Davao City</string>
             <string>Manila</string>
+            <string>Quezon City</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -62,6 +65,16 @@
         </NameGroup>
       </Seas>
     </Places>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Blades</Name>
+          <Values>
+            <string>Mandau</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+    </Warfare>
     <Planets>
       <Generic>
         <NameGroup>

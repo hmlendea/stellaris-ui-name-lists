@@ -205,6 +205,7 @@
           <Name>Swords</Name>
           <Values>
             <string>Falx</string>
+            <string>Rhomphaia</string>
             <string>Sica</string>
           </Values>
         </NameGroup>
