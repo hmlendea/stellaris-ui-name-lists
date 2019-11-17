@@ -97,7 +97,7 @@ build "ui_extra_humans_extended"        "Human - Extended"      "L" \
       human/african human/arabic human/asian human/austronesian human/baltic human/celtic human/english \
       human/french human/germanic human/hellenic human/hindi human/hungarian human/italian human/persian \
       human/portuguese human/roman human/romanian human/slavic human/spanish human/turkic human/common \
-      starcraft/human starwars/human galciv/human runescape/human other-media/human \
+      starcraft/human starwars/human galciv/human sose/human runescape/human other-media/human \
       human/human1 human/human2 human/human3 human/zextended
 
 build "ui_dnd_kobold" "D&D - Kobold" "L" dnd/kobold

@@ -7,8 +7,10 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-          <string>Human</string>
           <string>European</string>
+          <string>Human</string>
+          <string>Martian</string>
+          <string>Terran</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -22,6 +24,7 @@
             <string>Glaive</string>
             <string>Halberd</string>
             <string>Harpoon</string>
+            <string>Mace</string>
             <string>Pike</string>
             <string>Spear</string>
           </Values>

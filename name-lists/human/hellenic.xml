@@ -136,6 +136,12 @@
             <string>Makhaira</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Siege</Name>
+          <Values>
+            <string>Polybolos</string>
+          </Values>
+        </NameGroup>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>

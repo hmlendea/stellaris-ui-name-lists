@@ -286,6 +286,7 @@
         <NameGroup>
           <Name>Scientists - Russian</Name>
           <Values>
+            <string>Kardashev</string>
             <string>Tsiolkovsky</string>
           </Values>
         </NameGroup>
