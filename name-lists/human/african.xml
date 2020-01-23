@@ -69,13 +69,36 @@
       </Countries>
       <Regions>
         <NameGroup>
-          <Name>Regions -Africa</Name>
+          <Name>Regions - Africa</Name>
           <Values>
             <string>Sahara</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions -Nigeria</Name>
+          <Name>Regions - Angola</Name>
+          <Values>
+            <string>Bengo</string>
+            <string>Benguela</string>
+            <string>Bié</string>
+            <string>Cabinda</string>
+            <string>Cuando Cubango</string>
+            <string>Cuanza Norte</string>
+            <string>Cuanza Sul</string>
+            <string>Cunene</string>
+            <string>Huambo</string>
+            <string>Huíla</string>
+            <string>Luanda</string>
+            <string>Lunda Norte</string>
+            <string>Lunda Sul</string>
+            <string>Malanje</string>
+            <string>Moxico</string>
+            <string>Namibe</string>
+            <string>Uíge</string>
+            <string>Zaire</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Nigeria</Name>
           <Values>
             <string>Abia</string>
             <string>Adamawa</string>
@@ -116,7 +139,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions -Mauritania</Name>
+          <Name>Regions - Mauritania</Name>
           <Values>
             <string>Adrar</string>
             <string>Assaba</string>
@@ -138,13 +161,59 @@
         <NameGroup>
           <Name>Cities - Algeria</Name>
           <Values>
+            <string>Aïn Béïda</string>
             <string>Algiers</string>
+            <string>Annaba</string>
+            <string>Batna</string>
+            <string>Béchar</string>
+            <string>Béjaïa</string>
+            <string>Bilda</string>
+            <string>Biskra</string>
+            <string>Bordj Bou Arréridj</string>
+            <string>Bousaada</string>
+            <string>Chlef</string>
+            <string>Constantine</string>
+            <string>Djelfa</string>
+            <string>El Eulma</string>
+            <string>El Oued</string>
+            <string>Ghardaïa</string>
+            <string>Guelma</string>
+            <string>Jijel</string>
+            <string>Khenchela</string>
+            <string>Laghouat</string>
+            <string>M'Sila</string>
+            <string>Mascara</string>
+            <string>Médéa</string>
+            <string>Mostaganem</string>
+            <string>Oran</string>
+            <string>Ouargla</string>
+            <string>Relizane</string>
+            <string>Saïda</string>
+            <string>Sétif</string>
+            <string>Sidi Bel Abbès</string>
+            <string>Skikda</string>
+            <string>Souk Ahras</string>
+            <string>Tébessa</string>
+            <string>Tiaret</string>
+            <string>Tindouf</string>
+            <string>Tizi Ouzou</string>
+            <string>Tlemcen</string>
+            <string>Touggourt</string>
           </Values>
         </NameGroup>
         <NameGroup>
           <Name>Cities - Angola</Name>
           <Values>
+            <string>Benguela</string>
+            <string>Huambo</string>
+            <string>Kuito</string>
+            <string>Lobito</string>
             <string>Luanda</string>
+            <string>Lubango</string>
+            <string>Lucapa</string>
+            <string>Malanje</string>
+            <string>Moçâmedes</string>
+            <string>Soyo</string>
           </Values>
         </NameGroup>
         <NameGroup>
