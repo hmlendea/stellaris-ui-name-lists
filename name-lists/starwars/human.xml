@@ -7,14 +7,28 @@
       <NameGroup>
         <Name>Denonyms - StarWars - Human</Name>
         <Values>
+          <string>Alderaanian</string>
+          <string>Corellian</string>
+          <string>Coruscanti</string>
         </Values>
       </NameGroup>
     </Denonyms>
     <Places>
       <Cities>
         <NameGroup>
-          <Name>Cities - StarWars - </Name>
+          <Name>Cities - StarWars - Alderaan</Name>
           <Values>
+            <string>Aldera</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - StarWars - Corellia</Name>
+          <Values>
+            <string>Bela Vistal</string>
+            <string>Coronet</string>
+            <string>Doaba Guerfel</string>
+            <string>Kor Vella</string>
+            <string>Tyrena</string>
           </Values>
         </NameGroup>
       </Cities>
