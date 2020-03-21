@@ -55,7 +55,11 @@
         <NameGroup>
           <Name>Scientists - Persian</Name>
           <Values>
+            <string>Al-Khwarizmi</string>
+            <string>Al-Razi</string>
             <string>Azophi</string>
+            <string>Khayyam</string>
+            <string>Omar Khayam</string>
           </Values>
         </NameGroup>
       </Scientists>

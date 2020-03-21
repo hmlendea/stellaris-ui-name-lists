@@ -20,6 +20,7 @@
           <Name>Countries</Name>
           <Values>
             <string>Arabia</string>
+            <string>Iraq</string>
             <string>Kuwait</string>
             <string>Morocco</string>
             <string>Saudi Arabia</string>
@@ -28,6 +29,30 @@
         </NameGroup>
       </Countries>
       <Regions>
+        <NameGroup>
+          <Name>Regions -Iraq</Name>
+          <Values>
+            <string>Al-Anbar</string>
+            <string>Al-Qādisiyyah</string>
+            <string>Babil</string>
+            <string>Baghdad</string>
+            <string>Basra</string>
+            <string>Dhi Qar</string>
+            <string>Diyala</string>
+            <string>Dohuk</string>
+            <string>Erbil</string>
+            <string>Halabja</string>
+            <string>Karbala</string>
+            <string>Kirkuk</string>
+            <string>Maysan</string>
+            <string>Muthanna</string>
+            <string>Najaf</string>
+            <string>Nineveh</string>
+            <string>Saladin</string>
+            <string>Sulaymaniyah</string>
+            <string>Wasit</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Regions -Saudi Arabia</Name>
           <Values>
@@ -60,6 +85,30 @@
         </NameGroup>
       </Regions>
       <Cities>
+        <NameGroup>
+          <Name>Cities - Iraq</Name>
+          <Values>
+            <string>Al Diwaniyah</string>
+            <string>Amarah</string>
+            <string>Baghdad</string>
+            <string>Baqubah</string>
+            <string>Basra</string>
+            <string>Duhok</string>
+            <string>Erbîl</string>
+            <string>Helebce</string>
+            <string>Hillah</string>
+            <string>Karbala</string>
+            <string>Kirkuk</string>
+            <string>Kutsul</string>
+            <string>Mosul</string>
+            <string>Najaf</string>
+            <string>Nasiriyah</string>
+            <string>Ramadi</string>
+            <string>Samawah</string>
+            <string>Slêmanî</string>
+            <string>Tikrit</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Cities - Kuwait</Name>
           <Values>
@@ -127,6 +176,13 @@
           <Name>Scientists - Berber</Name>
           <Values>
             <string>Ibn Battuta</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Scientists - Iraqi</Name>
+          <Values>
+            <string>Alhazen</string>
+            <string>Ibn Al-Haytham</string>
           </Values>
         </NameGroup>
       </Scientists>

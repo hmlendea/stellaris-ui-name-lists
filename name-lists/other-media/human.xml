@@ -227,6 +227,47 @@
             <string>Scrimshaw</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Settlements - Pandora - Divine Ascension</Name>
+          <Values>
+            <string>Karbala</string>
+            <string>Varanasi</string>
+            <string>Schroders</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Settlements - Pandora - Noxium Corporation</Name>
+          <Values>
+            <string>Argentarius</string>
+            <string>Denebola</string>
+            <string>Law</string>
+            <string>Medici</string>
+            <string>Merill</string>
+            <string>Sheratan</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Settlements - Pandora - Terra Salvum</Name>
+          <Values>
+            <string>Kyoto</string>
+            <string>Aristotle</string>
+            <string>Rothamsted</string>
+            <string>Hutchinson</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Settlements - Pandora - Togra University</Name>
+          <Values>
+            <string>Galileo</string>
+            <string>Landau</string>
+            <string>Penrose</string>
+            <string>Planck</string>
+            <string>Synge</string>
+            <string>Utopia</string>
+            <string>Whipple</string>
+            <string>Zsigmondy</string>
+          </Values>
+        </NameGroup>
       </Generic>
       <Desert>
         <NameGroup>

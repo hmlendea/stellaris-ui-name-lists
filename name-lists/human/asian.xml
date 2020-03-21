@@ -645,6 +645,12 @@
             <string>Pinancheo</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Solar Dynasty</Name>
+          <Values>
+            <string>Mao</string>
+          </Values>
+        </NameGroup>
       </Generic>
       <Desert>
         <NameGroup>
