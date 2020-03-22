@@ -98,6 +98,34 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Regions - Congo</Name>
+          <Values>
+            <string>Bas-Uele</string>
+            <string>Équateur</string>
+            <string>Haut-Katanga</string>
+            <string>Haut-Lomami</string>
+            <string>Haut-Uele</string>
+            <string>Ituri</string>
+            <string>Kasaï</string>
+            <string>Kinshasa</string>
+            <string>Kivu</string>
+            <string>Kongo</string>
+            <string>Kwango</string>
+            <string>Kwilu</string>
+            <string>Lomami</string>
+            <string>Lualaba</string>
+            <string>Mai-Ndombe</string>
+            <string>Maniema</string>
+            <string>Mongala</string>
+            <string>Nord-Ubangi</string>
+            <string>Sankuru</string>
+            <string>Sud-Ubangi</string>
+            <string>Tanganyika</string>
+            <string>Tshopo</string>
+            <string>Tshuapa</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Regions - Nigeria</Name>
           <Values>
             <string>Abia</string>
@@ -244,7 +272,29 @@
         <NameGroup>
           <Name>Cities - Congo</Name>
           <Values>
+            <string>Bandundu</string>
+            <string>Boma</string>
+            <string>Bukavu</string>
+            <string>Bunia</string>
+            <string>Butembo</string>
+            <string>Gandajika</string>
+            <string>Goma</string>
+            <string>Kabinda</string>
+            <string>Kamina</string>
+            <string>Kananga</string>
+            <string>Kikwit</string>
+            <string>Kindu</string>
             <string>Kinshasa</string>
+            <string>Kisangani</string>
+            <string>Kolwezi</string>
+            <string>Likasi</string>
+            <string>Lubumbashi</string>
+            <string>Matadi</string>
+            <string>Mbandaka</string>
+            <string>Mbuji-Mayi</string>
+            <string>Mwene-Ditu</string>
+            <string>Tshikapa</string>
+            <string>Uvira</string>
           </Values>
         </NameGroup>
         <NameGroup>

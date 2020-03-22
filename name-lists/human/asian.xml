@@ -434,6 +434,14 @@
       </Deities>
     </GreatPeople>
     <Companies>
+      <RobotManufacturers>
+        <NameGroup>
+          <Name>Research Companies - Alien - Japanese</Name>
+          <Values>
+            <string>Yutani</string>
+          </Values>
+        </NameGroup>
+      </RobotManufacturers>
       <AutomotiveManufacturers>
         <NameGroup>
           <Name>Vehicle Manufacturers - Japanese</Name>
@@ -611,6 +619,16 @@
     </Armies>
     <Planets>
       <Generic>
+        <NameGroup>
+          <Name>Alien - Union of Progressive Peoples - Chinese</Name>
+          <Values>
+            <string>Chiu</string>
+            <string>Phei Phei</string>
+            <string>Qi Xi</string>
+            <string>Wan An</string>
+            <string>Xiang</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Pandora: First Contact - Solar Dynasty - Chinese</Name>
           <Values>

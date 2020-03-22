@@ -493,6 +493,12 @@
       </SpacecraftManufacturers>
       <ResearchCompanies>
         <NameGroup>
+          <Name>Research Companies - Alien - British</Name>
+          <Values>
+            <string>Weyland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Research Companies - British</Name>
           <Values>
             <string>Rothamsted</string>

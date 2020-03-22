@@ -354,21 +354,41 @@
       </GeneralsTier2>
     </GreatPeople>
     <Companies>
+      <RobotManufacturers>
+        <NameGroup>
+          <Name>Robot Manufacturers - Alien - German</Name>
+          <Values>
+            <string>Seegson</string>
+          </Values>
+        </NameGroup>
+      </RobotManufacturers>
+      <AutomotiveManufacturers>
+        <NameGroup>
+          <Name>Automotive Manufacturers - German</Name>
+          <Values>
+            <string>Audi</string>
+            <string>Mercedes-Benz</string>
+            <string>Opel</string>
+            <string>Porsche</string>
+            <string>Volkswagen</string>
+          </Values>
+        </NameGroup>
+      </AutomotiveManufacturers>
       <AircraftManufacturers>
         <NameGroup>
-          <Name>Aircraft manufacturers - Austrian</Name>
+          <Name>Aircraft Manufacturers - Austrian</Name>
           <Values>
             <string>Diamond Aircraft</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Aircraft manufacturers - German</Name>
+          <Name>Aircraft Manufacturers - German</Name>
           <Values>
             <string>Roland</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Aircraft manufacturers - Swiss</Name>
+          <Name>Aircraft Manufacturers - Swiss</Name>
           <Values>
             <string>Pilatus</string>
           </Values>
@@ -376,19 +396,19 @@
       </AircraftManufacturers>
       <SpacecraftManufacturers>
         <NameGroup>
-          <Name>Spacecraft manufacturers - Belgian</Name>
+          <Name>Spacecraft Manufacturers - Belgian</Name>
           <Values>
             <string>QuentiQ</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Spacecraft manufacturers - Danish</Name>
+          <Name>Spacecraft Manufacturers - Danish</Name>
           <Values>
             <string>GomSpace</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Spacecraft manufacturers - Dutch</Name>
+          <Name>Spacecraft Manufacturers - Dutch</Name>
           <Values>
             <string>Fokker</string>
           </Values>
