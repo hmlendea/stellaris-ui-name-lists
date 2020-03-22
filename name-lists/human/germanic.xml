@@ -176,6 +176,48 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Regions>
+        <NameGroup>
+          <Name>Regions - Germany</Name>
+          <Values>
+            <string>Baden-Württemberg</string>
+            <string>Bavaria</string>
+            <string>Berlin</string>
+            <string>Brandenburg</string>
+            <string>Bremen</string>
+            <string>Hamburg</string>
+            <string>Hesse</string>
+            <string>Lower Saxony</string>
+            <string>Mecklenburg-Vorpommern</string>
+            <string>North Rhine-Westphalia</string>
+            <string>Rhineland-Palatinate</string>
+            <string>Saarland</string>
+            <string>Saxony-Anhalt</string>
+            <string>Saxony</string>
+            <string>Schleswig-Holstein</string>
+            <string>Thuringia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Germany - Endonyms</Name>
+          <Values>
+            <string>Bayern</string>
+            <string>Hessen</string>
+            <string>Niedersachsen</string>
+            <string>Nordrhein-Westfalen</string>
+            <string>Rheinland-Pfalz</string>
+            <string>Sachsen-Anhalt</string>
+            <string>Sachsen</string>
+            <string>Thüringen</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Sweden</Name>
+          <Values>
+            <string>Göta</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Rivers>
         <NameGroup>
           <Name>Rivers - Germany</Name>
@@ -222,6 +264,7 @@
             <string>Heisenberg</string>
             <string>Kepler</string>
             <string>Konrad Zuse</string>
+            <string>Möbius</string>
             <string>Planck</string>
             <string>Schimper</string>
             <string>Von Braun</string>
@@ -230,6 +273,7 @@
         <NameGroup>
           <Name>Scientists - Swedish</Name>
           <Values>
+            <string>Linnaeus</string>
             <string>Nobel</string>
           </Values>
         </NameGroup>
@@ -523,6 +567,12 @@
     <Planets>
       <Generic>
         <NameGroup>
+          <Name>Pandora: First Contact - Imperium</Name>
+          <Values>
+            <string>Rommel</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Pandora: First Contact - Noxium Corporation</Name>
           <Values>
             <string>Lemann</string>
@@ -532,6 +582,8 @@
           <Name>Pandora: First Contact - Terra Salvum</Name>
           <Values>
             <string>Haeckel</string>
+            <string>Linnaeus</string>
+            <string>Möbius</string>
             <string>Schimper</string>
           </Values>
         </NameGroup>

@@ -333,6 +333,12 @@
       </LeadersTier2>
       <LeadersTier3>
         <NameGroup>
+          <Name>Leaders - Chinese</Name>
+          <Values>
+            <string>Chiang Kai-shek</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Leaders - Japanese</Name>
           <Values>
             <string>Yamato</string>
@@ -354,6 +360,7 @@
           <Name>Heroes - Chinese</Name>
           <Values>
             <string>Hua Mulan</string>
+            <string>Lei Feng</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -426,6 +433,24 @@
         </NameGroup>
       </Deities>
     </GreatPeople>
+    <Companies>
+      <AutomotiveManufacturers>
+        <NameGroup>
+          <Name>Vehicle Manufacturers - Japanese</Name>
+          <Values>
+            <string>Nissan</string>
+            <string>Suzuki</string>
+            <string>Toyota</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Vehicle Manufacturers - Korean</Name>
+          <Values>
+            <string>Hyundai</string>
+          </Values>
+        </NameGroup>
+      </AutomotiveManufacturers>
+    </Companies>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -591,7 +616,11 @@
           <Values>
             <string>Han Xin</string>
             <string>Ji Gong</string>
+            <string>Lei Feng</string>
             <string>Mao</string>
+            <string>Mu Guang</string>
+            <string>Mulan</string>
+            <string>Sun Tzu</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -772,9 +801,17 @@
         <NameGroup>
           <Name>Mountains</Name>
           <Values>
-            <string>Fuji</string>
             <string>Himalaya</string>
             <string>Chomolungma</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mountains - Japan</Name>
+          <Values>
+            <string>Fuji</string>
+            <string>Gassan</string>
+            <string>Haguro</string>
+            <string>Yudono</string>
           </Values>
         </NameGroup>
       </Alpine>

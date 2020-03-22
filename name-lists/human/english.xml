@@ -274,8 +274,11 @@
           <Name>Scientists - American</Name>
           <Values>
             <string>Goddard</string>
+            <string>Goodenough</string>
             <string>Hubble</string>
+            <string>Odum</string>
             <string>Sagan</string>
+            <string>Swallow Richards</string>
             <string>Whipple</string>
           </Values>
         </NameGroup>
@@ -287,6 +290,7 @@
             <string>Kelvin</string>
             <string>Newton</string>
             <string>Penrose</string>
+            <string>Spencer</string>
           </Values>
         </NameGroup>
       </Scientists>
@@ -641,6 +645,12 @@
           <Name>Pandora: First Contact - Solar Dynasty - British</Name>
           <Values>
             <string>Tolpuddle</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Terra Salvum - American</Name>
+          <Values>
+            <string>Odum</string>
           </Values>
         </NameGroup>
         <NameGroup>

@@ -304,6 +304,14 @@
           </Values>
         </NameGroup>
       </LeadersTier2>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders - Cuban</Name>
+          <Values>
+            <string>Castro</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
     </GreatPeople>
     <Warfare>
       <Weapons>
@@ -361,6 +369,12 @@
             <string>San Cristóbal</string>
             <string>San Fernando</string>
             <string>San Lucas</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Solar Dynasty - Cuban</Name>
+          <Values>
+            <string>Castro</string>
           </Values>
         </NameGroup>
         <NameGroup>

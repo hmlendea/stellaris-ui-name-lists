@@ -10,6 +10,8 @@
           <string>Arabian</string>
           <string>Berber</string>
           <string>Kuwaiti</string>
+          <string>Moroccan</string>
+          <string>Palestinian</string>
           <string>Saudi</string>
         </Values>
       </NameGroup>
@@ -23,6 +25,7 @@
             <string>Iraq</string>
             <string>Kuwait</string>
             <string>Morocco</string>
+            <string>Palestine</string>
             <string>Saudi Arabia</string>
             <string>United Arab Emirates</string>
           </Values>
@@ -169,6 +172,20 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains - Morocco</Name>
+          <Values>
+            <string>Zerhoun</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mountains - Palestine</Name>
+          <Values>
+            <string>Gilboa</string>
+          </Values>
+        </NameGroup>
+      </Seas>
     </Places>
     <GreatPeople>
       <Scientists>
@@ -186,6 +203,14 @@
           </Values>
         </NameGroup>
       </Scientists>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders - Moroccan</Name>
+          <Values>
+            <string>Idris</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
     </GreatPeople>
     <Warfare>
       <Weapons>

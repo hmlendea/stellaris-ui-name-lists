@@ -130,6 +130,12 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Mountains - India</Name>
+          <Values>
+            <string>Shikharji</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Mountains - Nepal</Name>
           <Values>
             <string>Everest</string>

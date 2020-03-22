@@ -374,6 +374,12 @@
       </Explorers>
       <Scientists>
         <NameGroup>
+          <Name>Scientists - Croatian</Name>
+          <Values>
+            <string>Ružička</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Scientists - Russian</Name>
           <Values>
             <string>Alferov</string>
@@ -636,6 +642,18 @@
             <string>Mir</string>
             <string>Rodomir</string>
             <string>Stanimir</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Solar Dynasty</Name>
+          <Values>
+            <string>Havel</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Togra University</Name>
+          <Values>
+            <string>Ružička</string>
           </Values>
         </NameGroup>
       </Generic>

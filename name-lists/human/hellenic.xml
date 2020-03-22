@@ -153,6 +153,7 @@
         <NameGroup>
           <Name>Battle locations</Name>
           <Values>
+            <string>Marathon</string>
             <string>Thermopylae</string>
           </Values>
         </NameGroup>

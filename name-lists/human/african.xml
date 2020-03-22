@@ -156,6 +156,25 @@
             <string>Trarza</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Regions - Senegal</Name>
+          <Values>
+            <string>Dakar</string>
+            <string>Diourbel</string>
+            <string>Fatick</string>
+            <string>Kaffrine</string>
+            <string>Kaolack</string>
+            <string>Kédougou</string>
+            <string>Kolda</string>
+            <string>Louga</string>
+            <string>Matam</string>
+            <string>Saint-Louis</string>
+            <string>Sédhiou</string>
+            <string>Tambacounda</string>
+            <string>Thiès</string>
+            <string>Ziguinchor</string>
+          </Values>
+        </NameGroup>
       </Regions>
       <Cities>
         <NameGroup>
@@ -327,6 +346,19 @@
           <Name>Cities - Senegal</Name>
           <Values>
             <string>Dakar</string>
+            <string>Diourbel</string>
+            <string>Fatick</string>
+            <string>Kaffrine</string>
+            <string>Kaolack</string>
+            <string>Kédougou</string>
+            <string>Kolda</string>
+            <string>Louga</string>
+            <string>Matam</string>
+            <string>Saint-Louis</string>
+            <string>Sédhiou</string>
+            <string>Tambacounda</string>
+            <string>Thiès</string>
+            <string>Ziguinchor</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -569,6 +601,12 @@
             <string>Jabulile</string>
             <string>Mzoxolo</string>
             <string>Thula</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Divine Ascension</Name>
+          <Values>
+            <string>Touba</string>
           </Values>
         </NameGroup>
       </Generic>
