@@ -203,6 +203,12 @@
       </Explorers>
       <Scientists>
         <NameGroup>
+          <Name>Scientists - Austrian</Name>
+          <Values>
+            <string>Zsigmondy</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Scientists - Dutch</Name>
           <Values>
             <string>Fahrenheit</string>
@@ -213,6 +219,7 @@
           <Values>
             <string>Einstein</string>
             <string>Kepler</string>
+            <string>Planck</string>
             <string>Schimper</string>
             <string>Von Braun</string>
           </Values>
@@ -522,6 +529,13 @@
           <Name>Pandora: First Contact - Terra Salvum</Name>
           <Values>
             <string>Schimper</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Togra University</Name>
+          <Values>
+            <string>Planck</string>
+            <string>Zsigmondy</string>
           </Values>
         </NameGroup>
         <NameGroup>

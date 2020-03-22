@@ -276,6 +276,7 @@
             <string>Goddard</string>
             <string>Hubble</string>
             <string>Sagan</string>
+            <string>Whipple</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -285,6 +286,7 @@
             <string>Hawking</string>
             <string>Kelvin</string>
             <string>Newton</string>
+            <string>Penrose</string>
           </Values>
         </NameGroup>
       </Scientists>
@@ -485,6 +487,22 @@
           </Values>
         </NameGroup>
       </SpacecraftManufacturers>
+      <ResearchCompanies>
+        <NameGroup>
+          <Name>Research Companies - British</Name>
+          <Values>
+            <string>Rothamsted</string>
+          </Values>
+        </NameGroup>
+      </ResearchCompanies>
+      <InvestmentCompanies>
+        <NameGroup>
+          <Name>Investment Companies - British</Name>
+          <Values>
+            <string>Schroders</string>
+          </Values>
+        </NameGroup>
+      </InvestmentCompanies>
     </Companies>
     <Warfare>
       <Weapons>
@@ -608,21 +626,33 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Pandora: First Contact - Noxium Corporation</Name>
+          <Name>Pandora: First Contact - Noxium Corporation - British</Name>
           <Values>
             <string>Schroders</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Pandora: First Contact - Solar Dynasty</Name>
+          <Name>Pandora: First Contact - Solar Dynasty - British</Name>
           <Values>
             <string>Tolpuddle</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Pandora: First Contact - Terra Salvum</Name>
+          <Name>Pandora: First Contact - Terra Salvum - British</Name>
           <Values>
             <string>Rothamsted</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Togra University - Americaa</Name>
+          <Values>
+            <string>Whipple</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Togra University - British</Name>
+          <Values>
+            <string>Penrose</string>
           </Values>
         </NameGroup>
         <NameGroup>

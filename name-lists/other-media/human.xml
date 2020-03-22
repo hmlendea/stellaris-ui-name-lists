@@ -237,8 +237,6 @@
         <NameGroup>
           <Name>Settlements - Pandora: First Contact - Noxium Corporation</Name>
           <Values>
-            <string>Argentarius</string>
-            <string>Denebola</string>
             <string>Gross</string>
             <string>Law</string>
             <string>Medici</string>
@@ -251,12 +249,8 @@
           <Values>
             <string>Galileo</string>
             <string>Landau</string>
-            <string>Penrose</string>
-            <string>Planck</string>
             <string>Synge</string>
             <string>Utopia</string>
-            <string>Whipple</string>
-            <string>Zsigmondy</string>
           </Values>
         </NameGroup>
       </Generic>

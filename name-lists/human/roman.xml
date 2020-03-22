@@ -375,6 +375,13 @@
             <string>Mylae</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Noxium Corporation</Name>
+          <Values>
+            <string>Argentarius</string>
+            <string>Denebola</string>
+          </Values>
+        </NameGroup>
       </Generic>
       <Desert>
         <NameGroup>

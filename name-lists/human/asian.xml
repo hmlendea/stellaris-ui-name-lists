@@ -573,13 +573,14 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Pandora: First Contact - Solar Dynasty</Name>
+          <Name>Pandora: First Contact - Solar Dynasty - Chinese</Name>
           <Values>
+            <string>Ji Gong</string>
             <string>Mao</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Pandora: First Contact - Terra Salvum</Name>
+          <Name>Pandora: First Contact - Terra Salvum - Japanese</Name>
           <Values>
             <string>Kyoto</string>
           </Values>
