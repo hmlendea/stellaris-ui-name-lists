@@ -150,6 +150,28 @@
         </NameGroup>
       </GeneralsTier2>
     </GreatPeople>
+    <Companies>
+      <AircraftManufacturers>
+        <NameGroup>
+          <Name>Aircraft manufacturers</Name>
+          <Values>
+            <string>Dessault</string>
+            <string>Safran</string>
+            <string>Thales</string>
+            <string>Snecma</string>
+            <string>Arianespace</string>
+          </Values>
+        </NameGroup>
+      </AircraftManufacturers>
+      <SpacecraftManufacturers>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Belgian</Name>
+          <Values>
+            <string>QuentiQ</string>
+          </Values>
+        </NameGroup>
+      </SpacecraftManufacturers>
+    </Companies>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -189,26 +211,6 @@
         </NameGroup>
       </Cruiser>
     </Ships>
-    <ShipClasses>
-      <Generic>
-        <NameGroup>
-          <Name>Spacecraft manufacturers - Belgian</Name>
-          <Values>
-            <string>QuentiQ</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Aircraft manufacturers</Name>
-          <Values>
-            <string>Dessault</string>
-            <string>Safran</string>
-            <string>Thales</string>
-            <string>Snecma</string>
-            <string>Arianespace</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </ShipClasses>
     <Stations>
       <MilitaryStations>
         <Generic>

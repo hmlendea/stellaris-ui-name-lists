@@ -12,6 +12,16 @@
         </Values>
       </NameGroup>
     </Denonyms>
+    <Companies>
+      <AircraftManufacturers>
+        <NameGroup>
+          <Name>Aircraft manufacturers</Name>
+          <Values>
+            <string>Airbus</string>
+          </Values>
+        </NameGroup>
+      </AircraftManufacturers>
+    </Companies>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -208,16 +218,6 @@
         </NameGroup>
       </Coloniser>
     </Ships>
-    <ShipClasses>
-      <Generic>
-        <NameGroup>
-          <Name>Aircraft manufacturers</Name>
-          <Values>
-            <string>Airbus</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </ShipClasses>
     <Stations>
       <MilitaryStations>
         <Generic>

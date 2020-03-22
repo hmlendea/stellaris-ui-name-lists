@@ -477,6 +477,42 @@
         </NameGroup>
       </GeneralsTier3>
     </GreatPeople>
+    <Companies>
+      <AircraftManufacturers>
+        <NameGroup>
+          <Name>Aircraft manufacturers - Polish</Name>
+          <Values>
+            <string>PZL</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Aircraft manufacturers - Russian</Name>
+          <Values>
+            <string>Energia</string>
+            <string>Tupolev</string>
+            <string>United Aircraft</string>
+          </Values>
+        </NameGroup>
+      </AircraftManufacturers>
+      <SpacecraftManufacturers>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Russian</Name>
+          <Values>
+            <string>Energiya</string>
+            <string>Lavochkin</string>
+          </Values>
+        </NameGroup>
+      </SpacecraftManufacturers>
+      <RocketDesigners>
+        <NameGroup>
+          <Name>Rocket Designers - Russian</Name>
+          <Values>
+            <string>JSC</string>
+            <string>Mashinostroyeniya</string>
+          </Values>
+        </NameGroup>
+      </RocketDesigners>
+    </Companies>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -559,47 +595,6 @@
         </NameGroup>
       </Coloniser>
     </Ships>
-    <ShipClasses>
-      <Generic>
-        <NameGroup>
-          <Name>Spacecraft manufacturers - Russian</Name>
-          <Values>
-            <string>Energiya</string>
-            <string>Lavochkin</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Rocket Designers - Russian</Name>
-          <Values>
-            <string>JSC</string>
-            <string>Mashinostroyeniya</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Aircraft manufacturers - Polish</Name>
-          <Values>
-            <string>PZL</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Aircraft manufacturers - Russian</Name>
-          <Values>
-            <string>Energia</string>
-            <string>Tupolev</string>
-            <string>United Aircraft</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </ShipClasses>
-    <Armies>
-      <Fleet>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Fleet>
-    </Armies>
     <Planets>
       <Generic>
         <NameGroup>

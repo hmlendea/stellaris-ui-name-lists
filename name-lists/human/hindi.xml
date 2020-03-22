@@ -171,6 +171,24 @@
         </NameGroup>
       </Heroes>
     </GreatPeople>
+    <Companies>
+      <AircraftManufacturers>
+        <NameGroup>
+          <Name>Aircraft manufacturers - India</Name>
+          <Values>
+            <string>Hindustan</string>
+          </Values>
+        </NameGroup>
+      </AircraftManufacturers>
+      <SpacecraftManufacturers>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - India</Name>
+          <Values>
+            <string>Dhruva</string>
+          </Values>
+        </NameGroup>
+      </SpacecraftManufacturers>
+    </Companies>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -217,22 +235,6 @@
         </NameGroup>
       </Constructor>
     </Ships>
-    <ShipClasses>
-      <Generic>
-        <NameGroup>
-          <Name>Spacecraft manufacturers - English</Name>
-          <Values>
-            <string>Dhruva</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Aircraft manufacturers - India</Name>
-          <Values>
-            <string>Hindustan</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </ShipClasses>
     <Planets>
       <Generic>
         <NameGroup>

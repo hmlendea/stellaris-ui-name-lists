@@ -299,6 +299,48 @@
         </NameGroup>
       </GeneralsTier2>
     </GreatPeople>
+    <Companies>
+      <AircraftManufacturers>
+        <NameGroup>
+          <Name>Aircraft manufacturers - Austrian</Name>
+          <Values>
+            <string>Diamond Aircraft</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Aircraft manufacturers - German</Name>
+          <Values>
+            <string>Roland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Aircraft manufacturers - Swiss</Name>
+          <Values>
+            <string>Pilatus</string>
+          </Values>
+        </NameGroup>
+      </AircraftManufacturers>
+      <SpacecraftManufacturers>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Belgian</Name>
+          <Values>
+            <string>QuentiQ</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Danish</Name>
+          <Values>
+            <string>GomSpace</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Dutch</Name>
+          <Values>
+            <string>Fokker</string>
+          </Values>
+        </NameGroup>
+      </SpacecraftManufacturers>
+    </Companies>
     <Warfare>
       <Weapons>
         <NameGroup>
@@ -441,44 +483,6 @@
       </Transport>
     </Ships>
     <ShipClasses>
-      <Generic>
-        <NameGroup>
-          <Name>Spacecraft manufacturers - Belgian</Name>
-          <Values>
-            <string>QuentiQ</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Spacecraft manufacturers - Danish</Name>
-          <Values>
-            <string>GomSpace</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Spacecraft manufacturers - Dutch</Name>
-          <Values>
-            <string>Fokker</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Aircraft manufacturers - Austrian</Name>
-          <Values>
-            <string>Diamond Aircraft</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Aircraft manufacturers - German</Name>
-          <Values>
-            <string>Roland</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Aircraft manufacturers - Swiss</Name>
-          <Values>
-            <string>Pilatus</string>
-          </Values>
-        </NameGroup>
-      </Generic>
       <Science>
         <NameGroup>
           <Name>Ship Classes - StarCraft - Terran</Name>
