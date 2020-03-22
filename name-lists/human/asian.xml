@@ -322,6 +322,7 @@
           <Name>Leaders - Chinese</Name>
           <Values>
             <string>Changping</string>
+            <string>Xiaoping</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -388,6 +389,12 @@
         </NameGroup>
       </Admirals>
       <GeneralsTier1>
+        <NameGroup>
+          <Name>Generals - Chinese</Name>
+          <Values>
+            <string>Yue Fei</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Generals - Japanese</Name>
           <Values>
@@ -639,6 +646,8 @@
             <string>Mu Guang</string>
             <string>Mulan</string>
             <string>Sun Tzu</string>
+            <string>Xiaoping</string>
+            <string>Yue Fei</string>
           </Values>
         </NameGroup>
         <NameGroup>

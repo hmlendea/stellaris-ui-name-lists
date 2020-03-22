@@ -455,6 +455,14 @@
           </Values>
         </NameGroup>
       </FlyingAces>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - Russian</Name>
+          <Values>
+            <string>Stakhanov</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
       <Admirals>
         <NameGroup>
           <Name>Admirals - Russian</Name>
@@ -645,9 +653,17 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Pandora: First Contact - Solar Dynasty</Name>
+          <Name>Pandora: First Contact - Solar Dynasty - Czech</Name>
           <Values>
             <string>Havel</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Solar Dynasty - Russian</Name>
+          <Values>
+            <string>Demidov</string>
+            <string>Stakhanov</string>
+            <string>Zhukov</string>
           </Values>
         </NameGroup>
         <NameGroup>

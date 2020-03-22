@@ -303,6 +303,12 @@
             <string>Pelayo</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Venezuelan</Name>
+          <Values>
+            <string>Chávez</string>
+          </Values>
+        </NameGroup>
       </LeadersTier2>
       <LeadersTier3>
         <NameGroup>
@@ -375,6 +381,12 @@
           <Name>Pandora: First Contact - Solar Dynasty - Cuban</Name>
           <Values>
             <string>Castro</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Solar Dynasty - Venezuelan</Name>
+          <Values>
+            <string>Chávez</string>
           </Values>
         </NameGroup>
         <NameGroup>

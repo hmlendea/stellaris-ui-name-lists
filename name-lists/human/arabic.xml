@@ -213,27 +213,14 @@
       </LeadersTier1>
     </GreatPeople>
     <Warfare>
-      <Weapons>
+      <GeneralsTier2>
         <NameGroup>
-          <Name></Name>
+          <Name>Generals - Arabian</Name>
           <Values>
+            <string>Al-Walid</string>
           </Values>
         </NameGroup>
-      </Weapons>
-      <MilitaryUnitTypes>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </MilitaryUnitTypes>
-      <BattleLocations>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </BattleLocations>
+      </GeneralsTier2>
     </Warfare>
     <Ships>
       <Generic />
@@ -334,6 +321,12 @@
           <Name>Pandora: First Contact - Divine Ascension</Name>
           <Values>
             <string>Karbala</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Imperium</Name>
+          <Values>
+            <string>Al-Walid</string>
           </Values>
         </NameGroup>
       </Generic>
