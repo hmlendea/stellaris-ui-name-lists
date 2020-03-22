@@ -599,6 +599,31 @@
     <Planets>
       <Generic>
         <NameGroup>
+          <Name>Pandora: First Contact - Imperium</Name>
+          <Values>
+            <string>Antietam</string>
+            <string>Cromwell</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Noxium Corporation</Name>
+          <Values>
+            <string>Schroders</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Solar Dynasty</Name>
+          <Values>
+            <string>Tolpuddle</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Terra Salvum</Name>
+          <Values>
+            <string>Rothamsted</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Stellaris - United Nations of Earth - British</Name>
           <Values>
             <string>New Coventry</string>

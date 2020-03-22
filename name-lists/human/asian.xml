@@ -573,6 +573,18 @@
     <Planets>
       <Generic>
         <NameGroup>
+          <Name>Pandora: First Contact - Solar Dynasty</Name>
+          <Values>
+            <string>Mao</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Terra Salvum</Name>
+          <Values>
+            <string>Kyoto</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Stellaris - United Nations of Earth</Name>
           <Values>
             <string>Xianyang</string>
@@ -643,12 +655,6 @@
             <string>Pungbu</string>
             <string>Insig</string>
             <string>Pinancheo</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Solar Dynasty</Name>
-          <Values>
-            <string>Mao</string>
           </Values>
         </NameGroup>
       </Generic>

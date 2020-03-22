@@ -369,6 +369,12 @@
             <string>Colonia</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Imperium</Name>
+          <Values>
+            <string>Mylae</string>
+          </Values>
+        </NameGroup>
       </Generic>
       <Desert>
         <NameGroup>

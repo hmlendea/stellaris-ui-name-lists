@@ -242,6 +242,12 @@
     <Planets>
       <Generic>
         <NameGroup>
+          <Name>Pandora: First Contact - Terra Salvum</Name>
+          <Values>
+            <string>Hutchinson</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Stellaris - United Nations of Earth - French</Name>
           <Values>
             <string>Mullineux</string>

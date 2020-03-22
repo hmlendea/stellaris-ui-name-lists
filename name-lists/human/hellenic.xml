@@ -230,6 +230,12 @@
     <Planets>
       <Generic>
         <NameGroup>
+          <Name>Settlements - Pandora: First Contact - Terra Salvum</Name>
+          <Values>
+            <string>Aristotle</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Stellaris - United Nations of Earth</Name>
           <Values>
             <string>Olympia</string>
