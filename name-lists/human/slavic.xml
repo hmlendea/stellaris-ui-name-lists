@@ -106,7 +106,30 @@
         <NameGroup>
           <Name>Cities - Czechia</Name>
           <Values>
+            <string>Brno</string>
+            <string>České Budějovice</string>
+            <string>Chomutov</string>
+            <string>Děčín</string>
+            <string>Frýdek-Místek</string>
+            <string>Havířov</string>
+            <string>Hradec Králové</string>
+            <string>Jihlava</string>
+            <string>Karlovy Vary</string>
+            <string>Karviná</string>
+            <string>Kladno</string>
+            <string>Liberec</string>
+            <string>Mladá Boleslav</string>
+            <string>Most</string>
+            <string>Olomouc</string>
+            <string>Opava</string>
+            <string>Ostrava</string>
+            <string>Pardubice</string>
+            <string>Plzeň</string>
             <string>Prague</string>
+            <string>Přerov</string>
+            <string>Teplice</string>
+            <string>Ústí nad Labem</string>
+            <string>Zlín</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -263,11 +286,78 @@
           </Values>
         </NameGroup>
       </Rivers>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes - Russia</Name>
+          <Values>
+            <string>Baikal</string>
+            <string>Beloye</string>
+            <string>Brosno</string>
+            <string>Bustakh</string>
+            <string>Chany</string>
+            <string>Chukchagirskoye</string>
+            <string>Dynda</string>
+            <string>Ekityki</string>
+            <string>Elgygytgyn</string>
+            <string>Emanda</string>
+            <string>Ilirney</string>
+            <string>Ilmen</string>
+            <string>Imandra</string>
+            <string>Keta</string>
+            <string>Kezanoi</string>
+            <string>Khanka</string>
+            <string>Khantayskoye</string>
+            <string>Kizi</string>
+            <string>Koolen</string>
+            <string>Krasnoye</string>
+            <string>Kronotskoye</string>
+            <string>Kubenskoye</string>
+            <string>Kulundinskoye</string>
+            <string>Labaz</string>
+            <string>Ladoga</string>
+            <string>Lama</string>
+            <string>Lovozero</string>
+            <string>Nero</string>
+            <string>Onega</string>
+            <string>Orel</string>
+            <string>Oron</string>
+            <string>Ozhogino</string>
+            <string>Peipus</string>
+            <string>Pekulney</string>
+            <string>Pleshcheyevo</string>
+            <string>Segozero</string>
+            <string>Selinger</string>
+            <string>Suturuokha</string>
+            <string>Syamozero</string>
+            <string>Taimyr</string>
+            <string>Teletskoye</string>
+            <string>Topozero</string>
+            <string>Tytyl</string>
+            <string>Ubinskoye</string>
+            <string>Uvs Nuur</string>
+            <string>Valdayskoye</string>
+            <string>Vistytis</string>
+            <string>Vivi</string>
+            <string>Yessey</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
       <Seas>
         <NameGroup>
           <Name>Seas - Russia</Name>
           <Values>
             <string>Azov</string>
+            <string>Baltic</string>
+            <string>Barents</string>
+            <string>Black Sea</string>
+            <string>Caspian</string>
+            <string>Chukchi</string>
+            <string>Kara</string>
+            <string>Laptev</string>
+            <string>Okhotsk</string>
+            <string>Pechora</string>
+            <string>Shantar</string>
+            <string>White Sea</string>
           </Values>
         </NameGroup>
       </Seas>
@@ -286,7 +376,50 @@
         <NameGroup>
           <Name>Scientists - Russian</Name>
           <Values>
+            <string>Alferov</string>
+            <string>Basov</string>
+            <string>Botkin</string>
+            <string>Butlerov</string>
+            <string>Chebyshev</string>
+            <string>Cherenkov</string>
+            <string>Fyodorov</string>
+            <string>Geim</string>
+            <string>Holevo</string>
+            <string>Kantorovich</string>
+            <string>Kapitsa</string>
+            <string>Kaspersky</string>
+            <string>Korolev</string>
+            <string>Kovalevskaya</string>
+            <string>Krasnopolsky</string>
+            <string>Kurchatov</string>
+            <string>Landau</string>
+            <string>Lobachevsky</string>
+            <string>Lomonosov</string>
+            <string>Lukin</string>
+            <string>Mendeleev</string>
+            <string>Metchnikoff</string>
+            <string>Mil</string>
+            <string>Mozhaysky</string>
+            <string>Novoselov</string>
+            <string>Oganesyan</string>
+            <string>Oganov</string>
+            <string>Pavlov</string>
+            <string>Perelman</string>
+            <string>Pirogov</string>
+            <string>Popov</string>
+            <string>Prokhorov</string>
+            <string>Sakharov</string>
+            <string>Semyonov</string>
+            <string>Semyonov</string>
+            <string>Starobinsky</string>
+            <string>Stoletov</string>
+            <string>Sunyaev</string>
+            <string>Svergun</string>
             <string>Tsiolkovsky</string>
+            <string>Tupolev</string>
+            <string>Vavilov</string>
+            <string>Zhukovsky</string>
+            <string>Zworykin</string>
           </Values>
         </NameGroup>
         <NameGroup>
