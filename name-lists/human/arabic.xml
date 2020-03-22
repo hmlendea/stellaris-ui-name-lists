@@ -305,6 +305,12 @@
             <string>Zekra</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Divine Ascension</Name>
+          <Values>
+            <string>Karbala</string>
+          </Values>
+        </NameGroup>
       </Generic>
       <Desert>
         <NameGroup>

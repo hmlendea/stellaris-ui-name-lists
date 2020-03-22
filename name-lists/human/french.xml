@@ -87,6 +87,14 @@
       </Cities>
     </Places>
     <GreatPeople>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists - French</Name>
+          <Values>
+            <string>Becquerel</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
       <LeadersTier2>
         <NameGroup>
           <Name>Leaders</Name>
@@ -247,6 +255,12 @@
           <Name>Pandora: First Contact - Terra Salvum</Name>
           <Values>
             <string>Hutchinson</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Togra University</Name>
+          <Values>
+            <string>Becquerel</string>
           </Values>
         </NameGroup>
         <NameGroup>

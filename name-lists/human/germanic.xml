@@ -218,7 +218,10 @@
           <Name>Scientists - German</Name>
           <Values>
             <string>Einstein</string>
+            <string>Haeckel</string>
+            <string>Heisenberg</string>
             <string>Kepler</string>
+            <string>Konrad Zuse</string>
             <string>Planck</string>
             <string>Schimper</string>
             <string>Von Braun</string>
@@ -528,6 +531,7 @@
         <NameGroup>
           <Name>Pandora: First Contact - Terra Salvum</Name>
           <Values>
+            <string>Haeckel</string>
             <string>Schimper</string>
           </Values>
         </NameGroup>
@@ -705,6 +709,12 @@
         </NameGroup>
       </Arctic>
       <Tomb>
+        <NameGroup>
+          <Name>Pandora: First Contact - Togra University</Name>
+          <Values>
+            <string>Heisenberg</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Words</Name>
           <Values>

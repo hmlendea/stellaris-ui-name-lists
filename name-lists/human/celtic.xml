@@ -33,6 +33,7 @@
           <Values>
             <string>Belfast</string>
             <string>Cork</string>
+            <string>Drogheda</string>
             <string>Dublin</string>
           </Values>
         </NameGroup>
@@ -40,6 +41,7 @@
           <Name>Cities - Ireland - Irish names</Name>
           <Values>
             <string>Corcaigh</string>
+            <string>Droichead Átha</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -160,6 +162,12 @@
             <string>Dunkyle</string>
             <string>Sàmchair</string>
             <string>Sìorraidh</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Noxium Corporation</Name>
+          <Values>
+            <string>Drogheda</string>
           </Values>
         </NameGroup>
       </Generic>

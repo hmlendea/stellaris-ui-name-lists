@@ -253,6 +253,15 @@
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle Locations</Name>
+          <Values>
+            <string>Cannae</string>
+            <string>Mylae</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
     </Warfare>
     <MythologicalCreatures>
       <NameGroup>
@@ -370,16 +379,16 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Pandora: First Contact - Imperium</Name>
-          <Values>
-            <string>Mylae</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Pandora: First Contact - Noxium Corporation</Name>
           <Values>
             <string>Argentarius</string>
             <string>Denebola</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Togra University</Name>
+          <Values>
+            <string>Seginus</string>
           </Values>
         </NameGroup>
       </Generic>

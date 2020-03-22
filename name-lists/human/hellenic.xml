@@ -168,6 +168,7 @@
           <string>Chimera</string>
           <string>Cyclope</string>
           <string>Cyclops</string>
+          <string>Cynosura</string>
           <string>Griffin</string>
           <string>Gryphon</string>
           <string>Harpy</string>
@@ -238,7 +239,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Settlements - Pandora: First Contact - Terra Salvum</Name>
+          <Name>Pandora: First Contact - Terra Salvum</Name>
           <Values>
             <string>Aristotle</string>
           </Values>
@@ -272,6 +273,12 @@
         </NameGroup>
       </Continental>
       <Gaia>
+        <NameGroup>
+          <Name>Pandora: First Contact - Divine Ascension</Name>
+          <Values>
+            <string>Cynosura</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Mythology - Places</Name>
           <Values>

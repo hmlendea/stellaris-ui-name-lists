@@ -413,6 +413,14 @@
           </Values>
         </NameGroup>
       </Gaia>
+      <Gaia>
+        <NameGroup>
+          <Name>Pandora: First Contact - Terra Salvum</Name>
+          <Values>
+            <string>Galapagos</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
     </Planets>
     <Characters>
       <CharacterNames>

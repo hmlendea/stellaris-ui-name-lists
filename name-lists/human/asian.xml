@@ -404,6 +404,12 @@
       </GeneralsTier2>
       <GeneralsTier3>
         <NameGroup>
+          <Name>Generals - Chinese</Name>
+          <Values>
+            <string>Han Xin</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Generals - Japanese</Name>
           <Values>
             <string>Akira</string>
@@ -583,6 +589,7 @@
         <NameGroup>
           <Name>Pandora: First Contact - Solar Dynasty - Chinese</Name>
           <Values>
+            <string>Han Xin</string>
             <string>Ji Gong</string>
             <string>Mao</string>
           </Values>

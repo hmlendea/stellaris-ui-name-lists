@@ -138,6 +138,15 @@
       </Generic>
     </ShipClasses>
     <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Pandora: First Contact - Noxium Corporation</Name>
+          <Values>
+            <string>Bardi</string>
+            <string>Medici</string>
+          </Values>
+        </NameGroup>
+      </Generic>
       <Ocean>
         <NameGroup>
           <Name>Places</Name>

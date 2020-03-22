@@ -532,6 +532,7 @@
         <NameGroup>
           <Name>Battle locations - United States</Name>
           <Values>
+            <string>Antietam</string>
             <string>Chickamagua</string>
             <string>Lexington</string>
           </Values>
@@ -619,10 +620,15 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Pandora: First Contact - Imperium</Name>
+          <Name>Pandora: First Contact - Imperium - English</Name>
           <Values>
-            <string>Antietam</string>
             <string>Cromwell</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Noxium Corporation</Name>
+          <Values>
+            <string>Smith</string>
           </Values>
         </NameGroup>
         <NameGroup>

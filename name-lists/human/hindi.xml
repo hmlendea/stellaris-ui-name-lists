@@ -102,6 +102,7 @@
             <string>Surat</string>
             <string>Thane</string>
             <string>Vadodara</string>
+            <string>Varanasi</string>
             <string>Visakhapatnam</string>
           </Values>
         </NameGroup>
@@ -162,6 +163,14 @@
       </Deserts>
     </Places>
     <GreatPeople>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists - Indian</Name>
+          <Values>
+            <string>Chandrasekhar</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
       <Heroes>
         <NameGroup>
           <Name>Heroes - Nepali</Name>
@@ -272,6 +281,18 @@
             <string>Saira</string>
             <string>Shan</string>
             <string>Zafar</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Settlements - Pandora: First Contact - Divine Ascension</Name>
+          <Values>
+            <string>Varanasi</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Togra University</Name>
+          <Values>
+            <string>Chandrasekhar</string>
           </Values>
         </NameGroup>
       </Generic>

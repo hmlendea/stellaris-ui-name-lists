@@ -228,10 +228,9 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Settlements - Pandora: First Contact - Divine Ascension</Name>
+          <Name>Settlements - Pandora: First Contact - Imperium</Name>
           <Values>
-            <string>Karbala</string>
-            <string>Varanasi</string>
+            <string>Needle</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -239,14 +238,21 @@
           <Values>
             <string>Gross</string>
             <string>Law</string>
-            <string>Medici</string>
             <string>Merill</string>
             <string>Sheratan</string>
+            <string>Zaniah</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Settlements - Pandora: First Contact - Terra Salvum</Name>
+          <Values>
+            <string>Haven</string>
           </Values>
         </NameGroup>
         <NameGroup>
           <Name>Settlements - Pandora: First Contact - Togra University</Name>
           <Values>
+            <string>Alkaid</string>
             <string>Galileo</string>
             <string>Landau</string>
             <string>Synge</string>
