@@ -411,6 +411,14 @@
           </Values>
         </NameGroup>
       </GeneralsTier3>
+      <Deities>
+        <NameGroup>
+          <Name>Deities - Chinese</Name>
+          <Values>
+            <string>Ji Gong</string>
+          </Values>
+        </NameGroup>
+      </Deities>
     </GreatPeople>
     <Warfare>
       <Weapons>

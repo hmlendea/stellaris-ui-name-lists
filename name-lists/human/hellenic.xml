@@ -112,6 +112,14 @@
           </Values>
         </NameGroup>
       </FlyingAces>
+      <LabourDeities>
+        <NameGroup>
+          <Name>Labour Deities - Greek</Name>
+          <Values>
+            <string>Hephaestus</string>
+          </Values>
+        </NameGroup>
+      </LabourDeities>
     </GreatPeople>
     <Warfare>
       <Weapons>
@@ -309,9 +317,8 @@
       </Alpine>
       <Molten>
         <NameGroup>
-          <Name>Mythology - Deities</Name>
+          <Name></Name>
           <Values>
-            <string>Hephaestus</string>
           </Values>
         </NameGroup>
       </Molten>

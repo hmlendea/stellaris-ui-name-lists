@@ -170,6 +170,23 @@
           </Values>
         </NameGroup>
       </Heroes>
+      <Deities>
+        <NameGroup>
+          <Name>Deities - Indian</Name>
+          <Values>
+            <string>Dakshin Rai</string>
+          </Values>
+        </NameGroup>
+      </Deities>
+      <LabourDeities>
+        <NameGroup>
+          <Name>Labour Deities - Indian</Name>
+          <Values>
+            <string>Tvastar</string>
+            <string>Vishvakarman</string>
+          </Values>
+        </NameGroup>
+      </LabourDeities>
     </GreatPeople>
     <Companies>
       <AircraftManufacturers>
@@ -216,25 +233,6 @@
         </Values>
       </NameGroup>
     </MythologicalCreatures>
-    <Ships>
-      <Corvette>
-        <NameGroup>
-          <Name>Mythology - Deities</Name>
-          <Values>
-            <string>Dakshin Rai</string>
-          </Values>
-        </NameGroup>
-      </Corvette>
-      <Constructor>
-        <NameGroup>
-          <Name>Gods - India</Name>
-          <Values>
-            <string>Tvastar</string>
-            <string>Vishvakarman</string>
-          </Values>
-        </NameGroup>
-      </Constructor>
-    </Ships>
     <Planets>
       <Generic>
         <NameGroup>
