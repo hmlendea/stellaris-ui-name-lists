@@ -116,7 +116,7 @@
           <Name>Leaders</Name>
           <Values>
             <string>Charlemagne</string>
-            <string>De Gaulle</string>
+            <string>Louis XIV</string>
             <string>Napoleon</string>
           </Values>
         </NameGroup>
@@ -144,6 +144,7 @@
             <string>Jeanne Fourquet</string>
             <string>Jeanne Hachette</string>
             <string>Jeanne Laisné</string>
+            <string>Joan d'Arc</string>
           </Values>
         </NameGroup>
       </Heroes>
@@ -165,6 +166,14 @@
           </Values>
         </NameGroup>
       </GeneralsTier2>
+      <GeneralsTier3>
+        <NameGroup>
+          <Name>Generals</Name>
+          <Values>
+            <string>De Gaulle</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier3>
     </GreatPeople>
     <Companies>
       <AircraftManufacturers>
@@ -203,6 +212,7 @@
           <Values>
             <string>Arbalester</string>
             <string>Gendarme</string>
+            <string>Musketeer</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>

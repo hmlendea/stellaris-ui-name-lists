@@ -301,6 +301,7 @@
           <Name>Leaders - Spanish</Name>
           <Values>
             <string>Pelayo</string>
+            <string>Philip II</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -315,6 +316,12 @@
           <Name>Leaders - Cuban</Name>
           <Values>
             <string>Castro</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Spanish</Name>
+          <Values>
+            <string>Isabella</string>
           </Values>
         </NameGroup>
       </LeadersTier3>

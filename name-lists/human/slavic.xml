@@ -435,12 +435,29 @@
           </Values>
         </NameGroup>
       </Scientists>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders - Polish</Name>
+          <Values>
+            <string>Jadwiga</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders - Russian</Name>
+          <Values>
+            <string>Peter the Great</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
       <LeadersTier3>
         <NameGroup>
           <Name>Leaders - Russian</Name>
           <Values>
             <string>Alexander Nevsky</string>
             <string>Catherine the Great</string>
+            <string>Stalin</string>
           </Values>
         </NameGroup>
       </LeadersTier3>
@@ -529,6 +546,12 @@
     </Companies>
     <Warfare>
       <Weapons>
+        <NameGroup>
+          <Name>Artillery - Russian</Name>
+          <Values>
+            <string>Katyusha</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Guns - Russian</Name>
           <Values>

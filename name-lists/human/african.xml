@@ -510,20 +510,39 @@
     <GreatPeople>
       <LeadersTier1>
         <NameGroup>
+          <Name>Leaders - Congo</Name>
+          <Values>
+            <string>Mvemba a Nzinga</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Leaders - Zulu</Name>
           <Values>
             <string>Shaka Zulu</string>
           </Values>
         </NameGroup>
       </LeadersTier1>
-      <LeadersTier3>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders - Ethiopia</Name>
+          <Values>
+            <string>Haile Selassie</string>
+            <string>Zara Yaqob</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Mali</Name>
+          <Values>
+            <string>Mansa Musa</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Leaders - Tunisian</Name>
           <Values>
             <string>Dido</string>
           </Values>
         </NameGroup>
-      </LeadersTier3>
+      </LeadersTier2>
       <GeneralsTier3>
         <NameGroup>
           <Name>Generals - Tunisian</Name>
@@ -538,21 +557,39 @@
         <NameGroup>
           <Name>Swords - Kabyle</Name>
           <Values>
-              <string>Flyssa</string>
+            <string>Flyssa</string>
           </Values>
         </NameGroup>
         <NameGroup>
           <Name>Swords - Sudan, Chad, Eritrea</Name>
           <Values>
-              <string>Kaskara</string>
+            <string>Kaskara</string>
           </Values>
         </NameGroup>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
+          <Name>Military Unit Types - Congolese</Name>
+          <Values>
+            <string>Ngao Mbeba</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Ethiopian</Name>
+          <Values>
+            <string>Mehal Sefari</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Mali</Name>
+          <Values>
+            <string>Mandekalu</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Military Unit Types - Zulu</Name>
           <Values>
-              <string>Impi</string>
+            <string>Impi</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>

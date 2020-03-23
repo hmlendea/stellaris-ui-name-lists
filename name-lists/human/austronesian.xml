@@ -420,22 +420,29 @@
       </Seas>
     </Places>
     <GreatPeople>
-      <LeadersTier2>
+      <LeadersTier1>
         <NameGroup>
           <Name>Leaders - Indonesia</Name>
           <Values>
             <string>Gajah Mada</string>
+            <string>Gitarja</string>
           </Values>
         </NameGroup>
-      </LeadersTier2>
-      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders - Polynesia</Name>
+          <Values>
+            <string>Kupe</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+      <LeadersTier2>
         <NameGroup>
           <Name>Leaders - Hawaii</Name>
           <Values>
             <string>Kamehameha</string>
           </Values>
         </NameGroup>
-      </LeadersTier3>
+      </LeadersTier2>
     </GreatPeople>
     <Warfare>
       <Weapons>
@@ -458,6 +465,20 @@
           </Values>
         </NameGroup>
       </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types - Indonesian</Name>
+          <Values>
+            <string>Jong</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Maori</Name>
+          <Values>
+            <string>Toa</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
     </Warfare>
     <Planets>
       <Generic>

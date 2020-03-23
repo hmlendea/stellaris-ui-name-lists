@@ -278,11 +278,61 @@
           </Values>
         </NameGroup>
       </Scientists>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders - Austrian</Name>
+          <Values>
+            <string>Charles V</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Dutch</Name>
+          <Values>
+            <string>Wilhelmina</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Sweden</Name>
+          <Values>
+            <string>Kristina</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Visigoth</Name>
+          <Values>
+            <string>Alaric</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
       <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders - Austrian</Name>
+          <Values>
+            <string>Maria Theresa</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Danish</Name>
+          <Values>
+            <string>Harald Bluetooth</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Dutch</Name>
+          <Values>
+            <string>Willem van Oranje</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Leaders - German</Name>
           <Values>
             <string>Frederick the Great</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Norwegian</Name>
+          <Values>
+            <string>Harald Hardrada</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -294,15 +344,16 @@
       </LeadersTier2>
       <LeadersTier3>
         <NameGroup>
-          <Name>Leaders - Danish</Name>
+          <Name>Leaders - German</Name>
           <Values>
-            <string>Harald Bluetooth</string>
+            <string>Barbarossa</string>
+            <string>Bismarck</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Leaders - German</Name>
+          <Name>Leaders - Norwegian</Name>
           <Values>
-            <string>Bismarck</string>
+            <string>Ragnar</string>
           </Values>
         </NameGroup>
       </LeadersTier3>
@@ -442,10 +493,16 @@
           <Name>Military Unit Types</Name>
           <Values>
             <string>Berserker</string>
-            <string>Landsknechte</string>
-            <string>Panzer</string>
             <string>Templar</string>
             <string>Viking</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - German</Name>
+          <Values>
+            <string>Landsknechte</string>
+            <string>Panzer</string>
+            <string>Volksgrenadier</string>
           </Values>
         </NameGroup>
         <NameGroup>

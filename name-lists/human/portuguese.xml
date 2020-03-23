@@ -58,6 +58,20 @@
       </Rivers>
     </Places>
     <GreatPeople>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders - Brazil</Name>
+          <Values>
+            <string>Pedro II</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Portuguese</Name>
+          <Values>
+            <string>João II</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
       <Explorers>
         <NameGroup>
           <Name>Explorers</Name>
@@ -87,6 +101,7 @@
           <Name>Military Unit Types - Portuguese</Name>
           <Values>
             <string>Caravel</string>
+            <string>Carrack</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>

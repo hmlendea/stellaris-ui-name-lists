@@ -42,6 +42,33 @@
         </NameGroup>
       </Seas>
     </Places>
+    <GreatPeople>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders - Turk</Name>
+          <Values>
+            <string>Osman</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders - Turk</Name>
+          <Values>
+            <string>Atatürk</string>
+            <string>Mehmed II</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders - Turk</Name>
+          <Values>
+            <string>Suleiman</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
+    </GreatPeople>
     <Warfare>
       <Weapons>
         <NameGroup>

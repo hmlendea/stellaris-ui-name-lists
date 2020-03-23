@@ -294,6 +294,14 @@
           </Values>
         </NameGroup>
       </Scientists>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders - Canadian</Name>
+          <Values>
+            <string>Wilfrid Laurier</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
       <LeadersTier2>
         <NameGroup>
           <Name>Leaders - American</Name>
@@ -535,6 +543,13 @@
           <Values>
             <string>Highlander</string>
             <string>Longbowman</string>
+            <string>Redcoat</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Canadian</Name>
+          <Values>
+            <string>Mountie</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>

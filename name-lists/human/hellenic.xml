@@ -96,6 +96,23 @@
           </Values>
         </NameGroup>
       </Scientists>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Gorgo</string>
+            <string>Pericles</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Theodora</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
       <LeadersTier3>
         <NameGroup>
           <Name>Leaders</Name>
@@ -112,6 +129,14 @@
           </Values>
         </NameGroup>
       </FlyingAces>
+      <Admirals>
+        <NameGroup>
+          <Name>Admirals</Name>
+          <Values>
+            <string>Lysander</string>
+          </Values>
+        </NameGroup>
+      </Admirals>
       <LabourDeities>
         <NameGroup>
           <Name>Labour Deities - Greek</Name>
@@ -143,8 +168,10 @@
           <Values>
             <string>Cataphract</string>
             <string>Hoplite</string>
+            <string>Hypaspist</string>
             <string>Myrmidon</string>
             <string>Phalanx</string>
+            <string>Stratioti</string>
             <string>Varangian</string>
           </Values>
         </NameGroup>

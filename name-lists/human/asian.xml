@@ -317,12 +317,46 @@
           </Values>
         </NameGroup>
       </Scientists>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders - Chinese</Name>
+          <Values>
+            <string>Taizong</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Japanese</Name>
+          <Values>
+            <string>Hojo Tokimune</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Korean</Name>
+          <Values>
+            <string>Sejong</string>
+            <string>Seondeok</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Mongol</Name>
+          <Values>
+            <string>Kublai Khan</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
       <LeadersTier2>
         <NameGroup>
           <Name>Leaders - Chinese</Name>
           <Values>
             <string>Changping</string>
+            <string>Chiang Kai-shek</string>
             <string>Xiaoping</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Korean</Name>
+          <Values>
+            <string>Wang Kǒn</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -336,7 +370,8 @@
         <NameGroup>
           <Name>Leaders - Chinese</Name>
           <Values>
-            <string>Chiang Kai-shek</string>
+            <string>Mao Zedong</string>
+            <string>Qin Shi Huang</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -469,6 +504,12 @@
     <Warfare>
       <Weapons>
         <NameGroup>
+          <Name>Artillery - Korean</Name>
+          <Values>
+            <string>Hwach'a</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Swords - Chinese</Name>
           <Values>
             <string>Changdao</string>
@@ -506,25 +547,27 @@
             <string>Chu-ko-nu</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Weapons - Korean</Name>
-          <Values>
-            <string>Hwach'a</string>
-          </Values>
-        </NameGroup>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
           <Name>Military Unit Types - Japanese</Name>
           <Values>
+            <string>Ashigaru</string>
+            <string>Bushi</string>
             <string>Ronin</string>
             <string>Samurai</string>
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Military Unit Types - Korean</Name>
+          <Values>
+            <string>Hwarang</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Military Unit Types - Mongol</Name>
           <Values>
-            <string>Keshik</string>
+            <string>Keshig</string>
             <string>Mangudai</string>
           </Values>
         </NameGroup>

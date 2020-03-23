@@ -177,6 +177,23 @@
           </Values>
         </NameGroup>
       </Scientists>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders - Indian</Name>
+          <Values>
+            <string>Ashoka</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders - Indian</Name>
+          <Values>
+            <string>Chandragupta</string>
+            <string>Gandhi</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
       <Heroes>
         <NameGroup>
           <Name>Heroes - Nepali</Name>
@@ -231,6 +248,12 @@
         </NameGroup>
       </Weapons>
       <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types - Indian</Name>
+          <Values>
+            <string>Varu</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Military Unit Types - Nepali</Name>
           <Values>

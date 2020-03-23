@@ -72,6 +72,16 @@
         </NameGroup>
       </Lakes>
     </Places>
+    <GreatPeople>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Matthias Corvinus</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+    </GreatPeople>
     <Armies>
       <Fleet>
         <NameGroup>

@@ -63,6 +63,15 @@
           </Values>
         </NameGroup>
       </Scientists>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders - Persian</Name>
+          <Values>
+            <string>Cyrus</string>
+            <string>Darius</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
       <LeadersTier3>
         <NameGroup>
           <Name>Leaders - Persian</Name>
@@ -80,5 +89,15 @@
         </NameGroup>
       </Heroes>
     </GreatPeople>
+    <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types - Persian</Name>
+          <Values>
+            <string>Immortal</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
   </NameList>
 </ArrayOfNameList>

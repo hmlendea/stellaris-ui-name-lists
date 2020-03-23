@@ -211,8 +211,22 @@
           </Values>
         </NameGroup>
       </LeadersTier1>
-    </GreatPeople>
-    <Warfare>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders - Arabian</Name>
+          <Values>
+            <string>Abu Bakr</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Saladin</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
       <GeneralsTier2>
         <NameGroup>
           <Name>Generals - Arabian</Name>
@@ -221,6 +235,17 @@
           </Values>
         </NameGroup>
       </GeneralsTier2>
+    </GreatPeople>
+    <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types</Name>
+          <Values>
+            <string>Anṣâr</string>
+            <string>Mamluk</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
     </Warfare>
     <Ships>
       <Generic />
