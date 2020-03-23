@@ -506,6 +506,12 @@
             <string>Chu-ko-nu</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Weapons - Korean</Name>
+          <Values>
+            <string>Hwach'a</string>
+          </Values>
+        </NameGroup>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
@@ -518,6 +524,7 @@
         <NameGroup>
           <Name>Military Unit Types - Mongol</Name>
           <Values>
+            <string>Keshik</string>
             <string>Mangudai</string>
           </Values>
         </NameGroup>

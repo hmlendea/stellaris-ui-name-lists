@@ -8,9 +8,12 @@
         <Name>Denonyms</Name>
         <Values>
           <string>Filipino</string>
+          <string>Hawaiian</string>
           <string>Indonesian</string>
           <string>Javanese</string>
+          <string>Kiribatian</string>
           <string>Malay</string>
+          <string>Polynesian</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -19,9 +22,12 @@
         <NameGroup>
           <Name>Countries</Name>
           <Values>
+            <string>Hawaii</string>
             <string>Indonesia</string>
+            <string>Kiribati</string>
             <string>Malaysia</string>
             <string>Philippines</string>
+            <string>Polynesia</string>
           </Values>
         </NameGroup>
       </Countries>
@@ -32,27 +38,370 @@
             <string>Micronesia</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Regions - Hawaii</Name>
+          <Values>
+            <string>Hawaiʻi</string>
+            <string>Kahoʻolawe</string>
+            <string>Kauaʻi</string>
+            <string>Lānaʻi</string>
+            <string>Maui</string>
+            <string>Molokaʻi</string>
+            <string>Niʻihau</string>
+            <string>Oʻahu</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Indonesia</Name>
+          <Values>
+            <string>Java</string>
+            <string>Kalimantan</string>
+            <string>Maluku</string>
+            <string>New Guinea</string>
+            <string>Sulawesi</string>
+            <string>Sumatra</string>
+            <string>Sunda</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Kiribati</Name>
+          <Values>
+            <string>Banaba</string>
+            <string>Gilbert</string>
+            <string>Line</string>
+            <string>Tarawa</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Malaysia</Name>
+          <Values>
+            <string>Johor Darul Ta'zim</string>
+            <string>Kedah Darul Aman</string>
+            <string>Kelantan Darul Naim</string>
+            <string>Kuala Lumpur</string>
+            <string>Labuan</string>
+            <string>Malacca</string>
+            <string>Negeri Sembilan Darul Khusus</string>
+            <string>Pahang Darul Makmur</string>
+            <string>Penang</string>
+            <string>Perak Darul Ridzuan</string>
+            <string>Perlis Indera Kayangan</string>
+            <string>Putrajaya</string>
+            <string>Sabah</string>
+            <string>Sarawak</string>
+            <string>Selangor Darul Ehsan</string>
+            <string>Terengganu Darul Iman</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Philippines</Name>
+          <Values>
+            <string>Bangsamoro</string>
+            <string>Bicol</string>
+            <string>Cagayan</string>
+            <string>Calabarzon</string>
+            <string>Caraga</string>
+            <string>Cordillera</string>
+            <string>Davao</string>
+            <string>Ilocos</string>
+            <string>Luzon</string>
+            <string>Mindanao</string>
+            <string>Soccsksargen</string>
+            <string>Tagalog</string>
+            <string>Visayas</string>
+            <string>Zamboanga</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Polynesia</Name>
+          <Values>
+            <string>Bora Bora</string>
+            <string>Fakarava</string>
+            <string>Gambier</string>
+            <string>Hiva Oa</string>
+            <string>Huahine</string>
+            <string>ʻUa Huta</string>
+            <string>Mangareva</string>
+            <string>Manihi</string>
+            <string>Maupiti</string>
+            <string>Mehetiʻa</string>
+            <string>Moorea</string>
+            <string>Mururoa</string>
+            <string>Nuku Hiva</string>
+            <string>Raiatea</string>
+            <string>Raivavae</string>
+            <string>Rangiroa</string>
+            <string>Rurutu</string>
+            <string>Tahaa</string>
+            <string>Tahiti</string>
+            <string>Tahuata</string>
+            <string>Tetiaroa</string>
+            <string>Tūpai</string>
+          </Values>
+        </NameGroup>
       </Regions>
       <Cities>
         <NameGroup>
+          <Name>Cities - Hawaii</Name>
+          <Values>
+            <string>Ahuimanu</string>
+            <string>Aiea</string>
+            <string>Ainaloa</string>
+            <string>Ewa</string>
+            <string>Haiku-Pauwela</string>
+            <string>Halawa</string>
+            <string>Haleiwa</string>
+            <string>Hanamaulu</string>
+            <string>Hauula</string>
+            <string>Heeia</string>
+            <string>Hilo</string>
+            <string>Holualoa</string>
+            <string>Honolulu</string>
+            <string>Kahaluu-Keauhou</string>
+            <string>Kahaluu</string>
+            <string>Kahului</string>
+            <string>Kailua</string>
+            <string>Kailua</string>
+            <string>Kalaheo</string>
+            <string>Kalaoa</string>
+            <string>Kaneohe</string>
+            <string>Kaneohe</string>
+            <string>Kapaa</string>
+            <string>Kaunakakai</string>
+            <string>Kekaha</string>
+            <string>Kilauea</string>
+            <string>Kula</string>
+            <string>Kunia</string>
+            <string>Lahaina</string>
+            <string>Laie</string>
+            <string>Lanai</string>
+            <string>Lihue</string>
+            <string>Maili</string>
+            <string>Makaha</string>
+            <string>Makawao</string>
+            <string>Mililani</string>
+            <string>Nanakuli</string>
+            <string>Napili-Honokowai</string>
+            <string>Puhi</string>
+            <string>Pukalani</string>
+            <string>Pupukea</string>
+            <string>Waialua</string>
+            <string>Waianae</string>
+            <string>Waihee-Waiehu</string>
+            <string>Waikapu</string>
+            <string>Waikele</string>
+            <string>Waikoloa</string>
+            <string>Wailea</string>
+            <string>Wailua</string>
+            <string>Waimalu</string>
+            <string>Waimanalo</string>
+            <string>Waimanalo</string>
+            <string>Waimea</string>
+            <string>Waipahu</string>
+            <string>Waipio</string>
+            <string>Waipio</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - Indonesia</Name>
           <Values>
+            <string>Balikpapan</string>
+            <string>Bandar Lampung</string>
+            <string>Bandung</string>
+            <string>Banjarmasin</string>
+            <string>Batam</string>
+            <string>Bekasi</string>
+            <string>Bogor</string>
+            <string>Cimahi</string>
+            <string>Denpasar</string>
+            <string>Depok</string>
             <string>Jakarta</string>
+            <string>Jambi</string>
+            <string>Jayapura</string>
+            <string>Kupang</string>
+            <string>Makassar</string>
+            <string>Malang</string>
+            <string>Manado</string>
+            <string>Medan</string>
+            <string>Padang</string>
+            <string>Palembang</string>
+            <string>Pekanbaru</string>
+            <string>Pontianak</string>
+            <string>Samarinda</string>
+            <string>Semarang</string>
+            <string>Serang</string>
+            <string>Surabaya</string>
+            <string>Surakarta</string>
+            <string>Tangerang</string>
+            <string>Tasikmalaya</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Kiribati</Name>
+          <Values>
+            <string>Abaokoro</string>
+            <string>Abarao</string>
+            <string>Aiaki</string>
+            <string>Ambo</string>
+            <string>Antai</string>
+            <string>Bairiki</string>
+            <string>Banana</string>
+            <string>Betio</string>
+            <string>Bikenibeu</string>
+            <string>Bonriki</string>
+            <string>Bubutei</string>
+            <string>Buota</string>
+            <string>Eita</string>
+            <string>Makin</string>
+            <string>Rawannawi</string>
+            <string>Roreti</string>
+            <string>Rungata</string>
+            <string>Tabiauea</string>
+            <string>Taborio</string>
+            <string>Tabukiniberu</string>
+            <string>Taburao</string>
+            <string>Tabwakea</string>
+            <string>Taubukinmeang</string>
+            <string>Teaoraereke</string>
+            <string>Tebikerei</string>
+            <string>Temaraia</string>
+            <string>Temwaiku</string>
+            <string>Tuarabu</string>
+            <string>Ukiangang</string>
+            <string>Utiroa</string>
           </Values>
         </NameGroup>
         <NameGroup>
           <Name>Cities - Malaysia</Name>
           <Values>
+            <string>Alor Setar</string>
+            <string>Ipoh</string>
+            <string>Johor Bahru</string>
+            <string>Kangar</string>
+            <string>Kota Bharu</string>
+            <string>Kota Kinabalu</string>
             <string>Kuala Lumpur</string>
+            <string>Kuala Terengganu</string>
+            <string>Kuantan</string>
+            <string>Kuching</string>
+            <string>Malacca</string>
+            <string>Putrajaya</string>
+            <string>Seremban</string>
+            <string>Shah Alam</string>
+            <string>Victoria</string>
           </Values>
         </NameGroup>
         <NameGroup>
           <Name>Cities - Philippines</Name>
           <Values>
+            <string>Antipolo</string>
+            <string>Bacolod</string>
+            <string>Baguio</string>
+            <string>Butuan</string>
+            <string>Calamba</string>
+            <string>Caloocan</string>
+            <string>Cebu</string>
+            <string>Davao</string>
+            <string>Iligan</string>
+            <string>Iloilo</string>
+            <string>Imus</string>
+            <string>Lapu‑Lapu</string>
+            <string>Lipa</string>
+            <string>Makati</string>
+            <string>Malabon</string>
+            <string>Mandaluyong</string>
+            <string>Mandaue</string>
             <string>Manila</string>
+            <string>Marikina</string>
+            <string>Muntinlupa</string>
+            <string>Parañaque</string>
+            <string>Pasay</string>
+            <string>Pasig</string>
+            <string>Quezon</string>
+            <string>Taguig</string>
+            <string>Tarlac</string>
+            <string>Zamboanga</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Polynesia</Name>
+          <Values>
+            <string>Arue</string>
+            <string>Faaʻa</string>
+            <string>Mahina</string>
+            <string>Moorea-Maiao</string>
+            <string>Paea</string>
+            <string>Papara</string>
+            <string>Papeete</string>
+            <string>Pirae</string>
+            <string>Punaauia</string>
+            <string>Taiarapu-Est</string>
           </Values>
         </NameGroup>
       </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains - Indonesia</Name>
+          <Values>
+            <string>Amasing</string>
+            <string>Awu</string>
+            <string>Batutara</string>
+            <string>Bibinoi</string>
+            <string>Binaiya</string>
+            <string>Colo</string>
+            <string>Dukono</string>
+            <string>Gamalama</string>
+            <string>Gamkonora</string>
+            <string>Hiri</string>
+            <string>Hulubelu</string>
+            <string>Ibu</string>
+            <string>Ilas Bungaan</string>
+            <string>Ililabalekan</string>
+            <string>Ilimuda</string>
+            <string>Iliwerung</string>
+            <string>Imun</string>
+            <string>Kapalatmada</string>
+            <string>Karangetang</string>
+            <string>Krakatoa</string>
+            <string>Lawit</string>
+            <string>Lewotolo</string>
+            <string>Mare</string>
+            <string>Merbuk</string>
+            <string>Moti</string>
+            <string>Mutis</string>
+            <string>Ndete Napu</string>
+            <string>Ngga Pilimsit</string>
+            <string>Ngga Pulu</string>
+            <string>Nokilalaki</string>
+            <string>Paluweh</string>
+            <string>Plawangan</string>
+            <string>Poco Leok</string>
+            <string>Pueh</string>
+            <string>Ribu</string>
+            <string>Rinjani</string>
+            <string>Ruang</string>
+            <string>Sahendaruman</string>
+            <string>Sangeang Api</string>
+            <string>Sirung</string>
+            <string>Sukaria</string>
+            <string>Tambora</string>
+            <string>Tarakan</string>
+            <string>Tigalalu</string>
+            <string>Todoko-Ranu</string>
+            <string>Turgo</string>
+            <string>Wayang-Windu</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mountains - Malaysia</Name>
+          <Values>
+            <string>Bintang</string>
+            <string>Tahan</string>
+            <string>Titiwangsa</string>
+            <string>Trusmadi</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
       <Seas>
         <NameGroup>
           <Name>Seas</Name>
@@ -60,8 +409,56 @@
             <string>Java</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Seas - Malaysia</Name>
+          <Values>
+            <string>Andaman</string>
+            <string>Celebes</string>
+            <string>Sulu</string>
+          </Values>
+        </NameGroup>
       </Seas>
     </Places>
+    <GreatPeople>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders - Indonesia</Name>
+          <Values>
+            <string>Gajah Mada</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders - Hawaii</Name>
+          <Values>
+            <string>Kamehameha</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
+    </GreatPeople>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Blades - Indonesian</Name>
+          <Values>
+            <string>Golok</string>
+            <string>Jimpul</string>
+            <string>Klewang</string>
+            <string>Langgai Tinggang</string>
+            <string>Niabor</string>
+            <string>Pandat</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Daggers - Indonesian</Name>
+          <Values>
+            <string>Kris</string>
+            <string>Mandau</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+    </Warfare>
     <Planets>
       <Generic>
         <NameGroup>
@@ -115,6 +512,18 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Continental>
+        <NameGroup>
+          <Name>Maori native names for other places</Name>
+          <Values>
+            <string>Aotearoa</string>
+            <string>Rapa Nui</string>
+            <string>Rekohu</string>
+            <string>Te Wai Pounamu</string>
+            <string>Uvea</string>
+          </Values>
+        </NameGroup>
+      </Continental>
     </Planets>
     <Characters>
       <CharacterNames>

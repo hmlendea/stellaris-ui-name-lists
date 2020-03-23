@@ -294,6 +294,12 @@
       </LeadersTier2>
       <LeadersTier3>
         <NameGroup>
+          <Name>Leaders - Danish</Name>
+          <Values>
+            <string>Harald Bluetooth</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Leaders - German</Name>
           <Values>
             <string>Bismarck</string>
@@ -440,6 +446,12 @@
             <string>Panzer</string>
             <string>Templar</string>
             <string>Viking</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Swedish</Name>
+          <Values>
+            <string>Carolean</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>

@@ -78,6 +78,12 @@
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
+          <Name>Military Unit Types - Brazilian</Name>
+          <Values>
+            <string>Pracinha</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Military Unit Types - Portuguese</Name>
           <Values>
             <string>Caravel</string>

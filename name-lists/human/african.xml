@@ -516,6 +516,14 @@
           </Values>
         </NameGroup>
       </LeadersTier1>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders - Tunisian</Name>
+          <Values>
+            <string>Dido</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
       <GeneralsTier3>
         <NameGroup>
           <Name>Generals - Tunisian</Name>
@@ -540,6 +548,14 @@
           </Values>
         </NameGroup>
       </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types - Zulu</Name>
+          <Values>
+              <string>Impi</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
     </Warfare>
     <Ships>
       <Corvette>
@@ -582,7 +598,7 @@
       </Coloniser>
     </Ships>
     <Stations>
-        <MilitaryStations>
+      <MilitaryStations>
         <Generic>
             <NameGroup>
                 <Name></Name>
@@ -590,7 +606,7 @@
                 </Values>
             </NameGroup>
         </Generic>
-        </MilitaryStations>
+      </MilitaryStations>
     </Stations>
     <Armies>
       <Fleet>
