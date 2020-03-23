@@ -10,7 +10,7 @@ OUTPUT_MOD_DIRECTORY_PATH="${OUTPUT_DIRECTORY_PATH}/${MOD_ID}"
 OUTPUT_NAMELISTS_DIRECTORY_PATH="${OUTPUT_MOD_DIRECTORY_PATH}/common/name_lists"
 OUTPUT_LOCALISATION_DIRECTORY_PATH="${OUTPUT_MOD_DIRECTORY_PATH}/localisation/english"
 OUTPUT_LOCALISATION_FILE_PATH="${OUTPUT_LOCALISATION_DIRECTORY_PATH}/ui_names_l_english.yml"
-GENERATOR_EXECUTABLE="dotnet /home/horatiu/Downloads/stellaris-name-list-generator/bin/Debug/netcoreapp2.2/StellarisNameListGenerator.dll"
+GENERATOR_EXECUTABLE="dotnet /home/horatiu/Downloads/stellaris-name-list-generator/bin/Debug/netcoreapp3.1/StellarisNameListGenerator.dll"
 
 MOD_DESCRIPTOR_PRIMARY_FILE_PATH="${OUTPUT_DIRECTORY_PATH}/${MOD_ID}.mod"
 MOD_DESCRIPTOR_SECONDARY_FILE_PATH="${OUTPUT_MOD_DIRECTORY_PATH}/descriptor.mod"
@@ -80,6 +80,7 @@ function generate-mod-descriptor {
     echo "supported_version=\"${STELLARIS_VERSION}\"" >> ${FILE_PATH}
 }
 
+build "ui_extra_humans_african"         "Human - African"       "L" human/african
 build "ui_extra_humans_arabic"          "Human - Arabic"        "L" human/arabic
 build "ui_extra_humans_asian"           "Human - Asian"         "L" human/asian
 build "ui_extra_humans_austronesian"    "Human - Austronesian"  "L" human/austronesian
@@ -91,8 +92,8 @@ build "ui_extra_humans_hellenic"        "Human - Hellenic"      "L" human/hellen
 build "ui_extra_humans_latino"          "Human - Latino"        "L" human/portuguese human/spanish
 build "ui_extra_humans_romance"         "Human - Romance"       "L" human/french human/italian human/portuguese human/roman human/romanian human/spanish
 build "ui_extra_humans_slavic"          "Human - Slavic"        "L" human/slavic
-build "ui_extra_humans_turkic"          "Human - Turkic"        "L" human/turkic
 build "ui_extra_humans_spqr_extended"   "Human - Roman"         "L" human/roman human/human3
+build "ui_extra_humans_turkic"          "Human - Turkic"        "L" human/turkic
 build "ui_extra_humans_extended"        "Human - Extended"      "L" \
       human/african human/arabic human/asian human/austronesian human/baltic human/celtic human/english \
       human/french human/germanic human/hellenic human/hindi human/hungarian human/italian human/persian \
