@@ -218,7 +218,7 @@
       </MilitaryUnitTypes>
       <BattleLocations>
         <NameGroup>
-          <Name>Battle locations - France</Name>
+          <Name>Battle locations</Name>
           <Values>
             <string>Belleau Wood</string>
             <string>Somme</string>

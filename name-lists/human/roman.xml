@@ -255,7 +255,7 @@
       </MilitaryUnitTypes>
       <BattleLocations>
         <NameGroup>
-          <Name>Battle Locations</Name>
+          <Name>Battle locations</Name>
           <Values>
             <string>Cannae</string>
             <string>Mylae</string>

@@ -473,6 +473,7 @@
           <Name>Places - Fallout</Name>
           <Values>
             <string>Megaton</string>
+            <string>Rivet City</string>
           </Values>
         </NameGroup>
         <NameGroup>
