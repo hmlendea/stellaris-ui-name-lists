@@ -46,6 +46,24 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Regions - Canada</Name>
+          <Values>
+            <string>Alberta</string>
+            <string>British Columbia</string>
+            <string>Labrador</string>
+            <string>Manitoba</string>
+            <string>New Brunswick</string>
+            <string>Newfoundland</string>
+            <string>Nova Scotia</string>
+            <string>Nunavut</string>
+            <string>Ontario</string>
+            <string>Prince Edward</string>
+            <string>Quebec</string>
+            <string>Saskatchewan</string>
+            <string>Yukon</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Regions - England</Name>
           <Values>
             <string>Essex</string>
@@ -124,10 +142,21 @@
           <Name>Cities - Canada</Name>
           <Values>
             <string>Calgary</string>
+            <string>Charlottetown</string>
             <string>Edmonton</string>
+            <string>Fredericton</string>
+            <string>Halifax</string>
             <string>Mississauga</string>
+            <string>Moncton</string>
+            <string>Montreal</string>
             <string>Ottawa</string>
+            <string>Regina</string>
+            <string>Saskatoon</string>
+            <string>St. John's</string>
             <string>Toronto</string>
+            <string>Vancouver</string>
+            <string>Victoria</string>
+            <string>Winnipeg</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -226,6 +255,41 @@
         </NameGroup>
       </Cities>
       <Rivers>
+        <NameGroup>
+          <Name>Rivers - England</Name>
+          <Values>
+            <string>Aire</string>
+            <string>Arun</string>
+            <string>Avon</string>
+            <string>Derwent</string>
+            <string>Eden</string>
+            <string>Esk</string>
+            <string>Exe</string>
+            <string>Great Ouse</string>
+            <string>Lea</string>
+            <string>Lune</string>
+            <string>Medway</string>
+            <string>Mersey</string>
+            <string>Nene</string>
+            <string>Ouse</string>
+            <string>Parrett</string>
+            <string>Ribble</string>
+            <string>Severn</string>
+            <string>Stour</string>
+            <string>Tambar</string>
+            <string>Taw</string>
+            <string>Tees</string>
+            <string>Thames</string>
+            <string>Trent</string>
+            <string>Tyne</string>
+            <string>Ure</string>
+            <string>Wensum</string>
+            <string>Wharfe</string>
+            <string>Witham</string>
+            <string>Wye</string>
+            <string>Yare</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Rivers - United States</Name>
           <Values>
@@ -349,10 +413,34 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Flying Aces - Australia</Name>
+          <Values>
+            <string>Caldwell</string>
+            <string>Cobby</string>
+            <string>Dallas</string>
+            <string>Goldsmith</string>
+            <string>King</string>
+            <string>Little</string>
+            <string>McCloughry</string>
+            <string>Pentland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Flying Aces - British</Name>
           <Values>
             <string>MacLachlan</string>
             <string>Milne</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Flying Aces - Canadian</Name>
+          <Values>
+            <string>Atkey</string>
+            <string>Barker</string>
+            <string>Bishop</string>
+            <string>Claxton</string>
+            <string>Collishaw</string>
+            <string>MacLaren</string>
           </Values>
         </NameGroup>
       </FlyingAces>
@@ -617,6 +705,14 @@
     <Stations>
       <Starbases>
         <Starports>
+          <NameGroup>
+            <Name>Airports - Canada</Name>
+            <Values>
+              <string>Gander</string>
+              <string>LeBlanc</string>
+              <string>Stanfield</string>
+            </Values>
+          </NameGroup>
           <NameGroup>
             <Name>Airports - England</Name>
             <Values>
