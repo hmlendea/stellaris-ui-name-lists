@@ -54,10 +54,98 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions - Austria</Name>
+          <Values>
+            <string>Burgenland</string>
+            <string>Carinthia</string>
+            <string>Lower Austria</string>
+            <string>Salzburg</string>
+            <string>Styria</string>
+            <string>Tyrol</string>
+            <string>Upper Austria</string>
+            <string>Vienna</string>
+            <string>Vorarlberg</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Austria - Endonyms</Name>
+          <Values>
+            <string>Kärnten</string>
+            <string>Niederösterreich</string>
+            <string>Oberösterreich</string>
+            <string>Steiermark</string>
+            <string>Tirol</string>
+            <string>Wien</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Germany</Name>
+          <Values>
+            <string>Baden-Württemberg</string>
+            <string>Bavaria</string>
+            <string>Berlin</string>
+            <string>Brandenburg</string>
+            <string>Bremen</string>
+            <string>Hamburg</string>
+            <string>Hesse</string>
+            <string>Lower Saxony</string>
+            <string>Mecklenburg-Vorpommern</string>
+            <string>North Rhine-Westphalia</string>
+            <string>Rhineland-Palatinate</string>
+            <string>Saarland</string>
+            <string>Saxony-Anhalt</string>
+            <string>Saxony</string>
+            <string>Schleswig-Holstein</string>
+            <string>Thuringia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Germany - Endonyms</Name>
+          <Values>
+            <string>Bayern</string>
+            <string>Hessen</string>
+            <string>Niedersachsen</string>
+            <string>Nordrhein-Westfalen</string>
+            <string>Rheinland-Pfalz</string>
+            <string>Sachsen-Anhalt</string>
+            <string>Sachsen</string>
+            <string>Thüringen</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Iceland</Name>
+          <Values>
+            <string>Austurland</string>
+            <string>Höfuðborgarsvæðið</string>
+            <string>Norðurland eystra	</string>
+            <string>Norðurland vestra</string>
+            <string>Suðurland</string>
+            <string>Suðurnes</string>
+            <string>Vestfirðir</string>
+            <string>Vesturland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Sweden</Name>
+          <Values>
+            <string>Göta</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Austria</Name>
           <Values>
+            <string>Bregenz</string>
+            <string>Eisenstadt</string>
+            <string>Graz</string>
+            <string>Innsbruck</string>
+            <string>Klagenfurt</string>
+            <string>Linz</string>
+            <string>Salzburg</string>
+            <string>Sankt Polten</string>
             <string>Vienna</string>
           </Values>
         </NameGroup>
@@ -122,6 +210,12 @@
         <NameGroup>
           <Name>Cities - Iceland</Name>
           <Values>
+            <string>Akureyri</string>
+            <string>Garðabær</string>
+            <string>Hafnarfjörður</string>
+            <string>Kópavogur</string>
+            <string>Mosfellsbær</string>
+            <string>Reykjanesbær</string>
             <string>Reykjavík</string>
           </Values>
         </NameGroup>
@@ -176,54 +270,50 @@
           </Values>
         </NameGroup>
       </Cities>
-      <Regions>
-        <NameGroup>
-          <Name>Regions - Germany</Name>
-          <Values>
-            <string>Baden-Württemberg</string>
-            <string>Bavaria</string>
-            <string>Berlin</string>
-            <string>Brandenburg</string>
-            <string>Bremen</string>
-            <string>Hamburg</string>
-            <string>Hesse</string>
-            <string>Lower Saxony</string>
-            <string>Mecklenburg-Vorpommern</string>
-            <string>North Rhine-Westphalia</string>
-            <string>Rhineland-Palatinate</string>
-            <string>Saarland</string>
-            <string>Saxony-Anhalt</string>
-            <string>Saxony</string>
-            <string>Schleswig-Holstein</string>
-            <string>Thuringia</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Regions - Germany - Endonyms</Name>
-          <Values>
-            <string>Bayern</string>
-            <string>Hessen</string>
-            <string>Niedersachsen</string>
-            <string>Nordrhein-Westfalen</string>
-            <string>Rheinland-Pfalz</string>
-            <string>Sachsen-Anhalt</string>
-            <string>Sachsen</string>
-            <string>Thüringen</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Regions - Sweden</Name>
-          <Values>
-            <string>Göta</string>
-          </Values>
-        </NameGroup>
-      </Regions>
       <Rivers>
         <NameGroup>
           <Name>Rivers - Germany</Name>
           <Values>
             <string>Danube</string>
             <string>Rhine</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rivers - Iceland</Name>
+          <Values>
+            <string>Blanda</string>
+            <string>Eyjafjarðará</string>
+            <string>Eystri Jökulsá</string>
+            <string>Fnjóská</string>
+            <string>Fossá</string>
+            <string>Glerá</string>
+            <string>Hamarsá</string>
+            <string>Héraðsvötn</string>
+            <string>Hofsá</string>
+            <string>Hörgá</string>
+            <string>Hvítá</string>
+            <string>Jökulsá á Dal</string>
+            <string>Jökulsá á Fjöllum</string>
+            <string>Jökulsá í Fljótsdal</string>
+            <string>Jökulsá í Lóni</string>
+            <string>Krossá</string>
+            <string>Kúðafljót</string>
+            <string>Lagarfljót</string>
+            <string>Laxá</string>
+            <string>Markarfljót</string>
+            <string>Múlakvísl</string>
+            <string>Norðurá</string>
+            <string>Ölfusá</string>
+            <string>Rangá</string>
+            <string>Selfljót</string>
+            <string>Skaftá</string>
+            <string>Skeiðará</string>
+            <string>Skjálfandafljót</string>
+            <string>Skógá</string>
+            <string>Sog</string>
+            <string>Tungnaá</string>
+            <string>Vatnsdalur</string>
+            <string>Þjórsá</string>
           </Values>
         </NameGroup>
         <NameGroup>

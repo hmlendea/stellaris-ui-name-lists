@@ -10,6 +10,7 @@
           <string>Argentinian</string>
           <string>Colombian</string>
           <string>Cuban</string>
+          <string>Guatemalan</string>
           <string>Mexican</string>
           <string>Peruvian</string>
           <string>Spanish</string>
@@ -29,6 +30,7 @@
             <string>Cuba</string>
             <string>Ecuador</string>
             <string>El Salvador</string>
+            <string>Guatemala</string>
             <string>Mexico</string>
             <string>Panama</string>
             <string>Peru</string>
@@ -39,6 +41,33 @@
         </NameGroup>
       </Countries>
       <Regions>
+        <NameGroup>
+          <Name>Regions - Guatemala</Name>
+          <Values>
+            <string>Alta Verapaz</string>
+            <string>Baja Verapaz</string>
+            <string>Chimaltenango</string>
+            <string>Chiquimula</string>
+            <string>El Progreso</string>
+            <string>Escuintla</string>
+            <string>Guatemala</string>
+            <string>Huehuetenango</string>
+            <string>Izabal</string>
+            <string>Jalapa</string>
+            <string>Jutiapa</string>
+            <string>Petén</string>
+            <string>Quetzaltenango</string>
+            <string>Quiché</string>
+            <string>Retalhuleu</string>
+            <string>Sacatepéquez</string>
+            <string>San Marcos</string>
+            <string>Santa Rosa</string>
+            <string>Sololá</string>
+            <string>Suchitepéquez</string>
+            <string>Totonicapán</string>
+            <string>Zacapa</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Regions - Mexico</Name>
           <Values>
@@ -129,6 +158,22 @@
           <Name>Cities - El Salvador</Name>
           <Values>
             <string>San Salvador</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Guatemala</Name>
+          <Values>
+            <string>Amatitlán</string>
+            <string>Chimaltenango</string>
+            <string>Chinautla</string>
+            <string>Escuintla</string>
+            <string>Guatemala</string>
+            <string>Mixco</string>
+            <string>Quetzaltenango</string>
+            <string>San Juan Sacatepéquez</string>
+            <string>San Miguel Petapa</string>
+            <string>Villa Canales</string>
+            <string>Villa Nueva</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -371,6 +416,12 @@
     </ShipClasses>
     <Planets>
       <Generic>
+        <NameGroup>
+          <Name>CoDominium - Terran Confederacy</Name>
+          <Values>
+            <string>Cienfuegos</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Stellaris - United Nations of Earth</Name>
           <Values>

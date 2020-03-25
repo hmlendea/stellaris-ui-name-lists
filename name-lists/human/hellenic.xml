@@ -24,7 +24,18 @@
       </Countries>
       <Regions>
         <NameGroup>
-          <Name>Regions -Greece</Name>
+          <Name>Regions - Cyprus</Name>
+          <Values>
+            <string>Famagusta</string>
+            <string>Kyrenia</string>
+            <string>Larnaca</string>
+            <string>Limassol</string>
+            <string>Nicosia</string>
+            <string>Paphos</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Greece</Name>
           <Values>
             <string>Aegea</string>
             <string>Attica</string>
@@ -42,7 +53,12 @@
         <NameGroup>
           <Name>Cities - Cyprus</Name>
           <Values>
+            <string>Famagusta</string>
+            <string>Kyrenia</string>
+            <string>Larnaca</string>
+            <string>Limassol</string>
             <string>Nicosia</string>
+            <string>Paphos</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -73,6 +89,20 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers - Cyprus</Name>
+          <Values>
+            <string>Dhiarizos</string>
+            <string>Ezousa</string>
+            <string>Kouris</string>
+            <string>Pedieos</string>
+            <string>Serakhis</string>
+            <string>Xeropotamos</string>
+            <string>Yialias</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
       <Seas>
         <NameGroup>
           <Name>Words</Name>
@@ -139,7 +169,7 @@
       </Admirals>
       <LabourDeities>
         <NameGroup>
-          <Name>Labour Deities - Greek</Name>
+          <Name>Labour Deities</Name>
           <Values>
             <string>Hephaestus</string>
           </Values>
@@ -273,12 +303,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Olympia</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Stellaris - Commonwealth of Man</Name>
           <Values>
             <string>Destinikon</string>
@@ -345,8 +369,10 @@
       </Tomb>
       <Alpine>
         <NameGroup>
-          <Name></Name>
+          <Name>Stellaris - United Nations of Earth</Name>
           <Values>
+            <string>Apollonia</string>
+            <string>Olympia</string>
           </Values>
         </NameGroup>
       </Alpine>
