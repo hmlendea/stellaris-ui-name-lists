@@ -98,85 +98,17 @@
         <Weight>1</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Antal</string>
-              <string>Attila</string>
-              <string>Dániel</string>
-              <string>Gergely</string>
-              <string>György</string>
-              <string>Gyula</string>
-              <string>István</string>
-              <string>József</string>
-              <string>Kálmán</string>
-              <string>Miklós</string>
-              <string>Nándor</string>
-              <string>Péter</string>
-              <string>Szilveszter</string>
-              <string>Viktor</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/hun-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Ágnes</string>
-              <string>Anett</string>
-              <string>Anna</string>
-              <string>Annamária</string>
-              <string>Csenge</string>
-              <string>Dalma</string>
-              <string>Eszter</string>
-              <string>Evelin</string>
-              <string>Gréta</string>
-              <string>Ildikó</string>
-              <string>Krisztina</string>
-              <string>Mária</string>
-              <string>Sára</string>
-              <string>Szabina</string>
-              <string>Szilvia</string>
-              <string>Tamara</string>
-              <string>Tímea</string>
-              <string>Zsuzsanna</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/hun-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Apród</string>
-              <string>Bács</string>
-              <string>Balasz</string>
-              <string>Bálint</string>
-              <string>Bodnár</string>
-              <string>Csonka</string>
-              <string>Farkas</string>
-              <string>Fazekas</string>
-              <string>Fülöp</string>
-              <string>Gulyás</string>
-              <string>Horváth</string>
-              <string>Illés</string>
-              <string>Kapolcs</string>
-              <string>Kelemen</string>
-              <string>Király</string>
-              <string>Kiss</string>
-              <string>Kocsis</string>
-              <string>Kovács</string>
-              <string>Lukács</string>
-              <string>Magyar</string>
-              <string>Molnár</string>
-              <string>Orbán</string>
-              <string>Orosz</string>
-              <string>Pál</string>
-              <string>Sándor</string>
-              <string>Szabó</string>
-              <string>Szekeres</string>
-              <string>Szilágyi</string>
-              <string>Szücs</string>
-              <string>Varga</string>
-              <string>Vas</string>
-              <string>Vászoly</string>
-              <string>Vörös</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/hun-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>

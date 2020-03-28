@@ -552,43 +552,17 @@
         <Weight>1</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Alison</string>
-              <string>Arya</string>
-              <string>Endang</string>
-              <string>Hary</string>
-              <string>Hassim</string>
-              <string>Hasyim</string>
-              <string>Ruslan</string>
-              <string>Yustinus</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/ind-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Endang</string>
-              <string>Rina</string>
-              <string>Sinta</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/ind-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Gunawan</string>
-              <string>Handika</string>
-              <string>Hassim</string>
-              <string>Hasyim</string>
-              <string>Oey</string>
-              <string>Pertiwi</string>
-              <string>Pratama</string>
-              <string>Rahayu</string>
-              <string>Slamet</string>
-              <string>Sutrisno</string>
-              <string>Widjaja</string>
-              <string>Wijaya</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/ind-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>
@@ -597,107 +571,17 @@
         <Weight>1</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Ānaru</string>
-              <string>Ārama</string>
-              <string>Eruera</string>
-              <string>Haimona</string>
-              <string>Haki</string>
-              <string>Hāmiora</string>
-              <string>Hāmuera</string>
-              <string>Hare</string>
-              <string>Hēmi</string>
-              <string>Hēnare</string>
-              <string>Herewini</string>
-              <string>Himiona</string>
-              <string>Hoani</string>
-              <string>Hōhepa</string>
-              <string>Hone</string>
-              <string>Hōne</string>
-              <string>Hōri</string>
-              <string>Īhāia</string>
-              <string>Īhaka</string>
-              <string>Maaka</string>
-              <string>Māka</string>
-              <string>Manu</string>
-              <string>Mātene</string>
-              <string>Matiu</string>
-              <string>Mikaere</string>
-              <string>Mohi</string>
-              <string>Nīkora</string>
-              <string>Pāora</string>
-              <string>Petera</string>
-              <string>Piri</string>
-              <string>Piripi</string>
-              <string>Pita</string>
-              <string>Rāniera</string>
-              <string>Rāpata</string>
-              <string>Rāwiri</string>
-              <string>Rēnata</string>
-              <string>Rewi</string>
-              <string>Rihari</string>
-              <string>Rōpata</string>
-              <string>Ruihi</string>
-              <string>Tāmati</string>
-              <string>Tame</string>
-              <string>Tāre</string>
-              <string>Tēpene</string>
-              <string>Timi</string>
-              <string>Tīmoti</string>
-              <string>Tīpene</string>
-              <string>Waata</string>
-              <string>Wāta</string>
-              <string>Wī</string>
-              <string>Wiremu</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/mri-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Ani</string>
-              <string>Emere</string>
-              <string>Erana</string>
-              <string>Hārata</string>
-              <string>Hāriata</string>
-              <string>Hēni</string>
-              <string>Hera</string>
-              <string>Hoana</string>
-              <string>Hūhana</string>
-              <string>Ihipera</string>
-              <string>Irihāpeti</string>
-              <string>Kararaina</string>
-              <string>Mākere</string>
-              <string>Māta</string>
-              <string>Mere</string>
-              <string>Mereana</string>
-              <string>Meri</string>
-              <string>Miriama</string>
-              <string>Pare</string>
-              <string>Peti</string>
-              <string>Pirihira</string>
-              <string>Rāhera</string>
-              <string>Rīpeka</string>
-              <string>Riria</string>
-              <string>Riripeti</string>
-              <string>Ruiha</string>
-              <string>Ruihi</string>
-              <string>Ruta</string>
-              <string>Rutu</string>
-              <string>Wiki</string>
-              <string>Wikitōria</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/mri-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Henare</string>
-              <string>Ngata</string>
-              <string>Parata</string>
-              <string>Taumata</string>
-              <string>Turei</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/mri-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>

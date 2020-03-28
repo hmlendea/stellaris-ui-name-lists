@@ -171,52 +171,7 @@
         <Weight>2</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Alberto</string>
-              <string>Alessandro</string>
-              <string>Alfonso</string>
-              <string>Andrea</string>
-              <string>Angelo</string>
-              <string>Antonio</string>
-              <string>Benito</string>
-              <string>Bruno</string>
-              <string>Camillo</string>
-              <string>Carlo</string>
-              <string>Cesare</string>
-              <string>Cristian</string>
-              <string>Daniele</string>
-              <string>Domenico</string>
-              <string>Enrico</string>
-              <string>Fabio</string>
-              <string>Fabrizio</string>
-              <string>Franco</string>
-              <string>Franscesco</string>
-              <string>Giorgio</string>
-              <string>Giovanni</string>
-              <string>Guido</string>
-              <string>Guiseppe</string>
-              <string>Gustavo</string>
-              <string>Ignazio</string>
-              <string>Lorenzo</string>
-              <string>Luciano</string>
-              <string>Luigi</string>
-              <string>Marco</string>
-              <string>Mario</string>
-              <string>Matteo</string>
-              <string>Michele</string>
-              <string>Nicola</string>
-              <string>Paulo</string>
-              <string>Pietro</string>
-              <string>Roberto</string>
-              <string>Salvatore</string>
-              <string>Sergio</string>
-              <string>Silvio</string>
-              <string>Stefano</string>
-              <string>Tommaso</string>
-              <string>Umberto</string>
-              <string>Vincenzo</string>
-              <string>Vittorio</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/ita-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <MaleRoyalFirstNames>
@@ -234,43 +189,7 @@
         </MaleRoyalFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Angela</string>
-              <string>Anna</string>
-              <string>Antonietta</string>
-              <string>Arianna</string>
-              <string>Benedetta</string>
-              <string>Carla</string>
-              <string>Carmela</string>
-              <string>Caterina</string>
-              <string>Clara</string>
-              <string>Claudia</string>
-              <string>Concetta</string>
-              <string>Dina</string>
-              <string>Elena</string>
-              <string>Franca</string>
-              <string>Francesca</string>
-              <string>Gabriella</string>
-              <string>Giovanna</string>
-              <string>Gisella</string>
-              <string>Guiseppina</string>
-              <string>Isabella</string>
-              <string>Lorenza</string>
-              <string>Lucia</string>
-              <string>Lucrezia</string>
-              <string>Margherita</string>
-              <string>Maria</string>
-              <string>Nicoletta</string>
-              <string>Orietta</string>
-              <string>Paola</string>
-              <string>Pietra</string>
-              <string>Rita</string>
-              <string>Rosa</string>
-              <string>Stefania</string>
-              <string>Teresa</string>
-              <string>Valeria</string>
-              <string>Vittoria</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/ita-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <FemaleRoyalFirstNames>
@@ -285,68 +204,7 @@
         </FemaleRoyalFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Albricci</string>
-              <string>Antonelli</string>
-              <string>Badoglio</string>
-              <string>Balletti</string>
-              <string>Bello</string>
-              <string>Bianchi</string>
-              <string>Bianconelli</string>
-              <string>Cadorna</string>
-              <string>Cappello</string>
-              <string>Conti</string>
-              <string>Corsini</string>
-              <string>Costa</string>
-              <string>D'Agostino</string>
-              <string>D'Alessandro</string>
-              <string>D'Antoni</string>
-              <string>de Luca</string>
-              <string>de Rosa</string>
-              <string>de Sciglio</string>
-              <string>del Grosso</string>
-              <string>Delvecchio</string>
-              <string>di Bartolomei</string>
-              <string>di Bella</string>
-              <string>di Chiara</string>
-              <string>di Gennaro</string>
-              <string>di Robilant</string>
-              <string>di Savoia</string>
-              <string>Fabbrini</string>
-              <string>Fazio</string>
-              <string>Ferrari</string>
-              <string>Gallo</string>
-              <string>Galvani</string>
-              <string>Gambadori</string>
-              <string>Garibaldi</string>
-              <string>Giordano</string>
-              <string>Lombardi</string>
-              <string>Mambretti</string>
-              <string>Mancini</string>
-              <string>Marchetti</string>
-              <string>Marcuzzi</string>
-              <string>Marino</string>
-              <string>Mazzitelli</string>
-              <string>Moretti</string>
-              <string>Mussolini</string>
-              <string>Olivieri</string>
-              <string>Pacini</string>
-              <string>Pallavicino</string>
-              <string>Pezzaglia</string>
-              <string>Pianelli</string>
-              <string>Picerno</string>
-              <string>Quadrini</string>
-              <string>Ravelli</string>
-              <string>Renzi</string>
-              <string>Ricci</string>
-              <string>Rizzo</string>
-              <string>Rossi</string>
-              <string>Russo</string>
-              <string>Saletta</string>
-              <string>Scaletta</string>
-              <string>Soprano</string>
-              <string>Valeri</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/ita-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
         <RoyalSecondNames>

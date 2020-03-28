@@ -332,40 +332,7 @@
         <Weight>9</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Aarav</string>
-              <string>Aarush</string>
-              <string>Aditya</string>
-              <string>Advaith</string>
-              <string>Advik</string>
-              <string>Arjun</string>
-              <string>Arnav</string>
-              <string>Atharv</string>
-              <string>Azam</string>
-              <string>Darsh</string>
-              <string>Dhruv</string>
-              <string>Ishaan</string>
-              <string>Kabir</string>
-              <string>Kayaan</string>
-              <string>Krishna</string>
-              <string>Kumar</string>
-              <string>Mahesh</string>
-              <string>Neeraj</string>
-              <string>Nishant</string>
-              <string>Palash</string>
-              <string>Pranav</string>
-              <string>Prathamesh</string>
-              <string>Rahul</string>
-              <string>Raj</string>
-              <string>Rakesh</string>
-              <string>Reyansh</string>
-              <string>Ritvik</string>
-              <string>Shaurya</string>
-              <string>Shubham</string>
-              <string>Shyam</string>
-              <string>Veer</string>
-              <string>Vivaan</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/hin-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <MaleRoyalFirstNames>
@@ -385,39 +352,7 @@
         </MaleRoyalFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Aadhya</string>
-              <string>Aahana</string>
-              <string>Aanya</string>
-              <string>Aaradhya</string>
-              <string>Aarohi</string>
-              <string>Akshara</string>
-              <string>Ananya</string>
-              <string>Anaya</string>
-              <string>Anika</string>
-              <string>Anoushka</string>
-              <string>Anushri</string>
-              <string>Anvi</string>
-              <string>Apoorva</string>
-              <string>Avani</string>
-              <string>Divya</string>
-              <string>Diya</string>
-              <string>Ira</string>
-              <string>Juvina</string>
-              <string>Kyra</string>
-              <string>Mahima</string>
-              <string>Myra</string>
-              <string>Navya</string>
-              <string>Pari</string>
-              <string>Prisha</string>
-              <string>Priyanka</string>
-              <string>Riya</string>
-              <string>Saanvi</string>
-              <string>Sanjana</string>
-              <string>Shanaya</string>
-              <string>Shivangi</string>
-              <string>Siya</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/hin-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <FemaleRoyalFirstNames>
@@ -437,42 +372,7 @@
         </FemaleRoyalFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Abidi</string>
-              <string>Acharya</string>
-              <string>Bhandary</string>
-              <string>Bhat</string>
-              <string>Chandran</string>
-              <string>Chowta</string>
-              <string>Desmukh</string>
-              <string>Dodamani</string>
-              <string>Gowda</string>
-              <string>Gupta</string>
-              <string>Koothrappali</string>
-              <string>Kulkarni</string>
-              <string>Kumar</string>
-              <string>Kutty</string>
-              <string>Moorthi</string>
-              <string>Naik</string>
-              <string>Namboodiri</string>
-              <string>Nayak</string>
-              <string>Pannikar</string>
-              <string>Patil</string>
-              <string>Pillai</string>
-              <string>Poojary</string>
-              <string>Potti</string>
-              <string>Prasad</string>
-              <string>Puttappa</string>
-              <string>Sharma</string>
-              <string>Shastri</string>
-              <string>Sondharam</string>
-              <string>Sooriyaprakash</string>
-              <string>Swamy</string>
-              <string>Upadhyay</string>
-              <string>Varma</string>
-              <string>Venktaesan</string>
-              <string>Vijay</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/hin-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
         <RoyalSecondNames>

@@ -418,43 +418,7 @@
         <Weight>6</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Abbas</string>
-              <string>Abdullah</string>
-              <string>Abed</string>
-              <string>Ahmad</string>
-              <string>Ahmed</string>
-              <string>Ali</string>
-              <string>Amir</string>
-              <string>Ammar</string>
-              <string>Barak</string>
-              <string>Hamza</string>
-              <string>Hassan</string>
-              <string>Hussein</string>
-              <string>Hydar</string>
-              <string>Ibrahim</string>
-              <string>Jamal</string>
-              <string>Kareem</string>
-              <string>Khalid</string>
-              <string>Khalil</string>
-              <string>Khathem</string>
-              <string>Mahdi</string>
-              <string>Malik</string>
-              <string>Mohamed</string>
-              <string>Mohammad</string>
-              <string>Mohammed</string>
-              <string>Muhammad</string>
-              <string>Muhammed</string>
-              <string>Nasir</string>
-              <string>Omar</string>
-              <string>Rashad</string>
-              <string>Rashid</string>
-              <string>Samir</string>
-              <string>Tariq</string>
-              <string>Yahir</string>
-              <string>Yasin</string>
-              <string>Yusuf</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/ara-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <MaleRoyalFirstNames>
@@ -477,57 +441,7 @@
         </MaleRoyalFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Abbas</string>
-              <string>Abdullah</string>
-              <string>Abed</string>
-              <string>Aisha</string>
-              <string>Alma</string>
-              <string>Amani</string>
-              <string>Amira</string>
-              <string>Aya</string>
-              <string>Fatima</string>
-              <string>Hala</string>
-              <string>Hana</string>
-              <string>Hasti</string>
-              <string>Imani</string>
-              <string>Jaliyah</string>
-              <string>Jana</string>
-              <string>Jazmin</string>
-              <string>Jenna</string>
-              <string>Kaliyah</string>
-              <string>Khalid</string>
-              <string>Khalil</string>
-              <string>Layan</string>
-              <string>Leen</string>
-              <string>Leila</string>
-              <string>Lydia</string>
-              <string>Ma'soumeh</string>
-              <string>Mahdi</string>
-              <string>Malak</string>
-              <string>Malik</string>
-              <string>Maritza</string>
-              <string>Maryam</string>
-              <string>Mina</string>
-              <string>Mobina</string>
-              <string>Naima</string>
-              <string>Narges</string>
-              <string>Nasir</string>
-              <string>Noor</string>
-              <string>Omar</string>
-              <string>Rashad</string>
-              <string>Rashid</string>
-              <string>Reihaneh</string>
-              <string>Sakineh</string>
-              <string>Salma</string>
-              <string>Samir</string>
-              <string>Samira</string>
-              <string>Sanaa</string>
-              <string>Satayesh</string>
-              <string>Yesenia</string>
-              <string>Zahra</string>
-              <string>Zeinab</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/ara-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <FemaleRoyalFirstNames>
@@ -548,54 +462,7 @@
         </FemaleRoyalFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Abbas</string>
-              <string>Abboud</string>
-              <string>Abdel Nour</string>
-              <string>Adwam</string>
-              <string>Akkad</string>
-              <string>al-Ahdal</string>
-              <string>al-Ajlani</string>
-              <string>al-Asiri</string>
-              <string>al-Atrash</string>
-              <string>al-Bariqi</string>
-              <string>al-Bishi</string>
-              <string>al-Dimashqi</string>
-              <string>al-Hazmi</string>
-              <string>al-Jazari</string>
-              <string>al-Mubarak</string>
-              <string>al-Qadi</string>
-              <string>al-Samarrai</string>
-              <string>Alawi</string>
-              <string>arakat</string>
-              <string>Bakir</string>
-              <string>Barakat</string>
-              <string>Bilal</string>
-              <string>El-Baz</string>
-              <string>El-Farouk</string>
-              <string>El-Ghazali</string>
-              <string>Farrokhzad</string>
-              <string>Ghorbani</string>
-              <string>Hamidi</string>
-              <string>Hassan</string>
-              <string>Hussein</string>
-              <string>Ibrahim</string>
-              <string>Ishak</string>
-              <string>Ismail</string>
-              <string>Jamshidi</string>
-              <string>Jawahir</string>
-              <string>Juhani</string>
-              <string>Khadem</string>
-              <string>Madani</string>
-              <string>Nadir</string>
-              <string>Qaderi</string>
-              <string>Qasim</string>
-              <string>Qudsi</string>
-              <string>Rahimi</string>
-              <string>Salman</string>
-              <string>Sassani</string>
-              <string>Turani</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/ara-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
         <RoyalSecondNames>
