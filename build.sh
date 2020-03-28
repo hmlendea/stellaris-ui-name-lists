@@ -90,6 +90,7 @@ build "ui_extra_humans_french"          "Human - French"        "L" human/french
 build "ui_extra_humans_germanic"        "Human - Germanic"      "L" human/germanic
 build "ui_extra_humans_hellenic"        "Human - Hellenic"      "L" human/hellenic
 build "ui_extra_humans_latino"          "Human - Latino"        "L" human/portuguese human/spanish
+build "ui_extra_humans_romanian"        "Human - Romanian"      "L" human/romanian
 build "ui_extra_humans_romance"         "Human - Romance"       "L" human/french human/italian human/portuguese human/roman human/romanian human/spanish
 build "ui_extra_humans_slavic"          "Human - Slavic"        "L" human/slavic
 build "ui_extra_humans_spqr_extended"   "Human - Roman"         "L" human/roman human/human3
