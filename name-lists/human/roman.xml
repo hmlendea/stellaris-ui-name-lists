@@ -227,6 +227,14 @@
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
+          <Name>Gladiator Types</Name>
+          <Values>
+            <string>Hoplomachus</string>
+            <string>Murmillo</string>
+            <string>Thraex</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Military Unit Types - Roman</Name>
           <Values>
             <string>Aeneator</string>
@@ -239,6 +247,7 @@
             <string>Legionaire</string>
             <string>Legionarius</string>
             <string>Praetorian</string>
+            <string>Murmillo</string>
             <string>Signifer</string>
             <string>Tablifer</string>
             <string>Tubicen</string>

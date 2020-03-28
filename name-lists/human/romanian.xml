@@ -92,17 +92,9 @@
       <Cities>
         <NameGroup>
           <Name>Cities</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/ron-settlements-cities.txt</Url>
           <Values>
-            <string>Baia Mare</string>
-            <string>Brașov</string>
             <string>Bucharest</string>
-            <string>Cluj-Napoca</string>
-            <string>Constanța</string>
-            <string>Deva</string>
-            <string>Iași</string>
-            <string>Oradea</string>
-            <string>Sibiu</string>
-            <string>Timișoara</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -210,6 +202,12 @@
         </NameGroup>
       </Weapons>
       <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Gladiator Types</Name>
+          <Values>
+            <string>Thraex</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Military Unit Types</Name>
           <Values>
