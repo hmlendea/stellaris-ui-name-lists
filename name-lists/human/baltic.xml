@@ -107,6 +107,15 @@
       </Cities>
     </Places>
     <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types - Lithuanian</Name>
+          <Values>
+            <string>Leitis</string>
+            <string>Uhlan</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
       <Weapons>
         <Swords>
           <NameGroup>

@@ -261,6 +261,7 @@
         <NameGroup>
           <Name>Military Unit Types - Indian</Name>
           <Values>
+            <string>Sepoy</string>
             <string>Varu</string>
           </Values>
         </NameGroup>

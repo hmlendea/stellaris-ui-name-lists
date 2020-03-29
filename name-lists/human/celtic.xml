@@ -132,6 +132,7 @@
           <Name>Military Unit Types - Scottish</Name>
           <Values>
             <string>Highlander</string>
+            <string>Woad Raider</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>

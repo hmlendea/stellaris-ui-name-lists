@@ -565,6 +565,7 @@
             <Name>Guns - Russian</Name>
             <Values>
               <string>Kalashnikov</string>
+              <string>Papasha</string>
             </Values>
           </NameGroup>
         </Guns>
@@ -572,7 +573,9 @@
           <NameGroup>
             <Name>Swords - Polish</Name>
             <Values>
+              <string>Karabela</string>
               <string>Koncerz</string>
+              <string>Szabla</string>
             </Values>
           </NameGroup>
           <NameGroup>
@@ -581,14 +584,34 @@
               <string>Shashka</string>
             </Values>
           </NameGroup>
+          <NameGroup>
+            <Name>Swords - Serbian</Name>
+            <Values>
+              <string>Schiavonesca</string>
+            </Values>
+          </NameGroup>
         </Swords>
       </Weapons>
       <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types - Bulgarian</Name>
+          <Values>
+            <string>Konnik</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Polish</Name>
+          <Values>
+            <string>Uhlan</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Military Unit Types - Russian</Name>
           <Values>
             <string>Cossack</string>
             <string>Kazakov</string>
+            <string>Oprichnik</string>
+            <string>Strelet</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>

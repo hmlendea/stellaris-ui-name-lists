@@ -569,6 +569,7 @@
           <Values>
             <string>Ashigaru</string>
             <string>Bushi</string>
+            <string>Daimyo</string>
             <string>Ronin</string>
             <string>Samurai</string>
           </Values>

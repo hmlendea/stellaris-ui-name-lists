@@ -617,6 +617,7 @@
         <NameGroup>
           <Name>Military Unit Types - Mali</Name>
           <Values>
+            <string>Gbeto</string>
             <string>Mandekalu</string>
           </Values>
         </NameGroup>
