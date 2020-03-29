@@ -52,7 +52,6 @@
             <string>Latgallia</string>
             <string>Selonia</string>
             <string>Semigallia</string>
-            <string>Semigallia</string>
             <string>Vidzeme</string>
           </Values>
         </NameGroup>
@@ -116,6 +115,7 @@
               <string>Koncerz</string>
             </Values>
           </NameGroup>
+        </Swords>
       </Weapons>
     </Warfare>
     <ShipClasses>
