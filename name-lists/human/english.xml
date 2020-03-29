@@ -652,16 +652,18 @@
         </NameGroup>
       </BattleLocations>
     </Warfare>
-    <MythologicalCreatures>
-      <NameGroup>
-        <Name>Mythological Creatures - British</Name>
-        <Values>
-          <string>Banshee</string>
-          <string>Spriggan</string>
-          <string>Wyvern</string>
-        </Values>
-      </NameGroup>
-    </MythologicalCreatures>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological Creatures - British</Name>
+          <Values>
+            <string>Banshee</string>
+            <string>Spriggan</string>
+            <string>Wyvern</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <Ships>
       <Corvette>
         <NameGroup>

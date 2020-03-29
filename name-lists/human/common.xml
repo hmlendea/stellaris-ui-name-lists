@@ -123,32 +123,8 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <MythologicalCreatures>
-      <NameGroup>
-        <Name>Mythological creatures</Name>
-        <Values>
-          <string>Dragon</string>
-          <string>Gargoyle</string>
-          <string>Ghost</string>
-          <string>Goblin</string>
-          <string>Grim Reaper</string>
-          <string>Kraken</string>
-          <string>Mermaid</string>
-          <string>Mummy</string>
-          <string>Nymph</string>
-          <string>Ogre</string>
-          <string>Phantom</string>
-          <string>Reaper</string>
-          <string>Specter</string>
-          <string>Spectre</string>
-          <string>Warlock</string>
-          <string>Werewolf</string>
-          <string>Wraith</string>
-        </Values>
-      </NameGroup>
-    </MythologicalCreatures>
-    <Ships>
-      <Corvette>
+    <BiosphereNames>
+      <Animals>
         <NameGroup>
           <Name>Animals</Name>
           <Values>
@@ -179,53 +155,33 @@
             <string>Sturgeon</string>
           </Values>
         </NameGroup>
-      </Corvette>
-      <Destroyer>
+      </Animals>
+      <MythologicalCreatures>
         <NameGroup>
-          <Name></Name>
+          <Name>Mythological creatures</Name>
           <Values>
+            <string>Dragon</string>
+            <string>Gargoyle</string>
+            <string>Ghost</string>
+            <string>Goblin</string>
+            <string>Grim Reaper</string>
+            <string>Kraken</string>
+            <string>Mermaid</string>
+            <string>Mummy</string>
+            <string>Nymph</string>
+            <string>Ogre</string>
+            <string>Phantom</string>
+            <string>Reaper</string>
+            <string>Specter</string>
+            <string>Spectre</string>
+            <string>Warlock</string>
+            <string>Werewolf</string>
+            <string>Wraith</string>
           </Values>
         </NameGroup>
-      </Destroyer>
-      <Cruiser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Cruiser>
-      <Battleship>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Battleship>
-      <Science>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Science>
-      <Coloniser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Coloniser>
-    </Ships>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <Stations>
-      <MilitaryStations>
-        <Generic>
-          <NameGroup>
-            <Name></Name>
-            <Values>
-            </Values>
-          </NameGroup>
-        </Generic>
-      </MilitaryStations>
       <Starbases>
         <Outposts>
           <NameGroup>
@@ -242,13 +198,6 @@
           </NameGroup>
         </Outposts>
       </Starbases>
-      <ResearchStations>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </ResearchStations>
     </Stations>
     <Armies>
       <DefenceArmy>

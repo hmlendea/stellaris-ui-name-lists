@@ -623,8 +623,8 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <Ships>
-      <Corvette>
+    <BiosphereNames>
+      <Animals>
         <NameGroup>
           <Name>Animals</Name>
           <Values>
@@ -632,21 +632,9 @@
             <string>Elephant</string>
           </Values>
         </NameGroup>
-      </Corvette>
-      <Destroyer>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Destroyer>
-      <Cruiser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Cruiser>
+      </Animals>
+    </BiosphereNames>
+    <Ships>
       <Constructor>
         <NameGroup>
           <Name>Mythology - Spirits - Irish</Name>
@@ -655,34 +643,7 @@
           </Values>
         </NameGroup>
       </Constructor>
-      <Coloniser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Coloniser>
     </Ships>
-    <Stations>
-      <MilitaryStations>
-        <Generic>
-            <NameGroup>
-                <Name></Name>
-                <Values>
-                </Values>
-            </NameGroup>
-        </Generic>
-      </MilitaryStations>
-    </Stations>
-    <Armies>
-      <Fleet>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Fleet>
-    </Armies>
     <Planets>
       <Generic>
         <NameGroup>

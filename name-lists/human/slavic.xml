@@ -591,6 +591,17 @@
         </NameGroup>
       </BattleLocations>
     </Warfare>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals - Russian</Name>
+          <Values>
+            <string>Akula</string>
+            <string>Kodiak</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
     <Ships>
       <Corvette>
         <NameGroup>
@@ -598,13 +609,6 @@
           <Values>
             <string>Doblestnyi</string>
             <string>Soobrazitelny</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Animals - Russian</Name>
-          <Values>
-            <string>Akula</string>
-            <string>Kodiak</string>
           </Values>
         </NameGroup>
       </Corvette>

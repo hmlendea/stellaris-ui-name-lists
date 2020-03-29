@@ -125,20 +125,22 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <MythologicalCreatures>
-      <NameGroup>
-        <Name>Mythological Creatures - Cornish</Name>
-        <Values>
-          <string>Spriggan</string>
-        </Values>
-      </NameGroup>
-      <NameGroup>
-        <Name>Mythological Creatures - Irish</Name>
-        <Values>
-          <string>Banshee</string>
-        </Values>
-      </NameGroup>
-    </MythologicalCreatures>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological Creatures - Cornish</Name>
+          <Values>
+            <string>Spriggan</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mythological Creatures - Irish</Name>
+          <Values>
+            <string>Banshee</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <Ships>
       <Corvette>
         <NameGroup>

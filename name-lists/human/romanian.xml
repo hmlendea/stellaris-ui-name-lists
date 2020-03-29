@@ -227,17 +227,19 @@
         </NameGroup>
       </BattleLocations>
     </Warfare>
-    <MythologicalCreatures>
-      <NameGroup>
-        <Name>Mythological creatures</Name>
-        <Values>
-          <string>Balaur</string>
-          <string>Strigoi</string>
-          <string>Vampire</string>
-          <string>Zmeu</string>
-        </Values>
-      </NameGroup>
-    </MythologicalCreatures>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Balaur</string>
+            <string>Strigoi</string>
+            <string>Vampire</string>
+            <string>Zmeu</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <Stations>
       <Starbases>
         <Starports>

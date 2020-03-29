@@ -223,32 +223,34 @@
         </NameGroup>
       </BattleLocations>
     </Warfare>
-    <MythologicalCreatures>
-      <NameGroup>
-        <Name>Mythological Creatures</Name>
-        <Values>
-          <string>Basilisk</string>
-          <string>Centaur</string>
-          <string>Cerberus</string>
-          <string>Charybdis</string>
-          <string>Chimera</string>
-          <string>Cyclope</string>
-          <string>Cyclops</string>
-          <string>Cynosura</string>
-          <string>Griffin</string>
-          <string>Gryphon</string>
-          <string>Harpy</string>
-          <string>Hippogriff</string>
-          <string>Manticore</string>
-          <string>Medusa</string>
-          <string>Minotaur</string>
-          <string>Pegasus</string>
-          <string>Phoenix</string>
-          <string>Satyr</string>
-          <string>Scylla</string>
-        </Values>
-      </NameGroup>
-    </MythologicalCreatures>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological Creatures</Name>
+          <Values>
+            <string>Basilisk</string>
+            <string>Centaur</string>
+            <string>Cerberus</string>
+            <string>Charybdis</string>
+            <string>Chimera</string>
+            <string>Cyclope</string>
+            <string>Cyclops</string>
+            <string>Cynosura</string>
+            <string>Griffin</string>
+            <string>Gryphon</string>
+            <string>Harpy</string>
+            <string>Hippogriff</string>
+            <string>Manticore</string>
+            <string>Medusa</string>
+            <string>Minotaur</string>
+            <string>Pegasus</string>
+            <string>Phoenix</string>
+            <string>Satyr</string>
+            <string>Scylla</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <Ships>
       <Corvette>
       </Corvette>

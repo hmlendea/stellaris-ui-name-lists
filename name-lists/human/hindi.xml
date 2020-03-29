@@ -263,15 +263,17 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <MythologicalCreatures>
-      <NameGroup>
-        <Name>Mythological Creatures - Hindu</Name>
-        <Values>
-          <string>Garuda</string>
-          <string>Rakshasa</string>
-        </Values>
-      </NameGroup>
-    </MythologicalCreatures>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological Creatures - Hindu</Name>
+          <Values>
+            <string>Garuda</string>
+            <string>Rakshasa</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <Planets>
       <Generic>
         <NameGroup>

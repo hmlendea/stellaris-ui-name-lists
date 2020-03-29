@@ -220,43 +220,8 @@
         </NameGroup>
       </Forts>
     </Warfare>
-    <MythologicalCreatures>
-      <NameGroup>
-        <Name>Mythological creatures - </Name>
-        <Values>
-        </Values>
-      </NameGroup>
-    </MythologicalCreatures>
-    <Ships>
-      <Generic>
-        <NameGroup>
-          <Name>Ships - Arbiters</Name>
-          <Values>
-            <string>Serenity</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Ships - Carriers</Name>
-          <Values>
-            <string>Koramund</string>
-            <string>Tempest</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Ships - Supercarriers</Name>
-          <Values>
-            <string>Antiomnd</string>
-            <string>Gantrithor</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Ships - Motherships</Name>
-          <Values>
-            <string>Moratun</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-      <Corvette>
+    <BiosphereNames>
+      <Animals>
         <NameGroup>
           <Name>Animals - Aiur</Name>
           <Values>
@@ -289,7 +254,37 @@
             <string>Slayn</string>
           </Values>
         </NameGroup>
-      </Corvette>
+      </Animals>
+    </BiosphereNames>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Ships - Arbiters</Name>
+          <Values>
+            <string>Serenity</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Ships - Carriers</Name>
+          <Values>
+            <string>Koramund</string>
+            <string>Tempest</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Ships - Supercarriers</Name>
+          <Values>
+            <string>Antiomnd</string>
+            <string>Gantrithor</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Ships - Motherships</Name>
+          <Values>
+            <string>Moratun</string>
+          </Values>
+        </NameGroup>
+      </Generic>
       <Coloniser>
         <NameGroup>
           <Name>Ships</Name>

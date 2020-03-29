@@ -130,13 +130,6 @@
         </NameGroup>
       </BattleLocations>
     </Warfare>
-    <MythologicalCreatures>
-      <NameGroup>
-        <Name>Mythological creatures - </Name>
-        <Values>
-        </Values>
-      </NameGroup>
-    </MythologicalCreatures>
     <Ships>
       <Corvette>
         <NameGroup>
