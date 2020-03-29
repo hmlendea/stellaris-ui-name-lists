@@ -213,9 +213,15 @@
       </LeadersTier1>
       <LeadersTier2>
         <NameGroup>
-          <Name>Leaders - Arabian</Name>
+          <Name>Leaders</Name>
           <Values>
             <string>Abu Bakr</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Moroccan</Name>
+          <Values>
+            <string>Ahmad al-Mansur</string>
           </Values>
         </NameGroup>
       </LeadersTier2>
@@ -229,7 +235,7 @@
       </LeadersTier3>
       <GeneralsTier2>
         <NameGroup>
-          <Name>Generals - Arabian</Name>
+          <Name>Generals</Name>
           <Values>
             <string>Al-Walid</string>
           </Values>
@@ -237,6 +243,20 @@
       </GeneralsTier2>
     </GreatPeople>
     <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Blades - Moroccan</Name>
+          <Values>
+            <string>Nimcha</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Daggers</Name>
+          <Values>
+            <string>Khanjar</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
           <Name>Military Unit Types</Name>

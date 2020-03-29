@@ -241,8 +241,9 @@
     <Warfare>
       <Weapons>
         <NameGroup>
-          <Name>Swords - Indian Subcontinent</Name>
+          <Name>Blades</Name>
           <Values>
+            <string>Talwar</string>
             <string>Urumi</string>
           </Values>
         </NameGroup>

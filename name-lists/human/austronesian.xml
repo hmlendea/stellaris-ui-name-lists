@@ -429,6 +429,19 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Leaders - Malay</Name>
+          <Values>
+            <string>Tun Perak</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Philippino</Name>
+          <Values>
+            <string>Kalangitan</string>
+            <string>Kudarat</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Leaders - Polynesia</Name>
           <Values>
             <string>Kupe</string>
@@ -473,9 +486,21 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Military Unit Types - Malay</Name>
+          <Values>
+            <string>Lancaran</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Military Unit Types - Maori</Name>
           <Values>
             <string>Toa</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Philippino</Name>
+          <Values>
+            <string>Katipunero</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>

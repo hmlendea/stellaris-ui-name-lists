@@ -72,8 +72,10 @@
     <Warfare>
       <Weapons>
         <NameGroup>
-          <Name>Swords - Turk</Name>
+          <Name>Blades</Name>
           <Values>
+            <string>Kilij</string>
+            <string>Scimitar</string>
             <string>Yatagan</string>
           </Values>
         </NameGroup>

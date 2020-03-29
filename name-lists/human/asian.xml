@@ -343,6 +343,12 @@
             <string>Kublai Khan</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Tibetan</Name>
+          <Values>
+            <string>Trisong Detsen</string>
+          </Values>
+        </NameGroup>
       </LeadersTier1>
       <LeadersTier2>
         <NameGroup>
@@ -397,6 +403,7 @@
           <Values>
             <string>Hua Mulan</string>
             <string>Lei Feng</string>
+            <string>Yuenü</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -569,6 +576,12 @@
           <Values>
             <string>Keshig</string>
             <string>Mangudai</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Tibetan</Name>
+          <Values>
+            <string>Rta Pta</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>

@@ -553,6 +553,12 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Blades - Russian</Name>
+          <Values>
+          <string>Shashka</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Guns - Russian</Name>
           <Values>
           <string>Kalashnikov</string>

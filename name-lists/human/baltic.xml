@@ -45,6 +45,26 @@
             <string>Võru</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Regions - Latvia</Name>
+          <Values>
+            <string>Courland</string>
+            <string>Latgallia</string>
+            <string>Selonia</string>
+            <string>Semigallia</string>
+            <string>Semigallia</string>
+            <string>Vidzeme</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Latvia - Endonyms</Name>
+          <Values>
+            <string>Kurzeme</string>
+            <string>Latgale</string>
+            <string>Sēlija</string>
+            <string>Zemgale</string>
+          </Values>
+        </NameGroup>
       </Regions>
       <Cities>
         <NameGroup>
@@ -65,6 +85,18 @@
             <string>Valga</string>
             <string>Viljandi</string>
             <string>Võru</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Latvia</Name>
+          <Values>
+            <string>Daugavpils</string>
+            <string>Jēkabpils</string>
+            <string>Jelgava</string>
+            <string>Jūrmala</string>
+            <string>Liepāja</string>
+            <string>Rīga</string>
+            <string>Ventspils</string>
           </Values>
         </NameGroup>
         <NameGroup>

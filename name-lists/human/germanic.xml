@@ -475,6 +475,12 @@
             <string>William Tell</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Heroes - Swiss - Endonym</Name>
+          <Values>
+            <string>Wilhelm Teil</string>
+          </Values>
+        </NameGroup>
       </Heroes>
       <Admirals>
         <NameGroup>
@@ -564,6 +570,12 @@
     </Companies>
     <Warfare>
       <Weapons>
+        <NameGroup>
+          <Name>Guns - German</Name>
+          <Values>
+            <string>Hakenbüchse</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Swords - Danish</Name>
           <Values>

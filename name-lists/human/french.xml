@@ -205,12 +205,19 @@
             <string>Arbalest</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Guns - French</Name>
+          <Values>
+            <string>Aequebus</string>
+          </Values>
+        </NameGroup>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
           <Name>Military unit types - French</Name>
           <Values>
             <string>Arbalester</string>
+            <string>Arquebusier</string>
             <string>Gendarme</string>
             <string>Musketeer</string>
           </Values>

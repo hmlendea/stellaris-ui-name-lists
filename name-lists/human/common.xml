@@ -132,17 +132,17 @@
           <string>Ghost</string>
           <string>Goblin</string>
           <string>Grim Reaper</string>
-          <string>Incubus</string>
           <string>Kraken</string>
           <string>Mermaid</string>
+          <string>Mummy</string>
           <string>Nymph</string>
           <string>Ogre</string>
           <string>Phantom</string>
           <string>Reaper</string>
           <string>Specter</string>
           <string>Spectre</string>
-          <string>Succubus</string>
           <string>Warlock</string>
+          <string>Werewolf</string>
           <string>Wraith</string>
         </Values>
       </NameGroup>

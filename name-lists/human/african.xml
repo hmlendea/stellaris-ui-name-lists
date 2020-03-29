@@ -12,6 +12,7 @@
           <string>Ethiopian</string>
           <string>Kabyle</string>
           <string>Kenyan</string>
+          <string>Mossi</string>
           <string>Namibian</string>
           <string>Nigerian</string>
           <string>Somali</string>
@@ -32,6 +33,7 @@
           <Values>
             <string>Algeria</string>
             <string>Angola</string>
+            <string>Burkina Faso</string>
             <string>Chad</string>
             <string>Congo</string>
             <string>Djibouti</string>
@@ -516,6 +518,12 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Leaders - Swahili</Name>
+          <Values>
+            <string>al-Hasan ibn Sulaiman</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Leaders - Zulu</Name>
           <Values>
             <string>Shaka Zulu</string>
@@ -543,6 +551,14 @@
           </Values>
         </NameGroup>
       </LeadersTier2>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - Mossi</Name>
+          <Values>
+            <string>Yennenga</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
       <GeneralsTier3>
         <NameGroup>
           <Name>Generals - Tunisian</Name>
@@ -555,13 +571,19 @@
     <Warfare>
       <Weapons>
         <NameGroup>
-          <Name>Swords - Kabyle</Name>
+          <Name>Blades - Ethiopian</Name>
+          <Values>
+            <string>Shotel</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Blades - Kabyle</Name>
           <Values>
             <string>Flyssa</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Swords - Sudan, Chad, Eritrea</Name>
+          <Name>Blades - Sudan, Chad, Eritrea</Name>
           <Values>
             <string>Kaskara</string>
           </Values>
@@ -578,12 +600,19 @@
           <Name>Military Unit Types - Ethiopian</Name>
           <Values>
             <string>Mehal Sefari</string>
+            <string>Shotelai</string>
           </Values>
         </NameGroup>
         <NameGroup>
           <Name>Military Unit Types - Mali</Name>
           <Values>
             <string>Mandekalu</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Swahili</Name>
+          <Values>
+            <string>Jahazi</string>
           </Values>
         </NameGroup>
         <NameGroup>

@@ -277,6 +277,8 @@
         <Name>Mythological Creatures</Name>
         <Values>
           <string>Daemon</string>
+          <string>Incubus</string>
+          <string>Succubus</string>
         </Values>
       </NameGroup>
     </MythologicalCreatures>
