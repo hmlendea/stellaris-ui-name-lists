@@ -252,18 +252,22 @@
     </GreatPeople>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Blades - Moroccan</Name>
-          <Values>
-            <string>Nimcha</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Daggers</Name>
-          <Values>
-            <string>Khanjar</string>
-          </Values>
-        </NameGroup>
+        <Swords>
+          <NameGroup>
+            <Name>Blades - Moroccan</Name>
+            <Values>
+              <string>Nimcha</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+        <Daggers>
+          <NameGroup>
+            <Name>Daggers</Name>
+            <Values>
+              <string>Khanjar</string>
+            </Values>
+          </NameGroup>
+        </Daggers>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>

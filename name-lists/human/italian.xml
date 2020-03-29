@@ -127,12 +127,22 @@
     </GreatPeople>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Swords</Name>
-          <Values>
-            <string>Cinquedea</string>
-          </Values>
-        </NameGroup>
+        <Swords>
+          <NameGroup>
+            <Name>Swords</Name>
+            <Values>
+              <string>Cinquedea</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+        <Daggers>
+          <NameGroup>
+            <Name>Daggers</Name>
+            <Values>
+              <string>Stiletto</string>
+            </Values>
+          </NameGroup>
+        </Daggers>
       </Weapons>
     </Warfare>
     <ShipClasses>

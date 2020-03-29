@@ -240,13 +240,15 @@
     </Companies>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Blades</Name>
-          <Values>
-            <string>Talwar</string>
-            <string>Urumi</string>
-          </Values>
-        </NameGroup>
+        <Swords>
+          <NameGroup>
+            <Name>Swords</Name>
+            <Values>
+              <string>Talwar</string>
+              <string>Urumi</string>
+            </Values>
+          </NameGroup>
+        </Swords>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>

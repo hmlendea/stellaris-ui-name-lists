@@ -199,18 +199,22 @@
     </Companies>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Crossbows - French</Name>
-          <Values>
-            <string>Arbalest</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Guns - French</Name>
-          <Values>
-            <string>Aequebus</string>
-          </Values>
-        </NameGroup>
+        <Guns>
+          <NameGroup>
+            <Name>Guns</Name>
+            <Values>
+              <string>Aequebus</string>
+            </Values>
+          </NameGroup>
+        </Guns>
+        <Crossbows>
+          <NameGroup>
+            <Name>Crossbows</Name>
+            <Values>
+              <string>Arbalest</string>
+            </Values>
+          </NameGroup>
+        </Crossbows>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>

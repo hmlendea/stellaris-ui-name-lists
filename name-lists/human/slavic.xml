@@ -552,24 +552,30 @@
     </Companies>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Artillery - Russian</Name>
-          <Values>
-            <string>Katyusha</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Blades - Russian</Name>
-          <Values>
-          <string>Shashka</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Guns - Russian</Name>
-          <Values>
-          <string>Kalashnikov</string>
-          </Values>
-        </NameGroup>
+        <Artillery>
+          <NameGroup>
+            <Name>Artillery - Russian</Name>
+            <Values>
+              <string>Katyusha</string>
+            </Values>
+          </NameGroup>
+        </Artillery>
+        <Guns>
+          <NameGroup>
+            <Name>Guns - Russian</Name>
+            <Values>
+            <string>Kalashnikov</string>
+            </Values>
+          </NameGroup>
+        </Guns>
+        <Swords>
+          <NameGroup>
+            <Name>Swords - Russian</Name>
+            <Values>
+            <string>Shashka</string>
+            </Values>
+          </NameGroup>
+        </Swords>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>

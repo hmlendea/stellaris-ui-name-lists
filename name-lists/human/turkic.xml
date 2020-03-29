@@ -71,14 +71,16 @@
     </GreatPeople>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Blades</Name>
-          <Values>
-            <string>Kilij</string>
-            <string>Scimitar</string>
-            <string>Yatagan</string>
-          </Values>
-        </NameGroup>
+        <Swords>
+          <NameGroup>
+            <Name>Swords</Name>
+            <Values>
+              <string>Kilij</string>
+              <string>Scimitar</string>
+              <string>Yatagan</string>
+            </Values>
+          </NameGroup>
+        </Swords>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>

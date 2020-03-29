@@ -50,25 +50,25 @@
     </Places>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Swords - Puzzle Pirates</Name>
-          <Values>
-            <string>Backsword</string>
-            <string>Cutlass</string>
-            <string>Dadao</string>
-            <string>Dirk</string>
-            <string>Falchion</string>
-            <string>Foil</string>
-            <string>Katana</string>
-            <string>Longsword</string>
-            <string>Poniard</string>
-            <string>Rapier</string>
-            <string>Saber</string>
-            <string>Scimitar</string>
-            <string>Shortsword</string>
-            <string>Stiletto</string>
-          </Values>
-        </NameGroup>
+        <Swords>
+          <NameGroup>
+            <Name>Swords - Puzzle Pirates</Name>
+            <Values>
+              <string>Backsword</string>
+              <string>Cutlass</string>
+              <string>Dadao</string>
+              <string>Dirk</string>
+              <string>Falchion</string>
+              <string>Foil</string>
+              <string>Katana</string>
+              <string>Longsword</string>
+              <string>Poniard</string>
+              <string>Rapier</string>
+              <string>Saber</string>
+              <string>Shortsword</string>
+            </Values>
+          </NameGroup>
+        </Swords>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>

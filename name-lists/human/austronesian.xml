@@ -459,24 +459,28 @@
     </GreatPeople>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Blades - Indonesian</Name>
-          <Values>
-            <string>Golok</string>
-            <string>Jimpul</string>
-            <string>Klewang</string>
-            <string>Langgai Tinggang</string>
-            <string>Niabor</string>
-            <string>Pandat</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Daggers - Indonesian</Name>
-          <Values>
-            <string>Kris</string>
-            <string>Mandau</string>
-          </Values>
-        </NameGroup>
+        <Swords>
+          <NameGroup>
+            <Name>Swords - Indonesian</Name>
+            <Values>
+              <string>Golok</string>
+              <string>Jimpul</string>
+              <string>Klewang</string>
+              <string>Langgai Tinggang</string>
+              <string>Niabor</string>
+              <string>Pandat</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+        <Daggers>
+          <NameGroup>
+            <Name>Daggers - Indonesian</Name>
+            <Values>
+              <string>Kris</string>
+              <string>Mandau</string>
+            </Values>
+          </NameGroup>
+        </Daggers>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>

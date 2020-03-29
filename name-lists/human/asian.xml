@@ -510,50 +510,58 @@
     </Companies>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Artillery - Korean</Name>
-          <Values>
-            <string>Hwach'a</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Swords - Chinese</Name>
-          <Values>
-            <string>Changdao</string>
-            <string>Dadao</string>
-            <string>Jian</string>
-            <string>Liuyedao</string>
-            <string>Miaodao</string>
-            <string>Wodao</string>
-            <string>Yanmaodao</string>
-            <string>Zhanmadao</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Swords - Japanese</Name>
-          <Values>
-            <string>Chokuto</string>
-            <string>Katana</string>
-            <string>Odachi</string>
-            <string>Shikomizue</string>
-            <string>Tachi</string>
-            <string>Tsurugi</string>
-            <string>Uchigatana</string>
-            <string>Wakizashi</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Daggers - Japanese</Name>
-          <Values>
-            <string>Kaiken</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Crossbows - Chinese</Name>
-          <Values>
-            <string>Chu-ko-nu</string>
-          </Values>
-        </NameGroup>
+        <Artillery>
+          <NameGroup>
+            <Name>Artillery - Korean</Name>
+            <Values>
+              <string>Hwach'a</string>
+            </Values>
+          </NameGroup>
+        </Artillery>
+        <Crossbows>
+          <NameGroup>
+            <Name>Crossbows - Chinese</Name>
+            <Values>
+              <string>Chu-ko-nu</string>
+            </Values>
+          </NameGroup>
+        </Crossbows>
+        <Swords>
+          <NameGroup>
+            <Name>Swords - Chinese</Name>
+            <Values>
+              <string>Changdao</string>
+              <string>Dadao</string>
+              <string>Jian</string>
+              <string>Liuyedao</string>
+              <string>Miaodao</string>
+              <string>Wodao</string>
+              <string>Yanmaodao</string>
+              <string>Zhanmadao</string>
+            </Values>
+          </NameGroup>
+          <NameGroup>
+            <Name>Swords - Japanese</Name>
+            <Values>
+              <string>Chokuto</string>
+              <string>Katana</string>
+              <string>Odachi</string>
+              <string>Shikomizue</string>
+              <string>Tachi</string>
+              <string>Tsurugi</string>
+              <string>Uchigatana</string>
+              <string>Wakizashi</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+        <Daggers>
+          <NameGroup>
+            <Name>Daggers - Japanese</Name>
+            <Values>
+              <string>Kaiken</string>
+            </Values>
+          </NameGroup>
+        </Daggers>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>

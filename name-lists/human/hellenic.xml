@@ -178,25 +178,31 @@
     </GreatPeople>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Artillery</Name>
-          <Values>
-            <string>Polybolos</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Swords</Name>
-          <Values>
-            <string>Makihara</string>
-            <string>Xiphos</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Daggers</Name>
-          <Values>
-            <string>Kopis</string>
-          </Values>
-        </NameGroup>
+        <Artillery>
+          <NameGroup>
+            <Name>Artillery</Name>
+            <Values>
+              <string>Polybolos</string>
+            </Values>
+          </NameGroup>
+        </Artillery>
+        <Swords>
+          <NameGroup>
+            <Name>Swords</Name>
+            <Values>
+              <string>Makihara</string>
+              <string>Xiphos</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+        <Daggers>
+          <NameGroup>
+            <Name>Daggers</Name>
+            <Values>
+              <string>Kopis</string>
+            </Values>
+          </NameGroup>
+        </Daggers>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>

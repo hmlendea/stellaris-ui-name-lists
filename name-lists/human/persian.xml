@@ -192,13 +192,15 @@
     </GreatPeople>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Blades</Name>
-          <Values>
-            <string>Pulwar</string>
-            <string>Shamshir</string>
-          </Values>
-        </NameGroup>
+        <Swords>
+          <NameGroup>
+            <Name>Swords</Name>
+            <Values>
+              <string>Pulwar</string>
+              <string>Shamshir</string>
+            </Values>
+          </NameGroup>
+        <Swords>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>

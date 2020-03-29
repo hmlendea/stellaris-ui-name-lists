@@ -579,24 +579,26 @@
     </GreatPeople>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Blades - Ethiopian</Name>
-          <Values>
-            <string>Shotel</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Blades - Kabyle</Name>
-          <Values>
-            <string>Flyssa</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Blades - Sudan, Chad, Eritrea</Name>
-          <Values>
-            <string>Kaskara</string>
-          </Values>
-        </NameGroup>
+        <Swords>
+          <NameGroup>
+            <Name>Swords - Ethiopian</Name>
+            <Values>
+              <string>Shotel</string>
+            </Values>
+          </NameGroup>
+          <NameGroup>
+            <Name>Swords - Kabyle</Name>
+            <Values>
+              <string>Flyssa</string>
+            </Values>
+          </NameGroup>
+          <NameGroup>
+            <Name>Swords - Sudan, Chad, Eritrea</Name>
+            <Values>
+              <string>Kaskara</string>
+            </Values>
+          </NameGroup>
+        </Swords>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>

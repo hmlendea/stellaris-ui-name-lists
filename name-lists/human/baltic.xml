@@ -108,13 +108,6 @@
       </Cities>
     </Places>
     <Warfare>
-      <Weapons>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
           <Name>Military unit types - </Name>

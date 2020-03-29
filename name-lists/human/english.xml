@@ -613,12 +613,14 @@
     </Companies>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Axes - American</Name>
-          <Values>
-            <string>Tomahawk</string>
-          </Values>
-        </NameGroup>
+        <Axes>
+          <NameGroup>
+            <Name>Axes - American</Name>
+            <Values>
+              <string>Tomahawk</string>
+            </Values>
+          </NameGroup>
+        </Axes>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>

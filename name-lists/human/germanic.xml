@@ -571,25 +571,29 @@
     </Companies>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Guns - German</Name>
-          <Values>
-            <string>Hakenbüchse</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Swords - Danish</Name>
-          <Values>
-            <string>Sparth</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Swords - German</Name>
-          <Values>
-            <string>Katzbalger</string>
-            <string>Flamberge</string>
-          </Values>
-        </NameGroup>
+        <Guns>
+          <NameGroup>
+            <Name>Guns - German</Name>
+            <Values>
+              <string>Hakenbüchse</string>
+            </Values>
+          </NameGroup>
+        </Guns>
+        <Swords>
+          <NameGroup>
+            <Name>Swords - Danish</Name>
+            <Values>
+              <string>Sparth</string>
+            </Values>
+          </NameGroup>
+          <NameGroup>
+            <Name>Swords - German</Name>
+            <Values>
+              <string>Katzbalger</string>
+              <string>Flamberge</string>
+            </Values>
+          </NameGroup>
+        </Swords>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
