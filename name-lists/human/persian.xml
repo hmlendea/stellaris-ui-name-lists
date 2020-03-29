@@ -7,8 +7,11 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
+          <string>Afghan</string>
           <string>Iranian</string>
+          <string>Pashtun</string>
           <string>Persian</string>
+          <string>Tajik</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -17,11 +20,93 @@
         <NameGroup>
           <Name>Countries</Name>
           <Values>
+            <string>Afghanistan</string>
             <string>Iran</string>
+            <string>Tajikistan</string>
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions - Afghanistan</Name>
+          <Values>
+            <string>Badakhshan</string>
+            <string>Badghis</string>
+            <string>Baghlan</string>
+            <string>Balkh</string>
+            <string>Bamyan</string>
+            <string>Daykundi</string>
+            <string>Farah</string>
+            <string>Faryab</string>
+            <string>Ghazni</string>
+            <string>Ghor</string>
+            <string>Helmand</string>
+            <string>Herat</string>
+            <string>Jowzjan</string>
+            <string>Kabul</string>
+            <string>Kandahar</string>
+            <string>Kapisa</string>
+            <string>Khost</string>
+            <string>Kunar</string>
+            <string>Kunduz</string>
+            <string>Laghman</string>
+            <string>Logar</string>
+            <string>Nangarhar</string>
+            <string>Nimruz</string>
+            <string>Nuristan</string>
+            <string>Paktia</string>
+            <string>Paktika</string>
+            <string>Panjshir</string>
+            <string>Parwan</string>
+            <string>Samangan</string>
+            <string>Sar-e Pol</string>
+            <string>Takhar</string>
+            <string>Urozgan</string>
+            <string>Wardak</string>
+            <string>Zabul</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
+        <NameGroup>
+          <Name>Cities - Afghanistan</Name>
+          <Values>
+            <string>Asadabad</string>
+            <string>Bamyan</string>
+            <string>Bazarak</string>
+            <string>Chaghcharan</string>
+            <string>Charikar</string>
+            <string>Farah</string>
+            <string>Fayzabad</string>
+            <string>Gardez</string>
+            <string>Ghazni</string>
+            <string>Herat</string>
+            <string>Jalalabad</string>
+            <string>Kabul</string>
+            <string>Kandahar</string>
+            <string>Khost</string>
+            <string>Kunduz</string>
+            <string>Lashkargah</string>
+            <string>Mahmud-i-Raqi</string>
+            <string>Maidan Shar</string>
+            <string>Maymana</string>
+            <string>Mazar-i-Sharif</string>
+            <string>Mihtarlam</string>
+            <string>Nili</string>
+            <string>Parun</string>
+            <string>Pul-i-Alam</string>
+            <string>Puli Khumri</string>
+            <string>Qala i Naw</string>
+            <string>Qalat</string>
+            <string>Samangan</string>
+            <string>Sar-e Pol</string>
+            <string>Sharana</string>
+            <string>Sheberghan</string>
+            <string>Taloqan</string>
+            <string>Tarinkot</string>
+            <string>Zaranj</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Cities - Iran</Name>
           <Values>
@@ -41,6 +126,16 @@
       </Mountains>
       <Deserts>
         <NameGroup>
+          <Name>Deserts - Afghanistan</Name>
+          <Values>
+            <string>Khash</string>
+            <string>Leili</string>
+            <string>Margo</string>
+            <string>Naomid</string>
+            <string>Registan</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Deserts - Iran</Name>
           <Values>
             <string>Kavir</string>
@@ -55,10 +150,23 @@
         <NameGroup>
           <Name>Scientists - Persian</Name>
           <Values>
+            <string>Al-Khwarizmi</string>
+            <string>Al-Razi</string>
             <string>Azophi</string>
+            <string>Khayyam</string>
+            <string>Omar Khayam</string>
           </Values>
         </NameGroup>
       </Scientists>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders - Persian</Name>
+          <Values>
+            <string>Cyrus</string>
+            <string>Darius</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
       <LeadersTier3>
         <NameGroup>
           <Name>Leaders - Persian</Name>
@@ -69,6 +177,12 @@
       </LeadersTier3>
       <Heroes>
         <NameGroup>
+          <Name>Heroes</Name>
+          <Values>
+            <string>Gordafarid</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Heroes - Iranian</Name>
           <Values>
             <string>Esfandiar</string>
@@ -78,13 +192,25 @@
     </GreatPeople>
     <Warfare>
       <Weapons>
+        <Swords>
+          <NameGroup>
+            <Name>Swords</Name>
+            <Values>
+              <string>Acinaces</string>
+              <string>Pulwar</string>
+              <string>Shamshir</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+      </Weapons>
+      <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Swords</Name>
+          <Name>Military Unit Types - Persian</Name>
           <Values>
-            <string>Acinaces</string>
+            <string>Immortal</string>
           </Values>
         </NameGroup>
-      </Weapons>
+      </MilitaryUnitTypes>
     </Warfare>
   </NameList>
 </ArrayOfNameList>

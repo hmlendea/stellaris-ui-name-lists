@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>nms_vykeen</Id>
+    <Name>No Man's Sky - Vy'keen</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Vy'keen</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Stations>
+      <ResearchStations>
+        <NameGroup>
+          <Name>Research facilities</Name>
+          <Values>
+            <string>Atler Labs</string>
+            <string>Beymoon Labs</string>
+          </Values>
+        </NameGroup>
+      </ResearchStations>
+    </Stations>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/nms-planets.txt</Url>
+        </NameGroup>
+      </Generic>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>vykeen</Id>
+        <Weight>100</Weight>
+        <FullNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/nms-vykeen-persons.txt</Url>
+          </NameGroup>
+        </FullNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

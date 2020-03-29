@@ -12,12 +12,14 @@
           <string>Ethiopian</string>
           <string>Kabyle</string>
           <string>Kenyan</string>
+          <string>Mossi</string>
           <string>Namibian</string>
           <string>Nigerian</string>
           <string>Somali</string>
           <string>Sudanese</string>
           <string>Tunisian</string>
           <string>Ugandan</string>
+          <string>Yoruba</string>
           <string>Zambian</string>
           <string>Zimbabwean</string>
           <string>Zimbo</string>
@@ -32,6 +34,7 @@
           <Values>
             <string>Algeria</string>
             <string>Angola</string>
+            <string>Burkina Faso</string>
             <string>Chad</string>
             <string>Congo</string>
             <string>Djibouti</string>
@@ -69,13 +72,64 @@
       </Countries>
       <Regions>
         <NameGroup>
-          <Name>Regions -Africa</Name>
+          <Name>Regions - Africa</Name>
           <Values>
             <string>Sahara</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions -Nigeria</Name>
+          <Name>Regions - Angola</Name>
+          <Values>
+            <string>Bengo</string>
+            <string>Benguela</string>
+            <string>Bié</string>
+            <string>Cabinda</string>
+            <string>Cuando Cubango</string>
+            <string>Cuanza Norte</string>
+            <string>Cuanza Sul</string>
+            <string>Cunene</string>
+            <string>Huambo</string>
+            <string>Huíla</string>
+            <string>Luanda</string>
+            <string>Lunda Norte</string>
+            <string>Lunda Sul</string>
+            <string>Malanje</string>
+            <string>Moxico</string>
+            <string>Namibe</string>
+            <string>Uíge</string>
+            <string>Zaire</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Congo</Name>
+          <Values>
+            <string>Bas-Uele</string>
+            <string>Équateur</string>
+            <string>Haut-Katanga</string>
+            <string>Haut-Lomami</string>
+            <string>Haut-Uele</string>
+            <string>Ituri</string>
+            <string>Kasaï</string>
+            <string>Kinshasa</string>
+            <string>Kivu</string>
+            <string>Kongo</string>
+            <string>Kwango</string>
+            <string>Kwilu</string>
+            <string>Lomami</string>
+            <string>Lualaba</string>
+            <string>Mai-Ndombe</string>
+            <string>Maniema</string>
+            <string>Mongala</string>
+            <string>Nord-Ubangi</string>
+            <string>Sankuru</string>
+            <string>Sud-Ubangi</string>
+            <string>Tanganyika</string>
+            <string>Tshopo</string>
+            <string>Tshuapa</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Nigeria</Name>
           <Values>
             <string>Abia</string>
             <string>Adamawa</string>
@@ -116,7 +170,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions -Mauritania</Name>
+          <Name>Regions - Mauritania</Name>
           <Values>
             <string>Adrar</string>
             <string>Assaba</string>
@@ -133,18 +187,83 @@
             <string>Trarza</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Regions - Senegal</Name>
+          <Values>
+            <string>Dakar</string>
+            <string>Diourbel</string>
+            <string>Fatick</string>
+            <string>Kaffrine</string>
+            <string>Kaolack</string>
+            <string>Kédougou</string>
+            <string>Kolda</string>
+            <string>Louga</string>
+            <string>Matam</string>
+            <string>Saint-Louis</string>
+            <string>Sédhiou</string>
+            <string>Tambacounda</string>
+            <string>Thiès</string>
+            <string>Ziguinchor</string>
+          </Values>
+        </NameGroup>
       </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Algeria</Name>
           <Values>
+            <string>Aïn Béïda</string>
             <string>Algiers</string>
+            <string>Annaba</string>
+            <string>Batna</string>
+            <string>Béchar</string>
+            <string>Béjaïa</string>
+            <string>Bilda</string>
+            <string>Biskra</string>
+            <string>Bordj Bou Arréridj</string>
+            <string>Bousaada</string>
+            <string>Chlef</string>
+            <string>Constantine</string>
+            <string>Djelfa</string>
+            <string>El Eulma</string>
+            <string>El Oued</string>
+            <string>Ghardaïa</string>
+            <string>Guelma</string>
+            <string>Jijel</string>
+            <string>Khenchela</string>
+            <string>Laghouat</string>
+            <string>M'Sila</string>
+            <string>Mascara</string>
+            <string>Médéa</string>
+            <string>Mostaganem</string>
+            <string>Oran</string>
+            <string>Ouargla</string>
+            <string>Relizane</string>
+            <string>Saïda</string>
+            <string>Sétif</string>
+            <string>Sidi Bel Abbès</string>
+            <string>Skikda</string>
+            <string>Souk Ahras</string>
+            <string>Tébessa</string>
+            <string>Tiaret</string>
+            <string>Tindouf</string>
+            <string>Tizi Ouzou</string>
+            <string>Tlemcen</string>
+            <string>Touggourt</string>
           </Values>
         </NameGroup>
         <NameGroup>
           <Name>Cities - Angola</Name>
           <Values>
+            <string>Benguela</string>
+            <string>Huambo</string>
+            <string>Kuito</string>
+            <string>Lobito</string>
             <string>Luanda</string>
+            <string>Lubango</string>
+            <string>Lucapa</string>
+            <string>Malanje</string>
+            <string>Moçâmedes</string>
+            <string>Soyo</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -156,7 +275,29 @@
         <NameGroup>
           <Name>Cities - Congo</Name>
           <Values>
+            <string>Bandundu</string>
+            <string>Boma</string>
+            <string>Bukavu</string>
+            <string>Bunia</string>
+            <string>Butembo</string>
+            <string>Gandajika</string>
+            <string>Goma</string>
+            <string>Kabinda</string>
+            <string>Kamina</string>
+            <string>Kananga</string>
+            <string>Kikwit</string>
+            <string>Kindu</string>
             <string>Kinshasa</string>
+            <string>Kisangani</string>
+            <string>Kolwezi</string>
+            <string>Likasi</string>
+            <string>Lubumbashi</string>
+            <string>Matadi</string>
+            <string>Mbandaka</string>
+            <string>Mbuji-Mayi</string>
+            <string>Mwene-Ditu</string>
+            <string>Tshikapa</string>
+            <string>Uvira</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -258,6 +399,19 @@
           <Name>Cities - Senegal</Name>
           <Values>
             <string>Dakar</string>
+            <string>Diourbel</string>
+            <string>Fatick</string>
+            <string>Kaffrine</string>
+            <string>Kaolack</string>
+            <string>Kédougou</string>
+            <string>Kolda</string>
+            <string>Louga</string>
+            <string>Matam</string>
+            <string>Saint-Louis</string>
+            <string>Sédhiou</string>
+            <string>Tambacounda</string>
+            <string>Thiès</string>
+            <string>Ziguinchor</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -359,12 +513,53 @@
     <GreatPeople>
       <LeadersTier1>
         <NameGroup>
+          <Name>Leaders - Congo</Name>
+          <Values>
+            <string>Mvemba a Nzinga</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Swahili</Name>
+          <Values>
+            <string>al-Hasan ibn Sulaiman</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Leaders - Zulu</Name>
           <Values>
             <string>Shaka Zulu</string>
           </Values>
         </NameGroup>
       </LeadersTier1>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders - Ethiopia</Name>
+          <Values>
+            <string>Haile Selassie</string>
+            <string>Zara Yaqob</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Mali</Name>
+          <Values>
+            <string>Mansa Musa</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Tunisian</Name>
+          <Values>
+            <string>Dido</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - Mossi</Name>
+          <Values>
+            <string>Yennenga</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
       <GeneralsTier3>
         <NameGroup>
           <Name>Generals - Tunisian</Name>
@@ -373,25 +568,74 @@
           </Values>
         </NameGroup>
       </GeneralsTier3>
+      <LabourDeities>
+        <NameGroup>
+          <Name>Labour Deities - Yoruba</Name>
+          <Values>
+            <string>Ogun</string>
+          </Values>
+        </NameGroup>
+      </LabourDeities>
     </GreatPeople>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Swords - Kabyle</Name>
-          <Values>
+        <Swords>
+          <NameGroup>
+            <Name>Swords - Ethiopian</Name>
+            <Values>
+              <string>Shotel</string>
+            </Values>
+          </NameGroup>
+          <NameGroup>
+            <Name>Swords - Kabyle</Name>
+            <Values>
               <string>Flyssa</string>
+            </Values>
+          </NameGroup>
+          <NameGroup>
+            <Name>Swords - Sudan, Chad, Eritrea</Name>
+            <Values>
+              <string>Kaskara</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types - Congolese</Name>
+          <Values>
+            <string>Ngao Mbeba</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Swords - Sudan, Chad, Eritrea</Name>
+          <Name>Military Unit Types - Ethiopian</Name>
           <Values>
-              <string>Kaskara</string>
+            <string>Mehal Sefari</string>
+            <string>Shotelai</string>
           </Values>
         </NameGroup>
-      </Weapons>
+        <NameGroup>
+          <Name>Military Unit Types - Mali</Name>
+          <Values>
+            <string>Mandekalu</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Swahili</Name>
+          <Values>
+            <string>Jahazi</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Zulu</Name>
+          <Values>
+            <string>Impi</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
     </Warfare>
-    <Ships>
-      <Corvette>
+    <BiosphereNames>
+      <Animals>
         <NameGroup>
           <Name>Animals</Name>
           <Values>
@@ -399,21 +643,9 @@
             <string>Elephant</string>
           </Values>
         </NameGroup>
-      </Corvette>
-      <Destroyer>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Destroyer>
-      <Cruiser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Cruiser>
+      </Animals>
+    </BiosphereNames>
+    <Ships>
       <Constructor>
         <NameGroup>
           <Name>Mythology - Spirits - Irish</Name>
@@ -422,34 +654,7 @@
           </Values>
         </NameGroup>
       </Constructor>
-      <Coloniser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Coloniser>
     </Ships>
-    <Stations>
-        <MilitaryStations>
-        <Generic>
-            <NameGroup>
-                <Name></Name>
-                <Values>
-                </Values>
-            </NameGroup>
-        </Generic>
-        </MilitaryStations>
-    </Stations>
-    <Armies>
-      <Fleet>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Fleet>
-    </Armies>
     <Planets>
       <Generic>
         <NameGroup>
@@ -500,6 +705,12 @@
             <string>Jabulile</string>
             <string>Mzoxolo</string>
             <string>Thula</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Divine Ascension</Name>
+          <Values>
+            <string>Touba</string>
           </Values>
         </NameGroup>
       </Generic>
@@ -566,47 +777,17 @@
         <Weight>1</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Adamu</string>
-              <string>Ali</string>
-              <string>Dauda</string>
-              <string>Haruna</string>
-              <string>Hasan</string>
-              <string>Husaini</string>
-              <string>Ibrahim</string>
-              <string>Isa</string>
-              <string>Isiyaku</string>
-              <string>Isma'ilu</string>
-              <string>Jibirilu</string>
-              <string>Muhammadu</string>
-              <string>Musa</string>
-              <string>Nuhu</string>
-              <string>Sulemanu</string>
-              <string>Yaƙubu</string>
-              <string>Yusufu</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/hau-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>A'ishatu</string>
-              <string>Faɗimatu</string>
-              <string>Hadizatu</string>
-              <string>Hauwa</string>
-              <string>Maryamu</string>
-              <string>Rahila</string>
-              <string>Saratu</string>
-              <string>Zainabu</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/hau-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Harouna</string>
-              <string>Rabiu</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/hau-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>
@@ -615,266 +796,17 @@
         <Weight>1</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Aar</string>
-              <string>Abdullahi</string>
-              <string>Abroone</string>
-              <string>Abtidoon</string>
-              <string>Aden</string>
-              <string>Araarsame</string>
-              <string>Awsame</string>
-              <string>Ayaanle</string>
-              <string>Baashe</string>
-              <string>Bacalwaan</string>
-              <string>Bahdoon</string>
-              <string>Barre</string>
-              <string>Barsame</string>
-              <string>Beyle</string>
-              <string>Biixi</string>
-              <string>Bile</string>
-              <string>Bisinle</string>
-              <string>Bootaan</string>
-              <string>Bullaale</string>
-              <string>Bulxan</string>
-              <string>Buraale</string>
-              <string>Buux</string>
-              <string>Cabbane</string>
-              <string>Cabsiiye</string>
-              <string>Cagaane</string>
-              <string>Calas</string>
-              <string>Calosoow</string>
-              <string>Careys</string>
-              <string>Carraale</string>
-              <string>Carre</string>
-              <string>Cartan</string>
-              <string>Catoosh</string>
-              <string>Cawaale</string>
-              <string>Cawad</string>
-              <string>Cawil</string>
-              <string>Cawl</string>
-              <string>Caydiid</string>
-              <string>Caynaanshe</string>
-              <string>Cigaal</string>
-              <string>Cigalle</string>
-              <string>Cige</string>
-              <string>Ciiltire</string>
-              <string>Coldiid</string>
-              <string>Coldoon</string>
-              <string>Colow</string>
-              <string>Cosoble</string>
-              <string>Dalmar</string>
-              <string>Damaal</string>
-              <string>Deeq</string>
-              <string>Dhiblaawe</string>
-              <string>Dhuule</string>
-              <string>Dhuux</string>
-              <string>Digaale</string>
-              <string>Diiriye</string>
-              <string>Dirir</string>
-              <string>Ducaale</string>
-              <string>Erasto</string>
-              <string>Faahiye</string>
-              <string>Gabeyre</string>
-              <string>Gaboose</string>
-              <string>Gacayte</string>
-              <string>Gadiid</string>
-              <string>Gafle</string>
-              <string>Galaal</string>
-              <string>Galayax</string>
-              <string>Galbeyte</string>
-              <string>Gallad</string>
-              <string>Gamadiid</string>
-              <string>Garaad</string>
-              <string>Geeddi</string>
-              <string>Geele</string>
-              <string>Geeljire</string>
-              <string>Geesi</string>
-              <string>Good</string>
-              <string>Guhaad</string>
-              <string>Guraase</string>
-              <string>Gurey</string>
-              <string>Guuldoon</string>
-              <string>Guuleed</string>
-              <string>Guure</string>
-              <string>Guutaale</string>
-              <string>Habbane</string>
-              <string>Hanad</string>
-              <string>Haybe</string>
-              <string>Hidan</string>
-              <string>Hiirane</string>
-              <string>Hirad</string>
-              <string>Hufane</string>
-              <string>Hurre</string>
-              <string>Huruuse</string>
-              <string>Jaajuumow</string>
-              <string>Jabane</string>
-              <string>Jama</string>
-              <string>Jayte</string>
-              <string>Kaahin</string>
-              <string>Kaahiye</string>
-              <string>Kaarshe</string>
-              <string>Kadiye</string>
-              <string>Karbaashe</string>
-              <string>Kayd</string>
-              <string>Keenadiid</string>
-              <string>Keynaan</string>
-              <string>Koosafaare</string>
-              <string>Kooshin</string>
-              <string>Kuluc</string>
-              <string>Kunciil</string>
-              <string>Liban</string>
-              <string>Liibaan</string>
-              <string>Looyaan</string>
-              <string>Maax</string>
-              <string>Madoobe</string>
-              <string>Magan</string>
-              <string>Mahad</string>
-              <string>Malow</string>
-              <string>Mataan</string>
-              <string>Maygaag</string>
-              <string>Miigane</string>
-              <string>Mire</string>
-              <string>Mooge</string>
-              <string>Naaleeye</string>
-              <string>Nabadoon</string>
-              <string>Nageeye</string>
-              <string>Obsiiye</string>
-              <string>Odawaa</string>
-              <string>Olol</string>
-              <string>Osman</string>
-              <string>Qabille</string>
-              <string>Qalinle</string>
-              <string>Qamaan</string>
-              <string>Qarshe</string>
-              <string>Qaybdiid</string>
-              <string>Qorane</string>
-              <string>Raage</string>
-              <string>Rayaale</string>
-              <string>Rooble</string>
-              <string>Samaale</string>
-              <string>Samaane</string>
-              <string>Samadoon</string>
-              <string>Samakaab</string>
-              <string>Samatalis</string>
-              <string>Samatar</string>
-              <string>Samawade</string>
-              <string>Saxardiid</string>
-              <string>Sharmaarke</string>
-              <string>Sharmooge</string>
-              <string>Shidane</string>
-              <string>Shirdoon</string>
-              <string>Shire</string>
-              <string>Shirwac</string>
-              <string>Sooyaan</string>
-              <string>Sugaal</string>
-              <string>Sugule</string>
-              <string>Suudi</string>
-              <string>Tadalesh</string>
-              <string>Talasame</string>
-              <string>Tubeec</string>
-              <string>Waaheen</string>
-              <string>Waasuge</string>
-              <string>Wacays</string>
-              <string>Waraabe</string>
-              <string>Wardheere</string>
-              <string>Warfaa</string>
-              <string>Warmooge</string>
-              <string>Warsame</string>
-              <string>Weheliye</string>
-              <string>Xalane</string>
-              <string>Xandule</string>
-              <string>Xareed</string>
-              <string>Xildiid</string>
-              <string>Xirsi</string>
-              <string>Xoosh</string>
-              <string>Yalaxoow</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/som-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Amburo</string>
-              <string>Aragsan</string>
-              <string>Astur</string>
-              <string>Ayaan</string>
-              <string>Barni</string>
-              <string>Batuulo</string>
-              <string>Baxsan</string>
-              <string>Beydan</string>
-              <string>Bilan</string>
-              <string>Bishaaro</string>
-              <string>Calaso</string>
-              <string>Canbaro</string>
-              <string>Cawo</string>
-              <string>Cawrala</string>
-              <string>Ceebla</string>
-              <string>Cudbi</string>
-              <string>Cutiya</string>
-              <string>Dahaabo</string>
-              <string>Dalays</string>
-              <string>Deeqa</string>
-              <string>Degmo</string>
-              <string>Dhudhi</string>
-              <string>Falis</string>
-              <string>Filsan</string>
-              <string>Gargaaro</string>
-              <string>Habboon</string>
-              <string>Halgan</string>
-              <string>Haweya</string>
-              <string>Hibaaq</string>
-              <string>Hodan</string>
-              <string>Hodman</string>
-              <string>Hoodo</string>
-              <string>Idil</string>
-              <string>Idman</string>
-              <string>Iftin</string>
-              <string>Ilwaad</string>
-              <string>Jamaad</string>
-              <string>Kaaha</string>
-              <string>Kiin</string>
-              <string>Koos</string>
-              <string>Ladan</string>
-              <string>Maandeeq</string>
-              <string>Magool</string>
-              <string>Melaaneey</string>
-              <string>Milgo</string>
-              <string>Mulaaxo</string>
-              <string>Quman</string>
-              <string>Ruun</string>
-              <string>Saado</string>
-              <string>Sabaad</string>
-              <string>Sada</string>
-              <string>Sagal</string>
-              <string>Saluugla</string>
-              <string>Shankaroon</string>
-              <string>Shuun</string>
-              <string>Siman</string>
-              <string>Suubban</string>
-              <string>Tusmo</string>
-              <string>Ubax</string>
-              <string>Ugaaso</string>
-              <string>Ugbaad</string>
-              <string>Waris</string>
-              <string>Warsan</string>
-              <string>Wiilo</string>
-              <string>Xaadsan</string>
-              <string>Xaali</string>
-              <string>Xidig</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/som-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Abdullahi</string>
-              <string>Dirie</string>
-              <string>Duale</string>
-              <string>Dualeh</string>
-              <string>Egal</string>
-              <string>Samatar</string>
-              <string>Warsame</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/som-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>

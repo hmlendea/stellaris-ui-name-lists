@@ -174,51 +174,81 @@
           </Values>
         </NameGroup>
       </LeadersTier3>
+      <LabourDeities>
+        <NameGroup>
+          <Name>Labour Deities</Name>
+          <Values>
+            <string>Gobannus</string>
+          </Values>
+        </NameGroup>
+      </LabourDeities>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes</Name>
+          <Values>
+            <string>Hercules</string>
+            <string>Ulysses</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
     </GreatPeople>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Swords</Name>
-          <Values>
-            <string>Gladius</string>
-            <string>Spatha</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Daggers</Name>
-          <Values>
-            <string>Pugio</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Spears</Name>
-          <Values>
-            <string>Hasta</string>
-            <string>Spiculum</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Javelins</Name>
-          <Values>
-            <string>Lancea</string>
-            <string>Verutum</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Arrows</Name>
-          <Values>
-            <string>Plumbata</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Siege</Name>
-          <Values>
-            <string>Ballista</string>
-            <string>Scorpio</string>
-          </Values>
-        </NameGroup>
+        <Artillery>
+          <NameGroup>
+            <Name>Artillery</Name>
+            <Values>
+              <string>Ballista</string>
+              <string>Scorpio</string>
+            </Values>
+          </NameGroup>
+        </Artillery>
+        <Javelins>
+          <NameGroup>
+            <Name>Javelins</Name>
+            <Values>
+              <string>Lancea</string>
+              <string>Pilum</string>
+              <string>Verutum</string>
+            </Values>
+          </NameGroup>
+        </Javelins>
+        <Swords>
+          <NameGroup>
+            <Name>Swords</Name>
+            <Values>
+              <string>Gladius</string>
+              <string>Spatha</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+        <Daggers>
+          <NameGroup>
+            <Name>Daggers</Name>
+            <Values>
+              <string>Pugio</string>
+            </Values>
+          </NameGroup>
+        </Daggers>
+        <Polearms>
+          <NameGroup>
+            <Name>Spears</Name>
+            <Values>
+              <string>Hasta</string>
+              <string>Spiculum</string>
+            </Values>
+          </NameGroup>
+        </Polearms>
       </Weapons>
       <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Gladiator Types</Name>
+          <Values>
+            <string>Hoplomachus</string>
+            <string>Murmillo</string>
+            <string>Thraex</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Military Unit Types - Roman</Name>
           <Values>
@@ -232,6 +262,7 @@
             <string>Legionaire</string>
             <string>Legionarius</string>
             <string>Praetorian</string>
+            <string>Murmillo</string>
             <string>Signifer</string>
             <string>Tablifer</string>
             <string>Tubicen</string>
@@ -246,19 +277,33 @@
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations</Name>
+          <Values>
+            <string>Cannae</string>
+            <string>Mylae</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
     </Warfare>
-    <MythologicalCreatures>
-      <NameGroup>
-        <Name>Mythological Creatures</Name>
-        <Values>
-          <string>Daemon</string>
-        </Values>
-      </NameGroup>
-    </MythologicalCreatures>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological Creatures</Name>
+          <Values>
+            <string>Daemon</string>
+            <string>Hydra</string>
+            <string>Incubus</string>
+            <string>Succubus</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <Ships>
       <Colossus>
         <NameGroup>
-          <Name>Vanilla Human SPQR</Name>
+          <Name>Vanilla</Name>
           <Values>
             <string>Dis Pater</string>
             <string>Pax Romana</string>
@@ -266,6 +311,20 @@
           </Values>
         </NameGroup>
       </Colossus>
+      <Juggernaut>
+        <NameGroup>
+          <Name>Vanilla</Name>
+          <Values>
+            <string>Acca Larentia</string>
+            <string>Axis Mundi</string>
+            <string>Emperor</string>
+            <string>Faustulus</string>
+            <string>Lupa</string>
+            <string>Magister Militum</string>
+            <string>Optimus Princeps</string>
+          </Values>
+        </NameGroup>
+      </Juggernaut>
     </Ships>
     <ShipClasses>
       <Corvette>
@@ -362,6 +421,19 @@
             <string>Colonia</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Noxium Corporation</Name>
+          <Values>
+            <string>Argentarius</string>
+            <string>Denebola</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Togra University</Name>
+          <Values>
+            <string>Seginus</string>
+          </Values>
+        </NameGroup>
       </Generic>
       <Desert>
         <NameGroup>
@@ -389,6 +461,42 @@
           </Values>
         </NameGroup>
       </Ocean>
+      <Tundra>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Tundra>
+      <Arctic>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Arctic>
+      <Tomb>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+            <string>Sarcophagus</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+      <Alpine>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Alpine>
+      <Molten>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Molten>
     </Planets>
     <Characters>
       <CharacterNames>
@@ -396,182 +504,17 @@
         <Weight>1</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Appius</string>
-              <string>Aulus</string>
-              <string>Decimus</string>
-              <string>Gaius</string>
-              <string>Gnaeus</string>
-              <string>Lucius</string>
-              <string>Manius</string>
-              <string>Marcus</string>
-              <string>Numerius</string>
-              <string>Publius</string>
-              <string>Quintus</string>
-              <string>Servius</string>
-              <string>Sextus</string>
-              <string>Spurius</string>
-              <string>Tiberius</string>
-              <string>Titus</string>
-              <string>Vibius</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/lat-pronomen-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Appia</string>
-              <string>Aula</string>
-              <string>Decima</string>
-              <string>Gaia</string>
-              <string>Gnaea</string>
-              <string>Lucia</string>
-              <string>Mania</string>
-              <string>Marca</string>
-              <string>Numeria</string>
-              <string>Publia</string>
-              <string>Quinta</string>
-              <string>Servia</string>
-              <string>Sexta</string>
-              <string>Spuria</string>
-              <string>Tiberia</string>
-              <string>Tita</string>
-              <string>Vibia</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/lat-pronomen-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Acilius</string>
-              <string>Aebutius</string>
-              <string>Aelius</string>
-              <string>Aemilius</string>
-              <string>Albius</string>
-              <string>Amatius</string>
-              <string>Annaeus</string>
-              <string>Anneius</string>
-              <string>Annius</string>
-              <string>Antonius</string>
-              <string>Arrius</string>
-              <string>Artorius</string>
-              <string>Asinius</string>
-              <string>Atilius</string>
-              <string>Atius</string>
-              <string>Aurelius</string>
-              <string>Autronius</string>
-              <string>Caecilius</string>
-              <string>Caedicius</string>
-              <string>Caelius</string>
-              <string>Calidius</string>
-              <string>Calpurnius</string>
-              <string>Cassius</string>
-              <string>Claudius</string>
-              <string>Cloelius</string>
-              <string>Cocceius</string>
-              <string>Cominius</string>
-              <string>Cornelius</string>
-              <string>Coruncanius</string>
-              <string>Curiatius</string>
-              <string>Curius</string>
-              <string>Curtius</string>
-              <string>Decius</string>
-              <string>Didius</string>
-              <string>Domitius</string>
-              <string>Duilius</string>
-              <string>Durmius</string>
-              <string>Equitius</string>
-              <string>Fabius</string>
-              <string>Fabricius</string>
-              <string>Fannius</string>
-              <string>Flavius</string>
-              <string>Fulvius</string>
-              <string>Furius</string>
-              <string>Gabinius</string>
-              <string>Galerius</string>
-              <string>Geganius</string>
-              <string>Gellius</string>
-              <string>Geminius</string>
-              <string>Genucius</string>
-              <string>Gratius</string>
-              <string>Herennius</string>
-              <string>Hirtius</string>
-              <string>Horatius</string>
-              <string>Hortensius</string>
-              <string>Hostilius</string>
-              <string>Iulius</string>
-              <string>Iunius</string>
-              <string>Iuventius</string>
-              <string>Laelius</string>
-              <string>Lartius</string>
-              <string>Licinius</string>
-              <string>Livius</string>
-              <string>Lucilius</string>
-              <string>Lucretius</string>
-              <string>Manlius</string>
-              <string>Marcius</string>
-              <string>Marius</string>
-              <string>Memmius</string>
-              <string>Menenius</string>
-              <string>Minicius</string>
-              <string>Minius</string>
-              <string>Minucius</string>
-              <string>Modius</string>
-              <string>Mucius</string>
-              <string>Naevius</string>
-              <string>Nautius</string>
-              <string>Numerius</string>
-              <string>Numicius</string>
-              <string>Octavius</string>
-              <string>Ovidius</string>
-              <string>Papirius</string>
-              <string>Petronius</string>
-              <string>Pinarius</string>
-              <string>Pompeius</string>
-              <string>Pompilius</string>
-              <string>Pontius</string>
-              <string>Popillius</string>
-              <string>Porcius</string>
-              <string>Postumius</string>
-              <string>Quinctilius</string>
-              <string>Quinctius</string>
-              <string>Rubellius</string>
-              <string>Rufius</string>
-              <string>Rutilius</string>
-              <string>Sallustius</string>
-              <string>Salonius</string>
-              <string>Salvius</string>
-              <string>Scribonius</string>
-              <string>Seius</string>
-              <string>Sempronius</string>
-              <string>Sentius</string>
-              <string>Sergius</string>
-              <string>Sertorius</string>
-              <string>Servilius</string>
-              <string>Sextius</string>
-              <string>Sicinius</string>
-              <string>Suetonius</string>
-              <string>Sulpicius</string>
-              <string>Tarpeius</string>
-              <string>Tarquitius</string>
-              <string>Terentius</string>
-              <string>Titinius</string>
-              <string>Titurius</string>
-              <string>Tuccius</string>
-              <string>Tullius</string>
-              <string>Ulpius</string>
-              <string>Valerius</string>
-              <string>Vedius</string>
-              <string>Velleius</string>
-              <string>Vergilius</string>
-              <string>Verginius</string>
-              <string>Vibius</string>
-              <string>Villius</string>
-              <string>Vipsanius</string>
-              <string>Vitellius</string>
-              <string>Vitruvius</string>
-              <string>Volumnius</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/lat-nomen.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>

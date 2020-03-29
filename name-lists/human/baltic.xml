@@ -26,12 +26,79 @@
       </Countries>
       <Regions>
         <NameGroup>
-          <Name>Regions - </Name>
+          <Name>Regions - Estonia</Name>
           <Values>
+            <string>Haarju</string>
+            <string>Hiiu</string>
+            <string>Ida-Viru</string>
+            <string>Järva</string>
+            <string>Jõgeva</string>
+            <string>Lääne-Viru</string>
+            <string>Lääne</string>
+            <string>Pärnu</string>
+            <string>Põlva</string>
+            <string>Rapla</string>
+            <string>Saare</string>
+            <string>Tartu</string>
+            <string>Valga</string>
+            <string>Viljandi</string>
+            <string>Võru</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Latvia</Name>
+          <Values>
+            <string>Courland</string>
+            <string>Latgallia</string>
+            <string>Selonia</string>
+            <string>Semigallia</string>
+            <string>Semigallia</string>
+            <string>Vidzeme</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Latvia - Endonyms</Name>
+          <Values>
+            <string>Kurzeme</string>
+            <string>Latgale</string>
+            <string>Sēlija</string>
+            <string>Zemgale</string>
           </Values>
         </NameGroup>
       </Regions>
       <Cities>
+        <NameGroup>
+          <Name>Cities - Estonia</Name>
+          <Values>
+            <string>Haapsalu</string>
+            <string>Jõgeva</string>
+            <string>Jõhvi</string>
+            <string>Kärdla</string>
+            <string>Kuressaare</string>
+            <string>Paide</string>
+            <string>Pärnu</string>
+            <string>Põlva</string>
+            <string>Rakvere</string>
+            <string>Rapla</string>
+            <string>Tallin</string>
+            <string>Tartu</string>
+            <string>Valga</string>
+            <string>Viljandi</string>
+            <string>Võru</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Latvia</Name>
+          <Values>
+            <string>Daugavpils</string>
+            <string>Jēkabpils</string>
+            <string>Jelgava</string>
+            <string>Jūrmala</string>
+            <string>Liepāja</string>
+            <string>Rīga</string>
+            <string>Ventspils</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Cities - Lithuania</Name>
           <Values>
@@ -42,78 +109,15 @@
     </Places>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
+        <Swords>
+          <NameGroup>
+            <Name>Swords - Lithuanian</Name>
+            <Values>
+              <string>Koncerz</string>
+            </Values>
+          </NameGroup>
       </Weapons>
-      <MilitaryUnitTypes>
-        <NameGroup>
-          <Name>Military unit types - </Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </MilitaryUnitTypes>
-      <BattleLocations>
-        <NameGroup>
-          <Name>Battle locations - </Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </BattleLocations>
     </Warfare>
-    <MythologicalCreatures>
-      <NameGroup>
-        <Name>Mythological creatures - </Name>
-        <Values>
-        </Values>
-      </NameGroup>
-    </MythologicalCreatures>
-    <Ships>
-      <Corvette>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Corvette>
-      <Destroyer>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Destroyer>
-      <Cruiser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Cruiser>
-      <Battleship>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Battleship>
-      <Science>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Science>
-      <Coloniser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Coloniser>
-    </Ships>
     <ShipClasses>
       <Generic>
         <NameGroup>
@@ -124,120 +128,5 @@
         </NameGroup>
       </Generic>
     </ShipClasses>
-    <Stations>
-      <MilitaryStations>
-        <Generic>
-          <NameGroup>
-            <Name></Name>
-            <Values>
-            </Values>
-          </NameGroup>
-        </Generic>
-      </MilitaryStations>
-      <Starbases>
-        <Generic>
-          <NameGroup>
-            <Name></Name>
-            <Values>
-            </Values>
-          </NameGroup>
-        </Generic>
-      </Starbases>
-      <ResearchStations>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </ResearchStations>
-    </Stations>
-    <Armies>
-      <Fleet>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Fleet>
-    </Armies>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Generic>
-      <Desert>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Desert>
-      <Tropical>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tropical>
-      <Continental>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Continental>
-      <Gaia>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Gaia>
-      <Ocean>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Ocean>
-      <Tundra>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tundra>
-      <Arctic>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Arctic>
-      <Tomb>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tomb>
-      <Alpine>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Alpine>
-      <Molten>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Molten>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

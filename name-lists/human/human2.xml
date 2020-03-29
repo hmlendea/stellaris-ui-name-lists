@@ -620,14 +620,26 @@
         <NameGroup>
           <Name>zzz HUMAN2</Name>
           <Values>
+            <string>Annihilator</string>
             <string>Behemoth</string>
             <string>Eradicator</string>
             <string>Harbinger</string>
-            <string>Juggernaut</string>
             <string>Kraken</string>
           </Values>
         </NameGroup>
       </Colossus>
+      <Juggernaut>
+        <NameGroup>
+          <Name>zzz HUMAN2</Name>
+          <Values>
+            <string>Pendragon</string>
+            <string>Doomsday</string>
+            <string>Cataclysm</string>
+            <string>Ragnarök</string>
+            <string>Apocalypse</string>
+          </Values>
+        </NameGroup>
+      </Juggernaut>
       <Constructor>
         <NameGroup>
           <Name>zzz HUMAN2</Name>

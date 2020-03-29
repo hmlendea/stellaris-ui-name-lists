@@ -106,7 +106,30 @@
         <NameGroup>
           <Name>Cities - Czechia</Name>
           <Values>
+            <string>Brno</string>
+            <string>České Budějovice</string>
+            <string>Chomutov</string>
+            <string>Děčín</string>
+            <string>Frýdek-Místek</string>
+            <string>Havířov</string>
+            <string>Hradec Králové</string>
+            <string>Jihlava</string>
+            <string>Karlovy Vary</string>
+            <string>Karviná</string>
+            <string>Kladno</string>
+            <string>Liberec</string>
+            <string>Mladá Boleslav</string>
+            <string>Most</string>
+            <string>Olomouc</string>
+            <string>Opava</string>
+            <string>Ostrava</string>
+            <string>Pardubice</string>
+            <string>Plzeň</string>
             <string>Prague</string>
+            <string>Přerov</string>
+            <string>Teplice</string>
+            <string>Ústí nad Labem</string>
+            <string>Zlín</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -263,11 +286,78 @@
           </Values>
         </NameGroup>
       </Rivers>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes - Russia</Name>
+          <Values>
+            <string>Baikal</string>
+            <string>Beloye</string>
+            <string>Brosno</string>
+            <string>Bustakh</string>
+            <string>Chany</string>
+            <string>Chukchagirskoye</string>
+            <string>Dynda</string>
+            <string>Ekityki</string>
+            <string>Elgygytgyn</string>
+            <string>Emanda</string>
+            <string>Ilirney</string>
+            <string>Ilmen</string>
+            <string>Imandra</string>
+            <string>Keta</string>
+            <string>Kezanoi</string>
+            <string>Khanka</string>
+            <string>Khantayskoye</string>
+            <string>Kizi</string>
+            <string>Koolen</string>
+            <string>Krasnoye</string>
+            <string>Kronotskoye</string>
+            <string>Kubenskoye</string>
+            <string>Kulundinskoye</string>
+            <string>Labaz</string>
+            <string>Ladoga</string>
+            <string>Lama</string>
+            <string>Lovozero</string>
+            <string>Nero</string>
+            <string>Onega</string>
+            <string>Orel</string>
+            <string>Oron</string>
+            <string>Ozhogino</string>
+            <string>Peipus</string>
+            <string>Pekulney</string>
+            <string>Pleshcheyevo</string>
+            <string>Segozero</string>
+            <string>Selinger</string>
+            <string>Suturuokha</string>
+            <string>Syamozero</string>
+            <string>Taimyr</string>
+            <string>Teletskoye</string>
+            <string>Topozero</string>
+            <string>Tytyl</string>
+            <string>Ubinskoye</string>
+            <string>Uvs Nuur</string>
+            <string>Valdayskoye</string>
+            <string>Vistytis</string>
+            <string>Vivi</string>
+            <string>Yessey</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
       <Seas>
         <NameGroup>
           <Name>Seas - Russia</Name>
           <Values>
             <string>Azov</string>
+            <string>Baltic</string>
+            <string>Barents</string>
+            <string>Black Sea</string>
+            <string>Caspian</string>
+            <string>Chukchi</string>
+            <string>Kara</string>
+            <string>Laptev</string>
+            <string>Okhotsk</string>
+            <string>Pechora</string>
+            <string>Shantar</string>
+            <string>White Sea</string>
           </Values>
         </NameGroup>
       </Seas>
@@ -284,10 +374,64 @@
       </Explorers>
       <Scientists>
         <NameGroup>
+          <Name>Scientists - Croatian</Name>
+          <Values>
+            <string>Ružička</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Scientists - Polish</Name>
+          <Values>
+            <string>Copernicus</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Scientists - Russian</Name>
           <Values>
+            <string>Alferov</string>
+            <string>Basov</string>
+            <string>Botkin</string>
+            <string>Butlerov</string>
+            <string>Chebyshev</string>
+            <string>Cherenkov</string>
+            <string>Fyodorov</string>
+            <string>Geim</string>
+            <string>Holevo</string>
+            <string>Kantorovich</string>
+            <string>Kapitsa</string>
             <string>Kardashev</string>
+            <string>Kaspersky</string>
+            <string>Korolev</string>
+            <string>Kovalevskaya</string>
+            <string>Krasnopolsky</string>
+            <string>Kurchatov</string>
+            <string>Landau</string>
+            <string>Lobachevsky</string>
+            <string>Lomonosov</string>
+            <string>Lukin</string>
+            <string>Mendeleev</string>
+            <string>Metchnikoff</string>
+            <string>Mil</string>
+            <string>Mozhaysky</string>
+            <string>Novoselov</string>
+            <string>Oganesyan</string>
+            <string>Oganov</string>
+            <string>Pavlov</string>
+            <string>Perelman</string>
+            <string>Pirogov</string>
+            <string>Popov</string>
+            <string>Prokhorov</string>
+            <string>Sakharov</string>
+            <string>Semyonov</string>
+            <string>Starobinsky</string>
+            <string>Stoletov</string>
+            <string>Sunyaev</string>
+            <string>Svergun</string>
             <string>Tsiolkovsky</string>
+            <string>Tupolev</string>
+            <string>Vavilov</string>
+            <string>Zhukovsky</string>
+            <string>Zworykin</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -297,12 +441,29 @@
           </Values>
         </NameGroup>
       </Scientists>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders - Polish</Name>
+          <Values>
+            <string>Jadwiga</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders - Russian</Name>
+          <Values>
+            <string>Peter the Great</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
       <LeadersTier3>
         <NameGroup>
           <Name>Leaders - Russian</Name>
           <Values>
             <string>Alexander Nevsky</string>
             <string>Catherine the Great</string>
+            <string>Stalin</string>
           </Values>
         </NameGroup>
       </LeadersTier3>
@@ -317,6 +478,14 @@
           </Values>
         </NameGroup>
       </FlyingAces>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - Russian</Name>
+          <Values>
+            <string>Stakhanov</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
       <Admirals>
         <NameGroup>
           <Name>Admirals - Russian</Name>
@@ -345,14 +514,74 @@
         </NameGroup>
       </GeneralsTier3>
     </GreatPeople>
-    <Warfare>
-      <Weapons>
+    <Companies>
+      <AircraftManufacturers>
         <NameGroup>
-          <Name>Guns - Russian</Name>
+          <Name>Aircraft manufacturers - Polish</Name>
           <Values>
-          <string>Kalashnikov</string>
+            <string>PZL</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Aircraft manufacturers - Russian</Name>
+          <Values>
+            <string>Energia</string>
+            <string>Tupolev</string>
+            <string>United Aircraft</string>
+          </Values>
+        </NameGroup>
+      </AircraftManufacturers>
+      <SpacecraftManufacturers>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Russian</Name>
+          <Values>
+            <string>Energiya</string>
+            <string>Lavochkin</string>
+          </Values>
+        </NameGroup>
+      </SpacecraftManufacturers>
+      <RocketDesigners>
+        <NameGroup>
+          <Name>Rocket Designers - Russian</Name>
+          <Values>
+            <string>JSC</string>
+            <string>Mashinostroyeniya</string>
+          </Values>
+        </NameGroup>
+      </RocketDesigners>
+    </Companies>
+    <Warfare>
+      <Weapons>
+        <Artillery>
+          <NameGroup>
+            <Name>Artillery - Russian</Name>
+            <Values>
+              <string>Katyusha</string>
+            </Values>
+          </NameGroup>
+        </Artillery>
+        <Guns>
+          <NameGroup>
+            <Name>Guns - Russian</Name>
+            <Values>
+              <string>Kalashnikov</string>
+            </Values>
+          </NameGroup>
+        </Guns>
+        <Swords>
+          <NameGroup>
+            <Name>Swords - Polish</Name>
+            <Values>
+              <string>Koncerz</string>
+            </Values>
+          </NameGroup>
+          <NameGroup>
+            <Name>Swords - Russian</Name>
+            <Values>
+              <string>Shashka</string>
+            </Values>
+          </NameGroup>
+        </Swords>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
@@ -380,6 +609,17 @@
         </NameGroup>
       </BattleLocations>
     </Warfare>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals - Russian</Name>
+          <Values>
+            <string>Akula</string>
+            <string>Kodiak</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
     <Ships>
       <Corvette>
         <NameGroup>
@@ -387,13 +627,6 @@
           <Values>
             <string>Doblestnyi</string>
             <string>Soobrazitelny</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Animals - Russian</Name>
-          <Values>
-            <string>Akula</string>
-            <string>Kodiak</string>
           </Values>
         </NameGroup>
       </Corvette>
@@ -427,47 +660,6 @@
         </NameGroup>
       </Coloniser>
     </Ships>
-    <ShipClasses>
-      <Generic>
-        <NameGroup>
-          <Name>Spacecraft manufacturers - Russian</Name>
-          <Values>
-            <string>Energiya</string>
-            <string>Lavochkin</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Rocket Designers - Russian</Name>
-          <Values>
-            <string>JSC</string>
-            <string>Mashinostroyeniya</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Aircraft manufacturers - Polish</Name>
-          <Values>
-            <string>PZL</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Aircraft manufacturers - Russian</Name>
-          <Values>
-            <string>Energia</string>
-            <string>Tupolev</string>
-            <string>United Aircraft</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </ShipClasses>
-    <Armies>
-      <Fleet>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Fleet>
-    </Armies>
     <Planets>
       <Generic>
         <NameGroup>
@@ -511,6 +703,26 @@
             <string>Stanimir</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Solar Dynasty - Czech</Name>
+          <Values>
+            <string>Havel</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Solar Dynasty - Russian</Name>
+          <Values>
+            <string>Demidov</string>
+            <string>Stakhanov</string>
+            <string>Zhukov</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Togra University</Name>
+          <Values>
+            <string>Ružička</string>
+          </Values>
+        </NameGroup>
       </Generic>
       <Ocean>
         <NameGroup>
@@ -537,56 +749,7 @@
         <Weight>5</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Aleksandr</string>
-              <string>Alexei</string>
-              <string>Anatoli</string>
-              <string>Andrei</string>
-              <string>Artyom</string>
-              <string>Bogdan</string>
-              <string>Boris</string>
-              <string>Branislav</string>
-              <string>Dmitri</string>
-              <string>Fyodor</string>
-              <string>Georgy</string>
-              <string>Grigory</string>
-              <string>Ignatyi</string>
-              <string>Igor</string>
-              <string>Ilya</string>
-              <string>Ivan</string>
-              <string>Jaroslav</string>
-              <string>Kirill</string>
-              <string>Konstantin</string>
-              <string>Leonid</string>
-              <string>Lev</string>
-              <string>Lubomir</string>
-              <string>Maxim</string>
-              <string>Mikhail</string>
-              <string>Miroslav</string>
-              <string>Nikita</string>
-              <string>Nikolai</string>
-              <string>Oleg</string>
-              <string>Paul</string>
-              <string>Pavel</string>
-              <string>Pyotr</string>
-              <string>Radomir</string>
-              <string>Radoslav</string>
-              <string>Ratimir</string>
-              <string>Roman</string>
-              <string>Sergei</string>
-              <string>Stanislav</string>
-              <string>Vadim</string>
-              <string>Valery</string>
-              <string>Vasili</string>
-              <string>Vasily</string>
-              <string>Viktor</string>
-              <string>Vitalyi</string>
-              <string>Vladimir</string>
-              <string>Vladislav</string>
-              <string>Vyacheslav</string>
-              <string>Yegor</string>
-              <string>Yuri</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/rus-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <MaleRoyalFirstNames>
@@ -608,47 +771,7 @@
         </MaleRoyalFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Alexandra</string>
-              <string>Alya</string>
-              <string>Anastasia</string>
-              <string>Anna</string>
-              <string>Arina</string>
-              <string>Darya</string>
-              <string>Elena</string>
-              <string>Elisaveta</string>
-              <string>Galenka</string>
-              <string>Galina</string>
-              <string>Irina</string>
-              <string>Irma</string>
-              <string>Ivanka</string>
-              <string>Katya</string>
-              <string>Ksenia</string>
-              <string>Ljuba</string>
-              <string>Lydia</string>
-              <string>Lyudmila</string>
-              <string>Maria</string>
-              <string>Marina</string>
-              <string>Mira</string>
-              <string>Miroslava</string>
-              <string>Nadesja</string>
-              <string>Nadezhda</string>
-              <string>Nadya</string>
-              <string>Natacha</string>
-              <string>Oksana</string>
-              <string>Olga</string>
-              <string>Polina</string>
-              <string>Radmila</string>
-              <string>Sonia</string>
-              <string>Svetlana</string>
-              <string>Tatiana</string>
-              <string>Tatyana</string>
-              <string>Valentina</string>
-              <string>Vera</string>
-              <string>Vlada</string>
-              <string>Yekaterina</string>
-              <string>Yelena</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/rus-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <FemaleRoyalFirstNames>
@@ -667,59 +790,7 @@
         </FemaleRoyalFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Alexseyev</string>
-              <string>Antonov</string>
-              <string>Brusilov</string>
-              <string>Butakov</string>
-              <string>Dragomirov</string>
-              <string>Dudnik</string>
-              <string>Fedorov</string>
-              <string>Grishina</string>
-              <string>Gryaznov</string>
-              <string>Ivannikov</string>
-              <string>Ivanov</string>
-              <string>Kamensky</string>
-              <string>Kazakov</string>
-              <string>Kolosov</string>
-              <string>Komarov</string>
-              <string>Kornilov</string>
-              <string>Kozhedub</string>
-              <string>Krutov</string>
-              <string>Kuzin</string>
-              <string>Kuznetsov</string>
-              <string>Larionov</string>
-              <string>Lazarev</string>
-              <string>Litvyak</string>
-              <string>Makarov</string>
-              <string>Maksimushkin</string>
-              <string>Markov</string>
-              <string>Nevsky</string>
-              <string>Ostrovsky</string>
-              <string>Petrenko</string>
-              <string>Polachev</string>
-              <string>Potemkin</string>
-              <string>Pushkov</string>
-              <string>Romanov</string>
-              <string>Rychenkov</string>
-              <string>Sayanovich</string>
-              <string>Shatalov</string>
-              <string>Shestakov</string>
-              <string>Skobelev</string>
-              <string>Sorokin</string>
-              <string>Statnik</string>
-              <string>Stukov</string>
-              <string>Titov</string>
-              <string>Turgenev</string>
-              <string>Tvardovsky</string>
-              <string>Ulanov</string>
-              <string>Vasiliev</string>
-              <string>Volkov</string>
-              <string>Yerzov</string>
-              <string>Zhirov</string>
-              <string>Zhivenkov</string>
-              <string>Zhukov</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/rus-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
         <RoyalSecondNames>
@@ -735,832 +806,17 @@
         <Weight>1</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Abraham</string>
-              <string>Adam</string>
-              <string>Adamek</string>
-              <string>Adaś</string>
-              <string>Adasiek</string>
-              <string>Adolf</string>
-              <string>Adrian</string>
-              <string>Aleksander</string>
-              <string>Alfons</string>
-              <string>Alojzy</string>
-              <string>Ambroży</string>
-              <string>Anatol</string>
-              <string>Andrzej</string>
-              <string>Antoni</string>
-              <string>Arkadiusz</string>
-              <string>Artur</string>
-              <string>Baltazar</string>
-              <string>Barnaba</string>
-              <string>Bartek</string>
-              <string>Bartłomiej</string>
-              <string>Bartosz</string>
-              <string>Bernard</string>
-              <string>Biernat</string>
-              <string>Błażej</string>
-              <string>Boguchwał</string>
-              <string>Bogumił</string>
-              <string>Bogurad</string>
-              <string>Boguś</string>
-              <string>Bogusław</string>
-              <string>Bolek</string>
-              <string>Bolesław</string>
-              <string>Bonawentura</string>
-              <string>Bonifacy</string>
-              <string>Borys</string>
-              <string>Bronek</string>
-              <string>Bronisław</string>
-              <string>Celestyn</string>
-              <string>Cezary</string>
-              <string>Cyryl</string>
-              <string>Czesław</string>
-              <string>Damian</string>
-              <string>Daniel</string>
-              <string>Darek</string>
-              <string>Dariusz</string>
-              <string>Dawid</string>
-              <string>Długosz</string>
-              <string>Domarad</string>
-              <string>Domaradz</string>
-              <string>Dominik</string>
-              <string>Dzierżykraj</string>
-              <string>Edward</string>
-              <string>Emil</string>
-              <string>Ernest</string>
-              <string>Eryk</string>
-              <string>Eugeniusz</string>
-              <string>Ezdrasz</string>
-              <string>Fabian</string>
-              <string>Filip</string>
-              <string>Franciszek</string>
-              <string>Gabriel</string>
-              <string>Gniewosz</string>
-              <string>Gocław</string>
-              <string>Gracjan</string>
-              <string>Grzegorz</string>
-              <string>Grześ</string>
-              <string>Grzesiek</string>
-              <string>Gucio</string>
-              <string>Gustaw</string>
-              <string>Habakuk</string>
-              <string>Henryk</string>
-              <string>Horacy</string>
-              <string>Hubert</string>
-              <string>Igor</string>
-              <string>Igorek</string>
-              <string>Ildefons</string>
-              <string>Ireneusz</string>
-              <string>Iwan</string>
-              <string>Iwo</string>
-              <string>Izajasz</string>
-              <string>Jacek</string>
-              <string>Jacuś</string>
-              <string>Jakub</string>
-              <string>Jan</string>
-              <string>Janeczek</string>
-              <string>Janek</string>
-              <string>Janusz</string>
-              <string>Jarosław</string>
-              <string>Jaruś</string>
-              <string>Jaś</string>
-              <string>Jasiek</string>
-              <string>Jerzy</string>
-              <string>Jonatan</string>
-              <string>Józef</string>
-              <string>Józek</string>
-              <string>Judasz</string>
-              <string>Juliusz</string>
-              <string>Jurek</string>
-              <string>Juruś</string>
-              <string>Justyn</string>
-              <string>Kacper</string>
-              <string>Kamil</string>
-              <string>Karol</string>
-              <string>Kazimierz</string>
-              <string>Klaudiusz</string>
-              <string>Klementyn</string>
-              <string>Kochan</string>
-              <string>Konrad</string>
-              <string>Krystian</string>
-              <string>Krzyś</string>
-              <string>Krzysztof</string>
-              <string>Ksawery</string>
-              <string>Kuba</string>
-              <string>Lasota</string>
-              <string>Lech</string>
-              <string>Lesław</string>
-              <string>Leszek</string>
-              <string>Lew</string>
-              <string>Lucek</string>
-              <string>Lucjan</string>
-              <string>Lucjusz</string>
-              <string>Ludwik</string>
-              <string>Łukasz</string>
-              <string>Maciej</string>
-              <string>Marcel</string>
-              <string>Marcin</string>
-              <string>Marek</string>
-              <string>Marian</string>
-              <string>Mariusz</string>
-              <string>Mateusz</string>
-              <string>Maurycy</string>
-              <string>Michał</string>
-              <string>Michałek</string>
-              <string>Michaś</string>
-              <string>Mieczysław</string>
-              <string>Mieszko</string>
-              <string>Mietek</string>
-              <string>Mikołaj</string>
-              <string>Miłosz</string>
-              <string>Mirosław</string>
-              <string>Mścisław</string>
-              <string>Nawoj</string>
-              <string>Niemir</string>
-              <string>Nierod</string>
-              <string>Norbert</string>
-              <string>Olaf</string>
-              <string>Oleg</string>
-              <string>Olek</string>
-              <string>Olgierd</string>
-              <string>Oliwer</string>
-              <string>Oliwier</string>
-              <string>Oskar</string>
-              <string>Paweł</string>
-              <string>Pawełek</string>
-              <string>Piotr</string>
-              <string>Piotrek</string>
-              <string>Piotruś</string>
-              <string>Poniat</string>
-              <string>Przemysław</string>
-              <string>Racibor</string>
-              <string>Racław</string>
-              <string>Radek</string>
-              <string>Radosław</string>
-              <string>Radzim</string>
-              <string>Radzisław</string>
-              <string>Rafał</string>
-              <string>Recław</string>
-              <string>Remigiusz</string>
-              <string>Robert</string>
-              <string>Roman</string>
-              <string>Romek</string>
-              <string>Ryś</string>
-              <string>Ryszard</string>
-              <string>Sambor</string>
-              <string>Sebastian</string>
-              <string>Sergiusz</string>
-              <string>Seweryn</string>
-              <string>Sławomir</string>
-              <string>Stach</string>
-              <string>Stanisław</string>
-              <string>Staś</string>
-              <string>Stefan</string>
-              <string>Stefanek</string>
-              <string>Sulejman</string>
-              <string>Sulich</string>
-              <string>Sylwester</string>
-              <string>Szczepan</string>
-              <string>Szczęsny</string>
-              <string>Szymek</string>
-              <string>Szymon</string>
-              <string>Szymuś</string>
-              <string>Tadeusz</string>
-              <string>Tomasz</string>
-              <string>Tytus</string>
-              <string>Ulryk</string>
-              <string>Wacław</string>
-              <string>Waldek</string>
-              <string>Waldemar</string>
-              <string>Waleriusz</string>
-              <string>Walery</string>
-              <string>Wawrzyniec</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/pol-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Ada</string>
-              <string>Adelajda</string>
-              <string>Agata</string>
-              <string>Agatka</string>
-              <string>Agnieszka</string>
-              <string>Agusia</string>
-              <string>Ala</string>
-              <string>Aleksandra</string>
-              <string>Alicja</string>
-              <string>Amanda</string>
-              <string>Anastazja</string>
-              <string>Aneta</string>
-              <string>Ania</string>
-              <string>Anka</string>
-              <string>Anna</string>
-              <string>Apolonia</string>
-              <string>Asia</string>
-              <string>Barbara</string>
-              <string>Basia</string>
-              <string>Beata</string>
-              <string>Benedykta</string>
-              <string>Bernadeta</string>
-              <string>Bogdana</string>
-              <string>Bogumiła</string>
-              <string>Boguwola</string>
-              <string>Bolesława</string>
-              <string>Bożena</string>
-              <string>Bożenka</string>
-              <string>Bronisława</string>
-              <string>Brygida</string>
-              <string>Cecylia</string>
-              <string>Celestyna</string>
-              <string>Czesława</string>
-              <string>Dagmara</string>
-              <string>Danka</string>
-              <string>Danuta</string>
-              <string>Dobrosława</string>
-              <string>Dominika</string>
-              <string>Dorota</string>
-              <string>Dorotka</string>
-              <string>Edwarda</string>
-              <string>Edyta</string>
-              <string>Ela</string>
-              <string>Eleonora</string>
-              <string>Elżbieta</string>
-              <string>Emilia</string>
-              <string>Emilka</string>
-              <string>Ernestyna</string>
-              <string>Eugenia</string>
-              <string>Ewa</string>
-              <string>Ewelina</string>
-              <string>Ewka</string>
-              <string>Ewunia</string>
-              <string>Franciszka</string>
-              <string>Gabriela</string>
-              <string>Genowefa</string>
-              <string>Gosia</string>
-              <string>Grażyna</string>
-              <string>Halina</string>
-              <string>Hania</string>
-              <string>Hanna</string>
-              <string>Helena</string>
-              <string>Henryka</string>
-              <string>Hildegarda</string>
-              <string>Honorata</string>
-              <string>Iga</string>
-              <string>Irena</string>
-              <string>Irenka</string>
-              <string>Irmina</string>
-              <string>Iwa</string>
-              <string>Iwana</string>
-              <string>Iwona</string>
-              <string>Iwonka</string>
-              <string>Izabela</string>
-              <string>Jadwiga</string>
-              <string>Jadzia</string>
-              <string>Jagoda</string>
-              <string>Janina</string>
-              <string>Janka</string>
-              <string>Joanna</string>
-              <string>Joasia</string>
-              <string>Jolanta</string>
-              <string>Jowita</string>
-              <string>Judyta</string>
-              <string>Julia</string>
-              <string>Justyna</string>
-              <string>Kamila</string>
-              <string>Karolina</string>
-              <string>Kasia</string>
-              <string>Katarzyna</string>
-              <string>Kazimiera</string>
-              <string>Klara</string>
-              <string>Klaudia</string>
-              <string>Klementyna</string>
-              <string>Klotylda</string>
-              <string>Krysia</string>
-              <string>Krystyna</string>
-              <string>Kunegunda</string>
-              <string>Lena</string>
-              <string>Łucja</string>
-              <string>Ludmiła</string>
-              <string>Luiza</string>
-              <string>Magda</string>
-              <string>Magdalena</string>
-              <string>Małgorzata</string>
-              <string>Malina</string>
-              <string>Maria</string>
-              <string>Marianna</string>
-              <string>Mariola</string>
-              <string>Mariolka</string>
-              <string>Marta</string>
-              <string>Martyna</string>
-              <string>Marycha</string>
-              <string>Maryla</string>
-              <string>Marylka</string>
-              <string>Marysia</string>
-              <string>Marzanna</string>
-              <string>Marzena</string>
-              <string>Matylda</string>
-              <string>Melania</string>
-              <string>Michalina</string>
-              <string>Monika</string>
-              <string>Nadia</string>
-              <string>Natalia</string>
-              <string>Ola</string>
-              <string>Oliwia</string>
-              <string>Otylia</string>
-              <string>Patrycja</string>
-              <string>Paulina</string>
-              <string>Renata</string>
-              <string>Roksana</string>
-              <string>Róża</string>
-              <string>Rysia</string>
-              <string>Ryszarda</string>
-              <string>Stanisława</string>
-              <string>Stasia</string>
-              <string>Stefania</string>
-              <string>Sylwia</string>
-              <string>Szarlota</string>
-              <string>Teresa</string>
-              <string>Urszula</string>
-              <string>Waleria</string>
-              <string>Wanda</string>
-              <string>Weronika</string>
-              <string>Wiesława</string>
-              <string>Wiktoria</string>
-              <string>Wioleta</string>
-              <string>Żaneta</string>
-              <string>Zofia</string>
-              <string>Zuzanna</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/pol-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Amszyński</string>
-              <string>Bagocki</string>
-              <string>Bakałarowicz</string>
-              <string>Bąkowski</string>
-              <string>Bandrowski</string>
-              <string>Bar</string>
-              <string>Baranowski</string>
-              <string>Barański</string>
-              <string>Bełdowski</string>
-              <string>Bełzowski</string>
-              <string>Białonowicz</string>
-              <string>Biedrzychowski</string>
-              <string>Biedrzycki</string>
-              <string>Bielski</string>
-              <string>Bienieski</string>
-              <string>Binkbink</string>
-              <string>Biodra</string>
-              <string>Biskupski</string>
-              <string>Błeszyński</string>
-              <string>Bliskowski</string>
-              <string>Bocheński</string>
-              <string>Bogdański</string>
-              <string>Boguski</string>
-              <string>Boguskowski</string>
-              <string>Borowski</string>
-              <string>Borszczowski</string>
-              <string>Boryczewski</string>
-              <string>Borysowski</string>
-              <string>Boryszewski</string>
-              <string>Borzewicki</string>
-              <string>Borzyszewski</string>
-              <string>Bożewicki</string>
-              <string>Brabantski</string>
-              <string>Brośniowski</string>
-              <string>Bukowski</string>
-              <string>Bułajewski</string>
-              <string>Celejewski</string>
-              <string>Celejowski</string>
-              <string>Celgowski</string>
-              <string>Celigowski</string>
-              <string>Cemechowski</string>
-              <string>Chobrzański</string>
-              <string>Chobrzyński</string>
-              <string>Chociewski</string>
-              <string>Chodyński</string>
-              <string>Chodzyński</string>
-              <string>Chrobrzański</string>
-              <string>Chrobrzeński</string>
-              <string>Chroślicki</string>
-              <string>Cibowicz</string>
-              <string>Ciecierski</string>
-              <string>Cielgowski</string>
-              <string>Cieszycki</string>
-              <string>Ciszycki</string>
-              <string>Ćwikła</string>
-              <string>Ćwilichowski</string>
-              <string>Czekierski</string>
-              <string>Czekierstki</string>
-              <string>Czernski</string>
-              <string>Czerski</string>
-              <string>Czuryłło</string>
-              <string>Czysta</string>
-              <string>Dąbrowski</string>
-              <string>Dalmat</string>
-              <string>Dębiński</string>
-              <string>Dembiński</string>
-              <string>Depolt</string>
-              <string>Depult</string>
-              <string>Deręgowski</string>
-              <string>Dergon</string>
-              <string>Dergoński</string>
-              <string>Derhun</string>
-              <string>Derkon</string>
-              <string>Derkoński</string>
-              <string>Dobraniecki</string>
-              <string>Dobroniewski</string>
-              <string>Dobrzeniecki</string>
-              <string>Domaniewski</string>
-              <string>Dorostajski</string>
-              <string>Drzewicki</string>
-              <string>Drzewiecki</string>
-              <string>Duchnowski</string>
-              <string>Dziczkowski</string>
-              <string>Dziekoński</string>
-              <string>Dziewulski</string>
-              <string>Dzieżkowski</string>
-              <string>Fagel</string>
-              <string>Fajgel</string>
-              <string>Faygiel</string>
-              <string>Filipecki</string>
-              <string>Filipicki</string>
-              <string>Fribes</string>
-              <string>Frybes</string>
-              <string>Gadecki</string>
-              <string>Gądecki</string>
-              <string>Gądek</string>
-              <string>Gadzicki</string>
-              <string>Gajecki</string>
-              <string>Galimski</string>
-              <string>Galiński</string>
-              <string>Gano</string>
-              <string>Ganolipski</string>
-              <string>Gawiński</string>
-              <string>Gaworski</string>
-              <string>Gawroński</string>
-              <string>Giedowg</string>
-              <string>Gieszkowski</string>
-              <string>Głąbkowski</string>
-              <string>Gniewosz</string>
-              <string>Godzicki</string>
-              <string>Gołyński</string>
-              <string>Górski</string>
-              <string>Gowarczewski</string>
-              <string>Goworek</string>
-              <string>Gozdziejowski</string>
-              <string>Grabkowski</string>
-              <string>Grądzki</string>
-              <string>Grot</string>
-              <string>Grotowski</string>
-              <string>Gudkowski</string>
-              <string>Guszkiewicz</string>
-              <string>Gut</string>
-              <string>Gutkowski</string>
-              <string>Hałuziński</string>
-              <string>Hołuziński</string>
-              <string>Homicki</string>
-              <string>Hrudziewicz</string>
-              <string>Hrudzina</string>
-              <string>Hudo</string>
-              <string>Jackowski</string>
-              <string>Jakubowicz</string>
-              <string>Jarewski</string>
-              <string>Jarocki</string>
-              <string>Jaroszyn</string>
-              <string>Jarowski</string>
-              <string>Jasieński</string>
-              <string>Jasiewicz</string>
-              <string>Jasilkowski</string>
-              <string>Jasiński</string>
-              <string>Jastkowski</string>
-              <string>Jaszczurowski</string>
-              <string>Jawojsz</string>
-              <string>Jawosz</string>
-              <string>Jawrysz</string>
-              <string>Jerome</string>
-              <string>Jeziorkowski</string>
-              <string>Kalnicki</string>
-              <string>Kamieński</string>
-              <string>Kamiński</string>
-              <string>Karpowicz</string>
-              <string>Karwowski</string>
-              <string>Kasprowicz</string>
-              <string>Kazimierski</string>
-              <string>Kazimirski</string>
-              <string>Kiemlicki</string>
-              <string>Kiemlicz</string>
-              <string>Kieniewicz</string>
-              <string>Klimczycki</string>
-              <string>Kliszowski</string>
-              <string>Kłoczewski</string>
-              <string>Kłoczowski</string>
-              <string>Kłopocki</string>
-              <string>Kochan</string>
-              <string>Komorowski</string>
-              <string>Koniński</string>
-              <string>Korniłłowicz</string>
-              <string>Korniłowicz</string>
-              <string>Kornułowicz</string>
-              <string>Kosacki</string>
-              <string>Kosecki</string>
-              <string>Kosibski</string>
-              <string>Kosiecki</string>
-              <string>Kosiński</string>
-              <string>Kossacki</string>
-              <string>Kossecki</string>
-              <string>Kostro</string>
-              <string>Kostryc</string>
-              <string>Koziełkowski</string>
-              <string>Koziołkowski</string>
-              <string>Krajoszewski</string>
-              <string>Kraśnicki</string>
-              <string>Krasnowski</string>
-              <string>Krasowski</string>
-              <string>Krassowski</string>
-              <string>Kraszczyński</string>
-              <string>Kruczyński</string>
-              <string>Krukowski</string>
-              <string>Krzewski</string>
-              <string>Krzowski</string>
-              <string>Krzyczykowski</string>
-              <string>Krzyszczykowski</string>
-              <string>Kubeł</string>
-              <string>Kujawski</string>
-              <string>Kurosz</string>
-              <string>Łakocki</string>
-              <string>Łąkocki</string>
-              <string>Lang</string>
-              <string>Lasota</string>
-              <string>Lasotawicz</string>
-              <string>Lassota</string>
-              <string>Leniek</string>
-              <string>Łętowski</string>
-              <string>Linowski</string>
-              <string>Lipicki</string>
-              <string>Lipiński</string>
-              <string>Łubkowski</string>
-              <string>Łubnicki</string>
-              <string>Łupnicki</string>
-              <string>Mager</string>
-              <string>Magier</string>
-              <string>Makocki</string>
-              <string>Mąkocki</string>
-              <string>Małgiewski</string>
-              <string>Męcina</string>
-              <string>Męciński</string>
-              <string>Męczyna</string>
-              <string>Męczyński</string>
-              <string>Mejnart</string>
-              <string>Mejsztowicz</string>
-              <string>Meleniewski</string>
-              <string>Melgiewski</string>
-              <string>Melin</string>
-              <string>Meysztowicz</string>
-              <string>Michowski</string>
-              <string>Miechowski</string>
-              <string>Miedzikowski</string>
-              <string>Miedzykowski</string>
-              <string>Mikulczewski</string>
-              <string>Mikułowski</string>
-              <string>Mikulski</string>
-              <string>Minigał</string>
-              <string>Mitrowski</string>
-              <string>Mnichowski</string>
-              <string>Modłkowski</string>
-              <string>Mońko</string>
-              <string>Mosiński</string>
-              <string>Moszyński</string>
-              <string>Mysłowski</string>
-              <string>Mystkowski</string>
-              <string>Nadarski</string>
-              <string>Nakutowicz</string>
-              <string>Nasuta</string>
-              <string>Naszuta</string>
-              <string>Niedziałkowski</string>
-              <string>Niemcewicz</string>
-              <string>Niesielkowski</string>
-              <string>Nieśmiejan</string>
-              <string>Niesułkowski</string>
-              <string>Nieszczewski</string>
-              <string>Niszczewski</string>
-              <string>Noskowski</string>
-              <string>Nosowski</string>
-              <string>Nossowski</string>
-              <string>Nowomiejski</string>
-              <string>Nowomiescki</string>
-              <string>Nowomski</string>
-              <string>Nowowski</string>
-              <string>Nożewski</string>
-              <string>Nożowski</string>
-              <string>Nurzyński</string>
-              <string>Obelt</string>
-              <string>Okolski</string>
-              <string>Okólski</string>
-              <string>Ołdak</string>
-              <string>Ołdakowski</string>
-              <string>Olęcki</string>
-              <string>Olędzki</string>
-              <string>Olendski</string>
-              <string>Olendzki</string>
-              <string>Oleński</string>
-              <string>Olęski</string>
-              <string>Olpiński</string>
-              <string>Olszewski</string>
-              <string>Olszowski</string>
-              <string>Oski</string>
-              <string>Osska</string>
-              <string>Ostasz</string>
-              <string>Ostrowski</string>
-              <string>Oszka</string>
-              <string>Otrembus</string>
-              <string>Owsianko</string>
-              <string>Owsiany</string>
-              <string>Ożarowski</string>
-              <string>Ożga</string>
-              <string>Pachniewski</string>
-              <string>Pankracki</string>
-              <string>Paroski</string>
-              <string>Patawin</string>
-              <string>Pawełecki</string>
-              <string>Pękoszewski</string>
-              <string>Piasecki</string>
-              <string>Płaskot</string>
-              <string>Plaskota</string>
-              <string>Płaskota</string>
-              <string>Płodziński</string>
-              <string>Podczaski</string>
-              <string>Podczaszyński</string>
-              <string>Poddębski</string>
-              <string>Poderski</string>
-              <string>Podkoński</string>
-              <string>Poraziński</string>
-              <string>Prandota</string>
-              <string>Prosiński</string>
-              <string>Prusieński</string>
-              <string>Prusiński</string>
-              <string>Pruszyński</string>
-              <string>Przyjemski</string>
-              <string>Przystałowicz</string>
-              <string>Pukiel</string>
-              <string>Pukinicki</string>
-              <string>Pukl</string>
-              <string>Rabcewicz</string>
-              <string>Rąblewski</string>
-              <string>Raciborski</string>
-              <string>Racibórzyński</string>
-              <string>Radkowski</string>
-              <string>Radliński</string>
-              <string>Radomyski</string>
-              <string>Radziejowski</string>
-              <string>Radzymiński</string>
-              <string>Rafał</string>
-              <string>Rajkowski</string>
-              <string>Rakacewicz</string>
-              <string>Rakocy</string>
-              <string>Rapcewicz</string>
-              <string>Rawa</string>
-              <string>Rawicz</string>
-              <string>Raykowski</string>
-              <string>Regulski</string>
-              <string>Reszczeński</string>
-              <string>Reszczyński</string>
-              <string>Rewecki</string>
-              <string>Rewucki</string>
-              <string>Reykowski</string>
-              <string>Rogoliński</string>
-              <string>Rojek</string>
-              <string>Rokicki</string>
-              <string>Rokotnicki</string>
-              <string>Rososki</string>
-              <string>Rudzieński</string>
-              <string>Rudziński</string>
-              <string>Rusiecki</string>
-              <string>Ruzdziński</string>
-              <string>Rybka</string>
-              <string>Ryczkowski</string>
-              <string>Rzepiński</string>
-              <string>Saczyński</string>
-              <string>Sączyński</string>
-              <string>Samborzecki</string>
-              <string>Sib</string>
-              <string>Siedlecki</string>
-              <string>Siestrzyński</string>
-              <string>Skawiński</string>
-              <string>Skinder</string>
-              <string>Skowieski</string>
-              <string>Skubicz</string>
-              <string>Skubisz</string>
-              <string>Skubysz</string>
-              <string>Słupecki</string>
-              <string>Smiarowski</string>
-              <string>Śmiarowski</string>
-              <string>Smorczewski</string>
-              <string>Snopek</string>
-              <string>Snopkowski</string>
-              <string>Sołomerecki</string>
-              <string>Sołomereski</string>
-              <string>Sowada</string>
-              <string>Sowiński</string>
-              <string>Staczek</string>
-              <string>Staczko</string>
-              <string>Stanowski</string>
-              <string>Stecki</string>
-              <string>Stocki</string>
-              <string>Stolnicki</string>
-              <string>Straszewski</string>
-              <string>Sulistrowski</string>
-              <string>Suliszewski</string>
-              <string>Sum</string>
-              <string>Świątnicki</string>
-              <string>Świerzbiński</string>
-              <string>Swiniowski</string>
-              <string>Świniowski</string>
-              <string>Szabliński</string>
-              <string>Szabrański</string>
-              <string>Szachłacki</string>
-              <string>Szaciński</string>
-              <string>Szczerba</string>
-              <string>Szczerbań</string>
-              <string>Szczerbanienko</string>
-              <string>Szczerbowicz</string>
-              <string>Szczyciński</string>
-              <string>Szotarski</string>
-              <string>Szuliszewski</string>
-              <string>Szumowicz</string>
-              <string>Szydłowski</string>
-              <string>Tadajewski</string>
-              <string>Tadajowski</string>
-              <string>Tąkiel</string>
-              <string>Tązowski</string>
-              <string>Tczyński</string>
-              <string>Trzciński</string>
-              <string>Twaróg</string>
-              <string>Ursyn</string>
-              <string>Urzelowski</string>
-              <string>Użarowski</string>
-              <string>Wagner</string>
-              <string>Warsz</string>
-              <string>Warszawski</string>
-              <string>Warszewski</string>
-              <string>Węgrzynowicz</string>
-              <string>Wierciński</string>
-              <string>Wisimirski</string>
-              <string>Witanowski</string>
-              <string>Wojaczyński</string>
-              <string>Wojatyński</string>
-              <string>Wojcicki</string>
-              <string>Wójcicki</string>
-              <string>Wołmiński</string>
-              <string>Wolski</string>
-              <string>Wołucki</string>
-              <string>Wóycicki</string>
-              <string>Wóyciński</string>
-              <string>Woźnicki</string>
-              <string>Woźnieński</string>
-              <string>Wożnieński</string>
-              <string>Wręcki</string>
-              <string>Wroczeński</string>
-              <string>Wrzelowski</string>
-              <string>Wszeborski</string>
-              <string>Wyszomierski</string>
-              <string>Wyszomirski</string>
-              <string>Zaborowski</string>
-              <string>Zackowski</string>
-              <string>Zacnolaski</string>
-              <string>Zaćwilichowski</string>
-              <string>Zaczek</string>
-              <string>Zaczkowski</string>
-              <string>Zaichowski</string>
-              <string>Zakaszewski</string>
-              <string>Załuska</string>
-              <string>Załuski</string>
-              <string>Zawada</string>
-              <string>Zawadowski</string>
-              <string>Zdębiński</string>
-              <string>Zdembiński</string>
-              <string>Zdrzalik</string>
-              <string>Zdziechowski</string>
-              <string>Zegrzda</string>
-              <string>Zegzdra</string>
-              <string>Żelaskowski</string>
-              <string>Zelasowski</string>
-              <string>Żelazkowski</string>
-              <string>Żelazny</string>
-              <string>Żelazo</string>
-              <string>Żelazowski</string>
-              <string>Żelichliński</string>
-              <string>Ziemacki</string>
-              <string>Ziemak</string>
-              <string>Zołędowski</string>
-              <string>Żołędowski</string>
-              <string>Żołękowski</string>
-              <string>Żwan</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/pol-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>

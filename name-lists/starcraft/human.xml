@@ -33,6 +33,12 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Cities - StarCraft - Terran - Chau Sara</Name>
+          <Values>
+            <string>Los Andares</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - StarCraft - Terran - Tyrandor IX</Name>
           <Values>
             <string>Elsecaro</string>
@@ -291,6 +297,7 @@
           <NameGroup>
             <Name>Starbases - StarCraft - Terran</Name>
             <Values>
+              <string>Atlas</string>
               <string>Dylar</string>
             </Values>
           </NameGroup>

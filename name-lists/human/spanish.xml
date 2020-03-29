@@ -10,6 +10,7 @@
           <string>Argentinian</string>
           <string>Colombian</string>
           <string>Cuban</string>
+          <string>Guatemalan</string>
           <string>Mexican</string>
           <string>Peruvian</string>
           <string>Spanish</string>
@@ -40,6 +41,33 @@
         </NameGroup>
       </Countries>
       <Regions>
+        <NameGroup>
+          <Name>Regions - Guatemala</Name>
+          <Values>
+            <string>Alta Verapaz</string>
+            <string>Baja Verapaz</string>
+            <string>Chimaltenango</string>
+            <string>Chiquimula</string>
+            <string>El Progreso</string>
+            <string>Escuintla</string>
+            <string>Guatemala</string>
+            <string>Huehuetenango</string>
+            <string>Izabal</string>
+            <string>Jalapa</string>
+            <string>Jutiapa</string>
+            <string>Petén</string>
+            <string>Quetzaltenango</string>
+            <string>Quiché</string>
+            <string>Retalhuleu</string>
+            <string>Sacatepéquez</string>
+            <string>San Marcos</string>
+            <string>Santa Rosa</string>
+            <string>Sololá</string>
+            <string>Suchitepéquez</string>
+            <string>Totonicapán</string>
+            <string>Zacapa</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Regions - Mexico</Name>
           <Values>
@@ -143,7 +171,18 @@
         <NameGroup>
           <Name>Cities - Guatemala</Name>
           <Values>
+            <string>Amatitlán</string>
+            <string>Chimaltenango</string>
+            <string>Chinautla</string>
+            <string>Escuintla</string>
             <string>Guatemala City</string>
+            <string>Guatemala</string>
+            <string>Mixco</string>
+            <string>Quetzaltenango</string>
+            <string>San Juan Sacatepéquez</string>
+            <string>San Miguel Petapa</string>
+            <string>Villa Canales</string>
+            <string>Villa Nueva</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -317,18 +356,41 @@
           <Name>Leaders - Spanish</Name>
           <Values>
             <string>Pelayo</string>
+            <string>Philip II</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Venezuelan</Name>
+          <Values>
+            <string>Chávez</string>
           </Values>
         </NameGroup>
       </LeadersTier2>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders - Cuban</Name>
+          <Values>
+            <string>Castro</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Spanish</Name>
+          <Values>
+            <string>Isabella</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
     </GreatPeople>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Swords - Iberia</Name>
-          <Values>
-            <string>Falcata</string>
-          </Values>
-        </NameGroup>
+        <Swords>
+          <NameGroup>
+            <Name>Swords - Iberia</Name>
+            <Values>
+              <string>Falcata</string>
+            </Values>
+          </NameGroup>
+        </Swords>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
@@ -367,6 +429,12 @@
     <Planets>
       <Generic>
         <NameGroup>
+          <Name>CoDominium - Terran Confederacy</Name>
+          <Values>
+            <string>Cienfuegos</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Stellaris - United Nations of Earth</Name>
           <Values>
             <string>La Isabela</string>
@@ -377,6 +445,18 @@
             <string>San Cristóbal</string>
             <string>San Fernando</string>
             <string>San Lucas</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Solar Dynasty - Cuban</Name>
+          <Values>
+            <string>Castro</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Solar Dynasty - Venezuelan</Name>
+          <Values>
+            <string>Chávez</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -429,6 +509,14 @@
           </Values>
         </NameGroup>
       </Gaia>
+      <Gaia>
+        <NameGroup>
+          <Name>Pandora: First Contact - Terra Salvum</Name>
+          <Values>
+            <string>Galapagos</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
     </Planets>
     <Characters>
       <CharacterNames>
@@ -436,47 +524,7 @@
         <Weight>13</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Alejandro</string>
-              <string>Alfonso</string>
-              <string>Carlos</string>
-              <string>Diego</string>
-              <string>Eduardo</string>
-              <string>Emilio</string>
-              <string>Enrique</string>
-              <string>Ernesto</string>
-              <string>Esteban</string>
-              <string>Fernando</string>
-              <string>Francisco</string>
-              <string>Gaspar</string>
-              <string>Gerardo</string>
-              <string>Guillermo</string>
-              <string>Hernándo</string>
-              <string>Ignacio</string>
-              <string>Javier</string>
-              <string>Jesús</string>
-              <string>Joaquin</string>
-              <string>José</string>
-              <string>José Antonio</string>
-              <string>José Manuel</string>
-              <string>José María</string>
-              <string>Juan</string>
-              <string>Julio</string>
-              <string>Lorenzo</string>
-              <string>Luis</string>
-              <string>Manuel</string>
-              <string>Marcelo</string>
-              <string>Miguel</string>
-              <string>Pablo</string>
-              <string>Pedro</string>
-              <string>Raimundo</string>
-              <string>Ramón</string>
-              <string>Ricardo</string>
-              <string>Roberto</string>
-              <string>Salvadore</string>
-              <string>Santiago</string>
-              <string>Sergio</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/spa-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <MaleRoyalFirstNames>
@@ -494,48 +542,7 @@
         </MaleRoyalFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Agustina</string>
-              <string>Alejandra</string>
-              <string>Alicia</string>
-              <string>Antonella</string>
-              <string>Antonia</string>
-              <string>Camila</string>
-              <string>Carla</string>
-              <string>Carmen</string>
-              <string>Catalina</string>
-              <string>Constanza</string>
-              <string>Daniela</string>
-              <string>Dolores</string>
-              <string>Estefania</string>
-              <string>Eva</string>
-              <string>Fabiana</string>
-              <string>Fernanda</string>
-              <string>Florencia</string>
-              <string>Gabriela</string>
-              <string>Gloria</string>
-              <string>Graciela</string>
-              <string>Grizelda</string>
-              <string>Hortensia</string>
-              <string>Isabel</string>
-              <string>Julieta</string>
-              <string>Lorena</string>
-              <string>Luciana</string>
-              <string>Magdalena</string>
-              <string>Maria</string>
-              <string>Mariana</string>
-              <string>Marisa</string>
-              <string>Martina</string>
-              <string>Mercedes</string>
-              <string>Miriam</string>
-              <string>Paulina</string>
-              <string>Rebecca</string>
-              <string>Renata</string>
-              <string>Sofia</string>
-              <string>Valentina</string>
-              <string>Valeria</string>
-              <string>Yolanda</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/spa-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <FemaleRoyalFirstNames>
@@ -556,56 +563,7 @@
         </FemaleRoyalFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Aguera</string>
-              <string>Alazraqui</string>
-              <string>Alonso</string>
-              <string>Alvarez</string>
-              <string>Batista</string>
-              <string>Carmona</string>
-              <string>de la Cruz</string>
-              <string>de la Guardia</string>
-              <string>de la Vega</string>
-              <string>de Vargas</string>
-              <string>Diaz</string>
-              <string>Dominguez</string>
-              <string>Esguerra</string>
-              <string>Fernandez</string>
-              <string>Flores</string>
-              <string>Garcia</string>
-              <string>Gomez</string>
-              <string>Gonzalez</string>
-              <string>Hernandez</string>
-              <string>Ibanez</string>
-              <string>Linares</string>
-              <string>Lopez</string>
-              <string>Magellan</string>
-              <string>Martin</string>
-              <string>Martinez</string>
-              <string>Mendez</string>
-              <string>Mendoza</string>
-              <string>Moralez</string>
-              <string>Nombela</string>
-              <string>Ortega</string>
-              <string>Ortiz</string>
-              <string>Perez</string>
-              <string>Quesada</string>
-              <string>Ramirez</string>
-              <string>Riveros</string>
-              <string>Rodriguez</string>
-              <string>Romero</string>
-              <string>Rosario</string>
-              <string>Ruiz</string>
-              <string>Salamanca</string>
-              <string>Salazar</string>
-              <string>Saldana</string>
-              <string>Sanchez</string>
-              <string>Solano</string>
-              <string>Torres</string>
-              <string>Valdivia</string>
-              <string>Vasquez</string>
-              <string>Velazco</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/spa-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
         <RoyalSecondNames>

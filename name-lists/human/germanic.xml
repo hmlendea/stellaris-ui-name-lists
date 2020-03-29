@@ -56,9 +56,35 @@
       </Countries>
       <Regions>
         <NameGroup>
+          <Name>Regions - Austria</Name>
+          <Values>
+            <string>Burgenland</string>
+            <string>Carinthia</string>
+            <string>Lower Austria</string>
+            <string>Salzburg</string>
+            <string>Styria</string>
+            <string>Tyrol</string>
+            <string>Upper Austria</string>
+            <string>Vienna</string>
+            <string>Vorarlberg</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Austria - Endonyms</Name>
+          <Values>
+            <string>Kärnten</string>
+            <string>Niederösterreich</string>
+            <string>Oberösterreich</string>
+            <string>Steiermark</string>
+            <string>Tirol</string>
+            <string>Wien</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Regions - Germany</Name>
           <Values>
             <string>Anhalt</string>
+            <string>Baden-Württemberg</string>
             <string>Baden</string>
             <string>Bavaria</string>
             <string>Berlin</string>
@@ -89,11 +115,29 @@
             <string>Niedersachsen</string>
             <string>Nordrhein</string>
             <string>Pfalz</string>
-            <string>Pfalz</string>
             <string>Rheinland</string>
             <string>Sachsen</string>
             <string>Thüringen</string>
             <string>Westfalen</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Iceland</Name>
+          <Values>
+            <string>Austurland</string>
+            <string>Höfuðborgarsvæðið</string>
+            <string>Norðurland eystra	</string>
+            <string>Norðurland vestra</string>
+            <string>Suðurland</string>
+            <string>Suðurnes</string>
+            <string>Vestfirðir</string>
+            <string>Vesturland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Sweden</Name>
+          <Values>
+            <string>Göta</string>
           </Values>
         </NameGroup>
       </Regions>
@@ -101,6 +145,14 @@
         <NameGroup>
           <Name>Cities - Austria</Name>
           <Values>
+            <string>Bregenz</string>
+            <string>Eisenstadt</string>
+            <string>Graz</string>
+            <string>Innsbruck</string>
+            <string>Klagenfurt</string>
+            <string>Linz</string>
+            <string>Salzburg</string>
+            <string>Sankt Polten</string>
             <string>Vienna</string>
           </Values>
         </NameGroup>
@@ -165,6 +217,12 @@
         <NameGroup>
           <Name>Cities - Iceland</Name>
           <Values>
+            <string>Akureyri</string>
+            <string>Garðabær</string>
+            <string>Hafnarfjörður</string>
+            <string>Kópavogur</string>
+            <string>Mosfellsbær</string>
+            <string>Reykjanesbær</string>
             <string>Reykjavík</string>
           </Values>
         </NameGroup>
@@ -228,6 +286,44 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Rivers - Iceland</Name>
+          <Values>
+            <string>Blanda</string>
+            <string>Eyjafjarðará</string>
+            <string>Eystri Jökulsá</string>
+            <string>Fnjóská</string>
+            <string>Fossá</string>
+            <string>Glerá</string>
+            <string>Hamarsá</string>
+            <string>Héraðsvötn</string>
+            <string>Hofsá</string>
+            <string>Hörgá</string>
+            <string>Hvítá</string>
+            <string>Jökulsá á Dal</string>
+            <string>Jökulsá á Fjöllum</string>
+            <string>Jökulsá í Fljótsdal</string>
+            <string>Jökulsá í Lóni</string>
+            <string>Krossá</string>
+            <string>Kúðafljót</string>
+            <string>Lagarfljót</string>
+            <string>Laxá</string>
+            <string>Markarfljót</string>
+            <string>Múlakvísl</string>
+            <string>Norðurá</string>
+            <string>Ölfusá</string>
+            <string>Rangá</string>
+            <string>Selfljót</string>
+            <string>Skaftá</string>
+            <string>Skeiðará</string>
+            <string>Skjálfandafljót</string>
+            <string>Skógá</string>
+            <string>Sog</string>
+            <string>Tungnaá</string>
+            <string>Vatnsdalur</string>
+            <string>Þjórsá</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Rivers - Sweden</Name>
           <Values>
             <string>Göta</string>
@@ -246,6 +342,12 @@
       </Explorers>
       <Scientists>
         <NameGroup>
+          <Name>Scientists - Austrian</Name>
+          <Values>
+            <string>Zsigmondy</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Scientists - Dutch</Name>
           <Values>
             <string>Fahrenheit</string>
@@ -254,23 +356,81 @@
         <NameGroup>
           <Name>Scientists - German</Name>
           <Values>
+            <string>Copernicus</string>
             <string>Einstein</string>
+            <string>Haeckel</string>
+            <string>Heisenberg</string>
             <string>Kepler</string>
+            <string>Konrad Zuse</string>
+            <string>Möbius</string>
+            <string>Planck</string>
+            <string>Schimper</string>
             <string>Von Braun</string>
           </Values>
         </NameGroup>
         <NameGroup>
           <Name>Scientists - Swedish</Name>
           <Values>
+            <string>Linnaeus</string>
             <string>Nobel</string>
           </Values>
         </NameGroup>
       </Scientists>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders - Austrian</Name>
+          <Values>
+            <string>Charles V</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Dutch</Name>
+          <Values>
+            <string>Wilhelmina</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Sweden</Name>
+          <Values>
+            <string>Kristina</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Visigoth</Name>
+          <Values>
+            <string>Alaric</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
       <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders - Austrian</Name>
+          <Values>
+            <string>Maria Theresa</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Danish</Name>
+          <Values>
+            <string>Harald Bluetooth</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Dutch</Name>
+          <Values>
+            <string>Willem van Oranje</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Leaders - German</Name>
           <Values>
             <string>Frederick the Great</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Norwegian</Name>
+          <Values>
+            <string>Harald Hardrada</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -284,7 +444,14 @@
         <NameGroup>
           <Name>Leaders - German</Name>
           <Values>
+            <string>Barbarossa</string>
             <string>Bismarck</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Norwegian</Name>
+          <Values>
+            <string>Ragnar</string>
           </Values>
         </NameGroup>
       </LeadersTier3>
@@ -317,6 +484,12 @@
             <string>William Tell</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Heroes - Swiss - Endonym</Name>
+          <Values>
+            <string>Wilhelm Teil</string>
+          </Values>
+        </NameGroup>
       </Heroes>
       <Admirals>
         <NameGroup>
@@ -342,31 +515,115 @@
         </NameGroup>
       </GeneralsTier2>
     </GreatPeople>
+    <Companies>
+      <RobotManufacturers>
+        <NameGroup>
+          <Name>Robot Manufacturers - Alien - German</Name>
+          <Values>
+            <string>Seegson</string>
+          </Values>
+        </NameGroup>
+      </RobotManufacturers>
+      <AutomotiveManufacturers>
+        <NameGroup>
+          <Name>Automotive Manufacturers - German</Name>
+          <Values>
+            <string>Audi</string>
+            <string>Mercedes-Benz</string>
+            <string>Opel</string>
+            <string>Porsche</string>
+            <string>Volkswagen</string>
+          </Values>
+        </NameGroup>
+      </AutomotiveManufacturers>
+      <AircraftManufacturers>
+        <NameGroup>
+          <Name>Aircraft Manufacturers - Austrian</Name>
+          <Values>
+            <string>Diamond Aircraft</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Aircraft Manufacturers - German</Name>
+          <Values>
+            <string>Roland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Aircraft Manufacturers - Swiss</Name>
+          <Values>
+            <string>Pilatus</string>
+          </Values>
+        </NameGroup>
+      </AircraftManufacturers>
+      <SpacecraftManufacturers>
+        <NameGroup>
+          <Name>Spacecraft Manufacturers - Belgian</Name>
+          <Values>
+            <string>QuentiQ</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Spacecraft Manufacturers - Danish</Name>
+          <Values>
+            <string>GomSpace</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Spacecraft Manufacturers - Dutch</Name>
+          <Values>
+            <string>Fokker</string>
+          </Values>
+        </NameGroup>
+      </SpacecraftManufacturers>
+    </Companies>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Swords - Danish</Name>
-          <Values>
-            <string>Sparth</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Swords - German</Name>
-          <Values>
-            <string>Katzbalger</string>
-            <string>Flamberge</string>
-          </Values>
-        </NameGroup>
+        <Guns>
+          <NameGroup>
+            <Name>Guns - German</Name>
+            <Values>
+              <string>Hakenbüchse</string>
+            </Values>
+          </NameGroup>
+        </Guns>
+        <Swords>
+          <NameGroup>
+            <Name>Swords - Danish</Name>
+            <Values>
+              <string>Sparth</string>
+            </Values>
+          </NameGroup>
+          <NameGroup>
+            <Name>Swords - German</Name>
+            <Values>
+              <string>Katzbalger</string>
+              <string>Flamberge</string>
+            </Values>
+          </NameGroup>
+        </Swords>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
           <Name>Military Unit Types</Name>
           <Values>
             <string>Berserker</string>
-            <string>Landsknechte</string>
-            <string>Panzer</string>
             <string>Templar</string>
             <string>Viking</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - German</Name>
+          <Values>
+            <string>Landsknechte</string>
+            <string>Panzer</string>
+            <string>Volksgrenadier</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Swedish</Name>
+          <Values>
+            <string>Carolean</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
@@ -397,14 +654,16 @@
         </NameGroup>
       </BattleLocations>
     </Warfare>
-    <MythologicalCreatures>
-      <NameGroup>
-        <Name>Mythological Creatures</Name>
-        <Values>
-          <string>Krampus</string>
-        </Values>
-      </NameGroup>
-    </MythologicalCreatures>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological Creatures</Name>
+          <Values>
+            <string>Krampus</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <Ships>
       <Corvette>
         <NameGroup>
@@ -460,6 +719,14 @@
           </Values>
         </NameGroup>
       </Battleship>
+      <Juggernaut>
+        <NameGroup>
+          <Name>Vanilla</Name>
+          <Values>
+            <string>Ragnarök</string>
+          </Values>
+        </NameGroup>
+      </Juggernaut>
       <Coloniser>
         <NameGroup>
           <Name>Mythology</Name>
@@ -484,44 +751,6 @@
       </Transport>
     </Ships>
     <ShipClasses>
-      <Generic>
-        <NameGroup>
-          <Name>Spacecraft manufacturers - Belgian</Name>
-          <Values>
-            <string>QuentiQ</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Spacecraft manufacturers - Danish</Name>
-          <Values>
-            <string>GomSpace</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Spacecraft manufacturers - Dutch</Name>
-          <Values>
-            <string>Fokker</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Aircraft manufacturers - Austrian</Name>
-          <Values>
-            <string>Diamond Aircraft</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Aircraft manufacturers - German</Name>
-          <Values>
-            <string>Roland</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Aircraft manufacturers - Swiss</Name>
-          <Values>
-            <string>Pilatus</string>
-          </Values>
-        </NameGroup>
-      </Generic>
       <Science>
         <NameGroup>
           <Name>Ship Classes - StarCraft - Terran</Name>
@@ -551,6 +780,34 @@
     </Armies>
     <Planets>
       <Generic>
+        <NameGroup>
+          <Name>Pandora: First Contact - Imperium</Name>
+          <Values>
+            <string>Rommel</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Noxium Corporation</Name>
+          <Values>
+            <string>Lemann</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Terra Salvum</Name>
+          <Values>
+            <string>Haeckel</string>
+            <string>Linnaeus</string>
+            <string>Möbius</string>
+            <string>Schimper</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Togra University</Name>
+          <Values>
+            <string>Planck</string>
+            <string>Zsigmondy</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Stellaris - Commonwealth of Man</Name>
           <Values>
@@ -719,6 +976,12 @@
       </Arctic>
       <Tomb>
         <NameGroup>
+          <Name>Pandora: First Contact - Togra University</Name>
+          <Values>
+            <string>Heisenberg</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Words</Name>
           <Values>
             <string>Krieg</string>
@@ -746,83 +1009,7 @@
         <Weight>2</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Adolf</string>
-              <string>Albert</string>
-              <string>Andreas</string>
-              <string>Arnold</string>
-              <string>Artur</string>
-              <string>August</string>
-              <string>Axel</string>
-              <string>Bruno</string>
-              <string>Conrad</string>
-              <string>Dieter</string>
-              <string>Eggert</string>
-              <string>Emil</string>
-              <string>Erhard</string>
-              <string>Erich</string>
-              <string>Ernst</string>
-              <string>Erwin</string>
-              <string>Felix</string>
-              <string>Franz</string>
-              <string>Friedrich</string>
-              <string>Fritz</string>
-              <string>Gerhard</string>
-              <string>Gerhardt</string>
-              <string>Gottfried</string>
-              <string>Gottlob</string>
-              <string>Günther</string>
-              <string>Gustav</string>
-              <string>Hans</string>
-              <string>Heinrich</string>
-              <string>Heinz</string>
-              <string>Helmuth</string>
-              <string>Herbert</string>
-              <string>Hermann</string>
-              <string>Holger</string>
-              <string>Horst</string>
-              <string>Hravn</string>
-              <string>Jakob</string>
-              <string>Joachim</string>
-              <string>Johann</string>
-              <string>Jörg</string>
-              <string>Josef</string>
-              <string>Jürgen</string>
-              <string>Karl</string>
-              <string>Klaus</string>
-              <string>Konrad</string>
-              <string>Konstantin</string>
-              <string>Kurt</string>
-              <string>Lothar</string>
-              <string>Ludolf</string>
-              <string>Ludwig</string>
-              <string>Lukas</string>
-              <string>Manfred</string>
-              <string>Martin</string>
-              <string>Matthias</string>
-              <string>Max</string>
-              <string>Moritz</string>
-              <string>Oswald</string>
-              <string>Otto</string>
-              <string>Paul</string>
-              <string>Peter</string>
-              <string>Reinhard</string>
-              <string>Rolf</string>
-              <string>Rudolf</string>
-              <string>Sepp</string>
-              <string>Sigismund</string>
-              <string>Stefan</string>
-              <string>Theodor</string>
-              <string>Thomas</string>
-              <string>Udo</string>
-              <string>Ulrich</string>
-              <string>Uwe</string>
-              <string>Walter</string>
-              <string>Werner</string>
-              <string>Wilhelm</string>
-              <string>Wolfgang</string>
-              <string>Xaver</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/deu-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <MaleRoyalFirstNames>
@@ -842,61 +1029,7 @@
         </MaleRoyalFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Adelaide</string>
-              <string>Andrea</string>
-              <string>Angelika</string>
-              <string>Anita</string>
-              <string>Anja</string>
-              <string>Anna</string>
-              <string>Annike</string>
-              <string>Bettina</string>
-              <string>Birgit</string>
-              <string>Christel</string>
-              <string>Claudia</string>
-              <string>Edith</string>
-              <string>Elsa</string>
-              <string>Emma</string>
-              <string>Erika</string>
-              <string>Eva</string>
-              <string>Gertrude</string>
-              <string>Gisela</string>
-              <string>Gretchen</string>
-              <string>Heidi</string>
-              <string>Heike</string>
-              <string>Helga</string>
-              <string>Hermine</string>
-              <string>Hilde</string>
-              <string>Hildegard</string>
-              <string>Ilse</string>
-              <string>Ingrid</string>
-              <string>Jessika</string>
-              <string>Johanna</string>
-              <string>Julia</string>
-              <string>Katharina</string>
-              <string>Katrin</string>
-              <string>Kerstin</string>
-              <string>Lena</string>
-              <string>Lina</string>
-              <string>Lisa</string>
-              <string>Lisbeth</string>
-              <string>Margaret</string>
-              <string>Maria</string>
-              <string>Marith</string>
-              <string>Martina</string>
-              <string>Petra</string>
-              <string>Renate</string>
-              <string>Sabine</string>
-              <string>Sabrina</string>
-              <string>Sandra</string>
-              <string>Sara</string>
-              <string>Silvia</string>
-              <string>Stefanie</string>
-              <string>Tina</string>
-              <string>Ursula</string>
-              <string>Wibke</string>
-              <string>Wilhelmina</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/deu-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <FemaleRoyalFirstNames>
@@ -912,163 +1045,7 @@
         </FemaleRoyalFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Alpers</string>
-              <string>Amann</string>
-              <string>Andbert</string>
-              <string>Bach</string>
-              <string>Backe</string>
-              <string>Bauer</string>
-              <string>Baumann</string>
-              <string>Baur</string>
-              <string>Becker</string>
-              <string>Berchtold</string>
-              <string>Berger</string>
-              <string>Bergmeister</string>
-              <string>Best</string>
-              <string>Bittrich</string>
-              <string>Bohle</string>
-              <string>Bomhard</string>
-              <string>Bouhler</string>
-              <string>Braemer</string>
-              <string>Brandt</string>
-              <string>Braun</string>
-              <string>Breithaupt</string>
-              <string>Brenner</string>
-              <string>Brill</string>
-              <string>Brinkmann</string>
-              <string>Buch</string>
-              <string>Bürckel</string>
-              <string>Daluege</string>
-              <string>Demelhubeer</string>
-              <string>Dietrich</string>
-              <string>Dreyer</string>
-              <string>Eberstein</string>
-              <string>Eggeling</string>
-              <string>Eicke</string>
-              <string>Erhard</string>
-              <string>Fegelein</string>
-              <string>Fiehler</string>
-              <string>Fischer</string>
-              <string>Fitzthum</string>
-              <string>Forster</string>
-              <string>Frank</string>
-              <string>Freyberg</string>
-              <string>Friedrichs</string>
-              <string>Gebhardt</string>
-              <string>Genzken</string>
-              <string>Gille</string>
-              <string>Glücks</string>
-              <string>Gottberg</string>
-              <string>Grasser</string>
-              <string>Grawitz</string>
-              <string>Greifelt</string>
-              <string>Greiser</string>
-              <string>Hanke</string>
-              <string>Harster</string>
-              <string>Hausser</string>
-              <string>Heiden</string>
-              <string>Heissmeyer</string>
-              <string>HeissmeyerHenlein</string>
-              <string>Heydrich</string>
-              <string>Hilderbrandt</string>
-              <string>Himmler</string>
-              <string>Hinkel</string>
-              <string>Hoffmann</string>
-              <string>Höfle</string>
-              <string>Hofmann</string>
-              <string>Jeckeln</string>
-              <string>Jüttner</string>
-              <string>Kaltenbrunner</string>
-              <string>Kammler</string>
-              <string>Katzmann</string>
-              <string>Keller</string>
-              <string>Keppler</string>
-              <string>Klein</string>
-              <string>Kleinheisterkamp</string>
-              <string>Klopfer</string>
-              <string>Koppe</string>
-              <string>Kreutz</string>
-              <string>Krüger</string>
-              <string>Kube</string>
-              <string>Lammers</string>
-              <string>Lauterbacher</string>
-              <string>Loeper</string>
-              <string>Lorenz</string>
-              <string>Lörner</string>
-              <string>Meyer</string>
-              <string>Moder</string>
-              <string>Müller</string>
-              <string>Mülverstadt</string>
-              <string>Naumann</string>
-              <string>Nebe</string>
-              <string>Neumann</string>
-              <string>Oberg</string>
-              <string>Ohlendorf</string>
-              <string>Ostendorff</string>
-              <string>Pancke</string>
-              <string>Pfeffer</string>
-              <string>Phelps</string>
-              <string>Pohl</string>
-              <string>Prieß</string>
-              <string>Prützmann</string>
-              <string>Querner</string>
-              <string>Rattenhuber</string>
-              <string>Rauter</string>
-              <string>Rediess</string>
-              <string>Reeder</string>
-              <string>Reinefarth</string>
-              <string>Ribbentrop</string>
-              <string>Richter</string>
-              <string>Rösener</string>
-              <string>Saubeerzweig</string>
-              <string>Sauckel</string>
-              <string>Sauer</string>
-              <string>Schäfer</string>
-              <string>Scharfe</string>
-              <string>Schaub</string>
-              <string>Scheid</string>
-              <string>Schimana</string>
-              <string>Schmidt</string>
-              <string>Schneider</string>
-              <string>Scholz</string>
-              <string>Schreck</string>
-              <string>Schubert</string>
-              <string>Schulz</string>
-              <string>Schwarz</string>
-              <string>Schwarzenegger</string>
-              <string>Sporrenberg</string>
-              <string>Stein</string>
-              <string>Steiner</string>
-              <string>Strasse</string>
-              <string>Streckenbach</string>
-              <string>Stroop</string>
-              <string>Stuckart</string>
-              <string>von Alvensleben</string>
-              <string>von Boyen</string>
-              <string>von Falkenstein</string>
-              <string>von Fritsch</string>
-              <string>von Gebser</string>
-              <string>von Halkett</string>
-              <string>von Helldorf</string>
-              <string>von Herff</string>
-              <string>von Hotzendorf</string>
-              <string>von Neurath</string>
-              <string>von Woyrsch</string>
-              <string>von Wrangel</string>
-              <string>Wächter</string>
-              <string>Wächtler</string>
-              <string>Wagner</string>
-              <string>Weber</string>
-              <string>Weiss</string>
-              <string>Weitzel</string>
-              <string>Wendler</string>
-              <string>Wildenbruch</string>
-              <string>Wolf</string>
-              <string>Wolff</string>
-              <string>Wünnenberg</string>
-              <string>Ziegler</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/deu-persons-surname.txt</Url>
           </NameGroup>
         </SecondNames>
         <RoyalSecondNames>
@@ -1091,1722 +1068,17 @@
         <Weight>1</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Aad</string>
-              <string>Aart</string>
-              <string>Ab</string>
-              <string>Abraham</string>
-              <string>Ad</string>
-              <string>Adam</string>
-              <string>Adem</string>
-              <string>Adolf</string>
-              <string>Adriaan</string>
-              <string>Adriaen</string>
-              <string>Adrian</string>
-              <string>Adrianus</string>
-              <string>Aernout</string>
-              <string>Albert</string>
-              <string>Albertus</string>
-              <string>Alexander</string>
-              <string>Alfred</string>
-              <string>Alvin</string>
-              <string>Alwin</string>
-              <string>Andreas</string>
-              <string>Andries</string>
-              <string>Anne</string>
-              <string>Anthonie</string>
-              <string>Anthonis</string>
-              <string>Anthonius</string>
-              <string>Anton</string>
-              <string>Antonie</string>
-              <string>Antonis</string>
-              <string>Antonius</string>
-              <string>Antoon</string>
-              <string>Arend</string>
-              <string>Arie</string>
-              <string>Arjan</string>
-              <string>Arjen</string>
-              <string>Arno</string>
-              <string>Arnold</string>
-              <string>Arnoldus</string>
-              <string>Arnoud</string>
-              <string>Arnout</string>
-              <string>Arthur</string>
-              <string>Axel</string>
-              <string>Barend</string>
-              <string>Bart</string>
-              <string>Bartholomeus</string>
-              <string>Bas</string>
-              <string>Bastiaan</string>
-              <string>Bauke</string>
-              <string>Berend</string>
-              <string>Bernardus</string>
-              <string>Bernhard</string>
-              <string>Bert</string>
-              <string>Bertus</string>
-              <string>Bjorn</string>
-              <string>Boudewijn</string>
-              <string>Bram</string>
-              <string>Bruno</string>
-              <string>Calvin</string>
-              <string>Carel</string>
-              <string>Carl</string>
-              <string>Cas</string>
-              <string>Cees</string>
-              <string>Christiaan</string>
-              <string>Christoffel</string>
-              <string>Claes</string>
-              <string>Clemens</string>
-              <string>Coen</string>
-              <string>Coenraad</string>
-              <string>Conradus</string>
-              <string>Cor</string>
-              <string>Cornelis</string>
-              <string>Daan</string>
-              <string>Daniël</string>
-              <string>David</string>
-              <string>Derek</string>
-              <string>Derk</string>
-              <string>Diederik</string>
-              <string>Dirk</string>
-              <string>Dixie</string>
-              <string>Dolf</string>
-              <string>Donald</string>
-              <string>Douwe</string>
-              <string>Dries</string>
-              <string>Duif</string>
-              <string>Eduard</string>
-              <string>Edwin</string>
-              <string>Eelco</string>
-              <string>Egbert</string>
-              <string>Egon</string>
-              <string>Elbert</string>
-              <string>Emiel</string>
-              <string>Eric</string>
-              <string>Erik</string>
-              <string>Evert</string>
-              <string>Ewout</string>
-              <string>Felix</string>
-              <string>Florian</string>
-              <string>Floris</string>
-              <string>Franciscus</string>
-              <string>Frank</string>
-              <string>Frans</string>
-              <string>Frederik</string>
-              <string>Frits</string>
-              <string>Gabriël</string>
-              <string>Geert</string>
-              <string>Geerten</string>
-              <string>Geertgen</string>
-              <string>Gerard</string>
-              <string>Gerardus</string>
-              <string>Gerbrand</string>
-              <string>Gerhard</string>
-              <string>Gerhardus</string>
-              <string>Gerrie</string>
-              <string>Gerrit</string>
-              <string>Gert</string>
-              <string>Gerwin</string>
-              <string>Giel</string>
-              <string>Gijs</string>
-              <string>Gijsbert</string>
-              <string>Gilbert</string>
-              <string>Godfried</string>
-              <string>Goos</string>
-              <string>Govert</string>
-              <string>Gregoor</string>
-              <string>Guido</string>
-              <string>Gustav</string>
-              <string>Guus</string>
-              <string>Han</string>
-              <string>Hannes</string>
-              <string>Hans</string>
-              <string>Harm</string>
-              <string>Harmen</string>
-              <string>Harrie</string>
-              <string>Hein</string>
-              <string>Heinke</string>
-              <string>Helge</string>
-              <string>Hendrick</string>
-              <string>Hendrik</string>
-              <string>Hendrikus</string>
-              <string>Henk</string>
-              <string>Hennie</string>
-              <string>Henricus</string>
-              <string>Herbert</string>
-              <string>Herman</string>
-              <string>Hermanus</string>
-              <string>Hessel</string>
-              <string>Hilbert</string>
-              <string>Hubert</string>
-              <string>Hubertus</string>
-              <string>Huib</string>
-              <string>Huub</string>
-              <string>IJsbrand</string>
-              <string>Ivo</string>
-              <string>Jaap</string>
-              <string>Jacco</string>
-              <string>Jack</string>
-              <string>Jaco</string>
-              <string>Jacob</string>
-              <string>Jacobus</string>
-              <string>Jan</string>
-              <string>Jannes</string>
-              <string>Jasper</string>
-              <string>Jef</string>
-              <string>Jelle</string>
-              <string>Jeroen</string>
-              <string>Jesse</string>
-              <string>Jo</string>
-              <string>Joan</string>
-              <string>Jochem</string>
-              <string>Joep</string>
-              <string>Joeri</string>
-              <string>Johan</string>
-              <string>Johannes</string>
-              <string>Jonas</string>
-              <string>Jonathan</string>
-              <string>Joop</string>
-              <string>Joost</string>
-              <string>Jorien</string>
-              <string>Joris</string>
-              <string>Jorrit</string>
-              <string>Jos</string>
-              <string>Josephus</string>
-              <string>Jozef</string>
-              <string>Jurjen</string>
-              <string>Karel</string>
-              <string>Karl</string>
-              <string>Kees</string>
-              <string>Klaas</string>
-              <string>Klaus</string>
-              <string>Kobus</string>
-              <string>Koen</string>
-              <string>Koenraad</string>
-              <string>Koos</string>
-              <string>Lambert</string>
-              <string>Lambertus</string>
-              <string>Lambrecht</string>
-              <string>Lammert</string>
-              <string>Lars</string>
-              <string>Laurens</string>
-              <string>Leendert</string>
-              <string>Leonardus</string>
-              <string>Leopold</string>
-              <string>Lex</string>
-              <string>Lieve</string>
-              <string>Lieven</string>
-              <string>Linus</string>
-              <string>Lodewijk</string>
-              <string>Ludger</string>
-              <string>Ludo</string>
-              <string>Ludovicus</string>
-              <string>Lukas</string>
-              <string>Luuk</string>
-              <string>Maarten</string>
-              <string>Machiel</string>
-              <string>Maikel</string>
-              <string>Manuel</string>
-              <string>Marcel</string>
-              <string>Marco</string>
-              <string>Marijn</string>
-              <string>Marinus</string>
-              <string>Marius</string>
-              <string>Mark</string>
-              <string>Marko</string>
-              <string>Marnix</string>
-              <string>Mart</string>
-              <string>Marten</string>
-              <string>Martien</string>
-              <string>Martijn</string>
-              <string>Martin</string>
-              <string>Martinus</string>
-              <string>Mattheus</string>
-              <string>Matthias</string>
-              <string>Matthijs</string>
-              <string>Maurits</string>
-              <string>Mauritz</string>
-              <string>Melis</string>
-              <string>Melvin</string>
-              <string>Menno</string>
-              <string>Michiel</string>
-              <string>Milan</string>
-              <string>Nanne</string>
-              <string>Nelis</string>
-              <string>Nico</string>
-              <string>Nicolaas</string>
-              <string>Niek</string>
-              <string>Nikolaas</string>
-              <string>Norbert</string>
-              <string>Norman</string>
-              <string>Olaf</string>
-              <string>Olivier</string>
-              <string>Onno</string>
-              <string>Otto</string>
-              <string>Pascal</string>
-              <string>Paul</string>
-              <string>Paulus</string>
-              <string>Pepijn</string>
-              <string>Peter</string>
-              <string>Petrus</string>
-              <string>Philip</string>
-              <string>Pier</string>
-              <string>Piet</string>
-              <string>Pieter</string>
-              <string>Pim</string>
-              <string>Quirijn</string>
-              <string>Ralph</string>
-              <string>Rein</string>
-              <string>Reinder</string>
-              <string>Reindert</string>
-              <string>Reinhardt</string>
-              <string>Reinhart</string>
-              <string>Reinier</string>
-              <string>Reinout</string>
-              <string>Rembrandt</string>
-              <string>Remco</string>
-              <string>Rens</string>
-              <string>Reynier</string>
-              <string>Rien</string>
-              <string>Rik</string>
-              <string>Rinus</string>
-              <string>Robbert</string>
-              <string>Robert</string>
-              <string>Roel</string>
-              <string>Roeland</string>
-              <string>Roelof</string>
-              <string>Rogier</string>
-              <string>Roland</string>
-              <string>Rombout</string>
-              <string>Romeyn</string>
-              <string>Ronald</string>
-              <string>Rudolf</string>
-              <string>Rudolph</string>
-              <string>Rutger</string>
-              <string>Ruud</string>
-              <string>Samuel</string>
-              <string>Sander</string>
-              <string>Sebastiaan</string>
-              <string>Sem</string>
-              <string>Simon</string>
-              <string>Sjaak</string>
-              <string>Sjoerd</string>
-              <string>Stef</string>
-              <string>Stefaan</string>
-              <string>Stefan</string>
-              <string>Stijn</string>
-              <string>Sven</string>
-              <string>Sylvester</string>
-              <string>Teun</string>
-              <string>Teunis</string>
-              <string>Teuntje</string>
-              <string>Thaddeus</string>
-              <string>Theo</string>
-              <string>Theodoor</string>
-              <string>Theodor</string>
-              <string>Theodoros</string>
-              <string>Theunis</string>
-              <string>Thijmen</string>
-              <string>Thijs</string>
-              <string>Thomas</string>
-              <string>Tielman</string>
-              <string>Tijs</string>
-              <string>Tim</string>
-              <string>Timo</string>
-              <string>Tinus</string>
-              <string>Tjalling</string>
-              <string>Tjapko</string>
-              <string>Tjeerd</string>
-              <string>Tobias</string>
-              <string>Toine</string>
-              <string>Tom</string>
-              <string>Ton</string>
-              <string>Tonie</string>
-              <string>Tõnis</string>
-              <string>Toon</string>
-              <string>Twan</string>
-              <string>Valentijn</string>
-              <string>Vincent</string>
-              <string>Walraven</string>
-              <string>Walter</string>
-              <string>Werner</string>
-              <string>Wiebe</string>
-              <string>Wijnand</string>
-              <string>Wilco</string>
-              <string>Wilhelmus</string>
-              <string>Willem</string>
-              <string>Wim</string>
-              <string>Wisse</string>
-              <string>Wolter</string>
-              <string>Wout</string>
-              <string>Wouter</string>
-              <string>Zeger</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/nld-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Ada</string>
-              <string>Adriana</string>
-              <string>Agatha</string>
-              <string>Alberta</string>
-              <string>Aleida</string>
-              <string>Aletta</string>
-              <string>Alida</string>
-              <string>Amalia</string>
-              <string>Anna</string>
-              <string>Anne</string>
-              <string>Anneke</string>
-              <string>Anneliese</string>
-              <string>Annemarie</string>
-              <string>Annemieke</string>
-              <string>Annie</string>
-              <string>Annika</string>
-              <string>Anouk</string>
-              <string>Ans</string>
-              <string>Antje</string>
-              <string>Antoinette</string>
-              <string>Antonia</string>
-              <string>Astrid</string>
-              <string>Barbara</string>
-              <string>Beatrix</string>
-              <string>Carlijn</string>
-              <string>Carolina</string>
-              <string>Caroline</string>
-              <string>Catharina</string>
-              <string>Charlotte</string>
-              <string>Claudia</string>
-              <string>Cobie</string>
-              <string>Cor</string>
-              <string>Cornelia</string>
-              <string>Corrie</string>
-              <string>Cynthia</string>
-              <string>Daniëlle</string>
-              <string>Eefje</string>
-              <string>Elke</string>
-              <string>Ellen</string>
-              <string>Elly</string>
-              <string>Els</string>
-              <string>Emily</string>
-              <string>Emma</string>
-              <string>Estelle</string>
-              <string>Esther</string>
-              <string>Eva</string>
-              <string>Femke</string>
-              <string>Fleur</string>
-              <string>Floortje</string>
-              <string>Frida</string>
-              <string>Geerten</string>
-              <string>Geertruida</string>
-              <string>Gerarda</string>
-              <string>Gerda</string>
-              <string>Gerrie</string>
-              <string>Gesina</string>
-              <string>Greet</string>
-              <string>Grietje</string>
-              <string>Hanne</string>
-              <string>Hanneke</string>
-              <string>Heidi</string>
-              <string>Heleen</string>
-              <string>Helga</string>
-              <string>Hendrika</string>
-              <string>Hennie</string>
-              <string>Henriëtte</string>
-              <string>Hilda</string>
-              <string>Ilse</string>
-              <string>Ineke</string>
-              <string>Inge</string>
-              <string>Ingrid</string>
-              <string>Irene</string>
-              <string>Isabella</string>
-              <string>Jack</string>
-              <string>Jacoba</string>
-              <string>Jacqueline</string>
-              <string>Janneke</string>
-              <string>Jet</string>
-              <string>Jo</string>
-              <string>Johanna</string>
-              <string>Joke</string>
-              <string>Jolanda</string>
-              <string>Jolijn</string>
-              <string>Jorien</string>
-              <string>Josephina</string>
-              <string>Judith</string>
-              <string>Karen</string>
-              <string>Karin</string>
-              <string>Katja</string>
-              <string>Kristi</string>
-              <string>Kristin</string>
-              <string>Lieke</string>
-              <string>Liesbeth</string>
-              <string>Lieve</string>
-              <string>Loes</string>
-              <string>Lonneke</string>
-              <string>Lotte</string>
-              <string>Lowiena</string>
-              <string>Maaike</string>
-              <string>Maartje</string>
-              <string>Manon</string>
-              <string>Margaretha</string>
-              <string>Margriet</string>
-              <string>Maria</string>
-              <string>Marianne</string>
-              <string>Marieke</string>
-              <string>Marije</string>
-              <string>Marijke</string>
-              <string>Marijn</string>
-              <string>Mariska</string>
-              <string>Marja</string>
-              <string>Marjan</string>
-              <string>Marjolein</string>
-              <string>Marleen</string>
-              <string>Marlies</string>
-              <string>Marloes</string>
-              <string>Marta</string>
-              <string>Meike</string>
-              <string>Melanie</string>
-              <string>Merel</string>
-              <string>Mieke</string>
-              <string>Miranda</string>
-              <string>Mirjam</string>
-              <string>Myrthe</string>
-              <string>Nadine</string>
-              <string>Nanne</string>
-              <string>Natalie</string>
-              <string>Nathalie</string>
-              <string>Nel</string>
-              <string>Nettie</string>
-              <string>Nienke</string>
-              <string>Olga</string>
-              <string>Olivia</string>
-              <string>Paula</string>
-              <string>Paulien</string>
-              <string>Petronella</string>
-              <string>Puck</string>
-              <string>Rachel</string>
-              <string>Ria</string>
-              <string>Rie</string>
-              <string>Sanne</string>
-              <string>Saskia</string>
-              <string>Sophie</string>
-              <string>Suzanne</string>
-              <string>Teuntje</string>
-              <string>Tineke</string>
-              <string>Toine</string>
-              <string>Tonie</string>
-              <string>Toon</string>
-              <string>Toos</string>
-              <string>Truus</string>
-              <string>Valerie</string>
-              <string>Victoria</string>
-              <string>Viola</string>
-              <string>Wilhelmina</string>
-              <string>Willeke</string>
-              <string>Willemina</string>
-              <string>Wilma</string>
-              <string>Yvette</string>
-              <string>Yvonne</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/nld-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Aafjes</string>
-              <string>Aalbers</string>
-              <string>Aantjes</string>
-              <string>Aardsma</string>
-              <string>Aarts</string>
-              <string>Aartsen</string>
-              <string>Adriaanse</string>
-              <string>Aerts</string>
-              <string>Akkerman</string>
-              <string>Albers</string>
-              <string>Alberts</string>
-              <string>Alblas</string>
-              <string>Alders</string>
-              <string>Altena</string>
-              <string>Amerongen</string>
-              <string>Anderiesen</string>
-              <string>Andriessen</string>
-              <string>Appel</string>
-              <string>Appelman</string>
-              <string>Appelmans</string>
-              <string>Arends</string>
-              <string>Arents</string>
-              <string>Baan</string>
-              <string>Baanders</string>
-              <string>Baars</string>
-              <string>Baas</string>
-              <string>Backer</string>
-              <string>Baert</string>
-              <string>Bakker</string>
-              <string>Bal</string>
-              <string>Barend</string>
-              <string>Barendregt</string>
-              <string>Barends</string>
-              <string>Bartels</string>
-              <string>Bartholomeusz</string>
-              <string>Baten</string>
-              <string>Bauwens</string>
-              <string>Beckers</string>
-              <string>Beeckman</string>
-              <string>Beekman</string>
-              <string>Beethoven</string>
-              <string>Bekker</string>
-              <string>Bentinck</string>
-              <string>Berendsen</string>
-              <string>Berens</string>
-              <string>Bergkamp</string>
-              <string>Berkel</string>
-              <string>Berkhoff</string>
-              <string>Berkhout</string>
-              <string>Bettens</string>
-              <string>Beukers</string>
-              <string>Beumer</string>
-              <string>Biemans</string>
-              <string>Bijl</string>
-              <string>Bijlsma</string>
-              <string>Bisschop</string>
-              <string>Blaauw</string>
-              <string>Blanke</string>
-              <string>Bleecker</string>
-              <string>Bleeker</string>
-              <string>Bloem</string>
-              <string>Bloemen</string>
-              <string>Blok</string>
-              <string>Blokland</string>
-              <string>Blom</string>
-              <string>Boekbinder</string>
-              <string>Boeken</string>
-              <string>Boekhorst</string>
-              <string>Boer</string>
-              <string>Bogaert</string>
-              <string>Bol</string>
-              <string>Bongers</string>
-              <string>Boogaard</string>
-              <string>Booij</string>
-              <string>Boom</string>
-              <string>Boomsma</string>
-              <string>Boon</string>
-              <string>Boot</string>
-              <string>Borremans</string>
-              <string>Borsboom</string>
-              <string>Borst</string>
-              <string>Bos</string>
-              <string>Bosch</string>
-              <string>Boschman</string>
-              <string>Bosman</string>
-              <string>Bosmans</string>
-              <string>Bot</string>
-              <string>Bouman</string>
-              <string>Bouwens</string>
-              <string>Bouwman</string>
-              <string>Bouwmeester</string>
-              <string>Bovens</string>
-              <string>Braat</string>
-              <string>Brands</string>
-              <string>Brandts Buys</string>
-              <string>Brasser</string>
-              <string>Breukelen</string>
-              <string>Brink</string>
-              <string>Brinkman</string>
-              <string>Broekhuizen</string>
-              <string>Broekman</string>
-              <string>Broers</string>
-              <string>Brokmann</string>
-              <string>Brood</string>
-              <string>Brouwer</string>
-              <string>Brugman</string>
-              <string>Brugmans</string>
-              <string>Bruijn</string>
-              <string>Bruin</string>
-              <string>Bruins</string>
-              <string>Buijs</string>
-              <string>Burger</string>
-              <string>Burgers</string>
-              <string>Buter</string>
-              <string>Buwalda</string>
-              <string>Buys</string>
-              <string>Camphuysen</string>
-              <string>Ceulemans</string>
-              <string>Christiaens</string>
-              <string>Claassen</string>
-              <string>Claes</string>
-              <string>Claessen</string>
-              <string>Claessens</string>
-              <string>Claeys</string>
-              <string>Clijsters</string>
-              <string>Coenen</string>
-              <string>Coolen</string>
-              <string>Cools</string>
-              <string>Coomans</string>
-              <string>Coppens</string>
-              <string>Cornelis</string>
-              <string>Cornelisse</string>
-              <string>Cornelissen</string>
-              <string>Coster</string>
-              <string>Cremers</string>
-              <string>Croes</string>
-              <string>Cuypers</string>
-              <string>D'Hondt</string>
-              <string>Daems</string>
-              <string>Damen</string>
-              <string>Danneels</string>
-              <string>De Backer</string>
-              <string>De Bakker</string>
-              <string>De Beer</string>
-              <string>De Bie</string>
-              <string>De Bisschop</string>
-              <string>De Boer</string>
-              <string>De Bont</string>
-              <string>De Brouwer</string>
-              <string>De Bruijn</string>
-              <string>De Bruin</string>
-              <string>De Bruyn</string>
-              <string>De Bruyne</string>
-              <string>De Clerck</string>
-              <string>De Clercq</string>
-              <string>De Cock</string>
-              <string>De Coninck</string>
-              <string>De Coster</string>
-              <string>De Decker</string>
-              <string>De Geer</string>
-              <string>De Geus</string>
-              <string>De Goede</string>
-              <string>De Graaf</string>
-              <string>De Greef</string>
-              <string>De Groot</string>
-              <string>De Groote</string>
-              <string>De Haan</string>
-              <string>De Haas</string>
-              <string>De Heer</string>
-              <string>De Hondt</string>
-              <string>De Hooch</string>
-              <string>De Hoog</string>
-              <string>De Jager</string>
-              <string>De Jong</string>
-              <string>De Jonge</string>
-              <string>De Jongh</string>
-              <string>De Keyser</string>
-              <string>De Klerck</string>
-              <string>De Klerk</string>
-              <string>De Kock</string>
-              <string>De Kok</string>
-              <string>De Koninck</string>
-              <string>De Koning</string>
-              <string>De Korte</string>
-              <string>De Laet</string>
-              <string>De Lange</string>
-              <string>De Leeuw</string>
-              <string>De Ligt</string>
-              <string>De Man</string>
-              <string>De Meyer</string>
-              <string>De Mol</string>
-              <string>De Moor</string>
-              <string>De Nijs</string>
-              <string>De Nooijer</string>
-              <string>De Pauw</string>
-              <string>De Putter</string>
-              <string>De Regt</string>
-              <string>De Ridder</string>
-              <string>De Rijke</string>
-              <string>De Roo</string>
-              <string>De Rooij</string>
-              <string>De Roos</string>
-              <string>De Ruiter</string>
-              <string>De Smedt</string>
-              <string>De Smet</string>
-              <string>De Visscher</string>
-              <string>De Visser</string>
-              <string>De Vos</string>
-              <string>De Vreese</string>
-              <string>De Vriendt</string>
-              <string>De Vries</string>
-              <string>De Vriese</string>
-              <string>De Waal</string>
-              <string>De Waard</string>
-              <string>De Wet</string>
-              <string>De Wild</string>
-              <string>De Wilde</string>
-              <string>De Winter</string>
-              <string>De Wit</string>
-              <string>De Witt</string>
-              <string>De Witte</string>
-              <string>De Wolf</string>
-              <string>De Zeeuw</string>
-              <string>De Zwart</string>
-              <string>Declercq</string>
-              <string>Deelstra</string>
-              <string>Dejagere</string>
-              <string>Dekker</string>
-              <string>Dekkers</string>
-              <string>Demol</string>
-              <string>Den Boer</string>
-              <string>Den Dekker</string>
-              <string>Den Hartog</string>
-              <string>Den Ouden</string>
-              <string>Den Uyl</string>
-              <string>Derksen</string>
-              <string>Desmet</string>
-              <string>Devos</string>
-              <string>Dhondt</string>
-              <string>Dierckx</string>
-              <string>Dierickx</string>
-              <string>Dijkhuizen</string>
-              <string>Dijkstra</string>
-              <string>Dirks</string>
-              <string>Donders</string>
-              <string>Donker</string>
-              <string>Doornbos</string>
-              <string>Douven</string>
-              <string>Drenth</string>
-              <string>Driessen</string>
-              <string>Drost</string>
-              <string>Duif</string>
-              <string>Duijf</string>
-              <string>Duiker</string>
-              <string>Duin</string>
-              <string>Duut</string>
-              <string>Duyff</string>
-              <string>Dykstra</string>
-              <string>Ebben</string>
-              <string>Ebbers</string>
-              <string>Eekhout</string>
-              <string>Eenhoorn</string>
-              <string>Eggers</string>
-              <string>Elzinga</string>
-              <string>Engelbrecht</string>
-              <string>Engelen</string>
-              <string>Engels</string>
-              <string>Engelsman</string>
-              <string>Evenepoel</string>
-              <string>Evers</string>
-              <string>Everts</string>
-              <string>Faas</string>
-              <string>Feijen</string>
-              <string>Fijnje</string>
-              <string>Fokker</string>
-              <string>Fontein</string>
-              <string>Fortuin</string>
-              <string>Francken</string>
-              <string>Franken</string>
-              <string>Fransen</string>
-              <string>Franssen</string>
-              <string>Freriks</string>
-              <string>Gabriëls</string>
-              <string>Garritsen</string>
-              <string>Geelen</string>
-              <string>Geelvinck</string>
-              <string>Geerts</string>
-              <string>Gerretsen</string>
-              <string>Gerritsen</string>
-              <string>Geurts</string>
-              <string>Geysen</string>
-              <string>Gielen</string>
-              <string>Gies</string>
-              <string>Gijsen</string>
-              <string>Glas</string>
-              <string>Goes</string>
-              <string>Goethals</string>
-              <string>Goff</string>
-              <string>Goll</string>
-              <string>Goos</string>
-              <string>Goossen</string>
-              <string>Goossens</string>
-              <string>Goris</string>
-              <string>Gorter</string>
-              <string>Graaf</string>
-              <string>Graafland</string>
-              <string>Gregoor</string>
-              <string>Griffioen</string>
-              <string>Groen</string>
-              <string>Groenendijk</string>
-              <string>Groeneveld</string>
-              <string>Groenewegen</string>
-              <string>Groot</string>
-              <string>Groothuis</string>
-              <string>Gruijters</string>
-              <string>Haak</string>
-              <string>Haan</string>
-              <string>Haanstra</string>
-              <string>Haarhuis</string>
-              <string>Haas</string>
-              <string>Hageman</string>
-              <string>Hagens</string>
-              <string>Hals</string>
-              <string>Hamer</string>
-              <string>Hamerlinck</string>
-              <string>Hardenbergh</string>
-              <string>Harmsen</string>
-              <string>Hartman</string>
-              <string>Hartog</string>
-              <string>Haverkamp</string>
-              <string>Hector</string>
-              <string>Heemskerk</string>
-              <string>Heeremans</string>
-              <string>Heeren</string>
-              <string>Heijmans</string>
-              <string>Heijnen</string>
-              <string>Heineken</string>
-              <string>Heinen</string>
-              <string>Helder</string>
-              <string>Helmont</string>
-              <string>Helsloot</string>
-              <string>Hendrickx</string>
-              <string>Hendriks</string>
-              <string>Hendrikse</string>
-              <string>Hendriksen</string>
-              <string>Hendrikx</string>
-              <string>Hendrix</string>
-              <string>Hennies</string>
-              <string>Hennis</string>
-              <string>Herkenhoff</string>
-              <string>Hermans</string>
-              <string>Hermsen</string>
-              <string>Herrema</string>
-              <string>Hertog</string>
-              <string>Heylen</string>
-              <string>Hijmans</string>
-              <string>Hoeben</string>
-              <string>Hoek</string>
-              <string>Hoen</string>
-              <string>Hoes</string>
-              <string>Hof</string>
-              <string>Hofland</string>
-              <string>Hofman</string>
-              <string>Hofmans</string>
-              <string>Hofstede</string>
-              <string>Hogenkamp</string>
-              <string>Holt</string>
-              <string>Hom</string>
-              <string>Homan</string>
-              <string>Hooft</string>
-              <string>Hoogendijk</string>
-              <string>Hoogervorst</string>
-              <string>Hoogerwerf</string>
-              <string>Hoogland</string>
-              <string>Hoogstraten</string>
-              <string>Hoop</string>
-              <string>Hoorn</string>
-              <string>Hordijk</string>
-              <string>Houben</string>
-              <string>Hout</string>
-              <string>Houtman</string>
-              <string>Huberts</string>
-              <string>Huibers</string>
-              <string>Huisman</string>
-              <string>Huizenga</string>
-              <string>Huizinga</string>
-              <string>Huygens</string>
-              <string>Huysmans</string>
-              <string>In 't Veld</string>
-              <string>Jacobs</string>
-              <string>Jager</string>
-              <string>Jaliens</string>
-              <string>Jans</string>
-              <string>Janse</string>
-              <string>Jansen</string>
-              <string>Janssen</string>
-              <string>Janssens</string>
-              <string>Janszoon</string>
-              <string>Jaspers</string>
-              <string>Jenniskens</string>
-              <string>Jong-a-Pin</string>
-              <string>Jongejans</string>
-              <string>Jonker</string>
-              <string>Jonkers</string>
-              <string>Jonkman</string>
-              <string>Joosten</string>
-              <string>Joustra</string>
-              <string>Kam</string>
-              <string>Kamerlingh Onnes</string>
-              <string>Kamp</string>
-              <string>Kamphuis</string>
-              <string>Keijzer</string>
-              <string>Keizer</string>
-              <string>Kerckhoff</string>
-              <string>Kerkhof</string>
-              <string>Kerkhove</string>
-              <string>Kersten</string>
-              <string>Kerstens</string>
-              <string>Kessels</string>
-              <string>Ketelaar</string>
-              <string>Keulemans</string>
-              <string>Keyser</string>
-              <string>Kieft</string>
-              <string>Klaasen</string>
-              <string>Klaassen</string>
-              <string>Klapwijk</string>
-              <string>Klaver</string>
-              <string>Kleijn</string>
-              <string>Klein</string>
-              <string>Kleine</string>
-              <string>Klerck</string>
-              <string>Klerk</string>
-              <string>Klijn</string>
-              <string>Klinkenberg</string>
-              <string>Klock</string>
-              <string>Klomp</string>
-              <string>Klooster</string>
-              <string>Kloosterman</string>
-              <string>Klopper</string>
-              <string>Kloppers</string>
-              <string>Knipp</string>
-              <string>Knol</string>
-              <string>Knoop</string>
-              <string>Knop</string>
-              <string>Koch</string>
-              <string>Koekkoek</string>
-              <string>Koelewijn</string>
-              <string>Koeman</string>
-              <string>Koenders</string>
-              <string>Koenen</string>
-              <string>Kok</string>
-              <string>Kolk</string>
-              <string>Koninck</string>
-              <string>Koning</string>
-              <string>Konings</string>
-              <string>Kooi</string>
-              <string>Kooijman</string>
-              <string>Kooiman</string>
-              <string>Kooistra</string>
-              <string>Kool</string>
-              <string>Koolen</string>
-              <string>Koolhaas</string>
-              <string>Koolhof</string>
-              <string>Koomen</string>
-              <string>Koopman</string>
-              <string>Koopmans</string>
-              <string>Koops</string>
-              <string>Koot</string>
-              <string>Korevaar</string>
-              <string>Korver</string>
-              <string>Koster</string>
-              <string>Kouwenhoven</string>
-              <string>Kracht</string>
-              <string>Kramer</string>
-              <string>Kreek</string>
-              <string>Kremer</string>
-              <string>Kremers</string>
-              <string>Kroes</string>
-              <string>Krol</string>
-              <string>Kroon</string>
-              <string>Kroos</string>
-              <string>Kropp</string>
-              <string>Kruk</string>
-              <string>Kuijken</string>
-              <string>Kuijpers</string>
-              <string>Kuiken</string>
-              <string>Kuiper</string>
-              <string>Kuipers</string>
-              <string>Kunst</string>
-              <string>Kuperus</string>
-              <string>Laar</string>
-              <string>Laats</string>
-              <string>Lambrechts</string>
-              <string>Lamers</string>
-              <string>Lammers</string>
-              <string>Lampsins</string>
-              <string>Landman</string>
-              <string>Landzaat</string>
-              <string>Lang</string>
-              <string>Lankhorst</string>
-              <string>Lansing</string>
-              <string>Lauwers</string>
-              <string>Leemans</string>
-              <string>Leenders</string>
-              <string>Leerdam</string>
-              <string>Leeuw</string>
-              <string>Leijten</string>
-              <string>Lemmens</string>
-              <string>Lenaerts</string>
-              <string>Lens</string>
-              <string>Lenssen</string>
-              <string>Liebaert</string>
-              <string>Lievens</string>
-              <string>Lindeman</string>
-              <string>Linssen</string>
-              <string>Lips</string>
-              <string>Litjens</string>
-              <string>Lodewijk</string>
-              <string>Loman</string>
-              <string>Loo</string>
-              <string>Loos</string>
-              <string>Louw</string>
-              <string>Lubbers</string>
-              <string>Luiken</string>
-              <string>Luyckx</string>
-              <string>Luyten</string>
-              <string>Lybaert</string>
-              <string>Maas</string>
-              <string>Maaskant</string>
-              <string>Maassen</string>
-              <string>Maatsen</string>
-              <string>Maertens</string>
-              <string>Maes</string>
-              <string>Maessen</string>
-              <string>Magerman</string>
-              <string>Mandel</string>
-              <string>Manders</string>
-              <string>Mangels</string>
-              <string>Mansveld</string>
-              <string>Maris</string>
-              <string>Marsman</string>
-              <string>Martens</string>
-              <string>Mathijsen</string>
-              <string>Matthijs</string>
-              <string>Matthys</string>
-              <string>Meertens</string>
-              <string>Meeuwis</string>
-              <string>Meeuwsen</string>
-              <string>Meijer</string>
-              <string>Meijerink</string>
-              <string>Meijers</string>
-              <string>Melis</string>
-              <string>Meppelink</string>
-              <string>Merckx</string>
-              <string>Mertens</string>
-              <string>Meuleman</string>
-              <string>Meulen</string>
-              <string>Michiels</string>
-              <string>Middelkoop</string>
-              <string>Moens</string>
-              <string>Moerman</string>
-              <string>Moeyaert</string>
-              <string>Mol</string>
-              <string>Molenaar</string>
-              <string>Moonen</string>
-              <string>Mostert</string>
-              <string>Muis</string>
-              <string>Mulder</string>
-              <string>Muller</string>
-              <string>Naesen</string>
-              <string>Naessens</string>
-              <string>Nagel</string>
-              <string>Nauta</string>
-              <string>Neefs</string>
-              <string>Nelis</string>
-              <string>Nelissen</string>
-              <string>Nieman</string>
-              <string>Nienhuis</string>
-              <string>Nieuwenhuis</string>
-              <string>Nieuwenhuizen</string>
-              <string>Nieuwenhuyzen</string>
-              <string>Nieuwland</string>
-              <string>Nijboer</string>
-              <string>Nijdam</string>
-              <string>Nijenhuis</string>
-              <string>Nijhof</string>
-              <string>Nijhuis</string>
-              <string>Nijland</string>
-              <string>Nijman</string>
-              <string>Nijs</string>
-              <string>Nijssen</string>
-              <string>Noe</string>
-              <string>Noorlander</string>
-              <string>Noort</string>
-              <string>Noteboom</string>
-              <string>Oerlemans</string>
-              <string>Olthuis</string>
-              <string>Oomen</string>
-              <string>Ooms</string>
-              <string>Oort</string>
-              <string>Oosterhuis</string>
-              <string>Oosting</string>
-              <string>Oostrom</string>
-              <string>Otten</string>
-              <string>Ouderland</string>
-              <string>Ouwehand</string>
-              <string>Overmars</string>
-              <string>Pauw</string>
-              <string>Peeters</string>
-              <string>Persijn</string>
-              <string>Peters</string>
-              <string>Peutz</string>
-              <string>Philipps</string>
-              <string>Philips</string>
-              <string>Phipps</string>
-              <string>Pieters</string>
-              <string>Pieterse</string>
-              <string>Pietersen</string>
-              <string>Pijl</string>
-              <string>Pijpers</string>
-              <string>Planckaert</string>
-              <string>Poelman</string>
-              <string>Poelmans</string>
-              <string>Poels</string>
-              <string>Polman</string>
-              <string>Pool</string>
-              <string>Poort</string>
-              <string>Poortvliet</string>
-              <string>Post</string>
-              <string>Posthuma</string>
-              <string>Posthumus</string>
-              <string>Prins</string>
-              <string>Prinsen Geerligs</string>
-              <string>Pronk</string>
-              <string>Provoost</string>
-              <string>Punt</string>
-              <string>Quist</string>
-              <string>Raaijmakers</string>
-              <string>Rademaker</string>
-              <string>Raes</string>
-              <string>Ras</string>
-              <string>Reekers</string>
-              <string>Reijnders</string>
-              <string>Reinders</string>
-              <string>Rens</string>
-              <string>Reus</string>
-              <string>Reybrouck</string>
-              <string>Reynders</string>
-              <string>Reynst</string>
-              <string>Rietveld</string>
-              <string>Rigters</string>
-              <string>Rijkens</string>
-              <string>Rijnders</string>
-              <string>Rijsbrack</string>
-              <string>Robbe</string>
-              <string>Robben</string>
-              <string>Rodenburg</string>
-              <string>Roelandts</string>
-              <string>Roelofs</string>
-              <string>Roelofsen</string>
-              <string>Roels</string>
-              <string>Roelvink</string>
-              <string>Roest</string>
-              <string>Rojer</string>
-              <string>Rombouts</string>
-              <string>Romeyn</string>
-              <string>Rood</string>
-              <string>Rooijakkers</string>
-              <string>Roos</string>
-              <string>Roosen</string>
-              <string>Roosenburg</string>
-              <string>Roskam</string>
-              <string>Rozeboom</string>
-              <string>Rozendaal</string>
-              <string>Rubens</string>
-              <string>Ruijs</string>
-              <string>Ruiter</string>
-              <string>Rutgers</string>
-              <string>Rutte</string>
-              <string>Rutten</string>
-              <string>Ruysch</string>
-              <string>Sanders</string>
-              <string>Schaap</string>
-              <string>Scheepers</string>
-              <string>Scheffer</string>
-              <string>Schellekens</string>
-              <string>Schelling</string>
-              <string>Schenk</string>
-              <string>Schepers</string>
-              <string>Scheppers</string>
-              <string>Schilder</string>
-              <string>Schimmel</string>
-              <string>Schimmelpenninck</string>
-              <string>Schipper</string>
-              <string>Schippers</string>
-              <string>Schoemaker</string>
-              <string>Schoenmaker</string>
-              <string>Scholte</string>
-              <string>Schoonmaker</string>
-              <string>Schouten</string>
-              <string>Schreuder</string>
-              <string>Schreurs</string>
-              <string>Schrijver</string>
-              <string>Schuller</string>
-              <string>Schut</string>
-              <string>Schutte</string>
-              <string>Schuurman</string>
-              <string>Schuurs</string>
-              <string>Schuyler</string>
-              <string>Segers</string>
-              <string>Seghers</string>
-              <string>Sels</string>
-              <string>Seyffardt</string>
-              <string>Siemons</string>
-              <string>Simons</string>
-              <string>Sinnaeve</string>
-              <string>Slager</string>
-              <string>Slauerhoff</string>
-              <string>Slingerland</string>
-              <string>Sluiter</string>
-              <string>Smeets</string>
-              <string>Smet</string>
-              <string>Smets</string>
-              <string>Smit</string>
-              <string>Smits</string>
-              <string>Smulders</string>
-              <string>Sneekes</string>
-              <string>Sneijder</string>
-              <string>Snel</string>
-              <string>Snellen</string>
-              <string>Snijders</string>
-              <string>Snoek</string>
-              <string>Snyder</string>
-              <string>Somers</string>
-              <string>Spee</string>
-              <string>Speelman</string>
-              <string>Spiegel</string>
-              <string>Spiering</string>
-              <string>Spijkers</string>
-              <string>Spruyt</string>
-              <string>Staal</string>
-              <string>Stam</string>
-              <string>Stassen</string>
-              <string>Steenacker</string>
-              <string>Steenbergen</string>
-              <string>Steenberghe</string>
-              <string>Stegeman</string>
-              <string>Stellingwerf</string>
-              <string>Stenvers</string>
-              <string>Sterk</string>
-              <string>Steur</string>
-              <string>Stevens</string>
-              <string>Stoffels</string>
-              <string>Stolk</string>
-              <string>Stoop</string>
-              <string>Storms</string>
-              <string>Strick</string>
-              <string>Strijbos</string>
-              <string>Strijk</string>
-              <string>Strik</string>
-              <string>Stroop</string>
-              <string>Struycken</string>
-              <string>Sutphin</string>
-              <string>Swanenburg</string>
-              <string>Swart</string>
-              <string>Swerts</string>
-              <string>Swinkels</string>
-              <string>Teerlink</string>
-              <string>Teeuwen</string>
-              <string>Tellegen</string>
-              <string>Ten Berge</string>
-              <string>Ten Boom</string>
-              <string>Ten Brink</string>
-              <string>Ten Cate</string>
-              <string>Ten Doesschate</string>
-              <string>Ten Eyck</string>
-              <string>Ten Heuvel</string>
-              <string>Ten Kate</string>
-              <string>Teniers</string>
-              <string>Ter Horst</string>
-              <string>Terpstra</string>
-              <string>Terwilliger</string>
-              <string>Teunissen</string>
-              <string>Theeuwes</string>
-              <string>Theil</string>
-              <string>Theunissen</string>
-              <string>Thielen</string>
-              <string>Thijs</string>
-              <string>Thijssen</string>
-              <string>Thomassen</string>
-              <string>Thys</string>
-              <string>Tielemans</string>
-              <string>Tigelaar</string>
-              <string>Timman</string>
-              <string>Timmer</string>
-              <string>Timmerman</string>
-              <string>Timmermans</string>
-              <string>Tinbergen</string>
-              <string>Tol</string>
-              <string>Top</string>
-              <string>Traets</string>
-              <string>Tromp</string>
-              <string>Troost</string>
-              <string>Uden</string>
-              <string>Uhlenbeck</string>
-              <string>Uittenbogaard</string>
-              <string>Ursel</string>
-              <string>Vaessen</string>
-              <string>Valentijn</string>
-              <string>Valk</string>
-              <string>Valkenburg</string>
-              <string>Van 't Hek</string>
-              <string>Van 't Hof</string>
-              <string>Van Aalten</string>
-              <string>Van Aanholt</string>
-              <string>Van Acker</string>
-              <string>Van Aelst</string>
-              <string>Van Aken</string>
-              <string>Van Alphen</string>
-              <string>Van Andel</string>
-              <string>Van Antwerpen</string>
-              <string>Van Arkel</string>
-              <string>Van As</string>
-              <string>Van Asperen</string>
-              <string>Van Assche</string>
-              <string>Van Baalen</string>
-              <string>Van Barneveld</string>
-              <string>Van Beek</string>
-              <string>Van Beest</string>
-              <string>Van Bekkum</string>
-              <string>Van Belleghem</string>
-              <string>Van Beneden</string>
-              <string>Van Benthem</string>
-              <string>Van Bergen</string>
-              <string>Van Berkel</string>
-              <string>Van Berlo</string>
-              <string>Van Beuningen</string>
-              <string>Van Beuren</string>
-              <string>Van Boetzelaer</string>
-              <string>Van Bommel</string>
-              <string>Van Breda</string>
-              <string>Van Bree</string>
-              <string>Van Bruggen</string>
-              <string>Van Buitenen</string>
-              <string>Van Buren</string>
-              <string>Van Buuren</string>
-              <string>Van Camp</string>
-              <string>Van Ceulen</string>
-              <string>Van Cutsem</string>
-              <string>Van Daele</string>
-              <string>Van Dalen</string>
-              <string>Van Dam</string>
-              <string>Van Damme</string>
-              <string>Van de Graaf</string>
-              <string>Van de Kamp</string>
-              <string>Van de Sande</string>
-              <string>Van de Stadt</string>
-              <string>Van de Velde</string>
-              <string>Van de Ven</string>
-              <string>Van de Vijver</string>
-              <string>Van de Walle</string>
-              <string>Van de Water</string>
-              <string>Van de Werve</string>
-              <string>Van de Wetering</string>
-              <string>Van de Wiele</string>
-              <string>Van den Abeele</string>
-              <string>Van den Akker</string>
-              <string>Van den Berg</string>
-              <string>Van den Bergh</string>
-              <string>Van Den Berghe</string>
-              <string>Van den Boogaard</string>
-              <string>Van den Bos</string>
-              <string>Van den Bosch</string>
-              <string>Van den Bossche</string>
-              <string>Van den Brink</string>
-              <string>Van den Broeck</string>
-              <string>Van den Broek</string>
-              <string>Van den Goorbergh</string>
-              <string>Van den Herik</string>
-              <string>Van den Heuvel</string>
-              <string>Van den Hoek</string>
-              <string>Van Den Spiegel</string>
-              <string>Van der Aa</string>
-              <string>Van der Beek</string>
-              <string>Van der Bijl</string>
-              <string>Van der Brugghen</string>
-              <string>Van der Burg</string>
-              <string>Van der Does</string>
-              <string>Van der Duim</string>
-              <string>Van der Elst</string>
-              <string>Van der Ende</string>
-              <string>Van der Gaag</string>
-              <string>Van der Geest</string>
-              <string>Van der Giessen</string>
-              <string>Van der Graaf</string>
-              <string>Van der Haar</string>
-              <string>Van der Hagen</string>
-              <string>Van der Ham</string>
-              <string>Van der Heck</string>
-              <string>Van der Heide</string>
-              <string>Van der Heijden</string>
-              <string>Van der Hoeven</string>
-              <string>Van der Hoorn</string>
-              <string>Van der Horst</string>
-              <string>Van der Hulst</string>
-              <string>Van der Kemp</string>
-              <string>Van der Knaap</string>
-              <string>Van der Kolk</string>
-              <string>Van der Kooy</string>
-              <string>Van der Laan</string>
-              <string>Van der Lans</string>
-              <string>Van der Lee</string>
-              <string>Van der Linde</string>
-              <string>Van der Linden</string>
-              <string>Van der Made</string>
-              <string>Van der Meer</string>
-              <string>Van der Meijden</string>
-              <string>Van der Merwe</string>
-              <string>Van der Meulen</string>
-              <string>Van der Molen</string>
-              <string>Van der Noot</string>
-              <string>Van der Plas</string>
-              <string>Van der Ploeg</string>
-              <string>Van der Poel</string>
-              <string>Van der Pol</string>
-              <string>Van der Sluijs</string>
-              <string>Van der Steen</string>
-              <string>Van der Stel</string>
-              <string>Van der Straeten</string>
-              <string>Van der Vaart</string>
-              <string>Van der Valk</string>
-              <string>Van der Veen</string>
-              <string>Van der Veer</string>
-              <string>Van der Vegt</string>
-              <string>Van der Velde</string>
-              <string>Van der Velden</string>
-              <string>Van der Vinne</string>
-              <string>Van der Vliet</string>
-              <string>Van der Vlugt</string>
-              <string>Van der Voort</string>
-              <string>Van der Vorst</string>
-              <string>Van der Wal</string>
-              <string>Van der Want</string>
-              <string>Van der Watt</string>
-              <string>Van der Weele</string>
-              <string>Van der Weide</string>
-              <string>Van der Weijden</string>
-              <string>Van der Werff</string>
-              <string>Van der Westhuizen</string>
-              <string>Van der Wiel</string>
-              <string>Van der Woude</string>
-              <string>Van der Zande</string>
-              <string>Van der Zee</string>
-              <string>Van Deventer</string>
-              <string>Van Dijck</string>
-              <string>Van Dijk</string>
-              <string>Van Dongen</string>
-              <string>Van Dooren</string>
-              <string>Van Doorn</string>
-              <string>Van Doren</string>
-              <string>Van Dort</string>
-              <string>Van Driel</string>
-              <string>Van Duijn</string>
-              <string>Van Dyck</string>
-              <string>Van Dyne</string>
-              <string>Van Eck</string>
-              <string>Van Egmond</string>
-              <string>Van Eijk</string>
-              <string>Van Engelen</string>
-              <string>Van Erp</string>
-              <string>Van Es</string>
-              <string>Van Essen</string>
-              <string>Van Est</string>
-              <string>Van Etten</string>
-              <string>Van Eyck</string>
-              <string>Van Galen</string>
-              <string>Van Geel</string>
-              <string>Van Geen</string>
-              <string>Van Gelder</string>
-              <string>Van Gelderen</string>
-              <string>Van Gendt</string>
-              <string>Van Gent</string>
-              <string>Van Gestel</string>
-              <string>Van Gils</string>
-              <string>Van Ginkel</string>
-              <string>Van Gogh</string>
-              <string>Van Gool</string>
-              <string>Van Gulik</string>
-              <string>Van Gundy</string>
-              <string>Van Hall</string>
-              <string>Van Haren</string>
-              <string>Van Hasselt</string>
-              <string>Van Hecke</string>
-              <string>Van Hee</string>
-              <string>Van Heemstra</string>
-              <string>Van Hees</string>
-              <string>Van Heeswijk</string>
-              <string>Van Helden</string>
-              <string>Van Hemert</string>
-              <string>Van Heumen</string>
-              <string>Van Heusden</string>
-              <string>Van Hoof</string>
-              <string>Van Hoogstraten</string>
-              <string>Van Hoorn</string>
-              <string>Van Hooydonk</string>
-              <string>Van Horn</string>
-              <string>Van Horne</string>
-              <string>Van Hout</string>
-              <string>Van Houten</string>
-              <string>Van Houwelingen</string>
-              <string>Van Hove</string>
-              <string>Van Iersel</string>
-              <string>Van Ingen</string>
-              <string>Van Kampen</string>
-              <string>Van Kempen</string>
-              <string>Van Kessel</string>
-              <string>Van Kesteren</string>
-              <string>Van Keulen</string>
-              <string>Van Klaveren</string>
-              <string>Van Kooten</string>
-              <string>Van Landeghem</string>
-              <string>Van Leeuwen</string>
-              <string>Van Lier</string>
-              <string>Van Lierop</string>
-              <string>Van Lieshout</string>
-              <string>Van Loan</string>
-              <string>Van Loo</string>
-              <string>Van Loon</string>
-              <string>Van Looy</string>
-              <string>Van Maanen</string>
-              <string>Van Manen</string>
-              <string>Van Meegeren</string>
-              <string>Van Mierlo</string>
-              <string>Van Moorsel</string>
-              <string>Van Mourik</string>
-              <string>Van Nes</string>
-              <string>Van Noort</string>
-              <string>Van Oldenbarnevelt</string>
-              <string>Van Ommen</string>
-              <string>Van Ooijen</string>
-              <string>Van Oort</string>
-              <string>Van Oosten</string>
-              <string>Van Oostrum</string>
-              <string>Van Opstal</string>
-              <string>Van Os</string>
-              <string>Van Pelt</string>
-              <string>Van Poppel</string>
-              <string>Van Praag</string>
-              <string>Van Putten</string>
-              <string>Van Reenen</string>
-              <string>Van Riel</string>
-              <string>Van Rijn</string>
-              <string>Van Rijswijk</string>
-              <string>Van Roekel</string>
-              <string>Van Rooy</string>
-              <string>Van Rooyen</string>
-              <string>Van Rossum</string>
-              <string>Van Royen</string>
-              <string>Van Ryckeghem</string>
-              <string>Van Santen</string>
-              <string>Van Schaik</string>
-              <string>Van Schendel</string>
-              <string>Van Schie</string>
-              <string>Van Schoor</string>
-              <string>Van Sciver</string>
-              <string>Van Slee</string>
-              <string>Van Slyke</string>
-              <string>Van Son</string>
-              <string>Van Staveren</string>
-              <string>Van Straaten</string>
-              <string>Van Straten</string>
-              <string>Van Til</string>
-              <string>Van Tilburg</string>
-              <string>Van Tol</string>
-              <string>Van Tongeren</string>
-              <string>Van Valkenburgh</string>
-              <string>Van Veen</string>
-              <string>Van Veldhoven</string>
-              <string>Van Velsen</string>
-              <string>Van Vliet</string>
-              <string>Van Vollenhoven</string>
-              <string>Van Voorst</string>
-              <string>Van Voorst tot Voorst</string>
-              <string>Van Vugt</string>
-              <string>Van Westerhout</string>
-              <string>Van Wijk</string>
-              <string>Van Wijngaarden</string>
-              <string>Van Wolfswinkel</string>
-              <string>Van Zandt</string>
-              <string>Van Zanten</string>
-              <string>Van Zeeland</string>
-              <string>Vandamme</string>
-              <string>Vandenbroucke</string>
-              <string>Vanderbilt</string>
-              <string>Vansittart</string>
-              <string>Vansteenkiste</string>
-              <string>Vedder</string>
-              <string>Veen</string>
-              <string>Veerman</string>
-              <string>Vegter</string>
-              <string>Veldhuis</string>
-              <string>Veldkamp</string>
-              <string>Veldman</string>
-              <string>Veltman</string>
-              <string>Veneman</string>
-              <string>Verbeeck</string>
-              <string>Verbeek</string>
-              <string>Verbeke</string>
-              <string>Verbruggen</string>
-              <string>Verburg</string>
-              <string>Verdonk</string>
-              <string>Verdoorn</string>
-              <string>Verhaegen</string>
-              <string>Verhaeghe</string>
-              <string>Verhagen</string>
-              <string>Verheijen</string>
-              <string>Verheul</string>
-              <string>Verheyen</string>
-              <string>Verhoef</string>
-              <string>Verhoeff</string>
-              <string>Verhoek</string>
-              <string>Verhoeven</string>
-              <string>Verhulst</string>
-              <string>Verkade</string>
-              <string>Verkerk</string>
-              <string>Verlinden</string>
-              <string>Vermeer</string>
-              <string>Vermeersch</string>
-              <string>Vermeij</string>
-              <string>Vermeiren</string>
-              <string>Vermeulen</string>
-              <string>Vermeyen</string>
-              <string>Verschoor</string>
-              <string>Verschueren</string>
-              <string>Verschuren</string>
-              <string>Verschuur</string>
-              <string>Versluis</string>
-              <string>Verstappen</string>
-              <string>Versteeg</string>
-              <string>Verstegen</string>
-              <string>Verstraete</string>
-              <string>Vervoort</string>
-              <string>Verweij</string>
-              <string>Vinck</string>
-              <string>Vingboons</string>
-              <string>Vink</string>
-              <string>Vis</string>
-              <string>Visscher</string>
-              <string>Visser</string>
-              <string>Vissers</string>
-              <string>Vogel</string>
-              <string>Vogelaar</string>
-              <string>Vogels</string>
-              <string>Vogelzang</string>
-              <string>Vollenhoven</string>
-              <string>Vonck</string>
-              <string>Vonk</string>
-              <string>Voogt</string>
-              <string>Voorhees</string>
-              <string>Voorhoeve</string>
-              <string>Voorn</string>
-              <string>Vos</string>
-              <string>Voskamp</string>
-              <string>Vossen</string>
-              <string>Vriend</string>
-              <string>Vrolijk</string>
-              <string>Wagenaar</string>
-              <string>Wagtmans</string>
-              <string>Walraven</string>
-              <string>Warmerdam</string>
-              <string>Wauters</string>
-              <string>Weijers</string>
-              <string>Wesseling</string>
-              <string>Wessels</string>
-              <string>Westerhof</string>
-              <string>Westerveld</string>
-              <string>Wever</string>
-              <string>Wiegers</string>
-              <string>Wiggers</string>
-              <string>Wijnants</string>
-              <string>Wijnen</string>
-              <string>Wijnkoop</string>
-              <string>Wildeboer</string>
-              <string>Wilhelmus</string>
-              <string>Willems</string>
-              <string>Willemse</string>
-              <string>Willemsen</string>
-              <string>Willink</string>
-              <string>Windels</string>
-              <string>Windt</string>
-              <string>Winegar</string>
-              <string>Winkel</string>
-              <string>Winsemius</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/nld-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>
@@ -2815,1184 +1087,17 @@
         <Weight>1</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Abbe</string>
-              <string>Abraham</string>
-              <string>Absalon</string>
-              <string>Acke</string>
-              <string>Adam</string>
-              <string>Adde</string>
-              <string>Adolf</string>
-              <string>Adrian</string>
-              <string>Agne</string>
-              <string>Åke</string>
-              <string>Alban</string>
-              <string>Albert</string>
-              <string>Albin</string>
-              <string>Alex</string>
-              <string>Alexander</string>
-              <string>Alf</string>
-              <string>Alfons</string>
-              <string>Alfred</string>
-              <string>Algot</string>
-              <string>Allan</string>
-              <string>Alrik</string>
-              <string>Alvar</string>
-              <string>Anders</string>
-              <string>André</string>
-              <string>Andreas</string>
-              <string>Anton</string>
-              <string>Anund</string>
-              <string>Arne</string>
-              <string>Arnold</string>
-              <string>Aron</string>
-              <string>Artur</string>
-              <string>Arvid</string>
-              <string>Ask</string>
-              <string>Assar</string>
-              <string>August</string>
-              <string>Axel</string>
-              <string>Bengt</string>
-              <string>Benjamin</string>
-              <string>Benny</string>
-              <string>Berndt</string>
-              <string>Bernhard</string>
-              <string>Bernt</string>
-              <string>Bert</string>
-              <string>Bertil</string>
-              <string>Bill</string>
-              <string>Billy</string>
-              <string>Birger</string>
-              <string>Bjarne</string>
-              <string>Björn</string>
-              <string>Bo</string>
-              <string>Börje</string>
-              <string>Bosse</string>
-              <string>Bror</string>
-              <string>Bruno</string>
-              <string>Brynolf</string>
-              <string>Calle</string>
-              <string>Carl</string>
-              <string>Casper</string>
-              <string>Charles</string>
-              <string>Charlie</string>
-              <string>Christer</string>
-              <string>Christian</string>
-              <string>Christoffer</string>
-              <string>Christopher</string>
-              <string>Claes</string>
-              <string>Clas</string>
-              <string>Conny</string>
-              <string>Curt</string>
-              <string>Dag</string>
-              <string>Dan</string>
-              <string>Daniel</string>
-              <string>Danne</string>
-              <string>David</string>
-              <string>Dennis</string>
-              <string>Dick</string>
-              <string>Donald</string>
-              <string>Ebbe</string>
-              <string>Eddie</string>
-              <string>Edmund</string>
-              <string>Edvard</string>
-              <string>Edvin</string>
-              <string>Egon</string>
-              <string>Einar</string>
-              <string>Ejnar</string>
-              <string>Elia</string>
-              <string>Eliah</string>
-              <string>Elias</string>
-              <string>Elis</string>
-              <string>Elliot</string>
-              <string>Elmer</string>
-              <string>Elof</string>
-              <string>Emanuel</string>
-              <string>Emil</string>
-              <string>Enar</string>
-              <string>Engelbrekt</string>
-              <string>Eric</string>
-              <string>Erik</string>
-              <string>Erland</string>
-              <string>Erling</string>
-              <string>Ernst</string>
-              <string>Esaias</string>
-              <string>Esbjörn</string>
-              <string>Eskil</string>
-              <string>Eugen</string>
-              <string>Evald</string>
-              <string>Eve</string>
-              <string>Evert</string>
-              <string>Fabian</string>
-              <string>Felix</string>
-              <string>Ferdinand</string>
-              <string>Filip</string>
-              <string>Folke</string>
-              <string>Frank</string>
-              <string>Frans</string>
-              <string>Frasse</string>
-              <string>Fred</string>
-              <string>Fredde</string>
-              <string>Freddy</string>
-              <string>Fredrik</string>
-              <string>Frej</string>
-              <string>Fridolf</string>
-              <string>Fritiof</string>
-              <string>Fritjof</string>
-              <string>Gabbe</string>
-              <string>Gabriel</string>
-              <string>Gandalf</string>
-              <string>Georg</string>
-              <string>George</string>
-              <string>Gerhard</string>
-              <string>Germund</string>
-              <string>Gert</string>
-              <string>Gillis</string>
-              <string>Glenn</string>
-              <string>Göran</string>
-              <string>Gösta</string>
-              <string>Göte</string>
-              <string>Gottfrid</string>
-              <string>Greger</string>
-              <string>Gudmund</string>
-              <string>Gunnar</string>
-              <string>Gustaf</string>
-              <string>Gustav</string>
-              <string>Håkan</string>
-              <string>Hampus</string>
-              <string>Hannes</string>
-              <string>Hans</string>
-              <string>Harald</string>
-              <string>Harry</string>
-              <string>Hasse</string>
-              <string>Hektor</string>
-              <string>Helge</string>
-              <string>Helmer</string>
-              <string>Hemming</string>
-              <string>Henning</string>
-              <string>Henrik</string>
-              <string>Henry</string>
-              <string>Herbert</string>
-              <string>Herman</string>
-              <string>Hilding</string>
-              <string>Hjalmar</string>
-              <string>Holger</string>
-              <string>Hugo</string>
-              <string>Immanuel</string>
-              <string>Inge</string>
-              <string>Ingemar</string>
-              <string>Ingmar</string>
-              <string>Ingvar</string>
-              <string>Isac</string>
-              <string>Isak</string>
-              <string>Ivan</string>
-              <string>Ivar</string>
-              <string>Jack</string>
-              <string>Jacke</string>
-              <string>Jacob</string>
-              <string>Jakob</string>
-              <string>James</string>
-              <string>Jan</string>
-              <string>Jan-Erik</string>
-              <string>Janne</string>
-              <string>Jarl</string>
-              <string>Jens</string>
-              <string>Jeremias</string>
-              <string>Jerker</string>
-              <string>Jerry</string>
-              <string>Jesper</string>
-              <string>Jim</string>
-              <string>Jimmy</string>
-              <string>Joachim</string>
-              <string>Joacim</string>
-              <string>Joakim</string>
-              <string>Jocke</string>
-              <string>Joel</string>
-              <string>Johan</string>
-              <string>Johannes</string>
-              <string>John</string>
-              <string>Johnny</string>
-              <string>Jojje</string>
-              <string>Jon</string>
-              <string>Jonas</string>
-              <string>Jonatan</string>
-              <string>Jonathan</string>
-              <string>Jonny</string>
-              <string>Jöns</string>
-              <string>Jonte</string>
-              <string>Jöran</string>
-              <string>Jörgen</string>
-              <string>Josef</string>
-              <string>Josua</string>
-              <string>Julius</string>
-              <string>Julle</string>
-              <string>Kaj</string>
-              <string>Kaleb</string>
-              <string>Kalle</string>
-              <string>Karl</string>
-              <string>Kaspar</string>
-              <string>Kasper</string>
-              <string>Kennet</string>
-              <string>Kenneth</string>
-              <string>Kenny</string>
-              <string>Kent</string>
-              <string>Kenth</string>
-              <string>Kevin</string>
-              <string>Kim</string>
-              <string>Kjell</string>
-              <string>Klas</string>
-              <string>Knut</string>
-              <string>Konrad</string>
-              <string>Konstantin</string>
-              <string>Krister</string>
-              <string>Kristian</string>
-              <string>Kristofer</string>
-              <string>Kristoffer</string>
-              <string>Kurt</string>
-              <string>Lage</string>
-              <string>Lars</string>
-              <string>Lasse</string>
-              <string>Leander</string>
-              <string>Leif</string>
-              <string>Lennart</string>
-              <string>Leo</string>
-              <string>Leon</string>
-              <string>Liam</string>
-              <string>Linus</string>
-              <string>Loke</string>
-              <string>Love</string>
-              <string>Lucas</string>
-              <string>Ludvig</string>
-              <string>Lukas</string>
-              <string>Magnus</string>
-              <string>Malte</string>
-              <string>Måns</string>
-              <string>Marcus</string>
-              <string>Markus</string>
-              <string>Mårten</string>
-              <string>Martin</string>
-              <string>Mathias</string>
-              <string>Mats</string>
-              <string>Matteus</string>
-              <string>Mattias</string>
-              <string>Mattis</string>
-              <string>Matts</string>
-              <string>Mauritz</string>
-              <string>Max</string>
-              <string>Maximilian</string>
-              <string>Melker</string>
-              <string>Melvin</string>
-              <string>Micael</string>
-              <string>Michael</string>
-              <string>Mickael</string>
-              <string>Micke</string>
-              <string>Mikael</string>
-              <string>Milton</string>
-              <string>Mio</string>
-              <string>Morgan</string>
-              <string>Moses</string>
-              <string>Natanael</string>
-              <string>Neo</string>
-              <string>Nicke</string>
-              <string>Nicklas</string>
-              <string>Niclas</string>
-              <string>Niklas</string>
-              <string>Nikolaus</string>
-              <string>Nilas</string>
-              <string>Nils</string>
-              <string>Nisse</string>
-              <string>Noah</string>
-              <string>Noak</string>
-              <string>Noel</string>
-              <string>Ogge</string>
-              <string>Ola</string>
-              <string>Olaus</string>
-              <string>Oliver</string>
-              <string>Olle</string>
-              <string>Olof</string>
-              <string>Olov</string>
-              <string>Örjan</string>
-              <string>Örn</string>
-              <string>Oscar</string>
-              <string>Oskar</string>
-              <string>Ossian</string>
-              <string>Östen</string>
-              <string>Osvald</string>
-              <string>Otto</string>
-              <string>Ove</string>
-              <string>Pål</string>
-              <string>Pär</string>
-              <string>Patrick</string>
-              <string>Patrik</string>
-              <string>Paul</string>
-              <string>Paulus</string>
-              <string>Peder</string>
-              <string>Pehr</string>
-              <string>Pelle</string>
-              <string>Per</string>
-              <string>Percy</string>
-              <string>Peter</string>
-              <string>Petrus</string>
-              <string>Petter</string>
-              <string>Philip</string>
-              <string>Pierre</string>
-              <string>Pontus</string>
-              <string>Rafael</string>
-              <string>Ragge</string>
-              <string>Ragnar</string>
-              <string>Ragnvald</string>
-              <string>Ralf</string>
-              <string>Rasmus</string>
-              <string>Raymond</string>
-              <string>Reine</string>
-              <string>Reinhold</string>
-              <string>Richard</string>
-              <string>Rickard</string>
-              <string>Rikard</string>
-              <string>Robert</string>
-              <string>Robin</string>
-              <string>Roffe</string>
-              <string>Roger</string>
-              <string>Roland</string>
-              <string>Rolf</string>
-              <string>Ronald</string>
-              <string>Ronnie</string>
-              <string>Ronny</string>
-              <string>Roy</string>
-              <string>Ruben</string>
-              <string>Rudolf</string>
-              <string>Rune</string>
-              <string>Sakarias</string>
-              <string>Samuel</string>
-              <string>Sebastian</string>
-              <string>Set</string>
-              <string>Seth</string>
-              <string>Sigfrid</string>
-              <string>Sigurd</string>
-              <string>Sigvard</string>
-              <string>Simon</string>
-              <string>Sivert</string>
-              <string>Sixten</string>
-              <string>Sonny</string>
-              <string>Sören</string>
-              <string>Staffan</string>
-              <string>Stefan</string>
-              <string>Steffe</string>
-              <string>Stellan</string>
-              <string>Sten</string>
-              <string>Stig</string>
-              <string>Sture</string>
-              <string>Sune</string>
-              <string>Svante</string>
-              <string>Svantepolk</string>
-              <string>Sven</string>
-              <string>Sverker</string>
-              <string>Tage</string>
-              <string>Ted</string>
-              <string>Teodor</string>
-              <string>Theo</string>
-              <string>Theodor</string>
-              <string>Thobias</string>
-              <string>Thomas</string>
-              <string>Thorbjörn</string>
-              <string>Thord</string>
-              <string>Thore</string>
-              <string>Thure</string>
-              <string>Tim</string>
-              <string>Tobbe</string>
-              <string>Tobias</string>
-              <string>Tom</string>
-              <string>Tomas</string>
-              <string>Tommy</string>
-              <string>Tony</string>
-              <string>Tor</string>
-              <string>Torbjörn</string>
-              <string>Tord</string>
-              <string>Tore</string>
-              <string>Torgny</string>
-              <string>Torild</string>
-              <string>Torkel</string>
-              <string>Torsten</string>
-              <string>Torvald</string>
-              <string>Tryggve</string>
-              <string>Ture</string>
-              <string>Uffe</string>
-              <string>Ulf</string>
-              <string>Ulrik</string>
-              <string>Uno</string>
-              <string>Urban</string>
-              <string>Valdemar</string>
-              <string>Valentin</string>
-              <string>Valfrid</string>
-              <string>Valter</string>
-              <string>Verner</string>
-              <string>Victor</string>
-              <string>Vidar</string>
-              <string>Viggo</string>
-              <string>Viking</string>
-              <string>Viktor</string>
-              <string>Vilhelm</string>
-              <string>Ville</string>
-              <string>Villy</string>
-              <string>Vincent</string>
-              <string>Waldemar</string>
-              <string>Walter</string>
-              <string>Werner</string>
-              <string>Wilhelm</string>
-              <string>Wille</string>
-              <string>William</string>
-              <string>Willy</string>
-              <string>Yngve</string>
-              <string>Zakarias</string>
-              <string>Zlatan</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/swe-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Åsa</string>
-              <string>Kerstin</string>
-              <string>Kia</string>
-              <string>Kicki</string>
-              <string>Kim</string>
-              <string>Klara</string>
-              <string>Kristin</string>
-              <string>Kristina</string>
-              <string>Laila</string>
-              <string>Laura</string>
-              <string>Lea</string>
-              <string>Leia</string>
-              <string>Lena</string>
-              <string>Lilian</string>
-              <string>Lill</string>
-              <string>Lillemor</string>
-              <string>Lilly</string>
-              <string>Lina</string>
-              <string>Linda</string>
-              <string>Linn</string>
-              <string>Linnea</string>
-              <string>Linnéa</string>
-              <string>Lisa</string>
-              <string>Lisbet</string>
-              <string>Lisbeth</string>
-              <string>Liselott</string>
-              <string>Liselotte</string>
-              <string>Lisen</string>
-              <string>Lola</string>
-              <string>Lotta</string>
-              <string>Lotten</string>
-              <string>Louise</string>
-              <string>Lova</string>
-              <string>Lovis</string>
-              <string>Lovisa</string>
-              <string>Lucia</string>
-              <string>Lydia</string>
-              <string>Madeleine</string>
-              <string>Madelene</string>
-              <string>Magdalena</string>
-              <string>Magna</string>
-              <string>Maivor</string>
-              <string>Maj</string>
-              <string>Maja</string>
-              <string>Majbritt</string>
-              <string>Majken</string>
-              <string>Majlis</string>
-              <string>Majvor</string>
-              <string>Malin</string>
-              <string>Maren</string>
-              <string>Margareta</string>
-              <string>Margaretha</string>
-              <string>Margit</string>
-              <string>Margita</string>
-              <string>Margot</string>
-              <string>Margret</string>
-              <string>Margreta</string>
-              <string>Mari</string>
-              <string>Maria</string>
-              <string>Mariana</string>
-              <string>Mariann</string>
-              <string>Marianne</string>
-              <string>Marika</string>
-              <string>Marina</string>
-              <string>Marion</string>
-              <string>Marit</string>
-              <string>Märit</string>
-              <string>Marita</string>
-              <string>Marja</string>
-              <string>Marlene</string>
-              <string>Marta</string>
-              <string>Märta</string>
-              <string>Martina</string>
-              <string>Mary</string>
-              <string>Mathilda</string>
-              <string>Matilda</string>
-              <string>Maud</string>
-              <string>May</string>
-              <string>Melissa</string>
-              <string>Merit</string>
-              <string>Mia</string>
-              <string>Michaela</string>
-              <string>Michelle</string>
-              <string>Mikaela</string>
-              <string>Milda</string>
-              <string>Mimmi</string>
-              <string>Miriam</string>
-              <string>Mirjam</string>
-              <string>Moa</string>
-              <string>Molly</string>
-              <string>Mona</string>
-              <string>Monica</string>
-              <string>Monika</string>
-              <string>Nadja</string>
-              <string>Naemi</string>
-              <string>Naima</string>
-              <string>Naimi</string>
-              <string>Nanna</string>
-              <string>Nanny</string>
-              <string>Natalia</string>
-              <string>Natalie</string>
-              <string>Nathalie</string>
-              <string>Nellie</string>
-              <string>Nelly</string>
-              <string>Nettan</string>
-              <string>Nicole</string>
-              <string>Nilla</string>
-              <string>Nina</string>
-              <string>Ninni</string>
-              <string>Noomi</string>
-              <string>Nora</string>
-              <string>Nova</string>
-              <string>Öda</string>
-              <string>Olga</string>
-              <string>Olivia</string>
-              <string>Ottilia</string>
-              <string>Patricia</string>
-              <string>Paula</string>
-              <string>Paulina</string>
-              <string>Pernilla</string>
-              <string>Petra</string>
-              <string>Petronella</string>
-              <string>Pia</string>
-              <string>Ragna</string>
-              <string>Ragnhild</string>
-              <string>Rakel</string>
-              <string>Rebecca</string>
-              <string>Rebecka</string>
-              <string>Regina</string>
-              <string>Rigmor</string>
-              <string>Rita</string>
-              <string>Rodny</string>
-              <string>Ronja</string>
-              <string>Ros</string>
-              <string>Rosa</string>
-              <string>Rut</string>
-              <string>Ruth</string>
-              <string>Sabina</string>
-              <string>Saga</string>
-              <string>Sally</string>
-              <string>Sandra</string>
-              <string>Sanna</string>
-              <string>Sara</string>
-              <string>Sarah</string>
-              <string>Selma</string>
-              <string>Serafina</string>
-              <string>Sibylla</string>
-              <string>Signe</string>
-              <string>Signhild</string>
-              <string>Sigrid</string>
-              <string>Siri</string>
-              <string>Siv</string>
-              <string>Siw</string>
-              <string>Smilla</string>
-              <string>Sofi</string>
-              <string>Sofia</string>
-              <string>Sofie</string>
-              <string>Solbritt</string>
-              <string>Solveig</string>
-              <string>Solvig</string>
-              <string>Sonja</string>
-              <string>Sophia</string>
-              <string>Sophie</string>
-              <string>Stella</string>
-              <string>Stina</string>
-              <string>Susann</string>
-              <string>Susanna</string>
-              <string>Susanne</string>
-              <string>Svea</string>
-              <string>Sylvia</string>
-              <string>Synnöve</string>
-              <string>Tanja</string>
-              <string>Tekla</string>
-              <string>Terese</string>
-              <string>Teresia</string>
-              <string>Thea</string>
-              <string>Therese</string>
-              <string>Thyra</string>
-              <string>Tilda</string>
-              <string>Tilde</string>
-              <string>Tina</string>
-              <string>Tindra</string>
-              <string>Titti</string>
-              <string>Tora</string>
-              <string>Tova</string>
-              <string>Tove</string>
-              <string>Tuva</string>
-              <string>Tyra</string>
-              <string>Ulla</string>
-              <string>Ulrica</string>
-              <string>Ulrika</string>
-              <string>Ursula</string>
-              <string>Valborg</string>
-              <string>Vanda</string>
-              <string>Vanja</string>
-              <string>Vendela</string>
-              <string>Vera</string>
-              <string>Verna</string>
-              <string>Veronica</string>
-              <string>Veronika</string>
-              <string>Victoria</string>
-              <string>Viktoria</string>
-              <string>Vilhelmina</string>
-              <string>Vilma</string>
-              <string>Viola</string>
-              <string>Vivan</string>
-              <string>Viveca</string>
-              <string>Viveka</string>
-              <string>Vivi</string>
-              <string>Vivian</string>
-              <string>Viviann</string>
-              <string>Vivianne</string>
-              <string>Wilhelmina</string>
-              <string>Wilma</string>
-              <string>Ylva</string>
-              <string>Yvonne</string>
-              <string>Zlatan</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/swe-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Aaberg</string>
-              <string>Aalberg</string>
-              <string>Aberg</string>
-              <string>Adelsköld</string>
-              <string>Af Jochnick</string>
-              <string>Af Klintberg</string>
-              <string>Afzelius</string>
-              <string>Ågren</string>
-              <string>Ahlgren</string>
-              <string>Ahlm</string>
-              <string>Ahlqvist</string>
-              <string>Åhlund</string>
-              <string>Ahrén</string>
-              <string>Åkerblom</string>
-              <string>Åkerlund</string>
-              <string>Åkerman</string>
-              <string>Åkerström</string>
-              <string>Alm</string>
-              <string>Almgren</string>
-              <string>Almlöf</string>
-              <string>Almqvist</string>
-              <string>Alström</string>
-              <string>Alströmer</string>
-              <string>Ålund</string>
-              <string>Amundson</string>
-              <string>Anderberg</string>
-              <string>Anderson</string>
-              <string>Andersson</string>
-              <string>Ångström</string>
-              <string>Antonsson</string>
-              <string>Appelqvist</string>
-              <string>Arneson</string>
-              <string>Åsbrink</string>
-              <string>Åslund</string>
-              <string>Aspelund</string>
-              <string>Asplund</string>
-              <string>Åström</string>
-              <string>Augustsson</string>
-              <string>Axelsson</string>
-              <string>Backlund</string>
-              <string>Bäcklund</string>
-              <string>Backman</string>
-              <string>Backstrom</string>
-              <string>Bengtsson</string>
-              <string>Berggren</string>
-              <string>Bergh</string>
-              <string>Bergius</string>
-              <string>Bergkvist</string>
-              <string>Bergling</string>
-              <string>Berglund</string>
-              <string>Bergman</string>
-              <string>Bergmann</string>
-              <string>Bergquist</string>
-              <string>Bergqvist</string>
-              <string>Bergroth</string>
-              <string>Bergsten</string>
-              <string>Bergstrom</string>
-              <string>Berndtsson</string>
-              <string>Bexell</string>
-              <string>Björk</string>
-              <string>Björklund</string>
-              <string>Bjorkman</string>
-              <string>Björling</string>
-              <string>Blix</string>
-              <string>Bloch</string>
-              <string>Blom</string>
-              <string>Blomgren</string>
-              <string>Blomquist</string>
-              <string>Blomqvist</string>
-              <string>Blomstedt</string>
-              <string>Bolander</string>
-              <string>Bong</string>
-              <string>Borg</string>
-              <string>Borgström</string>
-              <string>Boutros</string>
-              <string>Brahe</string>
-              <string>Brate</string>
-              <string>Brink</string>
-              <string>Brodd</string>
-              <string>Brorsson</string>
-              <string>Brundin</string>
-              <string>Bruun</string>
-              <string>Bure</string>
-              <string>Bye</string>
-              <string>Byström</string>
-              <string>Carlen</string>
-              <string>Carlgren</string>
-              <string>Carlsson</string>
-              <string>Casparsson</string>
-              <string>Ceder</string>
-              <string>Cederblom</string>
-              <string>Cedergren</string>
-              <string>Cederschiöld</string>
-              <string>Cederström</string>
-              <string>Cronholm</string>
-              <string>Dahl</string>
-              <string>Dahlberg</string>
-              <string>Dahlgren</string>
-              <string>Dahlin</string>
-              <string>Dahlquist</string>
-              <string>Dahlström</string>
-              <string>Dahlvig</string>
-              <string>Dalin</string>
-              <string>Danielsson</string>
-              <string>Davidsson</string>
-              <string>Degerlund</string>
-              <string>Degermark</string>
-              <string>Djoos</string>
-              <string>Drakenberg</string>
-              <string>Dyrssen</string>
-              <string>Edgren</string>
-              <string>Edling</string>
-              <string>Edlund</string>
-              <string>Edström</string>
-              <string>Egnell</string>
-              <string>Ehrling</string>
-              <string>Ekberg</string>
-              <string>Ekblad</string>
-              <string>Ekblom</string>
-              <string>Ekbom</string>
-              <string>Ekdahl</string>
-              <string>Ekdal</string>
-              <string>Ekenberg</string>
-              <string>Ekerot</string>
-              <string>Ekholm</string>
-              <string>Eklund</string>
-              <string>Ekman</string>
-              <string>Ekström</string>
-              <string>Ellefson</string>
-              <string>Elmsäter</string>
-              <string>Enckell</string>
-              <string>Engberg</string>
-              <string>Engdahl</string>
-              <string>Englund</string>
-              <string>Engström</string>
-              <string>Enlund</string>
-              <string>Enquist</string>
-              <string>Ericsson</string>
-              <string>Eriksson</string>
-              <string>Erlandson</string>
-              <string>Erlandsson</string>
-              <string>Ernman</string>
-              <string>Fagerholm</string>
-              <string>Fagerudd</string>
-              <string>Fältskog</string>
-              <string>Fingerroos</string>
-              <string>Flodqvist</string>
-              <string>Flygare</string>
-              <string>Fogelklou</string>
-              <string>Forsberg</string>
-              <string>Forsell</string>
-              <string>Forslund</string>
-              <string>Forsman</string>
-              <string>Fransson</string>
-              <string>Fredholm</string>
-              <string>Fredin</string>
-              <string>Fredriksson</string>
-              <string>Friberg</string>
-              <string>Frisk</string>
-              <string>Geijer</string>
-              <string>Gentzel</string>
-              <string>Göransson</string>
-              <string>Grafström</string>
-              <string>Granath</string>
-              <string>Granholm</string>
-              <string>Granqvist</string>
-              <string>Gronberg</string>
-              <string>Grönblom</string>
-              <string>Grönroos</string>
-              <string>Grönvall</string>
-              <string>Gunderson</string>
-              <string>Gunnarsson</string>
-              <string>Gustafson</string>
-              <string>Gyllenhaal</string>
-              <string>Gyllenstierna</string>
-              <string>Gylling</string>
-              <string>Hagelin</string>
-              <string>Hagerstrom</string>
-              <string>Hägg</string>
-              <string>Hägglund</string>
-              <string>Haglund</string>
-              <string>Hagman</string>
-              <string>Hagström</string>
-              <string>Håkansson</string>
-              <string>Hallberg</string>
-              <string>Hallnäs</string>
-              <string>Hallström</string>
-              <string>Hammarberg</string>
-              <string>Hammarström</string>
-              <string>Hansdotter</string>
-              <string>Hansson</string>
-              <string>Hartman</string>
-              <string>Hedberg</string>
-              <string>Hedin</string>
-              <string>Hedlund</string>
-              <string>Hedman</string>
-              <string>Hedqvist</string>
-              <string>Hedstrom</string>
-              <string>Heidenstam</string>
-              <string>Helgerson</string>
-              <string>Hellberg</string>
-              <string>Hellquist</string>
-              <string>Hellqvist</string>
-              <string>Hellsten</string>
-              <string>Hellström</string>
-              <string>Henriksson</string>
-              <string>Hermansson</string>
-              <string>Heurlin</string>
-              <string>Hildebrand</string>
-              <string>Hjertsson</string>
-              <string>Hjortsberg</string>
-              <string>Hjulström</string>
-              <string>Högberg</string>
-              <string>Höglund</string>
-              <string>Holgersson</string>
-              <string>Holm</string>
-              <string>Holmberg</string>
-              <string>Holmgren</string>
-              <string>Holmlund</string>
-              <string>Holmquist</string>
-              <string>Holmqvist</string>
-              <string>Holmström</string>
-              <string>Hult</string>
-              <string>Hultgren</string>
-              <string>Hultin</string>
-              <string>Hultman</string>
-              <string>Hurtig</string>
-              <string>Hwasser</string>
-              <string>Hylander</string>
-              <string>Igelström</string>
-              <string>Ingelow</string>
-              <string>Isaksson</string>
-              <string>Isberg</string>
-              <string>Jacobson</string>
-              <string>Jacobsson</string>
-              <string>Jäderholm</string>
-              <string>Jakobsson</string>
-              <string>Jansson</string>
-              <string>Järnefelt</string>
-              <string>Jernberg</string>
-              <string>Johannesson</string>
-              <string>Johansson</string>
-              <string>Johnson</string>
-              <string>Johnsson</string>
-              <string>Jonsson</string>
-              <string>Jönsson</string>
-              <string>Josefsson</string>
-              <string>Källström</string>
-              <string>Kamprad</string>
-              <string>Karlsson</string>
-              <string>Kinberg</string>
-              <string>Kjellström</string>
-              <string>Knape</string>
-              <string>Knutsson</string>
-              <string>Kristoffersson</string>
-              <string>Kroon</string>
-              <string>Kullander</string>
-              <string>Lagerfeld</string>
-              <string>Lagergren</string>
-              <string>Lagerkvist</string>
-              <string>Lagerlöf</string>
-              <string>Landberg</string>
-              <string>Lantz</string>
-              <string>Larsson</string>
-              <string>Laxman</string>
-              <string>Leijonhufvud</string>
-              <string>Lennartsson</string>
-              <string>Lestander</string>
-              <string>Lidholm</string>
-              <string>Lilja</string>
-              <string>Liljeström</string>
-              <string>Lind</string>
-              <string>Lindahl</string>
-              <string>Lindberg</string>
-              <string>Lindbergh</string>
-              <string>Lindblad</string>
-              <string>Lindblom</string>
-              <string>Lindell</string>
-              <string>Lindelöf</string>
-              <string>Lindeman</string>
-              <string>Linden</string>
-              <string>Linderoth</string>
-              <string>Lindfors</string>
-              <string>Lindgren</string>
-              <string>Lindholm</string>
-              <string>Lindquist</string>
-              <string>Lindqvist</string>
-              <string>Lindroos</string>
-              <string>Lindroth</string>
-              <string>Lindskog</string>
-              <string>Lindström</string>
-              <string>Ljung</string>
-              <string>Ljungberg</string>
-              <string>Ljungdahl</string>
-              <string>Ljunggren</string>
-              <string>Löfgren</string>
-              <string>Lötvall</string>
-              <string>Löwenadler</string>
-              <string>Lund</string>
-              <string>Lundbäck</string>
-              <string>Lundberg</string>
-              <string>Lundblad</string>
-              <string>Lundeberg</string>
-              <string>Lundell</string>
-              <string>Lundgren</string>
-              <string>Lundin</string>
-              <string>Lundmark</string>
-              <string>Lundquist</string>
-              <string>Lundqvist</string>
-              <string>Lundström</string>
-              <string>Lundvall</string>
-              <string>Lundvik</string>
-              <string>Magnuson</string>
-              <string>Magnusson</string>
-              <string>Malmberg</string>
-              <string>Malmborg</string>
-              <string>Malmgren</string>
-              <string>Malmkvist</string>
-              <string>Malmquist</string>
-              <string>Malmqvist</string>
-              <string>Malmsten</string>
-              <string>Malmstrom</string>
-              <string>Månsdotter</string>
-              <string>Marklund</string>
-              <string>Markström</string>
-              <string>Mattisson</string>
-              <string>Mattson</string>
-              <string>Mattsson</string>
-              <string>Mellgren</string>
-              <string>Mikaelsson</string>
-              <string>Molander</string>
-              <string>Moller</string>
-              <string>Morberg</string>
-              <string>Mörner</string>
-              <string>Mosander</string>
-              <string>Naslund</string>
-              <string>Nätterqvist</string>
-              <string>Nilsson</string>
-              <string>Norberg</string>
-              <string>Nordahl</string>
-              <string>Nordenfalk</string>
-              <string>Nordin</string>
-              <string>Nordlander</string>
-              <string>Nordling</string>
-              <string>Nordlund</string>
-              <string>Nordquist</string>
-              <string>Nordstrom</string>
-              <string>Norelius</string>
-              <string>Noren</string>
-              <string>Norling</string>
-              <string>Norström</string>
-              <string>Nyberg</string>
-              <string>Nygaard</string>
-              <string>Nykvist</string>
-              <string>Nyquist</string>
-              <string>Nystrom</string>
-              <string>Öberg</string>
-              <string>Odenberg</string>
-              <string>Odhner</string>
-              <string>Ohlin</string>
-              <string>Ohlson</string>
-              <string>Ohlsson</string>
-              <string>Ohly</string>
-              <string>Olander</string>
-              <string>Olderman</string>
-              <string>Olofsson</string>
-              <string>Olsson</string>
-              <string>Oskarsson</string>
-              <string>Ossler</string>
-              <string>Östberg</string>
-              <string>Österberg</string>
-              <string>Österman</string>
-              <string>Ostlund</string>
-              <string>Östman</string>
-              <string>Ostrom</string>
-              <string>Palmcrantz</string>
-              <string>Palmgreen</string>
-              <string>Palmgren</string>
-              <string>Palmquist</string>
-              <string>Palmroth</string>
-              <string>Palmstruch</string>
-              <string>Paulsson</string>
-              <string>Persson</string>
-              <string>Petersson</string>
-              <string>Pettersson</string>
-              <string>Pihl</string>
-              <string>Posse</string>
-              <string>Quist</string>
-              <string>Qvist</string>
-              <string>Råberg</string>
-              <string>Rådström</string>
-              <string>Rask</string>
-              <string>Regnell</string>
-              <string>Rehn</string>
-              <string>Rehnquist</string>
-              <string>Richardsson</string>
-              <string>Rindborg</string>
-              <string>Risberg</string>
-              <string>Rönnlund</string>
-              <string>Rönström</string>
-              <string>Rosander</string>
-              <string>Rosén</string>
-              <string>Rosenblad</string>
-              <string>Rosengren</string>
-              <string>Rosenius</string>
-              <string>Rosenquist</string>
-              <string>Rosenqvist</string>
-              <string>Säfström</string>
-              <string>Sahlin</string>
-              <string>Samuelsson</string>
-              <string>Sandahl</string>
-              <string>Sandberg</string>
-              <string>Sandelin</string>
-              <string>Sandell</string>
-              <string>Sandgren</string>
-              <string>Sandström</string>
-              <string>Segerström</string>
-              <string>Selander</string>
-              <string>Siljeström</string>
-              <string>Simonsson</string>
-              <string>Sjöberg</string>
-              <string>Sjöblom</string>
-              <string>Sjödin</string>
-              <string>Sjögren</string>
-              <string>Sjöholm</string>
-              <string>Sjölin</string>
-              <string>Sjölund</string>
-              <string>Sjöqvist</string>
-              <string>Sjöstedt</string>
-              <string>Sjöström</string>
-              <string>Skarsgård</string>
-              <string>Skiöld</string>
-              <string>Skoglund</string>
-              <string>Sköld</string>
-              <string>Sköldberg</string>
-              <string>Skoog</string>
-              <string>Snellman</string>
-              <string>Söderberg</string>
-              <string>Södergren</string>
-              <string>Söderholm</string>
-              <string>Söderlund</string>
-              <string>Söderman</string>
-              <string>Söderström</string>
-              <string>Sohlman</string>
-              <string>Sollander</string>
-              <string>Sörenstam</string>
-              <string>Sparre</string>
-              <string>Sparv</string>
-              <string>Ståhlberg</string>
-              <string>Stahre</string>
-              <string>Stenbeck</string>
-              <string>Stenbock</string>
-              <string>Stenmark</string>
-              <string>Stenström</string>
-              <string>Stiernspetz</string>
-              <string>Strandberg</string>
-              <string>Ström</string>
-              <string>Strömbäck</string>
-              <string>Strömberg</string>
-              <string>Strömstedt</string>
-              <string>Sundberg</string>
-              <string>Sundborg</string>
-              <string>Sundelin</string>
-              <string>Sundin</string>
-              <string>Sundqvist</string>
-              <string>Sundström</string>
-              <string>Svärd</string>
-              <string>Svedberg</string>
-              <string>Svedin</string>
-              <string>Svens</string>
-              <string>Svensson</string>
-              <string>Swartz</string>
-              <string>Swedberg</string>
-              <string>Sydow</string>
-              <string>Syrén</string>
-              <string>Tegnér</string>
-              <string>Tegstedt</string>
-              <string>Thofelt</string>
-              <string>Thoresson</string>
-              <string>Thörnell</string>
-              <string>Thörnqvist</string>
-              <string>Thorsell</string>
-              <string>Thunberg</string>
-              <string>Thunman</string>
-              <string>Tingsten</string>
-              <string>Tornquist</string>
-              <string>Törnros</string>
-              <string>Torvalds</string>
-              <string>Uggla</string>
-              <string>Ulf</string>
-              <string>Vidgren</string>
-              <string>Vikström</string>
-              <string>Vingqvist</string>
-              <string>Wahlberg</string>
-              <string>Wahlgren</string>
-              <string>Wahlin</string>
-              <string>Wahlqvist</string>
-              <string>Wahlström</string>
-              <string>Walgren</string>
-              <string>Wallenberg</string>
-              <string>Wallin</string>
-              <string>Weibull</string>
-              <string>Wennberg</string>
-              <string>Wennerberg</string>
-              <string>Wersäll</string>
-              <string>Westergren</string>
-              <string>Westerholm</string>
-              <string>Westermark</string>
-              <string>Westin</string>
-              <string>Westlund</string>
-              <string>Wicksell</string>
-              <string>Wickström</string>
-              <string>Widegren</string>
-              <string>Widforss</string>
-              <string>Widlund</string>
-              <string>Wikström</string>
-              <string>Winblad</string>
-              <string>Wollter</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/swe-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>

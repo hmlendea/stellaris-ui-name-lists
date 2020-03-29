@@ -2,7 +2,7 @@
 
 MOD_ID="ui-name-lists"
 MOD_NAME="Universum Infinitum - Name Lists"
-STELLARIS_VERSION="2.5.*"
+STELLARIS_VERSION="2.6.*"
 
 BUILD_DIRECTORY_PATH="./build"
 OUTPUT_DIRECTORY_PATH="./out"
@@ -10,7 +10,7 @@ OUTPUT_MOD_DIRECTORY_PATH="${OUTPUT_DIRECTORY_PATH}/${MOD_ID}"
 OUTPUT_NAMELISTS_DIRECTORY_PATH="${OUTPUT_MOD_DIRECTORY_PATH}/common/name_lists"
 OUTPUT_LOCALISATION_DIRECTORY_PATH="${OUTPUT_MOD_DIRECTORY_PATH}/localisation/english"
 OUTPUT_LOCALISATION_FILE_PATH="${OUTPUT_LOCALISATION_DIRECTORY_PATH}/ui_names_l_english.yml"
-GENERATOR_EXECUTABLE="dotnet /home/horatiu/Downloads/stellaris-name-list-generator/bin/Debug/netcoreapp2.2/StellarisNameListGenerator.dll"
+GENERATOR_EXECUTABLE="dotnet /home/horatiu/Downloads/stellaris-name-list-generator/bin/Debug/netcoreapp3.1/StellarisNameListGenerator.dll"
 
 MOD_DESCRIPTOR_PRIMARY_FILE_PATH="${OUTPUT_DIRECTORY_PATH}/${MOD_ID}.mod"
 MOD_DESCRIPTOR_SECONDARY_FILE_PATH="${OUTPUT_MOD_DIRECTORY_PATH}/descriptor.mod"
@@ -80,6 +80,7 @@ function generate-mod-descriptor {
     echo "supported_version=\"${STELLARIS_VERSION}\"" >> ${FILE_PATH}
 }
 
+build "ui_extra_humans_african"         "Human - African"       "L" human/african
 build "ui_extra_humans_arabic"          "Human - Arabic"        "L" human/arabic
 build "ui_extra_humans_asian"           "Human - Asian"         "L" human/asian
 build "ui_extra_humans_austronesian"    "Human - Austronesian"  "L" human/austronesian
@@ -89,10 +90,11 @@ build "ui_extra_humans_french"          "Human - French"        "L" human/french
 build "ui_extra_humans_germanic"        "Human - Germanic"      "L" human/germanic
 build "ui_extra_humans_hellenic"        "Human - Hellenic"      "L" human/hellenic
 build "ui_extra_humans_latino"          "Human - Latino"        "L" human/portuguese human/spanish
+build "ui_extra_humans_romanian"        "Human - Romanian"      "L" human/romanian
 build "ui_extra_humans_romance"         "Human - Romance"       "L" human/french human/italian human/portuguese human/roman human/romanian human/spanish
 build "ui_extra_humans_slavic"          "Human - Slavic"        "L" human/slavic
-build "ui_extra_humans_turkic"          "Human - Turkic"        "L" human/turkic
 build "ui_extra_humans_spqr_extended"   "Human - Roman"         "L" human/roman human/human3
+build "ui_extra_humans_turkic"          "Human - Turkic"        "L" human/turkic
 build "ui_extra_humans_extended"        "Human - Extended"      "L" \
       human/african human/arabic human/asian human/austronesian human/baltic human/celtic human/english \
       human/french human/germanic human/hellenic human/hindi human/hungarian human/italian human/persian \
@@ -119,6 +121,7 @@ build "ui_starwars_human" "StarWars - Human" "L" starwars/human
 
 build "ui_extra_art1" "Extra - Arthropoid 1"    "R" ui/art1
 build "ui_extra_avi1" "Extra - Avian 1"         "R" ui/avi1
+build "ui_extra_avi2" "Extra - Avian 2"         "R" ui/avi2
 build "ui_extra_fun1" "Extra - Fungoid 1"       "R" ui/fun1
 build "ui_extra_hum1" "Extra - Humanoid 1"      "R" ui/hum1
 build "ui_extra_mam1" "Extra - Mammalian 1"     "R" ui/mam1

@@ -108,6 +108,7 @@
             <string>Surat</string>
             <string>Thane</string>
             <string>Vadodara</string>
+            <string>Varanasi</string>
             <string>Visakhapatnam</string>
           </Values>
         </NameGroup>
@@ -133,6 +134,12 @@
           <Name>Mountains</Name>
           <Values>
             <string>Himalaya</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mountains - India</Name>
+          <Values>
+            <string>Shikharji</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -169,6 +176,31 @@
       </Deserts>
     </Places>
     <GreatPeople>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists - Indian</Name>
+          <Values>
+            <string>Chandrasekhar</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders - Indian</Name>
+          <Values>
+            <string>Ashoka</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders - Indian</Name>
+          <Values>
+            <string>Chandragupta</string>
+            <string>Gandhi</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
       <Heroes>
         <NameGroup>
           <Name>Heroes - Nepali</Name>
@@ -177,17 +209,61 @@
           </Values>
         </NameGroup>
       </Heroes>
-    </GreatPeople>
-    <Warfare>
-      <Weapons>
+      <Deities>
         <NameGroup>
-          <Name>Swords - Indian Subcontinent</Name>
+          <Name>Deities - Indian</Name>
           <Values>
-            <string>Urumi</string>
+            <string>Dakshin Rai</string>
           </Values>
         </NameGroup>
+      </Deities>
+      <LabourDeities>
+        <NameGroup>
+          <Name>Labour Deities - Indian</Name>
+          <Values>
+            <string>Tvastar</string>
+            <string>Vishvakarman</string>
+          </Values>
+        </NameGroup>
+      </LabourDeities>
+    </GreatPeople>
+    <Companies>
+      <AircraftManufacturers>
+        <NameGroup>
+          <Name>Aircraft manufacturers - India</Name>
+          <Values>
+            <string>Hindustan</string>
+          </Values>
+        </NameGroup>
+      </AircraftManufacturers>
+      <SpacecraftManufacturers>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - India</Name>
+          <Values>
+            <string>Dhruva</string>
+          </Values>
+        </NameGroup>
+      </SpacecraftManufacturers>
+    </Companies>
+    <Warfare>
+      <Weapons>
+        <Swords>
+          <NameGroup>
+            <Name>Swords</Name>
+            <Values>
+              <string>Talwar</string>
+              <string>Urumi</string>
+            </Values>
+          </NameGroup>
+        </Swords>
       </Weapons>
       <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types - Indian</Name>
+          <Values>
+            <string>Varu</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Military Unit Types - Nepali</Name>
           <Values>
@@ -196,50 +272,17 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <MythologicalCreatures>
-      <NameGroup>
-        <Name>Mythological Creatures - Hindu</Name>
-        <Values>
-          <string>Garuda</string>
-          <string>Rakshasa</string>
-        </Values>
-      </NameGroup>
-    </MythologicalCreatures>
-    <Ships>
-      <Corvette>
+    <BiosphereNames>
+      <MythologicalCreatures>
         <NameGroup>
-          <Name>Mythology - Deities</Name>
+          <Name>Mythological Creatures - Hindu</Name>
           <Values>
-            <string>Dakshin Rai</string>
+            <string>Garuda</string>
+            <string>Rakshasa</string>
           </Values>
         </NameGroup>
-      </Corvette>
-      <Constructor>
-        <NameGroup>
-          <Name>Gods - India</Name>
-          <Values>
-            <string>Tvastar</string>
-            <string>Vishvakarman</string>
-          </Values>
-        </NameGroup>
-      </Constructor>
-    </Ships>
-    <ShipClasses>
-      <Generic>
-        <NameGroup>
-          <Name>Spacecraft manufacturers - English</Name>
-          <Values>
-            <string>Dhruva</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Aircraft manufacturers - India</Name>
-          <Values>
-            <string>Hindustan</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </ShipClasses>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <Planets>
       <Generic>
         <NameGroup>
@@ -281,6 +324,18 @@
             <string>Zafar</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Settlements - Pandora: First Contact - Divine Ascension</Name>
+          <Values>
+            <string>Varanasi</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Togra University</Name>
+          <Values>
+            <string>Chandrasekhar</string>
+          </Values>
+        </NameGroup>
       </Generic>
     </Planets>
     <Characters>
@@ -289,40 +344,7 @@
         <Weight>9</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Aarav</string>
-              <string>Aarush</string>
-              <string>Aditya</string>
-              <string>Advaith</string>
-              <string>Advik</string>
-              <string>Arjun</string>
-              <string>Arnav</string>
-              <string>Atharv</string>
-              <string>Azam</string>
-              <string>Darsh</string>
-              <string>Dhruv</string>
-              <string>Ishaan</string>
-              <string>Kabir</string>
-              <string>Kayaan</string>
-              <string>Krishna</string>
-              <string>Kumar</string>
-              <string>Mahesh</string>
-              <string>Neeraj</string>
-              <string>Nishant</string>
-              <string>Palash</string>
-              <string>Pranav</string>
-              <string>Prathamesh</string>
-              <string>Rahul</string>
-              <string>Raj</string>
-              <string>Rakesh</string>
-              <string>Reyansh</string>
-              <string>Ritvik</string>
-              <string>Shaurya</string>
-              <string>Shubham</string>
-              <string>Shyam</string>
-              <string>Veer</string>
-              <string>Vivaan</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/hin-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <MaleRoyalFirstNames>
@@ -342,39 +364,7 @@
         </MaleRoyalFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Aadhya</string>
-              <string>Aahana</string>
-              <string>Aanya</string>
-              <string>Aaradhya</string>
-              <string>Aarohi</string>
-              <string>Akshara</string>
-              <string>Ananya</string>
-              <string>Anaya</string>
-              <string>Anika</string>
-              <string>Anoushka</string>
-              <string>Anushri</string>
-              <string>Anvi</string>
-              <string>Apoorva</string>
-              <string>Avani</string>
-              <string>Divya</string>
-              <string>Diya</string>
-              <string>Ira</string>
-              <string>Juvina</string>
-              <string>Kyra</string>
-              <string>Mahima</string>
-              <string>Myra</string>
-              <string>Navya</string>
-              <string>Pari</string>
-              <string>Prisha</string>
-              <string>Priyanka</string>
-              <string>Riya</string>
-              <string>Saanvi</string>
-              <string>Sanjana</string>
-              <string>Shanaya</string>
-              <string>Shivangi</string>
-              <string>Siya</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/hin-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <FemaleRoyalFirstNames>
@@ -394,42 +384,7 @@
         </FemaleRoyalFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Abidi</string>
-              <string>Acharya</string>
-              <string>Bhandary</string>
-              <string>Bhat</string>
-              <string>Chandran</string>
-              <string>Chowta</string>
-              <string>Desmukh</string>
-              <string>Dodamani</string>
-              <string>Gowda</string>
-              <string>Gupta</string>
-              <string>Koothrappali</string>
-              <string>Kulkarni</string>
-              <string>Kumar</string>
-              <string>Kutty</string>
-              <string>Moorthi</string>
-              <string>Naik</string>
-              <string>Namboodiri</string>
-              <string>Nayak</string>
-              <string>Pannikar</string>
-              <string>Patil</string>
-              <string>Pillai</string>
-              <string>Poojary</string>
-              <string>Potti</string>
-              <string>Prasad</string>
-              <string>Puttappa</string>
-              <string>Sharma</string>
-              <string>Shastri</string>
-              <string>Sondharam</string>
-              <string>Sooriyaprakash</string>
-              <string>Swamy</string>
-              <string>Upadhyay</string>
-              <string>Varma</string>
-              <string>Venktaesan</string>
-              <string>Vijay</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/hin-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
         <RoyalSecondNames>

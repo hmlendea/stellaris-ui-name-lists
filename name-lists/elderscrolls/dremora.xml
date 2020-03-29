@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>elderscrolls_dremora</Id>
+    <Name>ElderScrolls - Dremora</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Dremora</string>
+          <string>Kyn</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Deadlands</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+    </Places>
+    <GreatPeople>
+      <Deities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Mehrunes Dagon</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Deities - Endonym</Name>
+          <Values>
+            <string>Lehkelogah</string>
+          </Values>
+        </NameGroup>
+      </Deities>
+    </GreatPeople>
+    <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types</Name>
+          <Values>
+            <string>Churl</string>
+            <string>Caitiff</string>
+            <string>Kynval</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
+    <Armies>
+      <FleetSequentialName>%O% Star Fleet</FleetSequentialName>
+      <DefenceArmySequentialName>%O% Churls</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Caitiffs</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Kynvals</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Slave Horde</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Clone Legion</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Robotic Shields</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Robotic Spears</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Robotic Maces</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Shields</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Spears</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Psikynaz</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Daedroths</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Superkynaz</SuperSoldierArmySequentialName>
+      <PrimitiveArmySequentialName>%O% Primitive Horde</PrimitiveArmySequentialName>
+      <IndustrialArmySequentialName>%O% Industrial Army</IndustrialArmySequentialName>
+      <PostAtomicArmySequentialName>%O% Post-Atomic Force</PostAtomicArmySequentialName>
+    </Armies>
+    <Characters>
+      <CharacterNames>
+        <Id>dremora</Id>
+        <Weight>100</Weight>
+        <MaleFullNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-dremora-persons-male.txt</Url>
+          </NameGroup>
+        </MaleFullNames>
+        <MaleRoyalFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-dremora-persons-male.txt</Url>
+          </NameGroup>
+        </MaleRoyalFirstNames>
+        <FemaleFullNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-dremora-persons-female.txt</Url>
+          </NameGroup>
+        </FemaleFullNames>
+        <FemaleRoyalFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-dremora-persons-female.txt</Url>
+          </NameGroup>
+        </FemaleRoyalFirstNames>
+        <RoyalSecondNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-dremora-persons-surnames.txt</Url>
+          </NameGroup>
+        </RoyalSecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

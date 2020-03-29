@@ -317,11 +317,52 @@
           </Values>
         </NameGroup>
       </Scientists>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders - Chinese</Name>
+          <Values>
+            <string>Taizong</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Japanese</Name>
+          <Values>
+            <string>Hojo Tokimune</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Korean</Name>
+          <Values>
+            <string>Sejong</string>
+            <string>Seondeok</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Mongol</Name>
+          <Values>
+            <string>Kublai Khan</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Tibetan</Name>
+          <Values>
+            <string>Trisong Detsen</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
       <LeadersTier2>
         <NameGroup>
           <Name>Leaders - Chinese</Name>
           <Values>
             <string>Changping</string>
+            <string>Chiang Kai-shek</string>
+            <string>Xiaoping</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Korean</Name>
+          <Values>
+            <string>Wang Kǒn</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -332,6 +373,13 @@
         </NameGroup>
       </LeadersTier2>
       <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders - Chinese</Name>
+          <Values>
+            <string>Mao Zedong</string>
+            <string>Qin Shi Huang</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Leaders - Japanese</Name>
           <Values>
@@ -354,6 +402,8 @@
           <Name>Heroes - Chinese</Name>
           <Values>
             <string>Hua Mulan</string>
+            <string>Lei Feng</string>
+            <string>Yuenü</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -382,6 +432,12 @@
       </Admirals>
       <GeneralsTier1>
         <NameGroup>
+          <Name>Generals - Chinese</Name>
+          <Values>
+            <string>Yue Fei</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Generals - Japanese</Name>
           <Values>
             <string>Sakai</string>
@@ -404,6 +460,12 @@
       </GeneralsTier2>
       <GeneralsTier3>
         <NameGroup>
+          <Name>Generals - Chinese</Name>
+          <Values>
+            <string>Han Xin</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Generals - Japanese</Name>
           <Values>
             <string>Akira</string>
@@ -411,60 +473,123 @@
           </Values>
         </NameGroup>
       </GeneralsTier3>
+      <Deities>
+        <NameGroup>
+          <Name>Deities - Chinese</Name>
+          <Values>
+            <string>Ji Gong</string>
+          </Values>
+        </NameGroup>
+      </Deities>
     </GreatPeople>
+    <Companies>
+      <RobotManufacturers>
+        <NameGroup>
+          <Name>Research Companies - Alien - Japanese</Name>
+          <Values>
+            <string>Yutani</string>
+          </Values>
+        </NameGroup>
+      </RobotManufacturers>
+      <AutomotiveManufacturers>
+        <NameGroup>
+          <Name>Vehicle Manufacturers - Japanese</Name>
+          <Values>
+            <string>Nissan</string>
+            <string>Suzuki</string>
+            <string>Toyota</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Vehicle Manufacturers - Korean</Name>
+          <Values>
+            <string>Hyundai</string>
+          </Values>
+        </NameGroup>
+      </AutomotiveManufacturers>
+    </Companies>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Swords - Chinese</Name>
-          <Values>
-            <string>Changdao</string>
-            <string>Dadao</string>
-            <string>Jian</string>
-            <string>Liuyedao</string>
-            <string>Miaodao</string>
-            <string>Wodao</string>
-            <string>Yanmaodao</string>
-            <string>Zhanmadao</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Swords - Japanese</Name>
-          <Values>
-            <string>Chokuto</string>
-            <string>Katana</string>
-            <string>Odachi</string>
-            <string>Shikomizue</string>
-            <string>Tachi</string>
-            <string>Tsurugi</string>
-            <string>Uchigatana</string>
-            <string>Wakizashi</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Daggers - Japanese</Name>
-          <Values>
-            <string>Kaiken</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Crossbows - Chinese</Name>
-          <Values>
-            <string>Chu-ko-nu</string>
-          </Values>
-        </NameGroup>
+        <Artillery>
+          <NameGroup>
+            <Name>Artillery - Korean</Name>
+            <Values>
+              <string>Hwach'a</string>
+            </Values>
+          </NameGroup>
+        </Artillery>
+        <Crossbows>
+          <NameGroup>
+            <Name>Crossbows - Chinese</Name>
+            <Values>
+              <string>Chu-ko-nu</string>
+            </Values>
+          </NameGroup>
+        </Crossbows>
+        <Swords>
+          <NameGroup>
+            <Name>Swords - Chinese</Name>
+            <Values>
+              <string>Changdao</string>
+              <string>Dadao</string>
+              <string>Jian</string>
+              <string>Liuyedao</string>
+              <string>Miaodao</string>
+              <string>Wodao</string>
+              <string>Yanmaodao</string>
+              <string>Zhanmadao</string>
+            </Values>
+          </NameGroup>
+          <NameGroup>
+            <Name>Swords - Japanese</Name>
+            <Values>
+              <string>Chokuto</string>
+              <string>Katana</string>
+              <string>Odachi</string>
+              <string>Shikomizue</string>
+              <string>Tachi</string>
+              <string>Tsurugi</string>
+              <string>Uchigatana</string>
+              <string>Wakizashi</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+        <Daggers>
+          <NameGroup>
+            <Name>Daggers - Japanese</Name>
+            <Values>
+              <string>Kaiken</string>
+            </Values>
+          </NameGroup>
+        </Daggers>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
           <Name>Military Unit Types - Japanese</Name>
           <Values>
+            <string>Ashigaru</string>
+            <string>Bushi</string>
             <string>Ronin</string>
             <string>Samurai</string>
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Military Unit Types - Korean</Name>
+          <Values>
+            <string>Hwarang</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Military Unit Types - Mongol</Name>
           <Values>
+            <string>Keshig</string>
             <string>Mangudai</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Tibetan</Name>
+          <Values>
+            <string>Rta Pta</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
@@ -516,6 +641,14 @@
           </Values>
         </NameGroup>
       </Battleship>
+      <Juggernaut>
+        <NameGroup>
+          <Name>Vanilla - Chinese</Name>
+          <Values>
+            <string>Kunlun</string>
+          </Values>
+        </NameGroup>
+      </Juggernaut>
       <Transport>
         <NameGroup>
           <Name>Islands</Name>
@@ -572,6 +705,36 @@
     </Armies>
     <Planets>
       <Generic>
+        <NameGroup>
+          <Name>Alien - Union of Progressive Peoples - Chinese</Name>
+          <Values>
+            <string>Chiu</string>
+            <string>Phei Phei</string>
+            <string>Qi Xi</string>
+            <string>Wan An</string>
+            <string>Xiang</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Solar Dynasty - Chinese</Name>
+          <Values>
+            <string>Han Xin</string>
+            <string>Ji Gong</string>
+            <string>Lei Feng</string>
+            <string>Mao</string>
+            <string>Mu Guang</string>
+            <string>Mulan</string>
+            <string>Sun Tzu</string>
+            <string>Xiaoping</string>
+            <string>Yue Fei</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Terra Salvum - Japanese</Name>
+          <Values>
+            <string>Kyoto</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Stellaris - United Nations of Earth</Name>
           <Values>
@@ -744,9 +907,17 @@
         <NameGroup>
           <Name>Mountains</Name>
           <Values>
-            <string>Fuji</string>
             <string>Himalaya</string>
             <string>Chomolungma</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mountains - Japan</Name>
+          <Values>
+            <string>Fuji</string>
+            <string>Gassan</string>
+            <string>Haguro</string>
+            <string>Yudono</string>
           </Values>
         </NameGroup>
       </Alpine>
@@ -771,40 +942,7 @@
         <Weight>23</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>An</string>
-              <string>Bao</string>
-              <string>Bo</string>
-              <string>Cai</string>
-              <string>Cheng</string>
-              <string>De</string>
-              <string>Dong</string>
-              <string>Feng</string>
-              <string>Gang</string>
-              <string>Guo</string>
-              <string>Hu</string>
-              <string>Hui</string>
-              <string>Jian</string>
-              <string>Jie</string>
-              <string>Kang</string>
-              <string>Li</string>
-              <string>Liang</string>
-              <string>Long</string>
-              <string>Meng</string>
-              <string>Ning</string>
-              <string>Peng</string>
-              <string>Qiang</string>
-              <string>Shi</string>
-              <string>Song</string>
-              <string>Tao</string>
-              <string>Tian</string>
-              <string>Wei</string>
-              <string>Wu</string>
-              <string>Xiong</string>
-              <string>Yi</string>
-              <string>Yong</string>
-              <string>You</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/chi-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <MaleRoyalFirstNames>
@@ -825,48 +963,7 @@
         </MaleRoyalFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Ai</string>
-              <string>Bi</string>
-              <string>Chan</string>
-              <string>Cui</string>
-              <string>Dai</string>
-              <string>Dan</string>
-              <string>Fang</string>
-              <string>Hong</string>
-              <string>Hua</string>
-              <string>Huan</string>
-              <string>Jiao</string>
-              <string>Ju</string>
-              <string>Juan</string>
-              <string>Lan</string>
-              <string>Lian</string>
-              <string>Lin</string>
-              <string>Mei</string>
-              <string>Na</string>
-              <string>Ni</string>
-              <string>Qian</string>
-              <string>Qiao</string>
-              <string>Qing</string>
-              <string>Shan</string>
-              <string>Shu</string>
-              <string>Ting</string>
-              <string>Wen</string>
-              <string>Xia</string>
-              <string>Xian</string>
-              <string>Xiang</string>
-              <string>Xiu</string>
-              <string>Xue</string>
-              <string>Yan</string>
-              <string>Ying</string>
-              <string>Yu</string>
-              <string>Yuan</string>
-              <string>Yun</string>
-              <string>Zhen</string>
-              <string>Zhi</string>
-              <string>Zhu</string>
-              <string>Zi</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/chi-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <FemaleRoyalFirstNames>
@@ -890,39 +987,7 @@
         </FemaleRoyalFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Cheng</string>
-              <string>Deng</string>
-              <string>Gao</string>
-              <string>He</string>
-              <string>Hsu</string>
-              <string>Hu</string>
-              <string>Huang</string>
-              <string>Kong</string>
-              <string>Kuang</string>
-              <string>Liang</string>
-              <string>Lin</string>
-              <string>Lu</string>
-              <string>Luo</string>
-              <string>Mao</string>
-              <string>Ouyang</string>
-              <string>Pan</string>
-              <string>Shen</string>
-              <string>Sima</string>
-              <string>Situ</string>
-              <string>Tan</string>
-              <string>Wan</string>
-              <string>Wang</string>
-              <string>Wu</string>
-              <string>Xie</string>
-              <string>Xu</string>
-              <string>Yang</string>
-              <string>Zhang</string>
-              <string>Zhao</string>
-              <string>Zheng</string>
-              <string>Zhu</string>
-              <string>Zhuge</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/chi-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
         <RoyalSecondNames>
@@ -940,37 +1005,7 @@
         <Weight>4</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Hiroto</string>
-              <string>Hikaru</string>
-              <string>Takumi</string>
-              <string>Tsubasa</string>
-              <string>Ren</string>
-              <string>Minato</string>
-              <string>Shota</string>
-              <string>Yuuto</string>
-              <string>Sota</string>
-              <string>Yuma</string>
-              <string>Takeru</string>
-              <string>Rikuto</string>
-              <string>Tatsuki</string>
-              <string>Ryuto</string>
-              <string>Haru</string>
-              <string>Yushin</string>
-              <string>Kosei</string>
-              <string>Yoshinobu</string>
-              <string>Jiro</string>
-              <string>Hiroshi</string>
-              <string>Yoshida</string>
-              <string>Mitsue</string>
-              <string>Keisuke</string>
-              <string>Saburo</string>
-              <string>Junichi</string>
-              <string>Yoshi</string>
-              <string>Koshiro</string>
-              <string>Kentaro</string>
-              <string>Koichiro</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/jpn-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <MaleRoyalFirstNames>
@@ -987,40 +1022,7 @@
         </MaleRoyalFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Haruna</string>
-              <string>Sakura</string>
-              <string>Misaki</string>
-              <string>Aoi</string>
-              <string>Mihane</string>
-              <string>Miyu</string>
-              <string>Rin</string>
-              <string>Nanami</string>
-              <string>Yui</string>
-              <string>Hina</string>
-              <string>Honoka</string>
-              <string>Riko</string>
-              <string>Yuna</string>
-              <string>Koharu</string>
-              <string>Hinata</string>
-              <string>Mei</string>
-              <string>Saki</string>
-              <string>Ichika</string>
-              <string>Hiyori</string>
-              <string>Yusuki</string>
-              <string>Shiori</string>
-              <string>Natsuki</string>
-              <string>Ayane</string>
-              <string>Kaho</string>
-              <string>Hana</string>
-              <string>Momoka</string>
-              <string>Himari</string>
-              <string>Yume</string>
-              <string>Aomame</string>
-              <string>Noriko</string>
-              <string>Kazumi</string>
-              <string>Kimiko</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/jpn-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <FemaleRoyalFirstNames>
@@ -1039,53 +1041,7 @@
         </FemaleRoyalFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Abe</string>
-              <string>Amano</string>
-              <string>Fujita</string>
-              <string>Goto</string>
-              <string>Harada</string>
-              <string>Hasegawa</string>
-              <string>Hashimoto</string>
-              <string>Hayashi</string>
-              <string>Higuchi</string>
-              <string>Ikeda</string>
-              <string>Inoue</string>
-              <string>Ishii</string>
-              <string>Ishikawa</string>
-              <string>Ito</string>
-              <string>Kato</string>
-              <string>Kimura</string>
-              <string>Kobayashi</string>
-              <string>Matsumoto</string>
-              <string>Miura</string>
-              <string>Mori</string>
-              <string>Murakami</string>
-              <string>Nakagawa</string>
-              <string>Nakajima</string>
-              <string>Nakamura</string>
-              <string>Nishimura</string>
-              <string>Ogawa</string>
-              <string>Okada</string>
-              <string>Okamoto</string>
-              <string>Ota</string>
-              <string>Saito</string>
-              <string>Sakamoto</string>
-              <string>Sasaki</string>
-              <string>Sato</string>
-              <string>Shimizu</string>
-              <string>Suzuki</string>
-              <string>Takahashi</string>
-              <string>Takaya</string>
-              <string>Tanaka</string>
-              <string>Watanabe</string>
-              <string>Yamada</string>
-              <string>Yamaguchi</string>
-              <string>Yamamoto</string>
-              <string>Yamashita</string>
-              <string>Yamazaki</string>
-              <string>Yoshida</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/jpn-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
         <RoyalSecondNames>

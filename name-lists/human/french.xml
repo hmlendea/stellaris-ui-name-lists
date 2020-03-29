@@ -87,6 +87,22 @@
       </Cities>
     </Places>
     <GreatPeople>
+      <Explorers>
+        <NameGroup>
+          <Name>Scientists - French</Name>
+          <Values>
+            <string>Cousteau</string>
+          </Values>
+        </NameGroup>
+      </Explorers>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists - French</Name>
+          <Values>
+            <string>Becquerel</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
       <LeadersTier2>
         <NameGroup>
           <Name>Leaders</Name>
@@ -100,7 +116,7 @@
           <Name>Leaders</Name>
           <Values>
             <string>Charlemagne</string>
-            <string>De Gaulle</string>
+            <string>Louis XIV</string>
             <string>Napoleon</string>
           </Values>
         </NameGroup>
@@ -128,6 +144,7 @@
             <string>Jeanne Fourquet</string>
             <string>Jeanne Hachette</string>
             <string>Jeanne Laisné</string>
+            <string>Joan d'Arc</string>
           </Values>
         </NameGroup>
       </Heroes>
@@ -149,28 +166,70 @@
           </Values>
         </NameGroup>
       </GeneralsTier2>
-    </GreatPeople>
-    <Warfare>
-      <Weapons>
+      <GeneralsTier3>
         <NameGroup>
-          <Name>Crossbows - French</Name>
+          <Name>Generals</Name>
           <Values>
-            <string>Arbalest</string>
+            <string>De Gaulle</string>
           </Values>
         </NameGroup>
+      </GeneralsTier3>
+    </GreatPeople>
+    <Companies>
+      <AircraftManufacturers>
+        <NameGroup>
+          <Name>Aircraft manufacturers</Name>
+          <Values>
+            <string>Dessault</string>
+            <string>Safran</string>
+            <string>Thales</string>
+            <string>Snecma</string>
+            <string>Arianespace</string>
+          </Values>
+        </NameGroup>
+      </AircraftManufacturers>
+      <SpacecraftManufacturers>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Belgian</Name>
+          <Values>
+            <string>QuentiQ</string>
+          </Values>
+        </NameGroup>
+      </SpacecraftManufacturers>
+    </Companies>
+    <Warfare>
+      <Weapons>
+        <Guns>
+          <NameGroup>
+            <Name>Guns</Name>
+            <Values>
+              <string>Arquebus</string>
+            </Values>
+          </NameGroup>
+        </Guns>
+        <Crossbows>
+          <NameGroup>
+            <Name>Crossbows</Name>
+            <Values>
+              <string>Arbalest</string>
+            </Values>
+          </NameGroup>
+        </Crossbows>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
           <Name>Military unit types - French</Name>
           <Values>
             <string>Arbalester</string>
+            <string>Arquebusier</string>
             <string>Gendarme</string>
+            <string>Musketeer</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
       <BattleLocations>
         <NameGroup>
-          <Name>Battle locations - France</Name>
+          <Name>Battle locations</Name>
           <Values>
             <string>Belleau Wood</string>
             <string>Somme</string>
@@ -189,26 +248,6 @@
         </NameGroup>
       </Cruiser>
     </Ships>
-    <ShipClasses>
-      <Generic>
-        <NameGroup>
-          <Name>Spacecraft manufacturers - Belgian</Name>
-          <Values>
-            <string>QuentiQ</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Aircraft manufacturers</Name>
-          <Values>
-            <string>Dessault</string>
-            <string>Safran</string>
-            <string>Thales</string>
-            <string>Snecma</string>
-            <string>Arianespace</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </ShipClasses>
     <Stations>
       <MilitaryStations>
         <Generic>
@@ -241,6 +280,19 @@
     </Armies>
     <Planets>
       <Generic>
+        <NameGroup>
+          <Name>Pandora: First Contact - Terra Salvum</Name>
+          <Values>
+            <string>Hutchinson</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Togra University</Name>
+          <Values>
+            <string>Becquerel</string>
+            <string>Cousteau</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Stellaris - United Nations of Earth - French</Name>
           <Values>
@@ -278,53 +330,7 @@
         <Weight>2</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>André</string>
-              <string>Antoine</string>
-              <string>Armand</string>
-              <string>Charles</string>
-              <string>Claude</string>
-              <string>Daniel</string>
-              <string>Dominic</string>
-              <string>Francois</string>
-              <string>Gaston</string>
-              <string>Georges</string>
-              <string>Gerard</string>
-              <string>Guy</string>
-              <string>Henri</string>
-              <string>Hubert</string>
-              <string>Hugo</string>
-              <string>Jacques</string>
-              <string>Jamie</string>
-              <string>Jean</string>
-              <string>Jean-Francois</string>
-              <string>Jean-Marie</string>
-              <string>Jean-Paul</string>
-              <string>Joseph</string>
-              <string>Louis</string>
-              <string>Louis-René</string>
-              <string>Luc</string>
-              <string>Lucien</string>
-              <string>Marc</string>
-              <string>Marcel</string>
-              <string>Mathieu</string>
-              <string>Maurice</string>
-              <string>Michel</string>
-              <string>Olivier</string>
-              <string>Patrice</string>
-              <string>Paul</string>
-              <string>Philippe</string>
-              <string>Pierre</string>
-              <string>Pierre-Charles</string>
-              <string>Raymond</string>
-              <string>René</string>
-              <string>Robert</string>
-              <string>Sébastien</string>
-              <string>Simon</string>
-              <string>Thibault</string>
-              <string>Thierry</string>
-              <string>Yves</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/fra-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <MaleRoyalFirstNames>
@@ -344,49 +350,7 @@
         </MaleRoyalFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Andrea</string>
-              <string>Angeline</string>
-              <string>Bernadette</string>
-              <string>Camille</string>
-              <string>Celine</string>
-              <string>Charlotte</string>
-              <string>Chloe</string>
-              <string>Clara</string>
-              <string>Clarisse</string>
-              <string>Clémence</string>
-              <string>Daphne</string>
-              <string>Eleonore</string>
-              <string>Elina</string>
-              <string>Elise</string>
-              <string>Fanny</string>
-              <string>Helena</string>
-              <string>Inés</string>
-              <string>Isabella</string>
-              <string>Jeanette</string>
-              <string>Jeanne</string>
-              <string>Jessica</string>
-              <string>Julia</string>
-              <string>Juliette</string>
-              <string>Justine</string>
-              <string>Leila</string>
-              <string>Lianne</string>
-              <string>Lilianne</string>
-              <string>Louise</string>
-              <string>Manon</string>
-              <string>Margaret</string>
-              <string>Marie</string>
-              <string>Maud</string>
-              <string>Melanie</string>
-              <string>Nina</string>
-              <string>Pauline</string>
-              <string>Selma</string>
-              <string>Sophie</string>
-              <string>Suzanne</string>
-              <string>Veronique</string>
-              <string>Viviane</string>
-              <string>Yasmine</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/fra-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <FemaleRoyalFirstNames>
@@ -402,62 +366,7 @@
         </FemaleRoyalFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Bergeron</string>
-              <string>Bernard</string>
-              <string>Bosquet</string>
-              <string>Bouchard</string>
-              <string>Bourbon</string>
-              <string>Clemenceau</string>
-              <string>de Castelnau</string>
-              <string>de Montaignac</string>
-              <string>de Suffren</string>
-              <string>Deveraux</string>
-              <string>Deville</string>
-              <string>Dubois</string>
-              <string>Duchaine</string>
-              <string>DuGalle</string>
-              <string>Dupont</string>
-              <string>Durand</string>
-              <string>Duval</string>
-              <string>Foch</string>
-              <string>Fortin</string>
-              <string>Fourquet</string>
-              <string>Gagne</string>
-              <string>Gagnon</string>
-              <string>Gauthier</string>
-              <string>Gerard</string>
-              <string>Gilbert</string>
-              <string>Giroud</string>
-              <string>Hachette</string>
-              <string>Hébert</string>
-              <string>Isabella</string>
-              <string>Jauvin</string>
-              <string>Laisné</string>
-              <string>Lambert</string>
-              <string>Laurent</string>
-              <string>Lavoie</string>
-              <string>Le Gall</string>
-              <string>Le Roux</string>
-              <string>Lebouef</string>
-              <string>Leclerc</string>
-              <string>Leroy</string>
-              <string>Louise</string>
-              <string>Martin</string>
-              <string>Montagne</string>
-              <string>Moreau</string>
-              <string>Morin</string>
-              <string>Paquette</string>
-              <string>Pelletier</string>
-              <string>Péllissier</string>
-              <string>Petain</string>
-              <string>Rémy</string>
-              <string>Renard</string>
-              <string>Roy</string>
-              <string>Tremblay</string>
-              <string>Tréville</string>
-              <string>Villeneuve</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/fra-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
         <RoyalSecondNames>

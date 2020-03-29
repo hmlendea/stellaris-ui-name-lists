@@ -14,78 +14,117 @@
         </Values>
       </NameGroup>
     </Denonyms>
+    <Companies>
+      <AircraftManufacturers>
+        <NameGroup>
+          <Name>Aircraft manufacturers</Name>
+          <Values>
+            <string>Airbus</string>
+          </Values>
+        </NameGroup>
+      </AircraftManufacturers>
+    </Companies>
     <Warfare>
       <Weapons>
-        <NameGroup>
-          <Name>Weapons</Name>
-          <Values>
-            <string>Cleaver</string>
-            <string>Club</string>
-            <string>Glaive</string>
-            <string>Halberd</string>
-            <string>Harpoon</string>
-            <string>Mace</string>
-            <string>Pike</string>
-            <string>Spear</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Axes</Name>
-          <Values>
-            <string>Axe</string>
-            <string>Battleaxe</string>
-            <string>Hatchet</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Crossbows</Name>
-          <Values>
-            <string>Crossbow</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Bows</Name>
-          <Values>
-            <string>Bow</string>
-            <string>Longbow</string>
-            <string>Shortbow</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Javelins</Name>
-          <Values>
-            <string>Javelin</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Swords</Name>
-          <Values>
-            <string>Longsword</string>
-            <string>Poignard</string>
-            <string>Saber</string>
-            <string>Shortsword</string>
-            <string>Sword</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Daggers</Name>
-          <Values>
-            <string>Dagger</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Hammers</Name>
-          <Values>
-            <string>Warhammer</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Siege Weapons</Name>
-          <Values>
-            <string>Catapult</string>
-            <string>Trebuchet</string>
-          </Values>
-        </NameGroup>
+        <Artillery>
+          <NameGroup>
+            <Name>Artillery</Name>
+            <Values>
+              <string>Bombard</string>
+              <string>Catapult</string>
+              <string>Trebuchet</string>
+            </Values>
+          </NameGroup>
+        </Artillery>
+        <Guns>
+          <NameGroup>
+            <Name>Guns</Name>
+            <Values>
+              <string>Culverin</string>
+              <string>Harpoon</string>
+            </Values>
+          </NameGroup>
+        </Guns>
+        <Crossbows>
+          <NameGroup>
+            <Name>Crossbows</Name>
+            <Values>
+              <string>Crossbow</string>
+            </Values>
+          </NameGroup>
+        </Crossbows>
+        <Bows>
+          <NameGroup>
+            <Name>Bows</Name>
+            <Values>
+              <string>Bow</string>
+              <string>Longbow</string>
+              <string>Shortbow</string>
+            </Values>
+          </NameGroup>
+        </Bows>
+        <Javelins>
+          <NameGroup>
+            <Name>Javelins</Name>
+            <Values>
+              <string>Javelin</string>
+            </Values>
+          </NameGroup>
+        </Javelins>
+        <Swords>
+          <NameGroup>
+            <Name>Swords</Name>
+            <Values>
+              <string>Estoc</string>
+              <string>Longsword</string>
+              <string>Poignard</string>
+              <string>Saber</string>
+              <string>Shortsword</string>
+              <string>Sword</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+        <Daggers>
+          <NameGroup>
+            <Name>Daggers</Name>
+            <Values>
+              <string>Cleaver</string>
+              <string>Dagger</string>
+            </Values>
+          </NameGroup>
+        </Daggers>
+        <Polearms>
+          <NameGroup>
+            <Name>Polearms</Name>
+            <Values>
+              <string>Glaive</string>
+              <string>Halberd</string>
+              <string>Harpoon</string>
+              <string>Pike</string>
+              <string>Spear</string>
+            </Values>
+          </NameGroup>
+        </Polearms>
+        <Axes>
+          <NameGroup>
+            <Name>Axes</Name>
+            <Values>
+              <string>Axe</string>
+              <string>Battleaxe</string>
+              <string>Hatchet</string>
+            </Values>
+          </NameGroup>
+        </Axes>
+        <Hammers>
+          <NameGroup>
+            <Name>Hammers</Name>
+            <Values>
+              <string>Club</string>
+              <string>Mace</string>
+              <string>Warhammer</string>
+            </Values>
+          </NameGroup>
+        </Hammers>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
@@ -95,6 +134,7 @@
             <string>Assassin</string>
             <string>Axeman</string>
             <string>Bowman</string>
+            <string>Buccaneer</string>
             <string>Cavalry</string>
             <string>Chariot</string>
             <string>Cluman</string>
@@ -104,8 +144,6 @@
             <string>Hussar</string>
             <string>Knight</string>
             <string>Lancer</string>
-            <string>Longbowman</string>
-            <string>Musketeer</string>
             <string>Paladin</string>
             <string>Pikeman</string>
             <string>Privateer</string>
@@ -118,32 +156,8 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <MythologicalCreatures>
-      <NameGroup>
-        <Name>Mythological creatures</Name>
-        <Values>
-          <string>Dragon</string>
-          <string>Gargoyle</string>
-          <string>Ghost</string>
-          <string>Goblin</string>
-          <string>Grim Reaper</string>
-          <string>Incubus</string>
-          <string>Kraken</string>
-          <string>Mermaid</string>
-          <string>Nymph</string>
-          <string>Ogre</string>
-          <string>Phantom</string>
-          <string>Reaper</string>
-          <string>Specter</string>
-          <string>Spectre</string>
-          <string>Succubus</string>
-          <string>Warlock</string>
-          <string>Wraith</string>
-        </Values>
-      </NameGroup>
-    </MythologicalCreatures>
-    <Ships>
-      <Corvette>
+    <BiosphereNames>
+      <Animals>
         <NameGroup>
           <Name>Animals</Name>
           <Values>
@@ -177,63 +191,35 @@
             <string>Sworsfish</string>
           </Values>
         </NameGroup>
-      </Corvette>
-      <Destroyer>
+      </Animals>
+      <MythologicalCreatures>
         <NameGroup>
-          <Name></Name>
+          <Name>Mythological creatures</Name>
           <Values>
+            <string>Behemoth</string>
+            <string>Dragon</string>
+            <string>Gargoyle</string>
+            <string>Ghost</string>
+            <string>Goblin</string>
+            <string>Grim Reaper</string>
+            <string>Kraken</string>
+            <string>Leviathan</string>
+            <string>Mermaid</string>
+            <string>Mummy</string>
+            <string>Nymph</string>
+            <string>Ogre</string>
+            <string>Phantom</string>
+            <string>Reaper</string>
+            <string>Specter</string>
+            <string>Spectre</string>
+            <string>Warlock</string>
+            <string>Werewolf</string>
+            <string>Wraith</string>
           </Values>
         </NameGroup>
-      </Destroyer>
-      <Cruiser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Cruiser>
-      <Battleship>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Battleship>
-      <Science>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Science>
-      <Coloniser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Coloniser>
-    </Ships>
-    <ShipClasses>
-      <Generic>
-        <NameGroup>
-          <Name>Aircraft manufacturers</Name>
-          <Values>
-            <string>Airbus</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </ShipClasses>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <Stations>
-      <MilitaryStations>
-        <Generic>
-          <NameGroup>
-            <Name></Name>
-            <Values>
-            </Values>
-          </NameGroup>
-        </Generic>
-      </MilitaryStations>
       <Starbases>
         <Outposts>
           <NameGroup>
@@ -250,15 +236,44 @@
           </NameGroup>
         </Outposts>
       </Starbases>
-      <ResearchStations>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </ResearchStations>
     </Stations>
     <Armies>
+      <Fleet>
+        <NameGroup>
+          <Name>Fleets - Metals</Name>
+          <Values>
+            <string>The Iron Fleet</string>
+            <string>The Golden Fleet</string>
+            <string>The Silver Fleet</string>
+            <string>The Steel Fleet</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Fleets - Colours</Name>
+          <Values>
+            <string>The Black Fleet</string>
+            <string>The Blue Fleet</string>
+            <string>The Brown Fleet</string>
+            <string>The Burgundy Fleet</string>
+            <string>The Chrome Fleet</string>
+            <string>The Cobalt Fleet</string>
+            <string>The Crimson Fleet</string>
+            <string>The Cyan Fleet</string>
+            <string>The Green Fleet</string>
+            <string>The Lime Fleet</string>
+            <string>The Magenta Fleet</string>
+            <string>The Orange Fleet</string>
+            <string>The Pink Fleet</string>
+            <string>The Purple Fleet</string>
+            <string>The Red Fleet</string>
+            <string>The Teal Fleet</string>
+            <string>The Turqoise Fleet</string>
+            <string>The Violet Fleet</string>
+            <string>The White Fleet</string>
+            <string>The Yellow Fleet</string>
+          </Values>
+        </NameGroup>
+      </Fleet>
       <DefenceArmy>
         <NameGroup>
           <Name>Armies - FantasyNameGenerator</Name>
