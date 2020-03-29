@@ -481,120 +481,14 @@
         <MaleFullNames>
           <NameGroup>
             <Values>
-              <string>Adamis</string>
-              <string>Adun</string>
-              <string>Aedus</string>
-              <string>Akam</string>
-              <string>Aldaris</string>
-              <string>Aldrion</string>
-              <string>Alzadar</string>
-              <string>Amdor</string>
-              <string>Amur</string>
-              <string>Andinunn</string>
-              <string>Andraxxus</string>
-              <string>Argus</string>
-              <string>Artanis</string>
-              <string>Assmael</string>
-              <string>Aurioch</string>
-              <string>Bratalix</string>
-              <string>Colarion</string>
-              <string>Damiarch</string>
-              <string>Darsiris</string>
-              <string>Demioch</string>
-              <string>Doraelus</string>
-              <string>Eredas</string>
-              <string>Erekul</string>
-              <string>Felanis</string>
-              <string>Fenix</string>
-              <string>Feranon</string>
-              <string>Forthum</string>
-              <string>Garius</string>
-              <string>Gloarath</string>
-              <string>Gruu</string>
-              <string>Harrum</string>
-              <string>Iaalu</string>
-              <string>Jhas</string>
-              <string>Juras</string>
-              <string>Kaeon</string>
-              <string>Kaldalis</string>
-              <string>Karass</string>
-              <string>Karax</string>
-              <string>Keldalis</string>
-              <string>Ketalis</string>
-              <string>Khas</string>
-              <string>Kizrath</string>
-              <string>Korlendir</string>
-              <string>Koronis</string>
-              <string>Kortanul</string>
-              <string>Krtanul</string>
-              <string>Ladranix</string>
-              <string>Leredar</string>
-              <string>Mardonis</string>
-              <string>Menbellir</string>
-              <string>Mess'Ta</string>
-              <string>Mojo</string>
-              <string>Muadun</string>
-              <string>Naganis</string>
-              <string>Nahaan</string>
-              <string>Nannoth</string>
-              <string>Nehaan</string>
-              <string>Nubas</string>
-              <string>Nuun-Min</string>
-              <string>Oong</string>
-              <string>Palmet</string>
-              <string>Rassidan</string>
-              <string>Rihod</string>
-              <string>Rimmicu</string>
-              <string>Ruom</string>
-              <string>Sacopo</string>
-              <string>Saldrian</string>
-              <string>Sinar</string>
-              <string>Taarim</string>
-              <string>Tabrenus</string>
-              <string>Taeradun</string>
-              <string>Taldarin</string>
-              <string>Tassadar</string>
-              <string>Telbrus</string>
-              <string>Temlaa</string>
-              <string>Tenarsis</string>
-              <string>Teredal</string>
-              <string>Thuras</string>
-              <string>Turavis</string>
-              <string>Urun</string>
-              <string>Varloris</string>
-              <string>Vartanil</string>
-              <string>Vetraas</string>
-              <string>Wa'Rak</string>
-              <string>Wotarra</string>
-              <string>Xerxes</string>
-              <string>Xulata</string>
-              <string>Yaiino</string>
-              <string>Zekrath</string>
-              <string>Zentheon</string>
-              <string>Zeranek</string>
-              <string>Zoranis</string>
+              <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-male-khalai.txt</Url>
             </Values>
           </NameGroup>
         </MaleFullNames>
         <FemaleFullNames>
           <NameGroup>
             <Values>
-              <string>Deloria</string>
-              <string>Edullon</string>
-              <string>Khastiana</string>
-              <string>Lasarra</string>
-              <string>Lekila</string>
-              <string>Martul</string>
-              <string>Orlana</string>
-              <string>Quordas</string>
-              <string>Rohana</string>
-              <string>Selendis</string>
-              <string>Shantira</string>
-              <string>Syndrea</string>
-              <string>Talis</string>
-              <string>Tenzaal</string>
-              <string>Ydalin</string>
-              <string>Zamara</string>
+              <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-female-khalai.txt</Url>
             </Values>
           </NameGroup>
         </FemaleFullNames>
@@ -607,53 +501,19 @@
         <MaleFullNames>
           <NameGroup>
             <Values>
-              <string>Alikka</string>
-              <string>Althai</string>
-              <string>Ataldis</string>
-              <string>Azimar</string>
-              <string>Dabiri</string>
-              <string>Darakian</string>
-              <string>Imrian</string>
-              <string>Jarzul</string>
-              <string>Khashilar</string>
-              <string>Kherenoss</string>
-              <string>Khirillian</string>
-              <string>Krythkal</string>
-              <string>Lassatar</string>
-              <string>Lyrak</string>
-              <string>Malete</string>
-              <string>Miratix</string>
-              <string>Mohandar</string>
-              <string>Rastadon</string>
-              <string>Razturul</string>
-              <string>Sagaya</string>
-              <string>Serdath</string>
-              <string>Taelus</string>
-              <string>Theromos</string>
-              <string>Tyrak</string>
-              <string>Ulavu</string>
-              <string>Ulrezaj</string>
-              <string>Xy'tal</string>
-              <string>Zahan</string>
-              <string>Zangakkar</string>
-              <string>Zeratul</string>
+              <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-male-nerazim.txt</Url>
             </Values>
           </NameGroup>
         </MaleFullNames>
         <FemaleFullNames>
           <NameGroup>
             <Values>
-              <string>Kehdana</string>
-              <string>Naraza</string>
-              <string>Raszagal</string>
-              <string>Sharas</string>
-              <string>Vorazun</string>
-              <string>Xerana</string>
-              <string>Zoraya</string>
+              <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-female-nerazim.txt</Url>
             </Values>
           </NameGroup>
         </FemaleFullNames>
       </CharacterNames>
+    </Characters>
     <Characters>
       <CharacterNames>
         <Id>taldarim</Id>
@@ -661,24 +521,18 @@
         <MaleFullNames>
           <NameGroup>
             <Values>
-              <string>Alarak</string>
-              <string>Ma'lash</string>
-              <string>Nuroka</string>
-              <string>Nyon</string>
-              <string>Zenish</string>
+              <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-male-taldarim.txt</Url>
             </Values>
           </NameGroup>
         </MaleFullNames>
         <FemaleFullNames>
           <NameGroup>
             <Values>
-              <string>Ji'nara</string>
-              <string>Guraj</string>
+              <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-female-taldarim.txt</Url>
             </Values>
           </NameGroup>
         </FemaleFullNames>
       </CharacterNames>
-    </Characters>
     </Characters>
   </NameList>
 </ArrayOfNameList>
