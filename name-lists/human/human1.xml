@@ -1070,24 +1070,40 @@
       <Titan>
         <NameGroup>
           <Name>zzz HUMAN1</Name>
+          <Values>
             <string>Enterprise</string>
             <string>Invincible</string>
             <string>Pegasus</string>
             <string>Hercules</string>
             <string>Excalibur</string>
             <string>Formidable</string>
+          </Values>
         </NameGroup>
       </Titan>
       <Colossus>
         <NameGroup>
           <Name>zzz HUMAN1</Name>
+          <Values>
             <string>Sol Invictus</string>
             <string>Adjudicator</string>
             <string>Overlord</string>
             <string>Guardian</string>
             <string>Kingmaker</string>
+          </Values>
         </NameGroup>
       </Colossus>
+      <Juggernaut>
+        <NameGroup>
+          <Name>zzz HUMAN1</Name>
+          <Values>
+            <string>Ararat</string>
+            <string>Axis Mundi</string>
+            <string>Great Reformer</string>
+            <string>Kunlun</string>
+            <string>Tectonic</string>
+          </Values>
+        </NameGroup>
+      </Juggernaut>
       <Constructor>
         <NameGroup>
           <Name>zzz HUMAN1</Name>

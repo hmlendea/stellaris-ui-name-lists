@@ -633,6 +633,14 @@
           </Values>
         </NameGroup>
       </Battleship>
+      <Juggernaut>
+        <NameGroup>
+          <Name>Vanilla - Chinese</Name>
+          <Values>
+            <string>Kunlun</string>
+          </Values>
+        </NameGroup>
+      </Juggernaut>
       <Transport>
         <NameGroup>
           <Name>Islands</Name>

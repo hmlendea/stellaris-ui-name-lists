@@ -517,6 +517,19 @@
           </Values>
         </NameGroup>
       </Colossus>
+      <Juggernaut>
+        <NameGroup>
+          <Name>zzz HUMAN3</Name>
+          <Values>
+            <string>Acca Larentia</string>
+            <string>Emperor</string>
+            <string>Faustulus</string>
+            <string>Lupa</string>
+            <string>Magister Militum</string>
+            <string>Optimus Princeps</string>
+          </Values>
+        </NameGroup>
+      </Juggernaut>
       <Constructor>
         <NameGroup>
           <Name>zzz HUMAN3</Name>

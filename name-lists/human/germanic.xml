@@ -706,6 +706,14 @@
           </Values>
         </NameGroup>
       </Battleship>
+      <Juggernaut>
+        <NameGroup>
+          <Name>Vanilla</Name>
+          <Values>
+            <string>Ragnarök</string>
+          </Values>
+        </NameGroup>
+      </Juggernaut>
       <Coloniser>
         <NameGroup>
           <Name>Mythology</Name>

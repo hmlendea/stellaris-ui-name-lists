@@ -276,13 +276,14 @@
           </Values>
         </NameGroup>
       </Battleship>
-      <Coloniser>
+      <Juggernaut>
         <NameGroup>
-          <Name></Name>
+          <Name>Vanilla</Name>
           <Values>
+            <string>Ararat</string>
           </Values>
         </NameGroup>
-      </Coloniser>
+      </Juggernaut>
     </Ships>
     <Stations>
       <MilitaryStations>

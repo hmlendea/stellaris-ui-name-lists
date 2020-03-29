@@ -287,7 +287,7 @@
     <Ships>
       <Colossus>
         <NameGroup>
-          <Name>Vanilla Human SPQR</Name>
+          <Name>Vanilla</Name>
           <Values>
             <string>Dis Pater</string>
             <string>Pax Romana</string>
@@ -295,6 +295,20 @@
           </Values>
         </NameGroup>
       </Colossus>
+      <Juggernaut>
+        <NameGroup>
+          <Name>Vanilla</Name>
+          <Values>
+            <string>Acca Larentia</string>
+            <string>Axis Mundi</string>
+            <string>Emperor</string>
+            <string>Faustulus</string>
+            <string>Lupa</string>
+            <string>Magister Militum</string>
+            <string>Optimus Princeps</string>
+          </Values>
+        </NameGroup>
+      </Juggernaut>
     </Ships>
     <ShipClasses>
       <Corvette>
