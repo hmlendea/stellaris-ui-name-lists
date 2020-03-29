@@ -15,7 +15,7 @@
           <string>Peruvian</string>
           <string>Spanish</string>
           <string>Venezuelan</string>
-          <string>Visigothic</string>
+          <string>Visigoth</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -121,6 +121,14 @@
           </Values>
         </NameGroup>
       </Regions>
+      <Forests>
+        <NameGroup>
+          <Name>Forests</Name>
+          <Values>
+            <string>Amazonia</string>
+          </Values>
+        </NameGroup>
+      </Forests>
       <Cities>
         <NameGroup>
           <Name>Cities - Argentina</Name>
@@ -161,12 +169,13 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions - Guatemala</Name>
+          <Name>Cities - Guatemala</Name>
           <Values>
             <string>Amatitlán</string>
             <string>Chimaltenango</string>
             <string>Chinautla</string>
             <string>Escuintla</string>
+            <string>Guatemala City</string>
             <string>Guatemala</string>
             <string>Mixco</string>
             <string>Quetzaltenango</string>
@@ -242,6 +251,7 @@
             <string>Bilbao</string>
             <string>Córdoba</string>
             <string>Gibraltar</string>
+            <string>Granada</string>
             <string>Madrid</string>
             <string>Málaga</string>
             <string>Murcia</string>

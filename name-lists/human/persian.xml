@@ -196,6 +196,7 @@
           <NameGroup>
             <Name>Swords</Name>
             <Values>
+              <string>Acinaces</string>
               <string>Pulwar</string>
               <string>Shamshir</string>
             </Values>

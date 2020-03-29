@@ -399,6 +399,7 @@
             <string>Holevo</string>
             <string>Kantorovich</string>
             <string>Kapitsa</string>
+            <string>Kardashev</string>
             <string>Kaspersky</string>
             <string>Korolev</string>
             <string>Kovalevskaya</string>
@@ -421,7 +422,6 @@
             <string>Popov</string>
             <string>Prokhorov</string>
             <string>Sakharov</string>
-            <string>Semyonov</string>
             <string>Semyonov</string>
             <string>Starobinsky</string>
             <string>Stoletov</string>
@@ -724,62 +724,24 @@
           </Values>
         </NameGroup>
       </Generic>
-      <Desert>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Desert>
-      <Continental>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Continental>
       <Ocean>
         <NameGroup>
-          <Name></Name>
+          <Name>Stellaris - United Nations of Earth - Polish</Name>
           <Values>
+            <string>Port Rabcewicz</string>
           </Values>
         </NameGroup>
       </Ocean>
-      <Tundra>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tundra>
-      <Arctic>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Arctic>
       <Tomb>
         <NameGroup>
-          <Name></Name>
+          <Name>Devastated places on Earth</Name>
           <Values>
+            <string>Chernobyl</string>
+            <string>Pripyat</string>
+            <string>Stalingrad</string>
           </Values>
         </NameGroup>
       </Tomb>
-      <Alpine>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Alpine>
-      <Molten>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Molten>
     </Planets>
     <Characters>
       <CharacterNames>

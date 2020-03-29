@@ -64,6 +64,12 @@
             <string>West Bengal</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Regions -Pakistan</Name>
+          <Values>
+            <string>Sindh</string>
+          </Values>
+        </NameGroup>
       </Regions>
       <Cities>
         <NameGroup>
@@ -117,6 +123,7 @@
           <Values>
             <string>Gujranwala</string>
             <string>Islamabad</string>
+            <string>Karachi</string>
             <string>Lahore</string>
             <string>Rawalpindi</string>
           </Values>

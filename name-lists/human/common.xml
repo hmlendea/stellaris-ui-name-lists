@@ -7,8 +7,10 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-          <string>Human</string>
           <string>European</string>
+          <string>Human</string>
+          <string>Martian</string>
+          <string>Terran</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -118,6 +120,7 @@
             <Name>Hammers</Name>
             <Values>
               <string>Club</string>
+              <string>Mace</string>
               <string>Warhammer</string>
             </Values>
           </NameGroup>
@@ -174,6 +177,8 @@
             <string>Lizard</string>
             <string>Panther</string>
             <string>Piranha</string>
+            <string>Rattlesnake</string>
+            <string>Raven</string>
             <string>Salamander</string>
             <string>Sardine</string>
             <string>Scorpion</string>
@@ -183,6 +188,7 @@
             <string>Stingray</string>
             <string>Stork</string>
             <string>Sturgeon</string>
+            <string>Sworsfish</string>
           </Values>
         </NameGroup>
       </Animals>
@@ -402,8 +408,12 @@
       </Arctic>
       <Tomb>
         <NameGroup>
-          <Name></Name>
+          <Name>Words</Name>
           <Values>
+            <string>Armageddon</string>
+            <string>Crypt</string>
+            <string>Gravestone</string>
+            <string>Tombstone</string>
           </Values>
         </NameGroup>
       </Tomb>

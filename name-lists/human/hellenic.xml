@@ -105,10 +105,9 @@
       </Rivers>
       <Seas>
         <NameGroup>
-          <Name>Words</Name>
+          <Name>Seas</Name>
           <Values>
-            <string>Panthalassa</string>
-            <string>Thalassa</string>
+            <string>Aegea</string>
           </Values>
         </NameGroup>
       </Seas>
@@ -182,6 +181,14 @@
           </Values>
         </NameGroup>
       </Admirals>
+      <GeneralsTier2>
+        <NameGroup>
+          <Name>Generals</Name>
+          <Values>
+            <string>Themistocles</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier2>
       <LabourDeities>
         <NameGroup>
           <Name>Labour Deities</Name>
@@ -213,7 +220,7 @@
           <NameGroup>
             <Name>Swords</Name>
             <Values>
-              <string>Makihara</string>
+              <string>Makhaira</string>
               <string>Xiphos</string>
             </Values>
           </NameGroup>
@@ -289,22 +296,6 @@
       </MythologicalCreatures>
     </BiosphereNames>
     <Ships>
-      <Corvette>
-      </Corvette>
-      <Destroyer>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Destroyer>
-      <Cruiser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Cruiser>
       <Battleship>
         <NameGroup>
           <Name>Persons - Mythological Heroes</Name>
@@ -322,26 +313,6 @@
         </NameGroup>
       </Juggernaut>
     </Ships>
-    <Stations>
-      <MilitaryStations>
-        <Generic>
-          <NameGroup>
-            <Name></Name>
-              <Values>
-              </Values>
-            </NameGroup>
-          </Generic>
-        </MilitaryStations>
-    </Stations>
-    <Armies>
-      <Fleet>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Fleet>
-    </Armies>
     <Planets>
       <Generic>
         <NameGroup>
@@ -357,21 +328,14 @@
             <string>Tartessos</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>CoDominium - Federacy</Name>
+          <Values>
+            <string>Alexander</string>
+            <string>New Thessaly</string>
+          </Values>
+        </NameGroup>
       </Generic>
-      <Desert>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Desert>
-      <Continental>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Continental>
       <Gaia>
         <NameGroup>
           <Name>Pandora: First Contact - Divine Ascension</Name>
@@ -386,35 +350,6 @@
           </Values>
         </NameGroup>
       </Gaia>
-      <Ocean>
-        <NameGroup>
-          <Name>Rivers</Name>
-          <Values>
-            <string>Istros</string>
-          </Values>
-        </NameGroup>
-      </Ocean>
-      <Tundra>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tundra>
-      <Arctic>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Arctic>
-      <Tomb>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tomb>
       <Alpine>
         <NameGroup>
           <Name>Stellaris - United Nations of Earth</Name>
@@ -423,14 +358,16 @@
             <string>Olympia</string>
           </Values>
         </NameGroup>
-      </Alpine>
-      <Molten>
+      <Alpine>
+      <Ocean>
         <NameGroup>
-          <Name></Name>
+          <Name>Words</Name>
           <Values>
+            <string>Panthalassa</string>
+            <string>Thalassa</string>
           </Values>
         </NameGroup>
-      </Molten>
+      </Ocean>
     </Planets>
     <Characters>
       <CharacterNames>

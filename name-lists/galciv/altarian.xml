@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_galciv_altarian</Id>
+    <Name>GalCiv - Altarian</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Values>
+            <string>Altaria</string>
+            <string>Kynda</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>altarian</Id>
+        <Weight>100</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Netro</string>
+            </Values>
+          </NameGroup>
+        </MaleFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Akari</string>
+              <string>Eleys</string>
+            </Values>
+          </NameGroup>
+        </FemaleFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Values>
+              <string>Mancer</string>
+              <string>Mue</string>
+              <string>Malara</string>
+            </Values>
+          </NameGroup>
+        </SecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

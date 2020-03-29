@@ -61,7 +61,7 @@ function build {
     echo "Building ${NAMELIST_ID}..."
 
     GENERATOR_EXECUTABLE_WITH_ARGS=${GENERATOR_EXECUTABLE}
-    [ "$NAMELIST_ISLOCKED" == "L" ] && GENERATOR_EXECUTABLE_WITH_ARGS="${GENERATOR_EXECUTABLE} -l"
+    [ "${NAMELIST_ISLOCKED}" == "L" ] && GENERATOR_EXECUTABLE_WITH_ARGS="${GENERATOR_EXECUTABLE} --locked"
 
     merge ${NAMELIST_FILE_PATH} $@
     ${GENERATOR_EXECUTABLE_WITH_ARGS} -i "${NAMELIST_FILE_PATH}" -o "${OUTPUT_NAMELIST_FILE_PATH}" -n "${NAMELIST_NAME}"
@@ -99,7 +99,8 @@ build "ui_extra_humans_extended"        "Human - Extended"      "L" \
       human/african human/arabic human/asian human/austronesian human/baltic human/celtic human/english \
       human/french human/germanic human/hellenic human/hindi human/hungarian human/italian human/persian \
       human/portuguese human/roman human/romanian human/slavic human/spanish human/turkic human/common \
-      starcraft/human starwars/human runescape/human other-media/human human/human1 human/human2 human/human3 human/zextended
+      starcraft/human starwars/human galciv/human sose/human runescape/human other-media/human \
+      human/human1 human/human2 human/human3 human/zextended
 
 build "ui_dnd_kobold" "D&D - Kobold" "L" dnd/kobold
 

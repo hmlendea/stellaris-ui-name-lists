@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_galciv_drengin</Id>
+    <Name>GalCiv - Drengin</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Values>
+            <string>Kona</string>
+            <string>Kora</string>
+            <string>Kynda</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>drengi</Id>
+        <Weight>100</Weight>
+        <FirstNames>
+          <NameGroup>
+            <Values>
+              <string>Drengi</string>
+              <string>Kona</string>
+              <string>Krindar</string>
+            </Values>
+          </NameGroup>
+        </FirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Values>
+              <string>A'Aghohl</string>
+            </Values>
+          </NameGroup>
+        </SecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

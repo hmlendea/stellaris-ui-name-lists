@@ -135,15 +135,6 @@
       </Generic>
     </ShipClasses>
     <Stations>
-      <MilitaryStations>
-        <Generic>
-          <NameGroup>
-            <Name></Name>
-            <Values>
-            </Values>
-          </NameGroup>
-        </Generic>
-      </MilitaryStations>
       <Starbases>
         <Outposts>
           <NameGroup>
@@ -159,6 +150,12 @@
           <Name>Research facilities - Half Life</Name>
           <Values>
             <string>Black Mesa</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Research facilities - Portal</Name>
+          <Values>
+            <string>Aperture Science Laboratory</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -487,6 +484,7 @@
         <NameGroup>
           <Name>Places - The Elder Scrolls</Name>
           <Values>
+            <string>Bleakfalls</string>
             <string>Coldharbour</string>
           </Values>
         </NameGroup>

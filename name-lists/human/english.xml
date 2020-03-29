@@ -409,6 +409,7 @@
             <string>Boyington</string>
             <string>McCampbell</string>
             <string>O'Hare</string>
+            <string>Olds</string>
             <string>Rickenbacker</string>
             <string>Yeager</string>
           </Values>
@@ -430,6 +431,7 @@
           <Name>Flying Aces - British</Name>
           <Values>
             <string>MacLachlan</string>
+            <string>Mannock</string>
             <string>Milne</string>
           </Values>
         </NameGroup>
