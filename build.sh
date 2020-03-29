@@ -2,7 +2,7 @@
 
 MOD_ID="ui-name-lists"
 MOD_NAME="Universum Infinitum - Name Lists"
-STELLARIS_VERSION="2.5.*"
+STELLARIS_VERSION="2.6.*"
 
 BUILD_DIRECTORY_PATH="./build"
 OUTPUT_DIRECTORY_PATH="./out"
