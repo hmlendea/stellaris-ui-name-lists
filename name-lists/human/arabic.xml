@@ -241,6 +241,14 @@
           </Values>
         </NameGroup>
       </GeneralsTier2>
+      <LabourDeities>
+        <NameGroup>
+          <Name>Labour Deities</Name>
+          <Values>
+            <string>Qaynan</string>
+          </Values>
+        </NameGroup>
+      </LabourDeities>
     </GreatPeople>
     <Warfare>
       <Weapons>

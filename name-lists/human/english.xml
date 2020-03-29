@@ -349,6 +349,7 @@
         <NameGroup>
           <Name>Scientists - British</Name>
           <Values>
+            <string>Clarke</string>
             <string>Darwin</string>
             <string>Hawking</string>
             <string>Kelvin</string>

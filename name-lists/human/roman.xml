@@ -181,6 +181,14 @@
           </Values>
         </NameGroup>
       </LeadersTier3>
+      <LabourDeities>
+        <NameGroup>
+          <Name>Labour Deities</Name>
+          <Values>
+            <string>Gobannus</string>
+          </Values>
+        </NameGroup>
+      </LabourDeities>
     </GreatPeople>
     <Warfare>
       <Weapons>

@@ -179,6 +179,12 @@
     <Warfare>
       <Weapons>
         <NameGroup>
+          <Name>Artillery</Name>
+          <Values>
+            <string>Polybolos</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Swords</Name>
           <Values>
             <string>Makihara</string>

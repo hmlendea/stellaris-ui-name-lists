@@ -380,6 +380,12 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Scientists - Polish</Name>
+          <Values>
+            <string>Copernicus</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Scientists - Russian</Name>
           <Values>
             <string>Alferov</string>

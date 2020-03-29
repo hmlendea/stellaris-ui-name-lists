@@ -114,6 +114,16 @@
           </Values>
         </NameGroup>
       </LeadersTier3>
+      <LabourDeities>
+        <NameGroup>
+          <Name>Labour Deities</Name>
+          <Values>
+            <string>Bergusia</string>
+            <string>Gobannos</string>
+            <string>Ucuetis</string>
+          </Values>
+        </NameGroup>
+      </LabourDeities>
     </GreatPeople>
     <Warfare>
       <MilitaryUnitTypes>

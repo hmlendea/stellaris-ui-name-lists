@@ -349,6 +349,7 @@
         <NameGroup>
           <Name>Scientists - German</Name>
           <Values>
+            <string>Copernicus</string>
             <string>Einstein</string>
             <string>Haeckel</string>
             <string>Heisenberg</string>
