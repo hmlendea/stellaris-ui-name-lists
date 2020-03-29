@@ -11,6 +11,17 @@
         </Values>
       </NameGroup>
     </Denonyms>
+    <Stations>
+      <ResearchStations>
+        <NameGroup>
+          <Name>Research facilities</Name>
+          <Values>
+            <string>Atler Labs</string>
+            <string>Beymoon Labs</string>
+          </Values>
+        </NameGroup>
+      </ResearchStations>
+    </Stations>
     <Planets>
       <Generic>
         <NameGroup>
