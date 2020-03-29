@@ -480,6 +480,12 @@
               <string>Mandau</string>
             </Values>
           </NameGroup>
+          <NameGroup>
+            <Name>Daggers - Malay</Name>
+            <Values>
+              <string>Karambit</string>
+            </Values>
+          </NameGroup>
         </Daggers>
       </Weapons>
       <MilitaryUnitTypes>

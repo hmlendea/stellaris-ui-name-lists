@@ -91,6 +91,14 @@
     </GreatPeople>
     <Warfare>
       <Weapons>
+        <Artillery>
+          <NameGroup>
+            <Name>Artillery</Name>
+            <Values>
+                <string>Ribauldequin</string>
+            </Values>
+          </NameGroup>
+        </Artillery>
         <Swords>
           <NameGroup>
             <Name>Swords - Iberia</Name>
@@ -110,6 +118,7 @@
         <NameGroup>
           <Name>Military Unit Types - Portuguese</Name>
           <Values>
+            <string>Caçador</string>
             <string>Caravel</string>
             <string>Carrack</string>
           </Values>

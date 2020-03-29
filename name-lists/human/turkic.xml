@@ -71,6 +71,15 @@
     </GreatPeople>
     <Warfare>
       <Weapons>
+        <Artillery>
+          <NameGroup>
+            <Name>Artillery</Name>
+            <Values>
+              <string>Bombard</string>
+              <string>Obüs</string>
+            </Values>
+          </NameGroup>
+        </Artillery>
         <Swords>
           <NameGroup>
             <Name>Swords</Name>
