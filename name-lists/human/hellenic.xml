@@ -159,6 +159,21 @@
           </Values>
         </NameGroup>
       </FlyingAces>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes</Name>
+          <Values>
+            <string>Achilles</string>
+            <string>Aeneas</string>
+            <string>Bellerophon</string>
+            <string>Cadmus</string>
+            <string>Heracles</string>
+            <string>Odysseus</string>
+            <string>Perseus</string>
+            <string>Theseus</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
       <Admirals>
         <NameGroup>
           <Name>Admirals</Name>
@@ -186,6 +201,14 @@
             </Values>
           </NameGroup>
         </Artillery>
+        <Crossbows>
+          <NameGroup>
+            <Name>Crossbows</Name>
+            <Values>
+              <string>Gastraphetes</string>
+            </Values>
+          </NameGroup>
+        </Crossbows>
         <Swords>
           <NameGroup>
             <Name>Swords</Name>
@@ -248,10 +271,12 @@
             <string>Cyclope</string>
             <string>Cyclops</string>
             <string>Cynosura</string>
+            <string>Gorgon</string>
             <string>Griffin</string>
             <string>Gryphon</string>
             <string>Harpy</string>
             <string>Hippogriff</string>
+            <string>Hydra</string>
             <string>Manticore</string>
             <string>Medusa</string>
             <string>Minotaur</string>

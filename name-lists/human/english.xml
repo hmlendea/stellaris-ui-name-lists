@@ -632,6 +632,7 @@
         <NameGroup>
           <Name>Military Unit Types - British</Name>
           <Values>
+            <string>Cavalier</string>
             <string>Highlander</string>
             <string>Longbowman</string>
             <string>Redcoat</string>
@@ -661,6 +662,7 @@
           <Name>Mythological Creatures - British</Name>
           <Values>
             <string>Banshee</string>
+            <string>Enfield</string>
             <string>Spriggan</string>
             <string>Wyvern</string>
           </Values>

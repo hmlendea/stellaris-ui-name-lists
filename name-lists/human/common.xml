@@ -28,11 +28,21 @@
           <NameGroup>
             <Name>Artillery</Name>
             <Values>
+              <string>Bombard</string>
               <string>Catapult</string>
               <string>Trebuchet</string>
             </Values>
           </NameGroup>
         </Artillery>
+        <Guns>
+          <NameGroup>
+            <Name>Guns</Name>
+            <Values>
+              <string>Culverin</string>
+              <string>Harpoon</string>
+            </Values>
+          </NameGroup>
+        </Guns>
         <Crossbows>
           <NameGroup>
             <Name>Crossbows</Name>
@@ -63,6 +73,7 @@
           <NameGroup>
             <Name>Swords</Name>
             <Values>
+              <string>Estoc</string>
               <string>Longsword</string>
               <string>Poignard</string>
               <string>Saber</string>
@@ -120,6 +131,7 @@
             <string>Assassin</string>
             <string>Axeman</string>
             <string>Bowman</string>
+            <string>Buccaneer</string>
             <string>Cavalry</string>
             <string>Chariot</string>
             <string>Cluman</string>
@@ -178,12 +190,14 @@
         <NameGroup>
           <Name>Mythological creatures</Name>
           <Values>
+            <string>Behemoth</string>
             <string>Dragon</string>
             <string>Gargoyle</string>
             <string>Ghost</string>
             <string>Goblin</string>
             <string>Grim Reaper</string>
             <string>Kraken</string>
+            <string>Leviathan</string>
             <string>Mermaid</string>
             <string>Mummy</string>
             <string>Nymph</string>
@@ -218,6 +232,42 @@
       </Starbases>
     </Stations>
     <Armies>
+      <Fleet>
+        <NameGroup>
+          <Name>Fleets - Metals</Name>
+          <Values>
+            <string>The Iron Fleet</string>
+            <string>The Golden Fleet</string>
+            <string>The Silver Fleet</string>
+            <string>The Steel Fleet</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Fleets - Colours</Name>
+          <Values>
+            <string>The Black Fleet</string>
+            <string>The Blue Fleet</string>
+            <string>The Brown Fleet</string>
+            <string>The Burgundy Fleet</string>
+            <string>The Chrome Fleet</string>
+            <string>The Cobalt Fleet</string>
+            <string>The Crimson Fleet</string>
+            <string>The Cyan Fleet</string>
+            <string>The Green Fleet</string>
+            <string>The Lime Fleet</string>
+            <string>The Magenta Fleet</string>
+            <string>The Orange Fleet</string>
+            <string>The Pink Fleet</string>
+            <string>The Purple Fleet</string>
+            <string>The Red Fleet</string>
+            <string>The Teal Fleet</string>
+            <string>The Turqoise Fleet</string>
+            <string>The Violet Fleet</string>
+            <string>The White Fleet</string>
+            <string>The Yellow Fleet</string>
+          </Values>
+        </NameGroup>
+      </Fleet>
       <DefenceArmy>
         <NameGroup>
           <Name>Armies - FantasyNameGenerator</Name>

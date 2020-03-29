@@ -147,6 +147,7 @@
           <Name>Mythological Creatures - Irish</Name>
           <Values>
             <string>Banshee</string>
+            <string>Enfield</string>
           </Values>
         </NameGroup>
       </MythologicalCreatures>

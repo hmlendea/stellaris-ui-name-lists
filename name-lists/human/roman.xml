@@ -189,6 +189,15 @@
           </Values>
         </NameGroup>
       </LabourDeities>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes</Name>
+          <Values>
+            <string>Hercules</string>
+            <string>Ulysses</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
     </GreatPeople>
     <Warfare>
       <Weapons>
@@ -206,6 +215,7 @@
             <Name>Javelins</Name>
             <Values>
               <string>Lancea</string>
+              <string>Pilum</string>
               <string>Verutum</string>
             </Values>
           </NameGroup>
@@ -290,6 +300,7 @@
           <Name>Mythological Creatures</Name>
           <Values>
             <string>Daemon</string>
+            <string>Hydra</string>
             <string>Incubus</string>
             <string>Succubus</string>
           </Values>

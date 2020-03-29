@@ -564,15 +564,21 @@
           <NameGroup>
             <Name>Guns - Russian</Name>
             <Values>
-            <string>Kalashnikov</string>
+              <string>Kalashnikov</string>
             </Values>
           </NameGroup>
         </Guns>
         <Swords>
           <NameGroup>
+            <Name>Swords - Polish</Name>
+            <Values>
+              <string>Koncerz</string>
+            </Values>
+          </NameGroup>
+          <NameGroup>
             <Name>Swords - Russian</Name>
             <Values>
-            <string>Shashka</string>
+              <string>Shashka</string>
             </Values>
           </NameGroup>
         </Swords>

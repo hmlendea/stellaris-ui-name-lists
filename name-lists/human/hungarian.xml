@@ -82,6 +82,16 @@
         </NameGroup>
       </LeadersTier1>
     </GreatPeople>
+    <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types</Name>
+          <Values>
+            <string>Szekler</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
     <Armies>
       <Fleet>
         <NameGroup>
