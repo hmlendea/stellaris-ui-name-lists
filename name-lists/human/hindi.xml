@@ -272,6 +272,14 @@
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
+      <ShipTypes>
+        <NameGroup>
+          <Name>Ship Types - Nepali</Name>
+          <Values>
+            <string>Bawarij</string>
+          </Values>
+        </NameGroup>
+      </ShipTypes>
     </Warfare>
     <BiosphereNames>
       <MythologicalCreatures>

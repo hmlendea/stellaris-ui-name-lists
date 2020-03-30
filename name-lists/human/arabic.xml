@@ -274,10 +274,21 @@
           <Name>Military Unit Types</Name>
           <Values>
             <string>Anṣâr</string>
+            <string>Hashashim</string>
             <string>Mamluk</string>
+            <string>Tabardariyya</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
+      <ShipTypes>
+        <NameGroup>
+          <Name>Ship Types</Name>
+          <Values>
+            <string>Baghlah</string>
+            <string>Dhow</string>
+          </Values>
+        </NameGroup>
+      </ShipTypes>
     </Warfare>
     <Ships>
       <Generic />

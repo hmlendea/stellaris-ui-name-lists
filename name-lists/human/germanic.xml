@@ -626,7 +626,14 @@
             <string>Doppelsöldner</string>
             <string>Landsknechte</string>
             <string>Panzer</string>
+            <string>Reiter</string>
             <string>Volksgrenadier</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Viking</Name>
+          <Values>
+            <string>Huskarl</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -636,6 +643,14 @@
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
+      <ShipTypes>
+        <NameGroup>
+          <Name>Ship Types - Viking</Name>
+          <Values>
+            <string>Longboat</string>
+          </Values>
+        </NameGroup>
+      </ShipTypes>
       <BattleLocations>
         <NameGroup>
           <Name>Battle locations</Name>

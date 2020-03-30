@@ -215,6 +215,14 @@
             </Values>
           </NameGroup>
         </Crossbows>
+        <Polearms>
+          <NameGroup>
+            <Name>Crossbows</Name>
+            <Values>
+              <string>Voulgg</string>
+            </Values>
+          </NameGroup>
+        </Polearms>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
@@ -225,6 +233,7 @@
             <string>Cuirassier</string>
             <string>Gendarme</string>
             <string>Musketeer</string>
+            <string>Voulgier</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>

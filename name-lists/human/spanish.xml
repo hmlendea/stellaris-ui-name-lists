@@ -402,6 +402,7 @@
         <NameGroup>
           <Name>Military Unit Types - Spanish</Name>
           <Values>
+            <string>Almogávar</string>
             <string>Conquistador</string>
             <string>Jinete</string>
             <string>Rodolero</string>

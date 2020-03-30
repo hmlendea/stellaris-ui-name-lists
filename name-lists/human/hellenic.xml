@@ -248,10 +248,18 @@
             <string>Hoplite</string>
             <string>Hoplomachus</string>
             <string>Hypaspist</string>
+            <string>Koursor</string>
+            <string>Latinikon</string>
             <string>Myrmidon</string>
             <string>Phalanx</string>
             <string>Stratioti</string>
             <string>Varangian</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Ship Types</Name>
+          <Values>
+            <string>Dromon</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
