@@ -79,6 +79,7 @@
         <NameGroup>
           <Name>Military Unit Types</Name>
           <Values>
+            <string>Banderium</string>
             <string>Szekler</string>
           </Values>
         </NameGroup>

@@ -118,9 +118,11 @@
         <NameGroup>
           <Name>Military Unit Types - Portuguese</Name>
           <Values>
+            <string>Almogávar</string>
             <string>Caçador</string>
             <string>Caravel</string>
             <string>Carrack</string>
+            <string>Jinete</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>

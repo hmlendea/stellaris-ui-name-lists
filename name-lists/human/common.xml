@@ -97,6 +97,7 @@
           <NameGroup>
             <Name>Polearms</Name>
             <Values>
+              <string>Bardiche</string>
               <string>Glaive</string>
               <string>Halberd</string>
               <string>Harpoon</string>
@@ -140,8 +141,10 @@
             <string>Cluman</string>
             <string>Corsair</string>
             <string>Crossbowman</string>
+            <string>Gunner</string>
             <string>Halberdier</string>
             <string>Hussar</string>
+            <string>Javelinman</string>
             <string>Knight</string>
             <string>Lancer</string>
             <string>Paladin</string>

@@ -95,6 +95,7 @@
         <NameGroup>
           <Name>Military Unit Types - Turk</Name>
           <Values>
+            <string>Azap</string>
             <string>Janissary</string>
             <string>Sipahi</string>
           </Values>

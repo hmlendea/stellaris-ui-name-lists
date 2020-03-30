@@ -614,6 +614,12 @@
             <string>Strelet</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Ukrainian</Name>
+          <Values>
+            <string>Druzhina</string>
+          </Values>
+        </NameGroup>
       </MilitaryUnitTypes>
       <BattleLocations>
         <NameGroup>
