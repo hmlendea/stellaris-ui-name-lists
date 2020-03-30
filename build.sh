@@ -124,6 +124,7 @@ build "ui_extra_avi1" "Extra - Avian 1"         "R" ui/avi1
 build "ui_extra_avi2" "Extra - Avian 2"         "R" ui/avi2
 build "ui_extra_fun1" "Extra - Fungoid 1"       "R" ui/fun1
 build "ui_extra_hum1" "Extra - Humanoid 1"      "R" ui/hum1
+build "ui_extra_hum2" "Extra - Humanoid 2"      "R" ui/hum2
 build "ui_extra_mam1" "Extra - Mammalian 1"     "R" ui/mam1
 build "ui_extra_mam2" "Extra - Mammalian 2"     "R" ui/mam2
 build "ui_extra_mol1" "Extra - Molluscoid 1"    "R" ui/mol1
