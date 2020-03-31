@@ -469,6 +469,12 @@
       </LeadersTier3>
       <FlyingAces>
         <NameGroup>
+          <Name>Flying Aces - Polish</Name>
+          <Values>
+            <string>Skalski</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Flying Aces - Russian</Name>
           <Values>
             <string>Kozhedub</string>
@@ -689,6 +695,30 @@
         </NameGroup>
       </Coloniser>
     </Ships>
+    <Armies>
+      <Fleet>
+        <NameGroup>
+          <Name>Fleets</Name>
+          <Values>
+            <string>Iron Curtain Fleet</string>
+          </Values>
+        </NameGroup>
+      </Fleet>
+      <FleetSequentialName>%0% Navy</FleetSequentialName>
+      <DefenceArmySequentialName>%0% Guardians</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%0% Battle Regiment</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Peacekeepers</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%0% Disciplinary Battallion</SlaveArmySequentialName>
+      <CloneArmySequentialName>%0% Clone Battallion</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%0% Robotic Guardians</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%0% Robotic Force</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Robotic Peacekeepers</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%0% Android Guardians</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%0% Android Force</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%0% Psi-Spetsnaz Squad</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%0% Abomination Pack</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%0% Spetsnaz Squad</SuperSoldierArmySequentialName>
+    </Armies>
     <Planets>
       <Generic>
         <NameGroup>
@@ -761,6 +791,22 @@
           </Values>
         </NameGroup>
       </Ocean>
+      <Tundra>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>Rus</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+      <Arctic>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>Siberia</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
       <Tomb>
         <NameGroup>
           <Name>Devastated places on Earth</Name>

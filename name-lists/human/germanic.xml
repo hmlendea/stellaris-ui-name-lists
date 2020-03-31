@@ -670,13 +670,6 @@
           </Values>
         </NameGroup>
       </BattleLocations>
-      <BattleLocations>
-        <NameGroup>
-          <Name>Battle locations - </Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </BattleLocations>
     </Warfare>
     <BiosphereNames>
       <MythologicalCreatures>
@@ -748,6 +741,12 @@
           <Name>Vanilla</Name>
           <Values>
             <string>Ragnarök</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+            <string>Heisenberg</string>
           </Values>
         </NameGroup>
       </Juggernaut>
@@ -944,7 +943,6 @@
         <NameGroup>
           <Name>Based on rivers</Name>
           <Values>
-            <string>Danubia</string>
             <string>Elba</string>
             <string>Rheinland</string>
           </Values>

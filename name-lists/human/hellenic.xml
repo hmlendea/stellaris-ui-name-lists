@@ -177,6 +177,7 @@
         <NameGroup>
           <Name>Admirals</Name>
           <Values>
+            <string>Kountouriotis</string>
             <string>Lysander</string>
           </Values>
         </NameGroup>
@@ -312,6 +313,20 @@
           </Values>
         </NameGroup>
       </Battleship>
+      <Titan>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+            <string>Heracles</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>Pegasus</string>
+          </Values>
+        </NameGroup>
+      </Titan>
       <Juggernaut>
         <NameGroup>
           <Name>Vanilla</Name>
@@ -324,6 +339,13 @@
     <Planets>
       <Generic>
         <NameGroup>
+          <Name>CoDominium - Federacy</Name>
+          <Values>
+            <string>Alexander</string>
+            <string>New Thessaly</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Pandora: First Contact - Terra Salvum</Name>
           <Values>
             <string>Aristotle</string>
@@ -333,18 +355,51 @@
           <Name>Stellaris - Commonwealth of Man</Name>
           <Values>
             <string>Destinikon</string>
+            <string>Rhea</string>
             <string>Tartessos</string>
+            <string>Tethys</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>CoDominium - Federacy</Name>
+          <Name>Stellaris - United Nations of Earth</Name>
           <Values>
-            <string>Alexander</string>
-            <string>New Thessaly</string>
+            <string>New Troy</string>
+            <string>Olympia</string>
+            <string>Theia</string>
           </Values>
         </NameGroup>
       </Generic>
+      <Arid>
+        <NameGroup>
+          <Name>Stellaris - Commonwealth of Man</Name>
+          <Values>
+            <string>Tartarus</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>Jaxartes</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Continental>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>Delphi</string>
+            <string>Myndos</string>
+            <string>Thebes</string>
+          </Values>
+        </NameGroup>
+      </Continental>
       <Gaia>
+        <NameGroup>
+          <Name>Mythology - Places</Name>
+          <Values>
+            <string>Elysium</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Pandora: First Contact - Divine Ascension</Name>
           <Values>
@@ -352,9 +407,9 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Mythology - Places</Name>
+          <Name>Stellaris - Commonwealth of Man</Name>
           <Values>
-            <string>Elysium</string>
+            <string>Apollonia</string>
           </Values>
         </NameGroup>
       </Gaia>
@@ -376,6 +431,15 @@
           </Values>
         </NameGroup>
       </Ocean>
+      <Arctic>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>Hyperborea</string>
+            <string>Thule</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
     </Planets>
     <Characters>
       <CharacterNames>

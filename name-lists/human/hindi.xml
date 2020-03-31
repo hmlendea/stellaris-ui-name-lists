@@ -150,6 +150,14 @@
           </Values>
         </NameGroup>
       </Mountains>
+      <Forests>
+        <NameGroup>
+          <Name>Forests - Bangladesh</Name>
+          <Values>
+            <string>Bengal</string>
+          </Values>
+        </NameGroup>
+      </Forests>
       <Rivers>
         <NameGroup>
           <Name>Rivers</Name>
@@ -159,13 +167,6 @@
           </Values>
         </NameGroup>
       </Rivers>
-      <Mountains>
-        <NameGroup>
-          <Name>Mountains - </Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Mountains>
       <Deserts>
         <NameGroup>
           <Name>Deserts - Pakistan</Name>

@@ -325,6 +325,14 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Arid>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>Larzac</string>
+          </Values>
+        </NameGroup>
+      </Arid>
       <Gaia>
         <NameGroup>
           <Name>Mythology - Places - French</Name>

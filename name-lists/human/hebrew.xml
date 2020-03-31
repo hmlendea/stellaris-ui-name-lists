@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>human_baltic</Id>
-    <Name>Human - Baltic</Name>
+    <Id>human_hebrew</Id>
+    <Name>Human - Hebrew</Name>
     <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
           <string>Hebrew</string>
-          <string>Israeite</string>
+          <string>Israelite</string>
           <string>Jew</string>
         </Values>
       </NameGroup>
@@ -79,6 +79,14 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts</Name>
+          <Values>
+            <string>Negev</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
     </Places>
     <Warfare>
       <Weapons>
@@ -93,4 +101,14 @@
       </Weapons>
     </Warfare>
   </NameList>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>New Jerusalem</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
 </ArrayOfNameList>

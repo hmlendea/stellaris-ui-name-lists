@@ -33,6 +33,15 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts - Turkmenistan</Name>
+          <Values>
+            <string>Kara Kum</string>
+            <string>Kyzyl Kum</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
       <Seas>
         <NameGroup>
           <Name>Seas</Name>
@@ -101,6 +110,14 @@
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations</Name>
+          <Values>
+            <string>Gallipoli</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
     </Warfare>
     <Characters>
       <CharacterNames>

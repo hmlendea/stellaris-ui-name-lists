@@ -190,6 +190,22 @@
           </Values>
         </NameGroup>
       </FlyingAces>
+      <Heroes>
+        <NameGroup>
+          <Name>Herres</Name>
+          <Values>
+            <string>Teodoroiu</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+      <GeneralsTier2>
+        <NameGroup>
+          <Name>Generals</Name>
+          <Values>
+            <string>Antonescu</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier2>
     </GreatPeople>
     <Warfare>
       <Weapons>
@@ -256,48 +272,22 @@
       </Starbases>
     </Stations>
     <Planets>
-      <Generic>
+      <Arid>
         <NameGroup>
-          <Name></Name>
+          <Name>Stellaris - United Nations of Earth</Name>
           <Values>
+            <string>Oltenia</string>
           </Values>
         </NameGroup>
-      </Generic>
-      <Desert>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Desert>
-      <Continental>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Continental>
+      </Arid>
       <Ocean>
         <NameGroup>
-          <Name></Name>
+          <Name>Stellaris - United Nations of Earth</Name>
           <Values>
+            <string>Euxina</string>
           </Values>
         </NameGroup>
       </Ocean>
-      <Tundra>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tundra>
-      <Arctic>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Arctic>
       <Tomb>
         <NameGroup>
           <Name>Trashed places</Name>
@@ -306,20 +296,6 @@
           </Values>
         </NameGroup>
       </Tomb>
-      <Alpine>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Alpine>
-      <Molten>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Molten>
     </Planets>
     <Characters>
       <CharacterNames>

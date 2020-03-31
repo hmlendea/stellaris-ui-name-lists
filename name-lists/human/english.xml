@@ -818,6 +818,12 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Stellaris - United Nations of Earth - British</Name>
+          <Values>
+            <string>Avalon</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Civilisation: Beyond Earth - American Reclamation Corporation</Name>
           <Values>
             <string>Amity</string>
@@ -866,6 +872,7 @@
           <Values>
             <string>Gibson</string>
             <string>Simpson</string>
+            <string>Tanami</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -883,6 +890,15 @@
           </Values>
         </NameGroup>
       </Continental>
+      <Arctic>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>Baffin</string>
+            <string>Alaska</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
     </Planets>
     <Characters>
       <CharacterNames>
