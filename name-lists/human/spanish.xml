@@ -309,8 +309,6 @@
             <string>Patagonia</string>
           </Values>
         </NameGroup>
-      </Deserts>
-      <Deserts>
         <NameGroup>
           <Name>Deserts - Chile</Name>
           <Values>
@@ -318,9 +316,21 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Deserts - Mexico</Name>
+          <Values>
+            <string>Sonora</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Deserts - Peru</Name>
           <Values>
             <string>Nazca</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Deserts - Spain</Name>
+          <Values>
+            <string>Tabernas</string>
           </Values>
         </NameGroup>
       </Deserts>

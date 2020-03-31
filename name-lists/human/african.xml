@@ -640,8 +640,10 @@
         <NameGroup>
           <Name>Animals</Name>
           <Values>
+            <string>Aardvark</string>
             <string>Dromedary</string>
             <string>Elephant</string>
+            <string>Nicator</string>
           </Values>
         </NameGroup>
       </Animals>

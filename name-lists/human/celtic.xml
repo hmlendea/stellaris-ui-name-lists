@@ -81,7 +81,7 @@
       <LeadersTier1>
         <NameGroup>
           <Name>Leaders</Name>
-          <Values>
+          <Values>Scathach
             <string>Gwendolen</string>
             <string>Muirisc</string>
           </Values>
@@ -115,6 +115,20 @@
           </Values>
         </NameGroup>
       </LeadersTier3>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - Scottish</Name>
+          <Values>
+            <string>Scáthach</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Heroes - British</Name>
+          <Values>
+            <string>Robin Hood</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
       <LabourDeities>
         <NameGroup>
           <Name>Labour Deities</Name>

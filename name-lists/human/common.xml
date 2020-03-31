@@ -14,6 +14,16 @@
         </Values>
       </NameGroup>
     </Denonyms>
+    <Regions>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains - Mars</Name>
+          <Values>
+            <string>Olympus Mons</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+    </Regions>
     <Companies>
       <AircraftManufacturers>
         <NameGroup>
@@ -75,6 +85,7 @@
           <NameGroup>
             <Name>Swords</Name>
             <Values>
+              <string>Claymore</string>
               <string>Estoc</string>
               <string>Longsword</string>
               <string>Poignard</string>
@@ -147,6 +158,7 @@
             <string>Javelinman</string>
             <string>Knight</string>
             <string>Lancer</string>
+            <string>Marksman</string>
             <string>Paladin</string>
             <string>Pikeman</string>
             <string>Privateer</string>
@@ -164,10 +176,12 @@
         <NameGroup>
           <Name>Animals</Name>
           <Values>
+            <string>Accentor</string>
             <string>Albatross</string>
             <string>Alligator</string>
             <string>Anaconda</string>
             <string>Antilope</string>
+            <string>Armadillo</string>
             <string>Badger</string>
             <string>Cobra</string>
             <string>Eagle</string>
@@ -222,6 +236,19 @@
         </NameGroup>
       </MythologicalCreatures>
     </BiosphereNames>
+    <Ships>
+      <Juggernaut>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+            <string>Armageddon</string>
+            <string>Calamity</string>
+            <string>God's Whip</string>
+            <string>Judgement Day</string>
+          </Values>
+        </NameGroup>
+      </Juggernaut>
+    </Ships>
     <Stations>
       <Starbases>
         <Outposts>
@@ -404,8 +431,9 @@
       </Tundra>
       <Arctic>
         <NameGroup>
-          <Name></Name>
+          <Name>Stellaris - United Nations of Earth</Name>
           <Values>
+            <string>Arctica</string>
           </Values>
         </NameGroup>
       </Arctic>

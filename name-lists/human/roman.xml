@@ -203,6 +203,14 @@
             </Values>
           </NameGroup>
         </Artillery>
+        <Bows>
+          <NameGroup>
+            <Name>Bows</Name>
+            <Values>
+              <string>Plumbata</string>
+            </Values>
+          </NameGroup>
+        </Bows>
         <Javelins>
           <NameGroup>
             <Name>Javelins</Name>
@@ -295,12 +303,21 @@
             <string>Daemon</string>
             <string>Hydra</string>
             <string>Incubus</string>
+            <string>Phoenix</string>
             <string>Succubus</string>
           </Values>
         </NameGroup>
       </MythologicalCreatures>
     </BiosphereNames>
     <Ships>
+      <Titan>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>Hercules</string>
+          </Values>
+        </NameGroup>
+      </Titan>
       <Colossus>
         <NameGroup>
           <Name>Vanilla</Name>
@@ -434,12 +451,71 @@
             <string>Seginus</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - SPQR</Name>
+          <Values>
+            <string>Acherusia</string>
+            <string>Antiochia</string>
+            <string>Aquilo</string>
+            <string>Argyre</string>
+            <string>Ascrivium</string>
+            <string>Auster</string>
+            <string>Brigantium</string>
+            <string>Caledonia</string>
+            <string>Colonia Augusta</string>
+            <string>Colonia Aurora</string>
+            <string>Colonia Emerita</string>
+            <string>Colonia Pacifica</string>
+            <string>Colonia Traiana</string>
+            <string>Eboracum</string>
+            <string>Eurus</string>
+            <string>Favonius</string>
+            <string>Hades</string>
+            <string>Hesperides</string>
+            <string>Hibernia</string>
+            <string>Hyperborea</string>
+            <string>Ithaca</string>
+            <string>Lyrcea</string>
+            <string>Lyrnessus</string>
+            <string>Neritum</string>
+            <string>Nova Aegyptus</string>
+            <string>Nova Parthia</string>
+            <string>Nova Serica</string>
+            <string>Nysa</string>
+            <string>Panchaea</string>
+            <string>Patavium</string>
+            <string>Pedasus</string>
+            <string>Phlegra</string>
+            <string>Rhegium</string>
+            <string>Scandia</string>
+            <string>Silpium</string>
+            <string>Spalatum</string>
+            <string>Telepylos</string>
+            <string>Thrinacia</string>
+            <string>Tritonis</string>
+          </Values>
+        </NameGroup>
       </Generic>
+      <Arid>
+        <NameGroup>
+          <Name>Stellaris - Commonwealth of Man</Name>
+          <Values>
+            <string>Nova Antioch</string>
+            <string>Tartarus</string>
+          </Values>
+        </NameGroup>
+      </Arid>
       <Desert>
         <NameGroup>
-          <Name>Places</Name>
+          <Name>Stellaris - SPQR</Name>
           <Values>
             <string>Nova Arabia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - Commonwealth of Man</Name>
+          <Values>
+            <string>Nova Alexandria</string>
           </Values>
         </NameGroup>
       </Desert>
@@ -447,7 +523,15 @@
         <NameGroup>
           <Name>Places</Name>
           <Values>
+            <string>Illyria</string>
             <string>Nova Roma</string>
+            <string>Scythia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>Terra Nova</string>
           </Values>
         </NameGroup>
       </Continental>
@@ -461,20 +545,6 @@
           </Values>
         </NameGroup>
       </Ocean>
-      <Tundra>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tundra>
-      <Arctic>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Arctic>
       <Tomb>
         <NameGroup>
           <Name></Name>
@@ -483,20 +553,53 @@
           </Values>
         </NameGroup>
       </Tomb>
+      <Gaia>
+        <NameGroup>
+          <Name>Mythology - Places</Name>
+          <Values>
+            <string>Elysium</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - Commonwealth of Man</Name>
+          <Values>
+            <string>Nova Babylon</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Ocean>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>Euxina</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Tundra>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>Nova Samarkand</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+      <Arctic>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>Hyperborea</string>
+            <string>Thule</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
       <Alpine>
         <NameGroup>
-          <Name></Name>
+          <Name>Stellaris - SPQR</Name>
           <Values>
+            <string>Olympia</string>
           </Values>
         </NameGroup>
       </Alpine>
-      <Molten>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Molten>
     </Planets>
     <Characters>
       <CharacterNames>
