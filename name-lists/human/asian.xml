@@ -11,7 +11,6 @@
           <string>Chinese</string>
           <string>Indonesian</string>
           <string>Japanese</string>
-          <string>Korean</string>
           <string>Malysian</string>
           <string>Mongol</string>
           <string>Mongolian</string>
@@ -27,7 +26,6 @@
           <Values>
             <string>China</string>
             <string>Japan</string>
-            <string>Korea</string>
             <string>Mongolia</string>
             <string>Taiwan</string>
             <string>Tibet</string>
@@ -188,42 +186,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Korea</Name>
-          <Values>
-            <string>Ansan</string>
-            <string>Bucheon</string>
-            <string>Busan</string>
-            <string>Changwon</string>
-            <string>Cheonan</string>
-            <string>Cheongju</string>
-            <string>Chongjin</string>
-            <string>Daegu</string>
-            <string>Daejeon</string>
-            <string>Goyang</string>
-            <string>Gwangju</string>
-            <string>Haeju</string>
-            <string>Hamhung</string>
-            <string>Incheon</string>
-            <string>Jeonju</string>
-            <string>Kaechon</string>
-            <string>Kaesong</string>
-            <string>Nampo</string>
-            <string>Namyangju</string>
-            <string>Pyongsong</string>
-            <string>Pyongyang</string>
-            <string>Sariwon</string>
-            <string>Seongnam</string>
-            <string>Seoul</string>
-            <string>Sinuiju</string>
-            <string>Sunchon</string>
-            <string>Suwon</string>
-            <string>Tanchon</string>
-            <string>Ulsan</string>
-            <string>Wonsan</string>
-            <string>Yongin</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Mongolia</Name>
           <Values>
             <string>Ulan Bator</string>
@@ -271,6 +233,15 @@
             <string>Chomolungma</string>
             <string>Everest</string>
             <string>Zhumulangma</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mountains - Japan</Name>
+          <Values>
+            <string>Fuji</string>
+            <string>Gassan</string>
+            <string>Haguro</string>
+            <string>Yudono</string>
           </Values>
         </NameGroup>
       </Mountains>
@@ -338,13 +309,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Leaders - Korean</Name>
-          <Values>
-            <string>Sejong</string>
-            <string>Seondeok</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Leaders - Mongol</Name>
           <Values>
             <string>Kublai Khan</string>
@@ -364,12 +328,6 @@
             <string>Changping</string>
             <string>Chiang Kai-shek</string>
             <string>Xiaoping</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Leaders - Korean</Name>
-          <Values>
-            <string>Wang Kǒn</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -428,12 +386,6 @@
             <string>Tanaka</string>
             <string>Yamamoto</string>
             <string>Yonai</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Admirals - Korean</Name>
-          <Values>
-            <string>Yi Sun-sin</string>
           </Values>
         </NameGroup>
       </Admirals>
@@ -507,24 +459,36 @@
             <string>Toyota</string>
           </Values>
         </NameGroup>
+      </AutomotiveManufacturers>
+      <AircraftManufacturers>
         <NameGroup>
-          <Name>Vehicle Manufacturers - Korean</Name>
+          <Name>Aircraft manufacturers - Chinese</Name>
           <Values>
-            <string>Hyundai</string>
+            <string>Changhe</string>
+            <string>Hafei</string>
+            <string>Hongdu</string>
+            <string>Comac</string>
           </Values>
         </NameGroup>
-      </AutomotiveManufacturers>
+        <NameGroup>
+          <Name>Aircraft manufacturers - Japanese</Name>
+          <Values>
+            <string>Kawasaki</string>
+          </Values>
+        </NameGroup>
+      </AircraftManufacturers>
+      <SpacecraftManufacturers>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Japanese</Name>
+          <Values>
+            <string>IHI</string>
+            <string>Mitsubishi</string>
+          </Values>
+        </NameGroup>
+      </SpacecraftManufacturers>
     </Companies>
     <Warfare>
       <Weapons>
-        <Artillery>
-          <NameGroup>
-            <Name>Artillery - Korean</Name>
-            <Values>
-              <string>Hwach'a</string>
-            </Values>
-          </NameGroup>
-        </Artillery>
         <Crossbows>
           <NameGroup>
             <Name>Crossbows - Chinese</Name>
@@ -582,12 +546,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Military Unit Types - Korean</Name>
-          <Values>
-            <string>Hwarang</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Military Unit Types - Mongol</Name>
           <Values>
             <string>Keshig</string>
@@ -601,14 +559,6 @@
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
-      <BattleLocations>
-        <NameGroup>
-          <Name>Battle locations - Korea</Name>
-          <Values>
-            <string>Incheon</string>
-          </Values>
-        </NameGroup>
-      </BattleLocations>
     </Warfare>
     <Ships>
       <Corvette>
@@ -668,38 +618,6 @@
         </NameGroup>
       </Transport>
     </Ships>
-    <ShipClasses>
-      <Generic>
-        <NameGroup>
-          <Name>Spacecraft manufacturers - Japanese</Name>
-          <Values>
-            <string>IHI</string>
-            <string>Mitsubishi</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Spacecraft manufacturers - Korean</Name>
-          <Values>
-            <string>Satrec</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Aircraft manufacturers - Chinese</Name>
-          <Values>
-            <string>Changhe</string>
-            <string>Hafei</string>
-            <string>Hongdu</string>
-            <string>Comac</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Aircraft manufacturers - Japanese</Name>
-          <Values>
-            <string>Kawasaki</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </ShipClasses>
     <Armies>
       <SuperSoldiers>
         <NameGroup>
@@ -768,13 +686,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Pan-Asian Cooperative - Korean</Name>
-          <Values>
-            <string>Hyugeso</string>
-            <string>Sinjeon</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Civilisation: Beyond Earth - Pan-Asian Cooperative - Mongolian</Name>
           <Values>
             <string>Adislal</string>
@@ -790,30 +701,6 @@
             <string>Quyen</string>
             <string>Thanh</string>
             <string>Troi</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - Chungsu - Korean</Name>
-          <Values>
-            <string>Jeongsang</string>
-            <string>Dangye</string>
-            <string>Uimu</string>
-            <string>Yagsog</string>
-            <string>Jibae</string>
-            <string>Cheongchija</string>
-            <string>Bojeung</string>
-            <string>Gamsa</string>
-            <string>Ihae</string>
-            <string>Junbi</string>
-            <string>Gwanchalja</string>
-            <string>Chul</string>
-            <string>Sinnyeom</string>
-            <string>Tong-Gwa</string>
-            <string>Pangyeol</string>
-            <string>Mogjeog</string>
-            <string>Pungbu</string>
-            <string>Insig</string>
-            <string>Pinancheo</string>
           </Values>
         </NameGroup>
       </Generic>
@@ -873,7 +760,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Vanilla HUMAN1</Name>
+          <Name>Stellaris - United Nations of Earth - Mongolian</Name>
           <Values>
             <string>Xanadu</string>
           </Values>
@@ -881,7 +768,7 @@
       </Gaia>
       <Ocean>
         <NameGroup>
-          <Name>Vanilla HUMAN1</Name>
+          <Name>Stellaris - United Nations of Earth - Chinese</Name>
           <Values>
             <string>Ningbo</string>
           </Values>
@@ -895,7 +782,7 @@
       </Ocean>
       <Tundra>
         <NameGroup>
-          <Name>Vanilla HUMAN1</Name>
+          <Name>Stellaris - United Nations of Earth - Chinese</Name>
           <Values>
             <string>Taiyuan</string>
           </Values>
@@ -911,24 +798,6 @@
           </Values>
         </NameGroup>
       </Tomb>
-      <Alpine>
-        <NameGroup>
-          <Name>Mountains</Name>
-          <Values>
-            <string>Himalaya</string>
-            <string>Chomolungma</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Mountains - Japan</Name>
-          <Values>
-            <string>Fuji</string>
-            <string>Gassan</string>
-            <string>Haguro</string>
-            <string>Yudono</string>
-          </Values>
-        </NameGroup>
-      </Alpine>
       <Molten>
         <NameGroup>
           <Name>Mythology - Places - Chinese</Name>
