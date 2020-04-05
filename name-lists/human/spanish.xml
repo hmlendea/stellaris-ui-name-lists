@@ -382,6 +382,16 @@
         </NameGroup>
       </LeadersTier3>
     </GreatPeople>
+    <Companies>
+      <SpacecraftManufacturers>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Argentinian</Name>
+          <Values>
+            <string>INVAP</string>
+          </Values>
+        </NameGroup>
+      </SpacecraftManufacturers>
+    </Companies>
     <Warfare>
       <Weapons>
         <Swords>
@@ -420,16 +430,6 @@
         </NameGroup>
       </BattleLocations>
     </Warfare>
-    <ShipClasses>
-      <Generic>
-        <NameGroup>
-          <Name>Spacecraft manufacturers - Argentinian</Name>
-          <Values>
-            <string>INVAP</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </ShipClasses>
     <Planets>
       <Generic>
         <NameGroup>
@@ -506,8 +506,6 @@
             <string>El Dorado</string>
           </Values>
         </NameGroup>
-      </Gaia>
-      <Gaia>
         <NameGroup>
           <Name>Pandora: First Contact - Terra Salvum</Name>
           <Values>
