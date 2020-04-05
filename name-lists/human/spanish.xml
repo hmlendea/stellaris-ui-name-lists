@@ -25,7 +25,6 @@
           <Name>Countries</Name>
           <Values>
             <string>Argentina</string>
-            <string>Catalonia</string>
             <string>Colombia</string>
             <string>Cuba</string>
             <string>Ecuador</string>
@@ -111,7 +110,6 @@
             <string>Basque</string>
             <string>Cantabria</string>
             <string>Castila</string>
-            <string>Catalonia</string>
             <string>Extremadura</string>
             <string>Galicia</string>
             <string>Leon</string>
@@ -134,13 +132,6 @@
           <Name>Cities - Argentina</Name>
           <Values>
             <string>Buenos Aires</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Catalonia</Name>
-          <Values>
-            <string>Barcelona</string>
-            <string>Valencia</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -479,12 +470,6 @@
             <string>Igoa</string>
             <string>Izar</string>
             <string>Kemena</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - Franco-Iberia - Catalan</Name>
-          <Values>
-            <string>Filoteu</string>
           </Values>
         </NameGroup>
         <NameGroup>
