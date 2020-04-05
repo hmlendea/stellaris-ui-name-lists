@@ -254,6 +254,22 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts - Australia</Name>
+          <Values>
+            <string>Gibson</string>
+            <string>Simpson</string>
+            <string>Tanami</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Deserts - United States</Name>
+          <Values>
+            <string>Mojave</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
       <Rivers>
         <NameGroup>
           <Name>Rivers - England</Name>
@@ -866,22 +882,6 @@
           </Values>
         </NameGroup>
       </Generic>
-      <Desert>
-        <NameGroup>
-          <Name>Deserts - Australia</Name>
-          <Values>
-            <string>Gibson</string>
-            <string>Simpson</string>
-            <string>Tanami</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Deserts - United States</Name>
-          <Values>
-            <string>Mojave</string>
-          </Values>
-        </NameGroup>
-      </Desert>
       <Continental>
         <NameGroup>
           <Name>Mythology - Places - English</Name>

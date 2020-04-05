@@ -92,7 +92,8 @@
         <NameGroup>
           <Name>Seas</Name>
           <Values>
-            <string>Adriatic</string>
+            <string>Adriatica</string>
+            <string>Tyrrhenia</string>
           </Values>
         </NameGroup>
       </Seas>
@@ -158,6 +159,34 @@
     <Planets>
       <Generic>
         <NameGroup>
+          <Name>Civilisation: Beyond Earth - Brasilia - Translated</Name>
+          <Values>
+            <string>Torre</string>
+            <string>Salire</string>
+            <string>Benedizione</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Franco-Iberia - Translated</Name>
+          <Values>
+            <string>Coraggio</string>
+            <string>Cresciuto</string>
+            <string>Fedele</string>
+            <string>Gloria</string>
+            <string>Grande Successo</string>
+            <string>Il Cuore</string>
+            <string>Luminosa</string>
+            <string>Onorato</string>
+            <string>Pacifico</string>
+            <string>Prosperità</string>
+            <string>Protezione</string>
+            <string>Scudo</string>
+            <string>Speranza</string>
+            <string>Stella</string>
+            <string>Valienta</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Pandora: First Contact - Noxium Corporation</Name>
           <Values>
             <string>Bardi</string>
@@ -165,15 +194,22 @@
           </Values>
         </NameGroup>
       </Generic>
-      <Ocean>
+      <Gaia>
         <NameGroup>
-          <Name>Places</Name>
+          <Name>Civilisation: Beyond Earth - Franco-Iberia - Translated</Name>
           <Values>
-            <string>Adriatica</string>
-            <string>Tyrrhenia</string>
+            <string>Mirabela</string>
+            <string>Monumento</string>
           </Values>
         </NameGroup>
-      </Ocean>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Brasilia - Translated</Name>
+          <Values>
+            <string>Sentiero Celeste</string>
+            <string>Monumento</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
     </Planets>
     <Characters>
       <CharacterNames>

@@ -147,17 +147,13 @@
             <string>Batista Aldeia</string>
             <string>Bênção</string>
             <string>Boa Esperança</string>
-            <string>Borda Dura</string>
-            <string>Caminho Celeste</string>
             <string>Cidadela</string>
             <string>Dourado</string>
             <string>Fiel</string>
             <string>Fogo Sagrado</string>
             <string>Hélder</string>
             <string>Lembrança</string>
-            <string>Lugar de Paz</string>
             <string>Manoel</string>
-            <string>Monumento</string>
             <string>Pacífico</string>
             <string>Paraíso</string>
             <string>Santo Adrião</string>
@@ -165,6 +161,24 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Gaia>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Brasilia</Name>
+          <Values>
+            <string>Caminho Celeste</string>
+            <string>Monumento</string>
+            <string>Lugar de Paz</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Alpine>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Brasilia</Name>
+          <Values>
+            <string>Borda Dura</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
     </Planets>
     <Characters>
       <CharacterNames>
