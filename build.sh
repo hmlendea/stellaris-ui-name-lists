@@ -89,14 +89,15 @@ build "ui_extra_humans_english"         "Human - English"       "L" human/englis
 build "ui_extra_humans_french"          "Human - French"        "L" human/french
 build "ui_extra_humans_germanic"        "Human - Germanic"      "L" human/germanic
 build "ui_extra_humans_hellenic"        "Human - Hellenic"      "L" human/hellenic
+build "ui_extra_humans_hindi"           "Human - Hindi"         "L" human/hindi
 build "ui_extra_humans_latino"          "Human - Latino"        "L" human/portuguese human/spanish
 build "ui_extra_humans_romanian"        "Human - Romanian"      "L" human/romanian
-build "ui_extra_humans_romance"         "Human - Romance"       "L" human/french human/italian human/portuguese human/roman human/romanian human/spanish
+build "ui_extra_humans_romance"         "Human - Romance"       "L" human/catalan human/french human/italian human/portuguese human/roman human/romanian human/spanish
 build "ui_extra_humans_slavic"          "Human - Slavic"        "L" human/slavic
 build "ui_extra_humans_spqr_extended"   "Human - Roman"         "L" human/roman human/human3
 build "ui_extra_humans_turkic"          "Human - Turkic"        "L" human/turkic
 build "ui_extra_humans_extended"        "Human - Extended"      "L" \
-      human/african human/arabic human/asian human/austronesian human/baltic human/celtic human/english \
+      human/african human/arabic human/asian human/austronesian human/baltic human/catalan human/celtic human/english \
       human/french human/germanic human/hebrew human/hellenic human/hindi human/hungarian human/italian human/persian \
       human/portuguese human/roman human/romanian human/slavic human/spanish human/turkic human/common \
       starcraft/human starwars/human galciv/human sose/human runescape/human other-media/human \
