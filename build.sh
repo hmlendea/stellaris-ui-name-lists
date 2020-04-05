@@ -82,7 +82,7 @@ function generate-mod-descriptor {
 
 build "ui_extra_humans_african"         "Human - African"       "L" human/african
 build "ui_extra_humans_arabic"          "Human - Arabic"        "L" human/arabic
-build "ui_extra_humans_asian"           "Human - Asian"         "L" human/asian human/korean
+build "ui_extra_humans_asian"           "Human - Asian"         "L" human/asian human/japanese human/korean
 build "ui_extra_humans_austronesian"    "Human - Austronesian"  "L" human/austronesian
 build "ui_extra_humans_celtic"          "Human - Celtic"        "L" human/celtic
 build "ui_extra_humans_english"         "Human - English"       "L" human/english
@@ -91,6 +91,7 @@ build "ui_extra_humans_germanic"        "Human - Germanic"      "L" human/german
 build "ui_extra_humans_hellenic"        "Human - Hellenic"      "L" human/hellenic
 build "ui_extra_humans_hindi"           "Human - Hindi"         "L" human/hindi
 build "ui_extra_humans_italian"         "Human - Italian"       "L" human/italian
+build "ui_extra_humans_japanese"        "Human - Japanese"      "L" human/japanese
 build "ui_extra_humans_latino"          "Human - Latino"        "L" human/portuguese human/spanish
 build "ui_extra_humans_romanian"        "Human - Romanian"      "L" human/romanian
 build "ui_extra_humans_romance"         "Human - Romance"       "L" human/catalan human/french human/italian human/portuguese human/roman human/romanian human/spanish
@@ -99,8 +100,8 @@ build "ui_extra_humans_spqr_extended"   "Human - Roman"         "L" human/roman 
 build "ui_extra_humans_turkic"          "Human - Turkic"        "L" human/turkic
 build "ui_extra_humans_extended"        "Human - Extended"      "L" \
       human/african human/arabic human/asian human/austronesian human/baltic human/catalan human/celtic human/english \
-      human/french human/germanic human/hebrew human/hellenic human/hindi human/hungarian human/italian human/korean human/persian \
-      human/portuguese human/roman human/romanian human/slavic human/spanish human/turkic human/common \
+      human/french human/germanic human/hebrew human/hellenic human/hindi human/hungarian human/italian human/japanese human/korean \
+      human/persian human/portuguese human/roman human/romanian human/slavic human/spanish human/turkic human/common \
       starcraft/human starwars/human galciv/human sose/human runescape/human other-media/human \
       human/human1 human/human2 human/human3 human/zextended
 

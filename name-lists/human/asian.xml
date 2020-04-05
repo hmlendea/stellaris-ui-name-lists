@@ -10,7 +10,6 @@
           <string>Asian</string>
           <string>Chinese</string>
           <string>Indonesian</string>
-          <string>Japanese</string>
           <string>Malysian</string>
           <string>Mongol</string>
           <string>Mongolian</string>
@@ -25,7 +24,6 @@
           <Name>Countries</Name>
           <Values>
             <string>China</string>
-            <string>Japan</string>
             <string>Mongolia</string>
             <string>Taiwan</string>
             <string>Tibet</string>
@@ -69,19 +67,6 @@
             <string>Xinjiang</string>
             <string>Yunnan</string>
             <string>Zhejiang</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Regions - Japan</Name>
-          <Values>
-            <string>Chūbu</string>
-            <string>Chūgoku</string>
-            <string>Hokkaidō</string>
-            <string>Kansai</string>
-            <string>Kantō</string>
-            <string>Kyūshū</string>
-            <string>Shikoku</string>
-            <string>Tōhoku</string>
           </Values>
         </NameGroup>
       </Regions>
@@ -142,50 +127,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Japan</Name>
-          <Values>
-            <string>Adachi</string>
-            <string>Chiba</string>
-            <string>Edogawa</string>
-            <string>Fukuoka</string>
-            <string>Fukuyama</string>
-            <string>Funabashi</string>
-            <string>Hachioji</string>
-            <string>Hamamatsu</string>
-            <string>Higashiosaka</string>
-            <string>Himeji</string>
-            <string>Hiroshima</string>
-            <string>Itabashi</string>
-            <string>Kagoshima</string>
-            <string>Kawaguchi</string>
-            <string>Kawasaki</string>
-            <string>Kitakyushu</string>
-            <string>Kobe</string>
-            <string>Kumamoto</string>
-            <string>Kyoto</string>
-            <string>Matsudo</string>
-            <string>Matsyama</string>
-            <string>Nagasaki</string>
-            <string>Nagoya</string>
-            <string>Nerima</string>
-            <string>Niigata</string>
-            <string>Okayama</string>
-            <string>Osaka</string>
-            <string>Ota</string>
-            <string>Sagamihara</string>
-            <string>Saitama</string>
-            <string>Sakai</string>
-            <string>Sapporo</string>
-            <string>Sendai</string>
-            <string>Setagaya</string>
-            <string>Shizuoka</string>
-            <string>Suginami</string>
-            <string>Tokyo</string>
-            <string>Utsunomiya</string>
-            <string>Yokohama</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Mongolia</Name>
           <Values>
             <string>Ulan Bator</string>
@@ -233,15 +174,6 @@
             <string>Chomolungma</string>
             <string>Everest</string>
             <string>Zhumulangma</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Mountains - Japan</Name>
-          <Values>
-            <string>Fuji</string>
-            <string>Gassan</string>
-            <string>Haguro</string>
-            <string>Yudono</string>
           </Values>
         </NameGroup>
       </Mountains>
@@ -303,12 +235,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Leaders - Japanese</Name>
-          <Values>
-            <string>Hojo Tokimune</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Leaders - Mongol</Name>
           <Values>
             <string>Kublai Khan</string>
@@ -345,23 +271,7 @@
             <string>Qin Shi Huang</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Leaders - Japanese</Name>
-          <Values>
-            <string>Yamato</string>
-          </Values>
-        </NameGroup>
       </LeadersTier3>
-      <FlyingAces>
-        <NameGroup>
-          <Name>Flying Aces - Japanese</Name>
-          <Values>
-            <string>Shinohara</string>
-            <string>Nishizawa</string>
-            <string>Yamamoto</string>
-          </Values>
-        </NameGroup>
-      </FlyingAces>
       <Heroes>
         <NameGroup>
           <Name>Heroes - Chinese</Name>
@@ -371,35 +281,12 @@
             <string>Yuenü</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Heroes - Japanese</Name>
-          <Values>
-            <string>Tomoe Gozen</string>
-          </Values>
-        </NameGroup>
       </Heroes>
-      <Admirals>
-        <NameGroup>
-          <Name>Admirals - Japanese</Name>
-          <Values>
-            <string>Heihachiro</string>
-            <string>Tanaka</string>
-            <string>Yamamoto</string>
-            <string>Yonai</string>
-          </Values>
-        </NameGroup>
-      </Admirals>
       <GeneralsTier1>
         <NameGroup>
           <Name>Generals - Chinese</Name>
           <Values>
             <string>Yue Fei</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Generals - Japanese</Name>
-          <Values>
-            <string>Sakai</string>
           </Values>
         </NameGroup>
       </GeneralsTier1>
@@ -424,13 +311,6 @@
             <string>Han Xin</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Generals - Japanese</Name>
-          <Values>
-            <string>Akira</string>
-            <string>Musashi</string>
-          </Values>
-        </NameGroup>
       </GeneralsTier3>
       <Deities>
         <NameGroup>
@@ -442,24 +322,6 @@
       </Deities>
     </GreatPeople>
     <Companies>
-      <RobotManufacturers>
-        <NameGroup>
-          <Name>Research Companies - Alien - Japanese</Name>
-          <Values>
-            <string>Yutani</string>
-          </Values>
-        </NameGroup>
-      </RobotManufacturers>
-      <AutomotiveManufacturers>
-        <NameGroup>
-          <Name>Vehicle Manufacturers - Japanese</Name>
-          <Values>
-            <string>Nissan</string>
-            <string>Suzuki</string>
-            <string>Toyota</string>
-          </Values>
-        </NameGroup>
-      </AutomotiveManufacturers>
       <AircraftManufacturers>
         <NameGroup>
           <Name>Aircraft manufacturers - Chinese</Name>
@@ -470,22 +332,7 @@
             <string>Comac</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Aircraft manufacturers - Japanese</Name>
-          <Values>
-            <string>Kawasaki</string>
-          </Values>
-        </NameGroup>
       </AircraftManufacturers>
-      <SpacecraftManufacturers>
-        <NameGroup>
-          <Name>Spacecraft manufacturers - Japanese</Name>
-          <Values>
-            <string>IHI</string>
-            <string>Mitsubishi</string>
-          </Values>
-        </NameGroup>
-      </SpacecraftManufacturers>
     </Companies>
     <Warfare>
       <Weapons>
@@ -511,40 +358,9 @@
               <string>Zhanmadao</string>
             </Values>
           </NameGroup>
-          <NameGroup>
-            <Name>Swords - Japanese</Name>
-            <Values>
-              <string>Chokuto</string>
-              <string>Katana</string>
-              <string>Odachi</string>
-              <string>Shikomizue</string>
-              <string>Tachi</string>
-              <string>Tsurugi</string>
-              <string>Uchigatana</string>
-              <string>Wakizashi</string>
-            </Values>
-          </NameGroup>
         </Swords>
-        <Daggers>
-          <NameGroup>
-            <Name>Daggers - Japanese</Name>
-            <Values>
-              <string>Kaiken</string>
-            </Values>
-          </NameGroup>
-        </Daggers>
       </Weapons>
       <MilitaryUnitTypes>
-        <NameGroup>
-          <Name>Military Unit Types - Japanese</Name>
-          <Values>
-            <string>Ashigaru</string>
-            <string>Bushi</string>
-            <string>Daimyo</string>
-            <string>Ronin</string>
-            <string>Samurai</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Military Unit Types - Mongol</Name>
           <Values>
@@ -576,29 +392,6 @@
           </Values>
         </NameGroup>
       </Corvette>
-      <Cruiser>
-        <NameGroup>
-          <Name>Ships - Japanese</Name>
-          <Values>
-            <string>Nagato</string>
-          </Values>
-        </NameGroup>
-      </Cruiser>
-      <Battleship>
-        <NameGroup>
-          <Name>Ships - Japanese</Name>
-          <Values>
-            <string>Akagi</string>
-            <string>Kaga</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Ships - Japanese</Name>
-          <Values>
-            <string>Tsushima</string>
-          </Values>
-        </NameGroup>
-      </Battleship>
       <Juggernaut>
         <NameGroup>
           <Name>Vanilla - Chinese</Name>
@@ -607,28 +400,7 @@
           </Values>
         </NameGroup>
       </Juggernaut>
-      <Transport>
-        <NameGroup>
-          <Name>Islands</Name>
-          <Values>
-            <string>Tarawa</string>
-            <string>Iwo Jima</string>
-            <string>Okinawa</string>
-          </Values>
-        </NameGroup>
-      </Transport>
     </Ships>
-    <Armies>
-      <SuperSoldiers>
-        <NameGroup>
-          <Name>Experimental Units</Name>
-          <Values>
-            <string>Experimental Unit 'Orochi'</string>
-            <string>Experimental Unit 'Bakunawa'</string>
-          </Values>
-        </NameGroup>
-      </SuperSoldiers>
-    </Armies>
     <Planets>
       <Generic>
         <NameGroup>
@@ -656,19 +428,11 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Pandora: First Contact - Terra Salvum - Japanese</Name>
-          <Values>
-            <string>Kyoto</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Stellaris - United Nations of Earth - Chinese</Name>
           <Values>
             <string>Xianyang</string>
             <string>Wenzhou</string>
             <string>Wang Tong</string>
-            <string>Nozomi</string>
-            <string>Akatsuki</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -720,12 +484,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Persons - Leaders - Japanese</Name>
-          <Values>
-            <string>Oda</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Persons - Politics - Chinese</Name>
           <Values>
             <string>Tian Yi</string>
@@ -737,13 +495,6 @@
             <string>Kongzi</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Clans - Japanese</Name>
-          <Values>
-            <string>Tokugawa</string>
-            <string>Toyotomi</string>
-          </Values>
-        </NameGroup>
       </Continental>
       <Gaia>
         <NameGroup>
@@ -751,12 +502,6 @@
           <Values>
             <string>Shambhala</string>
             <string>Shangri-La</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Words - Japanese</Name>
-          <Values>
-            <string>Kizuna</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -773,12 +518,6 @@
             <string>Ningbo</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Words - Japanese</Name>
-          <Values>
-            <string>Namida</string>
-          </Values>
-        </NameGroup>
       </Ocean>
       <Tundra>
         <NameGroup>
@@ -788,27 +527,11 @@
           </Values>
         </NameGroup>
       </Tundra>
-      <Tomb>
-        <NameGroup>
-          <Name>Devastated places - Japan</Name>
-          <Values>
-            <string>Fukushima</string>
-            <string>Hiroshima</string>
-            <string>Nagasaki</string>
-          </Values>
-        </NameGroup>
-      </Tomb>
       <Molten>
         <NameGroup>
           <Name>Mythology - Places - Chinese</Name>
           <Values>
             <string>Diu</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Mythology - Places - Japanese</Name>
-          <Values>
-            <string>Yomi</string>
           </Values>
         </NameGroup>
       </Molten>
@@ -873,63 +596,6 @@
               <string>Wang</string>
               <string>Zhu</string>
               <string>Yang</string>
-            </Values>
-          </NameGroup>
-        </RoyalSecondNames>
-      </CharacterNames>
-      <CharacterNames>
-        <Id>japanese</Id>
-        <Weight>4</Weight>
-        <MaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/jpn-persons-male.txt</Url>
-          </NameGroup>
-        </MaleFirstNames>
-        <MaleRoyalFirstNames>
-          <NameGroup>
-            <Values>
-              <string>Teruhito</string>
-              <string>Nekuhiko</string>
-              <string>Mimatsuhiko</string>
-              <string>Anaho</string>
-              <string>Hironari</string>
-              <string>Norinaga</string>
-            </Values>
-          </NameGroup>
-        </MaleRoyalFirstNames>
-        <FemaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/jpn-persons-female.txt</Url>
-          </NameGroup>
-        </FemaleFirstNames>
-        <FemaleRoyalFirstNames>
-          <NameGroup>
-            <Values>
-              <string>Nukatabe</string>
-              <string>Toyomike</string>
-              <string>Takara</string>
-              <string>Niinomi</string>
-              <string>Hidaka</string>
-              <string>Takama</string>
-              <string>Okiko</string>
-              <string>Toshiko</string>
-            </Values>
-          </NameGroup>
-        </FemaleRoyalFirstNames>
-        <SecondNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/jpn-persons-surnames.txt</Url>
-          </NameGroup>
-        </SecondNames>
-        <RoyalSecondNames>
-          <NameGroup>
-            <Values>
-              <string>no Mikoto</string>
-              <string>Sumeramikoto</string>
-              <string>Otomo</string>
-              <string>Suijin</string>
-              <string>Mononobe</string>
-              <string>Yamato</string>
             </Values>
           </NameGroup>
         </RoyalSecondNames>
