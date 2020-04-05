@@ -148,6 +148,24 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Alpes</string>
+            <string>Appenninus</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Forests>
+        <NameGroup>
+          <Name>Forests</Name>
+          <Values>
+            <string>Arsia</string>
+            <string>Ciminia</string>
+          </Values>
+        </NameGroup>
+      </Forests>
     </Places>
     <GreatPeople>
       <Scientists>
@@ -449,6 +467,13 @@
           <Name>Pandora: First Contact - Togra University</Name>
           <Values>
             <string>Seginus</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - Commonwealth of Man</Name>
+          <Values>
+            <string>Capella</string>
+            <string>Nova Constantinople</string>
           </Values>
         </NameGroup>
         <NameGroup>

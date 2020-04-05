@@ -68,6 +68,41 @@
           </Values>
         </NameGroup>
       </Lakes>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers - Ireland</Name>
+          <Values>
+            <string>An Abha Mhór</string>
+            <string>An Abhainn Mhór</string>
+            <string>An Bandan</string>
+            <string>An Bhanna</string>
+            <string>An Bhearú</string>
+            <string>An Bhóinn</string>
+            <string>An Bhríd</string>
+            <string>An Bhrosnach</string>
+            <string>An Bhúill</string>
+            <string>An Chláir</string>
+            <string>An Daoil</string>
+            <string>An Éirne</string>
+            <string>An Eithne</string>
+            <string>An Feabhal</string>
+            <string>An Fhéil</string>
+            <string>An Fheoir</string>
+            <string>An Finne</string>
+            <string>An Lagáin</string>
+            <string>An Laoi</string>
+            <string>An Leamhain</string>
+            <string>An Life</string>
+            <string>An Mháigh</string>
+            <string>An Mhuaidh</string>
+            <string>An Róba</string>
+            <string>An Sionainne</string>
+            <string>An Siúire</string>
+            <string>An Suca</string>
+            <string>An Uisce Dubh</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
     </Places>
     <GreatPeople>
       <Scientists>

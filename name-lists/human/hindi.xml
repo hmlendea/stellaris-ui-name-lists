@@ -347,6 +347,14 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Tropical>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>Kishkindha</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
     </Planets>
     <Characters>
       <CharacterNames>

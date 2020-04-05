@@ -79,20 +79,76 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Alpi</string>
+            <string>Appennini</string>
+            <string>Dolomiti</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Forests>
+        <NameGroup>
+          <Name>Forests</Name>
+          <Values>
+            <string>Massimina</string>
+          </Values>
+        </NameGroup>
+      </Forests>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts</Name>
+          <Values>
+            <string>Accona</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
       <Rivers>
         <NameGroup>
           <Name>Rivers</Name>
           <Values>
-            <string>Rubicon</string>
+            <string>Adige</string>
+            <string>Alcantara</string>
+            <string>Arno</string>
+            <string>Belice</string>
+            <string>Brenta</string>
+            <string>Coghinas</string>
             <string>Isonzo</string>
+            <string>Piave</string>
+            <string>Po</string>
+            <string>Rubicon</string>
+            <string>Savio</string>
+            <string>Tiber</string>
           </Values>
         </NameGroup>
       </Rivers>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Bolsena</string>
+            <string>Bracciano</string>
+            <string>Como</string>
+            <string>Garda</string>
+            <string>Iseo</string>
+            <string>Ledro</string>
+            <string>Lesina</string>
+            <string>Lugano</string>
+            <string>Maggiore</string>
+            <string>Orta</string>
+            <string>Trasimeno</string>
+            <string>Varano</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
       <Seas>
         <NameGroup>
           <Name>Seas</Name>
           <Values>
             <string>Adriatica</string>
+            <string>Mediterraneo</string>
             <string>Tyrrhenia</string>
           </Values>
         </NameGroup>
@@ -191,6 +247,12 @@
           <Values>
             <string>Bardi</string>
             <string>Medici</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Stellaris: United Nations of Earth</Name>
+          <Values>
+            <string>Tuscany</string>
           </Values>
         </NameGroup>
       </Generic>

@@ -309,6 +309,7 @@
         <NameGroup>
           <Name>Deserts - Mexico</Name>
           <Values>
+            <string>Chihuahua</string>
             <string>Sonora</string>
           </Values>
         </NameGroup>
@@ -321,6 +322,7 @@
         <NameGroup>
           <Name>Deserts - Spain</Name>
           <Values>
+            <string>Bardenas</string>
             <string>Tabernas</string>
           </Values>
         </NameGroup>
