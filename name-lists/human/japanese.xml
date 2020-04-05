@@ -299,7 +299,7 @@
       </Transport>
     </Ships>
     <Armies>
-      <SuperSoldiers>
+      <SuperSoldierArmy>
         <NameGroup>
           <Name>Experimental Units</Name>
           <Values>
@@ -307,16 +307,10 @@
             <string>Experimental Unit 'Bakunawa'</string>
           </Values>
         </NameGroup>
-      </SuperSoldiers>
+      </SuperSoldierArmy>
     </Armies>
     <Planets>
       <Generic>
-        <NameGroup>
-          <Name>Pandora: First Contact - Terra Salvum</Name>
-          <Values>
-            <string>Kyoto</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Stellaris - United Nations of Earth</Name>
           <Values>
@@ -326,6 +320,12 @@
         </NameGroup>
       </Generic>
       <Continental>
+        <NameGroup>
+          <Name>Pandora: First Contact - Terra Salvum</Name>
+          <Values>
+            <string>Kyoto</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Stellaris - United Nations of Earth</Name>
           <Values>
