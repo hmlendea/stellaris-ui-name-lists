@@ -317,6 +317,12 @@
             <string>Kongzi</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Scientists - Mongolian</Name>
+          <Values>
+            <string>Ganzorig</string>
+          </Values>
+        </NameGroup>
       </Scientists>
       <LeadersTier1>
         <NameGroup>

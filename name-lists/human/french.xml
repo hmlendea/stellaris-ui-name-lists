@@ -304,13 +304,13 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth - French</Name>
+          <Name>Stellaris - United Nations of Earth</Name>
           <Values>
             <string>Mullineux</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Franco-Iberia - French</Name>
+          <Name>Civilisation: Beyond Earth - Franco-Iberia</Name>
           <Values>
             <string>Bouclier</string>
             <string>Espérance</string>
@@ -318,7 +318,6 @@
             <string>Honorée</string>
             <string>Kenza</string>
             <string>Le Coeur</string>
-            <string>Mirabelle</string>
             <string>Pacifique</string>
             <string>Prospérité</string>
             <string>Senén</string>
@@ -338,6 +337,12 @@
           <Name>Mythology - Places - French</Name>
           <Values>
             <string>Agartha</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Franco-Iberia</Name>
+          <Values>
+            <string>Mirabelle</string>
           </Values>
         </NameGroup>
       </Gaia>
