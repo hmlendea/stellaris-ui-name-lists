@@ -94,6 +94,7 @@ build "ui_extra_humans_hindi"           "Human - Hindi"         "L" human/hindi
 build "ui_extra_humans_italian"         "Human - Italian"       "L" human/italian
 build "ui_extra_humans_japanese"        "Human - Japanese"      "L" human/japanese
 build "ui_extra_humans_latino"          "Human - Latino"        "L" human/brazilian human/spanish human/common_portuguese
+build "ui_extra_humans_portuguese"      "Human - Portuguese"    "L" human/brazilian human/portuguese human/common_portuguese
 build "ui_extra_humans_romanian"        "Human - Romanian"      "L" human/romanian
 build "ui_extra_humans_romance"         "Human - Romance"       "L" human/brazlian human/catalan human/french human/italian human/portuguese human/roman \
                                                                     human/romanian human/spanish human/common_portuguese
