@@ -166,6 +166,14 @@
           </Values>
         </NameGroup>
       </Forests>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Eufrates</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
     </Places>
     <GreatPeople>
       <Scientists>
