@@ -8,9 +8,6 @@
         <Name>Denonyms</Name>
         <Values>
           <string>Asian</string>
-          <string>Indonesian</string>
-          <string>Malysian</string>
-          <string>Tibetan</string>
           <string>Vietnamese</string>
         </Values>
       </NameGroup>
@@ -21,7 +18,7 @@
           <Name>Countries</Name>
           <Values>
             <string>Taiwan</string>
-            <string>Tibet</string>
+            <string>Vietnam</string>
           </Values>
         </NameGroup>
       </Countries>
@@ -72,26 +69,6 @@
         </NameGroup>
       </Mountains>
     </Places>
-    <GreatPeople>
-      <LeadersTier1>
-        <NameGroup>
-          <Name>Leaders - Tibetan</Name>
-          <Values>
-            <string>Trisong Detsen</string>
-          </Values>
-        </NameGroup>
-      </LeadersTier1>
-    </GreatPeople>
-    <Warfare>
-      <MilitaryUnitTypes>
-        <NameGroup>
-          <Name>Military Unit Types - Tibetan</Name>
-          <Values>
-            <string>Rta Pta</string>
-          </Values>
-        </NameGroup>
-      </MilitaryUnitTypes>
-    </Warfare>
     <Planets>
       <Generic>
         <NameGroup>
@@ -105,15 +82,6 @@
           </Values>
         </NameGroup>
       </Generic>
-      <Gaia>
-        <NameGroup>
-          <Name>Mythology - Places - Tibetan</Name>
-          <Values>
-            <string>Shambhala</string>
-            <string>Shangri-La</string>
-          </Values>
-        </NameGroup>
-      </Gaia>
     </Planets>
   </NameList>
 </ArrayOfNameList>

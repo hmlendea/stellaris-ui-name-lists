@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_tibetan</Id>
+    <Name>Human - Tibetan</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Tibetan</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Tibet</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+    </Places>
+    <GreatPeople>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Trisong Detsen</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+    </GreatPeople>
+    <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types</Name>
+          <Values>
+            <string>Rta Pta</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
+    <Planets>
+      <Gaia>
+        <NameGroup>
+          <Name>Mythology - Places</Name>
+          <Values>
+            <string>Shambhala</string>
+            <string>Shangri-La</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
