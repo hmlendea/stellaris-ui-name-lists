@@ -22,7 +22,6 @@
           <string>Slovak</string>
           <string>Slovene</string>
           <string>Sorbian</string>
-          <string>Ukrainian</string>
           <string>Yugoslav</string>
         </Values>
       </NameGroup>
@@ -48,7 +47,6 @@
           <string>Serbia</string>
           <string>Slovakia</string>
           <string>Slovenia</string>
-          <string>Ukraine</string>
           <string>Yugoslavia</string>
           </Values>
         </NameGroup>
@@ -243,22 +241,6 @@
             <string>Velenje</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Cities - Ukraine</Name>
-          <Values>
-            <string>Dnipro</string>
-            <string>Donetsk</string>
-            <string>Kharkiv</string>
-            <string>Kiev</string>
-            <string>Luhansk</string>
-            <string>Lviv</string>
-            <string>Mariupol</string>
-            <string>Mykolaiv</string>
-            <string>Odessa</string>
-            <string>Sevastopol</string>
-            <string>Zaporizhia</string>
-          </Values>
-        </NameGroup>
       </Cities>
       <Rivers>
         <NameGroup>
@@ -267,12 +249,6 @@
           <string>Dnieper</string>
           <string>Ural</string>
           <string>Volga</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Rivers - Ukraine</Name>
-          <Values>
-          <string>Dniester</string>
           </Values>
         </NameGroup>
       </Rivers>
@@ -602,12 +578,6 @@
             <string>Kazakov</string>
             <string>Oprichnik</string>
             <string>Strelet</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Military Unit Types - Ukrainian</Name>
-          <Values>
-            <string>Druzhina</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
