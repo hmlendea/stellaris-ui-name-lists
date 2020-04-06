@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_guatemalan</Id>
+    <Name>Human - Guatemalan</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Guatemalan</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Guatemala</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Alta Verapaz</string>
+            <string>Baja Verapaz</string>
+            <string>Chimaltenango</string>
+            <string>Chiquimula</string>
+            <string>El Progreso</string>
+            <string>Escuintla</string>
+            <string>Guatemala</string>
+            <string>Huehuetenango</string>
+            <string>Izabal</string>
+            <string>Jalapa</string>
+            <string>Jutiapa</string>
+            <string>Petén</string>
+            <string>Quetzaltenango</string>
+            <string>Quiché</string>
+            <string>Retalhuleu</string>
+            <string>Sacatepéquez</string>
+            <string>San Marcos</string>
+            <string>Santa Rosa</string>
+            <string>Sololá</string>
+            <string>Suchitepéquez</string>
+            <string>Totonicapán</string>
+            <string>Zacapa</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Amatitlán</string>
+            <string>Chimaltenango</string>
+            <string>Chinautla</string>
+            <string>Escuintla</string>
+            <string>Guatemala City</string>
+            <string>Guatemala</string>
+            <string>Mixco</string>
+            <string>Quetzaltenango</string>
+            <string>San Juan Sacatepéquez</string>
+            <string>San Miguel Petapa</string>
+            <string>Villa Canales</string>
+            <string>Villa Nueva</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+  </NameList>
+</ArrayOfNameList>
