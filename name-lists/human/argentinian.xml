@@ -20,11 +20,66 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Antártida</string>
+            <string>Buenos Aires</string>
+            <string>Catamarca</string>
+            <string>Chaco</string>
+            <string>Chubut</string>
+            <string>Córdoba</string>
+            <string>Corrientes</string>
+            <string>Entre Ríos</string>
+            <string>Formosa</string>
+            <string>Islas del Atlántico Sur</string>
+            <string>Jujuy</string>
+            <string>La Pampa</string>
+            <string>La Rioja</string>
+            <string>Mendoza</string>
+            <string>Misiones</string>
+            <string>Neuquén</string>
+            <string>Río Negro</string>
+            <string>Salta</string>
+            <string>San Juan</string>
+            <string>San Luis</string>
+            <string>Santa Cruz</string>
+            <string>Santa Fe</string>
+            <string>Santiago del Estero</string>
+            <string>Tierra del Fuego</string>
+            <string>Tucumán</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities</Name>
           <Values>
             <string>Buenos Aires</string>
+            <string>Córdoba</string>
+            <string>Corrientes</string>
+            <string>Formosa</string>
+            <string>La Plata</string>
+            <string>La Rioja</string>
+            <string>Mendoza</string>
+            <string>Neuquén</string>
+            <string>Paraná</string>
+            <string>Posadas</string>
+            <string>Rawson</string>
+            <string>Resistencia</string>
+            <string>Río Gallegos</string>
+            <string>Salta</string>
+            <string>San Fernando</string>
+            <string>San Juan</string>
+            <string>San Luis</string>
+            <string>San Miguel</string>
+            <string>San Salvador</string>
+            <string>Santa Fe</string>
+            <string>Santa Rosa</string>
+            <string>Santiago del Estero</string>
+            <string>Ushuaia</string>
+            <string>Viedma</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -33,6 +88,7 @@
           <Name>Mountains</Name>
           <Values>
             <string>Andes</string>
+            <string>Martial</string>
           </Values>
         </NameGroup>
       </Mountains>
@@ -40,6 +96,8 @@
         <NameGroup>
           <Name>Deserts</Name>
           <Values>
+            <string>Arizaro</string>
+            <string>Monte</string>
             <string>Patagonia</string>
           </Values>
         </NameGroup>
