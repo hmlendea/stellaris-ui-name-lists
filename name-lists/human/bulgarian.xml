@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_bulgarian</Id>
+    <Name>Human - Bulgarian</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Bulgarian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Bulgaria</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Sofia</string>
+            <string>Varna</string>
+            <string>Vidin</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types</Name>
+          <Values>
+            <string>Konnik</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Pax Nova - Eastern Resistance</Name>
+          <Values>
+            <string>Cherno</string>
+            <string>Mitkovo</string>
+            <string>Starovo</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

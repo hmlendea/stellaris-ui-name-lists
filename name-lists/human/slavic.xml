@@ -9,7 +9,6 @@
         <Values>
           <string>Belarusian</string>
           <string>Bosniak</string>
-          <string>Bulgarian</string>
           <string>Croat</string>
           <string>Czech</string>
           <string>Kashubian</string>
@@ -41,7 +40,6 @@
           <Values>
           <string>Belarus</string>
           <string>Bosnia</string>
-          <string>Bulgaria</string>
           <string>Croatia</string>
           <string>Czechia</string>
           <string>Montenegro</string>
@@ -82,14 +80,6 @@
           <Name>Cities - Bosnia</Name>
           <Values>
             <string>Sarajevo</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Bulgaria</Name>
-          <Values>
-            <string>Sofia</string>
-            <string>Varna</string>
-            <string>Vidin</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -599,12 +589,6 @@
         </Swords>
       </Weapons>
       <MilitaryUnitTypes>
-        <NameGroup>
-          <Name>Military Unit Types - Bulgarian</Name>
-          <Values>
-            <string>Konnik</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Military Unit Types - Polish</Name>
           <Values>
