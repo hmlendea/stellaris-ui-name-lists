@@ -7,7 +7,6 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-          <string>Brazilian</string>
           <string>Portuguese</string>
         </Values>
       </NameGroup>
@@ -17,19 +16,10 @@
         <NameGroup>
           <Name>Countries</Name>
           <Values>
-            <string>Brazil</string>
             <string>Portugal</string>
           </Values>
         </NameGroup>
       </Countries>
-      <Regions>
-        <NameGroup>
-          <Name>Regions - </Name>
-          <Values>
-
-          </Values>
-        </NameGroup>
-      </Regions>
       <Forests>
         <NameGroup>
           <Name>Forests</Name>
@@ -40,15 +30,6 @@
       </Forests>
       <Cities>
         <NameGroup>
-          <Name>Cities - Brazil</Name>
-          <Values>
-            <string>Brasilia</string>
-            <string>Rio de Janeiro</string>
-            <string>Sao Paulo</string>
-            <string>São Paulo</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Portugal</Name>
           <Values>
             <string>Lisbon</string>
@@ -56,23 +37,9 @@
           </Values>
         </NameGroup>
       </Cities>
-      <Rivers>
-        <NameGroup>
-          <Name>Rivers</Name>
-          <Values>
-            <string>Amazon</string>
-          </Values>
-        </NameGroup>
-      </Rivers>
     </Places>
     <GreatPeople>
       <LeadersTier2>
-        <NameGroup>
-          <Name>Leaders - Brazil</Name>
-          <Values>
-            <string>Pedro II</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Leaders - Portuguese</Name>
           <Values>
@@ -110,12 +77,6 @@
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Military Unit Types - Brazilian</Name>
-          <Values>
-            <string>Pracinha</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Military Unit Types - Portuguese</Name>
           <Values>
             <string>Almogávar</string>
@@ -127,16 +88,6 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <ShipClasses>
-      <Generic>
-        <NameGroup>
-          <Name>Aircraft manufacturers - Brazilian</Name>
-          <Values>
-            <string>Embraer</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </ShipClasses>
     <Planets>
       <Generic>
         <NameGroup>
