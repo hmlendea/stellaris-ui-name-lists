@@ -291,6 +291,20 @@
     <Planets>
       <Generic>
         <NameGroup>
+          <Name>Civilisation: Beyond Earth - Franco-Iberia</Name>
+          <Values>
+            <string>Bouclier</string>
+            <string>Espérance</string>
+            <string>Fidèle</string>
+            <string>Honorée</string>
+            <string>Kenza</string>
+            <string>Le Coeur</string>
+            <string>Pacifique</string>
+            <string>Prospérité</string>
+            <string>Senén</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Pandora: First Contact - Terra Salvum</Name>
           <Values>
             <string>Hutchinson</string>
@@ -304,23 +318,44 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Pax Nova - Templar Order</Name>
           <Values>
-            <string>Mullineux</string>
+            <string>Antignac</string>
+            <string>Baudre</string>
+            <string>Bourdain</string>
+            <string>Bruyeres</string>
+            <string>Charvonnex</string>
+            <string>Clairefontaine</string>
+            <string>Croisille</string>
+            <string>Cuiseaux</string>
+            <string>Dieu</string>
+            <string>Draux</string>
+            <string>Dulion</string>
+            <string>Fage</string>
+            <string>Juville</string>
+            <string>Liercourt</string>
+            <string>Lugan</string>
+            <string>Marceau</string>
+            <string>Montcabrier</string>
+            <string>Ortale</string>
+            <string>Ortigier</string>
+            <string>Pardoux</string>
+            <string>Roi</string>
+            <string>Roinul</string>
+            <string>Ruan</string>
+            <string>Sancerre</string>
+            <string>Thulay</string>
+            <string>Verchin</string>
+            <string>Vide</string>
+            <string>Vignand</string>
+            <string>Viller</string>
+            <string>Voyette</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Franco-Iberia</Name>
+          <Name>Stellaris - United Nations of Earth</Name>
           <Values>
-            <string>Bouclier</string>
-            <string>Espérance</string>
-            <string>Fidèle</string>
-            <string>Honorée</string>
-            <string>Kenza</string>
-            <string>Le Coeur</string>
-            <string>Pacifique</string>
-            <string>Prospérité</string>
-            <string>Senén</string>
+            <string>Mullineux</string>
           </Values>
         </NameGroup>
       </Generic>

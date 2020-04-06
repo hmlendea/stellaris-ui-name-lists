@@ -201,6 +201,12 @@
               <string>Shamshir</string>
             </Values>
           </NameGroup>
+          <NameGroup>
+            <Name>Daggers</Name>
+            <Values>
+              <string>Kard</string>
+            </Values>
+          </NameGroup>
         </Swords>
       </Weapons>
       <MilitaryUnitTypes>
@@ -212,5 +218,15 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Pax Nova - Eastern Resistance</Name>
+          <Values>
+            <string>Kard</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
   </NameList>
 </ArrayOfNameList>
