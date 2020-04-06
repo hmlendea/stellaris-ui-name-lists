@@ -100,7 +100,7 @@ build "ui_extra_humans_slavic"          "Human - Slavic"        "L" human/bulgar
 build "ui_extra_humans_spqr_extended"   "Human - Roman"         "L" human/roman human/human3
 build "ui_extra_humans_turkic"          "Human - Turkic"        "L" human/turkic
 build "ui_extra_humans_extended"        "Human - Extended"      "L" \
-      human/african human/arabic human/asian human/austronesian human/baltic human/bulgarian human/catalan human/celtic human/english \
+      human/african human/arabic human/armenian human/asian human/austronesian human/baltic human/bulgarian human/catalan human/celtic human/english \
       human/french human/germanic human/hebrew human/hellenic human/hindi human/hungarian human/italian human/japanese human/korean \
       human/persian human/portuguese human/roman human/romanian human/russian human/spanish human/turkic human/ukrainian human/slavic human/common \
       starcraft/human starwars/human galciv/human sose/human runescape/human other-media/human \
