@@ -95,13 +95,14 @@ build "ui_extra_humans_italian"         "Human - Italian"       "L" human/italia
 build "ui_extra_humans_japanese"        "Human - Japanese"      "L" human/japanese
 build "ui_extra_humans_latino"          "Human - Latino"        "L" human/portuguese human/spanish
 build "ui_extra_humans_romanian"        "Human - Romanian"      "L" human/romanian
-build "ui_extra_humans_romance"         "Human - Romance"       "L" human/catalan human/french human/italian human/portuguese human/roman human/romanian human/spanish
+build "ui_extra_humans_romance"         "Human - Romance"       "L" human/brazlian human/catalan human/french human/italian human/portuguese human/roman \
+                                                                    human/romanian human/spanish
 build "ui_extra_humans_russian"         "Human - Russian"       "L" human/russian
 build "ui_extra_humans_slavic"          "Human - Slavic"        "L" human/bulgarian human/polish human/russian human/ukrainian human/common_slavic
 build "ui_extra_humans_spqr_extended"   "Human - Roman"         "L" human/roman human/human3
 build "ui_extra_humans_turkic"          "Human - Turkic"        "L" human/turkic
 build "ui_extra_humans_extended"        "Human - Extended"      "L" \
-      human/african human/arabic human/armenian human/austronesian human/baltic human/bulgarian human/catalan human/celtic human/chinese \
+      human/african human/arabic human/armenian human/austronesian human/baltic human/brazilian human/bulgarian human/catalan human/celtic human/chinese \
       human/english human/french human/germanic human/hebrew human/hellenic human/hindi human/hungarian human/italian human/japanese human/korean \
       human/mongol human/persian human/portuguese human/roman human/romanian human/russian human/spanish human/tibetan human/turkic human/ukrainian \
       human/common_asian human/common_slavic human/common \
