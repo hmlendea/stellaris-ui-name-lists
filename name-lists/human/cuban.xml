@@ -20,14 +20,70 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Artemisa</string>
+            <string>Camagüey</string>
+            <string>Ciego de Ávila</string>
+            <string>Cienfuegos</string>
+            <string>Granma</string>
+            <string>Guantánamo</string>
+            <string>Holguín</string>
+            <string>Juventud</string>
+            <string>La Habana</string>
+            <string>Las Tunas</string>
+            <string>Matanzas</string>
+            <string>Mayabeque</string>
+            <string>Pinar del Río</string>
+            <string>Sancti Spíritus</string>
+            <string>Santiago</string>
+            <string>Villa Clara</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities</Name>
           <Values>
+            <string>Bayamo</string>
+            <string>Camagüey</string>
+            <string>Ciego de Ávila</string>
+            <string>Cienfuegos</string>
+            <string>Guantánamo</string>
             <string>Havana</string>
+            <string>Holguín</string>
+            <string>Las Tunas</string>
+            <string>Matanzas</string>
+            <string>Pinar del Río</string>
+            <string>Sancti Spíritus</string>
+            <string>Santa Clara</string>
+            <string>Santiago</string>
           </Values>
         </NameGroup>
       </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Almendares</string>
+            <string>Cauto</string>
+            <string>Guamá</string>
+            <string>Toa</string>
+            <string>Yumurí</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Hanabanilla</string>
+            <string>Leche</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
     <GreatPeople>
       <LeadersTier3>

@@ -97,7 +97,7 @@ build "ui_extra_humans_latino"          "Human - Latino"        "L" human/argent
                                                                     human/common_portuguese
 build "ui_extra_humans_portuguese"      "Human - Portuguese"    "L" human/brazilian human/portuguese human/common_portuguese
 build "ui_extra_humans_romanian"        "Human - Romanian"      "L" human/romanian
-build "ui_extra_humans_romance"         "Human - Romance"       "L" human/argentinian human/brazlian human/catalan human/cuban human/french human/italian \
+build "ui_extra_humans_romance"         "Human - Romance"       "L" human/argentinian human/brazilian human/catalan human/cuban human/french human/italian \
                                                                     human/mexican human/portuguese human/roman human/romanian human/spanish \
                                                                     human/common_portuguese
 build "ui_extra_humans_russian"         "Human - Russian"       "L" human/russian
