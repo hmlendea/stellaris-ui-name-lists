@@ -20,17 +20,9 @@
           </Values>
         </NameGroup>
       </Countries>
-      <Forests>
-        <NameGroup>
-          <Name>Forests</Name>
-          <Values>
-            <string>Amazonia</string>
-          </Values>
-        </NameGroup>
-      </Forests>
       <Cities>
         <NameGroup>
-          <Name>Cities - Portugal</Name>
+          <Name>Cities</Name>
           <Values>
             <string>Lisbon</string>
             <string>Porto</string>
@@ -41,7 +33,7 @@
     <GreatPeople>
       <LeadersTier2>
         <NameGroup>
-          <Name>Leaders - Portuguese</Name>
+          <Name>Leaders</Name>
           <Values>
             <string>João II</string>
           </Values>
@@ -68,7 +60,7 @@
         </Artillery>
         <Swords>
           <NameGroup>
-            <Name>Swords - Iberia</Name>
+            <Name>Swords</Name>
             <Values>
                 <string>Falcata</string>
             </Values>
@@ -77,7 +69,7 @@
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Military Unit Types - Portuguese</Name>
+          <Name>Military Unit Types</Name>
           <Values>
             <string>Almogávar</string>
             <string>Caçador</string>
@@ -88,105 +80,5 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - Brasilia</Name>
-          <Values>
-            <string>Alto Torre</string>
-            <string>Ascensão</string>
-            <string>Batista Aldeia</string>
-            <string>Bênção</string>
-            <string>Boa Esperança</string>
-            <string>Cidadela</string>
-            <string>Dourado</string>
-            <string>Fiel</string>
-            <string>Fogo Sagrado</string>
-            <string>Hélder</string>
-            <string>Lembrança</string>
-            <string>Manoel</string>
-            <string>Pacífico</string>
-            <string>Paraíso</string>
-            <string>Santo Adrião</string>
-            <string>Terra Alegre</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-      <Gaia>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - Brasilia</Name>
-          <Values>
-            <string>Caminho Celeste</string>
-            <string>Monumento</string>
-            <string>Lugar de Paz</string>
-          </Values>
-        </NameGroup>
-      </Gaia>
-      <Alpine>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - Brasilia</Name>
-          <Values>
-            <string>Borda Dura</string>
-          </Values>
-        </NameGroup>
-      </Alpine>
-    </Planets>
-    <Characters>
-      <CharacterNames>
-        <Id>portuguese</Id>
-        <Weight>6</Weight>
-        <MaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/por-persons-male.txt</Url>
-          </NameGroup>
-        </MaleFirstNames>
-        <MaleRoyalFirstNames>
-          <NameGroup>
-            <Values>
-              <string>Afonso</string>
-              <string>Carlos</string>
-              <string>Fernando</string>
-              <string>Jaime</string>
-              <string>João</string>
-              <string>Luís</string>
-              <string>Miguel</string>
-              <string>Pedro</string>
-              <string>Teodósio</string>
-            </Values>
-          </NameGroup>
-        </MaleRoyalFirstNames>
-        <FemaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/por-persons-female.txt</Url>
-          </NameGroup>
-        </FemaleFirstNames>
-        <FemaleRoyalFirstNames>
-          <NameGroup>
-            <Values>
-              <string>Eleanora</string>
-              <string>Francisca</string>
-              <string>Isabel</string>
-              <string>Leopoldina</string>
-              <string>Maria</string>
-              <string>Pia</string>
-              <string>Teodora</string>
-              <string>Teresa</string>
-            </Values>
-          </NameGroup>
-        </FemaleRoyalFirstNames>
-        <SecondNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/por-persons-surnames.txt</Url>
-          </NameGroup>
-        </SecondNames>
-        <RoyalSecondNames>
-          <NameGroup>
-            <Values>
-              <string>de Braganza</string>
-            </Values>
-          </NameGroup>
-        </RoyalSecondNames>
-      </CharacterNames>
-    </Characters>
   </NameList>
 </ArrayOfNameList>
