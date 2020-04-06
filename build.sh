@@ -95,12 +95,12 @@ build "ui_extra_humans_hindi"           "Human - Hindi"         "L" human/hindi
 build "ui_extra_humans_italian"         "Human - Italian"       "L" human/italian
 build "ui_extra_humans_japanese"        "Human - Japanese"      "L" human/japanese
 build "ui_extra_humans_latino"          "Human - Latino"        "L"
-    human/argentinian human/brazilian human/cuban human/guatemalan human/mexican human/spanish human/common_portuguese
+    human/argentinian human/brazilian human/cuban human/guatemalan human/mexican human/spanish human/venezuelan human/common_portuguese
 build "ui_extra_humans_portuguese"      "Human - Portuguese"    "L" human/brazilian human/portuguese human/common_portuguese
 build "ui_extra_humans_romanian"        "Human - Romanian"      "L" human/romanian
 build "ui_extra_humans_romance"         "Human - Romance"       "L"
     human/argentinian human/brazilian human/catalan human/cuban human/french human/guatemalan human/italian human/mexican human/portuguese \
-    human/roman human/romanian human/spanish human/common_portuguese
+    human/roman human/romanian human/spanish human/venezuelan human/common_portuguese
 build "ui_extra_humans_russian"         "Human - Russian"       "L" human/russian
 build "ui_extra_humans_slavic"          "Human - Slavic"        "L" human/bulgarian human/polish human/russian human/ukrainian human/common_slavic
 build "ui_extra_humans_spqr_extended"   "Human - Roman"         "L" human/roman human/human3
@@ -110,7 +110,7 @@ build "ui_extra_humans_extended"        "Human - Extended"      "L" \
       human/bulgarian human/catalan human/celtic human/chinese human/cuban human/english human/french human/germanic \
       human/guatemalan human/hebrew human/hellenic human/hindi human/hungarian human/italian human/japanese human/korean human/mexican \
       human/mongol human/persian human/portuguese human/roman human/romanian human/russian human/spanish human/tibetan \
-      human/turkic human/ukrainian \
+      human/turkic human/ukrainian human/venezuelan \
       human/common_asian human/common_portuguese human/common_slavic human/common \
       starcraft/human starwars/human galciv/human sose/human runescape/human other-media/human \
       human/human1 human/human2 human/human3 human/zextended
