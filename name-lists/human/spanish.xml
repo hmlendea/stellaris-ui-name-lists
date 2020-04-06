@@ -8,7 +8,6 @@
         <Name>Denonyms</Name>
         <Values>
           <string>Colombian</string>
-          <string>Cuban</string>
           <string>Guatemalan</string>
           <string>Peruvian</string>
           <string>Spanish</string>
@@ -23,7 +22,6 @@
           <Name>Countries</Name>
           <Values>
             <string>Colombia</string>
-            <string>Cuba</string>
             <string>Ecuador</string>
             <string>El Salvador</string>
             <string>Guatemala</string>
@@ -94,12 +92,6 @@
           <Name>Cities - Colombia</Name>
           <Values>
             <string>Bogota</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Cuba</Name>
-          <Values>
-            <string>Havana</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -259,12 +251,6 @@
       </LeadersTier2>
       <LeadersTier3>
         <NameGroup>
-          <Name>Leaders - Cuban</Name>
-          <Values>
-            <string>Castro</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Leaders - Spanish</Name>
           <Values>
             <string>Isabella</string>
@@ -314,12 +300,6 @@
             <string>San Cristóbal</string>
             <string>San Fernando</string>
             <string>San Lucas</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Solar Dynasty - Cuban</Name>
-          <Values>
-            <string>Castro</string>
           </Values>
         </NameGroup>
         <NameGroup>
