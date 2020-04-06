@@ -241,16 +241,6 @@
           </Values>
         </NameGroup>
       </Generic>
-      <Tomb>
-        <NameGroup>
-          <Name>Devastated places on Earth</Name>
-          <Values>
-            <string>Chernobyl</string>
-            <string>Pripyat</string>
-            <string>Stalingrad</string>
-          </Values>
-        </NameGroup>
-      </Tomb>
     </Planets>
   </NameList>
 </ArrayOfNameList>
