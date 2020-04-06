@@ -118,6 +118,7 @@ build "ui_dnd_kobold" "D&D - Kobold" "L" dnd/kobold
 
 build "ui_elderscrolls_altmer"      "ElderScrolls - Altmer"     "R" elderscrolls/altmer
 build "ui_elderscrolls_argonian"    "ElderScrolls - Argonian"   "R" elderscrolls/argonian
+build "ui_elderscrolls_dremora"     "ElderScrolls - Dremora"    "R" elderscrolls/dremora
 build "ui_elderscrolls_khajiit"     "ElderScrolls - Khajiit"    "R" elderscrolls/khajiit
 build "ui_elderscrolls_orc"         "ElderScrolls - Orc"        "R" elderscrolls/orc
 build "ui_elderscrolls_spriggan"    "ElderScrolls - Spriggan"   "R" elderscrolls/spriggan
