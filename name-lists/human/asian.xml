@@ -8,7 +8,6 @@
         <Name>Denonyms</Name>
         <Values>
           <string>Asian</string>
-          <string>Chinese</string>
           <string>Indonesian</string>
           <string>Malysian</string>
           <string>Mongol</string>
@@ -23,109 +22,13 @@
         <NameGroup>
           <Name>Countries</Name>
           <Values>
-            <string>China</string>
             <string>Mongolia</string>
             <string>Taiwan</string>
             <string>Tibet</string>
           </Values>
         </NameGroup>
       </Countries>
-      <Regions>
-        <NameGroup>
-          <Name>Regions - China</Name>
-          <Values>
-            <string>Anhui</string>
-            <string>Beijing</string>
-            <string>Chongqing</string>
-            <string>Fujian</string>
-            <string>Gansu</string>
-            <string>Guangdong</string>
-            <string>Guangxi Zhuang</string>
-            <string>Guizhou</string>
-            <string>Hainan</string>
-            <string>Hebei</string>
-            <string>Heilongjiang</string>
-            <string>Henan</string>
-            <string>Hong Kong</string>
-            <string>Hubei</string>
-            <string>Hunan</string>
-            <string>Jiangsu</string>
-            <string>Jiangxi</string>
-            <string>Jilin</string>
-            <string>Liaoning</string>
-            <string>Macau</string>
-            <string>Ningxia Hui</string>
-            <string>Qinghai</string>
-            <string>Shaanxi</string>
-            <string>Shandong</string>
-            <string>Shanghai</string>
-            <string>Shanxi</string>
-            <string>Sichuan</string>
-            <string>Taiwan</string>
-            <string>Tianjin</string>
-            <string>Tibet</string>
-            <string>Xinjiang</string>
-            <string>Yunnan</string>
-            <string>Zhejiang</string>
-          </Values>
-        </NameGroup>
-      </Regions>
       <Cities>
-        <NameGroup>
-          <Name>Cities - China</Name>
-          <Values>
-            <string>Baotou</string>
-            <string>Beijing</string>
-            <string>Changchun</string>
-            <string>Changsha</string>
-            <string>Changzhou</string>
-            <string>Chaoyang</string>
-            <string>Chengdu</string>
-            <string>Chongqing</string>
-            <string>Dalian</string>
-            <string>Datong</string>
-            <string>Dongguan</string>
-            <string>Foshan</string>
-            <string>Fuzhou</string>
-            <string>Guangzhou</string>
-            <string>Guiyang</string>
-            <string>Hangzhou</string>
-            <string>Harbin</string>
-            <string>Hefei</string>
-            <string>Hong Kong</string>
-            <string>Huizhou</string>
-            <string>Jinan</string>
-            <string>Kunming</string>
-            <string>Lanzhou</string>
-            <string>Nanchang</string>
-            <string>Nanjing</string>
-            <string>Ningbo</string>
-            <string>Qingdao</string>
-            <string>Quanzhou</string>
-            <string>Shanghai</string>
-            <string>Shantou</string>
-            <string>Shaoxing</string>
-            <string>Shenyang</string>
-            <string>Shenzhen</string>
-            <string>Shijazhuang</string>
-            <string>Suzhou</string>
-            <string>Taiyuan</string>
-            <string>Tangshan</string>
-            <string>Tianjin</string>
-            <string>Urumqi</string>
-            <string>Wuhan</string>
-            <string>Wuxi</string>
-            <string>Xi'an</string>
-            <string>Xiamen</string>
-            <string>Xuzhou</string>
-            <string>Yantai</string>
-            <string>Yongcheng</string>
-            <string>Zhengzhou</string>
-            <string>Zhongshan</string>
-            <string>Zibo</string>
-            <string>Zunyi</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - Mongolia</Name>
           <Values>
@@ -179,47 +82,15 @@
       </Mountains>
       <Deserts>
         <NameGroup>
-          <Name>Deserts - China</Name>
-          <Values>
-            <string>Gobi</string>
-            <string>Lop</string>
-            <string>Taklamakan</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Deserts - Mongolia</Name>
           <Values>
             <string>Ordos</string>
           </Values>
         </NameGroup>
       </Deserts>
-      <Rivers>
-        <NameGroup>
-          <Name>Rivers - English names</Name>
-          <Values>
-            <string>Mekong</string>
-            <string>Yangtze</string>
-          </Values>
-        </NameGroup>
-      </Rivers>
     </Places>
     <GreatPeople>
-      <Explorers>
-        <NameGroup>
-          <Name>Explorers - Chinese</Name>
-          <Values>
-            <string>Zheng He</string>
-          </Values>
-        </NameGroup>
-      </Explorers>
       <Scientists>
-        <NameGroup>
-          <Name>Scientists - Chinese</Name>
-          <Values>
-            <string>Confucius</string>
-            <string>Kongzi</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Scientists - Mongolian</Name>
           <Values>
@@ -228,12 +99,6 @@
         </NameGroup>
       </Scientists>
       <LeadersTier1>
-        <NameGroup>
-          <Name>Leaders - Chinese</Name>
-          <Values>
-            <string>Taizong</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Leaders - Mongol</Name>
           <Values>
@@ -249,54 +114,13 @@
       </LeadersTier1>
       <LeadersTier2>
         <NameGroup>
-          <Name>Leaders - Chinese</Name>
-          <Values>
-            <string>Changping</string>
-            <string>Chiang Kai-shek</string>
-            <string>Xiaoping</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Leaders - Mongol</Name>
           <Values>
             <string>Genghis Khan</string>
           </Values>
         </NameGroup>
       </LeadersTier2>
-      <LeadersTier3>
-        <NameGroup>
-          <Name>Leaders - Chinese</Name>
-          <Values>
-            <string>Mao Zedong</string>
-            <string>Qin Shi Huang</string>
-          </Values>
-        </NameGroup>
-      </LeadersTier3>
-      <Heroes>
-        <NameGroup>
-          <Name>Heroes - Chinese</Name>
-          <Values>
-            <string>Hua Mulan</string>
-            <string>Lei Feng</string>
-            <string>Yuenü</string>
-          </Values>
-        </NameGroup>
-      </Heroes>
-      <GeneralsTier1>
-        <NameGroup>
-          <Name>Generals - Chinese</Name>
-          <Values>
-            <string>Yue Fei</string>
-          </Values>
-        </NameGroup>
-      </GeneralsTier1>
       <GeneralsTier2>
-        <NameGroup>
-          <Name>Generals - Chinese</Name>
-          <Values>
-            <string>Sun Tzu</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Generals - Mongol</Name>
           <Values>
@@ -304,62 +128,8 @@
           </Values>
         </NameGroup>
       </GeneralsTier2>
-      <GeneralsTier3>
-        <NameGroup>
-          <Name>Generals - Chinese</Name>
-          <Values>
-            <string>Han Xin</string>
-          </Values>
-        </NameGroup>
-      </GeneralsTier3>
-      <Deities>
-        <NameGroup>
-          <Name>Deities - Chinese</Name>
-          <Values>
-            <string>Ji Gong</string>
-          </Values>
-        </NameGroup>
-      </Deities>
     </GreatPeople>
-    <Companies>
-      <AircraftManufacturers>
-        <NameGroup>
-          <Name>Aircraft manufacturers - Chinese</Name>
-          <Values>
-            <string>Changhe</string>
-            <string>Hafei</string>
-            <string>Hongdu</string>
-            <string>Comac</string>
-          </Values>
-        </NameGroup>
-      </AircraftManufacturers>
-    </Companies>
     <Warfare>
-      <Weapons>
-        <Crossbows>
-          <NameGroup>
-            <Name>Crossbows - Chinese</Name>
-            <Values>
-              <string>Chu-ko-nu</string>
-            </Values>
-          </NameGroup>
-        </Crossbows>
-        <Swords>
-          <NameGroup>
-            <Name>Swords - Chinese</Name>
-            <Values>
-              <string>Changdao</string>
-              <string>Dadao</string>
-              <string>Jian</string>
-              <string>Liuyedao</string>
-              <string>Miaodao</string>
-              <string>Wodao</string>
-              <string>Yanmaodao</string>
-              <string>Zhanmadao</string>
-            </Values>
-          </NameGroup>
-        </Swords>
-      </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
           <Name>Military Unit Types - Mongol</Name>
@@ -376,79 +146,8 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <Ships>
-      <Corvette>
-        <NameGroup>
-          <Name>Ships - Chinese</Name>
-          <Values>
-            <string>Yangwei</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Folklore - Chinese</Name>
-          <Values>
-            <string>Cangjie</string>
-            <string>Yinxi</string>
-          </Values>
-        </NameGroup>
-      </Corvette>
-      <Juggernaut>
-        <NameGroup>
-          <Name>Vanilla - Chinese</Name>
-          <Values>
-            <string>Kunlun</string>
-          </Values>
-        </NameGroup>
-      </Juggernaut>
-    </Ships>
     <Planets>
       <Generic>
-        <NameGroup>
-          <Name>Alien - Union of Progressive Peoples - Chinese</Name>
-          <Values>
-            <string>Chiu</string>
-            <string>Phei Phei</string>
-            <string>Qi Xi</string>
-            <string>Wan An</string>
-            <string>Xiang</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Solar Dynasty - Chinese</Name>
-          <Values>
-            <string>Han Xin</string>
-            <string>Ji Gong</string>
-            <string>Lei Feng</string>
-            <string>Mao</string>
-            <string>Mu Guang</string>
-            <string>Mulan</string>
-            <string>Sun Tzu</string>
-            <string>Xiaoping</string>
-            <string>Yue Fei</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth - Chinese</Name>
-          <Values>
-            <string>Xianyang</string>
-            <string>Wenzhou</string>
-            <string>Wang Tong</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - Pan-Asian Cooperative - Chinese</Name>
-          <Values>
-            <string>Gaosi</string>
-            <string>Gong Ren</string>
-            <string>Huanle</string>
-            <string>Huihuang</string>
-            <string>Kuijia</string>
-            <string>Qi Chui</string>
-            <string>Renxing</string>
-            <string>Tiangong</string>
-            <string>Xindalu</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Civilisation: Beyond Earth - Pan-Asian Cooperative - Mongolian</Name>
           <Values>
@@ -468,34 +167,6 @@
           </Values>
         </NameGroup>
       </Generic>
-      <Desert>
-        <NameGroup>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Desert>
-      <Continental>
-        <NameGroup>
-          <Name>Persons - Leaders - Chinese</Name>
-          <Values>
-            <string>Gao Zu</string>
-            <string>Wu Ding</string>
-            <string>Zheng</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Politics - Chinese</Name>
-          <Values>
-            <string>Tian Yi</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Scientists - Chinese</Name>
-          <Values>
-            <string>Kongzi</string>
-          </Values>
-        </NameGroup>
-      </Continental>
       <Gaia>
         <NameGroup>
           <Name>Mythology - Places - Tibetan</Name>
@@ -511,95 +182,6 @@
           </Values>
         </NameGroup>
       </Gaia>
-      <Ocean>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth - Chinese</Name>
-          <Values>
-            <string>Ningbo</string>
-          </Values>
-        </NameGroup>
-      </Ocean>
-      <Tundra>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth - Chinese</Name>
-          <Values>
-            <string>Taiyuan</string>
-          </Values>
-        </NameGroup>
-      </Tundra>
-      <Molten>
-        <NameGroup>
-          <Name>Mythology - Places - Chinese</Name>
-          <Values>
-            <string>Diu</string>
-          </Values>
-        </NameGroup>
-      </Molten>
     </Planets>
-    <Characters>
-      <CharacterNames>
-        <Id>chinese</Id>
-        <Weight>23</Weight>
-        <MaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/chi-persons-male.txt</Url>
-          </NameGroup>
-        </MaleFirstNames>
-        <MaleRoyalFirstNames>
-          <NameGroup>
-            <Values>
-              <string>You</string>
-              <string>Yong</string>
-              <string>Yi</string>
-              <string>Xiong</string>
-              <string>Wu</string>
-              <string>Feng</string>
-              <string>Gang</string>
-              <string>Guo</string>
-              <string>Hu</string>
-              <string>Hui</string>
-            </Values>
-          </NameGroup>
-        </MaleRoyalFirstNames>
-        <FemaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/chi-persons-female.txt</Url>
-          </NameGroup>
-        </FemaleFirstNames>
-        <FemaleRoyalFirstNames>
-          <NameGroup>
-            <Values>
-              <string>Ai</string>
-              <string>Bi</string>
-              <string>Lian</string>
-              <string>Lin</string>
-              <string>Mei</string>
-              <string>Na</string>
-              <string>Ni</string>
-              <string>Xiu</string>
-              <string>Xue</string>
-              <string>Yan</string>
-              <string>Ying</string>
-              <string>Yu</string>
-              <string>Yuan</string>
-            </Values>
-          </NameGroup>
-        </FemaleRoyalFirstNames>
-        <SecondNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/chi-persons-surnames.txt</Url>
-          </NameGroup>
-        </SecondNames>
-        <RoyalSecondNames>
-          <NameGroup>
-            <Values>
-              <string>Wang</string>
-              <string>Zhu</string>
-              <string>Yang</string>
-            </Values>
-          </NameGroup>
-        </RoyalSecondNames>
-      </CharacterNames>
-    </Characters>
   </NameList>
 </ArrayOfNameList>
