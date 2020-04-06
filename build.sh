@@ -85,7 +85,7 @@ build "ui_extra_humans_arabic"          "Human - Arabic"        "L" human/arabic
 build "ui_extra_humans_asian"           "Human - Asian"         "L" human/asian human/japanese human/korean
 build "ui_extra_humans_austronesian"    "Human - Austronesian"  "L" human/austronesian
 build "ui_extra_humans_celtic"          "Human - Celtic"        "L" human/celtic
-build "ui_extra_humans_chinese"         "Human - Chinese"       "L" human/chinese human/asian
+build "ui_extra_humans_chinese"         "Human - Chinese"       "L" human/chinese human/common_asian
 build "ui_extra_humans_english"         "Human - English"       "L" human/english
 build "ui_extra_humans_french"          "Human - French"        "L" human/french
 build "ui_extra_humans_germanic"        "Human - Germanic"      "L" human/germanic
@@ -101,9 +101,10 @@ build "ui_extra_humans_slavic"          "Human - Slavic"        "L" human/bulgar
 build "ui_extra_humans_spqr_extended"   "Human - Roman"         "L" human/roman human/human3
 build "ui_extra_humans_turkic"          "Human - Turkic"        "L" human/turkic
 build "ui_extra_humans_extended"        "Human - Extended"      "L" \
-      human/african human/arabic human/armenian human/asian human/austronesian human/baltic human/bulgarian human/catalan human/celtic human/chinese \
+      human/african human/arabic human/armenian human/austronesian human/baltic human/bulgarian human/catalan human/celtic human/chinese \
       human/english human/french human/germanic human/hebrew human/hellenic human/hindi human/hungarian human/italian human/japanese human/korean \
-      human/persian human/portuguese human/roman human/romanian human/russian human/spanish human/turkic human/ukrainian human/common_slavic human/common \
+      human/persian human/portuguese human/roman human/romanian human/russian human/spanish human/turkic human/ukrainian \
+      human/common_asian human/common_slavic human/common \
       starcraft/human starwars/human galciv/human sose/human runescape/human other-media/human \
       human/human1 human/human2 human/human3 human/zextended
 
