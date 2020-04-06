@@ -82,7 +82,7 @@ function generate-mod-descriptor {
 
 build "ui_extra_humans_african"         "Human - African"       "L" human/african
 build "ui_extra_humans_arabic"          "Human - Arabic"        "L" human/arabic
-build "ui_extra_humans_asian"           "Human - Asian"         "L" human/japanese human/korean human/mongol human/tibetan human/common_asian
+build "ui_extra_humans_asian"           "Human - Asian"         "L" human/chinese human/japanese human/korean human/mongol human/tibetan human/common_asian
 build "ui_extra_humans_austronesian"    "Human - Austronesian"  "L" human/austronesian
 build "ui_extra_humans_celtic"          "Human - Celtic"        "L" human/celtic
 build "ui_extra_humans_chinese"         "Human - Chinese"       "L" human/chinese human/common_asian
