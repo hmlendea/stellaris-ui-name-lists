@@ -105,10 +105,11 @@ build "ui_extra_humans_slavic"          "Human - Slavic"        "L" human/bulgar
 build "ui_extra_humans_spqr_extended"   "Human - Roman"         "L" human/roman human/human3
 build "ui_extra_humans_turkic"          "Human - Turkic"        "L" human/turkic
 build "ui_extra_humans_extended"        "Human - Extended"      "L" \
-      human/african human/arabic human/argentinian human/armenian human/austronesian human/baltic human/brazilian human/bulgarian human/catalan \
-      human/celtic human/chinese human/cuban human/english human/french human/germanic human/hebrew human/hellenic human/hindi human/hungarian \
-      human/italian human/japanese human/korean human/mexican human/mongol human/persian human/portuguese human/roman human/romanian \
-      human/russian human/spanish human/tibetan human/turkic human/ukrainian \
+      human/afghan human/african human/arabic human/argentinian human/armenian human/austronesian human/baltic human/brazilian \
+      human/bulgarian human/catalan human/celtic human/chinese human/cuban human/english human/french human/germanic \
+      human/hebrew human/hellenic human/hindi human/hungarian human/italian human/japanese human/korean human/mexican \
+      human/mongol human/persian human/portuguese human/roman human/romanian human/russian human/spanish human/tibetan \
+      human/turkic human/ukrainian \
       human/common_asian human/common_portuguese human/common_slavic human/common \
       starcraft/human starwars/human galciv/human sose/human runescape/human other-media/human \
       human/human1 human/human2 human/human3 human/zextended
