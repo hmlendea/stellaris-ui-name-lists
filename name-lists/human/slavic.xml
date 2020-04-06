@@ -137,50 +137,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Russia</Name>
-          <Values>
-            <string>Arkhangelsk</string>
-            <string>Astrakhan</string>
-            <string>Bryansk</string>
-            <string>Chelyabinsk</string>
-            <string>Grozny</string>
-            <string>Irkutsk</string>
-            <string>Ivanovo</string>
-            <string>Izhevsk</string>
-            <string>Khabarovsk</string>
-            <string>Kirov</string>
-            <string>Krasnodar</string>
-            <string>Krasnoyarsk</string>
-            <string>Lipetsk</string>
-            <string>Moscow</string>
-            <string>Murmansk</string>
-            <string>Novgorod</string>
-            <string>Novosibirsk</string>
-            <string>Omsk</string>
-            <string>Orenburg</string>
-            <string>Perm</string>
-            <string>Petrozavodsk</string>
-            <string>Pskov</string>
-            <string>Rostov</string>
-            <string>Ryazan</string>
-            <string>Samara</string>
-            <string>Saratov</string>
-            <string>Smolensk</string>
-            <string>St. Petersburg</string>
-            <string>Stavropol</string>
-            <string>Tula</string>
-            <string>Tver</string>
-            <string>Ufa</string>
-            <string>Ulyanovsk</string>
-            <string>Vladimir</string>
-            <string>Vladivostok</string>
-            <string>Volgograd</string>
-            <string>Voronezh</string>
-            <string>Yaroslavl</string>
-            <string>Yekaterinburg</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Serbia</Name>
           <Values>
             <string>Belgrade</string>
@@ -242,102 +198,8 @@
           </Values>
         </NameGroup>
       </Cities>
-      <Rivers>
-        <NameGroup>
-          <Name>Rivers - Russia</Name>
-          <Values>
-          <string>Dnieper</string>
-          <string>Ural</string>
-          <string>Volga</string>
-          </Values>
-        </NameGroup>
-      </Rivers>
-      <Lakes>
-        <NameGroup>
-          <Name>Lakes - Russia</Name>
-          <Values>
-            <string>Baikal</string>
-            <string>Beloye</string>
-            <string>Brosno</string>
-            <string>Bustakh</string>
-            <string>Chany</string>
-            <string>Chukchagirskoye</string>
-            <string>Dynda</string>
-            <string>Ekityki</string>
-            <string>Elgygytgyn</string>
-            <string>Emanda</string>
-            <string>Ilirney</string>
-            <string>Ilmen</string>
-            <string>Imandra</string>
-            <string>Keta</string>
-            <string>Kezanoi</string>
-            <string>Khanka</string>
-            <string>Khantayskoye</string>
-            <string>Kizi</string>
-            <string>Koolen</string>
-            <string>Krasnoye</string>
-            <string>Kronotskoye</string>
-            <string>Kubenskoye</string>
-            <string>Kulundinskoye</string>
-            <string>Labaz</string>
-            <string>Ladoga</string>
-            <string>Lama</string>
-            <string>Lovozero</string>
-            <string>Nero</string>
-            <string>Onega</string>
-            <string>Orel</string>
-            <string>Oron</string>
-            <string>Ozhogino</string>
-            <string>Peipus</string>
-            <string>Pekulney</string>
-            <string>Pleshcheyevo</string>
-            <string>Segozero</string>
-            <string>Selinger</string>
-            <string>Suturuokha</string>
-            <string>Syamozero</string>
-            <string>Taimyr</string>
-            <string>Teletskoye</string>
-            <string>Topozero</string>
-            <string>Tytyl</string>
-            <string>Ubinskoye</string>
-            <string>Uvs Nuur</string>
-            <string>Valdayskoye</string>
-            <string>Vistytis</string>
-            <string>Vivi</string>
-            <string>Yessey</string>
-          </Values>
-        </NameGroup>
-      </Lakes>
-      <Seas>
-        <NameGroup>
-          <Name>Seas - Russia</Name>
-          <Values>
-            <string>Azov</string>
-            <string>Baltic</string>
-            <string>Barents</string>
-            <string>Black Sea</string>
-            <string>Caspian</string>
-            <string>Chukchi</string>
-            <string>Kara</string>
-            <string>Laptev</string>
-            <string>Okhotsk</string>
-            <string>Pechora</string>
-            <string>Shantar</string>
-            <string>White Sea</string>
-          </Values>
-        </NameGroup>
-      </Seas>
     </Places>
     <GreatPeople>
-      <Explorers>
-        <NameGroup>
-          <Name>Explorers - Russian</Name>
-          <Values>
-            <string>Gagarin</string>
-            <string>Tereshkova</string>
-          </Values>
-        </NameGroup>
-      </Explorers>
       <Scientists>
         <NameGroup>
           <Name>Scientists - Croatian</Name>
@@ -349,55 +211,6 @@
           <Name>Scientists - Polish</Name>
           <Values>
             <string>Copernicus</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Scientists - Russian</Name>
-          <Values>
-            <string>Alferov</string>
-            <string>Basov</string>
-            <string>Botkin</string>
-            <string>Butlerov</string>
-            <string>Chebyshev</string>
-            <string>Cherenkov</string>
-            <string>Fyodorov</string>
-            <string>Geim</string>
-            <string>Holevo</string>
-            <string>Kantorovich</string>
-            <string>Kapitsa</string>
-            <string>Kardashev</string>
-            <string>Kaspersky</string>
-            <string>Korolev</string>
-            <string>Kovalevskaya</string>
-            <string>Krasnopolsky</string>
-            <string>Kurchatov</string>
-            <string>Landau</string>
-            <string>Lobachevsky</string>
-            <string>Lomonosov</string>
-            <string>Lukin</string>
-            <string>Mendeleev</string>
-            <string>Metchnikoff</string>
-            <string>Mil</string>
-            <string>Mozhaysky</string>
-            <string>Novoselov</string>
-            <string>Oganesyan</string>
-            <string>Oganov</string>
-            <string>Pavlov</string>
-            <string>Perelman</string>
-            <string>Pirogov</string>
-            <string>Popov</string>
-            <string>Prokhorov</string>
-            <string>Sakharov</string>
-            <string>Semyonov</string>
-            <string>Starobinsky</string>
-            <string>Stoletov</string>
-            <string>Sunyaev</string>
-            <string>Svergun</string>
-            <string>Tsiolkovsky</string>
-            <string>Tupolev</string>
-            <string>Vavilov</string>
-            <string>Zhukovsky</string>
-            <string>Zworykin</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -415,24 +228,6 @@
           </Values>
         </NameGroup>
       </LeadersTier1>
-      <LeadersTier2>
-        <NameGroup>
-          <Name>Leaders - Russian</Name>
-          <Values>
-            <string>Peter the Great</string>
-          </Values>
-        </NameGroup>
-      </LeadersTier2>
-      <LeadersTier3>
-        <NameGroup>
-          <Name>Leaders - Russian</Name>
-          <Values>
-            <string>Alexander Nevsky</string>
-            <string>Catherine the Great</string>
-            <string>Stalin</string>
-          </Values>
-        </NameGroup>
-      </LeadersTier3>
       <FlyingAces>
         <NameGroup>
           <Name>Flying Aces - Polish</Name>
@@ -440,51 +235,7 @@
             <string>Skalski</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Flying Aces - Russian</Name>
-          <Values>
-            <string>Kozhedub</string>
-            <string>Litvyak</string>
-            <string>Novikov</string>
-            <string>Shestakov</string>
-          </Values>
-        </NameGroup>
       </FlyingAces>
-      <Heroes>
-        <NameGroup>
-          <Name>Heroes - Russian</Name>
-          <Values>
-            <string>Stakhanov</string>
-          </Values>
-        </NameGroup>
-      </Heroes>
-      <Admirals>
-        <NameGroup>
-          <Name>Admirals - Russian</Name>
-          <Values>
-            <string>Butakov</string>
-            <string>Kornilov</string>
-            <string>Kuznetsov</string>
-          </Values>
-        </NameGroup>
-      </Admirals>
-      <GeneralsTier2>
-        <NameGroup>
-          <Name>Generals - Russian</Name>
-          <Values>
-            <string>Brusilov</string>
-            <string>Zhukov</string>
-          </Values>
-        </NameGroup>
-      </GeneralsTier2>
-      <GeneralsTier3>
-        <NameGroup>
-          <Name>Generals - Russian</Name>
-          <Values>
-            <string>Potemkin</string>
-          </Values>
-        </NameGroup>
-      </GeneralsTier3>
     </GreatPeople>
     <Companies>
       <AircraftManufacturers>
@@ -494,53 +245,10 @@
             <string>PZL</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Aircraft manufacturers - Russian</Name>
-          <Values>
-            <string>Energia</string>
-            <string>Tupolev</string>
-            <string>United Aircraft</string>
-          </Values>
-        </NameGroup>
       </AircraftManufacturers>
-      <SpacecraftManufacturers>
-        <NameGroup>
-          <Name>Spacecraft manufacturers - Russian</Name>
-          <Values>
-            <string>Energiya</string>
-            <string>Lavochkin</string>
-          </Values>
-        </NameGroup>
-      </SpacecraftManufacturers>
-      <RocketDesigners>
-        <NameGroup>
-          <Name>Rocket Designers - Russian</Name>
-          <Values>
-            <string>JSC</string>
-            <string>Mashinostroyeniya</string>
-          </Values>
-        </NameGroup>
-      </RocketDesigners>
     </Companies>
     <Warfare>
       <Weapons>
-        <Artillery>
-          <NameGroup>
-            <Name>Artillery - Russian</Name>
-            <Values>
-              <string>Katyusha</string>
-            </Values>
-          </NameGroup>
-        </Artillery>
-        <Guns>
-          <NameGroup>
-            <Name>Guns - Russian</Name>
-            <Values>
-              <string>Kalashnikov</string>
-              <string>Papasha</string>
-            </Values>
-          </NameGroup>
-        </Guns>
         <Swords>
           <NameGroup>
             <Name>Swords - Polish</Name>
@@ -548,12 +256,6 @@
               <string>Karabela</string>
               <string>Koncerz</string>
               <string>Szabla</string>
-            </Values>
-          </NameGroup>
-          <NameGroup>
-            <Name>Swords - Russian</Name>
-            <Values>
-              <string>Shashka</string>
             </Values>
           </NameGroup>
           <NameGroup>
@@ -571,147 +273,14 @@
             <string>Uhlan</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Military Unit Types - Russian</Name>
-          <Values>
-            <string>Cossack</string>
-            <string>Kazakov</string>
-            <string>Oprichnik</string>
-            <string>Strelet</string>
-          </Values>
-        </NameGroup>
       </MilitaryUnitTypes>
-      <BattleLocations>
-        <NameGroup>
-          <Name>Battle locations</Name>
-          <Values>
-            <string>Kharkov</string>
-            <string>Poltava</string>
-          </Values>
-        </NameGroup>
-      </BattleLocations>
-      <BattleLocations>
-        <NameGroup>
-          <Name>Battle locations - </Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </BattleLocations>
     </Warfare>
-    <BiosphereNames>
-      <Animals>
-        <NameGroup>
-          <Name>Animals - Russian</Name>
-          <Values>
-            <string>Akula</string>
-            <string>Kodiak</string>
-          </Values>
-        </NameGroup>
-      </Animals>
-    </BiosphereNames>
-    <Ships>
-      <Corvette>
-        <NameGroup>
-          <Name>Ships - Russian</Name>
-          <Values>
-            <string>Doblestnyi</string>
-            <string>Soobrazitelny</string>
-          </Values>
-        </NameGroup>
-      </Corvette>
-      <Cruiser>
-        <NameGroup>
-          <Name>Ships - Russian</Name>
-          <Values>
-            <string>Kursk</string>
-          </Values>
-        </NameGroup>
-      </Cruiser>
-      <Science>
-        <NameGroup>
-          <Name>People - Writers - Russian</Name>
-          <Values>
-            <string>Asimov</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Ships - Satellite - Russian</Name>
-          <Values>
-            <string>Sputnik</string>
-          </Values>
-        </NameGroup>
-      </Science>
-      <Coloniser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Coloniser>
-    </Ships>
-    <Armies>
-      <Fleet>
-        <NameGroup>
-          <Name>Fleets</Name>
-          <Values>
-            <string>Iron Curtain Fleet</string>
-          </Values>
-        </NameGroup>
-      </Fleet>
-      <FleetSequentialName>%0% Navy</FleetSequentialName>
-      <DefenceArmySequentialName>%0% Guardians</DefenceArmySequentialName>
-      <AssaultArmySequentialName>%0% Battle Regiment</AssaultArmySequentialName>
-      <OccupationArmySequentialName>%0% Peacekeepers</OccupationArmySequentialName>
-      <SlaveArmySequentialName>%0% Disciplinary Battallion</SlaveArmySequentialName>
-      <CloneArmySequentialName>%0% Clone Battallion</CloneArmySequentialName>
-      <RoboticDefenceArmySequentialName>%0% Robotic Guardians</RoboticDefenceArmySequentialName>
-      <RoboticAssaultArmySequentialName>%0% Robotic Force</RoboticAssaultArmySequentialName>
-      <RoboticOccupationArmySequentialName>%0% Robotic Peacekeepers</RoboticOccupationArmySequentialName>
-      <AndroidDefenceArmySequentialName>%0% Android Guardians</AndroidDefenceArmySequentialName>
-      <AndroidAssaultArmySequentialName>%0% Android Force</AndroidAssaultArmySequentialName>
-      <PsionicArmySequentialName>%0% Psi-Spetsnaz Squad</PsionicArmySequentialName>
-      <XenomorphArmySequentialName>%0% Abomination Pack</XenomorphArmySequentialName>
-      <SuperSoldierArmySequentialName>%0% Spetsnaz Squad</SuperSoldierArmySequentialName>
-    </Armies>
     <Planets>
       <Generic>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth - Russian</Name>
-          <Values>
-            <string>Port Karakosov</string>
-            <string>St. Yegorov</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - Kavithan Protectorate - Russian</Name>
-          <Values>
-            <string>Nikhitha</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Civilisation: Beyond Earth - Slavic Federation - Belorussian</Name>
           <Values>
             <string>Aguya</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - Slavic Federation - Russian</Name>
-          <Values>
-            <string>Averkiy</string>
-            <string>Blesk</string>
-            <string>Heba</string>
-            <string>Istochnik</string>
-            <string>Izot</string>
-            <string>Khrabrost</string>
-            <string>Konechno</string>
-            <string>Krasota</string>
-            <string>Kuzma</string>
-            <string>Pobeda</string>
-            <string>Serik</string>
-            <string>Svyatoy</string>
-            <string>Uspekh</string>
-            <string>Vola</string>
-            <string>Yuriya</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -729,21 +298,13 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Pandora: First Contact - Solar Dynasty - Russian</Name>
-          <Values>
-            <string>Demidov</string>
-            <string>Stakhanov</string>
-            <string>Zhukov</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Pandora: First Contact - Togra University</Name>
           <Values>
             <string>Ružička</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Pax Nova - Eastern Resistance</Name>
+          <Name>Pax Nova - Eastern Resistance - Slavic</Name>
           <Values>
             <string>Kohikaf</string>
             <string>Kremtin</string>
@@ -762,22 +323,6 @@
           </Values>
         </NameGroup>
       </Ocean>
-      <Tundra>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Rus</string>
-          </Values>
-        </NameGroup>
-      </Tundra>
-      <Arctic>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Siberia</string>
-          </Values>
-        </NameGroup>
-      </Arctic>
       <Tomb>
         <NameGroup>
           <Name>Devastated places on Earth</Name>
@@ -790,63 +335,6 @@
       </Tomb>
     </Planets>
     <Characters>
-      <CharacterNames>
-        <Id>russian</Id>
-        <Weight>5</Weight>
-        <MaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/rus-persons-male.txt</Url>
-          </NameGroup>
-        </MaleFirstNames>
-        <MaleRoyalFirstNames>
-          <NameGroup>
-            <Values>
-              <string>Aleksandr</string>
-              <string>Alexei</string>
-              <string>Boris</string>
-              <string>Georgy</string>
-              <string>Ivan</string>
-              <string>Konstantin</string>
-              <string>Mikhail</string>
-              <string>Nikolai</string>
-              <string>Paul</string>
-              <string>Pyotr</string>
-              <string>Sergei</string>
-            </Values>
-          </NameGroup>
-        </MaleRoyalFirstNames>
-        <FemaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/rus-persons-female.txt</Url>
-          </NameGroup>
-        </FemaleFirstNames>
-        <FemaleRoyalFirstNames>
-          <NameGroup>
-            <Values>
-              <string>Alexandra</string>
-              <string>Anastasia</string>
-              <string>Anna</string>
-              <string>Elisaveta</string>
-              <string>Maria</string>
-              <string>Olga</string>
-              <string>Tatiana</string>
-              <string>Yekaterina</string>
-            </Values>
-          </NameGroup>
-        </FemaleRoyalFirstNames>
-        <SecondNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/rus-persons-surnames.txt</Url>
-          </NameGroup>
-        </SecondNames>
-        <RoyalSecondNames>
-          <NameGroup>
-            <Values>
-              <string>Romanov</string>
-            </Values>
-          </NameGroup>
-        </RoyalSecondNames>
-      </CharacterNames>
       <CharacterNames>
         <Id>polish</Id>
         <Weight>1</Weight>

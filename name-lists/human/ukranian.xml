@@ -56,6 +56,15 @@
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations</Name>
+          <Values>
+            <string>Kharkov</string>
+            <string>Poltava</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
     </Warfare>
     <Planets>
       <Generic>
@@ -66,6 +75,23 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Tundra>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>Rus</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+      <Tomb>
+        <NameGroup>
+          <Name>Devastated places on Earth</Name>
+          <Values>
+            <string>Chernobyl</string>
+            <string>Pripyat</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
     </Planets>
   </NameList>
 </ArrayOfNameList>
