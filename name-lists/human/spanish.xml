@@ -10,7 +10,6 @@
           <string>Colombian</string>
           <string>Peruvian</string>
           <string>Spanish</string>
-          <string>Venezuelan</string>
           <string>Visigoth</string>
         </Values>
       </NameGroup>
@@ -27,7 +26,6 @@
             <string>Peru</string>
             <string>Spain</string>
             <string>Uruguay</string>
-            <string>Venezuela</string>
           </Values>
         </NameGroup>
       </Countries>
@@ -127,12 +125,6 @@
             <string>Rio Paraguay</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Rivers - Venezuela</Name>
-          <Values>
-            <string>Orinoco</string>
-          </Values>
-        </NameGroup>
       </Rivers>
       <Mountains>
         <NameGroup>
@@ -196,12 +188,6 @@
             <string>Philip II</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Leaders - Venezuelan</Name>
-          <Values>
-            <string>Chávez</string>
-          </Values>
-        </NameGroup>
       </LeadersTier2>
       <LeadersTier3>
         <NameGroup>
@@ -254,12 +240,6 @@
             <string>San Cristóbal</string>
             <string>San Fernando</string>
             <string>San Lucas</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Solar Dynasty - Venezuelan</Name>
-          <Values>
-            <string>Chávez</string>
           </Values>
         </NameGroup>
         <NameGroup>
