@@ -104,6 +104,12 @@
     <Planets>
       <Generic>
         <NameGroup>
+          <Name>Civilization: Beyond Earth - Brasilia - Translated</Name>
+          <Values>
+            <string>Immanuel</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Stellaris - United Nations of Earth</Name>
           <Values>
             <string>New Jerusalem</string>

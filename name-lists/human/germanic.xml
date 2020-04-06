@@ -277,6 +277,51 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Forests>
+        <NameGroup>
+          <Name>Forests - Austria</Name>
+          <Values>
+            <string>Joglland</string>
+            <string>Sauwald</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Forests - Germany</Name>
+          <Values>
+            <string>Klövensteen</string>
+            <string>Schwarzwald</string>
+            <string>Teutoburg</string>
+            <string>Tönsheide</string>
+            <string>Überwald</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Forests - Norway</Name>
+          <Values>
+            <string>Bærumsmarka</string>
+            <string>Bymarka</string>
+            <string>Gjelleråsen</string>
+            <string>Krokskogen</string>
+            <string>Lillomarka</string>
+            <string>Lommedalen</string>
+            <string>Marka</string>
+            <string>Moldemarka</string>
+            <string>Morskogen</string>
+            <string>Nordmarka</string>
+            <string>Østmarka</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Forests - Sweden</Name>
+          <Values>
+            <string>Ed</string>
+            <string>Kilsbergen</string>
+            <string>Kolmården</string>
+            <string>Tiveden</string>
+            <string>Tylöskog</string>
+          </Values>
+        </NameGroup>
+      </Forests>
       <Rivers>
         <NameGroup>
           <Name>Rivers - Germany</Name>
@@ -326,6 +371,110 @@
           </Values>
         </NameGroup>
       </Rivers>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes - Austria</Name>
+          <Values>
+            <string>Plansee</string>
+            <string>Traunsee</string>
+            <string>Millstatter</string>
+            <string>Gruner</string>
+            <string>Weissensee</string>
+            <string>Faaker</string>
+            <string>Worthersee</string>
+            <string>Mondsee</string>
+            <string>Achensee</string>
+            <string>Wolfgangsee</string>
+            <string>Zeller</string>
+            <string>Hallstatter</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Lakes - Germany</Name>
+          <Values>
+            <string>Alpsee</string>
+            <string>Ammersee</string>
+            <string>Bodensee</string>
+            <string>Chiemsee</string>
+            <string>Eibsee</string>
+            <string>Königssee</string>
+            <string>Mummelsee</string>
+            <string>Müritz</string>
+            <string>Schluchsee</string>
+            <string>Starnberg</string>
+            <string>Tegernsee</string>
+            <string>Titisee</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Lakes - Iceland</Name>
+          <Values>
+            <string>Apavatn</string>
+            <string>Blöndulón</string>
+            <string>Grænalón</string>
+            <string>Hágöngulón</string>
+            <string>Hálslón</string>
+            <string>Hóp</string>
+            <string>Hvítárvatn</string>
+            <string>Jökulsárlón</string>
+            <string>Kvíslavatn</string>
+            <string>Lagarfljót</string>
+            <string>Langisjór</string>
+            <string>Lögurinn</string>
+            <string>Mývatn</string>
+            <string>Sigöldulón</string>
+            <string>Skorradalsvatn</string>
+            <string>Sultartangalón</string>
+            <string>Þingvallavatn</string>
+            <string>Þórisvatn</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Lakes - Norway</Name>
+          <Values>
+            <string>Femunden</string>
+            <string>Limingen</string>
+            <string>Mosvatnet</string>
+            <string>Oyeren</string>
+            <string>Randsfjorden</string>
+            <string>Rossvatnet</string>
+            <string>Snasavatnet</string>
+            <string>Tunnsjoen</string>
+            <string>Tyrifjorden</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Lakes - Sweden</Name>
+          <Values>
+            <string>Akkajaure</string>
+            <string>Asnen</string>
+            <string>Hjalmaren</string>
+            <string>Hornavan</string>
+            <string>Malaren</string>
+            <string>Siljan</string>
+            <string>Storsjon</string>
+            <string>Tornetrask</string>
+            <string>Vanern</string>
+            <string>Vattern</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Lakes - Switzerland</Name>
+          <Values>
+            <string>Bachalpsee</string>
+            <string>Blausee</string>
+            <string>Brienz</string>
+            <string>Geneva</string>
+            <string>Lucerne</string>
+            <string>Lugano</string>
+            <string>Oeschinensee</string>
+            <string>Riffelsee</string>
+            <string>Thun</string>
+            <string>Walensee</string>
+            <string>Zurich</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
     <GreatPeople>
       <Explorers>

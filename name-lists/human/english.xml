@@ -802,7 +802,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Pandora: First Contact - Togra University - Americaa</Name>
+          <Name>Pandora: First Contact - Togra University - American</Name>
           <Values>
             <string>Whipple</string>
           </Values>
@@ -811,6 +811,41 @@
           <Name>Pandora: First Contact - Togra University - British</Name>
           <Values>
             <string>Penrose</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pax Nova - Terran Republic</Name>
+          <Values>
+            <string>Aust</string>
+            <string>Burgh</string>
+            <string>Burton</string>
+            <string>Caister</string>
+            <string>Calne</string>
+            <string>Castor</string>
+            <string>Chirk</string>
+            <string>Crowland</string>
+            <string>Culray</string>
+            <string>Dorking</string>
+            <string>Dysert</string>
+            <string>Hatfield</string>
+            <string>Leiston</string>
+            <string>Liskeard</string>
+            <string>Merton</string>
+            <string>Newbury</string>
+            <string>Orwell</string>
+            <string>Patrington</string>
+            <string>Ravenglass</string>
+            <string>Richmondville</string>
+            <string>Ripley</string>
+            <string>Rye</string>
+            <string>Spalding</string>
+            <string>Stratford</string>
+            <string>Stroud</string>
+            <string>Walden</string>
+            <string>Wenlock</string>
+            <string>Woodbridge</string>
+            <string>Wright</string>
+            <string>Wrotham</string>
           </Values>
         </NameGroup>
         <NameGroup>

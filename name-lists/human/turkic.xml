@@ -119,6 +119,16 @@
         </NameGroup>
       </BattleLocations>
     </Warfare>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Pax Nova - Eastern Resistance</Name>
+          <Values>
+            <string>Argavan</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
     <Characters>
       <CharacterNames>
         <Id>turkish</Id>

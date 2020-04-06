@@ -729,6 +729,12 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Civilisation: Beyond Earth - Kavithan Protectorate - Russian</Name>
+          <Values>
+            <string>Nikhitha</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Civilisation: Beyond Earth - Slavic Federation - Belorussian</Name>
           <Values>
             <string>Aguya</string>
@@ -780,6 +786,17 @@
           <Name>Pandora: First Contact - Togra University</Name>
           <Values>
             <string>Ružička</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pax Nova - Eastern Resistance</Name>
+          <Values>
+            <string>Kohikaf</string>
+            <string>Kremtin</string>
+            <string>Simerad</string>
+            <string>Sorovikha</string>
+            <string>Studov</string>
+            <string>Tekleno</string>
           </Values>
         </NameGroup>
       </Generic>

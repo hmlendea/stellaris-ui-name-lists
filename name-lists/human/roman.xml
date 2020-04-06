@@ -457,6 +457,18 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Civilization: Beyond Earth - African Union - Translated</Name>
+          <Values>
+            <string>Castellum</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilization: Beyond Earth - Slavic Federation - Translated</Name>
+          <Values>
+            <string>Aquila</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Pandora: First Contact - Noxium Corporation</Name>
           <Values>
             <string>Argentarius</string>
@@ -583,6 +595,12 @@
           <Name>Mythology - Places</Name>
           <Values>
             <string>Elysium</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilization: Beyond Earth - Franco-Iberia - Translated</Name>
+          <Values>
+            <string>Mirabilis</string>
           </Values>
         </NameGroup>
         <NameGroup>
