@@ -10,8 +10,6 @@
           <string>Asian</string>
           <string>Indonesian</string>
           <string>Malysian</string>
-          <string>Mongol</string>
-          <string>Mongolian</string>
           <string>Tibetan</string>
           <string>Vietnamese</string>
         </Values>
@@ -22,19 +20,12 @@
         <NameGroup>
           <Name>Countries</Name>
           <Values>
-            <string>Mongolia</string>
             <string>Taiwan</string>
             <string>Tibet</string>
           </Values>
         </NameGroup>
       </Countries>
       <Cities>
-        <NameGroup>
-          <Name>Cities - Mongolia</Name>
-          <Values>
-            <string>Ulan Bator</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - Taiwan</Name>
           <Values>
@@ -80,31 +71,9 @@
           </Values>
         </NameGroup>
       </Mountains>
-      <Deserts>
-        <NameGroup>
-          <Name>Deserts - Mongolia</Name>
-          <Values>
-            <string>Ordos</string>
-          </Values>
-        </NameGroup>
-      </Deserts>
     </Places>
     <GreatPeople>
-      <Scientists>
-        <NameGroup>
-          <Name>Scientists - Mongolian</Name>
-          <Values>
-            <string>Ganzorig</string>
-          </Values>
-        </NameGroup>
-      </Scientists>
       <LeadersTier1>
-        <NameGroup>
-          <Name>Leaders - Mongol</Name>
-          <Values>
-            <string>Kublai Khan</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Leaders - Tibetan</Name>
           <Values>
@@ -112,32 +81,9 @@
           </Values>
         </NameGroup>
       </LeadersTier1>
-      <LeadersTier2>
-        <NameGroup>
-          <Name>Leaders - Mongol</Name>
-          <Values>
-            <string>Genghis Khan</string>
-          </Values>
-        </NameGroup>
-      </LeadersTier2>
-      <GeneralsTier2>
-        <NameGroup>
-          <Name>Generals - Mongol</Name>
-          <Values>
-            <string>Subutai</string>
-          </Values>
-        </NameGroup>
-      </GeneralsTier2>
     </GreatPeople>
     <Warfare>
       <MilitaryUnitTypes>
-        <NameGroup>
-          <Name>Military Unit Types - Mongol</Name>
-          <Values>
-            <string>Keshig</string>
-            <string>Mangudai</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Military Unit Types - Tibetan</Name>
           <Values>
@@ -148,14 +94,6 @@
     </Warfare>
     <Planets>
       <Generic>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - Pan-Asian Cooperative - Mongolian</Name>
-          <Values>
-            <string>Adislal</string>
-            <string>Ganzorig</string>
-            <string>Tenger Bambai</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Civilisation: Beyond Earth - Pan-Asian Cooperative - Vietnamese</Name>
           <Values>
@@ -173,12 +111,6 @@
           <Values>
             <string>Shambhala</string>
             <string>Shangri-La</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth - Mongolian</Name>
-          <Values>
-            <string>Xanadu</string>
           </Values>
         </NameGroup>
       </Gaia>
