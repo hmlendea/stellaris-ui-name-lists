@@ -11,7 +11,6 @@
           <string>Belgian</string>
           <string>Danish</string>
           <string>Dutch</string>
-          <string>German</string>
           <string>Gothic</string>
           <string>Norwegian</string>
           <string>Swiss</string>
@@ -23,11 +22,10 @@
     <Places>
       <Countries>
         <NameGroup>
-          <Name>Countries - Native names</Name>
+          <Name>Countries - Endonyms</Name>
           <Values>
             <string>Belgie</string>
             <string>Danmark</string>
-            <string>Deutschland</string>
             <string>Grønland</string>
             <string>Ísland</string>
             <string>Nederland</string>
@@ -42,7 +40,6 @@
             <string>Austria</string>
             <string>Belgium</string>
             <string>Denmark</string>
-            <string>Germany</string>
             <string>Greenland</string>
             <string>Iceland</string>
             <string>Netherlands</string>
@@ -808,12 +805,6 @@
             <string>Ragnarök</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-            <string>Heisenberg</string>
-          </Values>
-        </NameGroup>
       </Juggernaut>
       <Coloniser>
         <NameGroup>
@@ -838,16 +829,6 @@
         </NameGroup>
       </Transport>
     </Ships>
-    <ShipClasses>
-      <Science>
-        <NameGroup>
-          <Name>Ship Classes - StarCraft - Terran</Name>
-          <Values>
-            <string>Kurzweil</string>
-          </Values>
-        </NameGroup>
-      </Science>
-    </ShipClasses>
     <Stations>
       <MilitaryStations>
         <Generic>
@@ -860,39 +841,17 @@
         </Generic>
       </MilitaryStations>
     </Stations>
-    <Armies>
-      <RoboticDefenceArmySequentialName>%O% Panzer Division</RoboticDefenceArmySequentialName>
-      <RoboticAssaultArmySequentialName>%O% Panzer Division</RoboticAssaultArmySequentialName>
-      <RoboticOccupationArmySequentialName>%0% Panzer Division</RoboticOccupationArmySequentialName>
-      <SuperSoldierArmySequentialName>%O% Supersoldatten Divison</SuperSoldierArmySequentialName>
-    </Armies>
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Pandora: First Contact - Imperium</Name>
-          <Values>
-            <string>Rommel</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Noxium Corporation</Name>
+          <Name>Pandora: First Contact - Noxium Corporation - Swiss</Name>
           <Values>
             <string>Lemann</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Pandora: First Contact - Terra Salvum</Name>
+          <Name>Pandora: First Contact - Togra University - Austrial</Name>
           <Values>
-            <string>Haeckel</string>
-            <string>Linnaeus</string>
-            <string>Möbius</string>
-            <string>Schimper</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Togra University</Name>
-          <Values>
-            <string>Planck</string>
             <string>Zsigmondy</string>
           </Values>
         </NameGroup>
@@ -912,30 +871,6 @@
           <Name>Mythology - Places - Norse</Name>
           <Values>
             <string>Alfheim</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - INTEGR</Name>
-          <Values>
-            <string>Belohnung</string>
-            <string>Blauwald</string>
-            <string>Demut</string>
-            <string>Ehrfurcht</string>
-            <string>Eintracht</string>
-            <string>Entschluss</string>
-            <string>Entwicklung</string>
-            <string>Gemüt</string>
-            <string>Hochachtung</string>
-            <string>Hochburg</string>
-            <string>Kastellan</string>
-            <string>Schwerweg</string>
-            <string>Streben</string>
-            <string>Trutzburg</string>
-            <string>Wächter</string>
-            <string>Wahrheit</string>
-            <string>Weisheit</string>
-            <string>Weltgeist</string>
-            <string>Zenit</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -966,12 +901,6 @@
             <string>Duncankeld</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - Franco-Iberia - Old High German</Name>
-          <Values>
-            <string>Beraht</string>
-          </Values>
-        </NameGroup>
       </Generic>
       <Desert>
         <NameGroup>
@@ -996,15 +925,6 @@
           </Values>
         </NameGroup>
       </Continental>
-      <Ocean>
-        <NameGroup>
-          <Name>Based on rivers</Name>
-          <Values>
-            <string>Elba</string>
-            <string>Rheinland</string>
-          </Values>
-        </NameGroup>
-      </Ocean>
       <Tundra>
         <NameGroup>
           <Name>Countries</Name>
@@ -1053,26 +973,6 @@
           </Values>
         </NameGroup>
       </Arctic>
-      <Tomb>
-        <NameGroup>
-          <Name>Pandora: First Contact - Togra University</Name>
-          <Values>
-            <string>Heisenberg</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Words</Name>
-          <Values>
-            <string>Krieg</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Places</Name>
-          <Values>
-            <string>Auschwitz</string>
-          </Values>
-        </NameGroup>
-      </Tomb>
       <Molten>
         <NameGroup>
           <Name>Mythology - Places</Name>
