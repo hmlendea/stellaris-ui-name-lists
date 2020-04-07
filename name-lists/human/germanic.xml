@@ -25,7 +25,6 @@
             <string>Austria</string>
             <string>Belgium</string>
             <string>Greenland</string>
-            <string>Iceland</string>
             <string>Netherlands</string>
             <string>Switzerland</string>
           </Values>
@@ -35,7 +34,6 @@
           <Values>
             <string>Belgie</string>
             <string>Grønland</string>
-            <string>Ísland</string>
             <string>Nederland</string>
             <string>Osterreich</string>
             <string>Schweiz</string>
@@ -68,19 +66,6 @@
             <string>Wien</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Regions - Iceland</Name>
-          <Values>
-            <string>Austurland</string>
-            <string>Höfuðborgarsvæðið</string>
-            <string>Norðurland eystra	</string>
-            <string>Norðurland vestra</string>
-            <string>Suðurland</string>
-            <string>Suðurnes</string>
-            <string>Vestfirðir</string>
-            <string>Vesturland</string>
-          </Values>
-        </NameGroup>
       </Regions>
       <Cities>
         <NameGroup>
@@ -109,18 +94,6 @@
           <Values>
             <string>Antwerpen</string>
             <string>Brussel</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Iceland</Name>
-          <Values>
-            <string>Akureyri</string>
-            <string>Garðabær</string>
-            <string>Hafnarfjörður</string>
-            <string>Kópavogur</string>
-            <string>Mosfellsbær</string>
-            <string>Reykjanesbær</string>
-            <string>Reykjavík</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -166,42 +139,6 @@
           </Values>
         </NameGroup>
       </Forests>
-      <Rivers>
-        <NameGroup>
-          <Name>Rivers - Iceland</Name>
-          <Values>
-            <string>Blanda</string>
-            <string>Eyjafjarðará</string>
-            <string>Fnjóská</string>
-            <string>Fossá</string>
-            <string>Glerá</string>
-            <string>Hamarsá</string>
-            <string>Héraðsvötn</string>
-            <string>Hofsá</string>
-            <string>Hörgá</string>
-            <string>Hvítá</string>
-            <string>Jökulsá</string>
-            <string>Krossá</string>
-            <string>Kúðafljót</string>
-            <string>Lagarfljót</string>
-            <string>Laxá</string>
-            <string>Markarfljót</string>
-            <string>Múlakvísl</string>
-            <string>Norðurá</string>
-            <string>Ölfusá</string>
-            <string>Rangá</string>
-            <string>Selfljót</string>
-            <string>Skaftá</string>
-            <string>Skeiðará</string>
-            <string>Skjálfandafljót</string>
-            <string>Skógá</string>
-            <string>Sog</string>
-            <string>Tungnaá</string>
-            <string>Vatnsdalur</string>
-            <string>Þjórsá</string>
-          </Values>
-        </NameGroup>
-      </Rivers>
       <Lakes>
         <NameGroup>
           <Name>Lakes - Austria</Name>
@@ -218,29 +155,6 @@
             <string>Wolfgangsee</string>
             <string>Zeller</string>
             <string>Hallstatter</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Lakes - Iceland</Name>
-          <Values>
-            <string>Apavatn</string>
-            <string>Blöndulón</string>
-            <string>Grænalón</string>
-            <string>Hágöngulón</string>
-            <string>Hálslón</string>
-            <string>Hóp</string>
-            <string>Hvítárvatn</string>
-            <string>Jökulsárlón</string>
-            <string>Kvíslavatn</string>
-            <string>Lagarfljót</string>
-            <string>Langisjór</string>
-            <string>Lögurinn</string>
-            <string>Mývatn</string>
-            <string>Sigöldulón</string>
-            <string>Skorradalsvatn</string>
-            <string>Sultartangalón</string>
-            <string>Þingvallavatn</string>
-            <string>Þórisvatn</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -379,6 +293,7 @@
         </NameGroup>
       </SpacecraftManufacturers>
     </Companies>
+    <Warfare>
       <MilitaryUnitTypes>
         <NameGroup>
           <Name>Military Unit Types</Name>
@@ -524,13 +439,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - North Sea Alliance - Icelandic</Name>
-          <Values>
-            <string>Himinn</string>
-            <string>Örlög</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Civilisation: Beyond Earth - North Sea Alliance - Old Norse</Name>
           <Values>
             <string>Duncankeld</string>
@@ -555,18 +463,6 @@
         </NameGroup>
       </Continental>
       <Tundra>
-        <NameGroup>
-          <Name>Countries</Name>
-          <Values>
-            <string>Iceland</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Countries - Native names</Name>
-          <Values>
-            <string>Ísland</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Mythology - Places - Norse</Name>
           <Values>
