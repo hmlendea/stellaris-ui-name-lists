@@ -9,7 +9,6 @@
         <Values>
           <string>Austrian</string>
           <string>Belgian</string>
-          <string>Danish</string>
           <string>Dutch</string>
           <string>Gothic</string>
           <string>Swiss</string>
@@ -25,7 +24,6 @@
           <Values>
             <string>Austria</string>
             <string>Belgium</string>
-            <string>Denmark</string>
             <string>Greenland</string>
             <string>Iceland</string>
             <string>Netherlands</string>
@@ -36,7 +34,6 @@
           <Name>Countries - Endonyms</Name>
           <Values>
             <string>Belgie</string>
-            <string>Danmark</string>
             <string>Grønland</string>
             <string>Ísland</string>
             <string>Nederland</string>
@@ -112,19 +109,6 @@
           <Values>
             <string>Antwerpen</string>
             <string>Brussel</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Denmark</Name>
-          <Values>
-            <string>Aarhus</string>
-            <string>Copenhagen</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Denmark - Endonyms</Name>
-          <Values>
-            <string>København</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -328,12 +312,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Leaders - Danish</Name>
-          <Values>
-            <string>Harald Bluetooth</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Leaders - Dutch</Name>
           <Values>
             <string>Willem van Oranje</string>
@@ -394,12 +372,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Spacecraft Manufacturers - Danish</Name>
-          <Values>
-            <string>GomSpace</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Spacecraft Manufacturers - Dutch</Name>
           <Values>
             <string>Fokker</string>
@@ -407,17 +379,6 @@
         </NameGroup>
       </SpacecraftManufacturers>
     </Companies>
-    <Warfare>
-      <Weapons>
-        <Swords>
-          <NameGroup>
-            <Name>Swords - Danish</Name>
-            <Values>
-              <string>Sparth</string>
-            </Values>
-          </NameGroup>
-        </Swords>
-      </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
           <Name>Military Unit Types</Name>
@@ -560,13 +521,6 @@
           <Name>Mythology - Places - Norse</Name>
           <Values>
             <string>Alfheim</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - North Sea Alliance - Danish</Name>
-          <Values>
-            <string>Klog Hjerte</string>
-            <string>Vanfald</string>
           </Values>
         </NameGroup>
         <NameGroup>

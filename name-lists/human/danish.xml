@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_danish</Id>
+    <Name>Human - Danish</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Danish</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Denmark</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Danmark</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Aarhus</string>
+            <string>Copenhagen</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Endonyms</Name>
+          <Values>
+            <string>København</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <GreatPeople>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Harald Bluetooth</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
+    </GreatPeople>
+    <Companies>
+      <SpacecraftManufacturers>
+        <NameGroup>
+          <Name>Spacecraft Manufacturers</Name>
+          <Values>
+            <string>GomSpace</string>
+          </Values>
+        </NameGroup>
+      </SpacecraftManufacturers>
+    </Companies>
+    <Warfare>
+      <Weapons>
+        <Swords>
+          <NameGroup>
+            <Name>Swords</Name>
+            <Values>
+              <string>Sparth</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+      </Weapons>
+    </Warfare>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - North Sea Alliance</Name>
+          <Values>
+            <string>Klog Hjerte</string>
+            <string>Vanfald</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
