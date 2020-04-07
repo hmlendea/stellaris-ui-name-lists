@@ -80,5 +80,62 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
+    <Characters>
+      <CharacterNames>
+        <Id>portuguese</Id>
+        <Weight>6</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/por-persons-male.txt</Url>
+          </NameGroup>
+        </MaleFirstNames>
+        <MaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Afonso</string>
+              <string>Carlos</string>
+              <string>Fernando</string>
+              <string>Jaime</string>
+              <string>João</string>
+              <string>Luís</string>
+              <string>Miguel</string>
+              <string>Pedro</string>
+              <string>Teodósio</string>
+            </Values>
+          </NameGroup>
+        </MaleRoyalFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/por-persons-female.txt</Url>
+          </NameGroup>
+        </FemaleFirstNames>
+        <FemaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Eleanora</string>
+              <string>Francisca</string>
+              <string>Isabel</string>
+              <string>Leopoldina</string>
+              <string>Maria</string>
+              <string>Pia</string>
+              <string>Teodora</string>
+              <string>Teresa</string>
+            </Values>
+          </NameGroup>
+        </FemaleRoyalFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/por-persons-surnames.txt</Url>
+          </NameGroup>
+        </SecondNames>
+        <RoyalSecondNames>
+          <NameGroup>
+            <Values>
+              <string>de Braganza</string>
+            </Values>
+          </NameGroup>
+        </RoyalSecondNames>
+      </CharacterNames>
+    </Characters>
   </NameList>
 </ArrayOfNameList>
