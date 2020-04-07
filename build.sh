@@ -97,6 +97,8 @@ build "ui_extra_humans_italian"         "Human - Italian"       "L" human/italia
 build "ui_extra_humans_japanese"        "Human - Japanese"      "L" human/japanese
 build "ui_extra_humans_latino"          "Human - Latino"        "L" \
     human/argentinian human/brazilian human/cuban human/guatemalan human/mexican human/spanish human/venezuelan human/common_portuguese
+build "ui_extra_humans_norse"           "Human - Norse"         "L" \
+    human/danish human/icelandic human/norwegian human/swedish human/common_norse
 build "ui_extra_humans_portuguese"      "Human - Portuguese"    "L" human/brazilian human/portuguese human/common_portuguese
 build "ui_extra_humans_romanian"        "Human - Romanian"      "L" human/romanian
 build "ui_extra_humans_romance"         "Human - Romance"       "L" \
