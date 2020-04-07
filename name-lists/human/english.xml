@@ -8,7 +8,6 @@
         <Name>Denonyms</Name>
         <Values>
           <string>American</string>
-          <string>Australian</string>
           <string>British</string>
           <string>Canadian</string>
           <string>English</string>
@@ -22,7 +21,6 @@
         <NameGroup>
           <Name>Countries</Name>
           <Values>
-            <string>Australia</string>
             <string>Britain</string>
             <string>Canada</string>
             <string>England</string>
@@ -34,17 +32,6 @@
         </NameGroup>
       </Countries>
       <Regions>
-        <NameGroup>
-          <Name>Regions - Australia</Name>
-          <Values>
-            <string>New South Wales</string>
-            <string>Qeensland</string>
-            <string>South Australia</string>
-            <string>Tasmania</string>
-            <string>Victoria</string>
-            <string>Western Australia</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Regions - Canada</Name>
           <Values>
@@ -127,17 +114,6 @@
         </NameGroup>
       </Regions>
       <Cities>
-        <NameGroup>
-          <Name>Cities - Australia</Name>
-          <Values>
-            <string>Brisbane</string>
-            <string>Canberra</string>
-            <string>Melbourne</string>
-            <string>Perth</string>
-            <string>Springfield</string>
-            <string>Sydney</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - Canada</Name>
           <Values>
@@ -255,14 +231,6 @@
         </NameGroup>
       </Cities>
       <Deserts>
-        <NameGroup>
-          <Name>Deserts - Australia</Name>
-          <Values>
-            <string>Gibson</string>
-            <string>Simpson</string>
-            <string>Tanami</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Deserts - United States</Name>
           <Values>
@@ -431,19 +399,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Flying Aces - Australia</Name>
-          <Values>
-            <string>Caldwell</string>
-            <string>Cobby</string>
-            <string>Dallas</string>
-            <string>Goldsmith</string>
-            <string>King</string>
-            <string>Little</string>
-            <string>McCloughry</string>
-            <string>Pentland</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Flying Aces - British</Name>
           <Values>
             <string>MacLachlan</string>
@@ -543,12 +498,6 @@
           <Values>
             <string>Gulfstream</string>
             <string>United Technologies</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Aircraft manufacturers - Australian</Name>
-          <Values>
-            <string>Brumby</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -905,15 +854,6 @@
             <string>Deepcastle</string>
             <string>Wideway</string>
             <string>Oceanham</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - Polystralia - English</Name>
-          <Values>
-            <string>Freeland</string>
-            <string>Holyfield</string>
-            <string>New Hope</string>
-            <string>Richport</string>
           </Values>
         </NameGroup>
       </Generic>
