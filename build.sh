@@ -87,7 +87,7 @@ build "ui_extra_humans_asian"           "Human - Asian"         "L"
 build "ui_extra_humans_austronesian"    "Human - Austronesian"  "L" human/austronesian
 build "ui_extra_humans_celtic"          "Human - Celtic"        "L" human/celtic
 build "ui_extra_humans_chinese"         "Human - Chinese"       "L" human/chinese human/common_asian
-build "ui_extra_humans_english"         "Human - English"       "L" human/american human/australian human/english
+build "ui_extra_humans_english"         "Human - English"       "L" human/american human/australian human/canadian human/english
 build "ui_extra_humans_french"          "Human - French"        "L" human/french
 build "ui_extra_humans_germanic"        "Human - Germanic"      "L" human/germanic
 build "ui_extra_humans_hellenic"        "Human - Hellenic"      "L" human/hellenic
@@ -106,8 +106,8 @@ build "ui_extra_humans_slavic"          "Human - Slavic"        "L" human/bulgar
 build "ui_extra_humans_spqr_extended"   "Human - Roman"         "L" human/roman human/human3
 build "ui_extra_humans_turkic"          "Human - Turkic"        "L" human/turkic
 build "ui_extra_humans_extended"        "Human - Extended"      "L" \
-      human/afghan human/african human/american human/arabic human/argentinian human/armenian human/australian human/austronesian human/baltic human/brazilian \
-      human/bulgarian human/catalan human/celtic human/chinese human/cuban human/english human/french human/germanic \
+      human/afghan human/african human/american human/arabic human/argentinian human/armenian human/australian human/austronesian human/baltic \
+      human/brazilian human/bulgarian human/canadian human/catalan human/celtic human/chinese human/cuban human/english human/french human/germanic \
       human/guatemalan human/hebrew human/hellenic human/hindi human/hungarian human/italian human/japanese human/korean human/mexican \
       human/mongol human/persian human/portuguese human/roman human/romanian human/russian human/spanish human/tibetan \
       human/turkic human/ukrainian human/venezuelan \
