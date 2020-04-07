@@ -14,7 +14,6 @@
           <string>German</string>
           <string>Gothic</string>
           <string>Norwegian</string>
-          <string>Swedish</string>
           <string>Swiss</string>
           <string>Vandal</string>
           <string>Viking</string>
@@ -35,7 +34,6 @@
             <string>Norge</string>
             <string>Osterreich</string>
             <string>Schweiz</string>
-            <string>Sverige</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -49,7 +47,6 @@
             <string>Iceland</string>
             <string>Netherlands</string>
             <string>Norway</string>
-            <string>Sweden</string>
             <string>Switzerland</string>
           </Values>
         </NameGroup>
@@ -132,12 +129,6 @@
             <string>Suðurnes</string>
             <string>Vestfirðir</string>
             <string>Vesturland</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Regions - Sweden</Name>
-          <Values>
-            <string>Göta</string>
           </Values>
         </NameGroup>
       </Regions>
@@ -246,15 +237,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Sweden</Name>
-          <Values>
-            <string>Gothenburg</string>
-            <string>Lund</string>
-            <string>Malmö</string>
-            <string>Stockholm</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Switzerland</Name>
           <Values>
             <string>Bern</string>
@@ -311,16 +293,6 @@
             <string>Østmarka</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Forests - Sweden</Name>
-          <Values>
-            <string>Ed</string>
-            <string>Kilsbergen</string>
-            <string>Kolmården</string>
-            <string>Tiveden</string>
-            <string>Tylöskog</string>
-          </Values>
-        </NameGroup>
       </Forests>
       <Rivers>
         <NameGroup>
@@ -362,12 +334,6 @@
             <string>Tungnaá</string>
             <string>Vatnsdalur</string>
             <string>Þjórsá</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Rivers - Sweden</Name>
-          <Values>
-            <string>Göta</string>
           </Values>
         </NameGroup>
       </Rivers>
@@ -444,21 +410,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Lakes - Sweden</Name>
-          <Values>
-            <string>Akkajaure</string>
-            <string>Asnen</string>
-            <string>Hjalmaren</string>
-            <string>Hornavan</string>
-            <string>Malaren</string>
-            <string>Siljan</string>
-            <string>Storsjon</string>
-            <string>Tornetrask</string>
-            <string>Vanern</string>
-            <string>Vattern</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Lakes - Switzerland</Name>
           <Values>
             <string>Bachalpsee</string>
@@ -513,13 +464,6 @@
             <string>Von Braun</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Scientists - Swedish</Name>
-          <Values>
-            <string>Linnaeus</string>
-            <string>Nobel</string>
-          </Values>
-        </NameGroup>
       </Scientists>
       <LeadersTier1>
         <NameGroup>
@@ -532,12 +476,6 @@
           <Name>Leaders - Dutch</Name>
           <Values>
             <string>Wilhelmina</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Leaders - Sweden</Name>
-          <Values>
-            <string>Kristina</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -576,12 +514,6 @@
           <Name>Leaders - Norwegian</Name>
           <Values>
             <string>Harald Hardrada</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Leaders - Swedish</Name>
-          <Values>
-            <string>Gustavus Adolphus</string>
           </Values>
         </NameGroup>
       </LeadersTier2>
@@ -781,12 +713,6 @@
             <string>Huskarl</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Military Unit Types - Swedish</Name>
-          <Values>
-            <string>Carolean</string>
-          </Values>
-        </NameGroup>
       </MilitaryUnitTypes>
       <ShipTypes>
         <NameGroup>
@@ -828,12 +754,6 @@
     </BiosphereNames>
     <Ships>
       <Corvette>
-        <NameGroup>
-          <Name>Ships - Swedish</Name>
-          <Values>
-            <string>Dristigheten</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Persons - Politics - Anglo-saxon</Name>
           <Values>
@@ -1047,14 +967,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - North Sea Alliance - Swedish</Name>
-          <Values>
-            <string>Fjarran</string>
-            <string>Helgedom</string>
-            <string>Ståndaktig</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Civilisation: Beyond Earth - Franco-Iberia - Old High German</Name>
           <Values>
             <string>Beraht</string>
@@ -1246,25 +1158,6 @@
         <SecondNames>
           <NameGroup>
             <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/nld-persons-surnames.txt</Url>
-          </NameGroup>
-        </SecondNames>
-      </CharacterNames>
-      <CharacterNames>
-        <Id>swedish</Id>
-        <Weight>1</Weight>
-        <MaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/swe-persons-male.txt</Url>
-          </NameGroup>
-        </MaleFirstNames>
-        <FemaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/swe-persons-female.txt</Url>
-          </NameGroup>
-        </FemaleFirstNames>
-        <SecondNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/swe-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>
