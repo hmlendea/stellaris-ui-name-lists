@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_germanic</Id>
+    <Name>Human - Germanic</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Norse</string>
+          <string>Viking</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Scandinavia</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+    </Places>
+    <GreatPeople>
+      <Explorers>
+        <NameGroup>
+          <Name>Explorers</Name>
+          <Values>
+            <string>Leif Ericson</string>
+          </Values>
+        </NameGroup>
+      </Explorers>
+    </GreatPeople>
+    <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types</Name>
+          <Values>
+            <string>Berserker</string>
+            <string>Huskarl</string>
+            <string>Viking</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+      <ShipTypes>
+        <NameGroup>
+          <Name>Ship Types</Name>
+          <Values>
+            <string>Longboat</string>
+          </Values>
+        </NameGroup>
+      </ShipTypes>
+    </Warfare>
+    <Ships>
+      <Cruiser>
+        <NameGroup>
+          <Name>Mythology</Name>
+          <Values>
+            <string>Fafnir</string>
+            <string>Fenris</string>
+            <string>Freya</string>
+            <string>Loki</string>
+            <string>Mjolnir</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Battleship>
+        <NameGroup>
+          <Name>Mythology</Name>
+          <Values>
+            <string>Valkyrie</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Juggernaut>
+        <NameGroup>
+          <Name>Vanilla</Name>
+          <Values>
+            <string>Ragnarök</string>
+          </Values>
+        </NameGroup>
+      </Juggernaut>
+      <Coloniser>
+        <NameGroup>
+          <Name>Mythology</Name>
+          <Values>
+            <string>Valhalla</string>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+      <Transport>
+        <NameGroup>
+          <Name>Mythology - Ships</Name>
+          <Values>
+            <string>Nagglfar</string>
+          </Values>
+        </NameGroup>
+      </Transport>
+    </Ships>
+    <Planets>
+        <NameGroup>
+          <Name>Mythology - Places</Name>
+          <Values>
+            <string>Alfheim</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - North Sea Alliance</Name>
+          <Values>
+            <string>Duncankeld</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Desert>
+        <NameGroup>
+          <Name>Mythology</Name>
+          <Values>
+            <string>Muspelheim</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Mythology - Places</Name>
+          <Values>
+            <string>Asgard</string>
+            <string>Midgard</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Tundra>
+        <NameGroup>
+          <Name>Mythology - Places</Name>
+          <Values>
+            <string>Utgard</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Puzzle Pirates</Name>
+          <Values>
+            <string>Jorvik</string>
+            <string>Norse</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+      <Arctic>
+        <NameGroup>
+          <Name>Mythology - Places</Name>
+          <Values>
+            <string>Jotunheim</string>
+            <string>Niflheim</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+      <Molten>
+        <NameGroup>
+          <Name>Mythology - Places</Name>
+          <Values>
+            <string>Muspelheim</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
