@@ -12,7 +12,6 @@
           <string>Danish</string>
           <string>Dutch</string>
           <string>Gothic</string>
-          <string>Norwegian</string>
           <string>Swiss</string>
           <string>Vandal</string>
           <string>Viking</string>
@@ -22,19 +21,6 @@
     <Places>
       <Countries>
         <NameGroup>
-          <Name>Countries - Endonyms</Name>
-          <Values>
-            <string>Belgie</string>
-            <string>Danmark</string>
-            <string>Grønland</string>
-            <string>Ísland</string>
-            <string>Nederland</string>
-            <string>Norge</string>
-            <string>Osterreich</string>
-            <string>Schweiz</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Countries</Name>
           <Values>
             <string>Austria</string>
@@ -43,8 +29,19 @@
             <string>Greenland</string>
             <string>Iceland</string>
             <string>Netherlands</string>
-            <string>Norway</string>
             <string>Switzerland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Belgie</string>
+            <string>Danmark</string>
+            <string>Grønland</string>
+            <string>Ísland</string>
+            <string>Nederland</string>
+            <string>Osterreich</string>
+            <string>Schweiz</string>
           </Values>
         </NameGroup>
       </Countries>
@@ -72,47 +69,6 @@
             <string>Steiermark</string>
             <string>Tirol</string>
             <string>Wien</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Regions - Germany</Name>
-          <Values>
-            <string>Anhalt</string>
-            <string>Baden-Württemberg</string>
-            <string>Baden</string>
-            <string>Bavaria</string>
-            <string>Berlin</string>
-            <string>Brandenburg</string>
-            <string>Bremen</string>
-            <string>Hamburg</string>
-            <string>Hesse</string>
-            <string>Holstein</string>
-            <string>Lower Saxony</string>
-            <string>Mecklenburg</string>
-            <string>North Rhine</string>
-            <string>Palatinate</string>
-            <string>Rhineland</string>
-            <string>Saarland</string>
-            <string>Saxony</string>
-            <string>Schleswig</string>
-            <string>Thuringia</string>
-            <string>Vorpommern</string>
-            <string>Westphalia</string>
-            <string>Württemberg</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Regions - Germany - Endonyms</Name>
-          <Values>
-            <string>Bayern</string>
-            <string>Hessen</string>
-            <string>Niedersachsen</string>
-            <string>Nordrhein</string>
-            <string>Pfalz</string>
-            <string>Rheinland</string>
-            <string>Sachsen</string>
-            <string>Thüringen</string>
-            <string>Westfalen</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -172,37 +128,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Germany</Name>
-          <Values>
-            <string>Aachen</string>
-            <string>Augsburg</string>
-            <string>Berlin</string>
-            <string>Bonn</string>
-            <string>Bremen</string>
-            <string>Dortmund</string>
-            <string>Dresden</string>
-            <string>Duisburg</string>
-            <string>Düsseldorf</string>
-            <string>Essen</string>
-            <string>Frankfurt</string>
-            <string>Freiburg</string>
-            <string>Hamburg</string>
-            <string>Hannover</string>
-            <string>Karlsruhe</string>
-            <string>Köln</string>
-            <string>Leipzig</string>
-            <string>Lübeck</string>
-            <string>Mainz</string>
-            <string>Mannheim</string>
-            <string>München</string>
-            <string>Münster</string>
-            <string>Nürnberg</string>
-            <string>Potsdam</string>
-            <string>Rostock</string>
-            <string>Stuttgart</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Iceland</Name>
           <Values>
             <string>Akureyri</string>
@@ -223,14 +148,6 @@
             <string>Rotterdam</string>
             <string>The Hague</string>
             <string>Utrecht</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Norway</Name>
-          <Values>
-            <string>Narvik</string>
-            <string>Oslo</string>
-            <string>Trondheim</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -264,41 +181,8 @@
             <string>Sauwald</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Forests - Germany</Name>
-          <Values>
-            <string>Klövensteen</string>
-            <string>Schwarzwald</string>
-            <string>Teutoburg</string>
-            <string>Tönsheide</string>
-            <string>Überwald</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Forests - Norway</Name>
-          <Values>
-            <string>Bærumsmarka</string>
-            <string>Bymarka</string>
-            <string>Gjelleråsen</string>
-            <string>Krokskogen</string>
-            <string>Lillomarka</string>
-            <string>Lommedalen</string>
-            <string>Marka</string>
-            <string>Moldemarka</string>
-            <string>Morskogen</string>
-            <string>Nordmarka</string>
-            <string>Østmarka</string>
-          </Values>
-        </NameGroup>
       </Forests>
       <Rivers>
-        <NameGroup>
-          <Name>Rivers - Germany</Name>
-          <Values>
-            <string>Danube</string>
-            <string>Rhine</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Rivers - Iceland</Name>
           <Values>
@@ -353,23 +237,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Lakes - Germany</Name>
-          <Values>
-            <string>Alpsee</string>
-            <string>Ammersee</string>
-            <string>Bodensee</string>
-            <string>Chiemsee</string>
-            <string>Eibsee</string>
-            <string>Königssee</string>
-            <string>Mummelsee</string>
-            <string>Müritz</string>
-            <string>Schluchsee</string>
-            <string>Starnberg</string>
-            <string>Tegernsee</string>
-            <string>Titisee</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Lakes - Iceland</Name>
           <Values>
             <string>Apavatn</string>
@@ -390,20 +257,6 @@
             <string>Sultartangalón</string>
             <string>Þingvallavatn</string>
             <string>Þórisvatn</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Lakes - Norway</Name>
-          <Values>
-            <string>Femunden</string>
-            <string>Limingen</string>
-            <string>Mosvatnet</string>
-            <string>Oyeren</string>
-            <string>Randsfjorden</string>
-            <string>Rossvatnet</string>
-            <string>Snasavatnet</string>
-            <string>Tunnsjoen</string>
-            <string>Tyrifjorden</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -446,21 +299,6 @@
             <string>Fahrenheit</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Scientists - German</Name>
-          <Values>
-            <string>Copernicus</string>
-            <string>Einstein</string>
-            <string>Haeckel</string>
-            <string>Heisenberg</string>
-            <string>Kepler</string>
-            <string>Konrad Zuse</string>
-            <string>Möbius</string>
-            <string>Planck</string>
-            <string>Schimper</string>
-            <string>Von Braun</string>
-          </Values>
-        </NameGroup>
       </Scientists>
       <LeadersTier1>
         <NameGroup>
@@ -501,34 +339,7 @@
             <string>Willem van Oranje</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Leaders - German</Name>
-          <Values>
-            <string>Frederick the Great</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Leaders - Norwegian</Name>
-          <Values>
-            <string>Harald Hardrada</string>
-          </Values>
-        </NameGroup>
       </LeadersTier2>
-      <LeadersTier3>
-        <NameGroup>
-          <Name>Leaders - German</Name>
-          <Values>
-            <string>Barbarossa</string>
-            <string>Bismarck</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Leaders - Norwegian</Name>
-          <Values>
-            <string>Ragnar</string>
-          </Values>
-        </NameGroup>
-      </LeadersTier3>
       <FlyingAces>
         <NameGroup>
           <Name>Flying Aces - Austrian</Name>
@@ -536,22 +347,8 @@
             <string>Brumowski</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Flying Aces - German</Name>
-          <Values>
-            <string>Hartmann</string>
-            <string>Mölders</string>
-            <string>Richthofen</string>
-          </Values>
-        </NameGroup>
       </FlyingAces>
       <Heroes>
-        <NameGroup>
-          <Name>Heroes - German</Name>
-          <Values>
-            <string>Brunhild</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Heroes - Swiss</Name>
           <Values>
@@ -572,55 +369,14 @@
             <string>De Ruyter</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Admirals - German</Name>
-          <Values>
-            <string>Hipper</string>
-          </Values>
-        </NameGroup>
       </Admirals>
-      <GeneralsTier2>
-        <NameGroup>
-          <Name>Generals - German</Name>
-          <Values>
-            <string>Hindenburg</string>
-            <string>Rommel</string>
-          </Values>
-        </NameGroup>
-      </GeneralsTier2>
     </GreatPeople>
     <Companies>
-      <RobotManufacturers>
-        <NameGroup>
-          <Name>Robot Manufacturers - Alien - German</Name>
-          <Values>
-            <string>Seegson</string>
-          </Values>
-        </NameGroup>
-      </RobotManufacturers>
-      <AutomotiveManufacturers>
-        <NameGroup>
-          <Name>Automotive Manufacturers - German</Name>
-          <Values>
-            <string>Audi</string>
-            <string>Mercedes-Benz</string>
-            <string>Opel</string>
-            <string>Porsche</string>
-            <string>Volkswagen</string>
-          </Values>
-        </NameGroup>
-      </AutomotiveManufacturers>
       <AircraftManufacturers>
         <NameGroup>
           <Name>Aircraft Manufacturers - Austrian</Name>
           <Values>
             <string>Diamond Aircraft</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Aircraft Manufacturers - German</Name>
-          <Values>
-            <string>Roland</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -653,34 +409,11 @@
     </Companies>
     <Warfare>
       <Weapons>
-        <Artillery>
-          <NameGroup>
-            <Name>Artillery - German</Name>
-            <Values>
-              <string>Nebelwerfer</string>
-            </Values>
-          </NameGroup>
-        </Artillery>
-        <Guns>
-          <NameGroup>
-            <Name>Guns - German</Name>
-            <Values>
-              <string>Hakenbüchse</string>
-            </Values>
-          </NameGroup>
-        </Guns>
         <Swords>
           <NameGroup>
             <Name>Swords - Danish</Name>
             <Values>
               <string>Sparth</string>
-            </Values>
-          </NameGroup>
-          <NameGroup>
-            <Name>Swords - German</Name>
-            <Values>
-              <string>Katzbalger</string>
-              <string>Flamberge</string>
             </Values>
           </NameGroup>
         </Swords>
@@ -692,16 +425,6 @@
             <string>Berserker</string>
             <string>Templar</string>
             <string>Viking</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Military Unit Types - German</Name>
-          <Values>
-            <string>Doppelsöldner</string>
-            <string>Landsknechte</string>
-            <string>Panzer</string>
-            <string>Reiter</string>
-            <string>Volksgrenadier</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -739,28 +462,12 @@
         </NameGroup>
       </BattleLocations>
     </Warfare>
-    <BiosphereNames>
-      <MythologicalCreatures>
-        <NameGroup>
-          <Name>Mythological Creatures</Name>
-          <Values>
-            <string>Krampus</string>
-          </Values>
-        </NameGroup>
-      </MythologicalCreatures>
-    </BiosphereNames>
     <Ships>
       <Corvette>
         <NameGroup>
           <Name>Persons - Politics - Anglo-saxon</Name>
           <Values>
             <string>Ethelfleda</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Art - German</Name>
-          <Values>
-            <string>Orff</string>
           </Values>
         </NameGroup>
       </Corvette>
@@ -773,12 +480,6 @@
         </NameGroup>
       </Destroyer>
       <Cruiser>
-        <NameGroup>
-          <Name>Ships - German</Name>
-          <Values>
-            <string>Scharnhorst</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Mythology - Norse</Name>
           <Values>
@@ -829,18 +530,6 @@
         </NameGroup>
       </Transport>
     </Ships>
-    <Stations>
-      <MilitaryStations>
-        <Generic>
-          <NameGroup>
-            <Name>Ships - German</Name>
-            <Values>
-              <string>Tirpitz</string>
-            </Values>
-          </NameGroup>
-        </Generic>
-      </MilitaryStations>
-    </Stations>
     <Planets>
       <Generic>
         <NameGroup>
@@ -888,14 +577,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - North Sea Alliance - Norwegian</Name>
-          <Values>
-            <string>Bredt Øye</string>
-            <string>Gryten</string>
-            <string>Sìorraidh</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Civilisation: Beyond Earth - North Sea Alliance - Old Norse</Name>
           <Values>
             <string>Duncankeld</string>
@@ -916,12 +597,6 @@
           <Values>
             <string>Asgard</string>
             <string>Midgard</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Germany</Name>
-          <Values>
-            <string>Neu Berlin</string>
           </Values>
         </NameGroup>
       </Continental>
