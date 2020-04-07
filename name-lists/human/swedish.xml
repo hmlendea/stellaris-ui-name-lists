@@ -140,6 +140,12 @@
             <string>Ståndaktig</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Terra Salvum</Name>
+          <Values>
+            <string>Linnaeus</string>
+          </Values>
+        </NameGroup>
       </Generic>
     </Planets>
     <Characters>
