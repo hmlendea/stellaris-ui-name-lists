@@ -82,24 +82,24 @@ function generate-mod-descriptor {
 
 build "ui_extra_humans_african"         "Human - African"       "L" human/african
 build "ui_extra_humans_arabic"          "Human - Arabic"        "L" human/arabic
-build "ui_extra_humans_asian"           "Human - Asian"         "L"
+build "ui_extra_humans_asian"           "Human - Asian"         "L" \
     human/chinese human/japanese human/korean human/mongol human/tibetan human/common_asian
 build "ui_extra_humans_austronesian"    "Human - Austronesian"  "L" human/austronesian
 build "ui_extra_humans_celtic"          "Human - Celtic"        "L" human/celtic
 build "ui_extra_humans_chinese"         "Human - Chinese"       "L" human/chinese human/common_asian
 build "ui_extra_humans_english"         "Human - English"       "L" human/american human/australian human/canadian human/zealandian human/english
 build "ui_extra_humans_french"          "Human - French"        "L" human/french
-build "ui_extra_humans_germanic"        "Human - Germanic"      "L"
+build "ui_extra_humans_germanic"        "Human - Germanic"      "L" \
     human/danish human/german human/icelandic human/norwegian human/swedish human/germanic human/common_norse
 build "ui_extra_humans_hellenic"        "Human - Hellenic"      "L" human/hellenic
 build "ui_extra_humans_hindi"           "Human - Hindi"         "L" human/hindi
 build "ui_extra_humans_italian"         "Human - Italian"       "L" human/italian
 build "ui_extra_humans_japanese"        "Human - Japanese"      "L" human/japanese
-build "ui_extra_humans_latino"          "Human - Latino"        "L"
+build "ui_extra_humans_latino"          "Human - Latino"        "L" \
     human/argentinian human/brazilian human/cuban human/guatemalan human/mexican human/spanish human/venezuelan human/common_portuguese
 build "ui_extra_humans_portuguese"      "Human - Portuguese"    "L" human/brazilian human/portuguese human/common_portuguese
 build "ui_extra_humans_romanian"        "Human - Romanian"      "L" human/romanian
-build "ui_extra_humans_romance"         "Human - Romance"       "L"
+build "ui_extra_humans_romance"         "Human - Romance"       "L" \
     human/argentinian human/brazilian human/catalan human/cuban human/french human/guatemalan human/italian human/mexican human/portuguese \
     human/roman human/romanian human/spanish human/venezuelan human/common_portuguese
 build "ui_extra_humans_russian"         "Human - Russian"       "L" human/russian
