@@ -96,13 +96,13 @@ build "ui_extra_humans_hindi"           "Human - Hindi"         "L" human/hindi
 build "ui_extra_humans_italian"         "Human - Italian"       "L" human/italian
 build "ui_extra_humans_japanese"        "Human - Japanese"      "L" human/japanese
 build "ui_extra_humans_latino"          "Human - Latino"        "L" \
-    human/argentinian human/brazilian human/cuban human/guatemalan human/mexican human/spanish human/venezuelan
+    human/argentinian human/brazilian human/colombian human/cuban human/guatemalan human/mexican human/spanish human/venezuelan
 build "ui_extra_humans_norse"           "Human - Norse"         "L" \
     human/danish human/icelandic human/norwegian human/swedish human/common_norse
 build "ui_extra_humans_portuguese"      "Human - Portuguese"    "L" human/brazilian human/portuguese human/common_iberian
 build "ui_extra_humans_romanian"        "Human - Romanian"      "L" human/romanian
 build "ui_extra_humans_romance"         "Human - Romance"       "L" \
-    human/argentinian human/brazilian human/catalan human/cuban human/french human/guatemalan human/italian human/mexican human/portuguese \
+    human/argentinian human/brazilian human/catalan human/colombian human/cuban human/french human/guatemalan human/italian human/mexican human/portuguese \
     human/roman human/romanian human/spanish human/venezuelan human/common_iberian
 build "ui_extra_humans_russian"         "Human - Russian"       "L" human/russian
 build "ui_extra_humans_slavic"          "Human - Slavic"        "L" human/bulgarian human/polish human/russian human/ukrainian human/common_slavic
@@ -110,10 +110,11 @@ build "ui_extra_humans_spqr_extended"   "Human - Roman"         "L" human/roman 
 build "ui_extra_humans_turkic"          "Human - Turkic"        "L" human/turkic
 build "ui_extra_humans_extended"        "Human - Extended"      "L" \
       human/afghan human/african human/american human/arabic human/argentinian human/armenian human/australian human/austronesian human/baltic \
-      human/brazilian human/bulgarian human/canadian human/catalan human/celtic human/chinese human/cuban human/danish human/english human/french \
-      human/german human/germanic human/guatemalan human/hebrew human/hellenic human/hindi human/hungarian human/icelandic human/italian \
-      human/japanese human/korean human/mexican human/mongol human/norwegian human/persian human/portuguese human/roman human/romanian \
-      human/russian human/spanish human/swedish human/tibetan human/turkic human/ukrainian human/venezuelan human/zealandian \
+      human/brazilian human/bulgarian human/canadian human/catalan human/celtic human/chinese human/colombian human/cuban \
+      human/danish human/english human/french human/german human/germanic human/guatemalan human/hebrew human/hellenic \
+      human/hindi human/hungarian human/icelandic human/italian human/japanese human/korean human/mexican human/mongol \
+      human/norwegian human/persian human/portuguese human/roman human/romanian human/russian human/spanish \
+      human/swedish human/tibetan human/turkic human/ukrainian human/venezuelan human/zealandian \
       human/common_asian human/common_iberian human/common_norse human/common_slavic human/common \
       starcraft/human starwars/human galciv/human sose/human runescape/human other-media/human \
       human/human1 human/human2 human/human3 human/zextended

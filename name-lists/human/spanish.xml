@@ -7,7 +7,6 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-          <string>Colombian</string>
           <string>Peruvian</string>
           <string>Spanish</string>
           <string>Visigoth</string>
@@ -19,7 +18,6 @@
         <NameGroup>
           <Name>Countries</Name>
           <Values>
-            <string>Colombia</string>
             <string>Ecuador</string>
             <string>El Salvador</string>
             <string>Panama</string>
@@ -57,12 +55,6 @@
         </NameGroup>
       </Forests>
       <Cities>
-        <NameGroup>
-          <Name>Cities - Colombia</Name>
-          <Values>
-            <string>Bogota</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - Ecuador</Name>
           <Values>
