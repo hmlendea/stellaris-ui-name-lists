@@ -23,7 +23,7 @@
       </Countries>
     </Places>
     <GreatPeople>
-      <Deities>
+      <WarDeities>
         <NameGroup>
           <Name>Deities</Name>
           <Values>
@@ -36,7 +36,7 @@
             <string>Lehkelogah</string>
           </Values>
         </NameGroup>
-      </Deities>
+      </WarDeities>
     </GreatPeople>
     <Warfare>
       <MilitaryUnitTypes>

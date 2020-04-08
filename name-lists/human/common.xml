@@ -183,6 +183,7 @@
             <string>Antilope</string>
             <string>Armadillo</string>
             <string>Badger</string>
+            <string>Barracuda</string>
             <string>Cobra</string>
             <string>Eagle</string>
             <string>Gazelle</string>
@@ -196,6 +197,9 @@
             <string>Piranha</string>
             <string>Rattlesnake</string>
             <string>Raven</string>
+            <string>Shark</string>
+            <string>Starfish</string>
+            <string>Narwhal</string>
             <string>Salamander</string>
             <string>Sardine</string>
             <string>Scorpion</string>
@@ -205,7 +209,7 @@
             <string>Stingray</string>
             <string>Stork</string>
             <string>Sturgeon</string>
-            <string>Sworsfish</string>
+            <string>Swordfish</string>
           </Values>
         </NameGroup>
       </Animals>

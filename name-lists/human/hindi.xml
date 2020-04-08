@@ -210,14 +210,6 @@
           </Values>
         </NameGroup>
       </Heroes>
-      <Deities>
-        <NameGroup>
-          <Name>Deities - Indian</Name>
-          <Values>
-            <string>Dakshin Rai</string>
-          </Values>
-        </NameGroup>
-      </Deities>
       <LabourDeities>
         <NameGroup>
           <Name>Labour Deities - Indian</Name>
@@ -227,6 +219,14 @@
           </Values>
         </NameGroup>
       </LabourDeities>
+      <BeastsDeities>
+        <NameGroup>
+          <Name>Deities - Indian</Name>
+          <Values>
+            <string>Dakshin Rai</string>
+          </Values>
+        </NameGroup>
+      </BeastsDeities>
     </GreatPeople>
     <Companies>
       <AircraftManufacturers>
