@@ -23,13 +23,47 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions - Turkey</Name>
+          <Values>
+            <string>Akdeniz</string>
+            <string>Doğu Anadolu</string>
+            <string>Ege</string>
+            <string>Güneydoğu Anadolu</string>
+            <string>İç Anadolu</string>
+            <string>Karadeniz</string>
+            <string>Marmara</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Turkey</Name>
           <Values>
+            <string>Adana</string>
+            <string>Adapazarı</string>
             <string>Ankara</string>
+            <string>Antalya</string>
+            <string>Batman</string>
+            <string>Bursa</string>
+            <string>Denizli</string>
+            <string>Diyarbakır</string>
+            <string>Elâzığ</string>
+            <string>Erzurum</string>
+            <string>Eskişehir</string>
+            <string>Gaziantep</string>
             <string>Istanbul</string>
-            <string>Izmir</string>
+            <string>İzmir</string>
+            <string>İzmit</string>
+            <string>Kahramanmaraş</string>
+            <string>Kayseri</string>
+            <string>Konya</string>
+            <string>Malatya</string>
+            <string>Mersin</string>
+            <string>Samsun</string>
+            <string>Şanlıurfa</string>
+            <string>Van</string>
           </Values>
         </NameGroup>
       </Cities>
