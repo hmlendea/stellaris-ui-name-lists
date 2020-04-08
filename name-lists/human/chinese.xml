@@ -216,14 +216,14 @@
           </Values>
         </NameGroup>
       </GeneralsTier3>
-      <Deities>
+      <JusticeDeities>
         <NameGroup>
           <Name>Deities</Name>
           <Values>
             <string>Ji Gong</string>
           </Values>
         </NameGroup>
-      </Deities>
+      </JusticeDeities>
     </GreatPeople>
     <Companies>
       <AircraftManufacturers>

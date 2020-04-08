@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_icenic</Id>
+    <Name>Human - Icenic</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Icenic</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <GreatPeople>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Boudica</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
+      <WarDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Andraste</string>
+          </Values>
+        </NameGroup>
+      </WarDeities>
+    </GreatPeople>
+  </NameList>
+</ArrayOfNameList>
