@@ -199,16 +199,6 @@
       </LeadersTier3>
     </GreatPeople>
     <Warfare>
-      <Weapons>
-        <Swords>
-          <NameGroup>
-            <Name>Swords - Iberia</Name>
-            <Values>
-              <string>Falcata</string>
-            </Values>
-          </NameGroup>
-        </Swords>
-      </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
           <Name>Military Unit Types - Spanish</Name>

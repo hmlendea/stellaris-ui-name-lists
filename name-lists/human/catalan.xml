@@ -61,18 +61,6 @@
         </NameGroup>
       </Mountains>
     </Places>
-    <Warfare>
-      <Weapons>
-        <Swords>
-          <NameGroup>
-            <Name>Swords - Iberia</Name>
-            <Values>
-              <string>Falcata</string>
-            </Values>
-          </NameGroup>
-        </Swords>
-      </Weapons>
-    </Warfare>
     <Planets>
       <Generic>
         <NameGroup>

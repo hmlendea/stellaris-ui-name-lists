@@ -99,11 +99,11 @@ build "ui_extra_humans_latino"          "Human - Latino"        "L" \
     human/argentinian human/brazilian human/cuban human/guatemalan human/mexican human/spanish human/venezuelan
 build "ui_extra_humans_norse"           "Human - Norse"         "L" \
     human/danish human/icelandic human/norwegian human/swedish human/common_norse
-build "ui_extra_humans_portuguese"      "Human - Portuguese"    "L" human/brazilian human/portuguese
+build "ui_extra_humans_portuguese"      "Human - Portuguese"    "L" human/brazilian human/portuguese human/common_iberian
 build "ui_extra_humans_romanian"        "Human - Romanian"      "L" human/romanian
 build "ui_extra_humans_romance"         "Human - Romance"       "L" \
     human/argentinian human/brazilian human/catalan human/cuban human/french human/guatemalan human/italian human/mexican human/portuguese \
-    human/roman human/romanian human/spanish human/venezuelan
+    human/roman human/romanian human/spanish human/venezuelan human/common_iberian
 build "ui_extra_humans_russian"         "Human - Russian"       "L" human/russian
 build "ui_extra_humans_slavic"          "Human - Slavic"        "L" human/bulgarian human/polish human/russian human/ukrainian human/common_slavic
 build "ui_extra_humans_spqr_extended"   "Human - Roman"         "L" human/roman human/human3
@@ -114,7 +114,7 @@ build "ui_extra_humans_extended"        "Human - Extended"      "L" \
       human/german human/germanic human/guatemalan human/hebrew human/hellenic human/hindi human/hungarian human/icelandic human/italian \
       human/japanese human/korean human/mexican human/mongol human/norwegian human/persian human/portuguese human/roman human/romanian \
       human/russian human/spanish human/swedish human/tibetan human/turkic human/ukrainian human/venezuelan human/zealandian \
-      human/common_asian human/common_norse human/common_slavic human/common \
+      human/common_asian human/common_iberian human/common_norse human/common_slavic human/common \
       starcraft/human starwars/human galciv/human sose/human runescape/human other-media/human \
       human/human1 human/human2 human/human3 human/zextended
 

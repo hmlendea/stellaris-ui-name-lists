@@ -58,14 +58,6 @@
             </Values>
           </NameGroup>
         </Artillery>
-        <Swords>
-          <NameGroup>
-            <Name>Swords</Name>
-            <Values>
-                <string>Falcata</string>
-            </Values>
-          </NameGroup>
-        </Swords>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
