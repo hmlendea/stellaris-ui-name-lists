@@ -20,14 +20,90 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Amazonas</string>
+            <string>Antioquia</string>
+            <string>Arauca</string>
+            <string>Atlántico</string>
+            <string>Bolívar</string>
+            <string>Boyacá</string>
+            <string>Caldas</string>
+            <string>Caquetá</string>
+            <string>Casanare</string>
+            <string>Cauca</string>
+            <string>Cesar</string>
+            <string>Chocó</string>
+            <string>Córdoba</string>
+            <string>Cundinamarca</string>
+            <string>Guainía</string>
+            <string>Guaviare</string>
+            <string>Huila</string>
+            <string>La Guajira</string>
+            <string>Magdalena</string>
+            <string>Meta</string>
+            <string>Nariño</string>
+            <string>Norte de Santander</string>
+            <string>Providencia</string>
+            <string>Putumayo</string>
+            <string>Quindío</string>
+            <string>Risaralda</string>
+            <string>San Andrés</string>
+            <string>Santander</string>
+            <string>Sucre</string>
+            <string>Tolima</string>
+            <string>Valle del Cauca</string>
+            <string>Vaupés</string>
+            <string>Vichada</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities</Name>
           <Values>
+            <string>Armenia</string>
+            <string>Barranquilla</string>
+            <string>Bello</string>
             <string>Bogota</string>
+            <string>Bucaramanga</string>
+            <string>Buenaventura</string>
+            <string>Cali</string>
+            <string>Cartagena</string>
+            <string>Cúcuta</string>
+            <string>Ibagué  </string>
+            <string>Itagüí</string>
+            <string>Manizales</string>
+            <string>Medellín</string>
+            <string>Monteria</string>
+            <string>Neiva</string>
+            <string>Palmira</string>
+            <string>Pereira</string>
+            <string>Popayán</string>
+            <string>Riohacha</string>
+            <string>San Juan de Pasto</string>
+            <string>Santa Marta</string>
+            <string>Sincelejo</string>
+            <string>Soacha</string>
+            <string>Soledad</string>
+            <string>Valledupar</string>
+            <string>Villavicencio</string>
           </Values>
         </NameGroup>
       </Cities>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Calima</string>
+            <string>Guatavita</string>
+            <string>Iguaque</string>
+            <string>Tota</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
   </NameList>
 </ArrayOfNameList>

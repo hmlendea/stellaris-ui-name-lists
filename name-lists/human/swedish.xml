@@ -30,7 +30,31 @@
         <NameGroup>
           <Name>Regions</Name>
           <Values>
-            <string>Göta</string>
+            <string>Ångermanland</string>
+            <string>Blekinge</string>
+            <string>Bohuslän</string>
+            <string>Dalarna</string>
+            <string>Dalsland</string>
+            <string>Gästrikland</string>
+            <string>Gotland</string>
+            <string>Halland</string>
+            <string>Hälsingland</string>
+            <string>Härjedalen</string>
+            <string>Jämtland</string>
+            <string>Lappland</string>
+            <string>Medelpad</string>
+            <string>Närke</string>
+            <string>Norrbotten</string>
+            <string>Öland</string>
+            <string>Östergötlan</string>
+            <string>Skåne</string>
+            <string>Småland</string>
+            <string>Södermanland</string>
+            <string>Uppland</string>
+            <string>Värmland</string>
+            <string>Västerbotten</string>
+            <string>Västergötland</string>
+            <string>Västmanland</string>
           </Values>
         </NameGroup>
       </Regions>
@@ -39,9 +63,16 @@
           <Name>Cities</Name>
           <Values>
             <string>Gothenburg</string>
+            <string>Helsingborg</string>
+            <string>Jönköping</string>
+            <string>Linköping</string>
             <string>Lund</string>
             <string>Malmö</string>
+            <string>Norrköping</string>
+            <string>Örebro</string>
             <string>Stockholm</string>
+            <string>Uppsala</string>
+            <string>Västerås</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -61,7 +92,17 @@
         <NameGroup>
           <Name>Rivers</Name>
           <Values>
+            <string>Ångermanälven</string>
+            <string>Dalälven</string>
             <string>Göta</string>
+            <string>Indalsälven</string>
+            <string>Kalix</string>
+            <string>Klarälven</string>
+            <string>Ljusnan</string>
+            <string>Lule</string>
+            <string>Skellefte</string>
+            <string>Torne</string>
+            <string>Ume</string>
           </Values>
         </NameGroup>
       </Rivers>

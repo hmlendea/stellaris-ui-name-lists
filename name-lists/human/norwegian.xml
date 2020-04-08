@@ -54,6 +54,15 @@
           </Values>
         </NameGroup>
       </Forests>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Klarälven</string>
+            <string>Lule</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
       <Lakes>
         <NameGroup>
           <Name>Lakes</Name>
