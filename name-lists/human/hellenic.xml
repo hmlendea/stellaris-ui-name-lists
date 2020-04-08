@@ -200,6 +200,14 @@
           </Values>
         </NameGroup>
       </PowerDeities>
+      <PeaceDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Eirene</string>
+          </Values>
+        </NameGroup>
+      </PeaceDeities>
       <WarDeities>
         <NameGroup>
           <Name>Deities</Name>
@@ -213,6 +221,7 @@
         <NameGroup>
           <Name>Deities</Name>
           <Values>
+            <string>Atropos</string>
             <string>Charon</string>
             <string>Hades</string>
             <string>Thanathos</string>
@@ -239,6 +248,7 @@
         <NameGroup>
           <Name>Deities</Name>
           <Values>
+            <string>Aion</string>
             <string>Cronos</string>
             <string>Cronus</string>
           </Values>
@@ -279,6 +289,8 @@
           <Values>
             <string>Apollo</string>
             <string>Asclepius</string>
+            <string>Eileithyia</string>
+            <string>Hera</string>
             <string>Heracles</string>
             <string>Paean</string>
           </Values>
@@ -309,6 +321,7 @@
           <Name>Deities</Name>
           <Values>
             <string>Apollo</string>
+            <string>Mnemosyne</string>
             <string>Prometheus</string>
           </Values>
         </NameGroup>
@@ -322,17 +335,17 @@
           </Values>
         </NameGroup>
       </FeastDeities>
-      <WealthDeities>
+      <FortuneDeities>
         <NameGroup>
           <Name>Deities</Name>
           <Values>
             <string>Caerus</string>
             <string>Heracles</string>
             <string>Hermes</string>
-            <string>Plutus</string>
+            <string>Plouto</string>
           </Values>
         </NameGroup>
-      </WealthDeities>
+      </FortuneDeities>
       <DarknessDeities>
         <NameGroup>
           <Name>Deities</Name>
@@ -366,6 +379,7 @@
           <Values>
             <string>Aeolus</string>
             <string>Aether</string>
+            <string>Aura</string>
             <string>Boreas</string>
             <string>Eurus</string>
             <string>Notus</string>
@@ -413,6 +427,8 @@
             <string>Tartarus</string>
             <string>Typhon</string>
             <string>Zelus</string>
+            <string>Hermaphroditos</string>
+            <string>Hecate</string>
           </Values>
         </NameGroup>
       </OtherDeities>

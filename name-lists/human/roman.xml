@@ -188,6 +188,15 @@
           </Values>
         </NameGroup>
       </Scientists>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes</Name>
+          <Values>
+            <string>Hercules</string>
+            <string>Ulysses</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
       <LeadersTier3>
         <NameGroup>
           <Name>Leaders</Name>
@@ -200,23 +209,335 @@
           </Values>
         </NameGroup>
       </LeadersTier3>
+      <PowerDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Hercules</string>
+          </Values>
+        </NameGroup>
+      </PowerDeities>
+      <PeaceDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Pax</string>
+          </Values>
+        </NameGroup>
+      </PeaceDeities>
+      <WarDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Bellona</string>
+            <string>Mars</string>
+            <string>Minerva</string>
+            <string>Nerio</string>
+          </Values>
+        </NameGroup>
+      </WarDeities>
+      <DeathDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Alernus</string>
+            <string>Dea Tacita</string>
+            <string>Dis Pater</string>
+            <string>Letum</string>
+            <string>Libitina</string>
+            <string>Mania</string>
+            <string>Mantus</string>
+            <string>Mors</string>
+            <string>Morta</string>
+            <string>Orcus</string>
+            <string>Pluto</string>
+          </Values>
+        </NameGroup>
+      </DeathDeities>
+      <HatredDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Discordia</string>
+            <string>Invidia</string>
+            <string>Nemesis</string>
+          </Values>
+        </NameGroup>
+      </HatredDeities>
+      <FearDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Naenia</string>
+          </Values>
+        </NameGroup>
+      </FearDeities>
+      <BeastsDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Angitia</string>
+          </Values>
+        </NameGroup>
+      </BeastsDeities>
+      <TimeDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Aeon</string>
+            <string>Aeternitas</string>
+            <string>Anna Perenna</string>
+          </Values>
+        </NameGroup>
+      </TimeDeities>
+      <ProphecyDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Antevorta</string>
+            <string>Camenae</string>
+            <string>Carmenta</string>
+            <string>Fauna</string>
+            <string>Necessitas</string>
+            <string>Nona</string>
+            <string>Nortia</string>
+          </Values>
+        </NameGroup>
+      </ProphecyDeities>
+      <JusticeDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Aequitas</string>
+            <string>Bacchus</string>
+            <string>Clementia</string>
+            <string>Concordia</string>
+            <string>Justitia</string>
+            <string>Liber</string>
+            <string>Libera</string>
+          </Values>
+        </NameGroup>
+      </JusticeDeities>
+      <TrustDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Fides</string>
+            <string>Dius Fidius</string>
+            <string>Honos</string>
+            <string>Pietas</string>
+          </Values>
+        </NameGroup>
+      </TrustDeities>
       <LabourDeities>
         <NameGroup>
-          <Name>Labour Deities</Name>
+          <Name>Deities</Name>
           <Values>
             <string>Gobannus</string>
           </Values>
         </NameGroup>
       </LabourDeities>
-      <Heroes>
+      <NatureDeities>
         <NameGroup>
-          <Name>Heroes</Name>
+          <Name>Deities</Name>
           <Values>
-            <string>Hercules</string>
-            <string>Ulysses</string>
+            <string>Faunus</string>
+            <string>Faustitas</string>
+            <string>Feronia</string>
+            <string>Flora</string>
+            <string>Lupercus</string>
+            <string>Pales</string>
           </Values>
         </NameGroup>
-      </Heroes>
+      </NatureDeities>
+      <HealthDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Aesculapius</string>
+            <string>Angerona</string>
+            <string>Bona Dea</string>
+            <string>Camenae</string>
+            <string>Carmenta</string>
+            <string>Carna</string>
+            <string>Febris</string>
+            <string>Fecunditas</string>
+            <string>Feronia</string>
+            <string>Fufluns</string>
+            <string>Intercidona</string>
+            <string>Juno</string>
+            <string>Juventas</string>
+            <string>Lucina</string>
+            <string>Mater Matuta</string>
+            <string>Medritina</string>
+            <string>Mena</string>
+            <string>Minerva</string>
+            <string>Murcia</string>
+            <string>Mutunus Tutunus</string>
+            <string>Nascio</string>
+            <string>Nixi</string>
+            <string>Picumnus</string>
+            <string>Pilumnus</string>
+          </Values>
+        </NameGroup>
+      </HealthDeities>
+      <LoveDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Cupid</string>
+            <string>Inuus</string>
+          </Values>
+        </NameGroup>
+      </LoveDeities>
+      <ArtDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Apollo</string>
+            <string>Minerva</string>
+          </Values>
+        </NameGroup>
+      </ArtDeities>
+      <KnowledgeDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Minerva</string>
+            <string>Moneta</string>
+          </Values>
+        </NameGroup>
+      </KnowledgeDeities>
+      <FeastDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Bacchus</string>
+          </Values>
+        </NameGroup>
+      </FeastDeities>
+      <FortuneDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Abundantia</string>
+            <string>Bonus Eventus</string>
+            <string>Ceres</string>
+            <string>Felicitas</string>
+            <string>Feronia</string>
+            <string>Fortuna</string>
+            <string>Liberalitas</string>
+            <string>Mercurius</string>
+            <string>Minerva</string>
+            <string>Ops</string>
+          </Values>
+        </NameGroup>
+      </FortuneDeities>
+      <LightDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Latona</string>
+          </Values>
+        </NameGroup>
+      </LightDeities>
+      <DarknessDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Nox</string>
+          </Values>
+        </NameGroup>
+      </DarknessDeities>
+      <SkyDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Caelus</string>
+            <string>Jupiter</string>
+          </Values>
+        </NameGroup>
+      </SkyDeities>
+      <AirDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Aura</string>
+          </Values>
+        </NameGroup>
+      </AirDeities>
+      <WarmthDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Caca</string>
+            <string>Cacus</string>
+            <string>Fama</string>
+          </Values>
+        </NameGroup>
+      </WarmthDeities>
+      <WaterDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Lympha</string>
+            <string>Neptunus</string>
+          </Values>
+        </NameGroup>
+      </WaterDeities>
+      <OtherDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Acca Larentia</string>
+            <string>Acis</string>
+            <string>Aerecura</string>
+            <string>Aius Locutius</string>
+            <string>Annona</string>
+            <string>Aurora</string>
+            <string>Averruncus</string>
+            <string>Bubona</string>
+            <string>Cardea</string>
+            <string>Cloacina</string>
+            <string>Consus</string>
+            <string>Cura</string>
+            <string>Cybele</string>
+            <string>Dea Dia</string>
+            <string>Decima</string>
+            <string>Devera</string>
+            <string>Diana</string>
+            <string>Disciplina</string>
+            <string>Egeria</string>
+            <string>Empanda</string>
+            <string>Epona</string>
+            <string>Falacer</string>
+            <string>Fascinus</string>
+            <string>Februus</string>
+            <string>Ferentina</string>
+            <string>Fornax</string>
+            <string>Fontus</string>
+            <string>Fulgora</string>
+            <string>Furrina</string>
+            <string>Hermaphroditus</string>
+            <string>Hora</string>
+            <string>Indiges</string>
+            <string>Juturna</string>
+            <string>Laverna</string>
+            <string>Levana</string>
+            <string>Libertas</string>
+            <string>Lua</string>
+            <string>Lucifer</string>
+            <string>Luna</string>
+            <string>Mana Genita</string>
+            <string>Mefitis</string>
+            <string>Mellona</string>
+            <string>Mithras</string>
+            <string>Neverita</string>
+            <string>Palatua</string>
+            <string>Picus</string>
+          </Values>
+        </NameGroup>
+      </OtherDeities>
     </GreatPeople>
     <Warfare>
       <Weapons>
