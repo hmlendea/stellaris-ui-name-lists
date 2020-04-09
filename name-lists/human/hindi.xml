@@ -210,23 +210,179 @@
           </Values>
         </NameGroup>
       </Heroes>
+      <PowerDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Hanuman</string>
+            <string>Kali</string>
+            <string>Shiva</string>
+            <string>Vishnu</string>
+          </Values>
+        </NameGroup>
+      </PowerDeities>
+      <CreationDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Brahma</string>
+            <string>Prajapati</string>
+          </Values>
+        </NameGroup>
+      </CreationDeities>
+      <DestructionDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Kali</string>
+          </Values>
+        </NameGroup>
+      </DestructionDeities>
+      <WarDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Durga</string>
+            <string>Kartikeya</string>
+          </Values>
+        </NameGroup>
+      </WarDeities>
+      <VictoryDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Kartikeya</string>
+          </Values>
+        </NameGroup>
+      </VictoryDeities>
+      <BeastsDeities>
+        <NameGroup>
+          <Name>Indian</Name>
+          <Values>
+            <string>Dakshin Rai</string>
+          </Values>
+        </NameGroup>
+      </BeastsDeities>
+      <TimeDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Kali</string>
+            <string>Shiva</string>
+          </Values>
+        </NameGroup>
+      </TimeDeities>
+      <ProtectionDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Prajapati</string>
+            <string>Vishnu</string>
+          </Values>
+        </NameGroup>
+      </ProtectionDeities>
       <LabourDeities>
         <NameGroup>
-          <Name>Labour Deities - Indian</Name>
+          <Name>Deities</Name>
           <Values>
             <string>Tvastar</string>
             <string>Vishvakarman</string>
           </Values>
         </NameGroup>
       </LabourDeities>
-      <BeastsDeities>
+      <NatureDeities>
         <NameGroup>
-          <Name>Deities - Indian</Name>
+          <Name>Deities</Name>
           <Values>
-            <string>Dakshin Rai</string>
+            <string>Bhūmi</string>
+            <string>Prithvi</string>
           </Values>
         </NameGroup>
-      </BeastsDeities>
+      </NatureDeities>
+      <LoveDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Krishna</string>
+            <string>Parvati</string>
+            <string>Radha</string>
+          </Values>
+        </NameGroup>
+      </LoveDeities>
+      <ArtDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Saraswati</string>
+            <string>Shiva</string>
+          </Values>
+        </NameGroup>
+      </ArtDeities>
+      <KnowledgeDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Hanuman</string>
+            <string>Saraswati</string>
+          </Values>
+        </NameGroup>
+      </KnowledgeDeities>
+      <FortuneDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Ganesha</string>
+            <string>Lakshmi</string>
+          </Values>
+        </NameGroup>
+      </FortuneDeities>
+      <SkyDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Indra</string>
+            <string>Varuna</string>
+          </Values>
+        </NameGroup>
+      </SkyDeities>
+      <AirDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Rudra</string>
+            <string>Vayu</string>
+          </Values>
+        </NameGroup>
+      </AirDeities>
+      <WarmthDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Agni</string>
+          </Values>
+        </NameGroup>
+      </WarmthDeities>
+      <WaterDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Indra</string>
+            <string>Mariamman</string>
+            <string>Varuna</string>
+          </Values>
+        </NameGroup>
+      </WaterDeities>
+      <OtherDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Rama</string>
+            <string>Shakti</string>
+            <string>Sita</string>
+            <string>Ushas</string>
+          </Values>
+        </NameGroup>
+      </OtherDeities>
     </GreatPeople>
     <Companies>
       <AircraftManufacturers>
