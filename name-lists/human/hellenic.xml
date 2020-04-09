@@ -213,6 +213,7 @@
           <Name>Deities</Name>
           <Values>
             <string>Ares</string>
+            <string>Nike</string>
             <string>Pallas</string>
           </Values>
         </NameGroup>
@@ -278,6 +279,7 @@
             <string>Aristaeus</string>
             <string>Attis</string>
             <string>Cronus</string>
+            <string>Hippolytus</string>
             <string>Pan</string>
             <string>Priapus</string>
           </Values>
@@ -292,6 +294,7 @@
             <string>Eileithyia</string>
             <string>Hera</string>
             <string>Heracles</string>
+            <string>Hygieia</string>
             <string>Paean</string>
           </Values>
         </NameGroup>
@@ -303,6 +306,7 @@
             <string>Dionysus</string>
             <string>Eros</string>
             <string>Pan</string>
+            <string>Priapus</string>
           </Values>
         </NameGroup>
       </LoveDeities>
@@ -346,6 +350,15 @@
           </Values>
         </NameGroup>
       </FortuneDeities>
+      <SleepDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Hypnos</string>
+            <string>Morpheus</string>
+          </Values>
+        </NameGroup>
+      </SleepDeities>
       <DarknessDeities>
         <NameGroup>
           <Name>Deities</Name>
@@ -379,10 +392,23 @@
           <Values>
             <string>Aeolus</string>
             <string>Aether</string>
+            <string>Aparctias</string>
+            <string>Apheliotes</string>
+            <string>Argestes</string>
             <string>Aura</string>
             <string>Boreas</string>
+            <string>Euronotus</string>
             <string>Eurus</string>
+            <string>Iapyx</string>
+            <string>Kaikias</string>
+            <string>Libonotus</string>
+            <string>Lips</string>
+            <string>Meses</string>
             <string>Notus</string>
+            <string>Olympias</string>
+            <string>Phoenicias</string>
+            <string>Skiron</string>
+            <string>Thrascias</string>
             <string>Zephyrus</string>
           </Values>
         </NameGroup>
@@ -417,8 +443,6 @@
             <string>Chaos</string>
             <string>Crios</string>
             <string>Hesperus</string>
-            <string>Hypnos</string>
-            <string>Morpheus</string>
             <string>Oneiroi</string>
             <string>Phosphorus</string>
             <string>Pollux</string>
