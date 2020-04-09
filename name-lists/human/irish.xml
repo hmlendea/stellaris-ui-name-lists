@@ -92,6 +92,75 @@
           </Values>
         </NameGroup>
       </LeadersTier1>
+      <WarDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Lugh</string>
+          </Values>
+        </NameGroup>
+      </WarDeities>
+      <DestructionDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Balor</string>
+          </Values>
+        </NameGroup>
+      </DestructionDeities>
+      <DeathDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Aodh</string>
+          </Values>
+        </NameGroup>
+      </DeathDeities>
+      <HealthDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Dian Cécht</string>
+          </Values>
+        </NameGroup>
+      </HealthDeities>
+      <LoveDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Óengus</string>
+          </Values>
+        </NameGroup>
+      </LoveDeities>
+      <ArtDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Abhcán</string>
+            <string>Abhean</string>
+            <string>Aoi Mac Ollamain</string>
+          </Values>
+        </NameGroup>
+      </ArtDeities>
+      <WarmthDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Áillen</string>
+          </Values>
+        </NameGroup>
+      </WarmthDeities>
+      <OtherDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Ábartach</string>
+            <string>Ethniu</string>
+            <string>Midhir</string>
+            <string>Bodb Derg</string>
+          </Values>
+        </NameGroup>
+      </OtherDeities>
     </GreatPeople>
     <Companies>
       <AircraftManufacturers>
