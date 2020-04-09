@@ -218,6 +218,14 @@
           </Values>
         </NameGroup>
       </PowerDeities>
+      <CreationDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Cura</string>
+          </Values>
+        </NameGroup>
+      </CreationDeities>
       <PeaceDeities>
         <NameGroup>
           <Name>Deities</Name>
@@ -396,6 +404,7 @@
             <string>Pomona</string>
             <string>Priapus</string>
             <string>Silvanus</string>
+            <string>Terra</string>
             <string>Vertumnus</string>
             <string>Virbius</string>
           </Values>
@@ -596,7 +605,6 @@
             <string>Bubona</string>
             <string>Cardea</string>
             <string>Cloacina</string>
-            <string>Cura</string>
             <string>Cybele</string>
             <string>Dea Dia</string>
             <string>Decima</string>
