@@ -11,7 +11,6 @@
             <string>Celtic</string>
             <string>Irish</string>
             <string>Scottish</string>
-            <string>Welsh</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -23,7 +22,6 @@
             <string>Britanny</string>
             <string>Ireland</string>
             <string>Scotland</string>
-            <string>Wales</string>
           </Values>
         </NameGroup>
       </Countries>
@@ -116,21 +114,16 @@
       <LeadersTier1>
         <NameGroup>
           <Name>Leaders</Name>
-          <Values>Scathach
+          <Values>
             <string>Gwendolen</string>
             <string>Muirisc</string>
+            <string>Scathach</string>
           </Values>
         </NameGroup>
         <NameGroup>
           <Name>Leaders - Scottish</Name>
           <Values>
             <string>Robert the Bruce</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Leaders - Welsh</Name>
-          <Values>
-            <string>Gwenllian</string>
           </Values>
         </NameGroup>
       </LeadersTier1>
@@ -142,14 +135,6 @@
           </Values>
         </NameGroup>
       </LeadersTier2>
-      <LeadersTier3>
-        <NameGroup>
-          <Name>Leaders</Name>
-          <Values>
-            <string>Boudica</string>
-          </Values>
-        </NameGroup>
-      </LeadersTier3>
       <Heroes>
         <NameGroup>
           <Name>Heroes - Scottish</Name>
