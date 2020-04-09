@@ -85,7 +85,7 @@ build "ui_extra_humans_arabic"          "Human - Arabic"        "L" human/arabic
 build "ui_extra_humans_asian"           "Human - Asian"         "L" \
     human/chinese human/japanese human/korean human/mongol human/tibetan human/common_asian
 build "ui_extra_humans_austronesian"    "Human - Austronesian"  "L" human/austronesian
-build "ui_extra_humans_celtic"          "Human - Celtic"        "L" human/welsh human/celtic
+build "ui_extra_humans_celtic"          "Human - Celtic"        "L" human/irish human/welsh human/celtic
 build "ui_extra_humans_chinese"         "Human - Chinese"       "L" human/chinese human/common_asian
 build "ui_extra_humans_english"         "Human - English"       "L" human/american human/australian human/canadian human/zealandian human/english
 build "ui_extra_humans_french"          "Human - French"        "L" human/french
@@ -112,7 +112,7 @@ build "ui_extra_humans_extended"        "Human - Extended"      "L" \
       human/afghan human/african human/american human/arabic human/argentinian human/armenian human/australian human/austronesian human/baltic \
       human/brazilian human/bulgarian human/canadian human/catalan human/celtic human/chinese human/colombian human/cuban \
       human/danish human/english human/french human/german human/germanic human/guatemalan human/hebrew human/hellenic \
-      human/hindi human/hungarian human/icelandic human/italian human/japanese human/korean human/mexican human/mongol \
+      human/hindi human/hungarian human/icelandic human/italian human/irish human/japanese human/korean human/mexican human/mongol \
       human/norwegian human/persian human/portuguese human/roman human/romanian human/russian human/spanish \
       human/swedish human/tibetan human/turkic human/ukrainian human/venezuelan human/welsh human/zealandian \
       human/common_asian human/common_iberian human/common_norse human/common_slavic human/common \

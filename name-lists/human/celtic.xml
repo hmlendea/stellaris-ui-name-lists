@@ -9,7 +9,6 @@
         <Values>
             <string>Breton</string>
             <string>Celtic</string>
-            <string>Irish</string>
             <string>Scottish</string>
         </Values>
       </NameGroup>
@@ -20,41 +19,17 @@
           <Name>Countries</Name>
           <Values>
             <string>Britanny</string>
-            <string>Ireland</string>
             <string>Scotland</string>
           </Values>
         </NameGroup>
       </Countries>
       <Cities>
         <NameGroup>
-          <Name>Cities - Ireland - English names</Name>
-          <Values>
-            <string>Belfast</string>
-            <string>Cork</string>
-            <string>Drogheda</string>
-            <string>Dublin</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Ireland - Irish names</Name>
-          <Values>
-            <string>Corcaigh</string>
-            <string>Droichead Átha</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Scotland</Name>
           <Values>
             <string>Aberdeen</string>
             <string>Edinburgh</string>
             <string>Glasgow</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Wales</Name>
-          <Values>
-            <string>Cardiff</string>
-            <string>Swansea</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -66,57 +41,13 @@
           </Values>
         </NameGroup>
       </Lakes>
-      <Rivers>
-        <NameGroup>
-          <Name>Rivers - Ireland</Name>
-          <Values>
-            <string>An Abha Mhór</string>
-            <string>An Abhainn Mhór</string>
-            <string>An Bandan</string>
-            <string>An Bhanna</string>
-            <string>An Bhearú</string>
-            <string>An Bhóinn</string>
-            <string>An Bhríd</string>
-            <string>An Bhrosnach</string>
-            <string>An Bhúill</string>
-            <string>An Chláir</string>
-            <string>An Daoil</string>
-            <string>An Éirne</string>
-            <string>An Eithne</string>
-            <string>An Feabhal</string>
-            <string>An Fhéil</string>
-            <string>An Fheoir</string>
-            <string>An Finne</string>
-            <string>An Lagáin</string>
-            <string>An Laoi</string>
-            <string>An Leamhain</string>
-            <string>An Life</string>
-            <string>An Mháigh</string>
-            <string>An Mhuaidh</string>
-            <string>An Róba</string>
-            <string>An Sionainne</string>
-            <string>An Siúire</string>
-            <string>An Suca</string>
-            <string>An Uisce Dubh</string>
-          </Values>
-        </NameGroup>
-      </Rivers>
     </Places>
     <GreatPeople>
-      <Scientists>
-        <NameGroup>
-          <Name>Scientists - Irish</Name>
-          <Values>
-            <string>Kelvin</string>
-          </Values>
-        </NameGroup>
-      </Scientists>
       <LeadersTier1>
         <NameGroup>
           <Name>Leaders</Name>
           <Values>
             <string>Gwendolen</string>
-            <string>Muirisc</string>
             <string>Scathach</string>
           </Values>
         </NameGroup>
@@ -149,16 +80,6 @@
           </Values>
         </NameGroup>
       </Heroes>
-      <LabourDeities>
-        <NameGroup>
-          <Name>Labour Deities</Name>
-          <Values>
-            <string>Bergusia</string>
-            <string>Gobannos</string>
-            <string>Ucuetis</string>
-          </Values>
-        </NameGroup>
-      </LabourDeities>
     </GreatPeople>
     <Warfare>
       <MilitaryUnitTypes>
@@ -179,53 +100,10 @@
             <string>Spriggan</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Mythological Creatures - Irish</Name>
-          <Values>
-            <string>Banshee</string>
-            <string>Enfield</string>
-          </Values>
-        </NameGroup>
       </MythologicalCreatures>
     </BiosphereNames>
-    <Ships>
-      <Corvette>
-        <NameGroup>
-          <Name>Mythology</Name>
-          <Values>
-            <string>Morrigan</string>
-          </Values>
-        </NameGroup>
-      </Corvette>
-      <Constructor>
-        <NameGroup>
-          <Name>Persons - Mythology - Irish</Name>
-          <Values>
-            <string>Creidhne</string>
-            <string>Goibniu</string>
-            <string>Luchtaine</string>
-          </Values>
-        </NameGroup>
-      </Constructor>
-    </Ships>
-    <ShipClasses>
-      <Generic>
-        <NameGroup>
-          <Name>Aircraft manufacturers - Irish</Name>
-          <Values>
-            <string>AerCap</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </ShipClasses>
     <Planets>
       <Generic>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - North Sea Alliance - Irish</Name>
-          <Values>
-            <string>Eilemuir</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Civilisation: Beyond Earth - North Sea Alliance - Scots Gaelic</Name>
           <Values>
@@ -233,12 +111,6 @@
             <string>Dunkyle</string>
             <string>Sàmchair</string>
             <string>Sìorraidh</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Noxium Corporation</Name>
-          <Values>
-            <string>Drogheda</string>
           </Values>
         </NameGroup>
       </Generic>
@@ -268,25 +140,6 @@
         <SecondNames>
           <NameGroup>
             <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/cym-persons-surnames.txt</Url>
-          </NameGroup>
-        </SecondNames>
-      </CharacterNames>
-      <CharacterNames>
-        <Id>irish</Id>
-        <Weight>1</Weight>
-        <MaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/gle-persons-male.txt</Url>
-          </NameGroup>
-        </MaleFirstNames>
-        <FemaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/gle-persons-female.txt</Url>
-          </NameGroup>
-        </FemaleFirstNames>
-        <SecondNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/gle-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>
