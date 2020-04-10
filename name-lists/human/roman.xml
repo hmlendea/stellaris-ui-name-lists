@@ -370,7 +370,7 @@
           </Values>
         </NameGroup>
       </PunishmentDeities>
-      <TrustDeities>
+      <LoyaltyDeities>
         <NameGroup>
           <Name>Deities</Name>
           <Values>
@@ -382,7 +382,7 @@
             <string>Veritas</string>
           </Values>
         </NameGroup>
-      </TrustDeities>
+      </LoyaltyDeities>
       <LabourDeities>
         <NameGroup>
           <Name>Deities</Name>
