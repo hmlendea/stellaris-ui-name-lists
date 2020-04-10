@@ -83,6 +83,17 @@
           </Values>
         </NameGroup>
       </Scientists>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes</Name>
+          <Values>
+            <string>Creidne</string>
+            <string>Deirdre</string>
+            <string>Étaín</string>
+            <string>Fráech</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
       <LeadersTier1>
         <NameGroup>
           <Name>Leaders</Name>
@@ -92,11 +103,28 @@
           </Values>
         </NameGroup>
       </LeadersTier1>
+      <PowerDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Badb</string>
+            <string>Macha</string>
+            <string>Mór Muman</string>
+            <string>Morrígan</string>
+            <string>Nemain</string>
+          </Values>
+        </NameGroup>
+      </PowerDeities>
       <WarDeities>
         <NameGroup>
           <Name>Deities</Name>
           <Values>
+            <string>Badb</string>
             <string>Lugh</string>
+            <string>Macha</string>
+            <string>Morrígan</string>
+            <string>Néit</string>
+            <string>Nemain</string>
           </Values>
         </NameGroup>
       </WarDeities>
@@ -116,10 +144,23 @@
           </Values>
         </NameGroup>
       </DeathDeities>
+      <LabourDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Brigid</string>
+            <string>Creidhne</string>
+            <string>Goibniu</string>
+            <string>Luchtaine</string>
+          </Values>
+        </NameGroup>
+      </LabourDeities>
       <HealthDeities>
         <NameGroup>
           <Name>Deities</Name>
           <Values>
+            <string>Airmed</string>
+            <string>Brigid</string>
             <string>Dian Cécht</string>
           </Values>
         </NameGroup>
@@ -128,6 +169,7 @@
         <NameGroup>
           <Name>Deities</Name>
           <Values>
+            <string>Clíodhna</string>
             <string>Óengus</string>
           </Values>
         </NameGroup>
@@ -139,9 +181,39 @@
             <string>Abhcán</string>
             <string>Abhean</string>
             <string>Aoi Mac Ollamain</string>
+            <string>Brigid</string>
+            <string>Canola</string>
+            <string>Creidhne</string>
+            <string>Ernmas</string>
+            <string>Goibniu</string>
+            <string>Luchtaine</string>
           </Values>
         </NameGroup>
       </ArtDeities>
+      <KnowledgeDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Beag</string>
+          </Values>
+        </NameGroup>
+      </KnowledgeDeities>
+      <FortuneDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Áine</string>
+          </Values>
+        </NameGroup>
+      </FortuneDeities>
+      <ColdDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Cailleach</string>
+          </Values>
+        </NameGroup>
+      </ColdDeities>
       <WarmthDeities>
         <NameGroup>
           <Name>Deities</Name>
@@ -150,14 +222,29 @@
           </Values>
         </NameGroup>
       </WarmthDeities>
+      <WaterDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Boann</string>
+          </Values>
+        </NameGroup>
+      </WaterDeities>
       <OtherDeities>
         <NameGroup>
           <Name>Deities</Name>
           <Values>
             <string>Ábartach</string>
-            <string>Ethniu</string>
-            <string>Midhir</string>
+            <string>Anu</string>
+            <string>Béḃinn</string>
             <string>Bodb Derg</string>
+            <string>Builg</string>
+            <string>Crom Cruach</string>
+            <string>Ethniu</string>
+            <string>Fliodhais</string>
+            <string>Grian</string>
+            <string>Midhir</string>
+            <string>Mongfind</string>
           </Values>
         </NameGroup>
       </OtherDeities>
