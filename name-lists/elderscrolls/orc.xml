@@ -62,6 +62,16 @@
         </NameGroup>
       </Mountains>
     </Places>
+    <Places>
+      <OtherDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Mauloch</string>
+          </Values>
+        </NameGroup>
+      </OtherDeities>
+    </Places>
     <Warfare>
       <Forts>
         <NameGroup>
