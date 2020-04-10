@@ -95,7 +95,7 @@
       </Regions>
       <Cities>
         <NameGroup>
-          <Name>Cities - Rome</Name>
+          <Name>Cities</Name>
           <Values>
             <string>Alexandria</string>
             <string>Antioch</string>
@@ -141,7 +141,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Rome - Endonyms</Name>
+          <Name>Cities - Endonyms</Name>
           <Values>
             <string>Antiochia</string>
             <string>Roma</string>
@@ -717,7 +717,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Military Unit Types - Roman</Name>
+          <Name>Military Unit Types</Name>
           <Values>
             <string>Aeneator</string>
             <string>Aquilifer</string>
@@ -737,7 +737,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Military Unit Types - Roman (Byzantine)</Name>
+          <Name>Military Unit Types</Name>
           <Values>
             <string>Cataphract</string>
             <string>Varangian</string>

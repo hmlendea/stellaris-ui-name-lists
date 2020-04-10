@@ -33,7 +33,7 @@
       </Countries>
       <Regions>
         <NameGroup>
-          <Name>Regions -Iraq</Name>
+          <Name>Regions - Iraq</Name>
           <Values>
             <string>Al-Anbar</string>
             <string>Al-Qādisiyyah</string>
@@ -57,7 +57,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions -Saudi Arabia</Name>
+          <Name>Regions - Saudi Arabia</Name>
           <Values>
             <string>'Asir</string>
             <string>Bahah</string>
@@ -75,7 +75,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions -United Arab Emirates</Name>
+          <Name>Regions - United Arab Emirates</Name>
           <Values>
             <string>Abu Dhabi</string>
             <string>Ajman</string>
@@ -243,7 +243,7 @@
       </GeneralsTier2>
       <LabourDeities>
         <NameGroup>
-          <Name>Labour Deities</Name>
+          <Name>Deities</Name>
           <Values>
             <string>Qaynan</string>
           </Values>

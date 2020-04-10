@@ -30,7 +30,7 @@
       </Countries>
       <Regions>
         <NameGroup>
-          <Name>Regions -India</Name>
+          <Name>Regions - India</Name>
           <Values>
             <string>Andhra</string>
             <string>Arunachal</string>
@@ -65,7 +65,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions -Pakistan</Name>
+          <Name>Regions - Pakistan</Name>
           <Values>
             <string>Sindh</string>
           </Values>

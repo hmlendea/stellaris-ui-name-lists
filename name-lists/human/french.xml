@@ -22,7 +22,7 @@
       </Countries>
       <Regions>
         <NameGroup>
-          <Name>Regions - France - French names</Name>
+          <Name>Regions</Name>
           <Values>
             <string>Alpes</string>
             <string>Auvergne</string>
@@ -45,7 +45,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions - France - English names</Name>
+          <Name>Regions - Endnyms</Name>
           <Values>
             <string>Brittany</string>
             <string>Burgundy</string>
@@ -57,7 +57,7 @@
       </Regions>
       <Cities>
         <NameGroup>
-          <Name>Cities - France</Name>
+          <Name>Cities</Name>
           <Values>
             <string>Amiens</string>
             <string>Bordeaux</string>
@@ -89,7 +89,7 @@
     <GreatPeople>
       <Explorers>
         <NameGroup>
-          <Name>Scientists - French</Name>
+          <Name>Explorers</Name>
           <Values>
             <string>Cousteau</string>
           </Values>
@@ -97,7 +97,7 @@
       </Explorers>
       <Scientists>
         <NameGroup>
-          <Name>Scientists - French</Name>
+          <Name>Scientists</Name>
           <Values>
             <string>Becquerel</string>
           </Values>
@@ -123,17 +123,17 @@
       </LeadersTier3>
       <FlyingAces>
         <NameGroup>
-          <Name>Flying Aces - Belgian</Name>
-          <Values>
-            <string>Coppens</string>
-            <string>Van Lierde</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Flying Aces - French</Name>
+          <Name>Flying Aces</Name>
           <Values>
             <string>Clostermann</string>
             <string>Fonck</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Flying Aces</Name> <!-- Belgian -->
+          <Values>
+            <string>Coppens</string>
+            <string>Van Lierde</string>
           </Values>
         </NameGroup>
       </FlyingAces>
@@ -190,7 +190,7 @@
       </AircraftManufacturers>
       <SpacecraftManufacturers>
         <NameGroup>
-          <Name>Spacecraft manufacturers - Belgian</Name>
+          <Name>Spacecraft manufacturers</Name> <!-- Belgian -->
           <Values>
             <string>QuentiQ</string>
           </Values>
@@ -226,7 +226,7 @@
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Military unit types - French</Name>
+          <Name>Military unit types</Name>
           <Values>
             <string>Arbalester</string>
             <string>Arquebusier</string>
@@ -251,7 +251,7 @@
     <Ships>
       <Cruiser>
         <NameGroup>
-          <Name>Ships - British</Name>
+          <Name>Ships</Name> <!-- British -->
           <Values>
             <string>Téméraire</string>
           </Values>
@@ -369,7 +369,7 @@
       </Arid>
       <Gaia>
         <NameGroup>
-          <Name>Mythology - Places - French</Name>
+          <Name>Mythology - Places</Name>
           <Values>
             <string>Agartha</string>
           </Values>
