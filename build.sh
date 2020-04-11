@@ -89,7 +89,7 @@ build "ui_extra_humans_celtic"          "Human - Celtic"            "L" human/ir
 build "ui_extra_humans_chinese"         "Human - Chinese"           "L" human/chinese human/common_asian
 build "ui_extra_humans_english"         "Human - English"           "L" human/american human/australian human/canadian human/zealandian human/english
 build "ui_extra_humans_franco-iberian"  "Human - Franco-Iberian"    "L" \
-    human/catalan human/french human/portuguese human/spanish human/common_iberian human/common_spanish
+    human/catalan human/french human/portuguese human/spanish human/common_iberian human/common_portuguese human/common_spanish
 build "ui_extra_humans_french"          "Human - French"            "L" human/french
 build "ui_extra_humans_german"          "Human - German"            "L" human/austrian human/german human/swiss human/common_german
 build "ui_extra_humans_germanic"        "Human - Germanic"          "L" \
@@ -98,7 +98,7 @@ build "ui_extra_humans_germanic"        "Human - Germanic"          "L" \
 build "ui_extra_humans_hellenic"        "Human - Hellenic"          "L" human/hellenic
 build "ui_extra_humans_hindi"           "Human - Hindi"             "L" human/hindi
 build "ui_extra_humans_iberian"         "Human - Iberian"           "L" \
-    human/catalan human/portuguese human/spanish human/common_iberian human/common_spanish
+    human/catalan human/portuguese human/spanish human/common_iberian human/common_portuguese human/common_spanish
 build "ui_extra_humans_italian"         "Human - Italian"           "L" human/italian
 build "ui_extra_humans_japanese"        "Human - Japanese"          "L" human/japanese
 build "ui_extra_humans_latino"          "Human - Latino"            "L" \
@@ -106,11 +106,12 @@ build "ui_extra_humans_latino"          "Human - Latino"            "L" \
     human/common_spanish_americano human/common_spanish
 build "ui_extra_humans_norse"           "Human - Norse"             "L" \
     human/danish human/greenlandic human/icelandic human/norwegian human/swedish human/common_norse
-build "ui_extra_humans_portuguese"      "Human - Portuguese"        "L" human/brazilian human/portuguese human/common_iberian
+build "ui_extra_humans_portuguese"      "Human - Portuguese EU"     "L" human/portuguese human/common_iberian human/common_portuguese
 build "ui_extra_humans_romanian"        "Human - Romanian"          "L" human/romanian
 build "ui_extra_humans_romance"         "Human - Romance"           "L" \
     human/argentinian human/brazilian human/catalan human/colombian human/cuban human/french human/guatemalan human/italian human/mexican human/portuguese \
-    human/roman human/romanian human/spanish human/venezuelan human/common_iberian human/common_spanish_americano human/common_spanish
+    human/roman human/romanian human/spanish human/venezuelan \
+    human/common_iberian  human/common_portuguese human/common_spanish_americano human/common_spanish
 build "ui_extra_humans_russian"         "Human - Russian"           "L" human/russian
 build "ui_extra_humans_slavic"          "Human - Slavic"            "L" \
     human/belarusian human/bosnian human/bulgarian human/croatian human/czech human/polish human/russian human/serbian human/slovakian \
@@ -128,7 +129,7 @@ build "ui_extra_humans_extended"        "Human - Extended"          "L" \
     human/portuguese human/roman human/romanian human/russian human/scottish human/serbian human/slovakian human/slovenian \
     human/spanish human/swedish human/swiss human/tibetan human/turkic human/ukrainian human/venezuelan human/welsh human/zealandian \
     \
-    human/common_asian human/common_german human/common_iberian human/common_norse \
+    human/common_asian human/common_german human/common_iberian human/common_norse human/common_portuguese \
     human/common_slavic_yugoslavic human/common_slavic human/common_spanish_americano human/common_spanish human/common \
     \
     starcraft/human starwars/human galciv/human sose/human runescape/human other-media/human \
