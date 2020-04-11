@@ -13,7 +13,6 @@
           <string>Kashubian</string>
           <string>Montenegrin</string>
           <string>Moravian</string>
-          <string>Serb</string>
           <string>Silesian</string>
           <string>Slavic</string>
           <string>Slovak</string>
@@ -32,7 +31,6 @@
             <string>Bosnia</string>
             <string>Czechia</string>
             <string>Montenegro</string>
-            <string>Serbia</string>
             <string>Slovakia</string>
             <string>Slovenia</string>
             <string>Yugoslavia</string>
@@ -90,24 +88,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Serbia</Name>
-          <Values>
-            <string>Belgrade</string>
-            <string>Čačak</string>
-            <string>Kragujevac</string>
-            <string>Kraljevo</string>
-            <string>Kruševac</string>
-            <string>Leskovac</string>
-            <string>Niš</string>
-            <string>Novi Sad</string>
-            <string>Pančevo</string>
-            <string>Šabac</string>
-            <string>Smederevo</string>
-            <string>Subotica</string>
-            <string>Zrenjanin</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Slovakia</Name>
           <Values>
             <string>Banská Bystrica</string>
@@ -152,28 +132,6 @@
         </NameGroup>
       </Cities>
     </Places>
-    <GreatPeople>
-      <Scientists>
-        <NameGroup>
-          <Name>Scientists - Serbian</Name>
-          <Values>
-            <string>Tesla</string>
-          </Values>
-        </NameGroup>
-      </Scientists>
-    </GreatPeople>
-    <Warfare>
-      <Weapons>
-        <Swords>
-          <NameGroup>
-            <Name>Swords - Serbian</Name>
-            <Values>
-              <string>Schiavonesca</string>
-            </Values>
-          </NameGroup>
-        </Swords>
-      </Weapons>
-    </Warfare>
     <Planets>
       <Generic>
         <NameGroup>
