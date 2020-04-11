@@ -51,12 +51,6 @@
             <string>Luxemburg</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Cities - Others</Name>
-          <Values>
-            <string>Johannesburg</string>
-          </Values>
-        </NameGroup>
       </Cities>
     </Places>
     <GreatPeople>
@@ -80,14 +74,6 @@
       </SpacecraftManufacturers>
     </Companies>
     <Warfare>
-      <MilitaryUnitTypes>
-        <NameGroup>
-          <Name>Military Unit Types</Name>
-          <Values>
-            <string>Templar</string>
-          </Values>
-        </NameGroup>
-      </MilitaryUnitTypes>
       <BattleLocations>
         <NameGroup>
           <Name>Battle locations</Name>
@@ -118,82 +104,5 @@
         </NameGroup>
       </Corvette>
     </Ships>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Stellaris - Commonwealth of Man</Name>
-          <Values>
-            <string>Schimmel's World</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Media</Name>
-          <Values>
-            <string>Friedland</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
-    <Characters>
-      <CharacterNames>
-        <Id>german</Id>
-        <Weight>2</Weight>
-        <MaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/deu-persons-male.txt</Url>
-          </NameGroup>
-        </MaleFirstNames>
-        <MaleRoyalFirstNames>
-          <NameGroup>
-            <Values>
-              <string>Wilhelm</string>
-              <string>Leopold</string>
-              <string>Rudolf</string>
-              <string>Freidrich</string>
-              <string>Karl</string>
-              <string>Ferdinand</string>
-              <string>Franz</string>
-              <string>Otto</string>
-              <string>Johann</string>
-            </Values>
-          </NameGroup>
-        </MaleRoyalFirstNames>
-        <FemaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/deu-persons-female.txt</Url>
-          </NameGroup>
-        </FemaleFirstNames>
-        <FemaleRoyalFirstNames>
-          <NameGroup>
-            <Values>
-              <string>Adelaide</string>
-              <string>Anna</string>
-              <string>Hermine</string>
-              <string>Margaret</string>
-              <string>Maria</string>
-            </Values>
-          </NameGroup>
-        </FemaleRoyalFirstNames>
-        <SecondNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/deu-persons-surname.txt</Url>
-          </NameGroup>
-        </SecondNames>
-        <RoyalSecondNames>
-          <NameGroup>
-            <Values>
-              <string>Habsburg</string>
-              <string>Hohenstaufen</string>
-              <string>Hohenzollern</string>
-              <string>Karling</string>
-              <string>Luxemburg</string>
-              <string>Sigmaringen</string>
-              <string>Welf</string>
-              <string>Wittelsbach</string>
-            </Values>
-          </NameGroup>
-        </RoyalSecondNames>
-      </CharacterNames>
-    </Characters>
   </NameList>
 </ArrayOfNameList>
