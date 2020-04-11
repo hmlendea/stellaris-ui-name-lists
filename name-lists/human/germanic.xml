@@ -10,9 +10,7 @@
           <string>Belgian</string>
           <string>Dutch</string>
           <string>Gothic</string>
-          <string>Swiss</string>
           <string>Vandal</string>
-          <string>Viking</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -24,7 +22,6 @@
             <string>Belgium</string>
             <string>Greenland</string>
             <string>Netherlands</string>
-            <string>Switzerland</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -33,7 +30,6 @@
             <string>Belgie</string>
             <string>Grønland</string>
             <string>Nederland</string>
-            <string>Schweiz</string>
           </Values>
         </NameGroup>
       </Countries>
@@ -64,14 +60,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Switzerland</Name>
-          <Values>
-            <string>Bern</string>
-            <string>Geneva</string>
-            <string>Zürich</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Luxembourg</Name>
           <Values>
             <string>Lëtzebuerg</string>
@@ -86,24 +74,6 @@
           </Values>
         </NameGroup>
       </Cities>
-      <Lakes>
-        <NameGroup>
-          <Name>Lakes - Switzerland</Name>
-          <Values>
-            <string>Bachalpsee</string>
-            <string>Blausee</string>
-            <string>Brienz</string>
-            <string>Geneva</string>
-            <string>Lucerne</string>
-            <string>Lugano</string>
-            <string>Oeschinensee</string>
-            <string>Riffelsee</string>
-            <string>Thun</string>
-            <string>Walensee</string>
-            <string>Zurich</string>
-          </Values>
-        </NameGroup>
-      </Lakes>
     </Places>
     <GreatPeople>
       <Scientists>
@@ -136,20 +106,6 @@
           </Values>
         </NameGroup>
       </LeadersTier2>
-      <Heroes>
-        <NameGroup>
-          <Name>Heroes - Swiss</Name>
-          <Values>
-            <string>William Tell</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Heroes - Swiss - Endonym</Name>
-          <Values>
-            <string>Wilhelm Teil</string>
-          </Values>
-        </NameGroup>
-      </Heroes>
       <Admirals>
         <NameGroup>
           <Name>Admirals - Dutch</Name>
@@ -160,14 +116,6 @@
       </Admirals>
     </GreatPeople>
     <Companies>
-      <AircraftManufacturers>
-        <NameGroup>
-          <Name>Aircraft Manufacturers - Swiss</Name>
-          <Values>
-            <string>Pilatus</string>
-          </Values>
-        </NameGroup>
-      </AircraftManufacturers>
       <SpacecraftManufacturers>
         <NameGroup>
           <Name>Spacecraft Manufacturers - Belgian</Name>
@@ -224,12 +172,6 @@
     </Ships>
     <Planets>
       <Generic>
-        <NameGroup>
-          <Name>Pandora: First Contact - Noxium Corporation - Swiss</Name>
-          <Values>
-            <string>Lemann</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Stellaris - Commonwealth of Man</Name>
           <Values>
