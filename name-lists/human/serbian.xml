@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_serbian</Id>
+    <Name>Human - Serbian</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Serb</string>
+          <string>Serbian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Serbia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Srbija</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Serbia</Name>
+          <Values>
+            <string>Belgrade</string>
+            <string>Čačak</string>
+            <string>Kragujevac</string>
+            <string>Kraljevo</string>
+            <string>Kruševac</string>
+            <string>Leskovac</string>
+            <string>Niš</string>
+            <string>Novi Sad</string>
+            <string>Pančevo</string>
+            <string>Šabac</string>
+            <string>Smederevo</string>
+            <string>Subotica</string>
+            <string>Zrenjanin</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <GreatPeople>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists - Serbian</Name>
+          <Values>
+            <string>Tesla</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+    </GreatPeople>
+    <Warfare>
+      <Weapons>
+        <Swords>
+          <NameGroup>
+            <Name>Swords - Serbian</Name>
+            <Values>
+              <string>Schiavonesca</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+      </Weapons>
+    </Warfare>
+  </NameList>
+</ArrayOfNameList>
