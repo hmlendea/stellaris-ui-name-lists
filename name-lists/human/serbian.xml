@@ -47,6 +47,29 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Rudnik</string>
+            <string>Šumadija</string>
+            <string>Valjevo</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Forests>
+        <NameGroup>
+          <Name>Forests</Name>
+          <Values>
+            <string>Košutnjak</string>
+            <string>Molin</string>
+            <string>Radovanje</string>
+            <string>Rudnik</string>
+            <string>Šalinac</string>
+            <string>Topčider</string>
+          </Values>
+        </NameGroup>
+      </Forests>
       <Rivers>
         <NameGroup>
           <Name>Rivers</Name>
