@@ -88,6 +88,8 @@ build "ui_extra_humans_austronesian"    "Human - Austronesian"  "L" human/austro
 build "ui_extra_humans_celtic"          "Human - Celtic"        "L" human/irish human/scottish human/welsh human/celtic
 build "ui_extra_humans_chinese"         "Human - Chinese"       "L" human/chinese human/common_asian
 build "ui_extra_humans_english"         "Human - English"       "L" human/american human/australian human/canadian human/zealandian human/english
+build "ui_extra_humans_franco-iberian"  "Human - Franco-Iberian"       "L" \
+    human/catalan human/french human/portuguese human/spanish human/common_iberian human/common_spanish
 build "ui_extra_humans_french"          "Human - French"        "L" human/french
 build "ui_extra_humans_german"          "Human - German"        "L" human/austrian human/german human/swiss human/common_german
 build "ui_extra_humans_germanic"        "Human - Germanic"      "L" \
