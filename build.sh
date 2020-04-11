@@ -85,7 +85,7 @@ build "ui_extra_humans_arabic"          "Human - Arabic"            "L" human/ar
 build "ui_extra_humans_asian"           "Human - Asian"             "L" \
     human/chinese human/japanese human/korean human/mongol human/tibetan human/common_asian
 build "ui_extra_humans_austronesian"    "Human - Austronesian"      "L" \
-    human/filipino human/indonesian human/malaysian human/maori human/austronesian
+    human/filipino human/hawaiian human/indonesian human/kiribatian human/malaysian human/maori human/polynesian human/austronesian
 build "ui_extra_humans_celtic"          "Human - Celtic"            "L" human/irish human/scottish human/welsh human/celtic
 build "ui_extra_humans_chinese"         "Human - Chinese"           "L" human/chinese human/common_asian
 build "ui_extra_humans_english"         "Human - English"           "L" human/american human/australian human/canadian human/zealandian human/english
@@ -126,9 +126,9 @@ build "ui_extra_humans_extended"        "Human - Extended"          "L" \
     human/austrian human/austronesian human/baltic human/belarusian human/bosnian human/basque human/brazilian \
     human/bulgarian human/canadian human/catalan human/celtic human/chinese human/colombian human/croatian \
     human/cuban human/czech human/danish human/dutch human/english human/filipino human/french human/german human/germanic \
-    human/greenlandic human/guatemalan human/hebrew human/hellenic human/hindi human/hungarian human/icelandic human/indonesian \
-    human/italian human/irish human/japanese human/korean human/malaysian human/maori human/mexican human/mongol \
-    human/norwegian human/persian human/portuguese human/roman human/romanian human/russian human/scottish \
+    human/greenlandic human/guatemalan human/hawaiian human/hebrew human/hellenic human/hindi human/hungarian human/icelandic human/indonesian \
+    human/italian human/irish human/japanese human/kiribatian human/korean human/malaysian human/maori human/mexican human/mongol \
+    human/norwegian human/persian human/polynesian human/portuguese human/roman human/romanian human/russian human/scottish \
     human/serbian human/slovakian human/slovenian human/spanish human/swedish human/swiss human/tibetan \
     human/turkic human/ukrainian human/venezuelan human/welsh human/zealandian \
     \

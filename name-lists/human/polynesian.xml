@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_polynesian</Id>
+    <Name>Human - Polynesian</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Polynesian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Polynesia</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Bora Bora</string>
+            <string>Fakarava</string>
+            <string>Gambier</string>
+            <string>Hiva Oa</string>
+            <string>Huahine</string>
+            <string>ʻUa Huta</string>
+            <string>Mangareva</string>
+            <string>Manihi</string>
+            <string>Maupiti</string>
+            <string>Mehetiʻa</string>
+            <string>Moorea</string>
+            <string>Mururoa</string>
+            <string>Nuku Hiva</string>
+            <string>Raiatea</string>
+            <string>Raivavae</string>
+            <string>Rangiroa</string>
+            <string>Rurutu</string>
+            <string>Tahaa</string>
+            <string>Tahiti</string>
+            <string>Tahuata</string>
+            <string>Tetiaroa</string>
+            <string>Tūpai</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Arue</string>
+            <string>Faaʻa</string>
+            <string>Mahina</string>
+            <string>Moorea-Maiao</string>
+            <string>Paea</string>
+            <string>Papara</string>
+            <string>Papeete</string>
+            <string>Pirae</string>
+            <string>Punaauia</string>
+            <string>Taiarapu-Est</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <GreatPeople>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Kupe</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+    </GreatPeople>
+  </NameList>
+</ArrayOfNameList>
