@@ -7,12 +7,9 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-          <string>Filipino</string>
           <string>Hawaiian</string>
-          <string>Indonesian</string>
           <string>Javanese</string>
           <string>Kiribatian</string>
-          <string>Malay</string>
           <string>Polynesian</string>
         </Values>
       </NameGroup>
@@ -23,10 +20,7 @@
           <Name>Countries</Name>
           <Values>
             <string>Hawaii</string>
-            <string>Indonesia</string>
             <string>Kiribati</string>
-            <string>Malaysia</string>
-            <string>Philippines</string>
             <string>Polynesia</string>
           </Values>
         </NameGroup>
@@ -52,64 +46,12 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions - Indonesia</Name>
-          <Values>
-            <string>Java</string>
-            <string>Kalimantan</string>
-            <string>Maluku</string>
-            <string>New Guinea</string>
-            <string>Sulawesi</string>
-            <string>Sumatra</string>
-            <string>Sunda</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Regions - Kiribati</Name>
           <Values>
             <string>Banaba</string>
             <string>Gilbert</string>
             <string>Line</string>
             <string>Tarawa</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Regions - Malaysia</Name>
-          <Values>
-            <string>Johor Darul Ta'zim</string>
-            <string>Kedah Darul Aman</string>
-            <string>Kelantan Darul Naim</string>
-            <string>Kuala Lumpur</string>
-            <string>Labuan</string>
-            <string>Malacca</string>
-            <string>Negeri Sembilan Darul Khusus</string>
-            <string>Pahang Darul Makmur</string>
-            <string>Penang</string>
-            <string>Perak Darul Ridzuan</string>
-            <string>Perlis Indera Kayangan</string>
-            <string>Putrajaya</string>
-            <string>Sabah</string>
-            <string>Sarawak</string>
-            <string>Selangor Darul Ehsan</string>
-            <string>Terengganu Darul Iman</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Regions - Philippines</Name>
-          <Values>
-            <string>Bangsamoro</string>
-            <string>Bicol</string>
-            <string>Cagayan</string>
-            <string>Calabarzon</string>
-            <string>Caraga</string>
-            <string>Cordillera</string>
-            <string>Davao</string>
-            <string>Ilocos</string>
-            <string>Luzon</string>
-            <string>Mindanao</string>
-            <string>Soccsksargen</string>
-            <string>Tagalog</string>
-            <string>Visayas</string>
-            <string>Zamboanga</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -211,40 +153,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Indonesia</Name>
-          <Values>
-            <string>Balikpapan</string>
-            <string>Bandar Lampung</string>
-            <string>Bandung</string>
-            <string>Banjarmasin</string>
-            <string>Batam</string>
-            <string>Bekasi</string>
-            <string>Bogor</string>
-            <string>Cimahi</string>
-            <string>Denpasar</string>
-            <string>Depok</string>
-            <string>Jakarta</string>
-            <string>Jambi</string>
-            <string>Jayapura</string>
-            <string>Kupang</string>
-            <string>Makassar</string>
-            <string>Malang</string>
-            <string>Manado</string>
-            <string>Medan</string>
-            <string>Padang</string>
-            <string>Palembang</string>
-            <string>Pekanbaru</string>
-            <string>Pontianak</string>
-            <string>Samarinda</string>
-            <string>Semarang</string>
-            <string>Serang</string>
-            <string>Surabaya</string>
-            <string>Surakarta</string>
-            <string>Tangerang</string>
-            <string>Tasikmalaya</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Kiribati</Name>
           <Values>
             <string>Abaokoro</string>
@@ -280,58 +188,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Malaysia</Name>
-          <Values>
-            <string>Alor Setar</string>
-            <string>Ipoh</string>
-            <string>Johor Bahru</string>
-            <string>Kangar</string>
-            <string>Kota Bharu</string>
-            <string>Kota Kinabalu</string>
-            <string>Kuala Lumpur</string>
-            <string>Kuala Terengganu</string>
-            <string>Kuantan</string>
-            <string>Kuching</string>
-            <string>Malacca</string>
-            <string>Putrajaya</string>
-            <string>Seremban</string>
-            <string>Shah Alam</string>
-            <string>Victoria</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Philippines</Name>
-          <Values>
-            <string>Antipolo</string>
-            <string>Bacolod</string>
-            <string>Baguio</string>
-            <string>Butuan</string>
-            <string>Calamba</string>
-            <string>Caloocan</string>
-            <string>Cebu</string>
-            <string>Davao</string>
-            <string>Iligan</string>
-            <string>Iloilo</string>
-            <string>Imus</string>
-            <string>Lapu‑Lapu</string>
-            <string>Lipa</string>
-            <string>Makati</string>
-            <string>Malabon</string>
-            <string>Mandaluyong</string>
-            <string>Mandaue</string>
-            <string>Manila</string>
-            <string>Marikina</string>
-            <string>Muntinlupa</string>
-            <string>Parañaque</string>
-            <string>Pasay</string>
-            <string>Pasig</string>
-            <string>Quezon</string>
-            <string>Taguig</string>
-            <string>Tarlac</string>
-            <string>Zamboanga</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Polynesia</Name>
           <Values>
             <string>Arue</string>
@@ -347,108 +203,9 @@
           </Values>
         </NameGroup>
       </Cities>
-      <Mountains>
-        <NameGroup>
-          <Name>Mountains - Indonesia</Name>
-          <Values>
-            <string>Amasing</string>
-            <string>Awu</string>
-            <string>Batutara</string>
-            <string>Bibinoi</string>
-            <string>Binaiya</string>
-            <string>Colo</string>
-            <string>Dukono</string>
-            <string>Gamalama</string>
-            <string>Gamkonora</string>
-            <string>Hiri</string>
-            <string>Hulubelu</string>
-            <string>Ibu</string>
-            <string>Ilas Bungaan</string>
-            <string>Ililabalekan</string>
-            <string>Ilimuda</string>
-            <string>Iliwerung</string>
-            <string>Imun</string>
-            <string>Kapalatmada</string>
-            <string>Karangetang</string>
-            <string>Krakatoa</string>
-            <string>Lawit</string>
-            <string>Lewotolo</string>
-            <string>Mare</string>
-            <string>Merbuk</string>
-            <string>Moti</string>
-            <string>Mutis</string>
-            <string>Ndete Napu</string>
-            <string>Ngga Pilimsit</string>
-            <string>Ngga Pulu</string>
-            <string>Nokilalaki</string>
-            <string>Paluweh</string>
-            <string>Plawangan</string>
-            <string>Poco Leok</string>
-            <string>Pueh</string>
-            <string>Ribu</string>
-            <string>Rinjani</string>
-            <string>Ruang</string>
-            <string>Sahendaruman</string>
-            <string>Sangeang Api</string>
-            <string>Sirung</string>
-            <string>Sukaria</string>
-            <string>Tambora</string>
-            <string>Tarakan</string>
-            <string>Tigalalu</string>
-            <string>Todoko-Ranu</string>
-            <string>Turgo</string>
-            <string>Wayang-Windu</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Mountains - Malaysia</Name>
-          <Values>
-            <string>Bintang</string>
-            <string>Tahan</string>
-            <string>Titiwangsa</string>
-            <string>Trusmadi</string>
-          </Values>
-        </NameGroup>
-      </Mountains>
-      <Seas>
-        <NameGroup>
-          <Name>Seas</Name>
-          <Values>
-            <string>Java</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Seas - Malaysia</Name>
-          <Values>
-            <string>Andaman</string>
-            <string>Celebes</string>
-            <string>Sulu</string>
-          </Values>
-        </NameGroup>
-      </Seas>
     </Places>
     <GreatPeople>
       <LeadersTier1>
-        <NameGroup>
-          <Name>Leaders - Indonesia</Name>
-          <Values>
-            <string>Gajah Mada</string>
-            <string>Gitarja</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Leaders - Malay</Name>
-          <Values>
-            <string>Tun Perak</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Leaders - Philippino</Name>
-          <Values>
-            <string>Kalangitan</string>
-            <string>Kudarat</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Leaders - Polynesia</Name>
           <Values>
@@ -465,64 +222,6 @@
         </NameGroup>
       </LeadersTier2>
     </GreatPeople>
-    <Warfare>
-      <Weapons>
-        <Swords>
-          <NameGroup>
-            <Name>Swords - Indonesian</Name>
-            <Values>
-              <string>Golok</string>
-              <string>Jimpul</string>
-              <string>Klewang</string>
-              <string>Langgai Tinggang</string>
-              <string>Niabor</string>
-              <string>Pandat</string>
-            </Values>
-          </NameGroup>
-        </Swords>
-        <Daggers>
-          <NameGroup>
-            <Name>Daggers - Indonesian</Name>
-            <Values>
-              <string>Kris</string>
-              <string>Mandau</string>
-            </Values>
-          </NameGroup>
-          <NameGroup>
-            <Name>Daggers - Malay</Name>
-            <Values>
-              <string>Karambit</string>
-            </Values>
-          </NameGroup>
-        </Daggers>
-      </Weapons>
-      <MilitaryUnitTypes>
-        <NameGroup>
-          <Name>Military unit types - Indonesian</Name>
-          <Values>
-            <string>Jong</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Military unit types - Malay</Name>
-          <Values>
-            <string>Lancaran</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Military unit types - Maori</Name>
-          <Values>
-            <string>Toa</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Military unit types - Philippino</Name>
-          <Values>
-            <string>Katipunero</string>
-          </Values>
-        </NameGroup>
-      </MilitaryUnitTypes>
-    </Warfare>
     <Planets>
       <Generic>
         <NameGroup>
@@ -530,37 +229,6 @@
           <Values>
             <string>Mareeba</string>
             <string>Speewah</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - Polystralia - Filipino</Name>
-          <Values>
-            <string>Kayamutan</string>
-            <string>Mahalaga</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - Polystralia - Indonesian</Name>
-          <Values>
-            <string>Harta</string>
-            <string>Kesempatan</string>
-            <string>Tenang</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - Polystralia - Malay</Name>
-          <Values>
-            <string>Kala</string>
-            <string>Pembela</string>
-            <string>Waspada</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - Polystralia - Māori</Name>
-          <Values>
-            <string>Maeva</string>
-            <string>Rahi</string>
-            <string>Rangi</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -576,58 +244,6 @@
           </Values>
         </NameGroup>
       </Generic>
-      <Continental>
-        <NameGroup>
-          <Name>Maori native names for other places</Name>
-          <Values>
-            <string>Aotearoa</string>
-            <string>Rapa Nui</string>
-            <string>Rekohu</string>
-            <string>Te Wai Pounamu</string>
-            <string>Uvea</string>
-          </Values>
-        </NameGroup>
-      </Continental>
     </Planets>
-    <Characters>
-      <CharacterNames>
-        <Id>indonesian</Id>
-        <Weight>1</Weight>
-        <MaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/ind-persons-male.txt</Url>
-          </NameGroup>
-        </MaleFirstNames>
-        <FemaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/ind-persons-female.txt</Url>
-          </NameGroup>
-        </FemaleFirstNames>
-        <SecondNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/ind-persons-surnames.txt</Url>
-          </NameGroup>
-        </SecondNames>
-      </CharacterNames>
-      <CharacterNames>
-        <Id>maori</Id>
-        <Weight>1</Weight>
-        <MaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/mri-persons-male.txt</Url>
-          </NameGroup>
-        </MaleFirstNames>
-        <FemaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/mri-persons-female.txt</Url>
-          </NameGroup>
-        </FemaleFirstNames>
-        <SecondNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/mri-persons-surnames.txt</Url>
-          </NameGroup>
-        </SecondNames>
-      </CharacterNames>
-    </Characters>
   </NameList>
 </ArrayOfNameList>
