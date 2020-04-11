@@ -9,7 +9,6 @@
         <Values>
             <string>Breton</string>
             <string>Celtic</string>
-            <string>Scottish</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -19,28 +18,9 @@
           <Name>Countries</Name>
           <Values>
             <string>Britanny</string>
-            <string>Scotland</string>
           </Values>
         </NameGroup>
       </Countries>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - Scotland</Name>
-          <Values>
-            <string>Aberdeen</string>
-            <string>Edinburgh</string>
-            <string>Glasgow</string>
-          </Values>
-        </NameGroup>
-      </Cities>
-      <Lakes>
-        <NameGroup>
-          <Name>Lakes - Scotland</Name>
-          <Values>
-            <string>Lochness</string>
-          </Values>
-        </NameGroup>
-      </Lakes>
     </Places>
     <GreatPeople>
       <LeadersTier1>
@@ -49,12 +29,6 @@
           <Values>
             <string>Gwendolen</string>
             <string>Scathach</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Leaders - Scottish</Name>
-          <Values>
-            <string>Robert the Bruce</string>
           </Values>
         </NameGroup>
       </LeadersTier1>
@@ -68,12 +42,6 @@
       </LeadersTier2>
       <Heroes>
         <NameGroup>
-          <Name>Heroes - Scottish</Name>
-          <Values>
-            <string>Scáthach</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Heroes - British</Name>
           <Values>
             <string>Robin Hood</string>
@@ -81,17 +49,6 @@
         </NameGroup>
       </Heroes>
     </GreatPeople>
-    <Warfare>
-      <MilitaryUnitTypes>
-        <NameGroup>
-          <Name>Military Unit Types - Scottish</Name>
-          <Values>
-            <string>Highlander</string>
-            <string>Woad Raider</string>
-          </Values>
-        </NameGroup>
-      </MilitaryUnitTypes>
-    </Warfare>
     <BiosphereNames>
       <MythologicalCreatures>
         <NameGroup>
@@ -102,47 +59,5 @@
         </NameGroup>
       </MythologicalCreatures>
     </BiosphereNames>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - North Sea Alliance - Scots Gaelic</Name>
-          <Values>
-            <string>Bànclagh</string>
-            <string>Dunkyle</string>
-            <string>Sàmchair</string>
-            <string>Sìorraidh</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-      <Ocean>
-        <NameGroup>
-          <Name>Places</Name>
-          <Values>
-            <string>Lochness</string>
-          </Values>
-        </NameGroup>
-      </Ocean>
-    </Planets>
-    <Characters>
-      <CharacterNames>
-        <Id>welsh</Id>
-        <Weight>1</Weight>
-        <MaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/cym-persons-male.txt</Url>
-          </NameGroup>
-        </MaleFirstNames>
-        <FemaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/cym-persons-female.txt</Url>
-          </NameGroup>
-        </FemaleFirstNames>
-        <SecondNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/cym-persons-surnames.txt</Url>
-          </NameGroup>
-        </SecondNames>
-      </CharacterNames>
-    </Characters>
   </NameList>
 </ArrayOfNameList>
