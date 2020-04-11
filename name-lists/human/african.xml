@@ -602,33 +602,33 @@
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Military Unit Types - Congolese</Name>
+          <Name>Military unit types - Congolese</Name>
           <Values>
             <string>Ngao Mbeba</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Military Unit Types - Ethiopian</Name>
+          <Name>Military unit types - Ethiopian</Name>
           <Values>
             <string>Mehal Sefari</string>
             <string>Shotelai</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Military Unit Types - Mali</Name>
+          <Name>Military unit types - Mali</Name>
           <Values>
             <string>Gbeto</string>
             <string>Mandekalu</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Military Unit Types - Swahili</Name>
+          <Name>Military unit types - Swahili</Name>
           <Values>
             <string>Jahazi</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Military Unit Types - Zulu</Name>
+          <Name>Military unit types - Zulu</Name>
           <Values>
             <string>Impi</string>
           </Values>

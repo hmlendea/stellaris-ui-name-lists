@@ -228,7 +228,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Military Unit Types</Name>
+          <Name>Military unit types</Name>
           <Values>
             <string>Dorobant</string>
             <string>Falxmen</string>

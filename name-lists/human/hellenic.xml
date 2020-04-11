@@ -502,7 +502,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Military Unit Types</Name>
+          <Name>Military unit types</Name>
           <Values>
             <string>Cataphract</string>
             <string>Hoplite</string>
@@ -536,7 +536,7 @@
     <BiosphereNames>
       <MythologicalCreatures>
         <NameGroup>
-          <Name>Mythological Creatures</Name>
+          <Name>Mythological creatures</Name>
           <Values>
             <string>Basilisk</string>
             <string>Centaur</string>

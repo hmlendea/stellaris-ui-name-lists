@@ -416,14 +416,14 @@
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Military Unit Types - Indian</Name>
+          <Name>Military unit types - Indian</Name>
           <Values>
             <string>Sepoy</string>
             <string>Varu</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Military Unit Types - Nepali</Name>
+          <Name>Military unit types - Nepali</Name>
           <Values>
             <string>Gurkha</string>
           </Values>
@@ -441,7 +441,7 @@
     <BiosphereNames>
       <MythologicalCreatures>
         <NameGroup>
-          <Name>Mythological Creatures - Hindu</Name>
+          <Name>Mythological creatures - Hindu</Name>
           <Values>
             <string>Garuda</string>
             <string>Rakshasa</string>

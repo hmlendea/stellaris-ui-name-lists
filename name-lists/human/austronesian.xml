@@ -498,25 +498,25 @@
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Military Unit Types - Indonesian</Name>
+          <Name>Military unit types - Indonesian</Name>
           <Values>
             <string>Jong</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Military Unit Types - Malay</Name>
+          <Name>Military unit types - Malay</Name>
           <Values>
             <string>Lancaran</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Military Unit Types - Maori</Name>
+          <Name>Military unit types - Maori</Name>
           <Values>
             <string>Toa</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Military Unit Types - Philippino</Name>
+          <Name>Military unit types - Philippino</Name>
           <Values>
             <string>Katipunero</string>
           </Values>

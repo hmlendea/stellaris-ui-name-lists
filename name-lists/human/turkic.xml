@@ -136,7 +136,7 @@
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Military Unit Types - Turk</Name>
+          <Name>Military unit types - Turk</Name>
           <Values>
             <string>Azap</string>
             <string>Janissary</string>

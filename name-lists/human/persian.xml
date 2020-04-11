@@ -119,7 +119,7 @@
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Military Unit Types - Persian</Name>
+          <Name>Military unit types - Persian</Name>
           <Values>
             <string>Immortal</string>
           </Values>
