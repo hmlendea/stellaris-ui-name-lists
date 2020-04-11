@@ -29,7 +29,7 @@
       </Countries>
       <Cities>
         <NameGroup>
-          <Name>Cities - Serbia</Name>
+          <Name>Cities</Name>
           <Values>
             <string>Belgrade</string>
             <string>Čačak</string>
@@ -47,12 +47,35 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Drina</string>
+            <string>Ibar</string>
+            <string>Sava</string>
+            <string>Uvac</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Bela Crkva</string>
+            <string>Palić</string>
+            <string>Perućac</string>
+            <string>Vlasina</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
     <GreatPeople>
       <Scientists>
         <NameGroup>
-          <Name>Scientists - Serbian</Name>
+          <Name>Scientists</Name>
           <Values>
+            <string>Pupin</string>
             <string>Tesla</string>
           </Values>
         </NameGroup>
@@ -62,7 +85,7 @@
       <Weapons>
         <Swords>
           <NameGroup>
-            <Name>Swords - Serbian</Name>
+            <Name>Swords</Name>
             <Values>
               <string>Schiavonesca</string>
             </Values>
