@@ -27,6 +27,39 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Kujalleq</string>
+            <string>Qeqertalik</string>
+            <string>Qeqqata</string>
+            <string>Sermersooq</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Aasiaat</string>
+            <string>Nuuk</string>
+            <string>Qaqortoq</string>
+            <string>Sisimiut</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Aajuitsup Tasia</string>
+            <string>Sanningasoq</string>
+            <string>Tasersuaq</string>
+            <string>Tasersuatsiaq</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
     <Planets>
       <Arctic>
