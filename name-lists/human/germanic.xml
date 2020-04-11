@@ -20,7 +20,6 @@
           <Name>Countries</Name>
           <Values>
             <string>Belgium</string>
-            <string>Greenland</string>
             <string>Netherlands</string>
           </Values>
         </NameGroup>
@@ -28,7 +27,6 @@
           <Name>Countries - Endonyms</Name>
           <Values>
             <string>Belgie</string>
-            <string>Grønland</string>
             <string>Nederland</string>
           </Values>
         </NameGroup>
@@ -185,20 +183,6 @@
           </Values>
         </NameGroup>
       </Generic>
-      <Arctic>
-        <NameGroup>
-          <Name>Countries - Native names</Name>
-          <Values>
-            <string>Grønland</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Countries</Name>
-          <Values>
-            <string>Greenland</string>
-          </Values>
-        </NameGroup>
-      </Arctic>
     </Planets>
     <Characters>
       <CharacterNames>
