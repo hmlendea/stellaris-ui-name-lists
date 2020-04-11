@@ -217,9 +217,9 @@
         </Crossbows>
         <Polearms>
           <NameGroup>
-            <Name>Crossbows</Name>
+            <Name>Polearms</Name>
             <Values>
-              <string>Voulgg</string>
+              <string>Voulge</string>
             </Values>
           </NameGroup>
         </Polearms>
