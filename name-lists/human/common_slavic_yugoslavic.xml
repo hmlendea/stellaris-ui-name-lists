@@ -8,7 +8,6 @@
         <Name>Denonyms</Name>
         <Values>
           <string>Montenegrin</string>
-          <string>Slovene</string>
           <string>Yugoslav</string>
           <string>Yugoslavic</string>
         </Values>
@@ -20,7 +19,6 @@
           <Name>Countries</Name>
           <Values>
             <string>Montenegro</string>
-            <string>Slovenia</string>
             <string>Yugoslavia</string>
           </Values>
         </NameGroup>

@@ -108,8 +108,8 @@ build "ui_extra_humans_romance"         "Human - Romance"       "L" \
     human/roman human/romanian human/spanish human/venezuelan human/common_iberian
 build "ui_extra_humans_russian"         "Human - Russian"       "L" human/russian
 build "ui_extra_humans_slavic"          "Human - Slavic"        "L" \
-    human/belarusian human/bosnian human/bulgarian human/croatian human/czech human/polish human/russian human/serbian human/slovakian human/ukrainian \
-    human/common_slavic_yugoslavic human/common_slavic
+    human/belarusian human/bosnian human/bulgarian human/croatian human/czech human/polish human/russian human/serbian human/slovakian \
+    human/slovenian human/ukrainian human/common_slavic_yugoslavic human/common_slavic
 build "ui_extra_humans_spqr_extended"   "Human - Roman"         "L" human/roman human/human3
 build "ui_extra_humans_turkic"          "Human - Turkic"        "L" human/turkic
 build "ui_extra_humans_extended"        "Human - Extended"      "L" \
@@ -118,8 +118,8 @@ build "ui_extra_humans_extended"        "Human - Extended"      "L" \
     human/celtic human/chinese human/colombian human/croatian human/cuban human/czech human/danish human/dutch human/english human/french human/german \
     human/germanic human/greenlandic human/guatemalan human/hebrew human/hellenic human/hindi human/hungarian human/icelandic \
     human/italian human/irish human/japanese human/korean human/mexican human/mongol human/norwegian human/persian \
-    human/portuguese human/roman human/romanian human/russian human/scottish human/serbian human/slovakian human/spanish human/swedish \
-    human/swiss human/tibetan human/turkic human/ukrainian human/venezuelan human/welsh human/zealandian \
+    human/portuguese human/roman human/romanian human/russian human/scottish human/serbian human/slovakian human/slovenian \
+    human/spanish human/swedish human/swiss human/tibetan human/turkic human/ukrainian human/venezuelan human/welsh human/zealandian \
     human/common_asian human/common_german human/common_iberian human/common_norse human/common_slavic_yugoslavic human/common_slavic human/common \
     starcraft/human starwars/human galciv/human sose/human runescape/human other-media/human \
     human/human1 human/human2 human/human3 human/zextended
