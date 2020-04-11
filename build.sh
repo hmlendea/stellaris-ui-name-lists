@@ -112,6 +112,8 @@ build "ui_extra_humans_slavic"          "Human - Slavic"        "L" \
     human/slovenian human/ukrainian human/common_slavic_yugoslavic human/common_slavic
 build "ui_extra_humans_spqr_extended"   "Human - Roman"         "L" human/roman human/human3
 build "ui_extra_humans_turkic"          "Human - Turkic"        "L" human/turkic
+build "ui_extra_humans_yugoslavic"      "Human - Yugoslavic"    "L" \
+    human/bosnian human/croatian human/serbian human/slovenian human/common_slavic_yugoslavic human/common_slavic
 build "ui_extra_humans_extended"        "Human - Extended"      "L" \
     human/afghan human/african human/american human/arabic human/argentinian human/armenian human/australian \
     human/austrian human/austronesian human/baltic human/belarusian human/bosnian human/brazilian human/bulgarian human/canadian human/catalan \
