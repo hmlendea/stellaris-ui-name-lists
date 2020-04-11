@@ -9,7 +9,6 @@
         <Values>
           <string>Belarusian</string>
           <string>Bosniak</string>
-          <string>Croat</string>
           <string>Czech</string>
           <string>Kashubian</string>
           <string>Montenegrin</string>
@@ -31,7 +30,6 @@
           <Values>
             <string>Belarus</string>
             <string>Bosnia</string>
-            <string>Croatia</string>
             <string>Czechia</string>
             <string>Montenegro</string>
             <string>Serbia</string>
@@ -49,14 +47,6 @@
           </Values>
         </NameGroup>
       </Regions>
-      <Regions>
-        <NameGroup>
-          <Name>Regions - Croatia</Name>
-          <Values>
-            <string>Dalmatia</string>
-          </Values>
-        </NameGroup>
-      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Belarus</Name>
@@ -68,17 +58,6 @@
           <Name>Cities - Bosnia</Name>
           <Values>
             <string>Sarajevo</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Croatia</Name>
-          <Values>
-            <string>Osijek</string>
-            <string>Rijeka</string>
-            <string>Split</string>
-            <string>Velika Gorica</string>
-            <string>Zadar</string>
-            <string>Zagreb</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -176,12 +155,6 @@
     <GreatPeople>
       <Scientists>
         <NameGroup>
-          <Name>Scientists - Croatian</Name>
-          <Values>
-            <string>Ružička</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Scientists - Serbian</Name>
           <Values>
             <string>Tesla</string>
@@ -221,12 +194,6 @@
           <Name>Pandora: First Contact - Solar Dynasty - Czech</Name>
           <Values>
             <string>Havel</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Togra University</Name>
-          <Values>
-            <string>Ružička</string>
           </Values>
         </NameGroup>
         <NameGroup>
