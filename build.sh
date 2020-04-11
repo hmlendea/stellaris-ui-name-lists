@@ -98,7 +98,7 @@ build "ui_extra_humans_hindi"           "Human - Hindi"         "L" human/hindi
 build "ui_extra_humans_italian"         "Human - Italian"       "L" human/italian
 build "ui_extra_humans_japanese"        "Human - Japanese"      "L" human/japanese
 build "ui_extra_humans_latino"          "Human - Latino"        "L" \
-    human/argentinian human/brazilian human/colombian human/cuban human/guatemalan human/mexican human/spanish human/venezuelan
+    human/argentinian human/brazilian human/colombian human/cuban human/guatemalan human/mexican human/spanish human/venezuelan human/common_spanish
 build "ui_extra_humans_norse"           "Human - Norse"         "L" \
     human/danish human/greenlandic human/icelandic human/norwegian human/swedish human/common_norse
 build "ui_extra_humans_portuguese"      "Human - Portuguese"    "L" human/brazilian human/portuguese human/common_iberian
@@ -122,8 +122,12 @@ build "ui_extra_humans_extended"        "Human - Extended"      "L" \
     human/italian human/irish human/japanese human/korean human/mexican human/mongol human/norwegian human/persian \
     human/portuguese human/roman human/romanian human/russian human/scottish human/serbian human/slovakian human/slovenian \
     human/spanish human/swedish human/swiss human/tibetan human/turkic human/ukrainian human/venezuelan human/welsh human/zealandian \
-    human/common_asian human/common_german human/common_iberian human/common_norse human/common_slavic_yugoslavic human/common_slavic human/common \
+    \
+    human/common_asian human/common_german human/common_iberian human/common_norse human/common_slavic_yugoslavic \
+    human/common_slavic human/common_spanish human/common \
+    \
     starcraft/human starwars/human galciv/human sose/human runescape/human other-media/human \
+    \
     human/human1 human/human2 human/human3 human/zextended
 
 build "ui_dnd_kobold" "D&D - Kobold" "L" dnd/kobold
