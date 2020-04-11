@@ -26,17 +26,50 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Brabant</string>
+            <string>Drenthe</string>
+            <string>Flevoland</string>
+            <string>Friesland</string>
+            <string>Gelderland</string>
+            <string>Groningen</string>
+            <string>Holland</string>
+            <string>Limburg</string>
+            <string>Overijssel</string>
+            <string>Utrecht</string>
+            <string>Zeeland</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities</Name>
           <Values>
+            <string>Almere</string>
             <string>Amsterdam</string>
             <string>Arnhem</string>
+            <string>Assen</string>
             <string>Den Haag</string>
+            <string>Eindhoven</string>
+            <string>Emmen</string>
+            <string>Enschede</string>
+            <string>Groningen</string>
+            <string>Haarlem</string>
+            <string>Hertogenbosch</string>
+            <string>Leeuwarden</string>
+            <string>Lelystad</string>
+            <string>Maastricht</string>
+            <string>Middelburg</string>
+            <string>Nijmegen</string>
             <string>Rotterdam</string>
+            <string>Terneuzen</string>
             <string>The Hague</string>
             <string>Utrecht</string>
-          </Values>
+            <string>Zwolle</string>
+v          </Values>
         </NameGroup>
         <NameGroup>
           <Name>Cities</Name> <!-- South Africa -->
