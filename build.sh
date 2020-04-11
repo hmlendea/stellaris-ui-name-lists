@@ -95,6 +95,8 @@ build "ui_extra_humans_germanic"        "Human - Germanic"      "L" \
     human/swiss human/germanic human/common_german human/common_norse
 build "ui_extra_humans_hellenic"        "Human - Hellenic"      "L" human/hellenic
 build "ui_extra_humans_hindi"           "Human - Hindi"         "L" human/hindi
+build "ui_extra_humans_iberian"         "Human - Iberian"       "L" \
+    human/catalan human/portuguese human/spanish human/common_iberian human/common_spanish
 build "ui_extra_humans_italian"         "Human - Italian"       "L" human/italian
 build "ui_extra_humans_japanese"        "Human - Japanese"      "L" human/japanese
 build "ui_extra_humans_latino"          "Human - Latino"        "L" \
