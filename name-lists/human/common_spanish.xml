@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_common_spanish</Id>
+    <Name>Human - Common - Spanish</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Peruvian</string>
+          <string>Spanish</string>
+          <string>Visigoth</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Ecuador</string>
+            <string>El Salvador</string>
+            <string>Panama</string>
+            <string>Peru</string>
+            <string>Uruguay</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Forests>
+        <NameGroup>
+          <Name>Forests</Name>
+          <Values>
+            <string>Amazonia</string>
+          </Values>
+        </NameGroup>
+      </Forests>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Ecuador</Name>
+          <Values>
+            <string>Guayaquil</string>
+            <string>Quito</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - El Salvador</Name>
+          <Values>
+            <string>San Salvador</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Panama</Name>
+          <Values>
+            <string>Panama City</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Peru</Name>
+          <Values>
+            <string>Lima</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Uruguay</Name>
+          <Values>
+            <string>Montevideo</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Amazon</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rivers - Paraguay</Name>
+          <Values>
+            <string>Rio Paraguay</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Andes</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts</Name>
+          <Values>
+            <string>Patagonia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Deserts - Chile</Name>
+          <Values>
+            <string>Atacama</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Deserts - Peru</Name>
+          <Values>
+            <string>Nazca</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>CoDominium - Terran Confederacy</Name>
+          <Values>
+            <string>Cienfuegos</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>La Isabela</string>
+            <string>Las Veredas</string>
+            <string>Nueva Cádiz</string>
+            <string>Puerto González</string>
+            <string>San Cristóbal</string>
+            <string>San Fernando</string>
+            <string>San Lucas</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Franco-Iberia - Basque</Name>
+          <Values>
+            <string>Aintza</string>
+            <string>Igoa</string>
+            <string>Izar</string>
+            <string>Kemena</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Franco-Iberia</Name>
+          <Values>
+            <string>Gran Éxito</string>
+            <string>Fidèle</string>
+            <string>Amparo</string>
+            <string>Valienta</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Arid>
+        <NameGroup>
+          <Name>Places - Grand Theft Auto</Name>
+          <Values>
+            <string>Las Venturas</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Continental>
+        <NameGroup>
+          <Name>Places - Grand Theft Auto</Name>
+          <Values>
+            <string>San Fierro</string>
+            <string>Los Santos</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>Mythology - Places - Hispanic</Name>
+          <Values>
+            <string>El Dorado</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Terra Salvum</Name>
+          <Values>
+            <string>Galapagos</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>spanish</Id>
+        <Weight>13</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/spa-persons-male.txt</Url>
+          </NameGroup>
+        </MaleFirstNames>
+        <MaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Ernesto</string>
+              <string>Gerardo</string>
+              <string>Guillermo</string>
+              <string>Javier</string>
+              <string>Marcelo</string>
+              <string>Ricardo</string>
+              <string>Santiago</string>
+            </Values>
+          </NameGroup>
+        </MaleRoyalFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/spa-persons-female.txt</Url>
+          </NameGroup>
+        </FemaleFirstNames>
+        <FemaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Alicia</string>
+              <string>Antonella</string>
+              <string>Antonia</string>
+              <string>Carla</string>
+              <string>Carmen</string>
+              <string>Catalina</string>
+              <string>Dolores</string>
+              <string>Julieta</string>
+              <string>Martina</string>
+              <string>Renata</string>
+            </Values>
+          </NameGroup>
+        </FemaleRoyalFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/spa-persons-surnames.txt</Url>
+          </NameGroup>
+        </SecondNames>
+        <RoyalSecondNames>
+          <NameGroup>
+            <Values>
+              <string>Alvarez</string>
+              <string>Diaz</string>
+              <string>Fernandez</string>
+              <string>Gomez</string>
+              <string>Gonzalez</string>
+              <string>Lopez</string>
+              <string>Martin</string>
+              <string>Perez</string>
+              <string>Sanchez</string>
+            </Values>
+          </NameGroup>
+        </RoyalSecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>
