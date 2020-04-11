@@ -38,6 +38,12 @@
             <string>Utrecht</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Cities</Name> <!-- South Africa -->
+          <Values>
+            <string>Johannesburg</string>
+          </Values>
+        </NameGroup>
       </Cities>
     </Places>
     <GreatPeople>
