@@ -89,6 +89,7 @@ build "ui_extra_humans_celtic"          "Human - Celtic"        "L" human/irish 
 build "ui_extra_humans_chinese"         "Human - Chinese"       "L" human/chinese human/common_asian
 build "ui_extra_humans_english"         "Human - English"       "L" human/american human/australian human/canadian human/zealandian human/english
 build "ui_extra_humans_french"          "Human - French"        "L" human/french
+build "ui_extra_humans_german"          "Human - German"        "L" human/austrian human/german human/swiss human/common_german
 build "ui_extra_humans_germanic"        "Human - Germanic"      "L" \
     human/austrian human/danish human/dutch human/german human/greenlandic human/icelandic human/norwegian human/swedish \
     human/swiss human/germanic human/common_german human/common_norse
