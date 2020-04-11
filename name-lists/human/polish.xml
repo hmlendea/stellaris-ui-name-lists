@@ -7,7 +7,10 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
+          <string>Kashubian</string>
+          <string>Moravian</string>
           <string>Polish</string>
+          <string>Silesian</string>
         </Values>
       </NameGroup>
     </Denonyms>
