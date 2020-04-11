@@ -32,15 +32,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Franco-Iberia - Basque</Name>
-          <Values>
-            <string>Aintza</string>
-            <string>Igoa</string>
-            <string>Izar</string>
-            <string>Kemena</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Civilisation: Beyond Earth - Franco-Iberia</Name>
           <Values>
             <string>Gran Éxito</string>
