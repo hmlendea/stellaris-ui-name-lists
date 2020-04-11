@@ -7,52 +7,15 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
+          <string>Slav</string>
           <string>Slavic</string>
         </Values>
       </NameGroup>
     </Denonyms>
-    <Places>
-      </Countries>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - Belarus</Name>
-          <Values>
-            <string>Minsk</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Slovenia</Name>
-          <Values>
-            <string>Celje</string>
-            <string>Domžale</string>
-            <string>Izola</string>
-            <string>Jesenice</string>
-            <string>Kamnik</string>
-            <string>Koper</string>
-            <string>Kranj</string>
-            <string>Ljubljana</string>
-            <string>Maribor</string>
-            <string>Murska Sobota	</string>
-            <string>Nova Gorica</string>
-            <string>Novo Mesto</string>
-            <string>Ptuj</string>
-            <string>Škofja Loka</string>
-            <string>Trbovlje</string>
-            <string>Velenje</string>
-          </Values>
-        </NameGroup>
-      </Cities>
-    </Places>
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Slavic Federation - Belorussian</Name>
-          <Values>
-            <string>Aguya</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - Slavic Federation - Slavic</Name>
+          <Name>Civilisation: Beyond Earth - Slavic Federation</Name>
           <Values>
             <string>Mir</string>
             <string>Rodomir</string>
@@ -60,7 +23,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Pax Nova - Eastern Resistance - Slavic</Name>
+          <Name>Pax Nova - Eastern Resistance</Name>
           <Values>
             <string>Kohikaf</string>
             <string>Kremtin</string>
