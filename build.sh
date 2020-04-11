@@ -108,13 +108,13 @@ build "ui_extra_humans_romance"         "Human - Romance"       "L" \
     human/roman human/romanian human/spanish human/venezuelan human/common_iberian
 build "ui_extra_humans_russian"         "Human - Russian"       "L" human/russian
 build "ui_extra_humans_slavic"          "Human - Slavic"        "L" \
-    human/bosnian human/bulgarian human/croatian human/czech human/polish human/russian human/serbian human/slovakian human/ukrainian \
+    human/belarusian human/bosnian human/bulgarian human/croatian human/czech human/polish human/russian human/serbian human/slovakian human/ukrainian \
     human/common_slavic_yugoslavic human/common_slavic
 build "ui_extra_humans_spqr_extended"   "Human - Roman"         "L" human/roman human/human3
 build "ui_extra_humans_turkic"          "Human - Turkic"        "L" human/turkic
 build "ui_extra_humans_extended"        "Human - Extended"      "L" \
     human/afghan human/african human/american human/arabic human/argentinian human/armenian human/australian \
-    human/austrian human/austronesian human/baltic human/bosnian human/brazilian human/bulgarian human/canadian human/catalan \
+    human/austrian human/austronesian human/baltic human/belarusian human/bosnian human/brazilian human/bulgarian human/canadian human/catalan \
     human/celtic human/chinese human/colombian human/croatian human/cuban human/czech human/danish human/dutch human/english human/french human/german \
     human/germanic human/greenlandic human/guatemalan human/hebrew human/hellenic human/hindi human/hungarian human/icelandic \
     human/italian human/irish human/japanese human/korean human/mexican human/mongol human/norwegian human/persian \

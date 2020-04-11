@@ -7,7 +7,6 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-          <string>Belarusian</string>
           <string>Kashubian</string>
           <string>Montenegrin</string>
           <string>Moravian</string>
@@ -23,7 +22,6 @@
         <NameGroup>
           <Name>Countries</Name>
           <Values>
-            <string>Belarus</string>
             <string>Montenegro</string>
             <string>Slovenia</string>
             <string>Yugoslavia</string>
