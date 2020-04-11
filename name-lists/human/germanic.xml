@@ -8,7 +8,6 @@
         <Name>Denonyms</Name>
         <Values>
           <string>Belgian</string>
-          <string>Dutch</string>
           <string>Gothic</string>
           <string>Vandal</string>
         </Values>
@@ -20,14 +19,12 @@
           <Name>Countries</Name>
           <Values>
             <string>Belgium</string>
-            <string>Netherlands</string>
           </Values>
         </NameGroup>
         <NameGroup>
           <Name>Countries - Endonyms</Name>
           <Values>
             <string>Belgie</string>
-            <string>Nederland</string>
           </Values>
         </NameGroup>
       </Countries>
@@ -47,17 +44,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Netherlands</Name>
-          <Values>
-            <string>Amsterdam</string>
-            <string>Arnhem</string>
-            <string>Den Haag</string>
-            <string>Rotterdam</string>
-            <string>The Hague</string>
-            <string>Utrecht</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Luxembourg</Name>
           <Values>
             <string>Lëtzebuerg</string>
@@ -74,21 +60,7 @@
       </Cities>
     </Places>
     <GreatPeople>
-      <Scientists>
-        <NameGroup>
-          <Name>Scientists - Dutch</Name>
-          <Values>
-            <string>Fahrenheit</string>
-          </Values>
-        </NameGroup>
-      </Scientists>
       <LeadersTier1>
-        <NameGroup>
-          <Name>Leaders - Dutch</Name>
-          <Values>
-            <string>Wilhelmina</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Leaders - Visigoth</Name>
           <Values>
@@ -96,22 +68,6 @@
           </Values>
         </NameGroup>
       </LeadersTier1>
-      <LeadersTier2>
-        <NameGroup>
-          <Name>Leaders - Dutch</Name>
-          <Values>
-            <string>Willem van Oranje</string>
-          </Values>
-        </NameGroup>
-      </LeadersTier2>
-      <Admirals>
-        <NameGroup>
-          <Name>Admirals - Dutch</Name>
-          <Values>
-            <string>De Ruyter</string>
-          </Values>
-        </NameGroup>
-      </Admirals>
     </GreatPeople>
     <Companies>
       <SpacecraftManufacturers>
@@ -119,12 +75,6 @@
           <Name>Spacecraft Manufacturers - Belgian</Name>
           <Values>
             <string>QuentiQ</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Spacecraft Manufacturers - Dutch</Name>
-          <Values>
-            <string>Fokker</string>
           </Values>
         </NameGroup>
       </SpacecraftManufacturers>
@@ -243,25 +193,6 @@
             </Values>
           </NameGroup>
         </RoyalSecondNames>
-      </CharacterNames>
-      <CharacterNames>
-        <Id>dutch</Id>
-        <Weight>1</Weight>
-        <MaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/nld-persons-male.txt</Url>
-          </NameGroup>
-        </MaleFirstNames>
-        <FemaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/nld-persons-female.txt</Url>
-          </NameGroup>
-        </FemaleFirstNames>
-        <SecondNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/nld-persons-surnames.txt</Url>
-          </NameGroup>
-        </SecondNames>
       </CharacterNames>
     </Characters>
   </NameList>
