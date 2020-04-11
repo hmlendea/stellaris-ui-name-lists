@@ -274,7 +274,7 @@
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Military Unit Types</Name>
+          <Name>Military unit types</Name>
           <Values>
             <string>Doppelsöldner</string>
             <string>Landsknechte</string>
@@ -288,7 +288,7 @@
     <BiosphereNames>
       <MythologicalCreatures>
         <NameGroup>
-          <Name>Mythological Creatures</Name>
+          <Name>Mythological creatures</Name>
           <Values>
             <string>Krampus</string>
           </Values>

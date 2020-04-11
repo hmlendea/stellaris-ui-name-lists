@@ -193,7 +193,7 @@
     <Warfare>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Military Unit Types - Spanish</Name>
+          <Name>Military unit types - Spanish</Name>
           <Values>
             <string>Almogávar</string>
             <string>Conquistador</string>

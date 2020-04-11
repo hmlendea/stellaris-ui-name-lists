@@ -35,7 +35,7 @@
     <Warfare>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Military Unit Types</Name>
+          <Name>Military unit types</Name>
           <Values>
             <string>Berserker</string>
             <string>Huskarl</string>

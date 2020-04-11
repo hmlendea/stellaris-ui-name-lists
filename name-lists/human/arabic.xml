@@ -271,7 +271,7 @@
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Military Unit Types</Name>
+          <Name>Military unit types</Name>
           <Values>
             <string>Anṣâr</string>
             <string>Hashashim</string>

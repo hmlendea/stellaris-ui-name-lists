@@ -60,7 +60,7 @@
     <Warfare>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Military Unit Types</Name>
+          <Name>Military unit types</Name>
           <Values>
             <string>Highlander</string>
             <string>Woad Raider</string>

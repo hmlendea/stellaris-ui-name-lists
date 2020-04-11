@@ -229,7 +229,7 @@
     <Warfare>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Military Unit Types - British</Name>
+          <Name>Military unit types - British</Name>
           <Values>
             <string>Cavalier</string>
             <string>Highlander</string>
@@ -242,7 +242,7 @@
     <BiosphereNames>
       <MythologicalCreatures>
         <NameGroup>
-          <Name>Mythological Creatures - British</Name>
+          <Name>Mythological creatures - British</Name>
           <Values>
             <string>Banshee</string>
             <string>Enfield</string>
