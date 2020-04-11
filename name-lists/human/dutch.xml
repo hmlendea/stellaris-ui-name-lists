@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_dutch</Id>
+    <Name>Human - Dutch</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Dutch</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Netherlands</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Nederland</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Amsterdam</string>
+            <string>Arnhem</string>
+            <string>Den Haag</string>
+            <string>Rotterdam</string>
+            <string>The Hague</string>
+            <string>Utrecht</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <GreatPeople>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists</Name>
+          <Values>
+            <string>Fahrenheit</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Wilhelmina</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Willem van Oranje</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
+      <Admirals>
+        <NameGroup>
+          <Name>Admirals</Name>
+          <Values>
+            <string>De Ruyter</string>
+          </Values>
+        </NameGroup>
+      </Admirals>
+    </GreatPeople>
+    <Companies>
+      <SpacecraftManufacturers>
+        <NameGroup>
+          <Name>Spacecraft Manufacturers</Name>
+          <Values>
+            <string>Fokker</string>
+          </Values>
+        </NameGroup>
+      </SpacecraftManufacturers>
+    </Companies>
+    <Characters>
+      <CharacterNames>
+        <Id>dutch</Id>
+        <Weight>1</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/nld-persons-male.txt</Url>
+          </NameGroup>
+        </MaleFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/nld-persons-female.txt</Url>
+          </NameGroup>
+        </FemaleFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/nld-persons-surnames.txt</Url>
+          </NameGroup>
+        </SecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>
