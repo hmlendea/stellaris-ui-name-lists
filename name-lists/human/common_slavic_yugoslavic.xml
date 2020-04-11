@@ -40,7 +40,7 @@
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/hbs-persons-surname.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/hbs-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>
