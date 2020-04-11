@@ -7,26 +7,11 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-          <string>Kashubian</string>
-          <string>Montenegrin</string>
-          <string>Moravian</string>
-          <string>Silesian</string>
           <string>Slavic</string>
-          <string>Slovene</string>
-          <string>Sorbian</string>
         </Values>
       </NameGroup>
     </Denonyms>
     <Places>
-      <Countries>
-        <NameGroup>
-          <Name>Countries</Name>
-          <Values>
-            <string>Montenegro</string>
-            <string>Slovenia</string>
-            <string>Yugoslavia</string>
-          </Values>
-        </NameGroup>
       </Countries>
       <Cities>
         <NameGroup>
