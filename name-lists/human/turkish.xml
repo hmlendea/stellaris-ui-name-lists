@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>human_turkic</Id>
-    <Name>Human - Turkic</Name>
+    <Id>human_turkish</Id>
+    <Name>Human - Turkish</Name>
     <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
             <string>Turk</string>
             <string>Turkish</string>
-            <string>Turkmen</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -19,13 +18,12 @@
           <Name>Countries</Name>
           <Values>
             <string>Turkey</string>
-            <string>Turkmenistan</string>
           </Values>
         </NameGroup>
       </Countries>
       <Regions>
         <NameGroup>
-          <Name>Regions - Turkey</Name>
+          <Name>Regions</Name>
           <Values>
             <string>Akdeniz</string>
             <string>Doğu Anadolu</string>
@@ -39,7 +37,7 @@
       </Regions>
       <Cities>
         <NameGroup>
-          <Name>Cities - Turkey</Name>
+          <Name>Cities</Name>
           <Values>
             <string>Adana</string>
             <string>Adapazarı</string>
@@ -67,15 +65,6 @@
           </Values>
         </NameGroup>
       </Cities>
-      <Deserts>
-        <NameGroup>
-          <Name>Deserts - Turkmenistan</Name>
-          <Values>
-            <string>Kara Kum</string>
-            <string>Kyzyl Kum</string>
-          </Values>
-        </NameGroup>
-      </Deserts>
       <Seas>
         <NameGroup>
           <Name>Seas</Name>
@@ -88,7 +77,7 @@
     <GreatPeople>
       <LeadersTier1>
         <NameGroup>
-          <Name>Leaders - Turk</Name>
+          <Name>Leaders</Name>
           <Values>
             <string>Osman</string>
           </Values>
@@ -96,7 +85,7 @@
       </LeadersTier1>
       <LeadersTier2>
         <NameGroup>
-          <Name>Leaders - Turk</Name>
+          <Name>Leaders</Name>
           <Values>
             <string>Atatürk</string>
             <string>Mehmed II</string>
@@ -105,7 +94,7 @@
       </LeadersTier2>
       <LeadersTier3>
         <NameGroup>
-          <Name>Leaders - Turk</Name>
+          <Name>Leaders</Name>
           <Values>
             <string>Suleiman</string>
           </Values>
@@ -136,7 +125,7 @@
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Military unit types - Turk</Name>
+          <Name>Military unit types</Name>
           <Values>
             <string>Azap</string>
             <string>Janissary</string>

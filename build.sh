@@ -121,7 +121,7 @@ build "ui_extra_humans_slavic"          "Human - Slavic"            "L" \
     human/belarusian human/bosnian human/bulgarian human/croatian human/czech human/polish human/russian human/serbian human/slovakian \
     human/slovenian human/ukrainian human/common_slavic_yugoslavic human/common_slavic
 build "ui_extra_humans_spqr_extended"   "Human - Roman"             "L" human/roman human/human3
-build "ui_extra_humans_turkic"          "Human - Turkic"            "L" human/turkic
+build "ui_extra_humans_turkic"          "Human - Turkic"            "L" human/turkish human/turkmen
 build "ui_extra_humans_yugoslavic"      "Human - Yugoslavic"        "L" \
     human/bosnian human/croatian human/serbian human/slovenian human/common_slavic_yugoslavic human/common_slavic
 build "ui_extra_humans_extended"        "Human - Extended"          "L" \
@@ -134,7 +134,7 @@ build "ui_extra_humans_extended"        "Human - Extended"          "L" \
     human/italian human/irish human/japanese human/kiribatian human/korean human/malaysian human/maori human/mexican human/mongol \
     human/norwegian human/persian human/polynesian human/portuguese human/roman human/romanian human/russian human/scottish \
     human/serbian human/slovakian human/slovenian human/spanish human/swedish human/swiss huma/taiwanese human/tibetan \
-    human/turkic human/ukrainian human/venezuelan human/vietnamese human/welsh human/zealandian \
+    human/turkish human/turkmen human/ukrainian human/venezuelan human/vietnamese human/welsh human/zealandian \
     \
     human/common_asian human/common_british human/common_english human/common_german human/common_hellenic \
     human/common_iberian human/common_norse human/common_portuguese human/common_slavic_yugoslavic human/common_slavic \
