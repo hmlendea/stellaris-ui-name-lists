@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_ecuadorian</Id>
+    <Name>Human - Ecuadorian</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Ecuadorian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Ecuador</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Guayaquil</string>
+            <string>Quito</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Gaia>
+        <NameGroup>
+          <Name>Pandora: First Contact - Terra Salvum</Name>
+          <Values>
+            <string>Galapagos</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
