@@ -154,6 +154,7 @@
             <string>Heisenberg</string>
             <string>Kepler</string>
             <string>Konrad Zuse</string>
+            <string>Mendel</string>
             <string>Möbius</string>
             <string>Planck</string>
             <string>Schimper</string>
@@ -361,6 +362,7 @@
           <Name>Pandora: First Contact - Terra Salvum</Name>
           <Values>
             <string>Haeckel</string>
+            <string>Mendel</string>
             <string>Möbius</string>
             <string>Schimper</string>
           </Values>

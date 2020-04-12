@@ -176,6 +176,7 @@
         <NameGroup>
           <Name>Scientists</Name>
           <Values>
+            <string>Dulbecco</string>
             <string>Galileo</string>
             <string>Lagrange</string>
           </Values>
@@ -247,6 +248,19 @@
           <Values>
             <string>Bardi</string>
             <string>Medici</string>
+            <string>Peruzzi</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Terra Salvum</Name>
+          <Values>
+            <string>Volterra</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Togra University</Name>
+          <Values>
+            <string>Dulbecco</string>
           </Values>
         </NameGroup>
         <NameGroup>
