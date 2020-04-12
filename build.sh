@@ -86,6 +86,8 @@ build "ui_extra_humans_asian"           "Human - Asian"             "L" \
     human/chinese human/japanese human/korean human/mongol human/tibetan human/common_asian
 build "ui_extra_humans_austronesian"    "Human - Austronesian"      "L" \
     human/filipino human/hawaiian human/indonesian human/kiribatian human/malaysian human/maori human/polynesian human/austronesian
+build "ui_extra_humans_british"         "Human - British"           "L" \
+    human/english human/scottish human/welsh human/common_british human/common_english
 build "ui_extra_humans_celtic"          "Human - Celtic"            "L" human/irish human/scottish human/welsh human/celtic
 build "ui_extra_humans_chinese"         "Human - Chinese"           "L" human/chinese human/common_asian
 build "ui_extra_humans_english"         "Human - English"           "L" \
