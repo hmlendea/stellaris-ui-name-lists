@@ -85,6 +85,20 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Aiguebelette</string>
+            <string>Annecy</string>
+            <string>Bourget</string>
+            <string>Gaube</string>
+            <string>Mont Cenis</string>
+            <string>Sainte Croix</string>
+            <string>Salagou</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
     <GreatPeople>
       <Explorers>

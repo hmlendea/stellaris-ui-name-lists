@@ -103,6 +103,22 @@
           </Values>
         </NameGroup>
       </Rivers>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Doiran</string>
+            <string>Kerkini</string>
+            <string>Orestiada</string>
+            <string>Pamvotida</string>
+            <string>Petron</string>
+            <string>Plastira</string>
+            <string>Prespa</string>
+            <string>Trichonida</string>
+            <string>Volvi</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
       <Seas>
         <NameGroup>
           <Name>Seas</Name>

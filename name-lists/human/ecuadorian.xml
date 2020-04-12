@@ -29,6 +29,18 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Cuicocha</string>
+            <string>El Cajas</string>
+            <string>Mojanda</string>
+            <string>Panacocha</string>
+            <string>San Pablo</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
     <Planets>
       <Gaia>

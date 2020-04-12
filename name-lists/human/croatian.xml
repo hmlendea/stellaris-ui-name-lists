@@ -48,6 +48,21 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Baćina</string>
+            <string>Kruščica</string>
+            <string>Lokve</string>
+            <string>Mljet</string>
+            <string>Plitvice</string>
+            <string>Prokljan</string>
+            <string>Trakošćan</string>
+            <string>Vransko</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
     <GreatPeople>
       <Scientists>

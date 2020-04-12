@@ -60,6 +60,13 @@
           <Name>Lakes</Name>
           <Values>
             <string>Balaton</string>
+            <string>Bokodi</string>
+            <string>Feher</string>
+            <string>Fertő</string>
+            <string>Hévíz</string>
+            <string>Tapioca</string>
+            <string>Tisza</string>
+            <string>Velence</string>
           </Values>
         </NameGroup>
       </Lakes>
