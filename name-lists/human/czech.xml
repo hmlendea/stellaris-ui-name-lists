@@ -20,6 +20,25 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Bohemia</string>
+            <string>Hradec Králové</string>
+            <string>Karlovy Vary</string>
+            <string>Liberec</string>
+            <string>Moravia</string>
+            <string>Olomouc</string>
+            <string>Pardubice</string>
+            <string>Plzeň</string>
+            <string>Prague</string>
+            <string>Ústí nad Labem</string>
+            <string>Vysočina</string>
+            <string>Zlín</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities</Name>
@@ -51,6 +70,21 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Certovo</string>
+            <string>Hlucin</string>
+            <string>Kamencove</string>
+            <string>Lhota</string>
+            <string>Macha</string>
+            <string>Milada</string>
+            <string>Nove Mlyny</string>
+            <string>Prasilske</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
     <Planets>
       <Generic>
