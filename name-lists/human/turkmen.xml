@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_turkmen</Id>
+    <Name>Human - Turkmen</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+            <string>Turkmen</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Turkmenistan</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts - Turkmenistan</Name>
+          <Values>
+            <string>Kara Kum</string>
+            <string>Kyzyl Kum</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
+    </Places>
+  </NameList>
+</ArrayOfNameList>
