@@ -17,7 +17,6 @@
         <NameGroup>
           <Name>Countries</Name>
           <Values>
-            <string>Ecuador</string>
             <string>El Salvador</string>
             <string>Panama</string>
             <string>Peru</string>
@@ -34,13 +33,6 @@
         </NameGroup>
       </Forests>
       <Cities>
-        <NameGroup>
-          <Name>Cities - Ecuador</Name>
-          <Values>
-            <string>Guayaquil</string>
-            <string>Quito</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - El Salvador</Name>
           <Values>
@@ -115,12 +107,6 @@
           <Name>Mythology - Places</Name>
           <Values>
             <string>El Dorado</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Terra Salvum - Ecuador</Name>
-          <Values>
-            <string>Galapagos</string>
           </Values>
         </NameGroup>
       </Gaia>
