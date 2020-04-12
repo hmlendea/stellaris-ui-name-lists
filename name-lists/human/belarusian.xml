@@ -22,7 +22,7 @@
       </Countries>
       <Cities>
         <NameGroup>
-          <Name>Cities - Belarus</Name>
+          <Name>Cities</Name>
           <Values>
             <string>Minsk</string>
           </Values>
@@ -32,7 +32,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Slavic Federation - Belorussian</Name>
+          <Name>Civilisation: Beyond Earth - Slavic Federation</Name>
           <Values>
             <string>Aguya</string>
           </Values>
