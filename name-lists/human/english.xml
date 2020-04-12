@@ -104,6 +104,16 @@
         </NameGroup>
       </LeadersTier3>
     </GreatPeople>
+    <Companies>
+      <ResearchCompanies>
+        <NameGroup>
+          <Name>Research Companies</Name>
+          <Values>
+            <string>Rothamsted</string>
+          </Values>
+        </NameGroup>
+      </ResearchCompanies>
+    </Companies>
     <Warfare>
       <MilitaryUnitTypes>
         <NameGroup>
@@ -134,6 +144,19 @@
             <string>Cromwell</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Solar Dynasty</Name>
+          <Values>
+            <string>Tolpuddle</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Terra Salvum</Name>
+          <Values>
+            <string>Rothamsted</string>
+          </Values>
+        </NameGroup>
+      </Generic>
       <Continental>
         <NameGroup>
           <Name>Mythology - Places</Name>
