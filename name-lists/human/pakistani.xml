@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_pakistani</Id>
+    <Name>Human - Pakistani</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Pakistani</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Pakistan</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Sindh</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Gujranwala</string>
+            <string>Islamabad</string>
+            <string>Karachi</string>
+            <string>Lahore</string>
+            <string>Rawalpindi</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts</Name>
+          <Values>
+            <string>Thar</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
+    </Places>
+  </NameList>
+</ArrayOfNameList>

@@ -9,9 +9,6 @@
         <Values>
           <string>Bengal</string>
           <string>Hindi</string>
-          <string>Indian</string>
-          <string>Nepali</string>
-          <string>Pakistani</string>
           <string>Raj</string>
         </Values>
       </NameGroup>
@@ -22,110 +19,15 @@
           <Name>Countries</Name>
           <Values>
             <string>Bangladesh</string>
-            <string>India</string>
-            <string>Pakistan</string>
             <string>Sri Lanka</string>
           </Values>
         </NameGroup>
       </Countries>
-      <Regions>
-        <NameGroup>
-          <Name>Regions - India</Name>
-          <Values>
-            <string>Andhra</string>
-            <string>Arunachal</string>
-            <string>Assam</string>
-            <string>Bihar</string>
-            <string>Chhattisgarh</string>
-            <string>Goa</string>
-            <string>Gujarat</string>
-            <string>Haryana</string>
-            <string>Himachal</string>
-            <string>Jammu</string>
-            <string>Jharkhand</string>
-            <string>Karnataka</string>
-            <string>Kashmir</string>
-            <string>Kerala</string>
-            <string>Madhya</string>
-            <string>Maharashtra</string>
-            <string>Manipur</string>
-            <string>Meghalaya</string>
-            <string>Mizoram</string>
-            <string>Nagaland</string>
-            <string>Odisha</string>
-            <string>Punjab</string>
-            <string>Rajasthan</string>
-            <string>Sikkim</string>
-            <string>Tamil Nadu</string>
-            <string>Telangana</string>
-            <string>Tripura</string>
-            <string>Uttar</string>
-            <string>Uttarakhand</string>
-            <string>West Bengal</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Regions - Pakistan</Name>
-          <Values>
-            <string>Sindh</string>
-          </Values>
-        </NameGroup>
-      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Bangladesh</Name>
           <Values>
             <string>Chittagong</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - India</Name>
-          <Values>
-            <string>Agra</string>
-            <string>Ahmedabad</string>
-            <string>Bangalore</string>
-            <string>Bhopal</string>
-            <string>Bombay</string>
-            <string>Calcutta</string>
-            <string>Chennai</string>
-            <string>Delhi</string>
-            <string>Faridabad</string>
-            <string>Ghaziabad</string>
-            <string>Hyderabad</string>
-            <string>Hyderabad</string>
-            <string>Indore</string>
-            <string>Jaipur</string>
-            <string>Kanpur</string>
-            <string>Kochi</string>
-            <string>Lucknow</string>
-            <string>Ludhiana</string>
-            <string>Mumbai</string>
-            <string>Nagpur</string>
-            <string>Nashik</string>
-            <string>Patna</string>
-            <string>Pimpri-Chinchwad</string>
-            <string>Pune</string>
-            <string>Surat</string>
-            <string>Thane</string>
-            <string>Vadodara</string>
-            <string>Varanasi</string>
-            <string>Visakhapatnam</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - India - Endonyms</Name>
-          <Values>
-            <string>Kolkata</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Pakistan</Name>
-          <Values>
-            <string>Gujranwala</string>
-            <string>Islamabad</string>
-            <string>Karachi</string>
-            <string>Lahore</string>
-            <string>Rawalpindi</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -134,19 +36,6 @@
           <Name>Mountains</Name>
           <Values>
             <string>Himalaya</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Mountains - India</Name>
-          <Values>
-            <string>Shikharji</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Mountains - Nepal</Name>
-          <Values>
-            <string>Everest</string>
-            <string>Sagarmatha</string>
           </Values>
         </NameGroup>
       </Mountains>
@@ -158,58 +47,8 @@
           </Values>
         </NameGroup>
       </Forests>
-      <Rivers>
-        <NameGroup>
-          <Name>Rivers</Name>
-          <Values>
-            <string>Ganges</string>
-            <string>Indus</string>
-          </Values>
-        </NameGroup>
-      </Rivers>
-      <Deserts>
-        <NameGroup>
-          <Name>Deserts - Pakistan</Name>
-          <Values>
-            <string>Thar</string>
-          </Values>
-        </NameGroup>
-      </Deserts>
     </Places>
     <GreatPeople>
-      <Scientists>
-        <NameGroup>
-          <Name>Scientists - Indian</Name>
-          <Values>
-            <string>Chandrasekhar</string>
-          </Values>
-        </NameGroup>
-      </Scientists>
-      <LeadersTier2>
-        <NameGroup>
-          <Name>Leaders - Indian</Name>
-          <Values>
-            <string>Ashoka</string>
-          </Values>
-        </NameGroup>
-      </LeadersTier2>
-      <LeadersTier3>
-        <NameGroup>
-          <Name>Leaders - Indian</Name>
-          <Values>
-            <string>Chandragupta</string>
-            <string>Gandhi</string>
-          </Values>
-        </NameGroup>
-      </LeadersTier3>
-      <Heroes>
-        <NameGroup>
-          <Name>Heroes - Nepali</Name>
-          <Values>
-            <string>Guru Baaje</string>
-          </Values>
-        </NameGroup>
-      </Heroes>
       <PowerDeities>
         <NameGroup>
           <Name>Deities</Name>
@@ -257,7 +96,7 @@
       </VictoryDeities>
       <BeastsDeities>
         <NameGroup>
-          <Name>Indian</Name>
+          <Name>Deities</Name>
           <Values>
             <string>Dakshin Rai</string>
           </Values>
@@ -384,24 +223,6 @@
         </NameGroup>
       </OtherDeities>
     </GreatPeople>
-    <Companies>
-      <AircraftManufacturers>
-        <NameGroup>
-          <Name>Aircraft manufacturers - India</Name>
-          <Values>
-            <string>Hindustan</string>
-          </Values>
-        </NameGroup>
-      </AircraftManufacturers>
-      <SpacecraftManufacturers>
-        <NameGroup>
-          <Name>Spacecraft manufacturers - India</Name>
-          <Values>
-            <string>Dhruva</string>
-          </Values>
-        </NameGroup>
-      </SpacecraftManufacturers>
-    </Companies>
     <Warfare>
       <Weapons>
         <Swords>
@@ -414,34 +235,11 @@
           </NameGroup>
         </Swords>
       </Weapons>
-      <MilitaryUnitTypes>
-        <NameGroup>
-          <Name>Military unit types - Indian</Name>
-          <Values>
-            <string>Sepoy</string>
-            <string>Varu</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Military unit types - Nepali</Name>
-          <Values>
-            <string>Gurkha</string>
-          </Values>
-        </NameGroup>
-      </MilitaryUnitTypes>
-      <ShipTypes>
-        <NameGroup>
-          <Name>Ship Types - Nepali</Name>
-          <Values>
-            <string>Bawarij</string>
-          </Values>
-        </NameGroup>
-      </ShipTypes>
     </Warfare>
     <BiosphereNames>
       <MythologicalCreatures>
         <NameGroup>
-          <Name>Mythological creatures - Hindu</Name>
+          <Name>Mythological creatures</Name>
           <Values>
             <string>Garuda</string>
             <string>Rakshasa</string>
@@ -494,27 +292,7 @@
             <string>Zafar</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Settlements - Pandora: First Contact - Divine Ascension</Name>
-          <Values>
-            <string>Varanasi</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Togra University</Name>
-          <Values>
-            <string>Chandrasekhar</string>
-          </Values>
-        </NameGroup>
       </Generic>
-      <Tropical>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Kishkindha</string>
-          </Values>
-        </NameGroup>
-      </Tropical>
     </Planets>
     <Characters>
       <CharacterNames>
