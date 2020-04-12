@@ -22,7 +22,7 @@
       </Countries>
       <Cities>
         <NameGroup>
-          <Name>Cities - Wales</Name>
+          <Name>Cities</Name>
           <Values>
             <string>Cardiff</string>
             <string>Swansea</string>
@@ -33,7 +33,7 @@
     <GreatPeople>
       <LeadersTier1>
         <NameGroup>
-          <Name>Leaders - Welsh</Name>
+          <Name>Leaders</Name>
           <Values>
             <string>Gwenllian</string>
           </Values>
