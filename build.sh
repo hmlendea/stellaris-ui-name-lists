@@ -135,7 +135,7 @@ build "ui_extra_humans_extended"        "Human - Extended"          "L" \
     human/italian human/irish human/japanese human/kiribatian human/korean human/malaysian human/maori human/mexican human/mongol \
     human/nepali human/norwegian human/pakistani human/persian human/polynesian human/portuguese \
     human/roman human/romanian human/russian human/scottish human/serbian human/slovakian human/slovenian \
-    human/spanish human/swedish human/swiss huma/taiwanese human/tibetan human/turkish human/turkmen \
+    human/spanish human/swedish human/swiss human/taiwanese human/tibetan human/turkish human/turkmen \
     human/ukrainian human/venezuelan human/vietnamese human/welsh human/zealandian \
     \
     human/common_asian human/common_british human/common_english human/common_german human/common_hellenic \
