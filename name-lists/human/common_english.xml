@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>humans_common_english</Id>
+    <Name>Humans - Common - English</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>British</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Britain</string>
+            <string>Great Britain</string>
+            <string>United Kingdom</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+    </Places>
+    <GreatPeople>
+      <Explorers>
+        <NameGroup>
+          <Name>Explorers - British</Name>
+          <Values>
+            <string>James Cook</string>
+            <string>Walter Raleigh</string>
+          </Values>
+        </NameGroup>
+      </Explorers>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists - British</Name>
+          <Values>
+            <string>Clarke</string>
+            <string>Darwin</string>
+            <string>Hawking</string>
+            <string>Kelvin</string>
+            <string>Newton</string>
+            <string>Penrose</string>
+            <string>Spencer</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders - British</Name>
+          <Values>
+            <string>Churchill</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders - British</Name>
+          <Values>
+            <string>Victoria</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
+      <FlyingAces>
+        <NameGroup>
+          <Name>Flying Aces - British</Name>
+          <Values>
+            <string>MacLachlan</string>
+            <string>Mannock</string>
+            <string>Milne</string>
+          </Values>
+        </NameGroup>
+      </FlyingAces>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - British</Name>
+          <Values>
+            <string>Robin Hood</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+      <Admirals>
+        <NameGroup>
+          <Name>Admirals - British</Name>
+          <Values>
+            <string>Beatty</string>
+            <string>Byng</string>
+            <string>Codrington</string>
+            <string>Crutchley</string>
+            <string>Cunningham</string>
+            <string>Hargood</string>
+            <string>Hawke</string>
+            <string>Jellicoe</string>
+            <string>Laforey</string>
+            <string>Milne</string>
+            <string>Mountbatten</string>
+          </Values>
+        </NameGroup>
+      </Admirals>
+    </GreatPeople>
+    <Companies>
+      <AircraftManufacturers>
+        <NameGroup>
+          <Name>Aircraft manufacturers - British</Name>
+          <Values>
+            <string>BAE</string>
+            <string>Rolls-Royce</string>
+          </Values>
+        </NameGroup>
+      </AircraftManufacturers>
+      <SpacecraftManufacturers>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - British</Name>
+          <Values>
+            <string>Clyde</string>
+            <string>Hawker Siddeley</string>
+            <string>In-Space</string>
+            <string>OneWeb</string>
+            <string>RAL</string>
+          </Values>
+        </NameGroup>
+      </SpacecraftManufacturers>
+      <ResearchCompanies>
+        <NameGroup>
+          <Name>Research Companies - Alien - British</Name>
+          <Values>
+            <string>Weyland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Research Companies - British</Name>
+          <Values>
+            <string>Rothamsted</string>
+          </Values>
+        </NameGroup>
+      </ResearchCompanies>
+      <InvestmentCompanies>
+        <NameGroup>
+          <Name>Investment Companies - British</Name>
+          <Values>
+            <string>Schroders</string>
+          </Values>
+        </NameGroup>
+      </InvestmentCompanies>
+    </Companies>
+    <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types - British</Name>
+          <Values>
+            <string>Cavalier</string>
+            <string>Redcoat</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures - British</Name>
+          <Values>
+            <string>Banshee</string>
+            <string>Enfield</string>
+            <string>Spriggan</string>
+            <string>Wyvern</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
+    <Ships>
+      <Cruiser>
+        <NameGroup>
+          <Name>Ships - British</Name>
+          <Values>
+            <string>Temeraire</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Science>
+        <NameGroup>
+          <Name>Ships - British</Name>
+          <Values>
+            <string>Untiring</string>
+          </Values>
+        </NameGroup>
+      </Science>
+    </Ships>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Pandora: First Contact - Noxium Corporation</Name>
+          <Values>
+            <string>Smith</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Noxium Corporation - British</Name>
+          <Values>
+            <string>Schroders</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Solar Dynasty - British</Name>
+          <Values>
+            <string>Tolpuddle</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Terra Salvum - British</Name>
+          <Values>
+            <string>Rothamsted</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pandora: First Contact - Togra University - British</Name>
+          <Values>
+            <string>Penrose</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Pax Nova - Terran Republic</Name>
+          <Values>
+            <string>Aust</string>
+            <string>Burgh</string>
+            <string>Burton</string>
+            <string>Caister</string>
+            <string>Calne</string>
+            <string>Castor</string>
+            <string>Chirk</string>
+            <string>Crowland</string>
+            <string>Culray</string>
+            <string>Dorking</string>
+            <string>Dysert</string>
+            <string>Hatfield</string>
+            <string>Leiston</string>
+            <string>Liskeard</string>
+            <string>Merton</string>
+            <string>Newbury</string>
+            <string>Orwell</string>
+            <string>Patrington</string>
+            <string>Ravenglass</string>
+            <string>Richmondville</string>
+            <string>Ripley</string>
+            <string>Rye</string>
+            <string>Spalding</string>
+            <string>Stratford</string>
+            <string>Stroud</string>
+            <string>Walden</string>
+            <string>Wenlock</string>
+            <string>Woodbridge</string>
+            <string>Wright</string>
+            <string>Wrotham</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth - British</Name>
+          <Values>
+            <string>New Coventry</string>
+            <string>St. Pomeroy</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - Commonwealth of Man - British</Name>
+          <Values>
+            <string>Fitzroy's World</string>
+            <string>Hoxworth</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth - British</Name>
+          <Values>
+            <string>Avalon</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - North Sea Alliance - English</Name>
+          <Values>
+            <string>Deepcastle</string>
+            <string>Wideway</string>
+            <string>Oceanham</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
