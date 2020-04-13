@@ -128,7 +128,7 @@ build "ui_extra_humans_yugoslavic"      "Human - Yugoslavic"        "L" \
     human/bosnian human/croatian human/serbian human/slovenian human/common_slavic_yugoslavic human/common_slavic
 build "ui_extra_humans_extended"        "Human - Extended"          "L" \
     human/afghan human/african human/algerian human/american human/arabic human/argentinian \
-    human/armenian human/australian \uman/austrian human/austronesian human/belarusian \
+    human/armenian human/australian human/austrian human/austronesian human/belarusian \
     human/bosnian human/basque human/brazilian human/bulgarian human/canadian human/catalan \
     human/celtic human/chinese human/colombian human/congolese human/croatian human/cuban \
     human/cypriote human/czech human/danish human/dutch human/ecuadorian human/english \
