@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_latvian</Id>
+    <Name>Human - Latvian</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Latvian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Latvia</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Courland</string>
+            <string>Latgallia</string>
+            <string>Selonia</string>
+            <string>Semigallia</string>
+            <string>Vidzeme</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Endonyms</Name>
+          <Values>
+            <string>Kurzeme</string>
+            <string>Latgale</string>
+            <string>Sēlija</string>
+            <string>Zemgale</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Daugavpils</string>
+            <string>Jēkabpils</string>
+            <string>Jelgava</string>
+            <string>Jūrmala</string>
+            <string>Liepāja</string>
+            <string>Rīga</string>
+            <string>Ventspils</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+  </NameList>
+</ArrayOfNameList>
