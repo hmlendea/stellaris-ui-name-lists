@@ -202,6 +202,15 @@
           </NameGroup>
         </Daggers>
       </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types</Name>
+          <Values>
+            <string>Bersaglieri</string>
+            <string>Carabinieri</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
     </Warfare>
     <ShipClasses>
       <Generic>

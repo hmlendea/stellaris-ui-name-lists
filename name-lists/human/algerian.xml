@@ -20,6 +20,61 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Adrar</string>
+            <string>Aïn Defla</string>
+            <string>Aïn Témouchent</string>
+            <string>Algiers</string>
+            <string>Annaba</string>
+            <string>Batna</string>
+            <string>Béchar</string>
+            <string>Béjaïa</string>
+            <string>Biskra</string>
+            <string>Blida</string>
+            <string>Bordj Bou Arréridj</string>
+            <string>Bouïra</string>
+            <string>Boumerdès</string>
+            <string>Chlef</string>
+            <string>Constantine</string>
+            <string>Djelfa</string>
+            <string>El Bayadh</string>
+            <string>El Oued</string>
+            <string>El Taref</string>
+            <string>Ghardaïa</string>
+            <string>Guelma</string>
+            <string>Illizi</string>
+            <string>Jijel</string>
+            <string>Khenchela</string>
+            <string>Laghouat</string>
+            <string>M'sila</string>
+            <string>Mascara</string>
+            <string>Médéa</string>
+            <string>Mila</string>
+            <string>Mostaganem</string>
+            <string>Naâma</string>
+            <string>Oran</string>
+            <string>Ouargla</string>
+            <string>Oum el-Bouaghi</string>
+            <string>Relizane</string>
+            <string>Saïda</string>
+            <string>Sétif</string>
+            <string>Sidi Bel Abbès</string>
+            <string>Skikda</string>
+            <string>Souk Ahras</string>
+            <string>Tamanghasset</string>
+            <string>Tébessa</string>
+            <string>Tiaret</string>
+            <string>Tindouf</string>
+            <string>Tipaza</string>
+            <string>Tissemsilt</string>
+            <string>Tizi Ouzou</string>
+            <string>Tlemcen</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities</Name>
@@ -65,6 +120,15 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Fetzara</string>
+            <string>Menghough</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
   </NameList>
 </ArrayOfNameList>

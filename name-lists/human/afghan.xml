@@ -114,6 +114,35 @@
           </Values>
         </NameGroup>
       </Deserts>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Amu Darya</string>
+            <string>Farah</string>
+            <string>Ghazni</string>
+            <string>Gomal</string>
+            <string>Harirud</string>
+            <string>Harut</string>
+            <string>Helmand</string>
+            <string>Kabul</string>
+            <string>Kurram</string>
+            <string>Murghab</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Ab-i Istada</string>
+            <string>Band-e Amir</string>
+            <string>Chaqmaqtin</string>
+            <string>Hamun</string>
+            <string>Zorkul</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
   </NameList>
 </ArrayOfNameList>

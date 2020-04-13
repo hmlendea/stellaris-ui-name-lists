@@ -85,6 +85,8 @@
         <NameGroup>
           <Name>Leaders</Name>
           <Values>
+            <string>Haakon the Old</string>
+            <string>Harald Fairhair</string>
             <string>Harald Hardrada</string>
           </Values>
         </NameGroup>
@@ -97,7 +99,25 @@
           </Values>
         </NameGroup>
       </LeadersTier3>
+      <Admirals>
+        <NameGroup>
+          <Name>Admirals</Name>
+          <Values>
+            <string>Tordenskjold</string>
+          </Values>
+        </NameGroup>
+      </Admirals>
     </GreatPeople>
+    <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types</Name>
+          <Values>
+            <string>Birkebeiner</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
     <Planets>
       <Generic>
         <NameGroup>

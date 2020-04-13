@@ -223,6 +223,7 @@
         <NameGroup>
           <Name>Leaders</Name>
           <Values>
+            <string>Ivan the Terrible</string>
             <string>Peter the Great</string>
           </Values>
         </NameGroup>
@@ -348,7 +349,9 @@
           <Values>
             <string>Cossack</string>
             <string>Kazakov</string>
+            <string>Opolcheniye</string>
             <string>Oprichnik</string>
+            <string>Spetsnaz</string>
             <string>Strelet</string>
           </Values>
         </NameGroup>

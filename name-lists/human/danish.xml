@@ -26,12 +26,38 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Hovedstaden</string>
+            <string>Jutland</string>
+            <string>Southern Denmark</string>
+            <string>Zealand</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Endonyms</Name>
+          <Values>
+            <string>Jylland</string>
+            <string>Sjælland</string>
+            <string>Syddanmark</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities</Name>
           <Values>
+            <string>Aalborg</string>
             <string>Aarhus</string>
             <string>Copenhagen</string>
+            <string>Esbjerg</string>
+            <string>Horsens</string>
+            <string>Kolding</string>
+            <string>Randers</string>
+            <string>Roskilde</string>
+            <string>Vejle</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -41,6 +67,23 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Arresø</string>
+            <string>Esrum</string>
+            <string>Furesø</string>
+            <string>Mossø</string>
+            <string>Saltbæk</string>
+            <string>Skanderborg</string>
+            <string>Søndersø</string>
+            <string>Stadil</string>
+            <string>Tissø</string>
+            <string>Tystrup</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
     <GreatPeople>
       <LeadersTier2>

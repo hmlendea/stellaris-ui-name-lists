@@ -109,5 +109,15 @@
         </NameGroup>
       </LeadersTier2>
     </GreatPeople>
+    <Ships>
+      <Corvette>
+        <NameGroup>
+          <Name>Ships</Name>
+          <Values>
+            <string>Kaimiloa</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+    </Ships>
   </NameList>
 </ArrayOfNameList>

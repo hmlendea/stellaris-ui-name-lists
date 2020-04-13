@@ -114,6 +114,7 @@
           <Name>Scientists</Name>
           <Values>
             <string>Becquerel</string>
+            <string>Descartes</string>
           </Values>
         </NameGroup>
       </Scientists>

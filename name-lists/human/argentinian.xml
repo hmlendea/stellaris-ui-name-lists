@@ -102,6 +102,17 @@
           </Values>
         </NameGroup>
       </Deserts>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Argentino</string>
+            <string>Buenos Aires</string>
+            <string>Cami</string>
+            <string>Nahuel Huapi</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
     <Companies>
       <SpacecraftManufacturers>

@@ -278,7 +278,9 @@
           <Name>Military unit types</Name>
           <Values>
             <string>Doppelsöldner</string>
+            <string>Hartschier</string>
             <string>Landsknechte</string>
+            <string>Landwehr</string>
             <string>Panzer</string>
             <string>Reiter</string>
             <string>Volksgrenadier</string>

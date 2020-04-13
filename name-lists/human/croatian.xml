@@ -31,7 +31,39 @@
         <NameGroup>
           <Name>Regions</Name>
           <Values>
+            <string>Baranja</string>
+            <string>Bilogora</string>
+            <string>Bjelovar</string>
+            <string>Brod</string>
             <string>Dalmatia</string>
+            <string>Dubrovnik-Neretva</string>
+            <string>Gorski Kotar</string>
+            <string>Istria</string>
+            <string>Karlovac</string>
+            <string>Knin</string>
+            <string>Koprivnica</string>
+            <string>Krapina</string>
+            <string>Križevci</string>
+            <string>Lika</string>
+            <string>Međimurje</string>
+            <string>Moslavina</string>
+            <string>Osijek</string>
+            <string>Podravina</string>
+            <string>Posavina</string>
+            <string>Požega</string>
+            <string>Primorje</string>
+            <string>Senj</string>
+            <string>Šibenik</string>
+            <string>Sisak</string>
+            <string>Slavonia</string>
+            <string>Split</string>
+            <string>Syrmia</string>
+            <string>Varaždin</string>
+            <string>Virovitica</string>
+            <string>Vukovar</string>
+            <string>Zadar</string>
+            <string>Zagorje</string>
+            <string>Zagreb</string>
           </Values>
         </NameGroup>
       </Regions>
@@ -69,7 +101,13 @@
         <NameGroup>
           <Name>Scientists</Name>
           <Values>
+            <string>Bošković</string>
+            <string>Mohorovičić</string>
+            <string>Prelog</string>
+            <string>Primorac</string>
             <string>Ružička</string>
+            <string>Soljačić</string>
+            <string>Supek</string>
           </Values>
         </NameGroup>
       </Scientists>

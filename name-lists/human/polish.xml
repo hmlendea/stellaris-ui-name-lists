@@ -59,6 +59,14 @@
           </Values>
         </NameGroup>
       </LeadersTier1>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Piłsudski</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
       <FlyingAces>
         <NameGroup>
           <Name>Flying Aces</Name>
