@@ -127,17 +127,21 @@ build "ui_extra_humans_turkic"          "Human - Turkic"            "L" human/tu
 build "ui_extra_humans_yugoslavic"      "Human - Yugoslavic"        "L" \
     human/bosnian human/croatian human/serbian human/slovenian human/common_slavic_yugoslavic human/common_slavic
 build "ui_extra_humans_extended"        "Human - Extended"          "L" \
-    human/afghan human/african human/algerian human/american human/arabic human/argentinian human/armenian human/australian \
-    human/austrian human/austronesian human/baltic human/belarusian human/bosnian human/basque human/brazilian \
-    human/bulgarian human/canadian human/catalan human/celtic human/chinese human/colombian human/congolese human/croatian \
-    human/cuban human/cypriote human/czech human/danish human/dutch human/ecuadorian human/english human/ethiopian \
-    human/filipino human/french human/german human/germanic human/greek human/greenlandic human/guatemalan \
-    human/hawaiian human/hebrew human/hindi human/hungarian human/icelandic human/indian human/indonesian \
-    human/italian human/irish human/japanese human/kiribatian human/korean human/malaysian human/maori human/mauritanian human/mexican human/mongol \
-    human/nepali human/nigerian human/norwegian human/pakistani human/persian human/polynesian human/portuguese \
-    human/roman human/romanian human/russian human/scottish human/serbian human/slovakian human/slovenian human/somali \
-    human/spanish human/swedish human/swiss human/taiwanese human/tibetan human/tunisian human/turkish human/turkmen \
-    human/ukrainian human/venezuelan human/vietnamese human/welsh human/zambian human/zealandian \
+    human/afghan human/african human/algerian human/american human/arabic human/argentinian \
+    human/armenian human/australian \uman/austrian human/austronesian human/belarusian \
+    human/bosnian human/basque human/brazilian human/bulgarian human/canadian human/catalan \
+    human/celtic human/chinese human/colombian human/congolese human/croatian human/cuban \
+    human/cypriote human/czech human/danish human/dutch human/ecuadorian human/english \
+    human/estonian human/ethiopian human/filipino human/french human/german human/germanic \
+    human/greek human/greenlandic human/guatemalan human/hawaiian human/hebrew human/hindi \
+    human/hungarian human/icelandic human/indian human/indonesian human/italian human/irish \
+    human/japanese human/kiribatian human/korean human/latvian human/lithuanian human/malaysian \
+    human/maori human/mauritanian human/mexican human/mongol human/nepali human/nigerian \
+    human/norwegian human/pakistani human/persian human/polynesian human/portuguese \
+    human/roman human/romanian human/russian human/scottish human/serbian human/slovakian \
+    human/slovenian human/somali human/spanish human/swedish human/swiss human/taiwanese \
+    human/tibetan human/tunisian human/turkish human/turkmen human/ukrainian human/venezuelan \
+    human/vietnamese human/welsh human/zambian human/zealandian \
     \
     human/common_asian human/common_british human/common_english human/common_german human/common_hellenic \
     human/common_iberian human/common_norse human/common_portuguese human/common_slavic_yugoslavic human/common_slavic \
