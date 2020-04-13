@@ -103,6 +103,14 @@
           </Values>
         </NameGroup>
       </Scientists>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Dušan</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
     </GreatPeople>
     <Warfare>
       <Weapons>
@@ -115,6 +123,14 @@
           </NameGroup>
         </Swords>
       </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types</Name>
+          <Values>
+            <string>Bastnik</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
     </Warfare>
   </NameList>
 </ArrayOfNameList>

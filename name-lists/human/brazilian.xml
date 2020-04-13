@@ -44,9 +44,21 @@
           <Name>Rivers</Name>
           <Values>
             <string>Amazon</string>
+            <string>Jaguaribe</string>
+            <string>Paranoá</string>
           </Values>
         </NameGroup>
       </Rivers>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Guarapiranga</string>
+            <string>Orós</string>
+            <string>Paranoá</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
     <GreatPeople>
       <LeadersTier2>

@@ -20,12 +20,65 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Azuay</string>
+            <string>Bolívar</string>
+            <string>Cañar</string>
+            <string>Carchi</string>
+            <string>Chimborazo</string>
+            <string>Cotopaxi</string>
+            <string>El Oro</string>
+            <string>Esmeraldas</string>
+            <string>Galápagos</string>
+            <string>Guayas</string>
+            <string>Imbabura</string>
+            <string>Loja</string>
+            <string>Los Ríos</string>
+            <string>Manabí</string>
+            <string>Morona Santiago</string>
+            <string>Napo</string>
+            <string>Orellana</string>
+            <string>Pastaza</string>
+            <string>Pichincha</string>
+            <string>Santa Elena</string>
+            <string>Santo Domingo de los Tsáchilas</string>
+            <string>Sucumbíos</string>
+            <string>Tungurahua</string>
+            <string>Zamora Chinchipe</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities</Name>
           <Values>
+            <string>Ambato</string>
+            <string>Azogues</string>
+            <string>Babahoyo</string>
+            <string>Cuenca</string>
+            <string>Esmeraldas</string>
+            <string>Guaranda</string>
             <string>Guayaquil</string>
+            <string>Ibarra</string>
+            <string>Latacunga</string>
+            <string>Loja</string>
+            <string>Macas</string>
+            <string>Machala</string>
+            <string>Nueva Loja</string>
+            <string>Portoviejo</string>
+            <string>Puerto Baquerizo Moreno</string>
+            <string>Puerto Francisco de Orellana</string>
+            <string>Puyo</string>
             <string>Quito</string>
+            <string>Riobamba</string>
+            <string>Santa Elena</string>
+            <string>Santo Domingo de los Colorados</string>
+            <string>Tena</string>
+            <string>Tulcán</string>
+            <string>Zamora</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -36,7 +89,7 @@
             <string>Cuicocha</string>
             <string>El Cajas</string>
             <string>Mojanda</string>
-            <string>Panacocha</string>
+            <string>Panacocha</string> 
             <string>San Pablo</string>
           </Values>
         </NameGroup>

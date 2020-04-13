@@ -56,6 +56,31 @@
           </Values>
         </NameGroup>
       </Deserts>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Esk</string>
+            <string>Flinders</string>
+            <string>Gascoyne</string>
+            <string>Murray</string>
+            <string>Victoria</string>
+            <string>Yarra</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>McKenzie</string>
+            <string>Alexandrina</string>
+            <string>Albina</string>
+            <string>Eacham</string>
+            <string>Hillier</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
     <GreatPeople>
       <FlyingAces>

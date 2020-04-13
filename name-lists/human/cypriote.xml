@@ -60,6 +60,16 @@
           </Values>
         </NameGroup>
       </Rivers>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Larnaca</string>
+            <string>Limassol</string>
+            <string>Oroklini</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
   </NameList>
 </ArrayOfNameList>

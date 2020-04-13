@@ -20,13 +20,66 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Blagoevgrad</string>
+            <string>Burgas</string>
+            <string>Dobrich</string>
+            <string>Gabrovo</string>
+            <string>Haskovo</string>
+            <string>Kardzhali</string>
+            <string>Kyustendil</string>
+            <string>Lovech</string>
+            <string>Montana</string>
+            <string>Pazardzhik</string>
+            <string>Pernik</string>
+            <string>Pleven</string>
+            <string>Plovdiv</string>
+            <string>Razgrad</string>
+            <string>Ruse</string>
+            <string>Shumen</string>
+            <string>Silistra</string>
+            <string>Sliven</string>
+            <string>Smolyan</string>
+            <string>Sofia</string>
+            <string>Stara Zagora</string>
+            <string>Targovishte</string>
+            <string>Varna</string>
+            <string>Veliko Tarnovo</string>
+            <string>Vidin</string>
+            <string>Vratsa</string>
+            <string>Yambol</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities</Name>
           <Values>
+            <string>Asenovgrad</string>
+            <string>Blagoevgrad</string>
+            <string>Burgas</string>
+            <string>Dobrich</string>
+            <string>Gabrovo</string>
+            <string>Haskovo</string>
+            <string>Kazanlak</string>
+            <string>Kyustendil</string>
+            <string>Pazardzhik</string>
+            <string>Pernik</string>
+            <string>Pleven</string>
+            <string>Plovdiv</string>
+            <string>Ruse</string>
+            <string>Shumen</string>
+            <string>Sliven</string>
             <string>Sofia</string>
+            <string>Stara Zagora</string>
             <string>Varna</string>
+            <string>Veliko Tarnovo</string>
             <string>Vidin</string>
+            <string>Vratsa</string>
+            <string>Yambol</string>
           </Values>
         </NameGroup>
       </Cities>

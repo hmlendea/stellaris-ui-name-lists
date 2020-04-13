@@ -118,6 +118,16 @@
         </NameGroup>
       </Lakes>
     </Places>
+    <GreatPeople>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Ingolfur Arnarson</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+    </GreatPeople>
     <Planets>
       <Generic>
         <NameGroup>

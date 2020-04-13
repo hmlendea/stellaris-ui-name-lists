@@ -28,7 +28,7 @@
       </Countries>
       <Regions>
         <NameGroup>
-          <Name>Cities</Name>
+          <Name>Regions</Name>
           <Values>
             <string>Brabant</string>
             <string>Drenthe</string>
@@ -69,7 +69,7 @@
             <string>The Hague</string>
             <string>Utrecht</string>
             <string>Zwolle</string>
-v          </Values>
+          </Values>
         </NameGroup>
         <NameGroup>
           <Name>Cities</Name> <!-- South Africa -->
@@ -85,6 +85,8 @@ v          </Values>
           <Name>Scientists</Name>
           <Values>
             <string>Fahrenheit</string>
+            <string>Huygens</string>
+            <string>van Leeuwenhoek</string>
           </Values>
         </NameGroup>
       </Scientists>
@@ -123,6 +125,18 @@ v          </Values>
         </NameGroup>
       </SpacecraftManufacturers>
     </Companies>
+    <Warfare>
+      <Weapons>
+        <Hammers>
+          <NameGroup>
+            <Name>Hammers</Name>
+            <Values>
+              <string>Goedendag</string>
+            </Values>
+          </NameGroup>
+        </Hammers>
+      </Weapons>
+    </Warfare>
     <Characters>
       <CharacterNames>
         <Id>dutch</Id>
