@@ -80,7 +80,7 @@ function generate-mod-descriptor {
     echo "supported_version=\"${STELLARIS_VERSION}\"" >> ${FILE_PATH}
 }
 
-build "ui_extra_humans_african"         "Human - African"           "L" human/african
+build "ui_extra_humans_african"         "Human - African"           "L" human/algerian human/congolese human/ethiopian human/nigerian human/african
 build "ui_extra_humans_arabic"          "Human - Arabic"            "L" human/arabic
 build "ui_extra_humans_asian"           "Human - Asian"             "L" \
     human/chinese human/japanese human/korean human/mongol human/taiwanese human/tibetan human/vietnamese human/common_asian
@@ -126,14 +126,14 @@ build "ui_extra_humans_turkic"          "Human - Turkic"            "L" human/tu
 build "ui_extra_humans_yugoslavic"      "Human - Yugoslavic"        "L" \
     human/bosnian human/croatian human/serbian human/slovenian human/common_slavic_yugoslavic human/common_slavic
 build "ui_extra_humans_extended"        "Human - Extended"          "L" \
-    human/afghan human/african human/american human/arabic human/argentinian human/armenian human/australian \
+    human/afghan human/african human/algerian human/american human/arabic human/argentinian human/armenian human/australian \
     human/austrian human/austronesian human/baltic human/belarusian human/bosnian human/basque human/brazilian \
-    human/bulgarian human/canadian human/catalan human/celtic human/chinese human/colombian human/croatian \
-    human/cuban human/cypriote human/czech human/danish human/dutch human/ecuadorian human/english \
+    human/bulgarian human/canadian human/catalan human/celtic human/chinese human/colombian human/congolese human/croatian \
+    human/cuban human/cypriote human/czech human/danish human/dutch human/ecuadorian human/english human/ethiopian \
     human/filipino human/french human/german human/germanic human/greek human/greenlandic human/guatemalan \
     human/hawaiian human/hebrew human/hindi human/hungarian human/icelandic human/indian human/indonesian \
     human/italian human/irish human/japanese human/kiribatian human/korean human/malaysian human/maori human/mexican human/mongol \
-    human/nepali human/norwegian human/pakistani human/persian human/polynesian human/portuguese \
+    human/nepali human/nigerian human/norwegian human/pakistani human/persian human/polynesian human/portuguese \
     human/roman human/romanian human/russian human/scottish human/serbian human/slovakian human/slovenian \
     human/spanish human/swedish human/swiss human/taiwanese human/tibetan human/turkish human/turkmen \
     human/ukrainian human/venezuelan human/vietnamese human/welsh human/zealandian \

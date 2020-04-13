@@ -8,13 +8,10 @@
         <Name>Denonyms</Name>
         <Values>
           <string>African</string>
-          <string>Congolese</string>
-          <string>Ethiopian</string>
           <string>Kabyle</string>
           <string>Kenyan</string>
           <string>Mossi</string>
           <string>Namibian</string>
-          <string>Nigerian</string>
           <string>Somali</string>
           <string>Sudanese</string>
           <string>Tunisian</string>
@@ -32,14 +29,11 @@
         <NameGroup>
           <Name>Countries</Name>
           <Values>
-            <string>Algeria</string>
             <string>Angola</string>
             <string>Burkina Faso</string>
             <string>Chad</string>
-            <string>Congo</string>
             <string>Djibouti</string>
             <string>Eritrea</string>
-            <string>Ethiopia</string>
             <string>Ghana</string>
             <string>Ivory Coast</string>
             <string>Kenya</string>
@@ -49,7 +43,6 @@
             <string>Mauritania</string>
             <string>Mozambique</string>
             <string>Namibia</string>
-            <string>Nigeria</string>
             <string>Senegal</string>
             <string>Sierra Leone</string>
             <string>Somalia</string>
@@ -63,10 +56,9 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Countries - Native names</Name>
+          <Name>Countries - Endonyms</Name>
           <Values>
             <string>Côte d'Ivoire</string>
-            <string>Kongo</string>
           </Values>
         </NameGroup>
       </Countries>
@@ -98,75 +90,6 @@
             <string>Namibe</string>
             <string>Uíge</string>
             <string>Zaire</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Regions - Congo</Name>
-          <Values>
-            <string>Bas-Uele</string>
-            <string>Équateur</string>
-            <string>Haut-Katanga</string>
-            <string>Haut-Lomami</string>
-            <string>Haut-Uele</string>
-            <string>Ituri</string>
-            <string>Kasaï</string>
-            <string>Kinshasa</string>
-            <string>Kivu</string>
-            <string>Kongo</string>
-            <string>Kwango</string>
-            <string>Kwilu</string>
-            <string>Lomami</string>
-            <string>Lualaba</string>
-            <string>Mai-Ndombe</string>
-            <string>Maniema</string>
-            <string>Mongala</string>
-            <string>Nord-Ubangi</string>
-            <string>Sankuru</string>
-            <string>Sud-Ubangi</string>
-            <string>Tanganyika</string>
-            <string>Tshopo</string>
-            <string>Tshuapa</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Regions - Nigeria</Name>
-          <Values>
-            <string>Abia</string>
-            <string>Adamawa</string>
-            <string>Akwa Ibom</string>
-            <string>Anambra</string>
-            <string>Bauchi</string>
-            <string>Bayelsa</string>
-            <string>Benue</string>
-            <string>Borno</string>
-            <string>Cross River</string>
-            <string>Delta</string>
-            <string>Ebonyi</string>
-            <string>Edo</string>
-            <string>Ekiti</string>
-            <string>Enugu</string>
-            <string>Gombe</string>
-            <string>Imo</string>
-            <string>Jigawa</string>
-            <string>Kaduna</string>
-            <string>Kano</string>
-            <string>Katsina</string>
-            <string>Kebbi</string>
-            <string>Kogi</string>
-            <string>Kwara</string>
-            <string>Lagos</string>
-            <string>Nasarawa</string>
-            <string>Niger</string>
-            <string>Ogun</string>
-            <string>Ondo</string>
-            <string>Osun</string>
-            <string>Oyo</string>
-            <string>Plateau</string>
-            <string>Rivers</string>
-            <string>Sokoto</string>
-            <string>Taraba</string>
-            <string>Yobe</string>
-            <string>Zamfara</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -208,48 +131,6 @@
         </NameGroup>
       </Regions>
       <Cities>
-        <NameGroup>
-          <Name>Cities - Algeria</Name>
-          <Values>
-            <string>Aïn Béïda</string>
-            <string>Algiers</string>
-            <string>Annaba</string>
-            <string>Batna</string>
-            <string>Béchar</string>
-            <string>Béjaïa</string>
-            <string>Bilda</string>
-            <string>Biskra</string>
-            <string>Bordj Bou Arréridj</string>
-            <string>Bousaada</string>
-            <string>Chlef</string>
-            <string>Constantine</string>
-            <string>Djelfa</string>
-            <string>El Eulma</string>
-            <string>El Oued</string>
-            <string>Ghardaïa</string>
-            <string>Guelma</string>
-            <string>Jijel</string>
-            <string>Khenchela</string>
-            <string>Laghouat</string>
-            <string>M'Sila</string>
-            <string>Mascara</string>
-            <string>Médéa</string>
-            <string>Mostaganem</string>
-            <string>Oran</string>
-            <string>Ouargla</string>
-            <string>Relizane</string>
-            <string>Saïda</string>
-            <string>Sétif</string>
-            <string>Sidi Bel Abbès</string>
-            <string>Skikda</string>
-            <string>Souk Ahras</string>
-            <string>Tébessa</string>
-            <string>Tiaret</string>
-            <string>Tindouf</string>
-            <string>Tizi Ouzou</string>
-            <string>Tlemcen</string>
-            <string>Touggourt</string>
-          </Values>
         </NameGroup>
         <NameGroup>
           <Name>Cities - Angola</Name>
@@ -273,34 +154,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Congo</Name>
-          <Values>
-            <string>Bandundu</string>
-            <string>Boma</string>
-            <string>Bukavu</string>
-            <string>Bunia</string>
-            <string>Butembo</string>
-            <string>Gandajika</string>
-            <string>Goma</string>
-            <string>Kabinda</string>
-            <string>Kamina</string>
-            <string>Kananga</string>
-            <string>Kikwit</string>
-            <string>Kindu</string>
-            <string>Kinshasa</string>
-            <string>Kisangani</string>
-            <string>Kolwezi</string>
-            <string>Likasi</string>
-            <string>Lubumbashi</string>
-            <string>Matadi</string>
-            <string>Mbandaka</string>
-            <string>Mbuji-Mayi</string>
-            <string>Mwene-Ditu</string>
-            <string>Tshikapa</string>
-            <string>Uvira</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Djibouti</Name>
           <Values>
             <string>Djibouti</string>
@@ -310,12 +163,6 @@
           <Name>Cities - Eritrea</Name>
           <Values>
             <string>Asmara</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Ethiopia</Name>
-          <Values>
-            <string>Addis Ababa</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -389,13 +236,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Nigeria</Name>
-          <Values>
-            <string>Abuja</string>
-            <string>Ibadan</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Senegal</Name>
           <Values>
             <string>Dakar</string>
@@ -466,13 +306,6 @@
           </Values>
         </NameGroup>
       </Cities>
-      <Mountains>
-        <NameGroup>
-          <Name>Mountains - </Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Mountains>
       <Deserts>
         <NameGroup>
           <Name>Deserts</Name>
@@ -485,21 +318,9 @@
       </Deserts>
       <Rivers>
         <NameGroup>
-          <Name>Rivers - Congo</Name>
-          <Values>
-            <string>Congo</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Rivers - Mozambique</Name>
           <Values>
             <string>Limpopo</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Rivers - Nigeria</Name>
-          <Values>
-            <string>Niger</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -512,12 +333,6 @@
     </Places>
     <GreatPeople>
       <LeadersTier1>
-        <NameGroup>
-          <Name>Leaders - Congo</Name>
-          <Values>
-            <string>Mvemba a Nzinga</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Leaders - Swahili</Name>
           <Values>
@@ -532,13 +347,6 @@
         </NameGroup>
       </LeadersTier1>
       <LeadersTier2>
-        <NameGroup>
-          <Name>Leaders - Ethiopia</Name>
-          <Values>
-            <string>Haile Selassie</string>
-            <string>Zara Yaqob</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Leaders - Mali</Name>
           <Values>
@@ -581,12 +389,6 @@
       <Weapons>
         <Swords>
           <NameGroup>
-            <Name>Swords - Ethiopian</Name>
-            <Values>
-              <string>Shotel</string>
-            </Values>
-          </NameGroup>
-          <NameGroup>
             <Name>Swords - Kabyle</Name>
             <Values>
               <string>Flyssa</string>
@@ -601,19 +403,6 @@
         </Swords>
       </Weapons>
       <MilitaryUnitTypes>
-        <NameGroup>
-          <Name>Military unit types - Congolese</Name>
-          <Values>
-            <string>Ngao Mbeba</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Military unit types - Ethiopian</Name>
-          <Values>
-            <string>Mehal Sefari</string>
-            <string>Shotelai</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Military unit types - Mali</Name>
           <Values>
@@ -752,62 +541,6 @@
           </Values>
         </NameGroup>
       </Generic>
-      <Desert>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Desert>
-      <Continental>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Continental>
-      <Ocean>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Ocean>
-      <Tundra>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tundra>
-      <Arctic>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Arctic>
-      <Tomb>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tomb>
-      <Alpine>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Alpine>
-      <Molten>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Molten>
     </Planets>
     <Characters>
       <CharacterNames>
