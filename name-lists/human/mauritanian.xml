@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_mauritanian</Id>
+    <Name>Human - Mauritanian</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Mauritanian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Mauritania</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Adrar</string>
+            <string>Assaba</string>
+            <string>Brakna</string>
+            <string>Dakhlet Nouadhibou</string>
+            <string>Duidimaka</string>
+            <string>Gorgol</string>
+            <string>Hodh Ech Chargui</string>
+            <string>Hodh El Gharbi</string>
+            <string>Inchiri</string>
+            <string>Nouakchott</string>
+            <string>Tagant</string>
+            <string>Tiris Zemmour</string>
+            <string>Trarza</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Akjoujt</string>
+            <string>Aleg</string>
+            <string>Arafat</string>
+            <string>Atar</string>
+            <string>Ayoun el Atrous</string>
+            <string>Dar-Naim</string>
+            <string>Kaédi</string>
+            <string>Kiffa</string>
+            <string>Néma</string>
+            <string>Nouadhibou</string>
+            <string>Nouakchott</string>
+            <string>Rosso</string>
+            <string>Sélibaby</string>
+            <string>Tevragh-Zeina</string>
+            <string>Tidjikja</string>
+            <string>Zouérat</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+  </NameList>
+</ArrayOfNameList>

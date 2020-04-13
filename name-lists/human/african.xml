@@ -12,12 +12,9 @@
           <string>Kenyan</string>
           <string>Mossi</string>
           <string>Namibian</string>
-          <string>Somali</string>
           <string>Sudanese</string>
-          <string>Tunisian</string>
           <string>Ugandan</string>
           <string>Yoruba</string>
-          <string>Zambian</string>
           <string>Zimbabwean</string>
           <string>Zimbo</string>
           <string>Zulu</string>
@@ -40,18 +37,14 @@
             <string>Liberia</string>
             <string>Madagascar</string>
             <string>Mali</string>
-            <string>Mauritania</string>
             <string>Mozambique</string>
             <string>Namibia</string>
             <string>Senegal</string>
             <string>Sierra Leone</string>
-            <string>Somalia</string>
             <string>South Africa</string>
             <string>Sudan</string>
             <string>Tanzania</string>
-            <string>Tunisia</string>
             <string>Uganda</string>
-            <string>Zambia</string>
             <string>Zimbabwe</string>
           </Values>
         </NameGroup>
@@ -93,24 +86,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions - Mauritania</Name>
-          <Values>
-            <string>Adrar</string>
-            <string>Assaba</string>
-            <string>Brakna</string>
-            <string>Dakhlet Nouadhibou</string>
-            <string>Duidimaka</string>
-            <string>Gorgol</string>
-            <string>Hodh Ech Chargui</string>
-            <string>Hodh El Gharbi</string>
-            <string>Inchiri</string>
-            <string>Nouakchott</string>
-            <string>Tagant</string>
-            <string>Tiris Zemmour</string>
-            <string>Trarza</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Regions - Senegal</Name>
           <Values>
             <string>Dakar</string>
@@ -131,7 +106,6 @@
         </NameGroup>
       </Regions>
       <Cities>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - Angola</Name>
           <Values>
@@ -203,27 +177,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Mauritania</Name>
-          <Values>
-            <string>Akjoujt</string>
-            <string>Aleg</string>
-            <string>Arafat</string>
-            <string>Atar</string>
-            <string>Ayoun el Atrous</string>
-            <string>Dar-Naim</string>
-            <string>Kaédi</string>
-            <string>Kiffa</string>
-            <string>Néma</string>
-            <string>Nouadhibou</string>
-            <string>Nouakchott</string>
-            <string>Rosso</string>
-            <string>Sélibaby</string>
-            <string>Tevragh-Zeina</string>
-            <string>Tidjikja</string>
-            <string>Zouérat</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Mozambique</Name>
           <Values>
             <string>Maputo</string>
@@ -261,12 +214,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Somalia</Name>
-          <Values>
-            <string>Mogadishu</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - South Africa</Name>
           <Values>
             <string>Cape Town</string>
@@ -285,18 +232,6 @@
           <Name>Cities - Tanzania</Name>
           <Values>
             <string>Dar es Salaam</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Tunisia</Name>
-          <Values>
-            <string>Tunis</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Zambia</Name>
-          <Values>
-            <string>Lusaka</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -323,12 +258,6 @@
             <string>Limpopo</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Rivers - Zambia</Name>
-          <Values>
-            <string>Zambezi</string>
-          </Values>
-        </NameGroup>
       </Rivers>
     </Places>
     <GreatPeople>
@@ -353,12 +282,6 @@
             <string>Mansa Musa</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Leaders - Tunisian</Name>
-          <Values>
-            <string>Dido</string>
-          </Values>
-        </NameGroup>
       </LeadersTier2>
       <Heroes>
         <NameGroup>
@@ -368,14 +291,6 @@
           </Values>
         </NameGroup>
       </Heroes>
-      <GeneralsTier3>
-        <NameGroup>
-          <Name>Generals - Tunisian</Name>
-          <Values>
-            <string>Hannibal</string>
-          </Values>
-        </NameGroup>
-      </GeneralsTier3>
       <LabourDeities>
         <NameGroup>
           <Name>Deities - Yoruba</Name>
@@ -459,13 +374,6 @@
             <string>Warsame</string>
             <string>Xirsi</string>
             <string>Zuberi</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - People's African Union - Somali</Name>
-          <Values>
-            <string>Chengetai</string>
-            <string>Fadziso</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -559,25 +467,6 @@
         <SecondNames>
           <NameGroup>
             <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/hau-persons-surnames.txt</Url>
-          </NameGroup>
-        </SecondNames>
-      </CharacterNames>
-      <CharacterNames>
-        <Id>somali</Id>
-        <Weight>1</Weight>
-        <MaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/som-persons-male.txt</Url>
-          </NameGroup>
-        </MaleFirstNames>
-        <FemaleFirstNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/som-persons-female.txt</Url>
-          </NameGroup>
-        </FemaleFirstNames>
-        <SecondNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/som-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>
