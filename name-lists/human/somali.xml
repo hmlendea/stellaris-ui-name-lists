@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_somali</Id>
+    <Name>Human - Somali</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Somali</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Somalia</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Mogadishu</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - People's African Union</Name>
+          <Values>
+            <string>Chengetai</string>
+            <string>Fadziso</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+  <Characters>
+    <CharacterNames>
+      <Id>somali</Id>
+      <Weight>1</Weight>
+      <MaleFirstNames>
+        <NameGroup>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/som-persons-male.txt</Url>
+        </NameGroup>
+      </MaleFirstNames>
+      <FemaleFirstNames>
+        <NameGroup>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/som-persons-female.txt</Url>
+        </NameGroup>
+      </FemaleFirstNames>
+      <SecondNames>
+        <NameGroup>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/som-persons-surnames.txt</Url>
+        </NameGroup>
+      </SecondNames>
+    </CharacterNames>
+  </Characters>
+</ArrayOfNameList>
