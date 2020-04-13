@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_algerian</Id>
+    <Name>Human - Algerian</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Algerian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Algeria</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Aïn Béïda</string>
+            <string>Algiers</string>
+            <string>Annaba</string>
+            <string>Batna</string>
+            <string>Béchar</string>
+            <string>Béjaïa</string>
+            <string>Bilda</string>
+            <string>Biskra</string>
+            <string>Bordj Bou Arréridj</string>
+            <string>Bousaada</string>
+            <string>Chlef</string>
+            <string>Constantine</string>
+            <string>Djelfa</string>
+            <string>El Eulma</string>
+            <string>El Oued</string>
+            <string>Ghardaïa</string>
+            <string>Guelma</string>
+            <string>Jijel</string>
+            <string>Khenchela</string>
+            <string>Laghouat</string>
+            <string>M'Sila</string>
+            <string>Mascara</string>
+            <string>Médéa</string>
+            <string>Mostaganem</string>
+            <string>Oran</string>
+            <string>Ouargla</string>
+            <string>Relizane</string>
+            <string>Saïda</string>
+            <string>Sétif</string>
+            <string>Sidi Bel Abbès</string>
+            <string>Skikda</string>
+            <string>Souk Ahras</string>
+            <string>Tébessa</string>
+            <string>Tiaret</string>
+            <string>Tindouf</string>
+            <string>Tizi Ouzou</string>
+            <string>Tlemcen</string>
+            <string>Touggourt</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+  </NameList>
+</ArrayOfNameList>
