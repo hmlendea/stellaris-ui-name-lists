@@ -82,7 +82,7 @@
         <NameGroup>
           <Name>Mountains</Name>
           <Values>
-            <string>Apusenia</string>
+            <string>Apuseni</string>
             <string>Bucegi</string>
             <string>Carpathia</string>
             <string>Făgăraș</string>
@@ -115,6 +115,15 @@
           <Name>Lakes</Name>
           <Values>
             <string>Bâlea</string>
+            <string>Bicaz</string>
+            <string>Bucura</string>
+            <string>Capra</string>
+            <string>Cuejdel</string>
+            <string>Galeș</string>
+            <string>Ochiul Beiului</string>
+            <string>Razim</string>
+            <string>Sfânta Ana</string>
+            <string>Tăul Țapului</string>
           </Values>
         </NameGroup>
       </Lakes>
@@ -166,6 +175,7 @@
         <NameGroup>
           <Name>Leaders</Name>
           <Values>
+            <string>Carol I</string>
             <string>Regele Ferdinand</string>
             <string>Regele Mihai</string>
           </Values>
@@ -175,7 +185,15 @@
         <NameGroup>
           <Name>Leaders</Name>
           <Values>
+            <string>Stephen the Great</string>
             <string>Vlad the Impaler</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Leaders - Endonyms</Name>
+          <Values>
+            <string>Ștefan cel Mare</string>
+            <string>Vlad Țepeș</string>
           </Values>
         </NameGroup>
       </LeadersTier3>
@@ -198,11 +216,22 @@
           </Values>
         </NameGroup>
       </Heroes>
+      <GeneralsTier1>
+        <NameGroup>
+          <Name>Generals</Name>
+          <Values>
+            <string>Mărdărescu</string>
+            <string>Moșoiu</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier1>
       <GeneralsTier2>
         <NameGroup>
           <Name>Generals</Name>
           <Values>
             <string>Antonescu</string>
+            <string>Averescu</string>
+            <string>Prezan</string>
           </Values>
         </NameGroup>
       </GeneralsTier2>
@@ -272,6 +301,14 @@
       </Starbases>
     </Stations>
     <Planets>
+      <Generic>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+            <string>Dava</string>
+          </Values>
+        </NameGroup>
+      </Generic>
       <Arid>
         <NameGroup>
           <Name>Stellaris - United Nations of Earth</Name>
