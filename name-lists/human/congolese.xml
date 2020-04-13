@@ -28,7 +28,7 @@
       </Countries>
       <Regions>
         <NameGroup>
-          <Name>Regions - Congo</Name>
+          <Name>Regions</Name>
           <Values>
             <string>Bas-Uele</string>
             <string>Équateur</string>
@@ -58,7 +58,7 @@
       </Regions>
       <Cities>
         <NameGroup>
-          <Name>Cities - Congo</Name>
+          <Name>Cities</Name>
           <Values>
             <string>Bandundu</string>
             <string>Boma</string>
