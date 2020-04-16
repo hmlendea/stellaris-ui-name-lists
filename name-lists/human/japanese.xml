@@ -218,6 +218,15 @@
     </Companies>
     <Warfare>
       <Weapons>
+        <Throwables>
+          <NameGroup>
+            <Name>Throwables</Name>
+            <Values>
+              <string>Kunai</string>
+              <string>Shuriken</string>
+            </Values>
+          </NameGroup>
+        </Throwables>
         <Swords>
           <NameGroup>
             <Name>Swords</Name>

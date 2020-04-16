@@ -101,6 +101,18 @@
         </NameGroup>
       </Deserts>
     </Places>
+    <Warfare>
+      <Weapons>
+        <Throwables>
+          <NameGroup>
+            <Name>Throwables</Name>
+            <Values>
+              <string>Bola</string>
+            </Values>
+          </NameGroup>
+        </Throwables>
+      </Weapons>
+    </Warfare>
     <Planets>
       <Gaia>
         <NameGroup>
