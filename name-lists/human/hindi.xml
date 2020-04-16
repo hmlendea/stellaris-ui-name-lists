@@ -237,6 +237,7 @@
           <NameGroup>
             <Name>Swords</Name>
             <Values>
+              <string>Firangi</string>
               <string>Talwar</string>
               <string>Urumi</string>
             </Values>
