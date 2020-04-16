@@ -163,6 +163,24 @@
       </SpacecraftManufacturers>
     </Companies>
     <Warfare>
+      <Weapons>
+        <Swords>
+          <NameGroup>
+            <Name>Swords</Name>
+            <Values>
+              <string>Pata</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+        <Daggers>
+          <NameGroup>
+            <Name>Daggers</Name>
+            <Values>
+              <string>Katar</string>
+            </Values>
+          </NameGroup>
+        </Daggers>
+      </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
           <Name>Military unit types</Name>

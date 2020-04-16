@@ -263,6 +263,14 @@
             </Values>
           </NameGroup>
         </Swords>
+        <Daggers>
+          <NameGroup>
+            <Name>Daggers</Name>
+            <Values>
+              <string>Husa</string>
+            </Values>
+          </NameGroup>
+        </Daggers>
       </Weapons>
     </Warfare>
     <Ships>

@@ -41,6 +41,16 @@
       </Heroes>
     </GreatPeople>
     <Warfare>
+      <Weapons>
+        <Daggers>
+          <NameGroup>
+            <Name>Daggers</Name>
+            <Values>
+              <string>Kukri</string>
+            </Values>
+          </NameGroup>
+        </Daggers>
+      </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
           <Name>Military unit types</Name>

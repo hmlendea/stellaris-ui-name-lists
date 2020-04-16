@@ -125,6 +125,16 @@
       </ResearchCompanies>
     </Companies>
     <Warfare>
+      <Weapons>
+        <Daggers>
+          <NameGroup>
+            <Name>Daggers</Name>
+            <Values>
+              <string>Smatchet</string>
+            </Values>
+          </NameGroup>
+        </Daggers>
+      </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
           <Name>Military unit types</Name>
