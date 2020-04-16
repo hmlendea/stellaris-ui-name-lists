@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_angolan</Id>
+    <Name>Human - Angolan</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Angolan</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Angola</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Bengo</string>
+            <string>Benguela</string>
+            <string>Bié</string>
+            <string>Cabinda</string>
+            <string>Cuando Cubango</string>
+            <string>Cuanza Norte</string>
+            <string>Cuanza Sul</string>
+            <string>Cunene</string>
+            <string>Huambo</string>
+            <string>Huíla</string>
+            <string>Luanda</string>
+            <string>Lunda Norte</string>
+            <string>Lunda Sul</string>
+            <string>Malanje</string>
+            <string>Moxico</string>
+            <string>Namibe</string>
+            <string>Uíge</string>
+            <string>Zaire</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Benguela</string>
+            <string>Huambo</string>
+            <string>Kuito</string>
+            <string>Lobito</string>
+            <string>Luanda</string>
+            <string>Lubango</string>
+            <string>Lucapa</string>
+            <string>Malanje</string>
+            <string>Moçâmedes</string>
+            <string>Soyo</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+  </NameList>
+</ArrayOfNameList>
