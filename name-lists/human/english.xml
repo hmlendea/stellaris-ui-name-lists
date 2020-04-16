@@ -95,6 +95,16 @@
       </Rivers>
     </Places>
     <GreatPeople>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists</Name>
+          <Values>
+            <string>Darwin</string>
+            <string>Faraday</string>
+            <string>Newton</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
       <LeadersTier3>
         <NameGroup>
           <Name>Leaders</Name>
