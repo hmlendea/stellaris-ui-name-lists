@@ -99,9 +99,11 @@
         <NameGroup>
           <Name>Scientists</Name>
           <Values>
+            <string>Crick</string>
             <string>Darwin</string>
             <string>Faraday</string>
             <string>Newton</string>
+            <string>Thomson</string>
           </Values>
         </NameGroup>
       </Scientists>
