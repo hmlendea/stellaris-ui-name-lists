@@ -143,6 +143,16 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Chupacabra</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <Planets>
       <Generic>
         <NameGroup>

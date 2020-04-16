@@ -85,6 +85,7 @@
           <NameGroup>
             <Name>Swords</Name>
             <Values>
+              <string>Broadsword</string>
               <string>Claymore</string>
               <string>Estoc</string>
               <string>Longsword</string>
@@ -185,31 +186,46 @@
             <string>Badger</string>
             <string>Barracuda</string>
             <string>Cobra</string>
+            <string>Cormorant</string>
+            <string>Coyote</string>
             <string>Eagle</string>
+            <string>Firefly</string>
+            <string>Fox</string>
             <string>Gazelle</string>
+            <string>Haddock</string>
+            <string>Harrier</string>
             <string>Hawk</string>
             <string>Jackal</string>
             <string>Jaguar</string>
             <string>Kangaroo</string>
             <string>Lion</string>
             <string>Lizard</string>
+            <string>Lynx</string>
+            <string>Mosquito</string>
+            <string>Narwhal</string>
             <string>Panther</string>
+            <string>Peacock</string>
+            <string>Pelican</string>
             <string>Piranha</string>
+            <string>Platypus</string>
+            <string>Puma</string>
+            <string>Python</string>
             <string>Rattlesnake</string>
             <string>Raven</string>
-            <string>Shark</string>
-            <string>Starfish</string>
-            <string>Narwhal</string>
             <string>Salamander</string>
             <string>Sardine</string>
             <string>Scorpion</string>
             <string>Seahorse</string>
+            <string>Shark</string>
             <string>Sparrow</string>
             <string>Spider</string>
+            <string>Starfish</string>
             <string>Stingray</string>
             <string>Stork</string>
             <string>Sturgeon</string>
             <string>Swordfish</string>
+            <string>Tiger</string>
+            <string>Walrus</string>
           </Values>
         </NameGroup>
       </Animals>
@@ -218,6 +234,7 @@
           <Name>Mythological creatures</Name>
           <Values>
             <string>Behemoth</string>
+            <string>Demon</string>
             <string>Dragon</string>
             <string>Gargoyle</string>
             <string>Ghost</string>

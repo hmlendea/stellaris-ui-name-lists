@@ -488,6 +488,7 @@
         <NameGroup>
           <Name>Stellaris - United Nations of Earth</Name>
           <Values>
+            <string>Kola</string>
             <string>Rus</string>
           </Values>
         </NameGroup>

@@ -1058,6 +1058,12 @@
             <string>Nova Samarkand</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - Commonwealth of Man</Name>
+          <Values>
+            <string>Evonium</string>
+          </Values>
+        </NameGroup>
       </Tundra>
       <Arctic>
         <NameGroup>

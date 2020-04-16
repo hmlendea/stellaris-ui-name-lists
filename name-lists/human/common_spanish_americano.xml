@@ -113,6 +113,17 @@
         </Throwables>
       </Weapons>
     </Warfare>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals</Name>
+          <Values>
+            <string>Iguana</string>
+            <string>Ocelot</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
     <Planets>
       <Gaia>
         <NameGroup>
