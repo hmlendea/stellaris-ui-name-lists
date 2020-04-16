@@ -89,7 +89,7 @@ build "ui_extra_humans_austronesian"    "Human - Austronesian"      "L" \
     human/filipino human/hawaiian human/indonesian human/kiribatian human/malaysian human/maori human/polynesian human/austronesian
 build "ui_extra_humans_british"         "Human - British"           "L" \
     human/english human/scottish human/welsh human/common_british human/common_english
-build "ui_extra_humans_celtic"          "Human - Celtic"            "L" human/irish human/scottish human/welsh human/celtic
+build "ui_extra_humans_celtic"          "Human - Celtic"            "L" human/icenic human/irish human/scottish human/welsh human/celtic
 build "ui_extra_humans_chinese"         "Human - Chinese"           "L" human/chinese human/taiwanese human/common_asian
 build "ui_extra_humans_english"         "Human - English"           "L" \
     human/american human/australian human/canadian human/english human/zealandian human/common_british human/common_english
@@ -136,7 +136,7 @@ build "ui_extra_humans_extended"        "Human - Extended"          "L" \
     human/cypriote human/czech human/danish human/dutch human/ecuadorian human/english \
     human/estonian human/ethiopian human/filipino human/french human/german human/germanic \
     human/greek human/greenlandic human/guatemalan human/hawaiian human/hebrew human/hindi \
-    human/hungarian human/icelandic human/indian human/indonesian human/italian human/irish \
+    human/hungarian human/icelandic human/icenic human/indian human/indonesian human/italian human/irish \
     human/japanese human/kiribatian human/korean human/latvian human/lithuanian human/malaysian \
     human/maori human/mauritanian human/mexican human/mongol human/nepali human/nigerian \
     human/norwegian human/pakistani human/persian human/polynesian human/portuguese \
