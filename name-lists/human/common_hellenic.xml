@@ -408,6 +408,15 @@
             </Values>
           </NameGroup>
         </Crossbows>
+        <Throwables>
+          <NameGroup>
+            <Name>Throwables</Name>
+            <Values>
+              <string>Kestros</string>
+              <string>Mesangylon</string>
+            </Values>
+          </NameGroup>
+        </Throwables>
         <Swords>
           <NameGroup>
             <Name>Swords</Name>

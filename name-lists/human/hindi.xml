@@ -225,6 +225,14 @@
     </GreatPeople>
     <Warfare>
       <Weapons>
+        <Throwables>
+          <NameGroup>
+            <Name>Throwables</Name>
+            <Values>
+              <string>Chakram</string>
+            </Values>
+          </NameGroup>
+        </Throwables>
         <Swords>
           <NameGroup>
             <Name>Swords</Name>

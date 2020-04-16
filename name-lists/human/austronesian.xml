@@ -23,6 +23,18 @@
         </NameGroup>
       </Cities>
     </Places>
+    <Warfare>
+      <Weapons>
+        <Throwables>
+          <NameGroup>
+            <Name>Throwables - Australian</Name>
+            <Values>
+              <string>Woomera</string>
+            </Values>
+          </NameGroup>
+        </Throwables>
+      </Weapons>
+    </Warfare>
     <Planets>
       <Generic>
         <NameGroup>

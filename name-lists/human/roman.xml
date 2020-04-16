@@ -662,24 +662,17 @@
             </Values>
           </NameGroup>
         </Artillery>
-        <Bows>
+        <Throwables>
           <NameGroup>
-            <Name>Bows</Name>
-            <Values>
-              <string>Plumbata</string>
-            </Values>
-          </NameGroup>
-        </Bows>
-        <Javelins>
-          <NameGroup>
-            <Name>Javelins</Name>
+            <Name>Throwables</Name>
             <Values>
               <string>Lancea</string>
               <string>Pilum</string>
+              <string>Plumbata</string>
               <string>Verutum</string>
             </Values>
           </NameGroup>
-        </Javelins>
+        </Throwables>
         <Swords>
           <NameGroup>
             <Name>Swords</Name>

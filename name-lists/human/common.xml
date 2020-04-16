@@ -73,14 +73,14 @@
             </Values>
           </NameGroup>
         </Bows>
-        <Javelins>
+        <Throwables>
           <NameGroup>
-            <Name>Javelins</Name>
+            <Name>Throwables</Name>
             <Values>
               <string>Javelin</string>
             </Values>
           </NameGroup>
-        </Javelins>
+        </Throwables>
         <Swords>
           <NameGroup>
             <Name>Swords</Name>

@@ -263,6 +263,14 @@
     </GreatPeople>
     <Warfare>
       <Weapons>
+        <Throwables>
+          <NameGroup>
+            <Name>Throwables - Azande</Name>
+            <Values>
+              <string>Kpinga</string>
+            </Values>
+          </NameGroup>
+        </Throwables>
         <Swords>
           <NameGroup>
             <Name>Swords - Kabyle</Name>
