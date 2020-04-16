@@ -81,7 +81,7 @@ function generate-mod-descriptor {
 }
 
 build "ui_extra_humans_african"         "Human - African"           "L" \
-    human/algerian human/congolese human/ethiopian human/mauritanian human/nigerian human/somali human/tunisian human/zambian human/african
+    human/algerian human/angolan human/congolese human/ethiopian human/mauritanian human/nigerian human/somali human/tunisian human/zambian human/african
 build "ui_extra_humans_arabic"          "Human - Arabic"            "L" human/arabic
 build "ui_extra_humans_asian"           "Human - Asian"             "L" \
     human/chinese human/japanese human/korean human/mongol human/taiwanese human/tibetan human/vietnamese human/common_asian
@@ -127,7 +127,7 @@ build "ui_extra_humans_turkic"          "Human - Turkic"            "L" human/tu
 build "ui_extra_humans_yugoslavic"      "Human - Yugoslavic"        "L" \
     human/bosnian human/croatian human/serbian human/slovenian human/common_slavic_yugoslavic human/common_slavic
 build "ui_extra_humans_extended"        "Human - Extended"          "L" \
-    human/afghan human/african human/algerian human/american human/arabic human/argentinian \
+    human/afghan human/african human/algerian human/american human/angolan human/arabic human/argentinian \
     human/armenian human/australian human/austrian human/austronesian human/belarusian \
     human/bosnian human/basque human/brazilian human/bulgarian human/canadian human/catalan \
     human/celtic human/chinese human/colombian human/congolese human/croatian human/cuban \

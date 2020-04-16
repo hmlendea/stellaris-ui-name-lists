@@ -26,7 +26,6 @@
         <NameGroup>
           <Name>Countries</Name>
           <Values>
-            <string>Angola</string>
             <string>Burkina Faso</string>
             <string>Chad</string>
             <string>Djibouti</string>
@@ -63,29 +62,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions - Angola</Name>
-          <Values>
-            <string>Bengo</string>
-            <string>Benguela</string>
-            <string>Bié</string>
-            <string>Cabinda</string>
-            <string>Cuando Cubango</string>
-            <string>Cuanza Norte</string>
-            <string>Cuanza Sul</string>
-            <string>Cunene</string>
-            <string>Huambo</string>
-            <string>Huíla</string>
-            <string>Luanda</string>
-            <string>Lunda Norte</string>
-            <string>Lunda Sul</string>
-            <string>Malanje</string>
-            <string>Moxico</string>
-            <string>Namibe</string>
-            <string>Uíge</string>
-            <string>Zaire</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Regions - Senegal</Name>
           <Values>
             <string>Dakar</string>
@@ -106,21 +82,6 @@
         </NameGroup>
       </Regions>
       <Cities>
-        <NameGroup>
-          <Name>Cities - Angola</Name>
-          <Values>
-            <string>Benguela</string>
-            <string>Huambo</string>
-            <string>Kuito</string>
-            <string>Lobito</string>
-            <string>Luanda</string>
-            <string>Lubango</string>
-            <string>Lucapa</string>
-            <string>Malanje</string>
-            <string>Moçâmedes</string>
-            <string>Soyo</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - Chad</Name>
           <Values>
