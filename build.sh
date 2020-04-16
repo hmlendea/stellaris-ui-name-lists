@@ -102,7 +102,7 @@ build "ui_extra_humans_germanic"        "Human - Germanic"          "L" \
     human/swiss human/germanic human/common_german human/common_norse
 build "ui_extra_humans_hellenic"        "Human - Hellenic"          "L" human/cypriote human/greek human/common_hellenic
 build "ui_extra_humans_hindi"           "Human - Hindi"             "L" \
-    human/indian human/nepali human/pakistani human/hindi
+    human/indian human/nepali human/pakistani human/tamil human/hindi
 build "ui_extra_humans_iberian"         "Human - Iberian"           "L" \
     human/basque human/catalan human/portuguese human/spanish human/common_iberian human/common_portuguese human/common_spanish
 build "ui_extra_humans_italian"         "Human - Italian"           "L" human/italian
@@ -141,7 +141,7 @@ build "ui_extra_humans_extended"        "Human - Extended"          "L" \
     human/maori human/mauritanian human/mexican human/mongol human/nepali human/nigerian \
     human/norwegian human/pakistani human/persian human/polynesian human/portuguese \
     human/roman human/romanian human/russian human/scottish human/serbian human/slovakian \
-    human/slovenian human/somali human/spanish human/swedish human/swiss human/taiwanese \
+    human/slovenian human/somali human/spanish human/swedish human/swiss human/taiwanese human/tamil \
     human/tibetan human/tunisian human/turkish human/turkmen human/ukrainian human/venezuelan \
     human/vietnamese human/welsh human/zambian human/zealandian \
     \
