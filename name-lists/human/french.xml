@@ -234,6 +234,14 @@
             </Values>
           </NameGroup>
         </Crossbows>
+        <Daggers>
+          <NameGroup>
+            <Name>Daggers</Name>
+            <Values>
+              <string>Poignard</string>
+            </Values>
+          </NameGroup>
+        </Daggers>
         <Polearms>
           <NameGroup>
             <Name>Polearms</Name>
