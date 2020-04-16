@@ -149,12 +149,15 @@
           <Name>Scientists</Name>
           <Values>
             <string>Boas</string>
+            <string>Born</string>
             <string>Copernicus</string>
             <string>Einstein</string>
             <string>Haeckel</string>
             <string>Heisenberg</string>
+            <string>Herschel</string>
             <string>Kepler</string>
             <string>Konrad Zuse</string>
+            <string>Liebig</string>
             <string>Mendel</string>
             <string>Möbius</string>
             <string>Planck</string>

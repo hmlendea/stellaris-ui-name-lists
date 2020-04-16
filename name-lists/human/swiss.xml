@@ -56,6 +56,14 @@
       </Lakes>
     </Places>
     <GreatPeople>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists</Name>
+          <Values>
+            <string>Euler</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
       <Heroes>
         <NameGroup>
           <Name>Heroes</Name>

@@ -177,6 +177,7 @@
           <Name>Scientists</Name>
           <Values>
             <string>Dulbecco</string>
+            <string>Fermi</string>
             <string>Galilei</string>
             <string>Galileo</string>
             <string>Lagrange</string>

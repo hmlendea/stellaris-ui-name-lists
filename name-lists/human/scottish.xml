@@ -44,6 +44,7 @@
         <NameGroup>
           <Name>Scientists</Name>
           <Values>
+            <string>Lyell</string>
             <string>Maxwell</string>
           </Values>
         </NameGroup>
