@@ -114,7 +114,11 @@
           <Name>Scientists</Name>
           <Values>
             <string>Becquerel</string>
+            <string>Bernard</string>
+            <string>Buffon</string>
+            <string>Curie</string>
             <string>Descartes</string>
+            <string>Pasteur</string>
           </Values>
         </NameGroup>
       </Scientists>

@@ -31,5 +31,15 @@
         </NameGroup>
       </Cities>
     </Places>
+    <GreatPeople>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists</Name>
+          <Values>
+            <string>Rutherford</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+    </GreatPeople>
   </NameList>
 </ArrayOfNameList>

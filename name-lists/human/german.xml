@@ -148,6 +148,7 @@
         <NameGroup>
           <Name>Scientists</Name>
           <Values>
+            <string>Boas</string>
             <string>Copernicus</string>
             <string>Einstein</string>
             <string>Haeckel</string>
@@ -158,6 +159,7 @@
             <string>Möbius</string>
             <string>Planck</string>
             <string>Schimper</string>
+            <string>Virchow</string>
             <string>Von Braun</string>
           </Values>
         </NameGroup>

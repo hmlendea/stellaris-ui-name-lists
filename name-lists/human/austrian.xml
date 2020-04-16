@@ -103,6 +103,7 @@
         <NameGroup>
           <Name>Scientists</Name>
           <Values>
+            <string>Freud</string>
             <string>Zsigmondy</string>
           </Values>
         </NameGroup>

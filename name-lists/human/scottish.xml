@@ -40,6 +40,14 @@
       </Lakes>
     </Places>
     <GreatPeople>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists</Name>
+          <Values>
+            <string>Maxwell</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
       <LeadersTier1>
         <NameGroup>
           <Name>Leaders</Name>
