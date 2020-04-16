@@ -113,6 +113,8 @@ build "ui_extra_humans_latino"          "Human - Latino"            "L" \
 build "ui_extra_humans_norse"           "Human - Norse"             "L" \
     human/danish human/icelandic human/norwegian human/swedish human/common_norse
 build "ui_extra_humans_portuguese"      "Human - Portuguese EU"     "L" human/portuguese human/common_iberian human/common_portuguese
+build "ui_extra_humans_portuguese_int"  "Human - Portuguese INT"    "L" \
+    human/angolan human/brazilian human/portuguese human/common_iberian human/common_portuguese
 build "ui_extra_humans_romanian"        "Human - Romanian"          "L" human/romanian
 build "ui_extra_humans_romance"         "Human - Romance"           "L" \
     human/argentinian human/brazilian human/catalan human/colombian human/cuban human/ecuadorian human/french human/guatemalan \
