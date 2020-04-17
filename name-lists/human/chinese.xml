@@ -397,7 +397,7 @@
     <Characters>
       <CharacterNames>
         <Id>chinese</Id>
-        <Weight>22</Weight>
+        <Weight>23</Weight>
         <MaleFirstNames>
           <NameGroup>
             <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/chi-persons-male.txt</Url>
