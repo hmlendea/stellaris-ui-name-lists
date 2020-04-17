@@ -297,6 +297,14 @@
           </Values>
         </NameGroup>
       </Gaia>
+      <Ocean>
+        <NameGroup>
+          <Name>Places</Name>
+          <Values>
+            <string>Venetia</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
     </Planets>
     <Characters>
       <CharacterNames>

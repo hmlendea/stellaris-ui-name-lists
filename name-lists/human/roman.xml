@@ -977,9 +977,15 @@
       </Arid>
       <Desert>
         <NameGroup>
-          <Name>Stellaris - SPQR</Name>
+          <Name>Places</Name>
           <Values>
-            <string>Nova Arabia</string>
+            <string>Aegyptus Novus</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - Commonwealth of Man</Name>
+          <Values>
+            <string>Nova Alexandria</string>
           </Values>
         </NameGroup>
         <NameGroup>

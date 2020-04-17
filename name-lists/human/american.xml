@@ -443,6 +443,15 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Arid>
+        <NameGroup>
+          <Name>Places</Name>
+          <Values>
+            <string>Nevada</string>
+            <string>New Vegas</string>
+          </Values>
+        </NameGroup>
+      </Arid>
       <Arctic>
         <NameGroup>
           <Name>Stellaris - United Nations of Earth</Name>
