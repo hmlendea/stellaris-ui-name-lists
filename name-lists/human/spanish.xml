@@ -125,5 +125,15 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
+    <Planets>
+      <Arid>
+        <NameGroup>
+          <Name>Places</Name>
+          <Values>
+            <string>Nuevo Madrid</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+    </Planets>
   </NameList>
 </ArrayOfNameList>

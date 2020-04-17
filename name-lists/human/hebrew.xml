@@ -109,12 +109,14 @@
             <string>Immanuel</string>
           </Values>
         </NameGroup>
+      </Generic>
+    </Planets>
+      <Arid>
         <NameGroup>
           <Name>Stellaris - United Nations of Earth</Name>
           <Values>
             <string>New Jerusalem</string>
           </Values>
         </NameGroup>
-      </Generic>
-    </Planets>
+      </Arid>
 </ArrayOfNameList>
