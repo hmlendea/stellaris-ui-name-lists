@@ -35,10 +35,8 @@
             <string>Kenya</string>
             <string>Liberia</string>
             <string>Madagascar</string>
-            <string>Mali</string>
             <string>Mozambique</string>
             <string>Namibia</string>
-            <string>Senegal</string>
             <string>Sierra Leone</string>
             <string>South Africa</string>
             <string>Sudan</string>
@@ -59,25 +57,6 @@
           <Name>Regions - Africa</Name>
           <Values>
             <string>Sahara</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Regions - Senegal</Name>
-          <Values>
-            <string>Dakar</string>
-            <string>Diourbel</string>
-            <string>Fatick</string>
-            <string>Kaffrine</string>
-            <string>Kaolack</string>
-            <string>Kédougou</string>
-            <string>Kolda</string>
-            <string>Louga</string>
-            <string>Matam</string>
-            <string>Saint-Louis</string>
-            <string>Sédhiou</string>
-            <string>Tambacounda</string>
-            <string>Thiès</string>
-            <string>Ziguinchor</string>
           </Values>
         </NameGroup>
       </Regions>
@@ -132,12 +111,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Mali</Name>
-          <Values>
-            <string>Bamako</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Mozambique</Name>
           <Values>
             <string>Maputo</string>
@@ -147,25 +120,6 @@
           <Name>Cities - Namibia</Name>
           <Values>
             <string>Windhoek</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Senegal</Name>
-          <Values>
-            <string>Dakar</string>
-            <string>Diourbel</string>
-            <string>Fatick</string>
-            <string>Kaffrine</string>
-            <string>Kaolack</string>
-            <string>Kédougou</string>
-            <string>Kolda</string>
-            <string>Louga</string>
-            <string>Matam</string>
-            <string>Saint-Louis</string>
-            <string>Sédhiou</string>
-            <string>Tambacounda</string>
-            <string>Thiès</string>
-            <string>Ziguinchor</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -236,14 +190,6 @@
           </Values>
         </NameGroup>
       </LeadersTier1>
-      <LeadersTier2>
-        <NameGroup>
-          <Name>Leaders - Mali</Name>
-          <Values>
-            <string>Mansa Musa</string>
-          </Values>
-        </NameGroup>
-      </LeadersTier2>
       <Heroes>
         <NameGroup>
           <Name>Heroes - Mossi</Name>
@@ -287,14 +233,6 @@
         </Swords>
       </Weapons>
       <MilitaryUnitTypes>
-        <NameGroup>
-          <Name>Military unit types - Mali</Name>
-          <Values>
-            <string>Gbeto</string>
-            <string>Mandekalu</string>
-            <string>Omoro</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Military unit types - Swahili</Name>
           <Values>
