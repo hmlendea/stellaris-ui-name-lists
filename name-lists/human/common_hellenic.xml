@@ -58,9 +58,11 @@
         <NameGroup>
           <Name>Scientists</Name>
           <Values>
+            <string>Agathemerus</string>
             <string>Archimedes</string>
             <string>Callippus</string>
             <string>Isidore</string>
+            <string>Posidonius</string>
             <string>Ptolemy</string>
             <string>Pytheas</string>
           </Values>
@@ -496,6 +498,7 @@
             <string>Manticore</string>
             <string>Medusa</string>
             <string>Minotaur</string>
+            <string>Naiad</string>
             <string>Pegasus</string>
             <string>Phoenix</string>
             <string>Satyr</string>
@@ -505,6 +508,14 @@
       </MythologicalCreatures>
     </BiosphereNames>
     <Ships>
+      <Destroyers>
+        <NameGroup>
+          <Name>Ships - Mythological</Name>
+          <Values>
+            <string>Argo</string>
+          </Values>
+        </NameGroup>
+      </Destroyers>
       <Battleship>
         <NameGroup>
           <Name>Persons - Mythological Heroes</Name>

@@ -309,6 +309,14 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Continental>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+            <string>Dacia</string>
+          </Values>
+        </NameGroup>
+      </Continental>
       <Arid>
         <NameGroup>
           <Name>Stellaris - United Nations of Earth</Name>

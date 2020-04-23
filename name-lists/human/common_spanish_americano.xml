@@ -124,6 +124,16 @@
         </NameGroup>
       </Animals>
     </BiosphereNames>
+    <Ships>
+      <Coloniser>
+        <NameGroup>
+          <Name>Mythology - Places</Name>
+          <Values>
+            <string>El Dorado</string>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+    </Ships>
     <Planets>
       <Gaia>
         <NameGroup>

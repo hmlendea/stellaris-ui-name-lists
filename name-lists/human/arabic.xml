@@ -186,6 +186,14 @@
           </Values>
         </NameGroup>
       </Mountains>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers - Iraq</Name>
+          <Values>
+            <string>Tigris</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
     </Places>
     <GreatPeople>
       <Scientists>
@@ -290,6 +298,16 @@
         </NameGroup>
       </ShipTypes>
     </Warfare>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals</Name>
+          <Values>
+            <string>Camel</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
     <Planets>
       <Generic>
         <NameGroup>
