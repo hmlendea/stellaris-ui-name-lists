@@ -34,7 +34,6 @@
             <string>Campania</string>
             <string>Emilia-Romagna</string>
             <string>Friuli</string>
-            <string>Venezia</string>
             <string>Lazio</string>
             <string>Liguria</string>
             <string>Lombardy</string>
@@ -42,12 +41,13 @@
             <string>Molise</string>
             <string>Piedmont</string>
             <string>Sardinia</string>
-            <string>Sicilia</string>
-            <string>Trentino</string>
+            <string>Sicily</string>
             <string>South Tyrol</string>
+            <string>Trentino</string>
             <string>Tuscany</string>
             <string>Umbria</string>
             <string>Veneto</string>
+            <string>Venezia</string>
           </Values>
         </NameGroup>
         <NameGroup>

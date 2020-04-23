@@ -24,7 +24,16 @@
         <NameGroup>
           <Name>Cities</Name>
           <Values>
+            <string>Chinsali</string>
+            <string>Chipatra</string>
+            <string>Choma</string>
+            <string>Kabwe</string>
+            <string>Kasama</string>
             <string>Lusaka</string>
+            <string>Mansa</string>
+            <string>Mongu</string>
+            <string>Ndola</string>
+            <string>Solwezi</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -36,6 +45,21 @@
           </Values>
         </NameGroup>
       </Rivers>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Bangweulu</string>
+            <string>Ishiba Ng'andu</string>
+            <string>Kariba</string>
+            <string>Kashiba</string>
+            <string>Mofwe</string>
+            <string>Mweru Wantipa</string>
+            <string>Mweru</string>
+            <string>Tanganyika</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
   </NameList>
 </ArrayOfNameList>
