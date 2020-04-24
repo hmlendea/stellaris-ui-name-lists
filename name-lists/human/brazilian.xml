@@ -85,6 +85,7 @@
         <NameGroup>
           <Name>Military unit types</Name>
           <Values>
+            <string>Fuzileiro</string>
             <string>Pracinha</string>
           </Values>
         </NameGroup>
