@@ -59,5 +59,16 @@
         </NameGroup>
       </MythologicalCreatures>
     </BiosphereNames>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Dishonored - Empire of the Isles</Name>
+          <Values>
+            <string>Fraeport</string>
+            <string>Wynnedown</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
   </NameList>
 </ArrayOfNameList>

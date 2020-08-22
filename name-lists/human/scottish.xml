@@ -88,6 +88,13 @@
             <string>Sìorraidh</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Dishonored - Empire of the Isles</Name>
+          <Values>
+            <string>Alba</string>
+            <string>Arran</string>
+          </Values>
+        </NameGroup>
       </Generic>
     </Planets>
   </NameList>

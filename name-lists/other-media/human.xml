@@ -192,6 +192,17 @@
     <Planets>
       <Generic>
         <NameGroup>
+          <Name>Dishonored - Empire of the Isles</Name>
+          <Values>
+            <string>Bastillian</string>
+            <string>Caltan</string>
+            <string>Meya</string>
+            <string>Pradym</string>
+            <string>Tamarak</string>
+            <string>Yaro</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Planets - Galactik Football</Name>
           <Values>
             <string>Escaron</string>

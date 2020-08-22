@@ -311,6 +311,12 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Dishonored - Empire of the Isles</Name>
+          <Values>
+            <string>Wei-Ghon</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Pandora: First Contact - Solar Dynasty</Name>
           <Values>
             <string>Han Xin</string>
