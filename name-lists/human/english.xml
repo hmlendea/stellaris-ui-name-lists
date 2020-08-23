@@ -191,6 +191,13 @@
             <string>Rothamsted</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>New Jamestown</string>
+            <string>New Roanoke</string>
+          </Values>
+        </NameGroup>
       </Generic>
       <Continental>
         <NameGroup>

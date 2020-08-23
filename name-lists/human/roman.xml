@@ -769,6 +769,12 @@
             <string>Hercules</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - Commonwealth of Man</Name>
+          <Values>
+            <string>Imperator</string>
+          </Values>
+        </NameGroup>
       </Titan>
       <Colossus>
         <NameGroup>
@@ -963,6 +969,12 @@
             <string>Telepylos</string>
             <string>Thrinacia</string>
             <string>Tritonis</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>Delgovicia</string>
           </Values>
         </NameGroup>
       </Generic>

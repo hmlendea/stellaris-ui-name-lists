@@ -135,6 +135,14 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Desert>
+        <NameGroup>
+          <Name>Places</Name>
+          <Values>
+            <string>Persia</string>
+          </Values>
+        </NameGroup>
+      </Desert>
     </Planets>
   </NameList>
 </ArrayOfNameList>

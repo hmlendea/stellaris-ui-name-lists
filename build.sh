@@ -152,7 +152,7 @@ build "ui_extra_humans_extended"        "Human - Extended"          "L" \
     \
     starcraft/human starwars/human galciv/human sose/human runescape/human other-media/human \
     \
-    human/human1 human/human2 human/human3 human/zextended
+    human/human1 human/human2 human/human3 ui/human_extra human/zextended
 
 build "ui_dnd_kobold" "D&D - Kobold" "L" dnd/kobold
 
