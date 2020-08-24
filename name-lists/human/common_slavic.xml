@@ -39,6 +39,13 @@
             <string>Tekleno</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Witcher</Name>
+          <Values>
+            <string>Dravograd</string>
+            <string>Novigrad</string>
+          </Values>
+        </NameGroup>
       </Generic>
     </Planets>
   </NameList>
