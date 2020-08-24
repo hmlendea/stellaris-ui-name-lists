@@ -17,7 +17,6 @@
           <string>Yoruba</string>
           <string>Zimbabwean</string>
           <string>Zimbo</string>
-          <string>Zulu</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -176,20 +175,6 @@
       </Rivers>
     </Places>
     <GreatPeople>
-      <LeadersTier1>
-        <NameGroup>
-          <Name>Leaders - Swahili</Name>
-          <Values>
-            <string>al-Hasan ibn Sulaiman</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Leaders - Zulu</Name>
-          <Values>
-            <string>Shaka Zulu</string>
-          </Values>
-        </NameGroup>
-      </LeadersTier1>
       <Heroes>
         <NameGroup>
           <Name>Heroes - Mossi</Name>
@@ -199,6 +184,12 @@
         </NameGroup>
       </Heroes>
       <LabourDeities>
+        <NameGroup>
+          <Name>Deities - Igbo</Name>
+          <Values>
+            <string>Ikenga</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Deities - Yoruba</Name>
           <Values>
@@ -232,20 +223,6 @@
           </NameGroup>
         </Swords>
       </Weapons>
-      <MilitaryUnitTypes>
-        <NameGroup>
-          <Name>Military unit types - Swahili</Name>
-          <Values>
-            <string>Jahazi</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Military unit types - Zulu</Name>
-          <Values>
-            <string>Impi</string>
-          </Values>
-        </NameGroup>
-      </MilitaryUnitTypes>
     </Warfare>
     <BiosphereNames>
       <Animals>
@@ -260,16 +237,6 @@
         </NameGroup>
       </Animals>
     </BiosphereNames>
-    <Ships>
-      <Constructor>
-        <NameGroup>
-          <Name>Mythology - Spirits - Irish</Name>
-          <Values>
-            <string>Ikenga</string>
-          </Values>
-        </NameGroup>
-      </Constructor>
-    </Ships>
     <Planets>
       <Generic>
         <NameGroup>
@@ -285,15 +252,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - People's African Union - Swahili</Name>
-          <Values>
-            <string>Hoodo</string>
-            <string>Jenali</string>
-            <string>Libaan</string>
-            <string>Roonaan</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Civilisation: Beyond Earth - People's African Union - Tswana</Name>
           <Values>
             <string>Masego</string>
@@ -304,15 +262,6 @@
           <Name>Civilisation: Beyond Earth - People's African Union - Xhosa</Name>
           <Values>
             <string>Sizwe</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - People's African Union - Zulu</Name>
-          <Values>
-            <string>Bongani</string>
-            <string>Jabulile</string>
-            <string>Mzoxolo</string>
-            <string>Thula</string>
           </Values>
         </NameGroup>
         <NameGroup>

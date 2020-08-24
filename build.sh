@@ -82,7 +82,7 @@ function generate-mod-descriptor {
 
 build "ui_extra_humans_african"         "Human - African"           "L" \
     human/algerian human/angolan human/congolese human/ethiopian human/malian human/mauritanian \
-    human/nigerian human/senegalese human/somali human/tunisian human/zambian human/african
+    human/nigerian human/senegalese human/somali human/swahili human/tunisian human/zambian human/zulu human/african
 build "ui_extra_humans_arabic"          "Human - Arabic"            "L" human/arabic
 build "ui_extra_humans_asian"           "Human - Asian"             "L" \
     human/chinese human/japanese human/korean human/mongol human/taiwanese human/tibetan human/vietnamese human/common_asian
@@ -142,9 +142,9 @@ build "ui_extra_humans_extended"        "Human - Extended"          "L" \
     human/maori human/mauritanian human/mexican human/mongol human/nepali human/nigerian \
     human/norwegian human/pakistani human/persian human/polish human/polynesian human/portuguese \
     human/roman human/romanian human/russian human/scottish human/senegalese human/serbian human/slovakian \
-    human/slovenian human/somali human/spanish human/swedish human/swiss human/taiwanese human/tamil \
+    human/slovenian human/somali human/spanish human/swahili human/swedish human/swiss human/taiwanese human/tamil \
     human/tibetan human/tunisian human/turkish human/turkmen human/ukrainian human/venezuelan \
-    human/vietnamese human/welsh human/zambian human/zealandian \
+    human/vietnamese human/welsh human/zambian human/zealandian human/zulu \
     \
     human/common_asian human/common_british human/common_english human/common_german human/common_hellenic \
     human/common_iberian human/common_norse human/common_portuguese human/common_slavic_yugoslavic human/common_slavic \

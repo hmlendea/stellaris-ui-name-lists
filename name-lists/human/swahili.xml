@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_swahili</Id>
+    <Name>Human - Swahili</Name>
+    <GreatPeople>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>al-Hasan ibn Sulaiman</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+    </GreatPeople>
+    <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types</Name>
+          <Values>
+            <string>Jahazi</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - People's African Union</Name>
+          <Values>
+            <string>Hoodo</string>
+            <string>Jenali</string>
+            <string>Libaan</string>
+            <string>Roonaan</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
