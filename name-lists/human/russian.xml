@@ -429,6 +429,10 @@
     <Planets>
       <Generic>
         <NameGroup>
+          <Name>Age of Wonders: Planetfall - Dvar</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-cities.txt</Url>
+        </NameGroup>
+        <NameGroup>
           <Name>Dishonored - Empire of the Isles</Name>
           <Values>
             <string>Alexin</string>

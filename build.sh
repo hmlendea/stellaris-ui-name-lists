@@ -154,6 +154,9 @@ build "ui_extra_humans_extended"        "Human - Extended"          "L" \
     \
     human/human1 human/human2 human/human3 ui/human_extra human/zextended
 
+build "ui_aowp_dvar"  "AoW:P - Dvar" "L"    aowp/dvar
+build "ui_aowp_kirko" "AoW:P - Kir'Ko" "L"  aowp/kirko
+
 build "ui_dnd_kobold" "D&D - Kobold" "L" dnd/kobold
 
 build "ui_elderscrolls_altmer"      "ElderScrolls - Altmer"     "R" elderscrolls/altmer

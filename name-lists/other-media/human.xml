@@ -192,6 +192,10 @@
     <Planets>
       <Generic>
         <NameGroup>
+          <Name>Age of Wonders: Planetfall - Vanguard</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-vanguard-cities.txt</Url>
+        </NameGroup>
+        <NameGroup>
           <Name>Dishonored - Empire of the Isles</Name>
           <Values>
             <string>Bastillian</string>
