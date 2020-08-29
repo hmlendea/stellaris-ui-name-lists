@@ -3,6 +3,14 @@
   <NameList>
     <Id>ui_aowp_kirko</Id>
     <Name>AoW:P - Kir'Ko</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Kir'Ko</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
     <Ships>
       <Generic>
         <NameGroup>
@@ -30,6 +38,7 @@
     <Planets>
       <Generic>
         <NameGroup>
+          <Name>Age of Wonders: Planetfall - Cities</Name>
           <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-kirko-cities.txt</Url>
         </NameGroup>
       </Generic>

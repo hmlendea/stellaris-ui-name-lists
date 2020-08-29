@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_aow3_goblin</Id>
+    <Name>AoW3 - Goblin</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Goblin</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Warfare>
+      <Forts>
+        <NameGroup>
+          <Name>Age of Wonders 3 - Fortresses</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow3-goblin-fortresses.txt</Url>
+        </NameGroup>
+      </Forts>
+    </Warfare>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Age of Wonders 3 - Cities</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow3-goblin-cities.txt</Url>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
