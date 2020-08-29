@@ -1130,7 +1130,7 @@
     </Planets>
     <Characters>
       <CharacterNames>
-        <Id>single-word</Id>
+        <Id>elderscrolls-argonian-single-word</Id>
         <Weight>66</Weight>
         <MaleFullNames>
           <NameGroup>
@@ -1144,7 +1144,7 @@
         </FemaleFullNames>
       </CharacterNames>
       <CharacterNames>
-        <Id>hyphenated</Id>
+        <Id>elderscrolls-argonian-hyphenated</Id>
         <Weight>33</Weight>
         <MaleFullNames>
           <NameGroup>

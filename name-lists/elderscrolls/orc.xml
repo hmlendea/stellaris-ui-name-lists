@@ -331,27 +331,21 @@
     </Planets>
     <Characters>
       <CharacterNames>
-        <Id>orcish</Id>
+        <Id>elderscrolls-orc</Id>
         <Weight>100</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-orc-persons-male.txt</Url>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-orc-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-orc-persons-male.txt</Url>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-orc-persons-male.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-orc-persons-male.txt</Url>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-orc-persons-male.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>
