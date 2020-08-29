@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_elderscrolls_goblin</Id>
+    <Name>ElderScrolls - Goblin</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Goblin</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Characters>
+      <CharacterNames>
+        <Id>elderscrolls_goblin</Id>
+        <Weight>100</Weight>
+        <MaleFullNames>
+          <NameGroup>
+            <Values>
+              <string>Byz</string>
+              <string>Dakenibomaz</string>
+              <string>Demog</string>
+              <string>Durgoc</string>
+              <string>Dzeizik</string>
+              <string>Gnaw-Bone</string>
+              <string>Gogh</string>
+              <string>Golthog</string>
+              <string>Gornog</string>
+              <string>Gozzak</string>
+              <string>Grimmstal</string>
+              <string>Grutbug</string>
+              <string>Ivgrizt</string>
+              <string>Kerks</string>
+              <string>Koth</string>
+              <string>Kurog</string>
+              <string>Mar-Zak</string>
+              <string>Mebs</string>
+              <string>Nokhailaedhaz</string>
+              <string>Rork</string>
+              <string>Sharp-Eye</string>
+              <string>Tazkad</string>
+              <string>Thek</string>
+              <string>Tirasch</string>
+              <string>Togga</string>
+              <string>Torak</string>
+              <string>Zich</string>
+            </Values>
+          </NameGroup>
+        </MaleFullNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

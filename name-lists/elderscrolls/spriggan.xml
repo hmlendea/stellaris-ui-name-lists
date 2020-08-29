@@ -3,6 +3,14 @@
   <NameList>
     <Id>ui_elderscrolls_spriggan</Id>
     <Name>ElderScrolls - Spriggan</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Spriggan</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
     <Ships>
       <Generic>
         <NameGroup>
