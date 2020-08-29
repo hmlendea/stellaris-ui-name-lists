@@ -13,27 +13,7 @@
       </NameGroup>
       <NameGroup>
         <Name>Denonyms - Clans</Name>
-        <Values>
-          <string>Bragosh</string>
-          <string>Enclave</string>
-          <string>Fharun</string>
-          <string>Luccin</string>
-          <string>Morkul</string>
-          <string>Murtag</string>
-          <string>Pandrum</string>
-          <string>Ruskahr</string>
-          <string>Shatul</string>
-          <string>Tumnosh</string>
-        </Values>
-      </NameGroup>
-      <NameGroup>
-        <Name>Denonyms - Clans - Wood Orcs</Name>
-        <Values>
-          <string>Barkbite</string>
-          <string>Darkfen</string>
-          <string>Drublog</string>
-          <string>Lhurgash</string>
-        </Values>
+        <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-orc-clans.txt</Url>
       </NameGroup>
     </Denonyms>
     <Places>
@@ -75,28 +55,16 @@
     <Warfare>
       <Forts>
         <NameGroup>
-          <Name>Strongholds - High Rock</Name>
-          <Values>
-            <string>Fharun</string>
-            <string>Morkul</string>
-            <string>Murtag</string>
-          </Values>
+          <Name>Strongholds</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-orc-strongholds-highrock.txt</Url>
         </NameGroup>
         <NameGroup>
-          <Name>Strongholds - Skyrim</Name>
-          <Values>
-            <string>Dushnikh Yal</string>
-            <string>Largashbur</string>
-            <string>Mor Khazgur</string>
-            <string>Narzulbur</string>
-          </Values>
+          <Name>Strongholds</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-orc-strongholds-skyrim.txt</Url>
         </NameGroup>
         <NameGroup>
-          <Name>Strongholds - Valenwood</Name>
-          <Values>
-            <string>Dra'bul</string>
-            <string>Jathsogur</string>
-          </Values>
+          <Name>Strongholds</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-orc-strongholds-valenwood.txt</Url>
         </NameGroup>
       </Forts>
     </Warfare>
@@ -118,6 +86,18 @@
     </Armies>
     <Planets>
       <Generic>
+        <NameGroup>
+          <Name>Strongholds</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-orc-strongholds-highrock.txt</Url>
+        </NameGroup>
+        <NameGroup>
+          <Name>Strongholds</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-orc-strongholds-skyrim.txt</Url>
+        </NameGroup>
+        <NameGroup>
+          <Name>Strongholds</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-orc-strongholds-valenwood.txt</Url>
+        </NameGroup>
         <NameGroup>
           <Name>Markov-generated based on city, clan, stronghold names</Name>
           <Values>
@@ -328,6 +308,14 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Gaia>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Orsinium</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
     </Planets>
     <Characters>
       <CharacterNames>

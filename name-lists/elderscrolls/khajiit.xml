@@ -51,19 +51,8 @@
       </Regions>
       <Cities>
         <NameGroup>
-          <Name>Cities - Elsweyr</Name>
-          <Values>
-            <string>Alabaster</string>
-            <string>Corinthe</string>
-            <string>Dune</string>
-            <string>Mistral</string>
-            <string>Orcrest</string>
-            <string>Rawl'kha</string>
-            <string>Rimmen</string>
-            <string>Riverhold</string>
-            <string>Senchal</string>
-            <string>Torval</string>
-          </Values>
+          <Name>Cities</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-khajiit-settlements-cities.txt</Url>
         </NameGroup>
       </Cities>
       <Forests>
@@ -277,6 +266,10 @@
     </Armies>
     <Planets>
       <Generic>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-khajiit-settlements-cities.txt</Url>
+        </NameGroup>
         <NameGroup>
           <Name>Markov-generated based on male and female single-word names</Name>
           <Values>

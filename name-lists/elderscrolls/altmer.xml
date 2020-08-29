@@ -31,18 +31,7 @@
       <Regions>
         <NameGroup>
           <Name>Regions - Alinor - Islands</Name>
-          <Values>
-            <string>Artaeum</string>
-            <string>Auridon</string>
-            <string>Buraniim</string>
-            <string>Calluis Lar</string>
-            <string>Dranil Kir</string>
-            <string>Errinorne</string>
-            <string>Eyevea</string>
-            <string>Silatar</string>
-            <string>Summerset</string>
-            <string>Wasten Coridale</string>
-          </Values>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-altmer-islands.txt</Url>
         </NameGroup>
         <NameGroup>
           <Name>Regions - Auridon</Name>
@@ -55,29 +44,12 @@
       </Regions>
       <Cities>
         <NameGroup>
-          <Name>Cities - Alinor - Major</Name>
-          <Values>
-            <string>Alinor</string>
-            <string>Cloudrest</string>
-            <string>Dusk</string>
-            <string>Firsthold</string>
-            <string>Lillandril</string>
-            <string>Shimmerene</string>
-            <string>Skywatch</string>
-            <string>Sunhold</string>
-            <string>Vulkhel</string>
-          </Values>
+          <Name>Cities</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-altmer-settlements-major.txt</Url>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Alinor - Minor</Name>
-          <Values>
-            <string>Corgrad</string>
-            <string>Dawnbreak</string>
-            <string>Mathiisen</string>
-            <string>Phaer</string>
-            <string>Rellenthil</string>
-            <string>Silsailen</string>
-          </Values>
+          <Name>Cities</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-altmer-settlements-minor.txt</Url>
         </NameGroup>
       </Cities>
       <Mountains>
@@ -203,9 +175,7 @@
       <Forts>
         <NameGroup>
           <Name>Forts</Name>
-          <Values>
-            <string>Cey-Tarn</string>
-          </Values>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-altmer-forts.txt</Url>
         </NameGroup>
       </Forts>
     </Warfare>
@@ -1259,16 +1229,12 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Ruins - Auridon</Name>
-          <Values>
-            <string>Ezduiin</string>
-            <string>Quendeluun</string>
-            <string>Tanzelwil</string>
-            <string>Torinaan</string>
-            <string>Bewan</string>
-            <string>Ondil</string>
-            <string>Wansalen</string>
-          </Values>
+          <Name>Cities</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-altmer-settlements-major.txt</Url>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-altmer-settlements-minor.txt</Url>
         </NameGroup>
         <NameGroup>
           <Name>Markov-generated based on ruins, cities, regions, islands, etc</Name>
@@ -1317,6 +1283,12 @@
           </Values>
         </NameGroup>
       </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Ruins</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-altmer-ruins.txt</Url>
+        </NameGroup>
+      </Tomb>
     </Planets>
     <Characters>
       <CharacterNames>

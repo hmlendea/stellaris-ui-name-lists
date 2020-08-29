@@ -11,6 +11,14 @@
         </Values>
       </NameGroup>
     </Denonyms>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-draconian-cities.txt</Url>
+        </NameGroup>
+      </Cities>
+    </Places>
     <Warfare>
       <Forts>
         <NameGroup>

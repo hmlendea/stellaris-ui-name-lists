@@ -51,26 +51,8 @@
       </Regions>
       <Cities>
         <NameGroup>
-          <Name>Cities - Argonia</Name>
-          <Values>
-            <string>Alten Corimont</string>
-            <string>Archon</string>
-            <string>Blackrose</string>
-            <string>Bogmother</string>
-            <string>Gideon</string>
-            <string>Helstrom</string>
-            <string>Lilmoth</string>
-            <string>Soulrest</string>
-            <string>Stillrise</string>
-            <string>Stormhold</string>
-            <string>Thorn</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Argonia - Ruins</Name>
-          <Values>
-            <string>Mazzatun</string>
-          </Values>
+          <Name>Cities</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-argonian-settlements-cities.txt</Url>
         </NameGroup>
       </Cities>
       <Lakes>
@@ -121,6 +103,10 @@
     </Armies>
     <Planets>
       <Generic>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-argonian-settlements-cities.txt</Url>
+        </NameGroup>
         <NameGroup>
           <Name>Markov-generated based on male and female single-word names</Name>
           <Values>
@@ -1127,6 +1113,12 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Tomb>
+        <NameGroup>
+          <Name>Ruins</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-argonian-ruins.txt</Url>
+        </NameGroup>
+      </Tomb>
     </Planets>
     <Characters>
       <CharacterNames>
