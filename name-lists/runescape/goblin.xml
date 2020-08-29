@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_runescape_goblinc</Id>
+    <Name>RuneScape - Goblin</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Goblin</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Denonyms - Clans</Name>
+        <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-goblin-clans.txt</Url>
+      </NameGroup>
+    </Denonyms>
+    <Characters>
+      <CharacterNames>
+        <Id>runescape-goblin</Id>
+        <Weight>100</Weight>
+        <MaleFullNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-goblin-persons-male.txt</Url>
+          </NameGroup>
+        </MaleFullNames>
+        <FemaleFullNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-goblin-persons-female.txt</Url>
+          </NameGroup>
+        </FemaleFullNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

@@ -38,71 +38,39 @@
       <Cities>
         <NameGroup>
           <Name>Cities - RuneScape - Asgarnia</Name>
-          <Values>
-            <string>Burthrope</string>
-            <string>Falador</string>
-            <string>Port Lina</string>
-            <string>Port Sarim</string>
-            <string>Rimmington</string>
-            <string>Taverley</string>
-          </Values>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-asgarnian-settlements.txt</Url>
         </NameGroup>
         <NameGroup>
           <Name>Cities - RuneScape - Kandarin</Name>
-          <Values>
-            <string>Ardougne</string>
-            <string>Catherby</string>
-            <string>Hemenster</string>
-            <string>Port Khazard</string>
-            <string>Witchaven</string>
-            <string>Yanille</string>
-          </Values>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-kandarin-settlements.txt</Url>
         </NameGroup>
         <NameGroup>
           <Name>Cities - RuneScape - Menaphos</Name>
-          <Values>
-            <string>Sophanem</string>
-            <string>Ullek</string>
-            <string>Uzer</string>
-          </Values>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-menaphos-settlements.txt</Url>
         </NameGroup>
         <NameGroup>
           <Name>Cities - RuneScape - Misthalin</Name>
-          <Values>
-            <string>Draynor</string>
-            <string>Edgeville</string>
-            <string>Lumbridge</string>
-            <string>Varrock</string>
-          </Values>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-misthalin-settlements.txt</Url>
         </NameGroup>
       </Cities>
       <Rivers>
         <NameGroup>
           <Name>Rivers - RuneScape - Kandarin</Name>
-          <Values>
-            <string>Dougne</string>
-          </Values>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-kandarin-rivers.txt</Url>
         </NameGroup>
         <NameGroup>
           <Name>Rivers - RuneScape - Kharid</Name>
-          <Values>
-            <string>Elid</string>
-          </Values>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-kharidian-rivers.txt</Url>
         </NameGroup>
         <NameGroup>
           <Name>Rivers - RuneScape - Misthalin</Name>
-          <Values>
-            <string>Lum</string>
-            <string>Salve</string>
-          </Values>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-misthalin-rivers.txt</Url>
         </NameGroup>
       </Rivers>
       <Lakes>
         <NameGroup>
           <Name>Lakes - RuneScape - Asgarnia</Name>
-          <Values>
-            <string>Crystalmere</string>
-          </Values>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-asgarnian-lakes.txt</Url>
         </NameGroup>
       </Lakes>
     </Places>
@@ -217,43 +185,17 @@
         <Weight>1</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Amik</string>
-              <string>Anlaf</string>
-              <string>Harrallak</string>
-              <string>Owen</string>
-              <string>Sanafin</string>
-              <string>Theodore</string>
-              <string>Vallance</string>
-              <string>Vey</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-asgarnian-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Arisha</string>
-              <string>Eva</string>
-              <string>Kamfreena</string>
-              <string>Mary</string>
-              <string>Miazrqa</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-asgarnian-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Cashien</string>
-              <string>Kassel</string>
-              <string>Lance</string>
-              <string>Menarous</string>
-              <string>Milton</string>
-              <string>Rancour</string>
-              <string>Sonde</string>
-              <string>Sulla</string>
-              <string>Valzin</string>
-              <string>Varze</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-asgarnian-persons-surname.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>
@@ -262,49 +204,17 @@
         <Weight>1</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Ali</string>
-              <string>Awusah</string>
-              <string>Dommik</string>
-              <string>Ellis</string>
-              <string>Fadli</string>
-              <string>Faruq</string>
-              <string>Hamid</string>
-              <string>Hassan</string>
-              <string>Ima</string>
-              <string>Jadid</string>
-              <string>Jaraah</string>
-              <string>Kaleef</string>
-              <string>Karim</string>
-              <string>Mubariz</string>
-              <string>Osman</string>
-              <string>Ozan</string>
-              <string>Sabeil</string>
-              <string>Sabreen</string>
-              <string>Shantay</string>
-              <string>Zeke</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-kharidian-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>A'abla</string>
-              <string>Afrah</string>
-              <string>Jeed</string>
-              <string>Nardarine</string>
-              <string>Ranael</string>
-              <string>Tafani</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-kharidian-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Dalal</string>
-              <string>Mirza</string>
-              <string>Morrisane</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-kharidian-persons-surname.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>
@@ -313,142 +223,17 @@
         <Weight>1</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Aeonisig</string>
-              <string>Arrav</string>
-              <string>Avan</string>
-              <string>Bartholomew</string>
-              <string>Botolph</string>
-              <string>Bran</string>
-              <string>Brugsen</string>
-              <string>Cadmus</string>
-              <string>Caleb</string>
-              <string>Claudius</string>
-              <string>Cordero</string>
-              <string>Damar</string>
-              <string>David</string>
-              <string>Dezzick</string>
-              <string>Dimintheis</string>
-              <string>Dionysius</string>
-              <string>Draul</string>
-              <string>Ehntor</string>
-              <string>Ellaron</string>
-              <string>Feoras</string>
-              <string>Finlay</string>
-              <string>Fred</string>
-              <string>Frederic</string>
-              <string>Gryff</string>
-              <string>Haig</string>
-              <string>Hartwin</string>
-              <string>Hector</string>
-              <string>Henry</string>
-              <string>Horacio</string>
-              <string>Horvik</string>
-              <string>Hywell</string>
-              <string>Ingald</string>
-              <string>Johnaton</string>
-              <string>Kanel</string>
-              <string>Kayle</string>
-              <string>Khom</string>
-              <string>Layte</string>
-              <string>Melville</string>
-              <string>Milo</string>
-              <string>Oziach</string>
-              <string>Phileas</string>
-              <string>Philop</string>
-              <string>Polonius</string>
-              <string>Raminme</string>
-              <string>Reese</string>
-              <string>Reldo</string>
-              <string>Roald</string>
-              <string>Roddeck</string>
-              <string>Shilop</string>
-              <string>Tarquin</string>
-              <string>Tarrlo</string>
-              <string>Tenebra</string>
-              <string>Vannaka</string>
-              <string>Waldo</string>
-              <string>Wally</string>
-              <string>Walter</string>
-              <string>Wilfred</string>
-              <string>Wilough</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-misthalin-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Values>
-              <string>Aggie</string>
-              <string>Aoife</string>
-              <string>Ariane</string>
-              <string>Breana</string>
-              <string>Caitlin</string>
-              <string>Camorra</string>
-              <string>Donie</string>
-              <string>Edwina</string>
-              <string>Elizabeth</string>
-              <string>Ellamaria</string>
-              <string>Elsie</string>
-              <string>Gertrude</string>
-              <string>Iffie</string>
-              <string>Ilona</string>
-              <string>Jessika</string>
-              <string>Juliet</string>
-              <string>Lucinda</string>
-              <string>Mabel</string>
-              <string>Mikasi</string>
-              <string>Orla</string>
-              <string>Phillipa</string>
-              <string>Rhee</string>
-              <string>Shauna</string>
-              <string>Thessalia</string>
-              <string>Xenia</string>
-              <string>Yauchomi</string>
-              <string>Zeneviva</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-misthalin-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Values>
-              <string>Aldock</string>
-              <string>Altrodor</string>
-              <string>Aubury</string>
-              <string>Belger</string>
-              <string>Borann</string>
-              <string>Bursen</string>
-              <string>DeMarne</string>
-              <string>Elriss</string>
-              <string>Fairweather</string>
-              <string>Fitzharmon</string>
-              <string>Gontamue</string>
-              <string>Grayzag</string>
-              <string>Halen</string>
-              <string>Jalarast</string>
-              <string>Karloff</string>
-              <string>Lapucet</string>
-              <string>Leptoc</string>
-              <string>Marjoribanks</string>
-              <string>Mizgog</string>
-              <string>Myrtle</string>
-              <string>Nitter</string>
-              <string>Parks</string>
-              <string>Placehold</string>
-              <string>Prim</string>
-              <string>Prysin</string>
-              <string>Raispher</string>
-              <string>Ravitz</string>
-              <string>Remanis</string>
-              <string>Rovin</string>
-              <string>Sedridor</string>
-              <string>Segainus</string>
-              <string>Silverline</string>
-              <string>Taloram</string>
-              <string>Terrova</string>
-              <string>Traiborn</string>
-              <string>Trimmly</string>
-              <string>Vivian</string>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-misthalin-persons-surname.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>
