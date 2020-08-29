@@ -179,7 +179,7 @@ build "ui_catfolk"  "Catfolk"   "R" aow/tigran elderscrolls/khajiit
 build "ui_demon"    "Demon"     "R" aow/draconian divinity/demon elderscrolls/dremora
 build "ui_dwarven"  "Dwarven"   "R" aow/dwarven divinity/dwarven
 build "ui_elven"    "Elven"     "R" aow/elven divinity/elven elderscrolls/altmer elderscrolls/ayleid
-build "ui_goblin"   "Goblin"    "R" aow/goblin divinity/goblin elderscrolls/goblin
+build "ui_goblin"   "Goblin"    "R" aow/goblin divinity/goblin elderscrolls/goblin runescape/goblin
 build "ui_lizard"   "Lizard"    "R" divinity/lizard elderscrolls/argonian
 build "ui_orc"      "Orc"       "R" aow/orc elderscrolls/orc
 
