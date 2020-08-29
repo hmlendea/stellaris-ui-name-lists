@@ -56,21 +56,16 @@
       <CharacterNames>
         <Id>aow_orc</Id>
         <Weight>100</Weight>
-        <MaleFirstNames>
+        <MaleFullNames>
           <NameGroup>
             <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-orc-persons-male.txt</Url>
           </NameGroup>
-        </MaleFirstNames>
-        <FemaleFirstNames>
+        </MaleFullNames>
+        <FemaleFullNames>
           <NameGroup>
             <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-orc-persons-female.txt</Url>
           </NameGroup>
-        </FemaleFirstNames>
-        <SecondNames>
-          <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-orc-persons-surnames.txt</Url>
-          </NameGroup>
-        </SecondNames>
+        </FemaleFullNames>
       </CharacterNames>
     </Characters>
   </NameList>
