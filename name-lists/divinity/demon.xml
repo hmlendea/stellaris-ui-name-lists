@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_divinity_demon</Id>
+    <Name>Divinity - Demon</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Demon</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Characters>
+      <CharacterNames>
+        <Id>divinity_demon</Id>
+        <Weight>100</Weight>
+        <MaleFullNames>
+          <NameGroup>
+            <Values>
+              <string>Abraxas</string>
+              <string>Adramahlihk</string>
+              <string>Arp-Kha</string>
+              <string>Asmodheus</string>
+              <string>Ba'al</string>
+              <string>Balberith</string>
+              <string>Corvus</string>
+              <string>Djinn</string>
+              <string>Dreylk</string>
+              <string>Eyrhen</string>
+              <string>Ezaazh</string>
+              <string>Jawbone</string>
+              <string>Kezzz</string>
+              <string>Krylr</string>
+              <string>Malqg</string>
+              <string>Merhim</string>
+              <string>Razakel</string>
+              <string>Ryu-Gor</string>
+              <string>Trayde</string>
+              <string>Wahat</string>
+              <string>Zagan</string>
+            </Values>
+          </NameGroup>
+        </MaleFullNames>
+        <FemaleFullNames>
+          <NameGroup>
+            <Values>
+              <string>Almira</string>
+              <string>Chtylchia</string>
+              <string>Malady</string>
+              <string>Sanguinia Tell</string>
+              <string>Sassan</string>
+            </Values>
+          </NameGroup>
+        </FemaleFullNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>
