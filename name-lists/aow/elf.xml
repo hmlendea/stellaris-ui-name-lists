@@ -31,7 +31,7 @@
       <Forts>
         <NameGroup>
           <Name>Age of Wonders 3 - Fortresses</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow3-elf-fortresses.txt</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-elf-fortresses.txt</Url>
         </NameGroup>
       </Forts>
     </Warfare>
@@ -39,9 +39,30 @@
       <Generic>
         <NameGroup>
           <Name>Age of Wonders 3 - Cities</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow3-elf-cities.txt</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-elf-cities.txt</Url>
         </NameGroup>
       </Generic>
     </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>aow_elf</Id>
+        <Weight>100</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-orc-elf-male.txt</Url>
+          </NameGroup>
+        </MaleFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-orc-elf-female.txt</Url>
+          </NameGroup>
+        </FemaleFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-orc-elf-surnames.txt</Url>
+          </NameGroup>
+        </SecondNames>
+      </CharacterNames>
+    </Characters>
   </NameList>
 </ArrayOfNameList>
