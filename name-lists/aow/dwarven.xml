@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>ui_aow3_dwarf</Id>
-    <Name>AoW3 - Dwarf</Name>
+    <Id>ui_aow3_dwarven</Id>
+    <Name>AoW3 - Dwarven</Name>
     <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
           <string>Dwarf</string>
+          <string>Dwarven</string>
         </Values>
       </NameGroup>
     </Denonyms>
