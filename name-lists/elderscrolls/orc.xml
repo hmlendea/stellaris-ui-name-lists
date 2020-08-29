@@ -62,7 +62,7 @@
         </NameGroup>
       </Mountains>
     </Places>
-    <Places>
+    <GreatPersons>
       <OtherDeities>
         <NameGroup>
           <Name>Deities</Name>
@@ -71,7 +71,7 @@
           </Values>
         </NameGroup>
       </OtherDeities>
-    </Places>
+    </GreatPersons>
     <Warfare>
       <Forts>
         <NameGroup>

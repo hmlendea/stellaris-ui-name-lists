@@ -12,5 +12,15 @@
         </NameGroup>
       </Generic>
     </Planets>
+    <Ships>
+      <Destroyer>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+            <string>Bulldozer</string>
+          </Values>
+        </NameGroup>
+      </Destroyer>
+    </Ships>
   </NameList>
 </ArrayOfNameList>

@@ -175,9 +175,10 @@ build "ui_starcraft_protoss" "StarCraft - Protoss"  "R" starcraft/protoss
 
 build "ui_starwars_human" "StarWars - Human" "L" starwars/human
 
-build "ui_demon"    "Demon" "R" aow/draconian divinity/demon elderscrolls/dremora
-build "ui_elf"      "Elf"   "R" aow/elf elderscrolls/altmer
-build "ui_orc"      "Orc"   "R" aow/orc elderscrolls/orc
+build "ui_catfolk"  "Catfolk"   "R" aow/tigran elderscrolls/khajiit
+build "ui_demon"    "Demon"     "R" aow/draconian divinity/demon elderscrolls/dremora
+build "ui_elf"      "Elf"       "R" aow/elf elderscrolls/altmer
+build "ui_orc"      "Orc"       "R" aow/orc elderscrolls/orc
 
 build "ui_extra_art1" "Extra - Arthropoid 1"    "R" ui/art1
 build "ui_extra_avi1" "Extra - Avian 1"         "R" ui/avi1
