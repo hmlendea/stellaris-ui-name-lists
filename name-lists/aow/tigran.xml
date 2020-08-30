@@ -61,12 +61,12 @@
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-tigran-persons-male.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-tigran-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-tigran-persons-male.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-tigran-persons-surname.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>
