@@ -4,6 +4,17 @@
 
 Mod that added dozens of new and detailed name lists to Stellaris.
 
+# Installation
+
+[![Get it from the Workshop](https://raw.githubusercontent.com/hmlendea/readme-assets/master/badges/stores/steam-workshop.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=1912242707) [![Get it from the Nexus](https://raw.githubusercontent.com/hmlendea/readme-assets/master/badges/stores/nexus.png)](https://www.nexusmods.com/stellaris/mods/73)
+
+## Manual installation
+
+ - Download the [latest release](https://github.com/hmlendea/more-cultural-names/releases)
+ - Extract the contents into your game's mod directory
+
+# Features
+
 The highlight is the "Human - Extended" list that contains thousands upon thousands of names from various languages, both from history and from fiction (especially space operas).
 There are also individual name lists for each of the used human language, or groups.
 
