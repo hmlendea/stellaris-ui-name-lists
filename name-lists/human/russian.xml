@@ -329,6 +329,7 @@
           <NameGroup>
             <Name>Guns</Name>
             <Values>
+              <string>Dushka</string>
               <string>Kalashnikov</string>
               <string>Papasha</string>
             </Values>
