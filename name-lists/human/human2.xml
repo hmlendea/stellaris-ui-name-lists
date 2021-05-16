@@ -841,6 +841,7 @@
       <OccupationArmySequentialName>%0% Occupation Legion</OccupationArmySequentialName>
       <SlaveArmySequentialName>%O% Janissary Corps</SlaveArmySequentialName>
       <CloneArmySequentialName>%O% Vatgrown Soldiery</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Battallion</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%O% Unmanned Gendarmerie</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%O% Unmanned Battlegroup</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Unmanned Garrison</RoboticOccupationArmySequentialName>

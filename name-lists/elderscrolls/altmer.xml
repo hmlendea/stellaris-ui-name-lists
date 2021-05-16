@@ -1217,6 +1217,7 @@
       <OccupationArmySequentialName>%0% Peacekeepers</OccupationArmySequentialName>
       <SlaveArmySequentialName>%0% Thrall Battallion</SlaveArmySequentialName>
       <CloneArmySequentialName>%0% Clone Battallion</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Regiment</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%0% Automaton Guardians</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%0% Automaton Warriors</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Automaton Peacekeepers</RoboticOccupationArmySequentialName>

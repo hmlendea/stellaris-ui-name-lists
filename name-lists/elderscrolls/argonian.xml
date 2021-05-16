@@ -89,6 +89,7 @@
       <OccupationArmySequentialName>%0% Garrison Scales</OccupationArmySequentialName>
       <SlaveArmySequentialName>%O% Slave Horde</SlaveArmySequentialName>
       <CloneArmySequentialName>%O% Cloned Scales</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Scales</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%O% Automated Scales</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%O% Automated Scales</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Automated Garrison</RoboticOccupationArmySequentialName>

@@ -138,6 +138,7 @@
       <OccupationArmySequentialName>%0% Garrison Force</OccupationArmySequentialName>
       <SlaveArmySequentialName>%O% Slave Horde</SlaveArmySequentialName>
       <CloneArmySequentialName>%O% Replicated Warriors</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Fiends</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%O% Turrets</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%O% Destroyers</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Iron Garrison</RoboticOccupationArmySequentialName>

@@ -417,6 +417,7 @@
       <OccupationArmySequentialName>%0% Peacekeepers</OccupationArmySequentialName>
       <SlaveArmySequentialName>%0% Disciplinary Battallion</SlaveArmySequentialName>
       <CloneArmySequentialName>%0% Clone Battallion</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Black Army</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%0% Robotic Guardians</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%0% Robotic Force</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Robotic Peacekeepers</RoboticOccupationArmySequentialName>

@@ -170,6 +170,7 @@
       <OccupationArmySequentialName>%0% Garrison Force</OccupationArmySequentialName>
       <SlaveArmySequentialName>%O% Slave Horde</SlaveArmySequentialName>
       <CloneArmySequentialName>%O% Cloned Platoon</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Immortal Predators</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%O% Iron Guard</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%O% Iron Hunters</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Iron Garrison</RoboticOccupationArmySequentialName>

@@ -255,6 +255,7 @@
       <OccupationArmySequentialName>%0% Garrison Force</OccupationArmySequentialName>
       <SlaveArmySequentialName>%O% Enslaved Conscripts</SlaveArmySequentialName>
       <CloneArmySequentialName>%O% Clone Batch</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Tenth-life Army</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%O% Automatic Warriors</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%O% Automatic Defenders</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Automatic Garrison</RoboticOccupationArmySequentialName>

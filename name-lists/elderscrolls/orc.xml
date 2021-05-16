@@ -75,6 +75,7 @@
       <OccupationArmySequentialName>%0% Garrison Clan</OccupationArmySequentialName>
       <SlaveArmySequentialName>%O% Thrall Cohort</SlaveArmySequentialName>
       <CloneArmySequentialName>%O% Clone Cohort</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Legion</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%O% Automated Shields</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%O% Iron Fists</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Automated Garrison</RoboticOccupationArmySequentialName>

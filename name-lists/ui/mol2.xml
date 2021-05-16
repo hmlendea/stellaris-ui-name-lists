@@ -344,6 +344,7 @@
       <OccupationArmySequentialName>%0% Garrison Force</OccupationArmySequentialName>
       <SlaveArmySequentialName>%O% Slave Horde</SlaveArmySequentialName>
       <CloneArmySequentialName>%O% Attrition Troopers</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Horde</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%O% Machine Guardians</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%O% Machine Shells</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Machine Garrison</RoboticOccupationArmySequentialName>

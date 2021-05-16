@@ -318,6 +318,7 @@
       <OccupationArmySequentialName>%0% Garrison Force</OccupationArmySequentialName>
       <SlaveArmySequentialName>%O% Thrall Horde</SlaveArmySequentialName>
       <CloneArmySequentialName>%O% Expendable Troopers</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Troops</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%O% Iron Guard</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%O% Iron Shells</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Iron Garrison</RoboticOccupationArmySequentialName>

@@ -362,6 +362,7 @@
       <OccupationArmySequentialName>%0% Stalkers</OccupationArmySequentialName>
       <SlaveArmySequentialName>%O% Slave Corps</SlaveArmySequentialName>
       <CloneArmySequentialName>%O% Clone Division</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Resurrected Warriors</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%O% Immortals</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%O% Sentinels</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Photon Cannon Field</RoboticOccupationArmySequentialName>
