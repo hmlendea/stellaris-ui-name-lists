@@ -224,6 +224,7 @@
       <OccupationArmySequentialName>%0% Garrison Spores</OccupationArmySequentialName>
       <SlaveArmySequentialName>%O% Chained Regiment</SlaveArmySequentialName>
       <CloneArmySequentialName>%O% Clone Platoon</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Resurrected Platoon</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%O% Mechanized Spore Host</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%O% Mechanized Spore Host</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Mechanized Garrison</RoboticOccupationArmySequentialName>

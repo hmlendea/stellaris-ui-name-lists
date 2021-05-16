@@ -1018,6 +1018,7 @@
       <OccupationArmySequentialName>%0% Occupation Nest</OccupationArmySequentialName>
       <SlaveArmySequentialName>%O% Enslaved Flock</SlaveArmySequentialName>
       <CloneArmySequentialName>%O% Clone Harpies</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Harpies</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%O% Metal Harpies</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%O% Metal Harpies</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Metal Nest</RoboticOccupationArmySequentialName>

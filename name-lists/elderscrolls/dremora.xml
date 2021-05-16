@@ -57,6 +57,7 @@
       <OccupationArmySequentialName>%0% Kynvals</OccupationArmySequentialName>
       <SlaveArmySequentialName>%O% Slave Horde</SlaveArmySequentialName>
       <CloneArmySequentialName>%O% Clone Legion</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Legion</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%O% Robotic Shields</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%O% Robotic Spears</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Robotic Maces</RoboticOccupationArmySequentialName>
@@ -178,7 +179,7 @@
     </Planets>
     <Characters>
       <CharacterNames>
-        <Id>dremora</Id>
+        <Id>elderscrolls-dremora</Id>
         <Weight>100</Weight>
         <MaleFullNames>
           <NameGroup>

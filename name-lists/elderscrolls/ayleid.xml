@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_elderscrolls_ayleid</Id>
+    <Name>ElderScrolls - Ayleid</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Ayleid</string>
+          <string>High Elf</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-ayleid-ruins.txt</Url>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-ayleid-ruins.txt</Url>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

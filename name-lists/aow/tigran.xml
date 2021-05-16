@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>aow_tigran</Id>
+    <Name>AoW - Tigran</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Tigran</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-tigran-cities.txt</Url>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Warfare>
+      <Forts>
+        <NameGroup>
+          <Name>Age of Wonders 3 - Fortresses</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-tigran-fortresses.txt</Url>
+        </NameGroup>
+      </Forts>
+    </Warfare>
+    <Armies>
+      <DefenceArmySequentialName>%O% Homeland Security</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Battlecats</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Garrison Force</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Enslaved Conscripts</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Clone Batch</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Automatic Warriors</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Automatic Defenders</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Automatic Garrison</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Claws</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Claws</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Telepathic Ops</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Hybrid Pack</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Augmented Warriors</SuperSoldierArmySequentialName>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Age of Wonders 3 - Cities</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-tigran-cities.txt</Url>
+        </NameGroup>
+      </Generic>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>aow-tigran</Id>
+        <Weight>100</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-tigran-persons-male.txt</Url>
+          </NameGroup>
+        </MaleFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-tigran-persons-female.txt</Url>
+          </NameGroup>
+        </FemaleFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-tigran-persons-surname.txt</Url>
+          </NameGroup>
+        </SecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

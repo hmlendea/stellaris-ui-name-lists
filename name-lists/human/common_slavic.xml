@@ -23,6 +23,12 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Dishonored - Empire of the Isles</Name>
+          <Values>
+            <string>Dabokva</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Pax Nova - Eastern Resistance</Name>
           <Values>
             <string>Kohikaf</string>
@@ -31,6 +37,13 @@
             <string>Sorovikha</string>
             <string>Studov</string>
             <string>Tekleno</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Witcher</Name>
+          <Values>
+            <string>Dravograd</string>
+            <string>Novigrad</string>
           </Values>
         </NameGroup>
       </Generic>

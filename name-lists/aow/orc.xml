@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_aow3_orc</Id>
+    <Name>AoW3 - Orc</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Orc</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-orc-cities.txt</Url>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Warfare>
+      <Forts>
+        <NameGroup>
+          <Name>Age of Wonders 3 - Fortresses</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-orc-fortresses.txt</Url>
+        </NameGroup>
+      </Forts>
+    </Warfare>
+    <Armies>
+      <FleetSequentialName>%O% Warband</FleetSequentialName>
+      <DefenceArmySequentialName>%O% Defender Clan</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Warrior Clan</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Garrison Clan</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Thrall Cohort</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Clone Cohort</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Automated Shields</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Iron Fists</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Automated Garrison</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Warriors</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Warriors</AndroidAssaultArmySequentialName>
+      <PrimitiveArmySequentialName>%O% Barbarians</PrimitiveArmySequentialName>
+      <PsionicArmySequentialName>%O% Psi Squad</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Glowing Ones</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Enhanced Warriors</SuperSoldierArmySequentialName>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Age of Wonders 3 - Cities</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-orc-cities.txt</Url>
+        </NameGroup>
+      </Generic>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>aow_orc</Id>
+        <Weight>100</Weight>
+        <MaleFullNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-orc-persons-male.txt</Url>
+          </NameGroup>
+        </MaleFullNames>
+        <FemaleFullNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-orc-persons-female.txt</Url>
+          </NameGroup>
+        </FemaleFullNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

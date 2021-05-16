@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_divinity_goblinc</Id>
+    <Name>Divinity - Goblin</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Goblin</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Characters>
+      <CharacterNames>
+        <Id>divinity-goblin</Id>
+        <Weight>100</Weight>
+        <MaleFullNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/divinity-goblin-person-male.txt</Url>
+          </NameGroup>
+        </MaleFullNames>
+        <FemaleFullNames>
+          <NameGroup>
+          </NameGroup>
+        </FemaleFullNames>
+        <SecondNames>
+          <NameGroup>
+          </NameGroup>
+        </SecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

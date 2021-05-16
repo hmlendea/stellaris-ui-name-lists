@@ -223,6 +223,7 @@
       <OccupationArmySequentialName>%0% Invasion Nest</OccupationArmySequentialName>
       <SlaveArmySequentialName>%O% Thrall Swarm</SlaveArmySequentialName>
       <CloneArmySequentialName>%O% Clone Swarm</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Swarm</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%O% Iron Swarm</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%O% Iron Swarm</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Iron Nest</RoboticOccupationArmySequentialName>

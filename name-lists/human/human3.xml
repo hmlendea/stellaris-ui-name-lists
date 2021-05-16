@@ -666,6 +666,7 @@
       <OccupationArmySequentialName>Cohort Vigilum %R%</OccupationArmySequentialName>
       <SlaveArmySequentialName>Auxilia %R%</SlaveArmySequentialName>
       <CloneArmySequentialName>Clonandi %R%</CloneArmySequentialName>
+      <UndeadArmySequentialName>Legio %R% Immortalis</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>Limitanei Robotum %R%</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>Robotum %R%</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>Robotum Vigilum %R%</RoboticOccupationArmySequentialName>

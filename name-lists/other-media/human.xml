@@ -192,6 +192,21 @@
     <Planets>
       <Generic>
         <NameGroup>
+          <Name>Age of Wonders: Planetfall - Vanguard</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-human-cities.txt</Url>
+        </NameGroup>
+        <NameGroup>
+          <Name>Dishonored - Empire of the Isles</Name>
+          <Values>
+            <string>Bastillian</string>
+            <string>Caltan</string>
+            <string>Meya</string>
+            <string>Pradym</string>
+            <string>Tamarak</string>
+            <string>Yaro</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Planets - Galactik Football</Name>
           <Values>
             <string>Escaron</string>

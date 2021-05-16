@@ -3,6 +3,14 @@
   <NameList>
     <Id>ui_elderscrolls_spriggan</Id>
     <Name>ElderScrolls - Spriggan</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Spriggan</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
     <Ships>
       <Generic>
         <NameGroup>
@@ -60,6 +68,7 @@
       <OccupationArmySequentialName>%0% Garrison Leaves</OccupationArmySequentialName>
       <SlaveArmySequentialName>%O% Slave Horde</SlaveArmySequentialName>
       <CloneArmySequentialName>%O% Cloned Trunks</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Barks</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%O% Iron Leaves</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%O% Iron Leaves</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Iron Garrison</RoboticOccupationArmySequentialName>
@@ -115,7 +124,7 @@
     </Planets>
     <Characters>
       <CharacterNames>
-        <Id>default</Id>
+        <Id>elderscrolls-spriggan</Id>
         <Weight>100</Weight>
         <FullNames>
           <NameGroup>

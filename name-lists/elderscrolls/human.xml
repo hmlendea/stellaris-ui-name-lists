@@ -13,6 +13,7 @@
           <string>Crown</string>
           <string>Forebear</string>
           <string>Heartlander</string>
+          <string>Human</string>
           <string>Imperial</string>
           <string>Nibenese</string>
           <string>Nord</string>
@@ -360,6 +361,7 @@
       <OccupationArmySequentialName>Legion %R%</OccupationArmySequentialName>
       <SlaveArmySequentialName>Conscripted Legion %R%</SlaveArmySequentialName>
       <CloneArmySequentialName>Clone Legion %R%</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Army</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>Robotic Legion %R%</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>Robotic Legion %R%</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>Robotic Legion %R%</RoboticOccupationArmySequentialName>

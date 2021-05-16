@@ -151,5 +151,55 @@
         </NameGroup>
       </Arctic>
     </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>english</Id>
+        <Weight>10</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/eng-persons-male.txt</Url>
+          </NameGroup>
+        </MaleFirstNames>
+        <MaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Alexander</string>
+              <string>Charles</string>
+              <string>George</string>
+              <string>Henry</string>
+              <string>Philip</string>
+              <string>William</string>
+            </Values>
+          </NameGroup>
+        </MaleRoyalFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/eng-persons-female.txt</Url>
+          </NameGroup>
+        </FemaleFirstNames>
+        <FemaleRoyalFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Diana</string>
+              <string>Elizabeth</string>
+              <string>Victoria</string>
+            </Values>
+          </NameGroup>
+        </FemaleRoyalFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/eng-persons-surnames.txt</Url>
+          </NameGroup>
+        </SecondNames>
+        <RoyalSecondNames>
+          <NameGroup>
+            <Values>
+              <string>Windsor</string>
+              <string>Mountbatten</string>
+            </Values>
+          </NameGroup>
+        </RoyalSecondNames>
+      </CharacterNames>
+    </Characters>
   </NameList>
 </ArrayOfNameList>

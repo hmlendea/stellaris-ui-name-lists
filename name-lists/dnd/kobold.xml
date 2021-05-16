@@ -320,6 +320,7 @@
       <OccupationArmySequentialName>%0% Garrison Force</OccupationArmySequentialName>
       <SlaveArmySequentialName>%O% Slave Warband</SlaveArmySequentialName>
       <CloneArmySequentialName>%O% Clone Warband</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Warband</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%O% Robotic Sentinels</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%O% Robotic Warband</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Robotic Garrison</RoboticOccupationArmySequentialName>

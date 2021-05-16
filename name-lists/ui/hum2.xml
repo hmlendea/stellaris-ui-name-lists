@@ -178,6 +178,7 @@
       <OccupationArmySequentialName>%0% Garrison</OccupationArmySequentialName>
       <SlaveArmySequentialName>%O% Native Militia</SlaveArmySequentialName>
       <CloneArmySequentialName>%O% Clone Militia</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Militia</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%O% Defensive Automatons</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%O% Offensive Automatons</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Automaton Garrison</RoboticOccupationArmySequentialName>

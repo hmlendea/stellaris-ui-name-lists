@@ -769,6 +769,12 @@
             <string>Hercules</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - Commonwealth of Man</Name>
+          <Values>
+            <string>Imperator</string>
+          </Values>
+        </NameGroup>
       </Titan>
       <Colossus>
         <NameGroup>
@@ -871,6 +877,7 @@
       <OccupationArmySequentialName>Cohort Vigilum %R%</OccupationArmySequentialName>
       <SlaveArmySequentialName>Auxilia %R%</SlaveArmySequentialName>
       <CloneArmySequentialName>Clonandi %R%</CloneArmySequentialName>
+      <UndeadArmySequentialName>Legio %R% Immortalis</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>Limitanei Robotum %R%</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>Robotum %R%</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>Robotum Vigilum %R%</RoboticOccupationArmySequentialName>
@@ -963,6 +970,12 @@
             <string>Telepylos</string>
             <string>Thrinacia</string>
             <string>Tritonis</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth</Name>
+          <Values>
+            <string>Delgovicia</string>
           </Values>
         </NameGroup>
       </Generic>

@@ -63,6 +63,7 @@
       <OccupationArmySequentialName>%0% Garrison Troopers</OccupationArmySequentialName>
       <SlaveArmySequentialName>%O% Conscripts</SlaveArmySequentialName>
       <CloneArmySequentialName>%O% Clone Troops</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Squad</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%O% Droid Defenders</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%O% Droid Legion</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Droid Garrison</RoboticOccupationArmySequentialName>

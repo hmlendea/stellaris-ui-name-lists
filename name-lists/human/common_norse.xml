@@ -112,6 +112,13 @@
             <string>Duncankeld</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Witcher</Name>
+          <Values>
+            <string>Arinbjorn</string>
+            <string>Nilfgaard</string>
+          </Values>
+        </NameGroup>
       </Generic>
       <Desert>
         <NameGroup>

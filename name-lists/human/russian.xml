@@ -417,6 +417,7 @@
       <OccupationArmySequentialName>%0% Peacekeepers</OccupationArmySequentialName>
       <SlaveArmySequentialName>%0% Disciplinary Battallion</SlaveArmySequentialName>
       <CloneArmySequentialName>%0% Clone Battallion</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Black Army</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%0% Robotic Guardians</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%0% Robotic Force</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Robotic Peacekeepers</RoboticOccupationArmySequentialName>
@@ -428,6 +429,17 @@
     </Armies>
     <Planets>
       <Generic>
+        <NameGroup>
+          <Name>Age of Wonders: Planetfall - Dvar</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-cities.txt</Url>
+        </NameGroup>
+        <NameGroup>
+          <Name>Dishonored - Empire of the Isles</Name>
+          <Values>
+            <string>Alexin</string>
+            <string>Samara</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Pax Nova - Eastern Resistance</Name>
           <Values>

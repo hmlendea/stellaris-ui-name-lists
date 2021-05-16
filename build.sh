@@ -2,7 +2,7 @@
 
 MOD_ID="ui-name-lists"
 MOD_NAME="Universum Infinitum - Name Lists"
-STELLARIS_VERSION="2.6.*"
+STELLARIS_VERSION="3.0.*"
 
 BUILD_DIRECTORY_PATH="./build"
 OUTPUT_DIRECTORY_PATH="./out"
@@ -82,7 +82,7 @@ function generate-mod-descriptor {
 
 build "ui_extra_humans_african"         "Human - African"           "L" \
     human/algerian human/angolan human/congolese human/ethiopian human/malian human/mauritanian \
-    human/nigerian human/senegalese human/somali human/tunisian human/zambian human/african
+    human/nigerian human/senegalese human/somali human/swahili human/tunisian human/zambian human/zulu human/african
 build "ui_extra_humans_arabic"          "Human - Arabic"            "L" human/arabic
 build "ui_extra_humans_asian"           "Human - Asian"             "L" \
     human/chinese human/japanese human/korean human/mongol human/taiwanese human/tibetan human/vietnamese human/common_asian
@@ -110,7 +110,7 @@ build "ui_extra_humans_italian"         "Human - Italian"           "L" human/it
 build "ui_extra_humans_japanese"        "Human - Japanese"          "L" human/japanese
 build "ui_extra_humans_latino"          "Human - Latino"            "L" \
     human/argentinian human/brazilian human/colombian human/cuban human/ecuadorian human/guatemalan human/mexican human/spanish human/venezuelan \
-    human/common_spanish_americano human/common_spanish
+    human/common_spanish_americano human/common_portuguese human/common_spanish
 build "ui_extra_humans_norse"           "Human - Norse"             "L" \
     human/danish human/icelandic human/norwegian human/swedish human/common_norse
 build "ui_extra_humans_portuguese"      "Human - Portuguese EU"     "L" human/portuguese human/common_iberian human/common_portuguese
@@ -142,9 +142,9 @@ build "ui_extra_humans_extended"        "Human - Extended"          "L" \
     human/maori human/mauritanian human/mexican human/mongol human/nepali human/nigerian \
     human/norwegian human/pakistani human/persian human/polish human/polynesian human/portuguese \
     human/roman human/romanian human/russian human/scottish human/senegalese human/serbian human/slovakian \
-    human/slovenian human/somali human/spanish human/swedish human/swiss human/taiwanese human/tamil \
+    human/slovenian human/somali human/spanish human/swahili human/swedish human/swiss human/taiwanese human/tamil \
     human/tibetan human/tunisian human/turkish human/turkmen human/ukrainian human/venezuelan \
-    human/vietnamese human/welsh human/zambian human/zealandian \
+    human/vietnamese human/welsh human/zambian human/zealandian human/zulu \
     \
     human/common_asian human/common_british human/common_english human/common_german human/common_hellenic \
     human/common_iberian human/common_norse human/common_portuguese human/common_slavic_yugoslavic human/common_slavic \
@@ -152,7 +152,10 @@ build "ui_extra_humans_extended"        "Human - Extended"          "L" \
     \
     starcraft/human starwars/human galciv/human sose/human runescape/human other-media/human \
     \
-    human/human1 human/human2 human/human3 human/zextended
+    human/human1 human/human2 human/human3 ui/human_extra human/zextended
+
+build "ui_aow_dvar"  "AoW:P - Dvar" "L"    aow/dvar
+build "ui_aow_kirko" "AoW:P - Kir'Ko" "L"  aow/kirko
 
 build "ui_dnd_kobold" "D&D - Kobold" "L" dnd/kobold
 
@@ -171,6 +174,14 @@ build "ui_starcraft_human" "StarCraft - Human"      "L" starcraft/human
 build "ui_starcraft_protoss" "StarCraft - Protoss"  "R" starcraft/protoss
 
 build "ui_starwars_human" "StarWars - Human" "L" starwars/human
+
+build "ui_catfolk"  "Catfolk"   "R" aow/tigran elderscrolls/khajiit
+build "ui_demon"    "Demon"     "R" aow/draconian divinity/demon elderscrolls/dremora
+build "ui_dwarven"  "Dwarven"   "R" aow/dwarven divinity/dwarven
+build "ui_elven"    "Elven"     "R" aow/elven divinity/elven elderscrolls/altmer elderscrolls/ayleid
+build "ui_goblin"   "Goblin"    "R" aow/goblin divinity/goblin elderscrolls/goblin runescape/goblin
+build "ui_lizard"   "Lizard"    "R" divinity/lizard elderscrolls/argonian
+build "ui_orc"      "Orc"       "R" aow/orc elderscrolls/orc
 
 build "ui_extra_art1" "Extra - Arthropoid 1"    "R" ui/art1
 build "ui_extra_avi1" "Extra - Avian 1"         "R" ui/avi1

@@ -134,6 +134,7 @@
           </Values>
         </NameGroup>
       </CloneArmy>
+      <UndeadArmySequentialName>%O% Undead Squadron</UndeadArmySequentialName>
       <RoboticDefenceArmySequentialName>%O% Battle Droids</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%O% Super Battle Droids</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Garrison Droids</RoboticOccupationArmySequentialName>

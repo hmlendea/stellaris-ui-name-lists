@@ -222,6 +222,12 @@
             <string>Avalon</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Witcher</Name>
+          <Values>
+            <string>Claywich</string>
+          </Values>
+        </NameGroup>
       </Generic>
     </Planets>
   </NameList>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_divinity_demon</Id>
+    <Name>Divinity - Demon</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Demon</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Characters>
+      <CharacterNames>
+        <Id>divinity-demon</Id>
+        <Weight>100</Weight>
+        <MaleFullNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/divinity-demon-persons-male.txt</Url>
+          </NameGroup>
+        </MaleFullNames>
+        <FemaleFullNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/divinity-demon-persons-female.txt</Url>
+          </NameGroup>
+        </FemaleFullNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

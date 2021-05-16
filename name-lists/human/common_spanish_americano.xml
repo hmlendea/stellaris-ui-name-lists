@@ -135,6 +135,14 @@
       </Coloniser>
     </Ships>
     <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Places</Name>
+          <Values>
+            <string>Nuevo Mojave</string>
+          </Values>
+        </NameGroup>
+      </Desert>
       <Gaia>
         <NameGroup>
           <Name>Mythology - Places</Name>
