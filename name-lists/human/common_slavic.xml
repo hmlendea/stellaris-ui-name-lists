@@ -46,6 +46,13 @@
             <string>Novigrad</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>letsmakeagame.net</Name>
+          <Values>
+            <string>Brunonov</string>
+            <string>Nonov</string>
+          </Values>
+        </NameGroup>
       </Generic>
     </Planets>
   </NameList>

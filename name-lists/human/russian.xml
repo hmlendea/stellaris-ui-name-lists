@@ -298,6 +298,12 @@
       </AircraftManufacturers>
       <SpacecraftManufacturers>
         <NameGroup>
+          <Name>Spacecraft designers</Name>
+          <Values>
+            <string>Tupolev</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Spacecraft manufacturers</Name>
           <Values>
             <string>Energiya</string>

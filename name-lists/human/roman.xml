@@ -981,9 +981,16 @@
       </Generic>
       <Arid>
         <NameGroup>
-          <Name>Stellaris - Commonwealth of Man</Name>
+          <Name>Places</Name>
           <Values>
             <string>Nova Antioch</string>
+            <string>Nova Parthia</string>
+            <string>Nova Troia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - Commonwealth of Man</Name>
+          <Values>
             <string>Tartarus</string>
           </Values>
         </NameGroup>
@@ -993,21 +1000,19 @@
           <Name>Places</Name>
           <Values>
             <string>Aegyptus Novus</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - Commonwealth of Man</Name>
-          <Values>
             <string>Nova Alexandria</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - Commonwealth of Man</Name>
-          <Values>
-            <string>Nova Alexandria</string>
+            <string>Nova Arabia</string>
           </Values>
         </NameGroup>
       </Desert>
+      <Tropical>
+        <NameGroup>
+          <Name>Places</Name>
+          <Values>
+            <string>Transylvania Nova</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
       <Continental>
         <NameGroup>
           <Name>Places</Name>

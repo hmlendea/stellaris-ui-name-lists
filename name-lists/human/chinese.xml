@@ -297,6 +297,20 @@
           </Values>
         </NameGroup>
       </Juggernaut>
+      <Science>
+        <NameGroup>
+          <Name>Landers - Mars</Name>
+          <Values>
+            <string>Tianwen</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rovers - Mars</Name>
+          <Values>
+            <string>Zhurong</string>
+          </Values>
+        </NameGroup>
+      </Science>
     </Ships>
     <Planets>
       <Generic>

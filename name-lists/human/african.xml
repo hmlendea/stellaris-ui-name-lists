@@ -51,14 +51,6 @@
           </Values>
         </NameGroup>
       </Countries>
-      <Regions>
-        <NameGroup>
-          <Name>Regions - Africa</Name>
-          <Values>
-            <string>Sahara</string>
-          </Values>
-        </NameGroup>
-      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Chad</Name>

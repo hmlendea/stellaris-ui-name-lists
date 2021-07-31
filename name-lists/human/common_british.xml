@@ -178,6 +178,12 @@
             <string>Untiring</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Landers - Mars</Name>
+          <Values>
+            <string>Beagle</string>
+          </Values>
+        </NameGroup>
       </Science>
     </Ships>
     <Planets>

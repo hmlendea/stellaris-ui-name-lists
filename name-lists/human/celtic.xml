@@ -21,6 +21,14 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Islands</Name>
+          <Values>
+            <string>Albion</string>
+          </Values>
+        </NameGroup>
+      </Regions>
     </Places>
     <GreatPeople>
       <LeadersTier1>

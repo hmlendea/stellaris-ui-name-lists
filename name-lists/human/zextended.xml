@@ -3120,7 +3120,6 @@
             <string>Boeing</string>
             <string>Bombardier</string>
             <string>Embraer</string>
-            <string>Tupoloev</string>
           </Values>
         </NameGroup>
       </Coloniser>
@@ -3137,7 +3136,6 @@
             <string>Hemiolia</string>
             <string>Hydrus</string>
             <string>Mammoth</string>
-            <string>Tupoloev</string>
           </Values>
         </NameGroup>
       </Transport>

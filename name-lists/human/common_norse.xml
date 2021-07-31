@@ -7,6 +7,8 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
+          <string>Nord</string>
+          <string>Nordic</string>
           <string>Norse</string>
           <string>Viking</string>
         </Values>

@@ -214,6 +214,16 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
+    <Ships>
+      <Science>
+        <NameGroup>
+          <Name>Landers - Mars</Name>
+          <Values>
+            <string>Schiaparelli</string>
+          </Values>
+        </NameGroup>
+      </Science>
+    </Ships>
     <ShipClasses>
       <Generic>
         <NameGroup>

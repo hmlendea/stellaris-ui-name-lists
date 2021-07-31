@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>human_common_asian</Id>
-    <Name>Human - Common - Asian</Name>
+    <Id>humans_common_african</Id>
+    <Name>Humans - Common - African</Name>
     <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-          <string>Asian</string>
+          <string>African</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -16,26 +16,18 @@
         <NameGroup>
           <Name>Continents</Name>
           <Values>
-            <string>Asia</string>
+            <string>Africa</string>
           </Values>
         </NameGroup>
       </Regions>
-      <Mountains>
+      <Deserts>
         <NameGroup>
-          <Name>Mountains</Name>
+          <Name>Deserts</Name>
           <Values>
-            <string>Himalaya</string>
+            <string>Sahara</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Mountains</Name>
-          <Values>
-            <string>Chomolungma</string>
-            <string>Everest</string>
-            <string>Zhumulangma</string>
-          </Values>
-        </NameGroup>
-      </Mountains>
+      </Deserts>
     </Places>
   </NameList>
 </ArrayOfNameList>

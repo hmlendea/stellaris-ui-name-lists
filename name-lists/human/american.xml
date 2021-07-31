@@ -23,6 +23,13 @@
       </Countries>
       <Regions>
         <NameGroup>
+          <Name>Continents</Name>
+          <Values>
+            <string>America</string>
+            <string>North America</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Regions</Name>
           <Values>
             <string>Alabama</string>
@@ -146,6 +153,7 @@
         <NameGroup>
           <Name>Deserts</Name>
           <Values>
+            <string>Colorado</string>
             <string>Mojave</string>
           </Values>
         </NameGroup>
@@ -375,6 +383,44 @@
           </Values>
         </NameGroup>
       </Cruiser>
+      <Science>
+        <NameGroup>
+          <Name>Landers - Mars</Name>
+          <Values>
+            <string>Beagle</string>
+            <string>Curiosity</string>
+            <string>Opportunity</string>
+            <string>Pathfinder</string>
+            <string>Perseverance</string>
+            <string>Phoenix</string>
+            <string>Spirit</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Landers - Mars - Future / Proposed</Name>
+          <Values>
+            <string>Icebreaker</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rovers - Mars</Name>
+          <Values>
+            <string>Sojourner</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Space Probes</Name>
+          <Values>
+            <string>Voyager</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Space Shuttles</Name>
+          <Values>
+            <string>Discovery</string>
+          </Values>
+        </NameGroup>
+      </Science>
     </Ships>
     <Stations>
       <Starbases>
