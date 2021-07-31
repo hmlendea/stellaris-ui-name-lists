@@ -244,7 +244,9 @@
         <NameGroup>
           <Name>Military unit types</Name>
           <Values>
+            <string>Battlecat</string>
             <string>Claw-Dancer</string>
+            <string>Senche-Raht</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
