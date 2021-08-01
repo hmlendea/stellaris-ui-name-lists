@@ -91,6 +91,7 @@
           <Values>
             <string>Albuquerque</string>
             <string>Anchorage</string>
+            <string>Arlington</string>
             <string>Atlanta</string>
             <string>Austin</string>
             <string>Bakersfield</string>
@@ -387,8 +388,8 @@
         <NameGroup>
           <Name>Landers - Mars</Name>
           <Values>
-            <string>Beagle</string>
             <string>Curiosity</string>
+            <string>Insight</string>
             <string>Opportunity</string>
             <string>Pathfinder</string>
             <string>Perseverance</string>

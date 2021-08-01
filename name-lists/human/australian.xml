@@ -37,6 +37,7 @@
         <NameGroup>
           <Name>Cities</Name>
           <Values>
+            <string>Adelaide</string>
             <string>Brisbane</string>
             <string>Canberra</string>
             <string>Melbourne</string>
