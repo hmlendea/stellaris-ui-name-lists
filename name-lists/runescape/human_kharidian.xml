@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>runescape_human_kharidian</Id>
+    <Name>RuneScape - Human - Kharidian</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - RuneScape</Name>
+        <Values>
+          <string>Kharidian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - RuneScape</Name>
+          <Values>
+            <string>Al Kharid</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers - RuneScape</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-kharidian-rivers.txt</Url>
+        </NameGroup>
+      </Rivers>
+    </Places>
+    <Planets>
+      <Tropical>
+      <Desert>
+        <NameGroup>
+          <Name>Countries - RuneScape</Name>
+          <Values>
+            <string>Al Kharid</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>kharidian</Id>
+        <Weight>1</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-kharidian-persons-male.txt</Url>
+          </NameGroup>
+        </MaleFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-kharidian-persons-female.txt</Url>
+          </NameGroup>
+        </FemaleFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-kharidian-persons-surname.txt</Url>
+          </NameGroup>
+        </SecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

@@ -86,7 +86,8 @@ build "ui_extra_humans_african"         "Human - African"           "L" \
     human/african human/common_african
 build "ui_extra_humans_arabic"          "Human - Arabic"            "L" \
     human/egyptian human/jordanian human/syrian \
-    human/arabic
+    human/arabic \
+    runescape/human_kharidian
 build "ui_extra_humans_asian"           "Human - Asian"             "L" \
     human/chinese human/japanese human/korean human/mongol human/taiwanese human/tibetan human/vietnamese human/common_asian
 build "ui_extra_humans_austronesian"    "Human - Austronesian"      "L" \
@@ -177,7 +178,7 @@ build "ui_extra_humans_extended"        "Human - Extended"          "L" \
     human/common_hellenic human/common_iberian human/common_norse human/common_portuguese human/common_slavic_yugoslavic \
     human/common_slavic human/common_spanish_americano human/common_spanish human/common_turkic human/common \
     \
-    starcraft/human starwars/human galciv/human sose/human runescape/human other-media/human \
+    starcraft/human starwars/human galciv/human sose/human runescape/human_asgarnian runescape/human_kandarin runescape/human_kharidian runescape/human_menaphite runescape/human_misthalinian runescape/human other-media/human \
     \
     human/human1 human/human2 human/human3 ui/human_extra human/zextended
 
@@ -195,7 +196,9 @@ build "ui_elderscrolls_spriggan"    "ElderScrolls - Spriggan"   "R" elderscrolls
 
 build "ui_narivia_rodah" "Narivia - Rodah" "R" narivia/rodah
 
-build "ui_runescape_human" "RuneScape - Human" "L" runescape/human
+build "ui_runescape_human" "RuneScape - Human" "L" \
+    runescape/human_asgarnian runescape/human_kandarin runescape/human_kharidian runescape/human_menaphite runescape/human_misthalinian \
+    runescape/human
 
 build "ui_starcraft_human" "StarCraft - Human"      "L" starcraft/human
 build "ui_starcraft_protoss" "StarCraft - Protoss"  "R" starcraft/protoss

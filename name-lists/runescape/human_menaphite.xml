@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>runescape_human_menaphite</Id>
+    <Name>RuneScape - Human - Menaphite</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - RuneScape</Name>
+        <Values>
+          <string>Menaphite</string>
+          <string>Menaphosian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - RuneScape</Name>
+          <Values>
+            <string>Menaphos</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - RuneScape</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-menaphos-settlements.txt</Url>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Cities - RuneScape</Name>
+          <Values>
+            <string>Sophanem</string>
+            <string>Ullek</string>
+            <string>Uzer</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - RuneScape</Name>
+          <Values>
+            <string>Menaphos</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

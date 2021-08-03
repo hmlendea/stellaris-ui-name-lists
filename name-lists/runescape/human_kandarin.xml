@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>runescape_human_kandarin</Id>
+    <Name>RuneScape - Human - Kandarin</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - RuneScape</Name>
+        <Values>
+          <string>Kandarin</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - RuneScape</Name>
+          <Values>
+            <string>Kandarin</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - RuneScape</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-kandarin-settlements.txt</Url>
+        </NameGroup>
+      </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers - RuneScape</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-kandarin-rivers.txt</Url>
+        </NameGroup>
+      </Rivers>
+    </Places>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Cities - RuneScape</Name>
+          <Values>
+            <string>Ardougne</string>
+            <string>Yanille</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - RuneScape</Name>
+          <Values>
+            <string>Kandarin</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
