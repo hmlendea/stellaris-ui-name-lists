@@ -11,54 +11,6 @@
         </Values>
       </NameGroup>
     </Denonyms>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>CoDominium - Terran Confederacy</Name>
-          <Values>
-            <string>Cienfuegos</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>La Isabela</string>
-            <string>Las Veredas</string>
-            <string>Nueva Cádiz</string>
-            <string>Puerto González</string>
-            <string>San Cristóbal</string>
-            <string>San Fernando</string>
-            <string>San Lucas</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - Franco-Iberia</Name>
-          <Values>
-            <string>Gran Éxito</string>
-            <string>Fidèle</string>
-            <string>Amparo</string>
-            <string>Valienta</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-      <Arid>
-        <NameGroup>
-          <Name>Places - Grand Theft Auto</Name>
-          <Values>
-            <string>Las Venturas</string>
-          </Values>
-        </NameGroup>
-      </Arid>
-      <Continental>
-        <NameGroup>
-          <Name>Places - Grand Theft Auto</Name>
-          <Values>
-            <string>San Fierro</string>
-            <string>Los Santos</string>
-          </Values>
-        </NameGroup>
-      </Continental>
-    </Planets>
     <Characters>
       <CharacterNames>
         <Id>spanish</Id>

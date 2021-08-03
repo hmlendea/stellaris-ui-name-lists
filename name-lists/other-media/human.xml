@@ -3,7 +3,54 @@
   <NameList>
     <Id>other-media_human</Id>
     <Name>Other Media - Human</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - Marvel</Name>
+        <Values>
+          <string>Sokovian</string>
+          <string>Wakandan</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Denonyms - Memes</Name>
+        <Values>
+          <string>Kekistani</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
     <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Grand Theft Auto</Name>
+          <Values>
+            <string>Liberty</string>
+            <string>Vice</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - Marvel</Name>
+          <Values>
+            <string>Sokovia</string>
+            <string>Wakanda</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Memes</Name>
+          <Values>
+            <string>Kekistan</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Marvel</Name>
+          <Values>
+            <string>Novi Grad</string>
+          </Values>
+        </NameGroup>
+      </Cities>
       <Mountains>
         <NameGroup>
           <Name>Mountains - A Song of Ice and Fire</Name>
@@ -11,8 +58,26 @@
             <string>Frostfang</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Mountains - Marvel</Name>
+          <Values>
+            <string>Bashenga</string>
+          </Values>
+        </NameGroup>
       </Mountains>
     </Places>
+    <GreatPeople>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - Memes</Name>
+          <Values>
+            <string>Captain Alex</string>
+            <string>Pepe the Frog</string>
+            <string>Rick Roll</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+    </GreatPeople>
     <Warfare>
       <Weapons>
         <Swords>
@@ -44,6 +109,14 @@
           </Values>
         </NameGroup>
       </Battleship>
+      <Constructor>
+        <NameGroup>
+          <Name>People - Cartoons</Name>
+          <Values>
+            <string>Bob</string>
+          </Values>
+        </NameGroup>
+      </Constructor>
     </Ships>
     <ShipClasses>
       <Generic>
@@ -111,6 +184,13 @@
           <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-human-cities.txt</Url>
         </NameGroup>
         <NameGroup>
+          <Name>Cities - Grand Theft Auto</Name>
+          <Values>
+            <string>Liberty</string>
+            <string>Vice</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Dishonored - Empire of the Isles</Name>
           <Values>
             <string>Bastillian</string>
@@ -130,13 +210,6 @@
             <string>Oeno</string>
             <string>Unadar</string>
             <string>Xenon</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Places - Grand Theft Auto</Name>
-          <Values>
-            <string>Liberty</string>
-            <string>Vice</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -204,12 +277,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Places - Grand Theft Auto</Name>
-          <Values>
-            <string>Las Venturas</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Places - Puzzle Pirates</Name>
           <Values>
             <string>Caravenserai</string>
@@ -249,13 +316,6 @@
           <Values>
             <string>Astora</string>
             <string>Lothric</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Places - Grand Theft Auto</Name>
-          <Values>
-            <string>San Fierro</string>
-            <string>Los Santos</string>
           </Values>
         </NameGroup>
         <NameGroup>

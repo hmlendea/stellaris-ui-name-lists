@@ -145,6 +145,7 @@
             <string>St. Louis</string>
             <string>Tallahassee</string>
             <string>Tucson</string>
+            <string>Tulsa</string>
             <string>Washington</string>
             <string>Wichita</string>
           </Values>
@@ -359,6 +360,16 @@
         </NameGroup>
       </BattleLocations>
     </Warfare>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals</Name>
+          <Values>
+            <string>Grizzly</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
     <Ships>
       <Corvette>
         <NameGroup>

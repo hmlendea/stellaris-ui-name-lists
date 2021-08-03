@@ -8,7 +8,6 @@
         <Name>Denonyms</Name>
         <Values>
           <string>Spaniard</string>
-          <string>Spanish</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -127,15 +126,6 @@
       </MilitaryUnitTypes>
     </Warfare>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Dishonored - Empire of the Isles</Name>
-          <Values>
-            <string>Cullero</string>
-            <string>Saggunto</string>
-          </Values>
-        </NameGroup>
-      </Generic>
       <Arid>
         <NameGroup>
           <Name>Places</Name>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_spanish</Id>
+    <Name>Other Media - Human - Spanish</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Civilisation: Beyond Earth</Name> <!-- Franco-Iberia -->
+          <Values>
+            <string>Gran Éxito</string>
+            <string>Fidèle</string>
+            <string>Amparo</string>
+            <string>Valienta</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
+          <Values>
+            <string>Cullero</string>
+            <string>Saggunto</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Grand Theft Auto</Name>
+          <Values>
+            <string>San Fierro</string>
+            <string>Las Venturas</string>
+            <string>Los Santos</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Civilisation: Beyond Earth</Name> <!-- Franco-Iberia -->
+          <Values>
+            <string>Gran Éxito</string>
+            <string>Fidèle</string>
+            <string>Amparo</string>
+            <string>Valienta</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
+          <Values>
+            <string>Cullero</string>
+            <string>Saggunto</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - CoDominium</Name> <!-- Terran Confederacy -->
+          <Values>
+            <string>Cienfuegos</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>La Isabela</string>
+            <string>Las Veredas</string>
+            <string>Nueva Cádiz</string>
+            <string>Puerto González</string>
+            <string>San Cristóbal</string>
+            <string>San Fernando</string>
+            <string>San Lucas</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Arid>
+        <NameGroup>
+          <Name>Cities - Grand Theft Auto</Name>
+          <Values>
+            <string>Las Venturas</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Continental>
+        <NameGroup>
+          <Name>Cities - Grand Theft Auto</Name>
+          <Values>
+            <string>San Fierro</string>
+            <string>Los Santos</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

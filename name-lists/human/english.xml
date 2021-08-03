@@ -107,6 +107,15 @@
           </Values>
         </NameGroup>
       </Scientists>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - Folklore</Name>
+          <Values>
+            <string>Galahad</string>
+            <string>Lancelot</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
       <LeadersTier3>
         <NameGroup>
           <Name>Leaders</Name>

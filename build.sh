@@ -99,8 +99,9 @@ build "ui_extra_humans_chinese"         "Human - Chinese"           "L" human/ch
 build "ui_extra_humans_english"         "Human - English"           "L" \
     human/american human/australian human/canadian human/english human/zealandian human/common_british human/common_english
 build "ui_extra_humans_franco-iberian"  "Human - Franco-Iberian"    "L" \
-    human/basque human/catalan human/french human/portuguese human/spanish human/common_iberian human/common_portuguese human/common_spanish \
-    human/common_european
+    human/basque human/catalan human/french human/portuguese human/spanish human/common_iberian human/common_portuguese \
+    human/common_spanish human/common_european \
+    other-media/human_spanish
 build "ui_extra_humans_french"          "Human - French EU"         "L" \
     human/french \
     human/common_european
@@ -120,14 +121,17 @@ build "ui_extra_humans_hindi"           "Human - Hindi"             "L" \
     human/indian human/nepali human/pakistani human/tamil human/hindi
 build "ui_extra_humans_iberian"         "Human - Iberian"           "L" \
     human/basque human/catalan human/portuguese human/spanish \
-    human/common_european human/common_iberian human/common_portuguese human/common_spanish
+    human/common_european human/common_iberian human/common_portuguese \
+    human/common_spanish \
+    other-media/human_spanish
 build "ui_extra_humans_italian"         "Human - Italian"           "L" \
     human/italian \
     human/common_european
 build "ui_extra_humans_japanese"        "Human - Japanese"          "L" human/japanese
 build "ui_extra_humans_latino"          "Human - Latino"            "L" \
     human/argentinian human/brazilian human/colombian human/cuban human/ecuadorian human/guatemalan human/mexican human/nahuatl human/spanish \
-    human/venezuelan human/common_spanish_americano human/common_portuguese human/common_spanish
+    human/venezuelan human/common_spanish_americano human/common_portuguese human/common_spanish \
+    other-media/human_spanish
 build "ui_extra_humans_norse"           "Human - Norse"             "L" \
     human/danish human/icelandic human/norwegian human/swedish human/common_norse
 build "ui_extra_humans_portuguese"      "Human - Portuguese EU"     "L" \
@@ -142,12 +146,14 @@ build "ui_extra_humans_romanian"        "Human - Romanian"          "L" \
 build "ui_extra_humans_romance"         "Human - Romance"           "L" \
     human/argentinian human/brazilian human/catalan human/colombian human/cuban human/ecuadorian human/french human/french_ivory human/guatemalan \
     human/italian human/mexican human/portuguese human/roman human/romanian human/spanish human/venezuelan \
-    human/common_iberian human/common_portuguese human/common_spanish_americano human/common_spanish
+    human/common_iberian human/common_portuguese human/common_spanish_americano human/common_spanish \
+    other-media/human_spanish
 build "ui_extra_humans_russian"         "Human - Russian"           "L" \
-    human/russian
+    human/russian aow/dvar
 build "ui_extra_humans_slavic"          "Human - Slavic"            "L" \
     human/belarusian human/bosnian human/bulgarian human/croatian human/czech human/polish human/russian human/serbian human/slovakian \
-    human/slovenian human/ukrainian human/common_slavic_yugoslavic human/common_slavic
+    human/slovenian human/ukrainian human/common_slavic_yugoslavic human/common_slavic \
+    aow/dvar
 build "ui_extra_humans_spqr_extended"   "Human - Roman"             "L" \
     human/roman human/human3 \
     human/common_european
@@ -178,7 +184,9 @@ build "ui_extra_humans_extended"        "Human - Extended"          "L" \
     human/common_hellenic human/common_iberian human/common_norse human/common_portuguese human/common_slavic_yugoslavic \
     human/common_slavic human/common_spanish_americano human/common_spanish human/common_turkic human/common \
     \
-    starcraft/human starwars/human galciv/human sose/human runescape/human_asgarnian runescape/human_kandarin runescape/human_kharidian runescape/human_menaphite runescape/human_misthalinian runescape/human other-media/human \
+    aow/dvar starcraft/human starwars/human galciv/human sose/human \
+    runescape/human_asgarnian runescape/human_kandarin runescape/human_kharidian runescape/human_menaphite runescape/human_misthalinian runescape/human \
+    other-media/human_spanish other-media/human
     \
     human/human1 human/human2 human/human3 ui/human_extra human/zextended
 
