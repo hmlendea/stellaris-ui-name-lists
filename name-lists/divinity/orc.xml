@@ -37,7 +37,7 @@
         <Weight>100</Weight>
         <MaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/divinity-orc-persons-male.txt</Url>
+            <Url>https://github.com/hmlendea/universal-name-generator/blob/master/Wordlists/divinity-orc-person-male.txt</Url>
           </NameGroup>
         </MaleFullNames>
         <FemaleFullNames>

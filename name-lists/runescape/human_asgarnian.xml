@@ -36,6 +36,12 @@
     <Planets>
       <Continental>
         <NameGroup>
+          <Name>Cities - RuneScape</Name>
+          <Values>
+            <string>Falador</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Countries - RuneScape</Name>
           <Values>
             <string>Asgarnia</string>

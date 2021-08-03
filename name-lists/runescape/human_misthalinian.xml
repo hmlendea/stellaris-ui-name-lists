@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>runescape_human</Id>
-    <Name>RuneScape - Human</Name>
+    <Id>runescape_human_misthalinian</Id>
+    <Name>RuneScape - Human - Misthalinian</Name>
     <Denonyms>
       <NameGroup>
         <Name>Denonyms - RuneScape</Name>
