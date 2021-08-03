@@ -77,7 +77,7 @@
         <NameGroup>
           <Name>Military unit types</Name>
           <Values>
-            <string>Keshig</string>
+            <string>Keshig</string> <!-- AKA Keshik -->
             <string>Mangudai</string>
           </Values>
         </NameGroup>

@@ -3,6 +3,18 @@
   <NameList>
     <Id>humans_common_english</Id>
     <Name>Humans - Common - English</Name>
+    <Warfare>
+      <Weapons>
+        <Artillery>
+          <NameGroup>
+            <Name>Artillery</Name>
+            <Values>
+              <string>Howitzer</string>
+            </Values>
+          </NameGroup>
+        </Artillery>
+      </Weapons>
+    </Warfare>
     <Planets>
       <Generic>
         <NameGroup>

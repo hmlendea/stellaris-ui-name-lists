@@ -81,8 +81,8 @@ function generate-mod-descriptor {
 }
 
 build "ui_extra_humans_african"         "Human - African"           "L" \
-    human/algerian human/angolan human/congolese human/ethiopian human/malian human/mauritanian \
-    human/nigerian human/senegalese human/somali human/swahili human/tunisian human/zambian human/zulu \
+    human/algerian human/angolan human/congolese human/ethiopian human/french_ivory human/kabyle human/malian human/mauritanian \
+    human/nigerian human/senegalese human/somali human/swahili human/tunisian human/yoruba human/zambian human/zulu \
     human/african human/common_african
 build "ui_extra_humans_arabic"          "Human - Arabic"            "L" \
     human/egyptian human/jordanian human/syrian \
@@ -100,9 +100,11 @@ build "ui_extra_humans_english"         "Human - English"           "L" \
 build "ui_extra_humans_franco-iberian"  "Human - Franco-Iberian"    "L" \
     human/basque human/catalan human/french human/portuguese human/spanish human/common_iberian human/common_portuguese human/common_spanish \
     human/common_european
-build "ui_extra_humans_french"          "Human - French"            "L" \
+build "ui_extra_humans_french"          "Human - French EU"         "L" \
     human/french \
     human/common_european
+build "ui_extra_humans_french_int"          "Human - French INT"        "L" \
+    human/french human/french_ivory
 build "ui_extra_humans_german"          "Human - German"            "L" \
     human/austrian human/german human/swiss \
     human/common_european human/common_german
@@ -123,8 +125,8 @@ build "ui_extra_humans_italian"         "Human - Italian"           "L" \
     human/common_european
 build "ui_extra_humans_japanese"        "Human - Japanese"          "L" human/japanese
 build "ui_extra_humans_latino"          "Human - Latino"            "L" \
-    human/argentinian human/brazilian human/colombian human/cuban human/ecuadorian human/guatemalan human/mexican human/spanish human/venezuelan \
-    human/common_spanish_americano human/common_portuguese human/common_spanish
+    human/argentinian human/brazilian human/colombian human/cuban human/ecuadorian human/guatemalan human/mexican human/nahuatl human/spanish \
+    human/venezuelan human/common_spanish_americano human/common_portuguese human/common_spanish
 build "ui_extra_humans_norse"           "Human - Norse"             "L" \
     human/danish human/icelandic human/norwegian human/swedish human/common_norse
 build "ui_extra_humans_portuguese"      "Human - Portuguese EU"     "L" \
@@ -137,7 +139,7 @@ build "ui_extra_humans_romanian"        "Human - Romanian"          "L" \
     human/romanian \
     human/common_european
 build "ui_extra_humans_romance"         "Human - Romance"           "L" \
-    human/argentinian human/brazilian human/catalan human/colombian human/cuban human/ecuadorian human/french human/guatemalan \
+    human/argentinian human/brazilian human/catalan human/colombian human/cuban human/ecuadorian human/french human/french_ivory human/guatemalan \
     human/italian human/mexican human/portuguese human/roman human/romanian human/spanish human/venezuelan \
     human/common_iberian human/common_portuguese human/common_spanish_americano human/common_spanish
 build "ui_extra_humans_russian"         "Human - Russian"           "L" \
@@ -149,7 +151,8 @@ build "ui_extra_humans_spqr_extended"   "Human - Roman"             "L" \
     human/roman human/human3 \
     human/common_european
 build "ui_extra_humans_turkic"          "Human - Turkic"            "L" \
-    human/turkish human/turkmen
+    human/turkish human/turkmen \
+    human/common_turkic
 build "ui_extra_humans_yugoslavic"      "Human - Yugoslavic"        "L" \
     human/bosnian human/croatian human/serbian human/slovenian \
     human/common_european human/common_slavic_yugoslavic human/common_slavic
@@ -159,20 +162,20 @@ build "ui_extra_humans_extended"        "Human - Extended"          "L" \
     human/bosnian human/basque human/brazilian human/bulgarian human/canadian human/catalan \
     human/celtic human/chinese human/colombian human/congolese human/croatian human/cuban \
     human/cypriote human/czech human/danish human/dutch human/ecuadorian human/egyptian human/english \
-    human/estonian human/ethiopian human/filipino human/french human/german human/germanic \
+    human/estonian human/ethiopian human/filipino human/finnish human/french human/french_ivory human/german human/germanic \
     human/greek human/greenlandic human/guatemalan human/hawaiian human/hebrew human/hindi \
     human/hungarian human/icelandic human/icenic human/indian human/indonesian human/italian human/irish \
-    human/japanese human/jordanian human/kiribatian human/korean human/latvian human/lithuanian human/malaysian human/malian \
-    human/maori human/mauritanian human/mexican human/mongol human/nepali human/nigerian \
+    human/japanese human/jordanian human/kabyle human/kiribatian human/korean human/latvian human/lithuanian human/malaysian \
+    human/malian human/maori human/mauritanian human/mexican human/mongol human/nahuatl human/nepali human/nigerian \
     human/norwegian human/pakistani human/persian human/polish human/polynesian human/portuguese \
     human/roman human/romanian human/russian human/scottish human/senegalese human/serbian human/slovakian \
     human/slovenian human/somali human/spanish human/swahili human/swedish human/swiss human/syrian human/taiwanese \
     human/tamil human/tibetan human/tunisian human/turkish human/turkmen human/ukrainian human/venezuelan \
-    human/vietnamese human/welsh human/zambian human/zealandian human/zulu \
+    human/vietnamese human/welsh human/yoruba human/zambian human/zealandian human/zulu \
     \
     human/common_african human/common_asian human/common_british human/common_english human/common_european human/common_german \
     human/common_hellenic human/common_iberian human/common_norse human/common_portuguese human/common_slavic_yugoslavic \
-    human/common_slavic human/common_spanish_americano human/common_spanish human/common \
+    human/common_slavic human/common_spanish_americano human/common_spanish human/common_turkic human/common \
     \
     starcraft/human starwars/human galciv/human sose/human runescape/human other-media/human \
     \

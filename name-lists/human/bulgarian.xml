@@ -83,6 +83,59 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Archar</string>
+            <string>Arda</string>
+            <string>Batova</string>
+            <string>Bistritsa</string>
+            <string>Bunayska</string>
+            <string>Deleynska</string>
+            <string>Dospat</string>
+            <string>Dunav</string>
+            <string>Dzhulyunitsa</string>
+            <string>Erma</string>
+            <string>Fakiyska</string>
+            <string>Iskar</string>
+            <string>Kajalijka</string>
+            <string>Kamchiya</string>
+            <string>Kriva</string>
+            <string>Krumovitsa</string>
+            <string>Lebnitsa</string>
+            <string>Lom</string>
+            <string>Maritsa</string>
+            <string>Matevir</string>
+            <string>Mesta</string>
+            <string>Ogosta</string>
+            <string>Osam</string>
+            <string>Palakaria</string>
+            <string>Pyasarchnik</string>
+            <string>Rezovo</string>
+            <string>Rilska</string>
+            <string>Ropotamo</string>
+            <string>Rositsa</string>
+            <string>Sazliyka</string>
+            <string>Sredetska</string>
+            <string>Struma</string>
+            <string>Strumeshnitsa</string>
+            <string>Stryama</string>
+            <string>Suha</string>
+            <string>Timok</string>
+            <string>Topolnitsa</string>
+            <string>Tsibritsa</string>
+            <string>Tundzha</string>
+            <string>Vacha</string>
+            <string>Varbitsa</string>
+            <string>Veleka</string>
+            <string>Vit</string>
+            <string>Yana</string>
+            <string>Yantra</string>
+            <string>Zlatna</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
     </Places>
     <Warfare>
       <MilitaryUnitTypes>

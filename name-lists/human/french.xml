@@ -219,6 +219,14 @@
     </Companies>
     <Warfare>
       <Weapons>
+        <Artillery>
+          <NameGroup>
+            <Name>Artillery</Name>
+            <Values>
+              <string>Mangoneau</string>
+            </Values>
+          </NameGroup>
+        </Artillery>
         <Guns>
           <NameGroup>
             <Name>Guns</Name>
@@ -262,6 +270,7 @@
             <string>Cuirassier</string>
             <string>Gendarme</string>
             <string>Musketeer</string>
+            <string>Voltigeur</string>
             <string>Voulgier</string>
           </Values>
         </NameGroup>

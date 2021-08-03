@@ -8,13 +8,11 @@
         <Name>Denonyms</Name>
         <Values>
           <string>African</string>
-          <string>Kabyle</string>
           <string>Kenyan</string>
           <string>Mossi</string>
           <string>Namibian</string>
           <string>Sudanese</string>
           <string>Ugandan</string>
-          <string>Yoruba</string>
           <string>Zimbabwean</string>
           <string>Zimbo</string>
         </Values>
@@ -30,7 +28,6 @@
             <string>Djibouti</string>
             <string>Eritrea</string>
             <string>Ghana</string>
-            <string>Ivory Coast</string>
             <string>Kenya</string>
             <string>Liberia</string>
             <string>Madagascar</string>
@@ -74,12 +71,6 @@
           <Name>Cities - Ghana</Name>
           <Values>
             <string>Accra</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Ivory Coast</Name>
-          <Values>
-            <string>Abidjan</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -182,12 +173,6 @@
             <string>Ikenga</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Deities - Yoruba</Name>
-          <Values>
-            <string>Ogun</string>
-          </Values>
-        </NameGroup>
       </LabourDeities>
     </GreatPeople>
     <Warfare>
@@ -201,12 +186,6 @@
           </NameGroup>
         </Throwables>
         <Swords>
-          <NameGroup>
-            <Name>Swords - Kabyle</Name>
-            <Values>
-              <string>Flyssa</string>
-            </Values>
-          </NameGroup>
           <NameGroup>
             <Name>Swords - Sudan, Chad, Eritrea</Name>
             <Values>

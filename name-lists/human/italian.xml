@@ -208,6 +208,7 @@
         <NameGroup>
           <Name>Military unit types</Name>
           <Values>
+            <string>Arditi</string>
             <string>Bersaglieri</string>
             <string>Carabinieri</string>
           </Values>

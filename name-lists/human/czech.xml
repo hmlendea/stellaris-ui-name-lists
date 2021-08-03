@@ -70,6 +70,35 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Bečva</string>
+            <string>Chrudimka</string>
+            <string>Dyje</string>
+            <string>Jihlava</string>
+            <string>Jizera</string>
+            <string>Labe</string>
+            <string>Lužnice</string>
+            <string>Morava</string>
+            <string>Moravice</string>
+            <string>Mže</string>
+            <string>Odra</string>
+            <string>Ohře</string>
+            <string>Opava</string>
+            <string>Orlice</string>
+            <string>Oslava</string>
+            <string>Ploučnice</string>
+            <string>Radbuza</string>
+            <string>Sázava</string>
+            <string>Svratka</string>
+            <string>Úhlava</string>
+            <string>Vltava</string>
+            <string>Vydra</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
       <Lakes>
         <NameGroup>
           <Name>Lakes</Name>
@@ -86,6 +115,18 @@
         </NameGroup>
       </Lakes>
     </Places>
+    <Warfare>
+      <Weapons>
+        <Artillery>
+          <NameGroup>
+            <Name>Artillery</Name>
+            <Values>
+              <string>Houfnice</string>
+            </Values>
+          </NameGroup>
+        </Artillery>
+      </Weapons>
+    </Warfare>
     <Planets>
       <Generic>
         <NameGroup>

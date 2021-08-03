@@ -186,7 +186,7 @@
           <NameGroup>
             <Name>Artillery</Name>
             <Values>
-              <string>Hwach'a</string>
+              <string>Hwacha</string> <!-- Or Hwach'a -->
             </Values>
           </NameGroup>
         </Artillery>

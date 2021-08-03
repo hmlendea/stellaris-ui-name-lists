@@ -35,7 +35,7 @@
           <Name>Military unit types</Name>
           <Values>
             <string>Leitis</string>
-            <string>Uhlan</string>
+            <string>Ulonas</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>

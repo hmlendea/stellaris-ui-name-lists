@@ -22,6 +22,16 @@
       </LeadersTier1>
     </GreatPeople>
     <Warfare>
+      <Weapons>
+        <Throwables>
+          <NameGroup>
+            <Name>Throwables</Name>
+            <Values>
+              <string>Iklwa</string>
+            </Values>
+          </NameGroup>
+        </Throwables>
+      </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
           <Name>Military unit types</Name>

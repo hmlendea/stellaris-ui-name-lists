@@ -137,6 +137,14 @@
           </NameGroup>
         </Hammers>
       </Weapons>
+      <ShipTypes>
+        <NameGroup>
+          <Name>Ship Types</Name>
+          <Values>
+            <string>Fluyt</string>
+          </Values>
+        </NameGroup>
+      </ShipTypes>
     </Warfare>
     <Characters>
       <CharacterNames>

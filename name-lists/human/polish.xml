@@ -103,7 +103,7 @@
         <NameGroup>
           <Name>Military unit types</Name>
           <Values>
-            <string>Uhlan</string>
+            <string>Ułan</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
