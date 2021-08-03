@@ -3,35 +3,7 @@
   <NameList>
     <Id>other-media_human</Id>
     <Name>Other Media - Human</Name>
-    <Denonyms>
-      <NameGroup>
-        <Name>Denonyms</Name>
-        <Values>
-        </Values>
-      </NameGroup>
-    </Denonyms>
     <Places>
-      <Countries>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Countries>
-      <Regions>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Regions>
-      <Cities>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Cities>
       <Mountains>
         <NameGroup>
           <Name>Mountains - A Song of Ice and Fire</Name>
@@ -40,13 +12,6 @@
           </Values>
         </NameGroup>
       </Mountains>
-      <Deserts>
-        <NameGroup>
-          <Name>Deserts - </Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Deserts>
     </Places>
     <Warfare>
       <Weapons>
@@ -69,37 +34,8 @@
           </NameGroup>
         </Swords>
       </Weapons>
-      <MilitaryUnitTypes>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </MilitaryUnitTypes>
     </Warfare>
     <Ships>
-      <Generic />
-      <Corvette>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Corvette>
-      <Destroyer>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Destroyer>
-      <Cruiser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Cruiser>
       <Battleship>
         <NameGroup>
           <Name>Movies</Name>
@@ -108,20 +44,6 @@
           </Values>
         </NameGroup>
       </Battleship>
-      <Science>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Science>
-      <Coloniser>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Coloniser>
     </Ships>
     <ShipClasses>
       <Generic>
@@ -166,13 +88,6 @@
       </ResearchStations>
     </Stations>
     <Armies>
-      <Fleet>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Fleet>
       <SuperSoldierArmy>
         <NameGroup>
           <Name>Others - Based on cheat codes from GTA San Andreas</Name>
@@ -541,47 +456,5 @@
         </NameGroup>
       </Molten>
     </Planets>
-    <Characters>
-      <CharacterNames>
-        <Id></Id>
-        <Weight>100</Weight>
-        <MaleFirstNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </MaleFirstNames>
-        <MaleRoyalFirstNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </MaleRoyalFirstNames>
-        <FemaleFirstNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </FemaleFirstNames>
-        <FemaleRoyalFirstNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </FemaleRoyalFirstNames>
-        <SecondNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </SecondNames>
-        <RoyalSecondNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </RoyalSecondNames>
-      </CharacterNames>
-    </Characters>
   </NameList>
 </ArrayOfNameList>
