@@ -761,46 +761,6 @@
         </NameGroup>
       </MythologicalCreatures>
     </BiosphereNames>
-    <Ships>
-      <Titan>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Hercules</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - Commonwealth of Man</Name>
-          <Values>
-            <string>Imperator</string>
-          </Values>
-        </NameGroup>
-      </Titan>
-      <Colossus>
-        <NameGroup>
-          <Name>Vanilla</Name>
-          <Values>
-            <string>Dis Pater</string>
-            <string>Pax Romana</string>
-            <string>Sol Invictus</string>
-          </Values>
-        </NameGroup>
-      </Colossus>
-      <Juggernaut>
-        <NameGroup>
-          <Name>Vanilla</Name>
-          <Values>
-            <string>Acca Larentia</string>
-            <string>Axis Mundi</string>
-            <string>Emperor</string>
-            <string>Faustulus</string>
-            <string>Lupa</string>
-            <string>Magister Militum</string>
-            <string>Optimus Princeps</string>
-          </Values>
-        </NameGroup>
-      </Juggernaut>
-    </Ships>
     <ShipClasses>
       <Corvette>
         <NameGroup>
@@ -851,17 +811,6 @@
         </NameGroup>
       </Transport>
     </ShipClasses>
-    <Stations>
-      <MilitaryStations>
-        <Generic>
-          <NameGroup>
-            <Name></Name>
-              <Values>
-              </Values>
-            </NameGroup>
-          </Generic>
-        </MilitaryStations>
-    </Stations>
     <Armies>
       <FleetSequentialNames>Classis %R%</FleetSequentialNames>
       <DefenceArmySequentialName>Limitanei %R%</DefenceArmySequentialName>
@@ -897,87 +846,6 @@
             <string>Colonia</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - African Union - Translated</Name>
-          <Values>
-            <string>Castellum</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Slavic Federation - Translated</Name>
-          <Values>
-            <string>Aquila</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Noxium Corporation</Name>
-          <Values>
-            <string>Argentarius</string>
-            <string>Denebola</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Togra University</Name>
-          <Values>
-            <string>Seginus</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - Commonwealth of Man</Name>
-          <Values>
-            <string>Capella</string>
-            <string>Nova Constantinople</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - SPQR</Name>
-          <Values>
-            <string>Acherusia</string>
-            <string>Antiochia</string>
-            <string>Aquilo</string>
-            <string>Argyre</string>
-            <string>Ascrivium</string>
-            <string>Auster</string>
-            <string>Brigantium</string>
-            <string>Caledonia</string>
-            <string>Colonia Augusta</string>
-            <string>Colonia Aurora</string>
-            <string>Colonia Emerita</string>
-            <string>Colonia Pacifica</string>
-            <string>Colonia Traiana</string>
-            <string>Eboracum</string>
-            <string>Eurus</string>
-            <string>Hades</string>
-            <string>Hesperides</string>
-            <string>Hibernia</string>
-            <string>Hyperborea</string>
-            <string>Ithaca</string>
-            <string>Lyrcea</string>
-            <string>Lyrnessus</string>
-            <string>Neritum</string>
-            <string>Nova Aegyptus</string>
-            <string>Nova Parthia</string>
-            <string>Nova Serica</string>
-            <string>Nysa</string>
-            <string>Panchaea</string>
-            <string>Patavium</string>
-            <string>Pedasus</string>
-            <string>Phlegra</string>
-            <string>Rhegium</string>
-            <string>Scandia</string>
-            <string>Silpium</string>
-            <string>Spalatum</string>
-            <string>Telepylos</string>
-            <string>Thrinacia</string>
-            <string>Tritonis</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Delgovicia</string>
-          </Values>
-        </NameGroup>
       </Generic>
       <Arid>
         <NameGroup>
@@ -986,12 +854,6 @@
             <string>Nova Antioch</string>
             <string>Nova Parthia</string>
             <string>Nova Troia</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - Commonwealth of Man</Name>
-          <Values>
-            <string>Tartarus</string>
           </Values>
         </NameGroup>
       </Arid>
@@ -1022,12 +884,6 @@
             <string>Scythia</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Terra Nova</string>
-          </Values>
-        </NameGroup>
       </Continental>
       <Ocean>
         <NameGroup>
@@ -1054,58 +910,7 @@
             <string>Elysium</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Franco-Iberia - Translated</Name>
-          <Values>
-            <string>Mirabilis</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - Commonwealth of Man</Name>
-          <Values>
-            <string>Nova Babylon</string>
-          </Values>
-        </NameGroup>
       </Gaia>
-      <Ocean>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Euxina</string>
-          </Values>
-        </NameGroup>
-      </Ocean>
-      <Tundra>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Nova Samarkand</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - Commonwealth of Man</Name>
-          <Values>
-            <string>Evonium</string>
-          </Values>
-        </NameGroup>
-      </Tundra>
-      <Arctic>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Hyperborea</string>
-            <string>Thule</string>
-          </Values>
-        </NameGroup>
-      </Arctic>
-      <Alpine>
-        <NameGroup>
-          <Name>Stellaris - SPQR</Name>
-          <Values>
-            <string>Olympia</string>
-          </Values>
-        </NameGroup>
-      </Alpine>
     </Planets>
     <Characters>
       <CharacterNames>

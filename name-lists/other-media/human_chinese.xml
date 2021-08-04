@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_chinese</Id>
+    <Name>Other Media - Human - Chinese</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Civilisation: Beyond Earth</Name> <!-- Pan-Asian Cooperative -->
+          <Values>
+            <string>Gaosi</string>
+            <string>Gong Ren</string>
+            <string>Huanle</string>
+            <string>Huihuang</string>
+            <string>Kuijia</string>
+            <string>Qi Chui</string>
+            <string>Renxing</string>
+            <string>Tiangong</string>
+            <string>Xindalu</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
+          <Values>
+            <string>Wei-Ghon</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Solar Dynasty -->
+          <Values>
+            <string>Han Xin</string>
+            <string>Ji Gong</string>
+            <string>Lei Feng</string>
+            <string>Mao</string>
+            <string>Mu Guang</string>
+            <string>Mulan</string>
+            <string>Sun Tzu</string>
+            <string>Xiaoping</string>
+            <string>Yue Fei</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Civilisation: Beyond Earth</Name> <!-- Pan-Asian Cooperative -->
+          <Values>
+            <string>Gaosi</string>
+            <string>Gong Ren</string>
+            <string>Huanle</string>
+            <string>Huihuang</string>
+            <string>Kuijia</string>
+            <string>Qi Chui</string>
+            <string>Renxing</string>
+            <string>Tiangong</string>
+            <string>Xindalu</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
+          <Values>
+            <string>Wei-Ghon</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Solar Dynasty -->
+          <Values>
+            <string>Han Xin</string>
+            <string>Ji Gong</string>
+            <string>Lei Feng</string>
+            <string>Mao</string>
+            <string>Mu Guang</string>
+            <string>Mulan</string>
+            <string>Sun Tzu</string>
+            <string>Xiaoping</string>
+            <string>Yue Fei</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Alien</Name> <!-- Union of Progressive Peoples -->
+          <Values>
+            <string>Chiu</string>
+            <string>Phei Phei</string>
+            <string>Qi Xi</string>
+            <string>Wan An</string>
+            <string>Xiang</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Xianyang</string>
+            <string>Wenzhou</string>
+            <string>Wang Tong</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Ningbo</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Tundra>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Taiyuan</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

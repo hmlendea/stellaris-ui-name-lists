@@ -313,60 +313,6 @@
       </Science>
     </Ships>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Alien - Union of Progressive Peoples</Name>
-          <Values>
-            <string>Chiu</string>
-            <string>Phei Phei</string>
-            <string>Qi Xi</string>
-            <string>Wan An</string>
-            <string>Xiang</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Dishonored - Empire of the Isles</Name>
-          <Values>
-            <string>Wei-Ghon</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Solar Dynasty</Name>
-          <Values>
-            <string>Han Xin</string>
-            <string>Ji Gong</string>
-            <string>Lei Feng</string>
-            <string>Mao</string>
-            <string>Mu Guang</string>
-            <string>Mulan</string>
-            <string>Sun Tzu</string>
-            <string>Xiaoping</string>
-            <string>Yue Fei</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Xianyang</string>
-            <string>Wenzhou</string>
-            <string>Wang Tong</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - Pan-Asian Cooperative</Name>
-          <Values>
-            <string>Gaosi</string>
-            <string>Gong Ren</string>
-            <string>Huanle</string>
-            <string>Huihuang</string>
-            <string>Kuijia</string>
-            <string>Qi Chui</string>
-            <string>Renxing</string>
-            <string>Tiangong</string>
-            <string>Xindalu</string>
-          </Values>
-        </NameGroup>
-      </Generic>
       <Continental>
         <NameGroup>
           <Name>Persons - Leaders</Name>
@@ -389,22 +335,6 @@
           </Values>
         </NameGroup>
       </Continental>
-      <Ocean>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Ningbo</string>
-          </Values>
-        </NameGroup>
-      </Ocean>
-      <Tundra>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Taiyuan</string>
-          </Values>
-        </NameGroup>
-      </Tundra>
       <Molten>
         <NameGroup>
           <Name>Mythology - Places</Name>

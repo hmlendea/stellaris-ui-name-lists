@@ -3,15 +3,6 @@
   <NameList>
     <Id>human_celtic</Id>
     <Name>Human - Celtic</Name>
-    <Denonyms>
-      <NameGroup>
-        <Name>Denonyms</Name>
-        <Values>
-            <string>Breton</string>
-            <string>Celtic</string>
-        </Values>
-      </NameGroup>
-    </Denonyms>
     <Places>
       <Countries>
         <NameGroup>
@@ -57,26 +48,5 @@
         </NameGroup>
       </Heroes>
     </GreatPeople>
-    <BiosphereNames>
-      <MythologicalCreatures>
-        <NameGroup>
-          <Name>Mythological creatures - Cornish</Name>
-          <Values>
-            <string>Spriggan</string>
-          </Values>
-        </NameGroup>
-      </MythologicalCreatures>
-    </BiosphereNames>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Dishonored - Empire of the Isles</Name>
-          <Values>
-            <string>Fraeport</string>
-            <string>Wynnedown</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
   </NameList>
 </ArrayOfNameList>
