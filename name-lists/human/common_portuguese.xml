@@ -14,7 +14,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Brasilia</Name>
+          <Name>Civilization: Beyond Earth - Brasilia</Name>
           <Values>
             <string>Alto Torre</string>
             <string>Ascensão</string>
@@ -37,7 +37,7 @@
       </Generic>
       <Gaia>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Brasilia</Name>
+          <Name>Civilization: Beyond Earth - Brasilia</Name>
           <Values>
             <string>Caminho Celeste</string>
             <string>Monumento</string>
@@ -47,7 +47,7 @@
       </Gaia>
       <Alpine>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Brasilia</Name>
+          <Name>Civilization: Beyond Earth - Brasilia</Name>
           <Values>
             <string>Borda Dura</string>
           </Values>

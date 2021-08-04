@@ -14,7 +14,7 @@
     <Places>
       <Cities>
         <NameGroup>
-          <Name>Cities</Name>
+          <Name>Cities - Age of Wonders: Planetfall</Name>
           <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-kirko-cities.txt</Url>
         </NameGroup>
       </Cities>
@@ -22,6 +22,7 @@
     <Ships>
       <Generic>
         <NameGroup>
+          <Name>Units - Age of Wonders: Planetfall</Name>
           <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-kirko-units.txt</Url>
         </NameGroup>
       </Generic>
@@ -46,7 +47,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Age of Wonders: Planetfall - Cities</Name>
+          <Name>Cities - Age of Wonders: Planetfall</Name>
           <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-kirko-cities.txt</Url>
         </NameGroup>
       </Generic>

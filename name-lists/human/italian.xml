@@ -238,7 +238,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Brasilia - Translated</Name>
+          <Name>Civilization: Beyond Earth - Brasilia - Translated</Name>
           <Values>
             <string>Torre</string>
             <string>Salire</string>
@@ -246,7 +246,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Franco-Iberia - Translated</Name>
+          <Name>Civilization: Beyond Earth - Franco-Iberia - Translated</Name>
           <Values>
             <string>Coraggio</string>
             <string>Cresciuto</string>
@@ -294,14 +294,14 @@
       </Generic>
       <Gaia>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Franco-Iberia - Translated</Name>
+          <Name>Civilization: Beyond Earth - Franco-Iberia - Translated</Name>
           <Values>
             <string>Mirabela</string>
             <string>Monumento</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Brasilia - Translated</Name>
+          <Name>Civilization: Beyond Earth - Brasilia - Translated</Name>
           <Values>
             <string>Sentiero Celeste</string>
             <string>Monumento</string>

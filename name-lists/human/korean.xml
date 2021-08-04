@@ -211,14 +211,14 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Pan-Asian Cooperative</Name>
+          <Name>Civilization: Beyond Earth - Pan-Asian Cooperative</Name>
           <Values>
             <string>Hyugeso</string>
             <string>Sinjeon</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Chungsu</Name>
+          <Name>Civilization: Beyond Earth - Chungsu</Name>
           <Values>
             <string>Jeongsang</string>
             <string>Dangye</string>

@@ -6,7 +6,7 @@
     <Places>
       <Cities>
         <NameGroup>
-          <Name>Cities - Civilisation: Beyond Earth</Name> <!-- Franco-Iberia -->
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Franco-Iberia -->
           <Values>
             <string>Gran Éxito</string>
             <string>Fidèle</string>
@@ -34,7 +34,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Cities - Civilisation: Beyond Earth</Name> <!-- Franco-Iberia -->
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Franco-Iberia -->
           <Values>
             <string>Gran Éxito</string>
             <string>Fidèle</string>

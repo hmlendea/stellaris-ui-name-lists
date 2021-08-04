@@ -14,7 +14,7 @@
     <Places>
       <Cities>
         <NameGroup>
-          <Name>Cities</Name>
+          <Name>Cities - Age of Wonders: Planetfall</Name>
           <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-cities.txt</Url>
         </NameGroup>
       </Cities>
@@ -22,7 +22,7 @@
     <Ships>
       <Generic>
         <NameGroup>
-          <Name>Age of Wonders: Planetfall - Units</Name>
+          <Name>Units - Age of Wonders: Planetfall</Name>
           <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-units.txt</Url>
         </NameGroup>
       </Generic>
@@ -47,7 +47,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Age of Wonders: Planetfall - Cities</Name>
+          <Name>Cities - Age of Wonders: Planetfall</Name>
           <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-cities.txt</Url>
         </NameGroup>
       </Generic>
@@ -58,19 +58,19 @@
         <Weight>100</Weight>
         <MaleFirstNames>
           <NameGroup>
-          <Name>Age of Wonders: Planetfall - Male first names</Name>
+          <Name>Male first names - Age of Wonders: Planetfall</Name>
           <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-          <Name>Age of Wonders: Planetfall - Female first names</Name>
+          <Name>Female first names - Age of Wonders: Planetfall</Name>
           <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-          <Name>Age of Wonders: Planetfall - Surnames</Name>
+          <Name>Surnames - Age of Wonders: Planetfall</Name>
           <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>

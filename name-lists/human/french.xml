@@ -329,7 +329,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Franco-Iberia</Name>
+          <Name>Civilization: Beyond Earth - Franco-Iberia</Name>
           <Values>
             <string>Bouclier</string>
             <string>Espérance</string>
@@ -413,7 +413,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Franco-Iberia</Name>
+          <Name>Civilization: Beyond Earth - Franco-Iberia</Name>
           <Values>
             <string>Mirabelle</string>
           </Values>

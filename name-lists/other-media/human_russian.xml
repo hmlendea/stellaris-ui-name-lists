@@ -6,13 +6,13 @@
     <Places>
       <Cities>
         <NameGroup>
-          <Name>Cities - Civilisation: Beyond Earth</Name> <!-- Kavithan Protectorate -->
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Kavithan Protectorate -->
           <Values>
             <string>Nikhitha</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Civilisation: Beyond Earth</Name> <!-- Slavic Federation -->
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Slavic Federation -->
           <Values>
             <string>Averkiy</string>
             <string>Blesk</string>
@@ -66,13 +66,13 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Cities - Civilisation: Beyond Earth</Name> <!-- Kavithan Protectorate -->
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Kavithan Protectorate -->
           <Values>
             <string>Nikhitha</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Civilisation: Beyond Earth</Name> <!-- Slavic Federation -->
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Slavic Federation -->
           <Values>
             <string>Averkiy</string>
             <string>Blesk</string>

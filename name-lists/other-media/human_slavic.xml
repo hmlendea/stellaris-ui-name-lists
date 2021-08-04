@@ -6,7 +6,7 @@
     <Places>
       <Cities>
         <NameGroup>
-          <Name>Cities - Civilisation: Beyond Earth</Name> <!-- Slavic Federation -->
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Slavic Federation -->
           <Values>
             <string>Mir</string>
             <string>Rodomir</string>
@@ -42,7 +42,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Cities - Civilisation: Beyond Earth</Name> <!-- Slavic Federation -->
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Slavic Federation -->
           <Values>
             <string>Mir</string>
             <string>Rodomir</string>

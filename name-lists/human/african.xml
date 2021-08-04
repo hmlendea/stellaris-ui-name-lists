@@ -211,7 +211,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - People's African Union - Shona</Name>
+          <Name>Civilization: Beyond Earth - People's African Union - Shona</Name>
           <Values>
             <string>Ayaan</string>
             <string>Ladan</string>
@@ -223,14 +223,14 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - People's African Union - Tswana</Name>
+          <Name>Civilization: Beyond Earth - People's African Union - Tswana</Name>
           <Values>
             <string>Masego</string>
             <string>Thabo</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - People's African Union - Xhosa</Name>
+          <Name>Civilization: Beyond Earth - People's African Union - Xhosa</Name>
           <Values>
             <string>Sizwe</string>
           </Values>

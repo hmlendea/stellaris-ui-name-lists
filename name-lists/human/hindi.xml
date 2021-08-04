@@ -259,7 +259,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Kavithan Protectorate - Sanskrit</Name>
+          <Name>Civilization: Beyond Earth - Kavithan Protectorate - Sanskrit</Name>
           <Values>
             <string>Dhanya</string>
             <string>Garhi</string>
@@ -268,13 +268,13 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Kavithan Protectorate - Hindi</Name>
+          <Name>Civilization: Beyond Earth - Kavithan Protectorate - Hindi</Name>
           <Values>
             <string>Udyama</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Kavithan Protectorate - Sanskrit</Name>
+          <Name>Civilization: Beyond Earth - Kavithan Protectorate - Sanskrit</Name>
           <Values>
             <string>Agni</string>
             <string>Asraya</string>
@@ -287,7 +287,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Kavithan Protectorate - Urdu</Name>
+          <Name>Civilization: Beyond Earth - Kavithan Protectorate - Urdu</Name>
           <Values>
             <string>Javed</string>
             <string>Saira</string>

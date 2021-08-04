@@ -38,20 +38,20 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Polystralia</Name>
+          <Name>Civilization: Beyond Earth - Polystralia</Name>
           <Values>
             <string>Mareeba</string>
             <string>Speewah</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Polystralia - Yugambeh</Name>
+          <Name>Civilization: Beyond Earth - Polystralia - Yugambeh</Name>
           <Values>
             <string>Jimboomba</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Polystralia - Wathawurrung</Name>
+          <Name>Civilization: Beyond Earth - Polystralia - Wathawurrung</Name>
           <Values>
             <string>Ballarat</string>
           </Values>

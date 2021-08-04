@@ -6,7 +6,7 @@
     <Places>
       <Cities>
         <NameGroup>
-          <Name>Cities - Civilisation: Beyond Earth</Name> <!-- Pan-Asian Cooperative -->
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Pan-Asian Cooperative -->
           <Values>
             <string>Gaosi</string>
             <string>Gong Ren</string>
@@ -44,7 +44,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Cities - Civilisation: Beyond Earth</Name> <!-- Pan-Asian Cooperative -->
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Pan-Asian Cooperative -->
           <Values>
             <string>Gaosi</string>
             <string>Gong Ren</string>
