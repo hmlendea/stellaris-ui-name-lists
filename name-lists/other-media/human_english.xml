@@ -12,6 +12,31 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Admiral</string>
+            <string>Angelfish</string>
+            <string>Barracuda</string>
+            <string>Blackthrope</string>
+            <string>Boyle</string>
+            <string>Byrne</string>
+            <string>Charcoal</string>
+            <string>Cormorant</string>
+            <string>Ebony</string>
+            <string>Ember</string>
+            <string>Gallows</string>
+            <string>Midsummer</string>
+            <string>Port Venture</string>
+            <string>Scrimshaw</string>
+            <string>Shatterstone</string>
+            <string>Starfish</string>
+            <string>Wensleydale</string>
+            <string>Yorrick</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - A Song of Ice and Fire</Name> <!-- Dorne -->
@@ -95,31 +120,6 @@
           </Values>
         </NameGroup>
       </Cities>
-      <Regions>
-        <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Admiral</string>
-            <string>Angelfish</string>
-            <string>Barracuda</string>
-            <string>Blackthrope</string>
-            <string>Boyle</string>
-            <string>Byrne</string>
-            <string>Charcoal</string>
-            <string>Cormorant</string>
-            <string>Ebony</string>
-            <string>Ember</string>
-            <string>Gallows</string>
-            <string>Midsummer</string>
-            <string>Port Venture</string>
-            <string>Scrimshaw</string>
-            <string>Shatterstone</string>
-            <string>Starfish</string>
-            <string>Wensleydale</string>
-            <string>Yorrick</string>
-          </Values>
-        </NameGroup>
-      </Regions>
       <Mountains>
         <NameGroup>
           <Name>Mountains - A Song of Ice and Fire</Name>

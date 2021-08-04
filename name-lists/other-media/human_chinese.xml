@@ -4,6 +4,14 @@
     <Id>other-media_human_chinese</Id>
     <Name>Other Media - Human - Chinese</Name>
     <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Dugong</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Civilization: Beyond Earth</Name> <!-- Pan-Asian Cooperative -->
@@ -40,14 +48,6 @@
           </Values>
         </NameGroup>
       </Cities>
-      <Regions>
-        <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Dugong</string>
-          </Values>
-        </NameGroup>
-      </Regions>
     </Places>
     <Planets>
       <Generic>

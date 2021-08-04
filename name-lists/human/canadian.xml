@@ -129,15 +129,5 @@
         </Starports>
       </Starbases>
     </Stations>
-    <Planets>
-      <Arctic>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Baffin</string>
-          </Values>
-        </NameGroup>
-      </Arctic>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

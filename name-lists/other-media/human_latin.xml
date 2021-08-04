@@ -4,6 +4,14 @@
     <Id>other-media_human_latin</Id>
     <Name>Other Media - Human - Latin</Name>
     <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Osterum</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Civilization: Beyond Earth - Translated</Name> <!-- African Union -->
@@ -38,14 +46,6 @@
           </Values>
         </NameGroup>
       </Cities>
-      <Regions>
-        <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Osterum</string>
-          </Values>
-        </NameGroup>
-      </Regions>
     </Places>
     <Ships>
       <Titan>

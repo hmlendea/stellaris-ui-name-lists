@@ -143,7 +143,6 @@
             <string>Ansel</string>
             <string>Arakoua</string>
             <string>Chaparral</string>
-            <string>Cnossos</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -267,12 +266,6 @@
             <string>R'lyeh</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Persons - Heroes - Age of Mythology</Name>
-          <Values>
-            <string>Arkantos</string>
-          </Values>
-        </NameGroup>
       </Ocean>
       <Tundra>
         <NameGroup>
@@ -317,14 +310,6 @@
           </Values>
         </NameGroup>
       </Tomb>
-      <Molten>
-        <NameGroup>
-          <Name>Places - Puzzle Pirates</Name>
-          <Values>
-            <string>Hephaestus' Forge</string>
-          </Values>
-        </NameGroup>
-      </Molten>
     </Planets>
   </NameList>
 </ArrayOfNameList>

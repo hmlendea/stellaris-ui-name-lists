@@ -14,15 +14,15 @@
     <Places>
       <Countries>
         <NameGroup>
-          <Name>Countries - Endonyms</Name>
-          <Values>
-            <string>Deutschland</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Countries</Name>
           <Values>
             <string>Germany</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Deutschland</string>
           </Values>
         </NameGroup>
       </Countries>
@@ -221,14 +221,6 @@
       </GeneralsTier2>
     </GreatPeople>
     <Companies>
-      <RobotManufacturers>
-        <NameGroup>
-          <Name>Robot Manufacturers - Alien</Name>
-          <Values>
-            <string>Seegson</string>
-          </Values>
-        </NameGroup>
-      </RobotManufacturers>
       <AutomotiveManufacturers>
         <NameGroup>
           <Name>Automotive Manufacturers</Name>
@@ -331,16 +323,6 @@
         </NameGroup>
       </Juggernaut>
     </Ships>
-    <ShipClasses>
-      <Science>
-        <NameGroup>
-          <Name>Ship Classes - StarCraft</Name>
-          <Values>
-            <string>Kurzweil</string>
-          </Values>
-        </NameGroup>
-      </Science>
-    </ShipClasses>
     <Stations>
       <MilitaryStations>
         <Generic>
@@ -360,59 +342,6 @@
       <SuperSoldierArmySequentialName>%O% Supersoldatten Divison</SuperSoldierArmySequentialName>
     </Armies>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Pandora: First Contact - Imperium</Name>
-          <Values>
-            <string>Rommel</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Terra Salvum</Name>
-          <Values>
-            <string>Haeckel</string>
-            <string>Mendel</string>
-            <string>Möbius</string>
-            <string>Schimper</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Togra University</Name>
-          <Values>
-            <string>Planck</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - INTEGR</Name>
-          <Values>
-            <string>Belohnung</string>
-            <string>Blauwald</string>
-            <string>Demut</string>
-            <string>Ehrfurcht</string>
-            <string>Eintracht</string>
-            <string>Entschluss</string>
-            <string>Entwicklung</string>
-            <string>Gemüt</string>
-            <string>Hochachtung</string>
-            <string>Hochburg</string>
-            <string>Kastellan</string>
-            <string>Schwerweg</string>
-            <string>Streben</string>
-            <string>Trutzburg</string>
-            <string>Wächter</string>
-            <string>Wahrheit</string>
-            <string>Weisheit</string>
-            <string>Weltgeist</string>
-            <string>Zenit</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Franco-Iberia - Old High German</Name>
-          <Values>
-            <string>Beraht</string>
-          </Values>
-        </NameGroup>
-      </Generic>
       <Continental>
         <NameGroup>
           <Name>Cities</Name>
@@ -431,12 +360,6 @@
         </NameGroup>
       </Ocean>
       <Tomb>
-        <NameGroup>
-          <Name>Pandora: First Contact - Togra University</Name>
-          <Values>
-            <string>Heisenberg</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Words</Name>
           <Values>
