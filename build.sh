@@ -86,10 +86,12 @@ build "ui_extra_humans_african"         "Human - African"           "L" \
     human/african human/common_african
 build "ui_extra_humans_american_north"  "Human - American NA"       "L" \
     human/american human/canadian \
-    human/common_english
+    human/common_english \
+    other-media/human_american  other-media/human_english
 build "ui_extra_humans_american_usa"    "Human - American USA"      "L" \
     human/american \
-    human/common_english
+    human/common_english \
+    other-media/human_american  other-media/human_english
 build "ui_extra_humans_arabic"          "Human - Arabic"            "L" \
     human/egyptian human/jordanian human/syrian \
     human/arabic \
@@ -101,7 +103,9 @@ build "ui_extra_humans_asian"           "Human - Asian"             "L" \
 build "ui_extra_humans_austronesian"    "Human - Austronesian"      "L" \
     human/filipino human/hawaiian human/indonesian human/kiribatian human/malaysian human/maori human/polynesian human/austronesian
 build "ui_extra_humans_british"         "Human - British"           "L" \
-    human/english human/scottish human/welsh human/common_british human/common_english
+    human/english human/scottish human/welsh \
+    human/common_british human/common_english \
+    other-media/human_english
 build "ui_extra_humans_celtic"          "Human - Celtic"            "L" \
     human/breton human/cornish human/icenic human/irish human/scottish human/welsh \
     human/celtic human/common_celtic \
@@ -111,7 +115,9 @@ build "ui_extra_humans_chinese"         "Human - Chinese"           "L" \
     human/common_asian \
     other-media/human_chinese
 build "ui_extra_humans_english"         "Human - English"           "L" \
-    human/american human/australian human/canadian human/english human/zealandian human/common_british human/common_english
+    human/american human/australian human/canadian human/english human/zealandian \
+    human/common_british human/common_english \
+    other-media/human_american  other-media/human_english
 build "ui_extra_humans_european"        "Human - European"          "L" \
     human/austrian human/belarusian human/basque human/bosnian human/breton human/bulgarian human/catalan human/celtic human/cornish human/croatian \
     human/cypriote human/czech human/danish human/dutch human/english human/estonian human/finnish human/french human/german human/germanic human/greek \
@@ -125,7 +131,7 @@ build "ui_extra_humans_european"        "Human - European"          "L" \
     \
     aow/dvar starcraft/human starwars/human galciv/human sose/human \
     runescape/human_asgarnian runescape/human_kandarin runescape/human_misthalinian runescape/human \
-    other-media/human_celtic other-media/human_latin other-media/human_russian other-media/human_slavic other-media/human_spanish
+    other-media/human_celtic other-media/human_english other-media/human_latin other-media/human_russian other-media/human_slavic other-media/human_spanish
 build "ui_extra_humans_franco-iberian"  "Human - Franco-Iberian"    "L" \
     human/basque human/catalan human/french human/portuguese human/spanish human/common_iberian human/common_portuguese \
     human/common_spanish human/common_european \
@@ -218,8 +224,8 @@ build "ui_extra_humans_extended"        "Human - Extended"          "L" \
     \
     aow/dvar starcraft/human starwars/human galciv/human sose/human \
     runescape/human_asgarnian runescape/human_kandarin runescape/human_kharidian runescape/human_menaphite runescape/human_misthalinian runescape/human \
-    other-media/human_arabic other-media/human_celtic other-media/human_chinese other-media/human_latin other-media/human_russian other-media/human_slavic \
-    other-media/human_spanish other-media/human \
+    other-media/human_american other-media/human_arabic other-media/human_celtic other-media/human_chinese other-media/human_english other-media/human_latin \
+    other-media/human_russian other-media/human_slavic other-media/human_spanish other-media/human \
     \
     human/human1 human/human2 human/human3 ui/human_extra human/zextended
 

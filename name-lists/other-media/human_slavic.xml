@@ -3,7 +3,23 @@
   <NameList>
     <Id>other-media_human_slavic</Id>
     <Name>Other Media - Human - Slavic</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - Marvel</Name>
+        <Values>
+          <string>Sokovian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
     <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - Marvel</Name>
+          <Values>
+            <string>Sokovia</string>
+          </Values>
+        </NameGroup>
+      </Countries>
       <Cities>
         <NameGroup>
           <Name>Cities - Civilization: Beyond Earth</Name> <!-- Slavic Federation -->
@@ -17,6 +33,12 @@
           <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
           <Values>
             <string>Dabokva</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Marvel</Name> <!-- Sokovia -->
+          <Values>
+            <string>Novi Grad</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -53,6 +75,12 @@
           <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
           <Values>
             <string>Dabokva</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Marvel</Name> <!-- Sokovia -->
+          <Values>
+            <string>Novi Grad</string>
           </Values>
         </NameGroup>
         <NameGroup>

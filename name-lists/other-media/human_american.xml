@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_american</Id>
+    <Name>Other Media - Human - American</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- American Reclamation Corporation -->
+          <Values>
+            <string>Amity</string>
+            <string>Ascension</string>
+            <string>Axiom</string>
+            <string>Bradbury</string>
+            <string>Central</string>
+            <string>Empire</string>
+            <string>Endaevour</string>
+            <string>Enterprise</string>
+            <string>Fortune</string>
+            <string>Grand City</string>
+            <string>Heritage</string>
+            <string>Liberty</string>
+            <string>Praxis</string>
+            <string>Prospect</string>
+            <string>Reliance</string>
+            <string>Sentinel</string>
+            <string>Stalwart</string>
+            <string>Star City</string>
+            <string>Vanguard</string>
+            <string>Venture</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Fallout</Name>
+          <Values>
+            <string>New Vegas</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
+          <Values>
+            <string>Odum</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
+          <Values>
+            <string>Whipple</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- American Reclamation Corporation -->
+          <Values>
+            <string>Amity</string>
+            <string>Ascension</string>
+            <string>Axiom</string>
+            <string>Bradbury</string>
+            <string>Central</string>
+            <string>Empire</string>
+            <string>Endaevour</string>
+            <string>Enterprise</string>
+            <string>Fortune</string>
+            <string>Grand City</string>
+            <string>Heritage</string>
+            <string>Liberty</string>
+            <string>Praxis</string>
+            <string>Prospect</string>
+            <string>Reliance</string>
+            <string>Sentinel</string>
+            <string>Stalwart</string>
+            <string>Star City</string>
+            <string>Vanguard</string>
+            <string>Venture</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
+          <Values>
+            <string>Odum</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
+          <Values>
+            <string>Whipple</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Hinckley's Hope</string>
+            <string>Leffingwell</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Arid>
+        <NameGroup>
+          <Name>Cities - Fallout</Name>
+          <Values>
+            <string>New Vegas</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Alaska</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

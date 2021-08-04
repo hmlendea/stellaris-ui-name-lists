@@ -40,6 +40,14 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Regions>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Dugong</string>
+          </Values>
+        </NameGroup>
+      </Regions>
     </Places>
     <Planets>
       <Generic>
@@ -97,6 +105,12 @@
         </NameGroup>
       </Generic>
       <Ocean>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Dugong</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
           <Values>

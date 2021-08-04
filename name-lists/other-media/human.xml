@@ -7,7 +7,6 @@
       <NameGroup>
         <Name>Denonyms - Marvel</Name>
         <Values>
-          <string>Sokovian</string>
           <string>Wakandan</string>
         </Values>
       </NameGroup>
@@ -19,20 +18,10 @@
       </NameGroup>
     </Denonyms>
     <Places>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - Grand Theft Auto</Name>
-          <Values>
-            <string>Liberty</string>
-            <string>Vice</string>
-          </Values>
-        </NameGroup>
-      </Cities>
       <Countries>
         <NameGroup>
           <Name>Countries - Marvel</Name>
           <Values>
-            <string>Sokovia</string>
             <string>Wakanda</string>
           </Values>
         </NameGroup>
@@ -43,21 +32,7 @@
           </Values>
         </NameGroup>
       </Countries>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - Marvel</Name>
-          <Values>
-            <string>Novi Grad</string>
-          </Values>
-        </NameGroup>
-      </Cities>
       <Mountains>
-        <NameGroup>
-          <Name>Mountains - A Song of Ice and Fire</Name>
-          <Values>
-            <string>Frostfang</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Mountains - Marvel</Name>
           <Values>
@@ -73,7 +48,6 @@
           <Values>
             <string>Captain Alex</string>
             <string>Pepe the Frog</string>
-            <string>Rick Roll</string>
           </Values>
         </NameGroup>
       </Heroes>
@@ -100,24 +74,6 @@
         </Swords>
       </Weapons>
     </Warfare>
-    <Ships>
-      <Battleship>
-        <NameGroup>
-          <Name>Movies</Name>
-          <Values>
-            <string>Disaster Artist</string>
-          </Values>
-        </NameGroup>
-      </Battleship>
-      <Constructor>
-        <NameGroup>
-          <Name>People - Cartoons</Name>
-          <Values>
-            <string>Bob</string>
-          </Values>
-        </NameGroup>
-      </Constructor>
-    </Ships>
     <ShipClasses>
       <Generic>
         <NameGroup>
@@ -139,26 +95,6 @@
           </NameGroup>
         </Outposts>
       </Starbases>
-      <ResearchStations>
-        <NameGroup>
-          <Name>Research facilities - Half Life</Name>
-          <Values>
-            <string>Black Mesa</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Research facilities - Portal</Name>
-          <Values>
-            <string>Aperture Science Laboratory</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Places - Fallout</Name>
-          <Values>
-            <string>Helios One</string>
-          </Values>
-        </NameGroup>
-      </ResearchStations>
     </Stations>
     <Armies>
       <SuperSoldierArmy>
@@ -179,17 +115,6 @@
     </Armies>
     <Planets>
       <Generic>
-        <NameGroup>
-          <Name>Age of Wonders: Planetfall - Vanguard</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-human-cities.txt</Url>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Grand Theft Auto</Name>
-          <Values>
-            <string>Liberty</string>
-            <string>Vice</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Dishonored - Empire of the Isles</Name>
           <Values>
@@ -217,36 +142,15 @@
           <Values>
             <string>Ansel</string>
             <string>Arakoua</string>
-            <string>Blackthrope</string>
-            <string>Boyle</string>
-            <string>Byrne</string>
             <string>Chaparral</string>
             <string>Cnossos</string>
-            <string>Osterum</string>
-            <string>Scrimshaw</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Settlements - Pandora: First Contact - Imperium</Name>
-          <Values>
-            <string>Needle</string>
-            <string>Slim</string>
           </Values>
         </NameGroup>
         <NameGroup>
           <Name>Settlements - Pandora: First Contact - Noxium Corporation</Name>
           <Values>
-            <string>Gross</string>
-            <string>Law</string>
-            <string>Merill</string>
             <string>Sheratan</string>
             <string>Zaniah</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Settlements - Pandora: First Contact - Terra Salvum</Name>
-          <Values>
-            <string>Haven</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -255,8 +159,6 @@
             <string>Alkaid</string>
             <string>Galileo</string>
             <string>Landau</string>
-            <string>Synge</string>
-            <string>Utopia</string>
           </Values>
         </NameGroup>
       </Generic>
@@ -273,7 +175,6 @@
           <Name>Places - A Song of Ice and Fire</Name>
           <Values>
             <string>Dorne</string>
-            <string>Sunspear</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -325,18 +226,10 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Places - Puzzle Pirates</Name>
-          <Values>
-            <string>Wensleydale</string>
-            <string>Admiral</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Places - Warcraft</Name>
           <Values>
             <string>Andorhal</string>
             <string>Lordaeron</string>
-            <string>Stormwind</string>
             <string>Stratholme</string>
           </Values>
         </NameGroup>
@@ -349,17 +242,9 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Countries - Elder Scrolls</Name>
-          <Values>
-            <string>Summerset</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Places - Puzzle Pirates</Name>
           <Values>
             <string>Cleopatra's Pearl</string>
-            <string>Midsummer</string>
-            <string>Port Venture</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -377,25 +262,9 @@
       </Gaia>
       <Ocean>
         <NameGroup>
-          <Name>Places - A Song of Ice and Fire</Name>
-          <Values>
-            <string>Blazewater</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Places - Lovecraft</Name>
           <Values>
             <string>R'lyeh</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Places - Puzzle Pirates</Name>
-          <Values>
-            <string>Angelfish</string>
-            <string>Barracuda</string>
-            <string>Cormorant</string>
-            <string>Dugong</string>
-            <string>Starfish</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -427,14 +296,6 @@
             <string>Akillian</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Cities - Frostpunk</Name>
-          <Values>
-            <string>Frostfire</string>
-            <string>Frostpunk</string>
-            <string>Winterhome</string>
-          </Values>
-        </NameGroup>
       </Arctic>
       <Tomb>
         <NameGroup>
@@ -450,67 +311,16 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Places - Dark Souls</Name>
-          <Values>
-            <string>Blighttown</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Places - Fallout</Name>
-          <Values>
-            <string>Megaton</string>
-            <string>Rivet City</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Places - Puzzle Pirates</Name>
-          <Values>
-            <string>Ebony</string>
-            <string>Gallows</string>
-            <string>Shatterstone</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Places - The Elder Scrolls</Name>
-          <Values>
-            <string>Bleakfalls</string>
-            <string>Coldharbour</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Places - The Lord of the Rings</Name>
           <Values>
             <string>Mordor</string>
           </Values>
         </NameGroup>
       </Tomb>
-      <Alpine>
-        <NameGroup>
-          <Name>Places - A Song of Ice and Fire</Name>
-          <Values>
-            <string>Skyreach</string>
-            <string>Runestone</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Places - Fallout</Name>
-          <Values>
-            <string>Grayditch</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Places - Puzzle Pirates</Name>
-          <Values>
-            <string>Charcoal</string>
-            <string>Yorrick</string>
-          </Values>
-        </NameGroup>
-      </Alpine>
       <Molten>
         <NameGroup>
           <Name>Places - Puzzle Pirates</Name>
           <Values>
-            <string>Ember</string>
             <string>Hephaestus' Forge</string>
           </Values>
         </NameGroup>

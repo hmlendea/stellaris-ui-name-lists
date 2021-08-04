@@ -457,52 +457,6 @@
       </DefenceArmy>
     </Armies>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Pandora: First Contact - Terra Salvum</Name>
-          <Values>
-            <string>Odum</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Togra University</Name>
-          <Values>
-            <string>Whipple</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - Commonwealth of Man</Name>
-          <Values>
-            <string>Hinckley's Hope</string>
-            <string>Leffingwell</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - American Reclamation Corporation</Name>
-          <Values>
-            <string>Amity</string>
-            <string>Ascension</string>
-            <string>Axiom</string>
-            <string>Bradbury</string>
-            <string>Central</string>
-            <string>Empire</string>
-            <string>Endaevour</string>
-            <string>Enterprise</string>
-            <string>Fortune</string>
-            <string>Grand City</string>
-            <string>Heritage</string>
-            <string>Liberty</string>
-            <string>Praxis</string>
-            <string>Prospect</string>
-            <string>Reliance</string>
-            <string>Sentinel</string>
-            <string>Stalwart</string>
-            <string>Star City</string>
-            <string>Vanguard</string>
-            <string>Venture</string>
-          </Values>
-        </NameGroup>
-      </Generic>
       <Desert>
         <NameGroup>
           <Name>Places</Name>
@@ -516,18 +470,9 @@
           <Name>Places</Name>
           <Values>
             <string>Nevada</string>
-            <string>New Vegas</string>
           </Values>
         </NameGroup>
       </Arid>
-      <Arctic>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Alaska</string>
-          </Values>
-        </NameGroup>
-      </Arctic>
     </Planets>
   </NameList>
 </ArrayOfNameList>
