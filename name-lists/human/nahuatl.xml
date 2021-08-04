@@ -8,12 +8,21 @@
         <Name>Denonyms</Name>
         <Values>
           <string>Aztec</string>
+          <string>Mexica</string>
           <string>Nahuatl</string>
         </Values>
       </NameGroup>
     </Denonyms>
     <Warfare>
       <Weapons>
+        <Swords>
+          <NameGroup>
+            <Name>Swords</Name>
+            <Values>
+              <string>Macuahuitl</string>
+            </Values>
+          </NameGroup>
+        </Swords>
         <Throwables>
           <NameGroup>
             <Name>Throwables</Name>

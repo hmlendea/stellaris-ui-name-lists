@@ -96,6 +96,17 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Planets - Borderlands</Name>
+          <Values>
+            <string>Isolus</string>
+            <string>Menoetius</string>
+            <string>Promethea</string>
+            <string>Tantalus</string>
+            <string>Themis</string>
+            <string>Thrace</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
           <Values>
             <string>Destinikon</string>
@@ -171,6 +182,12 @@
       </Alpine>
       <Arctic>
         <NameGroup>
+          <Name>Planets - Borderlands</Name>
+          <Values>
+            <string>Xylourgos</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
           <Values>
             <string>Hyperborea</string>
@@ -178,6 +195,14 @@
           </Values>
         </NameGroup>
       </Arctic>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Borderlands</Name>
+          <Values>
+            <string>Nekrotafeyo</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
       <Molten>
         <NameGroup>
           <Name>Islands - Puzzle Pirates</Name>

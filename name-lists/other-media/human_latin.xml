@@ -102,6 +102,12 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Planets - Borderlands</Name>
+          <Values>
+            <string>Thrace</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
           <Values>
             <string>Capella</string>

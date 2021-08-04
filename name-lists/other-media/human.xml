@@ -32,6 +32,14 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Bugsnax</Name>
+          <Values>
+            <string>Snaxburg</string>
+          </Values>
+        </NameGroup>
+      </Cities>
       <Mountains>
         <NameGroup>
           <Name>Mountains - Marvel</Name>
@@ -74,6 +82,16 @@
         </Swords>
       </Weapons>
     </Warfare>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals - Bugsnax</Name>
+          <Values>
+            <string>Bugsnax</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
     <ShipClasses>
       <Generic>
         <NameGroup>
@@ -116,7 +134,13 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Dishonored - Empire of the Isles</Name>
+          <Name>Cities - Bugsnax</Name>
+          <Values>
+            <string>Snaxburg</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
           <Values>
             <string>Bastillian</string>
             <string>Caltan</string>
