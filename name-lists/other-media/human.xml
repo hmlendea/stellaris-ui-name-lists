@@ -32,6 +32,14 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Islands - Bugsnax</Name>
+          <Values>
+            <string>Snaktooth</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Bugsnax</Name>
@@ -284,6 +292,12 @@
         </NameGroup>
       </Gaia>
       <Ocean>
+        <NameGroup>
+          <Name>Islands - Bugsnax</Name>
+          <Values>
+            <string>Snaktooth</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Places - Lovecraft</Name>
           <Values>

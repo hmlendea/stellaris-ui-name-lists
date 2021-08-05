@@ -25,8 +25,32 @@
           <Name>Cities</Name>
           <Values>
             <string>Aberdeen</string>
+            <string>Airdrie</string>
+            <string>Ayr</string>
+            <string>Cambuslang</string>
+            <string>Coatbridge</string>
+            <string>Cumbernauld</string>
+            <string>Dumfries</string>
+            <string>Dundee</string>
+            <string>Dunfermline</string>
+            <string>East Kilbride</string>
             <string>Edinburgh</string>
+            <string>Falkirk</string>
             <string>Glasgow</string>
+            <string>Glenrothes</string>
+            <string>Greenock</string>
+            <string>Hamilton</string>
+            <string>Inverness</string>
+            <string>Irvine</string>
+            <string>Kilmarnock</string>
+            <string>Kirkcaldy</string>
+            <string>Livingston</string>
+            <string>Motherwell</string>
+            <string>Paisley</string>
+            <string>Perth</string>
+            <string>Rutherglen</string>
+            <string>Stirling</string>
+            <string>Wishaw</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -34,7 +58,27 @@
         <NameGroup>
           <Name>Lakes</Name>
           <Values>
+            <string>Achall</string>
+            <string>Achilty</string>
+            <string>Cluanie</string>
+            <string>Coruisk</string>
+            <string>Derculich</string>
+            <string>Dochart</string>
+            <string>Druidibeg</string>
+            <string>Drunkie</string>
+            <string>Ericht</string>
+            <string>Fannich</string>
+            <string>Gelly</string>
+            <string>Kilconquhar</string>
+            <string>Kinord</string>
+            <string>Langavat</string>
             <string>Lochness</string>
+            <string>Lomond</string>
+            <string>Mhòr</string>
+            <string>Morlich</string>
+            <string>Ossian</string>
+            <string>Rannoch</string>
+            <string>Skae</string>
           </Values>
         </NameGroup>
       </Lakes>
@@ -62,6 +106,7 @@
           <Name>Heroes</Name>
           <Values>
             <string>Scáthach</string>
+            <string>William Wallace</string>
           </Values>
         </NameGroup>
       </Heroes>

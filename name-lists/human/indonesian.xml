@@ -179,18 +179,6 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Polystralia</Name>
-          <Values>
-            <string>Harta</string>
-            <string>Kesempatan</string>
-            <string>Tenang</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
     <Characters>
       <CharacterNames>
         <Id>indonesian</Id>

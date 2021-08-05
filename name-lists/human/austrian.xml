@@ -143,16 +143,6 @@
         </NameGroup>
       </AircraftManufacturers>
     </Companies>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Pandora: First Contact - Togra University</Name>
-          <Values>
-            <string>Zsigmondy</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
     <Characters>
       <CharacterNames>
         <Id>german</Id>

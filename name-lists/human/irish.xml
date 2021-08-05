@@ -270,28 +270,6 @@
         </NameGroup>
       </MythologicalCreatures>
     </BiosphereNames>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - North Sea Alliance</Name>
-          <Values>
-            <string>Eilemuir</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Dishonored - Empire of the Isles</Name>
-          <Values>
-            <string>Caulkenny</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Noxium Corporation</Name>
-          <Values>
-            <string>Drogheda</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
     <Characters>
       <CharacterNames>
         <Id>irish</Id>

@@ -127,15 +127,5 @@
         </Artillery>
       </Weapons>
     </Warfare>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Pandora: First Contact - Solar Dynasty</Name>
-          <Values>
-            <string>Havel</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

@@ -21,6 +21,18 @@
         </NameGroup>
       </Regions>
     </Places>
+    <Warfare>
+      <Weapons>
+        <Artillery>
+          <NameGroup>
+            <Name>Artillery</Name>
+            <Values>
+              <string>Trebuchet</string>
+            </Values>
+          </NameGroup>
+        </Artillery>
+      </Weapons>
+    </Warfare>
     <Ships>
       <Science>
         <NameGroup>

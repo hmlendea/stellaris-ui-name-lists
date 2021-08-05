@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_kazakh</Id>
+    <Name>Humans - Kazakh</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Kazakh</string>
+          <string>Kazakhstani</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Kazakhstan</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Akmola</string>
+            <string>Aktobe</string>
+            <string>Almaty</string>
+            <string>Atyrau</string>
+            <string>East Kazakhstan</string>
+            <string>Jambyl</string>
+            <string>Karaganda</string>
+            <string>Kostanay</string>
+            <string>Kyzylorda</string>
+            <string>Mangystau</string>
+            <string>North Kazakhstan</string>
+            <string>Pavlodar</string>
+            <string>Shymkent</string>
+            <string>South Kazakhstan</string>
+            <string>West Kazakhstan</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Aktau</string>
+            <string>Aktobe</string>
+            <string>Almaty</string>
+            <string>Astana</string>
+            <string>Atyrau</string>
+            <string>Baikonur</string>
+            <string>Balqash</string>
+            <string>Ekibastuz</string>
+            <string>Karagandy</string>
+            <string>Kokshetau</string>
+            <string>Kostanay</string>
+            <string>Kyzylorda</string>
+            <string>Oral</string>
+            <string>Oskemen</string>
+            <string>Pavlodar</string>
+            <string>Petropavl</string>
+            <string>Semey</string>
+            <string>Shymkent</string>
+            <string>Taldykorgan</string>
+            <string>Taraz</string>
+            <string>Temirtau</string>
+            <string>Zhezkazgan</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Belukha</string>
+            <string>Khan Shatyr</string>
+            <string>Khan Tengri</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Seas>
+        <NameGroup>
+          <Name>Seas</Name>
+          <Values>
+            <string>Aral</string>
+          </Values>
+        </NameGroup>
+      </Seas>
+    </Places>
+  </NameList>
+</ArrayOfNameList>

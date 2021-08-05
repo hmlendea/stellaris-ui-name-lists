@@ -30,8 +30,33 @@
         <NameGroup>
           <Name>Cities</Name>
           <Values>
+            <string>Ålesund</string>
+            <string>Arendal</string>
+            <string>Bergen</string>
+            <string>Bodø</string>
+            <string>Drammen</string>
+            <string>Fredrikstad</string>
+            <string>Gjøvik</string>
+            <string>Halden</string>
+            <string>Hamar</string>
+            <string>Haugesund</string>
+            <string>Horten</string>
+            <string>Kongsberg</string>
+            <string>Kristiansand</string>
+            <string>Larvik</string>
+            <string>Lillehammer</string>
+            <string>Molde</string>
+            <string>Moss</string>
             <string>Narvik</string>
             <string>Oslo</string>
+            <string>Porsgrunn</string>
+            <string>Sandefjord</string>
+            <string>Sandnes</string>
+            <string>Sarpsborg</string>
+            <string>Skien</string>
+            <string>Stavanger</string>
+            <string>Tønsberg</string>
+            <string>Tromsø</string>
             <string>Trondheim</string>
           </Values>
         </NameGroup>

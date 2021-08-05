@@ -208,40 +208,5 @@
         </NameGroup>
       </BattleLocations>
     </Warfare>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Pan-Asian Cooperative</Name>
-          <Values>
-            <string>Hyugeso</string>
-            <string>Sinjeon</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Chungsu</Name>
-          <Values>
-            <string>Jeongsang</string>
-            <string>Dangye</string>
-            <string>Uimu</string>
-            <string>Yagsog</string>
-            <string>Jibae</string>
-            <string>Cheongchija</string>
-            <string>Bojeung</string>
-            <string>Gamsa</string>
-            <string>Ihae</string>
-            <string>Junbi</string>
-            <string>Gwanchalja</string>
-            <string>Chul</string>
-            <string>Sinnyeom</string>
-            <string>Tong-Gwa</string>
-            <string>Pangyeol</string>
-            <string>Mogjeog</string>
-            <string>Pungbu</string>
-            <string>Insig</string>
-            <string>Pinancheo</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

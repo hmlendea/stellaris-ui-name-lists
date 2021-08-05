@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_croatian</Id>
+    <Name>Other Media - Human - Croatian</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
+          <Values>
+            <string>Ružička</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
+          <Values>
+            <string>Ružička</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -492,6 +492,14 @@
           </Values>
         </NameGroup>
       </Titan>
+      <Titan>
+        <NameGroup>
+          <Name>Titans</Name>
+          <Values>
+            <string>Prometheus</string>
+          </Values>
+        </NameGroup>
+      </Titan>
     </Ships>
     <Planets>
       <Ocean>
