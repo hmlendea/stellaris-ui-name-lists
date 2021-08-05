@@ -16,7 +16,6 @@
           <string>Human</string>
           <string>Imperial</string>
           <string>Nibenese</string>
-          <string>Nord</string>
           <string>Reachman</string>
           <string>Redguard</string>
           <string>Yokudan</string>
@@ -26,14 +25,11 @@
     <Places>
       <Countries>
         <NameGroup>
-          <Name>Countries - The Elder Scrolls - Human</Name>
+          <Name>Countries - The Elder Scrolls</Name>
           <Values>
-            <string>Atmora</string>
             <string>Cyrodiil</string>
             <string>Hammerfell</string>
             <string>High Rock</string>
-            <string>Roscrea</string>
-            <string>Skyrim</string>
             <string>Yokuda</string>
           </Values>
         </NameGroup>
@@ -49,12 +45,6 @@
         </NameGroup>
       </Regions>
       <Cities>
-        <NameGroup>
-          <Name>Cities - The Elder Scrolls - Human - Atmora</Name>
-          <Values>
-            <string>Jylkurfyk</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - The Elder Scrolls - Human - Cyrodiil</Name>
           <Values>
@@ -92,28 +82,11 @@
             <string>Wayrest</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Cities - The Elder Scrolls - Human - Skyrim</Name>
-          <Values>
-            <string>Dawnstar</string>
-            <string>Falkreath</string>
-            <string>Markarth</string>
-            <string>Morthal</string>
-            <string>Riften</string>
-            <string>Solitude</string>
-            <string>Whiterun</string>
-            <string>Windhelm</string>
-            <string>Winterhold</string>
-          </Values>
-        </NameGroup>
       </Cities>
       <Mountains>
         <NameGroup>
-          <Name>Mountains - The Elder Scrolls - Human</Name>
+          <Name>Mountains - The Elder Scrolls - High Rock</Name>
           <Values>
-            <string>Anthor</string>
-            <string>Hrothgar</string>
-            <string>Jerall</string>
             <string>Wrothgar</string>
           </Values>
         </NameGroup>
@@ -134,38 +107,7 @@
             <string>Bjoulsae</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Rivers - The Elder Scrolls - Human - Skyrim</Name>
-          <Values>
-            <string>Darkwater</string>
-            <string>Hjaal</string>
-            <string>Karth</string>
-            <string>Treva</string>
-            <string>White River</string>
-            <string>Yorgrim</string>
-          </Values>
-        </NameGroup>
       </Rivers>
-      <Lakes>
-        <NameGroup>
-          <Name>Lakes - The Elder Scrolls - Human - Skyrim</Name>
-          <Values>
-            <string>Fjalding</string>
-            <string>Geir</string>
-            <string>Honrich</string>
-            <string>Ilinalta</string>
-            <string>Yorgrim</string>
-          </Values>
-        </NameGroup>
-      </Lakes>
-      <Seas>
-        <NameGroup>
-          <Name>Lakes - The Elder Scrolls - Human - Skyrim</Name>
-          <Values>
-            <string>Sea of Ghosts</string>
-          </Values>
-        </NameGroup>
-      </Seas>
     </Places>
     <GreatPersons>
       <CreationDeities>
@@ -184,21 +126,7 @@
             <string>Padomay</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Deities - Nord</Name>
-          <Values>
-            <string>Alduin</string>
-          </Values>
-        </NameGroup>
       </DestructionDeities>
-      <WarDeities>
-        <NameGroup>
-          <Name>Deities - Nord</Name>
-          <Values>
-            <string>Stuhn</string>
-          </Values>
-        </NameGroup>
-      </WarDeities>
       <DeathDeities>
         <NameGroup>
           <Name>Deities</Name>
@@ -215,26 +143,12 @@
           </Values>
         </NameGroup>
       </TimeDeities>
-      <ProphecyDeities>
-        <NameGroup>
-          <Name>Deities - Nord</Name>
-          <Values>
-            <string>Herma-Mora</string>
-          </Values>
-        </NameGroup>
-      </ProphecyDeities>
       <JusticeDeities>
         <NameGroup>
           <Name>Deities</Name>
           <Values>
             <string>Julianos</string>
             <string>Stendarr</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Deities - Nord</Name>
-          <Values>
-            <string>Jhunal</string>
           </Values>
         </NameGroup>
       </JusticeDeities>
@@ -262,13 +176,6 @@
             <string>Julianos</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Deities - Nord</Name>
-          <Values>
-            <string>Herma-Mora</string>
-            <string>Jhunal</string>
-          </Values>
-        </NameGroup>
       </KnowledgeDeities>
       <FortuneDeities>
         <NameGroup>
@@ -285,12 +192,6 @@
             <string>Kynareth</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Deities - Nord</Name>
-          <Values>
-            <string>Kyne</string>
-          </Values>
-        </NameGroup>
       </AirDeities>
       <OtherDeites>
         <NameGroup>
@@ -302,13 +203,6 @@
             <string>Talos</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Deities - Nord</Name>
-          <Values>
-            <string>Shor</string>
-            <string>Tsun</string>
-          </Values>
-        </NameGroup>
       </OtherDeites>
     </GreatPersons>
     <Warfare>
@@ -316,8 +210,6 @@
         <NameGroup>
           <Name>Battle locations - The Elder Scrolls</Name>
           <Values>
-            <string>Markarth</string>
-            <string>Mount Anthor</string>
             <string>Orsinium</string>
             <string>Red Mountain</string>
             <string>Red Ring</string>
@@ -325,35 +217,6 @@
         </NameGroup>
       </BattleLocations>
     </Warfare>
-    <Ships>
-      <Corvette>
-        <NameGroup>
-          <Name>Ships - The Elder Scrolls - Human - Nord</Name>
-          <Values>
-            <string>Brinehammer</string>
-            <string>Dainty Sload</string>
-            <string>Hela's Folly</string>
-            <string>Icerunner</string>
-            <string>Orphan's Tear</string>
-            <string>Red Wave</string>
-            <string>Sea Sqall</string>
-            <string>Silvermoon</string>
-            <string>Winter War</string>
-          </Values>
-        </NameGroup>
-      </Corvette>
-    </Ships>
-    <Stations>
-      <MilitaryStations>
-        <Generic>
-          <NameGroup>
-            <Name></Name>
-              <Values>
-              </Values>
-            </NameGroup>
-          </Generic>
-        </MilitaryStations>
-    </Stations>
     <Armies>
       <FleetSequentialName>Star Legion %R%</FleetSequentialName>
       <DefenceArmySequentialName>Garrison Legion %R%</DefenceArmySequentialName>
@@ -372,20 +235,6 @@
       <SuperSoldierArmySequentialName>Super-Legion %R%</SuperSoldierArmySequentialName>
     </Armies>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Generic>
-      <Desert>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Desert>
       <Continental>
         <NameGroup>
           <Name>Countries - The Elder Scrolls</Name>
@@ -400,100 +249,6 @@
           </Values>
         </NameGroup>
       </Continental>
-      <Gaia>
-        <NameGroup>
-          <Name>Countries - The Elder Scrolls</Name>
-          <Values>
-            <string>Sovengarde</string>
-          </Values>
-        </NameGroup>
-      </Gaia>
-      <Ocean>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Ocean>
-      <Tundra>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tundra>
-      <Arctic>
-        <NameGroup>
-          <Name>Countries - The Elder Scrolls</Name>
-          <Values>
-            <string>Atmora</string>
-            <string>Solstheim</string>
-          </Values>
-        </NameGroup>
-      </Arctic>
-      <Tomb>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tomb>
-      <Alpine>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Alpine>
-      <Molten>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Molten>
     </Planets>
-    <Characters>
-      <CharacterNames>
-        <Id></Id>
-        <Weight>100</Weight>
-        <MaleFirstNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </MaleFirstNames>
-        <MaleRoyalFirstNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </MaleRoyalFirstNames>
-        <FemaleFirstNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </FemaleFirstNames>
-        <FemaleRoyalFirstNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </FemaleRoyalFirstNames>
-        <SecondNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </SecondNames>
-        <RoyalSecondNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </RoyalSecondNames>
-      </CharacterNames>
-    </Characters>
   </NameList>
 </ArrayOfNameList>

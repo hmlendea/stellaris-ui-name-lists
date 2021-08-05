@@ -132,7 +132,8 @@ build "ui_extra_humans_european"        "Human - European"          "L" \
     human/common_hellenic human/common_iberian other-media/human_italian human/common_norse human/common_portuguese human/common_slavic_yugoslavic \
     human/common_slavic human/common_spanish human/common \
     \
-    aow/dvar runescape/human_asgarnian runescape/human_kandarin runescape/human_misthalinian runescape/human \
+    aow/dvar elderscrolls/atmoran elderscrolls/nord \
+    runescape/human_asgarnian runescape/human_kandarin runescape/human_misthalinian runescape/human \
     other-media/human_austrian other-media/human_catalan other-media/human_celtic other-media/human_czech other-media/human_english other-media/human_french \
     other-media/human_german other-media/human_hellenic other-media/human_irish other-media/human_latin other-media/human_norse other-media/human_portuguese \
     other-media/human_romanian other-media/human_russian other-media/human_slavic other-media/human_spanish other-media/human_swedish other-media/human_swiss
@@ -154,6 +155,7 @@ build "ui_extra_humans_german"          "Human - German"            "L" \
 build "ui_extra_humans_germanic"        "Human - Germanic"          "L" \
     human/austrian human/danish human/dutch human/german human/icelandic human/norwegian human/swedish human/swiss \
     human/germanic human/common_european human/common_german human/common_norse \
+    elderscrolls/atmoran elderscrolls/nord \
     other-media/human_austrian other-media/human_german other-media/human_norse other-media/human_swedish other-media/human_swiss
 build "ui_extra_humans_hellenic"        "Human - Hellenic"          "L" \
     human/cypriote human/greek \
@@ -180,6 +182,7 @@ build "ui_extra_humans_latino"          "Human - Latino"            "L" \
 build "ui_extra_humans_norse"           "Human - Norse"             "L" \
     human/danish human/icelandic human/norwegian human/swedish \
     human/common_norse \
+    elderscrolls/atmoran elderscrolls/nord \
     other-media/human_norse other-media/human_swedish
 build "ui_extra_humans_portuguese"      "Human - Portuguese EU"     "L" \
     human/portuguese \
@@ -241,7 +244,8 @@ build "ui_extra_humans_extended"        "Human - Extended"          "L" \
     human/common_hellenic human/common_iberian human/common_norse human/common_portuguese human/common_slavic_yugoslavic \
     human/common_slavic human/common_spanish_americano human/common_spanish human/common_turkic human/common \
     \
-    aow/dvar starcraft/human starwars/human galciv/human sose/human \
+    aow/dvar elderscrolls/atmoran elderscrolls/human elderscrolls/nord \
+    galciv/human sose/human starcraft/human starwars/human \
     runescape/human_asgarnian runescape/human_kandarin runescape/human_kharidian runescape/human_menaphite runescape/human_misthalinian runescape/human \
     other-media/human_african other-media/human_american other-media/human_arabic other-media/human_armenian other-media/human_austrian other-media/human_canadian \
     other-media/human_catalan other-media/human_celtic other-media/human_chinese other-media/human_croatian other-media/human_czech other-media/human_english \
