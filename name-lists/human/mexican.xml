@@ -10,6 +10,12 @@
           <string>Mexican</string>
         </Values>
       </NameGroup>
+      <NameGroup>
+        <Name>Denonyms - Endonyms</Name>
+        <Values>
+          <string>Mexicano</string>
+        </Values>
+      </NameGroup>
     </Denonyms>
     <Places>
       <Countries>
@@ -153,15 +159,5 @@
         </NameGroup>
       </MythologicalCreatures>
     </BiosphereNames>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Nueva Sonora</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

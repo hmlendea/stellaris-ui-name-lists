@@ -75,14 +75,6 @@
           </Values>
         </NameGroup>
       </Battleship>
-      <Juggernaut>
-        <NameGroup>
-          <Name>Vanilla</Name>
-          <Values>
-            <string>Ragnarök</string>
-          </Values>
-        </NameGroup>
-      </Juggernaut>
       <Coloniser>
         <NameGroup>
           <Name>Mythology</Name>
@@ -108,19 +100,6 @@
             <string>Alfheim</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - North Sea Alliance</Name>
-          <Values>
-            <string>Duncankeld</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Witcher</Name>
-          <Values>
-            <string>Arinbjorn</string>
-            <string>Nilfgaard</string>
-          </Values>
-        </NameGroup>
       </Generic>
       <Desert>
         <NameGroup>
@@ -144,13 +123,6 @@
           <Name>Mythology - Places</Name>
           <Values>
             <string>Utgard</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Places - Puzzle Pirates</Name>
-          <Values>
-            <string>Jorvik</string>
-            <string>Norse</string>
           </Values>
         </NameGroup>
       </Tundra>

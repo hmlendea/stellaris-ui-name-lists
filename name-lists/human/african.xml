@@ -197,13 +197,6 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Civilization: Beyond Earth - People's African Union - Tswana</Name>
-          <Values>
-            <string>Masego</string>
-            <string>Thabo</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Civilization: Beyond Earth - People's African Union - Xhosa</Name>
           <Values>
             <string>Sizwe</string>

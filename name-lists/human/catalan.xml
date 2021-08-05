@@ -61,15 +61,5 @@
         </NameGroup>
       </Mountains>
     </Places>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Franco-Iberia</Name>
-          <Values>
-            <string>Filoteu</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

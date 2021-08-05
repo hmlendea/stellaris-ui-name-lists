@@ -21,14 +21,6 @@
             <string>Saggunto</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Cities - Grand Theft Auto</Name>
-          <Values>
-            <string>San Fierro</string>
-            <string>Las Venturas</string>
-            <string>Los Santos</string>
-          </Values>
-        </NameGroup>
       </Cities>
     </Places>
     <Planets>
@@ -59,7 +51,6 @@
           <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
           <Values>
             <string>La Isabela</string>
-            <string>Las Veredas</string>
             <string>Nueva Cádiz</string>
             <string>Puerto González</string>
             <string>San Cristóbal</string>
@@ -68,23 +59,6 @@
           </Values>
         </NameGroup>
       </Generic>
-      <Arid>
-        <NameGroup>
-          <Name>Cities - Grand Theft Auto</Name>
-          <Values>
-            <string>Las Venturas</string>
-          </Values>
-        </NameGroup>
-      </Arid>
-      <Continental>
-        <NameGroup>
-          <Name>Cities - Grand Theft Auto</Name>
-          <Values>
-            <string>San Fierro</string>
-            <string>Los Santos</string>
-          </Values>
-        </NameGroup>
-      </Continental>
     </Planets>
   </NameList>
 </ArrayOfNameList>
