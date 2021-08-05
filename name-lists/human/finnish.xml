@@ -122,6 +122,16 @@
         </NameGroup>
       </Lakes>
     </Places>
+    <GreatPeople>
+      <FlyingAces>
+        <NameGroup>
+          <Name>Flying Aces</Name>
+          <Values>
+            <string>Juutilainen</string>
+          </Values>
+        </NameGroup>
+      </FlyingAces>
+    </GreatPeople>
     <Warfare>
       <MilitaryUnitTypes>
         <NameGroup>

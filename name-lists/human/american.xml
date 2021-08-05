@@ -447,6 +447,15 @@
       </Starbases>
     </Stations>
     <Armies>
+      <AssaultArmy>
+        <NameGroup>
+          <Name>Assault armies</Name>
+          <Values>
+            <string>Easy Company</string>
+            <string>Screaming Eagles</string>
+          </Values>
+        </NameGroup>
+      </AssaultArmy>
       <DefenceArmy>
         <NameGroup>
           <Name>Defence armies</Name>

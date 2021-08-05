@@ -300,7 +300,7 @@
       </Transport>
     </Ships>
     <Armies>
-      <SuperSoldierArmy>
+      <XenomorphArmy>
         <NameGroup>
           <Name>Experimental Units</Name>
           <Values>
@@ -308,7 +308,7 @@
             <string>Experimental Unit 'Bakunawa'</string>
           </Values>
         </NameGroup>
-      </SuperSoldierArmy>
+      </XenomorphArmy>
     </Armies>
     <Planets>
       <Gaia>

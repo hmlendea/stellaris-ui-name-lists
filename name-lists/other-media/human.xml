@@ -123,7 +123,32 @@
       </Starbases>
     </Stations>
     <Armies>
-      <SuperSoldierArmy>
+      <PsionicArmy>
+        <NameGroup>
+          <Name>Armies - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Shadow Legion</string>
+            <string>Skull Legion</string>
+            <string>Widowmaker Legion</string>
+          </Values>
+        </NameGroup>
+      </PsionicArmy>
+      <XenomorphArmy>
+        <NameGroup>
+          <Name>Armies - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Experimental Unit 'Amaru'</string>
+            <string>Experimental Unit 'Bakunawa'</string>
+            <string>Experimental Unit 'Fafnir'</string>
+            <string>Experimental Unit 'Illuyanka'</string>
+            <string>Experimental Unit 'Jaculus'</string>
+            <string>Experimental Unit 'Orochi'</string>
+            <string>Experimental Unit 'Rahab'</string>
+            <string>Experimental Unit 'Tarasque'</string>
+            <string>Experimental Unit 'Tiamat'</string>
+            <string>Experimental Unit 'Typhon'</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Others - Based on cheat codes from GTA San Andreas</Name>
           <Values>
@@ -137,7 +162,24 @@
             <string>Experimental Unit 'Ysohnul'</string>
           </Values>
         </NameGroup>
-      </SuperSoldierArmy>
+      </XenomorphArmy>
+      <SuperSoliderArmy>
+        <NameGroup>
+          <Name>Armies - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+              <string>SARC-A 'Gladiators'</string>
+              <string>SARC-B 'Widowmakers'</string>
+              <string>SARC-C 'Immortals'</string>
+              <string>SARC-D 'Berserkers'</string>
+              <string>SARC-E 'Assassins'</string>
+              <string>SARC-F 'Reapers'</string>
+              <string>SARC-G 'Nighthawks'</string>
+              <string>SARC-H 'Desperados'</string>
+              <string>SARC-I 'Grey Knights'</string>
+              <string>SARC-J 'Roughnecks'</string>
+          </Values>
+        </NameGroup>
+      </SuperSoliderArmy>
     </Armies>
     <Planets>
       <Generic>

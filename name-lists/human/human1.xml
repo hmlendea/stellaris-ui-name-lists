@@ -1360,25 +1360,6 @@
         </Small>
       </MilitaryStations>
     </Stations>
-    <Armies>
-      <SuperSoliderArmy>
-        <NameGroup>
-          <Name>zzz HUMAN1</Name>
-          <Values>
-              <string>SARC-A 'Gladiators'</string>
-              <string>SARC-B 'Widowmakers'</string>
-              <string>SARC-C 'Immortals'</string>
-              <string>SARC-D 'Berserkers'</string>
-              <string>SARC-E 'Assassins'</string>
-              <string>SARC-F 'Reapers'</string>
-              <string>SARC-G 'Nighthawks'</string>
-              <string>SARC-H 'Desperados'</string>
-              <string>SARC-I 'Grey Knights'</string>
-              <string>SARC-J 'Roughnecks'</string>
-          </Values>
-        </NameGroup>
-      </SuperSoliderArmy>
-    </Armies>
     <Planets>
       <Generic>
         <NameGroup>

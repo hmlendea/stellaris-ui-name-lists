@@ -50,6 +50,16 @@
         </NameGroup>
       </Cities>
     </Places>
+    <Armies>
+      <AssaultArmy>
+        <NameGroup>
+          <Name>Movies</Name>
+          <Values>
+            <string>The Expendables</string>
+          </Values>
+        </NameGroup>
+      </AssaultArmy>
+    </Armies>
     <Planets>
       <Generic>
         <NameGroup>
