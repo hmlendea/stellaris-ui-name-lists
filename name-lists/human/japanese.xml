@@ -180,14 +180,6 @@
       </GeneralsTier3>
     </GreatPeople>
     <Companies>
-      <RobotManufacturers>
-        <NameGroup>
-          <Name>Research Companies - Alien</Name>
-          <Values>
-            <string>Yutani</string>
-          </Values>
-        </NameGroup>
-      </RobotManufacturers>
       <AutomotiveManufacturers>
         <NameGroup>
           <Name>Vehicle Manufacturers</Name>
@@ -319,31 +311,6 @@
       </SuperSoldierArmy>
     </Armies>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Nozomi</string>
-            <string>Akatsuki</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-      <Continental>
-        <NameGroup>
-          <Name>Pandora: First Contact - Terra Salvum</Name>
-          <Values>
-            <string>Kyoto</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Oda</string>
-            <string>Tokugawa</string>
-            <string>Toyotomi</string>
-          </Values>
-        </NameGroup>
-      </Continental>
       <Gaia>
         <NameGroup>
           <Name>Words</Name>

@@ -240,6 +240,15 @@
     </Companies>
     <Warfare>
       <Weapons>
+      <Weapons>
+        <Artillery>
+          <NameGroup>
+            <Name>Artillery</Name>
+            <Values>
+              <string>Huopao</string>
+            </Values>
+          </NameGroup>
+        </Artillery>
         <Crossbows>
           <NameGroup>
             <Name>Crossbows</Name>
@@ -248,6 +257,15 @@
             </Values>
           </NameGroup>
         </Crossbows>
+        <Throwables>
+          <NameGroup>
+            <Name>Throwables</Name>
+            <Values>
+              <string>Huojian</string> <!-- Incendiary arrow -->
+              <string>Huojiang</string> <!-- Flamethrower lance -->
+            </Values>
+          </NameGroup>
+        </Throwables>
         <Swords>
           <NameGroup>
             <Name>Swords</Name>

@@ -87,19 +87,5 @@
         </NameGroup>
       </LeadersTier2>
     </GreatPeople>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Pax Nova - Eastern Resistance</Name>
-          <Values>
-            <string>Aravus</string>
-            <string>Areg</string>
-            <string>Kherbeklu</string>
-            <string>Yervandashat</string>
-            <string>Zorats</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

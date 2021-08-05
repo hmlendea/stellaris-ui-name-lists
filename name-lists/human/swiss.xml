@@ -89,16 +89,6 @@
         </NameGroup>
       </AircraftManufacturers>
     </Companies>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Pandora: First Contact - Noxium Corporation</Name>
-          <Values>
-            <string>Lemann</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
     <Characters>
       <CharacterNames>
         <Id>german</Id>

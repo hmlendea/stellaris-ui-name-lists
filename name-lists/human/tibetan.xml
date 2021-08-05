@@ -42,43 +42,6 @@
       </MilitaryUnitTypes>
     </Warfare>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Pax Nova - Lotus Brotherhood</Name>
-          <Values>
-            <string>Tenzin</string>
-            <string>Thubten</string>
-            <string>Trinley</string>
-            <string>Khedrup</string>
-            <string>Tsultrim</string>
-            <string>Lungtok</string>
-            <string>Jamphel</string>
-            <string>Kelzang</string>
-            <string>Tsangyang</string>
-            <string>Ngawang</string>
-            <string>Lobsang</string>
-            <string>Yonten</string>
-            <string>Sonam</string>
-            <string>Gedun</string>
-            <string>Drub</string>
-            <string>Gyatso</string>
-            <string>Bangkora</string>
-            <string>Chamsa</string>
-            <string>Gyalo</string>
-            <string>Jetsun</string>
-            <string>Longchen</string>
-            <string>Mandarava</string>
-            <string>Gelugpa</string>
-            <string>Ganden</string>
-            <string>Sera</string>
-            <string>Drepung</string>
-            <string>Tushita</string>
-            <string>Labrang</string>
-            <string>Thubten</string>
-            <string>Yeshe</string>
-          </Values>
-        </NameGroup>
-      </Generic>
       <Gaia>
         <NameGroup>
           <Name>Mythology - Places</Name>

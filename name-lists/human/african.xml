@@ -13,7 +13,6 @@
           <string>Namibian</string>
           <string>Sudanese</string>
           <string>Ugandan</string>
-          <string>Zimbabwean</string>
           <string>Zimbo</string>
         </Values>
       </NameGroup>
@@ -38,13 +37,6 @@
             <string>Sudan</string>
             <string>Tanzania</string>
             <string>Uganda</string>
-            <string>Zimbabwe</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Countries - Endonyms</Name>
-          <Values>
-            <string>Côte d'Ivoire</string>
           </Values>
         </NameGroup>
       </Countries>
@@ -131,12 +123,6 @@
             <string>Dar es Salaam</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Cities - Zimbabwe</Name>
-          <Values>
-            <string>Harare</string>
-          </Values>
-        </NameGroup>
       </Cities>
       <Deserts>
         <NameGroup>
@@ -211,18 +197,6 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Civilization: Beyond Earth - People's African Union - Shona</Name>
-          <Values>
-            <string>Ayaan</string>
-            <string>Ladan</string>
-            <string>Magan</string>
-            <string>Qarsi</string>
-            <string>Warsame</string>
-            <string>Xirsi</string>
-            <string>Zuberi</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Civilization: Beyond Earth - People's African Union - Tswana</Name>
           <Values>
             <string>Masego</string>
@@ -233,47 +207,6 @@
           <Name>Civilization: Beyond Earth - People's African Union - Xhosa</Name>
           <Values>
             <string>Sizwe</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Divine Ascension</Name>
-          <Values>
-            <string>Touba</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pax Nova - Ashanti Union</Name>
-          <Values>
-            <string>Adimbo</string>
-            <string>Awekiri</string>
-            <string>Bweyu</string>
-            <string>Chiwawano</string>
-            <string>Daweb</string>
-            <string>Dumeo</string>
-            <string>Ebusongo</string>
-            <string>Gatanga</string>
-            <string>Kabadulo</string>
-            <string>Kambewa</string>
-            <string>Kamkwamba</string>
-            <string>Kiawarigo</string>
-            <string>Kireri-Mawe</string>
-            <string>Mabasi</string>
-            <string>Madika</string>
-            <string>Mado-Yawe</string>
-            <string>Majiasawo</string>
-            <string>Mesababu</string>
-            <string>Mungombo</string>
-            <string>Mwaembo</string>
-            <string>Mwando</string>
-            <string>Myara</string>
-            <string>Nyangwenu</string>
-            <string>Obato</string>
-            <string>Onamasilo</string>
-            <string>Onamatendo</string>
-            <string>Onandi</string>
-            <string>Ontanango</string>
-            <string>Wandongo</string>
-            <string>Wangiwa</string>
           </Values>
         </NameGroup>
       </Generic>

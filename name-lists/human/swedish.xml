@@ -7,6 +7,7 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
+          <string>Swede</string>
           <string>Swedish</string>
         </Values>
       </NameGroup>
@@ -14,15 +15,15 @@
     <Places>
       <Countries>
         <NameGroup>
-          <Name>Countries - Endonyms</Name>
-          <Values>
-            <string>Sverige</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Countries</Name>
           <Values>
             <string>Sweden</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Sverige</string>
           </Values>
         </NameGroup>
       </Countries>
@@ -171,24 +172,6 @@
         </NameGroup>
       </Corvette>
     </Ships>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - North Sea Alliance</Name>
-          <Values>
-            <string>Fjarran</string>
-            <string>Helgedom</string>
-            <string>Ståndaktig</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Terra Salvum</Name>
-          <Values>
-            <string>Linnaeus</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
     <Characters>
       <CharacterNames>
         <Id>swedish</Id>
