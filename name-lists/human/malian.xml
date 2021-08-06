@@ -20,11 +20,47 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Bamako</string>
+            <string>Gao</string>
+            <string>Kayes</string>
+            <string>Kidal</string>
+            <string>Koulikoro</string>
+            <string>Ménaka</string>
+            <string>Mopti</string>
+            <string>Ségou</string>
+            <string>Sikasso</string>
+            <string>Taoudénit</string>
+            <string>Tombouctou</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities</Name>
           <Values>
             <string>Bamako</string>
+            <string>Bla</string>
+            <string>Bougouni</string>
+            <string>Gao</string>
+            <string>Kalabancoro</string>
+            <string>Kati</string>
+            <string>Kayes</string>
+            <string>Kolokani</string>
+            <string>Kolondiéba</string>
+            <string>Koro</string>
+            <string>Koutiala</string>
+            <string>Mandé</string>
+            <string>Mopti</string>
+            <string>Niono</string>
+            <string>Pelengana</string>
+            <string>San</string>
+            <string>Ségou</string>
+            <string>Sikasso</string>
+            <string>Tombouctou</string>
           </Values>
         </NameGroup>
       </Cities>

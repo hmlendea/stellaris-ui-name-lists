@@ -24,7 +24,21 @@
         <NameGroup>
           <Name>Cities</Name>
           <Values>
+            <string>Alytus</string>
+            <string>Jonava</string>
+            <string>Kaunas</string>
+            <string>Kėdainiai</string>
+            <string>Klaipėda</string>
+            <string>Marijampolė</string>
+            <string>Mažeikiai</string>
+            <string>Panevėžys</string>
+            <string>Šiauliai</string>
+            <string>Tauragė</string>
+            <string>Telšiai</string>
+            <string>Ukmergė</string>
+            <string>Utena</string>
             <string>Vilnius</string>
+            <string>Visaginas</string>
           </Values>
         </NameGroup>
       </Cities>

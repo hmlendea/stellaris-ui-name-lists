@@ -20,6 +20,31 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Bagmati</string>
+            <string>Gandaki</string>
+            <string>Karnali</string>
+            <string>Lumbini</string>
+            <string>Sudurpashchim</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Bharatpur</string>
+            <string>Biratnagar</string>
+            <string>Birgunj</string>
+            <string>Kathmandu</string>
+            <string>Lalitpur</string>
+            <string>Pokhara</string>
+          </Values>
+        </NameGroup>
+      </Cities>
       <Mountains>
         <NameGroup>
           <Name>Mountains</Name>

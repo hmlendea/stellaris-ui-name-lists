@@ -25,7 +25,26 @@
         <NameGroup>
           <Name>Cities</Name>
           <Values>
+            <string>Altai</string>
+            <string>Arvaikheer</string>
+            <string>Baganuur</string>
+            <string>Bayankhongor</string>
+            <string>Choibalsan</string>
+            <string>Dalanzadgad</string>
+            <string>Darkhan</string>
+            <string>Erdenet</string>
+            <string>Khovd</string>
+            <string>Mörön</string>
+            <string>Nalaikh</string>
+            <string>Ölgii</string>
+            <string>Öndörkhaan</string>
+            <string>Sainshand</string>
+            <string>Sükhbaatar</string>
+            <string>Tsetserleg</string>
+            <string>Ulaangom</string>
             <string>Ulan Bator</string>
+            <string>Uliastai</string>
+            <string>Züünkharaa</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -33,6 +52,10 @@
         <NameGroup>
           <Name>Deserts</Name>
           <Values>
+            <string>Bayanzag</string>
+            <string>Dzungaria</string>
+            <string>Gobi</string>
+            <string>Khongoryn Els</string>
             <string>Ordos</string>
           </Values>
         </NameGroup>
