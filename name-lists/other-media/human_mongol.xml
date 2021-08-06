@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_mongol</Id>
+    <Name>Other Media - Human - Mongol</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Pan-Asian Cooperative -->
+          <Values>
+            <string>Adislal</string>
+            <string>Ganzorig</string>
+            <string>Tenger Bambai</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Pan-Asian Cooperative -->
+          <Values>
+            <string>Adislal</string>
+            <string>Ganzorig</string>
+            <string>Tenger Bambai</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Xanadu</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

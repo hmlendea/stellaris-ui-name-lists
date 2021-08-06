@@ -10,6 +10,12 @@
           <string>Australian</string>
         </Values>
       </NameGroup>
+      <NameGroup>
+        <Name>Denonyms - Slang</Name>
+        <Values>
+          <string>Aussie</string>
+        </Values>
+      </NameGroup>
     </Denonyms>
     <Places>
       <Countries>
@@ -110,18 +116,5 @@
         </NameGroup>
       </AircraftManufacturers>
     </Companies>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Polystralia</Name>
-          <Values>
-            <string>Freeland</string>
-            <string>Holyfield</string>
-            <string>New Hope</string>
-            <string>Richport</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

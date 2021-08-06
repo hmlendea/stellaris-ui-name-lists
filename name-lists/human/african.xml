@@ -194,16 +194,6 @@
         </NameGroup>
       </Animals>
     </BiosphereNames>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - People's African Union - Xhosa</Name>
-          <Values>
-            <string>Sizwe</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
     <Characters>
       <CharacterNames>
         <Id>hausa</Id>

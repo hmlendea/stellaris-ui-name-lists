@@ -11,18 +11,5 @@
         </Values>
       </NameGroup>
     </Denonyms>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Franco-Iberia</Name>
-          <Values>
-            <string>Aintza</string>
-            <string>Igoa</string>
-            <string>Izar</string>
-            <string>Kemena</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

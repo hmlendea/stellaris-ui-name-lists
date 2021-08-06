@@ -83,25 +83,5 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Pan-Asian Cooperative</Name>
-          <Values>
-            <string>Adislal</string>
-            <string>Ganzorig</string>
-            <string>Tenger Bambai</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-      <Gaia>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Xanadu</string>
-          </Values>
-        </NameGroup>
-      </Gaia>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

@@ -101,22 +101,4 @@
       </Weapons>
     </Warfare>
   </NameList>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Brasilia - Translated</Name>
-          <Values>
-            <string>Immanuel</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
-      <Arid>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>New Jerusalem</string>
-          </Values>
-        </NameGroup>
-      </Arid>
 </ArrayOfNameList>
