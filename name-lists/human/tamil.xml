@@ -21,15 +21,5 @@
         </NameGroup>
       </ProtectionDeities>
     </GreatPeople>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Kavithan Protectorate</Name>
-          <Values>
-            <string>Thangam</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

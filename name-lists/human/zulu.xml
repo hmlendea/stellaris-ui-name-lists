@@ -41,18 +41,5 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - People's African Union</Name>
-          <Values>
-            <string>Bongani</string>
-            <string>Jabulile</string>
-            <string>Mzoxolo</string>
-            <string>Thula</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

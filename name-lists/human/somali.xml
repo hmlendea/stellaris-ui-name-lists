@@ -29,17 +29,6 @@
         </NameGroup>
       </Cities>
     </Places>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - People's African Union</Name>
-          <Values>
-            <string>Chengetai</string>
-            <string>Fadziso</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
   </NameList>
   <Characters>
     <CharacterNames>

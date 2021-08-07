@@ -67,22 +67,6 @@
       </BattleLocations>
     </Warfare>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Pax Nova - Eastern Resistance</Name>
-          <Values>
-            <string>Zhitani</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-      <Tundra>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Rus</string>
-          </Values>
-        </NameGroup>
-      </Tundra>
       <Tomb>
         <NameGroup>
           <Name>Devastated places on Earth</Name>

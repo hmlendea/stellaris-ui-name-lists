@@ -47,15 +47,5 @@
         </NameGroup>
       </LeadersTier2>
     </GreatPeople>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Pandora: First Contact - Solar Dynasty</Name>
-          <Values>
-            <string>Chávez</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

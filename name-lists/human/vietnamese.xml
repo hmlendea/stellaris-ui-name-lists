@@ -20,20 +20,24 @@
           </Values>
         </NameGroup>
       </Countries>
-    </Places>
-    <Planets>
-      <Generic>
+      <Countries>
         <NameGroup>
-          <Name>Civilization: Beyond Earth - Pan-Asian Cooperative</Name>
+          <Name>Cities</Name>
           <Values>
-            <string>Nhiet Tinh</string>
-            <string>Phao Dai</string>
-            <string>Quyen</string>
-            <string>Thanh</string>
-            <string>Troi</string>
+            <string>Bà Rịa</string>
+            <string>Bạc Liêu</string>
+            <string>Can Tho</string>
+            <string>Da Nang</string>
+            <string>Dong Nai</string>
+            <string>Haiphong</string>
+            <string>Hanoi</string>
+            <string>Ho Chi Minh</string>
+            <string>Nghe An</string>
+            <string>Thanh Hoa</string>
+            <string>Thủ Đức</string>
           </Values>
         </NameGroup>
-      </Generic>
-    </Planets>
+      </Countries>
+    </Places>
   </NameList>
 </ArrayOfNameList>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_ukrainian</Id>
+    <Name>Other Media - Human - Ukrainian</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Pax Nova</Name> <!-- Eastern Resistance -->
+          <Values>
+            <string>Zhitani</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Pax Nova</Name> <!-- Eastern Resistance -->
+          <Values>
+            <string>Zhitani</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Tundra>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Rus</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

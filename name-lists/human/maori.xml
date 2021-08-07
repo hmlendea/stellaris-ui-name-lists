@@ -22,16 +22,6 @@
       </MilitaryUnitTypes>
     </Warfare>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Polystralia</Name>
-          <Values>
-            <string>Maeva</string>
-            <string>Rahi</string>
-            <string>Rangi</string>
-          </Values>
-        </NameGroup>
-      </Generic>
       <Continental>
         <NameGroup>
           <Name>Māori native names for other places</Name>

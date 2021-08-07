@@ -108,16 +108,6 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <Planets>
-      <Ocean>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Port Rabcewicz</string>
-          </Values>
-        </NameGroup>
-      </Ocean>
-    </Planets>
     <Characters>
       <CharacterNames>
         <Id>polish</Id>
