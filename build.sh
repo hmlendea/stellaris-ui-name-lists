@@ -81,227 +81,228 @@ function generate-mod-descriptor {
 }
 
 build "ui_extra_humans_african"         "Human - African"           "L" \
-    human/algerian human/angolan human/congolese human/ethiopian human/french_ivory human/kabyle human/malian human/mauritanian \
-    human/nigerian human/senegalese human/shona human/somali human/swahili human/tswana human/tunisian human/yoruba human/zambian \
-    human/zulu human/african human/common_african \
-    other-media/human_african other-media/human_shona other-media/human_somali other-media/human_swahili other-media/human_tswana \
-    other-media/human_xhosa other-media/human_zulu
+    real/algerian real/angolan real/congolese real/ethiopian real/french_ivory real/kabyle real/malian real/mauritanian \
+    real/nigerian real/senegalese real/shona real/somali real/swahili real/tswana real/tunisian real/yoruba real/zambian \
+    real/zulu real/african real/common/african \
+    media/other/human/african media/other/human/shona media/other/human/somali media/other/human/swahili media/other/human/tswana \
+    media/other/human/xhosa media/other/human/zulu
 build "ui_extra_humans_american_north"  "Human - American NA"       "L" \
-    human/american human/canadian \
-    human/common_english \
-    other-media/human_american other-media/human_canadian \
-    other-media/human_common_english
+    real/american real/canadian \
+    real/common/english \
+    media/other/human/american media/other/human/canadian \
+    media/other/human/english_int
 build "ui_extra_humans_american_usa"    "Human - American USA"      "L" \
-    human/american \
-    human/common_english \
-    other-media/human_american \
-    other-media/human_common_english
+    real/american \
+    real/common/english \
+    media/other/human/american \
+    media/other/human/english_int
 build "ui_extra_humans_arabic"          "Human - Arabic"            "L" \
-    human/egyptian human/jordanian human/syrian \
-    human/arabic \
-    other-media/human_arabic runescape/human_kharidian
+    real/egyptian real/jordanian real/syrian \
+    real/arabic \
+    media/other/human/arabic media/runescape/human_kharidian
 build "ui_extra_humans_asian"           "Human - Asian"             "L" \
-    human/chinese human/japanese human/korean human/mongol human/taiwanese human/tibetan human/vietnamese \
-    human/common_asian \
-    other-media/human_chinese other-media/human_japanese other-media/human_korean other-media/human_tibetan other-media/human_vietnamese
+    real/chinese real/japanese real/korean real/mongol real/taiwanese real/tibetan real/vietnamese \
+    real/common/asian \
+    media/other/human/chinese media/other/human/japanese media/other/human/korean media/other/human/tibetan media/other/human/vietnamese
 build "ui_extra_humans_austronesian"    "Human - Austronesian"      "L" \
-    human/filipino human/hawaiian human/indonesian human/kiribatian human/malaysian human/maori human/polynesian \
-    human/austronesian \
-    other-media/human_filipino other-media/human_indonesian other-media/human_malaysian other-media/human_maori
+    real/filipino real/hawaiian real/indonesian real/kiribatian real/malaysian real/maori real/polynesian \
+    real/austronesian \
+    media/other/human/filipino media/other/human/indonesian media/other/human/malaysian media/other/human/maori
 build "ui_extra_humans_british"         "Human - British"           "L" \
-    human/english human/scottish human/welsh \
-    human/common_british human/common_english \
-    other-media/human_british other-media/human_english other-media/human_scottish \
-    other-media/human_common_english
+    real/english real/scottish real/welsh \
+    real/common/british real/common/english \
+    media/other/human/british media/other/human/english media/other/human/scottish \
+    media/other/human/english_int
 build "ui_extra_humans_celtic"          "Human - Celtic"            "L" \
-    human/breton human/cornish human/icenic human/irish human/scottish human/welsh \
-    human/celtic human/common_celtic \
-    other-media/human_celtic other-media/human_irish other-media/human_scottish
+    real/breton real/cornish real/icenic real/irish real/scottish real/welsh \
+    real/celtic real/common/celtic \
+    media/other/human/celtic media/other/human/irish media/other/human/scottish
 build "ui_extra_humans_chinese"         "Human - Chinese"           "L" \
-    human/chinese human/taiwanese \
-    human/common_asian \
-    other-media/human_chinese
+    real/chinese real/taiwanese \
+    real/common/asian \
+    media/other/human/chinese
 build "ui_extra_humans_english"         "Human - English"           "L" \
-    human/american human/australian human/canadian human/english human/zealandian \
-    human/common_british human/common_english \
-    other-media/human_american other-media/human_australian other-media/human_british other-media/human_canadian other-media/human_english \
-    other-media/human_common_english
+    real/american real/australian real/canadian real/english real/zealandian \
+    real/common/british real/common/english \
+    media/other/human/american media/other/human/australian media/other/human/british media/other/human/canadian media/other/human/english \
+    media/other/human/english_int
 build "ui_extra_humans_european"        "Human - European"          "L" \
-    human/austrian human/belarusian human/basque human/bosnian human/breton human/bulgarian human/catalan human/celtic human/cornish human/croatian \
-    human/cypriote human/czech human/danish human/dutch human/english human/estonian human/finnish human/french human/german human/germanic human/greek \
-    human/hungarian human/icelandic human/icenic human/italian human/irish human/latvian human/lithuanian human/norwegian human/polish human/portuguese \
-    human/roman human/romanian human/russian human/scottish human/serbian human/slovakian human/slovenian human/spanish human/swedish human/swiss \
-    human/ukrainian human/welsh \
+    real/austrian real/belarusian real/basque real/bosnian real/breton real/bulgarian real/catalan real/celtic real/cornish real/croatian \
+    real/cypriote real/czech real/danish real/dutch real/english real/estonian real/finnish real/french real/german real/germanic real/greek \
+    real/hungarian real/icelandic real/icenic real/italian real/irish real/latvian real/lithuanian real/norwegian real/polish real/portuguese \
+    real/roman real/romanian real/russian real/scottish real/serbian real/slovakian real/slovenian real/spanish real/swedish real/swiss \
+    real/ukrainian real/welsh \
     \
-    human/common_british human/common_celtic human/common_english human/common_european human/common_german \
-    human/common_hellenic human/common_iberian other-media/human_italian human/common_norse human/common_portuguese human/common_slavic_yugoslavic \
-    human/common_slavic human/common_spanish human/common \
+    real/common/british real/common/celtic real/common/english real/common/european real/common/german \
+    real/common/hellenic real/common/iberian media/other/human/italian real/common/norse real/common/portuguese real/common/slavic real/common/spanish \
+    real/common/yugoslavic real/common/_ \
     \
-    aow/dvar elderscrolls/atmoran elderscrolls/nord \
-    runescape/human_asgarnian runescape/human_kandarin runescape/human_misthalinian runescape/human \
-    other-media/human_austrian other-media/human_basque other-media/human_belarusian other-media/human_british other-media/human_catalan other-media/human_celtic \
-    other-media/human_czech other-media/human_danish other-media/human_english other-media/human_french other-media/human_german other-media/human_hellenic \
-    other-media/human_icelandic other-media/human_irish other-media/human_latin other-media/human_norse other-media/human_norwegian other-media/human_polish \
-    other-media/human_portuguese other-media/human_romanian other-media/human_russian other-media/human_scottish other-media/human_slavic other-media/human_spanish \
-    other-media/human_swedish other-media/human_swiss other-media/human_ukrainian \
-    other-media/human_common_english
+    media/aow/dvar media/elderscrolls/atmoran media/elderscrolls/nord \
+    media/runescape/human_asgarnian media/runescape/human_kandarin media/runescape/human_misthalinian media/runescape/human \
+    media/other/human/austrian media/other/human/basque media/other/human/belarusian media/other/human/british media/other/human/catalan media/other/human/celtic \
+    media/other/human/czech media/other/human/danish media/other/human/english media/other/human/french media/other/human/german media/other/human/hellenic \
+    media/other/human/icelandic media/other/human/irish media/other/human/latin media/other/human/norse media/other/human/norwegian media/other/human/polish \
+    media/other/human/portuguese media/other/human/romanian media/other/human/russian media/other/human/scottish media/other/human/slavic media/other/human/spanish \
+    media/other/human/swedish media/other/human/swiss media/other/human/ukrainian \
+    media/other/human/english_int
 build "ui_extra_humans_franco-iberian"  "Human - Franco-Iberian"    "L" \
-    human/basque human/catalan human/french human/portuguese human/spanish human/common_iberian human/common_portuguese \
-    human/common_spanish human/common_european \
-    other-media/human_basque other-media/human_catalan other-media/human_french other-media/human_portuguese other-media/human_spanish
+    real/basque real/catalan real/french real/portuguese real/spanish real/common/iberian real/common/portuguese \
+    real/common/spanish real/common/european \
+    media/other/human/basque media/other/human/catalan media/other/human/french media/other/human/portuguese media/other/human/spanish
 build "ui_extra_humans_french"          "Human - French EU"         "L" \
-    human/french \
-    human/common_european \
-    other-media/human_french
+    real/french \
+    real/common/european \
+    media/other/human/french
 build "ui_extra_humans_french_int"      "Human - French INT"        "L" \
-    human/french human/french_ivory \
-    other-media/human_french
+    real/french real/french_ivory \
+    media/other/human/french
 build "ui_extra_humans_german"          "Human - German"            "L" \
-    human/austrian human/german human/swiss \
-    human/common_european human/common_german \
-    other-media/human_austrian other-media/human_german other-media/human_swiss
+    real/austrian real/german real/swiss \
+    real/common/european real/common/german \
+    media/other/human/austrian media/other/human/german media/other/human/swiss
 build "ui_extra_humans_germanic"        "Human - Germanic"          "L" \
-    human/austrian human/danish human/dutch human/german human/icelandic human/norwegian human/swedish human/swiss \
-    human/germanic human/common_european human/common_german human/common_norse \
-    elderscrolls/atmoran elderscrolls/nord \
-    other-media/human_austrian other-media/human_danish other-media/human_german other-media/human_icelandic other-media/human_norse other-media/human_norwegian \
-    other-media/human_swedish other-media/human_swiss
+    real/austrian real/danish real/dutch real/german real/icelandic real/norwegian real/swedish real/swiss \
+    real/germanic real/common/european real/common/german real/common/norse \
+    media/elderscrolls/atmoran media/elderscrolls/nord \
+    media/other/human/austrian media/other/human/danish media/other/human/german media/other/human/icelandic media/other/human/norse media/other/human/norwegian \
+    media/other/human/swedish media/other/human/swiss
 build "ui_extra_humans_hellenic"        "Human - Hellenic"          "L" \
-    human/cypriote human/greek \
-    human/common_european human/common_hellenic \
-    other-media/human_hellenic
+    real/cypriote real/greek \
+    real/common/european real/common/hellenic \
+    media/other/human/hellenic
 build "ui_extra_humans_hindi"           "Human - Hindi"             "L" \
-    human/bengal human/indian human/nepali human/tamil human/urdu human/hindi \
-    other-media/human_hindi  other-media/human_sanskrit other-media/human_tamil other-media/human_urdu
+    real/bengal real/indian real/nepali real/tamil real/urdu real/hindi \
+    media/other/human/hindi  media/other/human/sanskrit media/other/human/tamil media/other/human/urdu
 build "ui_extra_humans_iberian"         "Human - Iberian"           "L" \
-    human/basque human/catalan human/portuguese human/spanish \
-    human/common_european human/common_iberian human/common_portuguese \
-    human/common_spanish \
-    other-media/human_basque other-media/human_catalan other-media/human_portuguese other-media/human_spanish
+    real/basque real/catalan real/portuguese real/spanish \
+    real/common/european real/common/iberian real/common/portuguese \
+    real/common/spanish \
+    media/other/human/basque media/other/human/catalan media/other/human/portuguese media/other/human/spanish
 build "ui_extra_humans_italian"         "Human - Italian"           "L" \
-    human/italian \
-    human/common_european \
-    other-media/human_italian
+    real/italian \
+    real/common/european \
+    media/other/human/italian
 build "ui_extra_humans_japanese"        "Human - Japanese"          "L" \
-    human/japanese \
-    other-media/human_japanese
+    real/japanese \
+    media/other/human/japanese
 build "ui_extra_humans_latino"          "Human - Latino"            "L" \
-    human/argentinian human/brazilian human/colombian human/cuban human/ecuadorian human/guatemalan human/mexican human/nahuatl \
-    human/venezuelan human/common_spanish_americano human/common_portuguese human/common_spanish \
-    other-media/human_portuguese other-media/human_spanish other-media/human_spanish_mexican other-media/human_venezuelan
+    real/argentinian real/brazilian real/colombian real/cuban real/ecuadorian real/guatemalan real/mexican real/nahuatl \
+    real/venezuelan real/common/spanish_americano real/common/portuguese real/common/spanish \
+    media/other/human/mexican media/other/human/portuguese media/other/human/spanish media/other/human/venezuelan
 build "ui_extra_humans_norse"           "Human - Norse"             "L" \
-    human/danish human/icelandic human/norwegian human/swedish \
-    human/common_norse \
-    elderscrolls/atmoran elderscrolls/nord \
-    other-media/human_danish other-media/human_icelandic other-media/human_norse other-media/human_norwegian other-media/human_swedish
+    real/danish real/icelandic real/norwegian real/swedish \
+    real/common/norse \
+    media/elderscrolls/atmoran media/elderscrolls/nord \
+    media/other/human/danish media/other/human/icelandic media/other/human/norse media/other/human/norwegian media/other/human/swedish
 build "ui_extra_humans_portuguese"      "Human - Portuguese EU"     "L" \
-    human/portuguese \
-    human/common_european human/common_iberian human/common_portuguese \
-    other-media/human_portuguese
+    real/portuguese \
+    real/common/european real/common/iberian real/common/portuguese \
+    media/other/human/portuguese
 build "ui_extra_humans_portuguese_int"  "Human - Portuguese INT"    "L" \
-    human/angolan human/brazilian human/portuguese \
-    human/common_iberian human/common_portuguese \
-    other-media/human_portuguese
+    real/angolan real/brazilian real/portuguese \
+    real/common/iberian real/common/portuguese \
+    media/other/human/portuguese
 build "ui_extra_humans_romanian"        "Human - Romanian"          "L" \
-    human/romanian \
-    human/common_european \
-    other-media/human_romanian
+    real/romanian \
+    real/common/european \
+    media/other/human/romanian
 build "ui_extra_humans_romance"         "Human - Romance"           "L" \
-    human/argentinian human/brazilian human/catalan human/colombian human/cuban human/ecuadorian human/french human/french_ivory human/guatemalan \
-    human/italian human/mexican human/portuguese human/roman human/romanian human/spanish human/venezuelan \
-    human/common_iberian human/common_portuguese human/common_spanish_americano human/common_spanish \
-    other-media/human_catalan other-media/human_french other-media/human_italian other-media/human_latin other-media/human_portuguese \
-    other-media/human_romanian other-media/human_spanish other-media/human_venezuelan
+    real/argentinian real/brazilian real/catalan real/colombian real/cuban real/ecuadorian real/french real/french_ivory real/guatemalan \
+    real/italian real/mexican real/portuguese real/roman real/romanian real/spanish real/venezuelan \
+    real/common/iberian real/common/portuguese real/common/spanish_americano real/common/spanish \
+    media/other/human/catalan media/other/human/french media/other/human/italian media/other/human/latin media/other/human/portuguese \
+    media/other/human/romanian media/other/human/spanish media/other/human/venezuelan
 build "ui_extra_humans_russian"         "Human - Russian"           "L" \
-    human/russian \
-    human/common_slavic \
-    aow/dvar other-media/human_russian other-media/human_slavic
+    real/russian \
+    real/common/slavic \
+    media/aow/dvar media/other/human/russian media/other/human/slavic
 build "ui_extra_humans_slavic"          "Human - Slavic"            "L" \
-    human/belarusian human/bosnian human/bulgarian human/croatian human/czech human/polish human/russian human/serbian human/slovakian \
-    human/slovenian human/ukrainian human/common_slavic_yugoslavic human/common_slavic \
-    aow/dvar \
-    other-media/human_belarusian other-media/human_croatian other-media/human_czech other-media/human_polish other-media/human_russian \
-    other-media/human_slavic other-media/human_ukrainian
+    real/belarusian real/bosnian real/bulgarian real/croatian real/czech real/polish real/russian real/serbian real/slovakian \
+    real/slovenian real/ukrainian real/common/slavic real/common/yugoslavic \
+    media/aow/dvar \
+    media/other/human/belarusian media/other/human/croatian media/other/human/czech media/other/human/polish media/other/human/russian \
+    media/other/human/slavic media/other/human/ukrainian
 build "ui_extra_humans_spqr_extended"   "Human - Roman"             "L" \
-    human/roman \
-    human/common_european \
-    human/human3 other-media/human_latin
+    real/roman \
+    real/common/european \
+    real/human3 media/other/human/latin
 build "ui_extra_humans_turkic"          "Human - Turkic"            "L" \
-    human/turkish human/turkmen \
-    human/common_turkic \
-    other-media/human_turkish
+    real/turkish real/turkmen \
+    real/common/turkic \
+    media/other/human/turkish
 build "ui_extra_humans_yugoslavic"      "Human - Yugoslavic"        "L" \
-    human/bosnian human/croatian human/serbian human/slovenian \
-    human/common_european human/common_slavic_yugoslavic human/common_slavic \
-    other-media/human_croatian other-media/human_slavic
+    real/bosnian real/croatian real/serbian real/slovenian \
+    real/common/european real/common/slavic real/common/yugoslavic \
+    media/other/human/croatian media/other/human/slavic
 build "ui_extra_humans_extended"        "Human - Extended"          "L" \
-    human/afghan human/african human/algerian human/american human/angolan human/arabic human/argentinian \
-    human/armenian human/australian human/austrian human/austronesian human/belarusian \
-    human/basque human/bosnian human/bengal human/brazilian human/breton human/bulgarian human/canadian human/catalan \
-    human/celtic human/chinese human/colombian human/congolese human/cornish human/croatian human/cuban \
-    human/cypriote human/czech human/danish human/dutch human/ecuadorian human/egyptian human/english \
-    human/estonian human/ethiopian human/filipino human/finnish human/french human/french_ivory human/german human/germanic \
-    human/greek human/greenlandic human/guatemalan human/hawaiian human/hebrew human/hindi \
-    human/hungarian human/icelandic human/icenic human/indian human/indonesian human/iranian human/italian human/irish \
-    human/japanese human/jordanian human/kabyle human/kazakh human/kiribatian human/korean human/latvian human/lithuanian human/malaysian \
-    human/malian human/maori human/mauritanian human/mexican human/mongol human/nahuatl human/nepali human/nigerian \
-    human/norwegian human/persian human/polish human/polynesian human/portuguese \
-    human/roman human/romanian human/russian human/scottish human/senegalese human/serbian human/shona human/slovakian \
-    human/slovenian human/somali human/spanish human/swahili human/swedish human/swiss human/syrian human/taiwanese human/tajik \
-    human/tamil human/tibetan human/tswana human/tunisian human/turkish human/turkmen human/ukrainian human/urdu human/venezuelan \
-    human/vietnamese human/welsh human/yoruba human/zambian human/zealandian human/zulu \
+    real/afghan real/african real/algerian real/american real/angolan real/arabic real/argentinian \
+    real/armenian real/australian real/austrian real/austronesian real/belarusian \
+    real/basque real/bosnian real/bengal real/brazilian real/breton real/bulgarian real/canadian real/catalan \
+    real/celtic real/chinese real/colombian real/congolese real/cornish real/croatian real/cuban \
+    real/cypriote real/czech real/danish real/dutch real/ecuadorian real/egyptian real/english \
+    real/estonian real/ethiopian real/filipino real/finnish real/french real/french_ivory real/german real/germanic \
+    real/greek real/greenlandic real/guatemalan real/hawaiian real/hebrew real/hindi \
+    real/hungarian real/icelandic real/icenic real/indian real/indonesian real/iranian real/italian real/irish \
+    real/japanese real/jordanian real/kabyle real/kazakh real/kiribatian real/korean real/latvian real/lithuanian real/malaysian \
+    real/malian real/maori real/mauritanian real/mexican real/mongol real/nahuatl real/nepali real/nigerian \
+    real/norwegian real/persian real/polish real/polynesian real/portuguese \
+    real/roman real/romanian real/russian real/scottish real/senegalese real/serbian real/shona real/slovakian \
+    real/slovenian real/somali real/spanish real/swahili real/swedish real/swiss real/syrian real/taiwanese real/tajik \
+    real/tamil real/tibetan real/tswana real/tunisian real/turkish real/turkmen real/ukrainian real/urdu real/venezuelan \
+    real/vietnamese real/welsh real/yoruba real/zambian real/zealandian real/zulu \
     \
-    human/common_african human/common_asian human/common_british human/common_celtic human/common_english human/common_european human/common_german \
-    human/common_hellenic human/common_iberian human/common_norse human/common_portuguese human/common_slavic_yugoslavic \
-    human/common_slavic human/common_spanish_americano human/common_spanish human/common_turkic human/common \
+    real/common/african real/common/asian real/common/british real/common/celtic real/common/english real/common/european real/common/german real/common/hellenic \
+    real/common/iberian real/common/norse real/common/portuguese real/common/slavic real/common/spanish_americano real/common/spanish real/common/turkic \
+    real/common/yugoslavic real/common/_ \
     \
-    aow/dvar elderscrolls/atmoran elderscrolls/human elderscrolls/nord \
-    galciv/human sose/human starcraft/human starwars/human \
-    runescape/human_asgarnian runescape/human_kandarin runescape/human_kharidian runescape/human_menaphite runescape/human_misthalinian runescape/human \
-    other-media/human_african other-media/human_american other-media/human_arabic other-media/human_armenian other-media/human_australian other-media/human_austrian \
-    other-media/human_basque other-media/human_belarusian other-media/human_british other-media/human_canadian other-media/human_catalan other-media/human_celtic \
-    other-media/human_chinese other-media/human_croatian other-media/human_czech other-media/human_danish other-media/human_english other-media/human_filipino \
-    other-media/human_french other-media/human_german other-media/human_hebrew other-media/human_hellenic other-media/human_hindi other-media/human_icelandic \
-    other-media/human_indonesian other-media/human_irish other-media/human_italian other-media/human_japanese other-media/human_korean other-media/human_latin \
-    other-media/human_malaysian other-media/human_maori other-media/human_mongol other-media/human_norse other-media/human_norwegian other-media/human_polish \
-    other-media/human_portuguese other-media/human_romanian other-media/human_russian other-media/human_shona other-media/human_slavic other-media/human_spanish \
-    other-media/human_spanish_mexican other-media/human_sanskrit other-media/human_scottish other-media/human_somali other-media/human_swahili other-media/human_swedish \
-    other-media/human_swiss other-media/human_tamil other-media/human_tibetan other-media/human_tswana other-media/human_turkish other-media/human_ukrainian \
-    other-media/human_urdu other-media/human_venezuelan other-media/human_vietnamese other-media/human_xhosa other-media/human_zulu \
-    other-media/human other-media/human_common_english \
+    media/aow/dvar media/elderscrolls/atmoran media/elderscrolls/human media/elderscrolls/nord \
+    media/galciv/human media/sose/human media/starcraft/human media/starwars/human \
+    media/runescape/human_asgarnian media/runescape/human_kandarin media/runescape/human_kharidian media/runescape/human_menaphite media/runescape/human_misthalinian \
+    media/runescape/human \
+    media/other/human/african media/other/human/american media/other/human/arabic media/other/human/armenian media/other/human/australian media/other/human/austrian \
+    media/other/human/basque media/other/human/belarusian media/other/human/british media/other/human/canadian media/other/human/catalan media/other/human/celtic \
+    media/other/human/chinese media/other/human/croatian media/other/human/czech media/other/human/danish media/other/human/english media/other/human/english_int \
+    media/other/human/filipino media/other/human/french media/other/human/german media/other/human/hebrew media/other/human/hellenic media/other/human/hindi \
+    media/other/human/icelandic media/other/human/indonesian media/other/human/irish media/other/human/italian media/other/human/japanese media/other/human/korean \
+    media/other/human/latin media/other/human/malaysian media/other/human/maori media/other/human/mexican media/other/human/mongol media/other/human/norse \
+    media/other/human/norwegian media/other/human/polish media/other/human/portuguese media/other/human/romanian media/other/human/russian media/other/human/shona \
+    media/other/human/slavic media/other/human/spanish media/other/human/sanskrit media/other/human/scottish media/other/human/somali media/other/human/swahili \
+    media/other/human/swedish media/other/human/swiss media/other/human/tamil media/other/human/tibetan media/other/human/tswana media/other/human/turkish \
+    media/other/human/ukrainian media/other/human/urdu media/other/human/venezuelan media/other/human/vietnamese media/other/human/xhosa media/other/human/zulu \
+    media/other/human/_ \
     \
-    human/human1 human/human2 human/human3 ui/human_extra human/zextended
+    real/human1 real/human2 real/human3 ui/human_extra real/zextended
 
-build "ui_aow_dvar"  "AoW:P - Dvar"     "L" aow/dvar
-build "ui_aow_kirko" "AoW:P - Kir'Ko"   "L" aow/kirko
+build "ui_aow_dvar"  "AoW:P - Dvar"     "L" media/aow/dvar
+build "ui_aow_kirko" "AoW:P - Kir'Ko"   "L" media/aow/kirko
 
-build "ui_dnd_kobold" "D&D - Kobold" "L" dnd/kobold
+build "ui_dnd_kobold" "D&D - Kobold" "L" media/dnd/kobold
 
-build "ui_elderscrolls_altmer"      "ElderScrolls - Altmer"     "R" elderscrolls/altmer
-build "ui_elderscrolls_argonian"    "ElderScrolls - Argonian"   "R" elderscrolls/argonian
-build "ui_elderscrolls_dremora"     "ElderScrolls - Dremora"    "R" elderscrolls/dremora
-build "ui_elderscrolls_khajiit"     "ElderScrolls - Khajiit"    "R" elderscrolls/khajiit
-build "ui_elderscrolls_orc"         "ElderScrolls - Orc"        "R" elderscrolls/orc
-build "ui_elderscrolls_spriggan"    "ElderScrolls - Spriggan"   "R" elderscrolls/spriggan
+build "ui_elderscrolls_altmer"      "ElderScrolls - Altmer"     "R" media/elderscrolls/altmer
+build "ui_elderscrolls_argonian"    "ElderScrolls - Argonian"   "R" media/elderscrolls/argonian
+build "ui_elderscrolls_dremora"     "ElderScrolls - Dremora"    "R" media/elderscrolls/dremora
+build "ui_elderscrolls_khajiit"     "ElderScrolls - Khajiit"    "R" media/elderscrolls/khajiit
+build "ui_elderscrolls_orc"         "ElderScrolls - Orc"        "R" media/elderscrolls/orc
+build "ui_elderscrolls_spriggan"    "ElderScrolls - Spriggan"   "R" media/elderscrolls/spriggan
 
-build "ui_narivia_rodah" "Narivia - Rodah" "R" narivia/rodah
+build "ui_narivia_rodah" "Narivia - Rodah" "R" media/narivia/rodah
 
 build "ui_runescape_human" "RuneScape - Human" "L" \
-    runescape/human_asgarnian runescape/human_kandarin runescape/human_kharidian runescape/human_menaphite runescape/human_misthalinian \
-    runescape/human
+    media/runescape/human_asgarnian media/runescape/human_kandarin media/runescape/human_kharidian media/runescape/human_menaphite \
+    media/runescape/human_misthalinian media/runescape/human
 
-build "ui_starcraft_human" "StarCraft - Human"      "L" starcraft/human
-build "ui_starcraft_protoss" "StarCraft - Protoss"  "R" starcraft/protoss
+build "ui_starcraft_human" "StarCraft - Human"      "L" media/starcraft/human
+build "ui_starcraft_protoss" "StarCraft - Protoss"  "R" media/starcraft/protoss
 
-build "ui_starwars_human" "StarWars - Human" "L" starwars/human
+build "ui_starwars_human" "StarWars - Human" "L" media/starwars/human
 
-build "ui_catfolk"  "Catfolk"   "R" aow/tigran elderscrolls/khajiit
-build "ui_demon"    "Demon"     "R" aow/draconian divinity/demon elderscrolls/dremora
-build "ui_dwarven"  "Dwarven"   "R" aow/dwarven divinity/dwarven
-build "ui_elven"    "Elven"     "R" aow/elven divinity/elven elderscrolls/altmer elderscrolls/ayleid
-build "ui_goblin"   "Goblin"    "R" aow/goblin divinity/goblin elderscrolls/goblin runescape/goblin
-build "ui_lizard"   "Lizard"    "R" divinity/lizard elderscrolls/argonian
-build "ui_orc"      "Orc"       "R" aow/orc elderscrolls/orc
+build "ui_catfolk"  "Catfolk"   "R" media/aow/tigran media/elderscrolls/khajiit
+build "ui_demon"    "Demon"     "R" media/aow/draconian media/divinity/demon media/elderscrolls/dremora
+build "ui_dwarven"  "Dwarven"   "R" media/aow/dwarven media/divinity/dwarven
+build "ui_elven"    "Elven"     "R" media/aow/elven media/divinity/elven media/elderscrolls/altmer media/elderscrolls/ayleid
+build "ui_goblin"   "Goblin"    "R" media/aow/goblin media/divinity/goblin media/elderscrolls/goblin media/runescape/goblin
+build "ui_lizard"   "Lizard"    "R" media/divinity/lizard media/elderscrolls/argonian
+build "ui_orc"      "Orc"       "R" media/aow/orc media/elderscrolls/orc
 
 build "ui_extra_art1" "Extra - Arthropoid 1"    "R" ui/art1
 build "ui_extra_avi1" "Extra - Avian 1"         "R" ui/avi1
