@@ -33,7 +33,17 @@
         <NameGroup>
           <Name>Cities - Fallout</Name>
           <Values>
+            <string>Grayditch</string>
+            <string>Megaton</string>
             <string>New Vegas</string>
+            <string>Rivet City</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Grand Theft Auto</Name>
+          <Values>
+            <string>Liberty</string>
+            <string>Vice</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -50,6 +60,34 @@
         </NameGroup>
       </Cities>
     </Places>
+    <GreatPeople>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - Memes</Name>
+          <Values>
+            <string>Rick Roll</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+    </GreatPeople>
+    <Ships>
+      <Battleship>
+        <NameGroup>
+          <Name>Movies</Name>
+          <Values>
+            <string>Disaster Artist</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Constructor>
+        <NameGroup>
+          <Name>People - Cartoons</Name>
+          <Values>
+            <string>Bob</string>
+          </Values>
+        </NameGroup>
+      </Constructor>
+    </Ships>
     <Armies>
       <AssaultArmy>
         <NameGroup>
@@ -60,6 +98,28 @@
         </NameGroup>
       </AssaultArmy>
     </Armies>
+    <Stations>
+      <ResearchStations>
+        <NameGroup>
+          <Name>Research facilities - Half Life</Name>
+          <Values>
+            <string>Black Mesa</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Research facilities - Portal</Name>
+          <Values>
+            <string>Aperture Science Laboratory</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Fallout</Name>
+          <Values>
+            <string>Helios One</string>
+          </Values>
+        </NameGroup>
+      </ResearchStations>
+    </Stations>
     <Planets>
       <Generic>
         <NameGroup>
@@ -107,6 +167,22 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Tropical>
+        <NameGroup>
+          <Name>Cities - Grand Theft Auto</Name>
+          <Values>
+            <string>Vice</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Continental>
+        <NameGroup>
+          <Name>Cities - Grand Theft Auto</Name>
+          <Values>
+            <string>Liberty</string>
+          </Values>
+        </NameGroup>
+      </Continental>
       <Arid>
         <NameGroup>
           <Name>Cities - Fallout</Name>
@@ -123,6 +199,23 @@
           </Values>
         </NameGroup>
       </Arctic>
+      <Alpine>
+        <NameGroup>
+          <Name>Cities - Fallout</Name>
+          <Values>
+            <string>Grayditch</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+      <Tomb>
+        <NameGroup>
+          <Name>Cities - Fallout</Name>
+          <Values>
+            <string>Megaton</string>
+            <string>Rivet City</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
     </Planets>
   </NameList>
 </ArrayOfNameList>

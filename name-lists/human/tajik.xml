@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>human_belarusian</Id>
-    <Name>Human - Belarusian</Name>
+    <Id>human_tajik</Id>
+    <Name>Human - Tajik</Name>
     <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-          <string>Belarusian</string>
+          <string>Tajik</string>
+          <string>Tajikistani</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -16,18 +17,10 @@
         <NameGroup>
           <Name>Countries</Name>
           <Values>
-            <string>Belarus</string>
+            <string>Tajikistan</string>
           </Values>
         </NameGroup>
       </Countries>
-      <Cities>
-        <NameGroup>
-          <Name>Cities</Name>
-          <Values>
-            <string>Minsk</string>
-          </Values>
-        </NameGroup>
-      </Cities>
     </Places>
   </NameList>
 </ArrayOfNameList>

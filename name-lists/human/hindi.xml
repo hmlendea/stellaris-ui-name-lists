@@ -7,7 +7,6 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-          <string>Bengal</string>
           <string>Hindi</string>
           <string>Raj</string>
         </Values>
@@ -18,19 +17,11 @@
         <NameGroup>
           <Name>Countries</Name>
           <Values>
-            <string>Bangladesh</string>
+            <string>India</string>
             <string>Sri Lanka</string>
           </Values>
         </NameGroup>
       </Countries>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - Bangladesh</Name>
-          <Values>
-            <string>Chittagong</string>
-          </Values>
-        </NameGroup>
-      </Cities>
       <Mountains>
         <NameGroup>
           <Name>Mountains</Name>
@@ -39,14 +30,6 @@
           </Values>
         </NameGroup>
       </Mountains>
-      <Forests>
-        <NameGroup>
-          <Name>Forests - Bangladesh</Name>
-          <Values>
-            <string>Bengal</string>
-          </Values>
-        </NameGroup>
-      </Forests>
     </Places>
     <GreatPeople>
       <PowerDeities>
@@ -259,40 +242,12 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Civilization: Beyond Earth - Kavithan Protectorate - Sanskrit</Name>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Kavithan Protectorate -->
           <Values>
             <string>Dhanya</string>
             <string>Garhi</string>
             <string>Rayyan</string>
             <string>Sachita</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Kavithan Protectorate - Hindi</Name>
-          <Values>
-            <string>Udyama</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Kavithan Protectorate - Sanskrit</Name>
-          <Values>
-            <string>Agni</string>
-            <string>Asraya</string>
-            <string>Harsha</string>
-            <string>Mandira</string>
-            <string>Mansi</string>
-            <string>Pran</string>
-            <string>Sabda</string>
-            <string>Vasanta</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Kavithan Protectorate - Urdu</Name>
-          <Values>
-            <string>Javed</string>
-            <string>Saira</string>
-            <string>Shan</string>
-            <string>Zafar</string>
           </Values>
         </NameGroup>
       </Generic>

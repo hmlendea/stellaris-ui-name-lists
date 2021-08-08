@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>human_belarusian</Id>
-    <Name>Human - Belarusian</Name>
+    <Id>human_bengal</Id>
+    <Name>Human - Bengal</Name>
     <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-          <string>Belarusian</string>
+          <string>Bangladeshi</string>
+          <string>Bengal</string>
+          <string>Bengalese</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -16,7 +18,7 @@
         <NameGroup>
           <Name>Countries</Name>
           <Values>
-            <string>Belarus</string>
+            <string>Bangladesh</string>
           </Values>
         </NameGroup>
       </Countries>
@@ -24,10 +26,26 @@
         <NameGroup>
           <Name>Cities</Name>
           <Values>
-            <string>Minsk</string>
+            <string>Chittagong</string>
           </Values>
         </NameGroup>
       </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Himalaya</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Forests>
+        <NameGroup>
+          <Name>Forests</Name>
+          <Values>
+            <string>Bengal</string>
+          </Values>
+        </NameGroup>
+      </Forests>
     </Places>
   </NameList>
 </ArrayOfNameList>

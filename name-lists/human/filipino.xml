@@ -97,16 +97,5 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Polystralia</Name>
-          <Values>
-            <string>Kayamutan</string>
-            <string>Mahalaga</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

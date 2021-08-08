@@ -126,16 +126,5 @@
         </Swords>
       </Weapons>
     </Warfare>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - North Sea Alliance</Name>
-          <Values>
-            <string>Klog Hjerte</string>
-            <string>Vanfald</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

@@ -129,15 +129,6 @@
       </LeadersTier1>
     </GreatPeople>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - North Sea Alliance</Name>
-          <Values>
-            <string>Himinn</string>
-            <string>Örlög</string>
-          </Values>
-        </NameGroup>
-      </Generic>
       <Tundra>
         <NameGroup>
           <Name>Countries</Name>

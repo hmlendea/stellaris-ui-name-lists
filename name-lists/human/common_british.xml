@@ -121,14 +121,6 @@
           </Values>
         </NameGroup>
       </SpacecraftManufacturers>
-      <ResearchCompanies>
-        <NameGroup>
-          <Name>Research Companies - Alien</Name>
-          <Values>
-            <string>Weyland</string>
-          </Values>
-        </NameGroup>
-      </ResearchCompanies>
       <InvestmentCompanies>
         <NameGroup>
           <Name>Investment Companies</Name>
@@ -186,55 +178,5 @@
         </NameGroup>
       </Science>
     </Ships>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - North Sea Alliance</Name>
-          <Values>
-            <string>Deepcastle</string>
-            <string>Wideway</string>
-            <string>Oceanham</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Noxium Corporation</Name>
-          <Values>
-            <string>Schroders</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Togra University</Name>
-          <Values>
-            <string>Penrose</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>New Coventry</string>
-            <string>St. Pomeroy</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - Commonwealth of Man</Name>
-          <Values>
-            <string>Fitzroy's World</string>
-            <string>Hoxworth</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Avalon</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Witcher</Name>
-          <Values>
-            <string>Claywich</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

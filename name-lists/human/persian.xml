@@ -7,10 +7,7 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-          <string>Iranian</string>
-          <string>Pashtun</string>
           <string>Persian</string>
-          <string>Tajik</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -19,37 +16,15 @@
         <NameGroup>
           <Name>Countries</Name>
           <Values>
-            <string>Iran</string>
-            <string>Tajikistan</string>
+            <string>Persia</string>
           </Values>
         </NameGroup>
       </Countries>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - Iran</Name>
-          <Values>
-            <string>Faisalabad</string>
-            <string>Isfahan</string>
-            <string>Mashhad</string>
-            <string>Tehran</string>
-          </Values>
-        </NameGroup>
-      </Cities>
-      <Deserts>
-        <NameGroup>
-          <Name>Deserts - Iran</Name>
-          <Values>
-            <string>Kavir</string>
-            <string>Lut</string>
-            <string>Maranjab</string>
-          </Values>
-        </NameGroup>
-      </Deserts>
     </Places>
     <GreatPeople>
       <Scientists>
         <NameGroup>
-          <Name>Scientists - Persian</Name>
+          <Name>Scientists</Name>
           <Values>
             <string>Al-Khwarizmi</string>
             <string>Al-Razi</string>
@@ -61,7 +36,7 @@
       </Scientists>
       <LeadersTier2>
         <NameGroup>
-          <Name>Leaders - Persian</Name>
+          <Name>Leaders</Name>
           <Values>
             <string>Cyrus</string>
             <string>Darius</string>
@@ -70,7 +45,7 @@
       </LeadersTier2>
       <LeadersTier3>
         <NameGroup>
-          <Name>Leaders - Persian</Name>
+          <Name>Leaders</Name>
           <Values>
             <string>Xerxes</string>
           </Values>
@@ -81,12 +56,6 @@
           <Name>Heroes</Name>
           <Values>
             <string>Gordafarid</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Heroes - Iranian</Name>
-          <Values>
-            <string>Esfandiar</string>
           </Values>
         </NameGroup>
       </Heroes>
@@ -112,7 +81,7 @@
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Military unit types - Persian</Name>
+          <Name>Military unit types</Name>
           <Values>
             <string>Immortal</string>
           </Values>
@@ -122,7 +91,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Pax Nova - Eastern Resistance</Name>
+          <Name>Cities - Pax Nova</Name> <!-- Eastern Resistance -->
           <Values>
             <string>Kard</string>
           </Values>
