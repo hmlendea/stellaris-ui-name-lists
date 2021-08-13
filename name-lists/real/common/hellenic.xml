@@ -11,6 +11,16 @@
         </Values>
       </NameGroup>
     </Denonyms>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Byzantion</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
     <GreatPeople>
       <Scientists>
         <NameGroup>

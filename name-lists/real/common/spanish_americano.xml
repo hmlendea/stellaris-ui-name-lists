@@ -79,6 +79,12 @@
             <string>Andes</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Mountains - Mythological</Name>
+          <Values>
+            <string>Sierra de la Plata</string>
+          </Values>
+        </NameGroup>
       </Mountains>
       <Deserts>
         <NameGroup>

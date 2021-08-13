@@ -191,29 +191,5 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Settlements - Pandora: First Contact - Divine Ascension</Name>
-          <Values>
-            <string>Varanasi</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Pandora: First Contact - Togra University</Name>
-          <Values>
-            <string>Chandrasekhar</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-      <Tropical>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Kishkindha</string>
-          </Values>
-        </NameGroup>
-      </Tropical>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

@@ -117,6 +117,14 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Albion</string>
+          </Values>
+        </NameGroup>
+      </Continental>
     </Planets>
   </NameList>
 </ArrayOfNameList>

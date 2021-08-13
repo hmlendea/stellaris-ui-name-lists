@@ -108,5 +108,15 @@
         </NameGroup>
       </Admirals>
     </GreatPeople>
+    <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types</Name>
+          <Values>
+            <string>Skiritai</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
   </NameList>
 </ArrayOfNameList>

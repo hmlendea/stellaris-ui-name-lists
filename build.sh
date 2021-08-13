@@ -172,7 +172,7 @@ build "ui_extra_humans_hellenic"        "Human - Hellenic"          "L" \
     media/other/human/hellenic
 build "ui_extra_humans_hindi"           "Human - Hindi"             "L" \
     real/bengal real/indian real/nepali real/tamil real/urdu real/hindi \
-    media/other/human/hindi  media/other/human/sanskrit media/other/human/tamil media/other/human/urdu
+    media/other/human/hindi media/other/human/indian media/other/human/sanskrit media/other/human/tamil media/other/human/urdu
 build "ui_extra_humans_iberian"         "Human - Iberian"           "L" \
     real/basque real/catalan real/portuguese real/spanish \
     real/common/european real/common/iberian real/common/portuguese \
@@ -227,7 +227,7 @@ build "ui_extra_humans_spqr_extended"   "Human - Roman"             "L" \
     real/common/european \
     real/human3 media/other/human/latin
 build "ui_extra_humans_turkic"          "Human - Turkic"            "L" \
-    real/turkish real/turkmen \
+    real/turkish real/turkmen real/uyghur \
     real/common/turkic \
     media/other/human/turkish
 build "ui_extra_humans_yugoslavic"      "Human - Yugoslavic"        "L" \
@@ -235,21 +235,16 @@ build "ui_extra_humans_yugoslavic"      "Human - Yugoslavic"        "L" \
     real/common/european real/common/slavic real/common/yugoslavic \
     media/other/human/croatian media/other/human/slavic
 build "ui_extra_humans_extended"        "Human - Extended"          "L" \
-    real/afghan real/african real/algerian real/american real/angolan real/arabic real/argentinian \
-    real/armenian real/australian real/austrian real/austronesian real/belarusian \
-    real/basque real/bosnian real/bengal real/brazilian real/breton real/bulgarian real/canadian real/catalan \
-    real/celtic real/chinese real/colombian real/congolese real/cornish real/croatian real/cuban \
-    real/cypriote real/czech real/danish real/dutch real/ecuadorian real/egyptian real/english \
-    real/estonian real/ethiopian real/filipino real/finnish real/french real/french_ivory real/german real/germanic \
-    real/greek real/greenlandic real/guatemalan real/hawaiian real/hebrew real/hindi \
-    real/hungarian real/icelandic real/icenic real/indian real/indonesian real/iranian real/italian real/irish \
-    real/japanese real/jordanian real/kabyle real/kazakh real/kiribatian real/korean real/latvian real/lithuanian real/malaysian \
-    real/malian real/maori real/mauritanian real/mexican real/mongol real/nahuatl real/nepali real/nigerian \
-    real/norwegian real/persian real/polish real/polynesian real/portuguese \
-    real/roman real/romanian real/russian real/scottish real/senegalese real/serbian real/shona real/slovakian \
-    real/slovenian real/somali real/spanish real/swahili real/swedish real/swiss real/syrian real/taiwanese real/tajik \
-    real/tamil real/tibetan real/tswana real/tunisian real/turkish real/turkmen real/ukrainian real/urdu real/venezuelan \
-    real/vietnamese real/welsh real/yoruba real/zambian real/zealandian real/zulu \
+    real/afghan real/african real/algerian real/american real/angolan real/arabic real/argentinian real/armenian real/australian real/austrian real/austronesian \
+    real/belarusian real/basque real/bosnian real/bengal real/brazilian real/breton real/bulgarian real/canadian real/catalan real/celtic real/chinese real/colombian \
+    real/congolese real/cornish real/croatian real/cuban real/cypriote real/czech real/danish real/dutch real/ecuadorian real/egyptian real/english real/estonian \
+    real/ethiopian real/filipino real/finnish real/french real/french_ivory real/german real/germanic real/greek real/greenlandic real/guatemalan real/hawaiian \
+    real/hebrew real/hindi real/hungarian real/icelandic real/icenic real/indian real/indonesian real/iranian real/italian real/irish real/japanese real/jordanian \
+    real/kabyle real/kazakh real/kiribatian real/korean real/latvian real/lithuanian real/malaysian real/malian real/maori real/mauritanian real/mexican real/mongol \
+    real/nahuatl real/nepali real/nigerian real/norwegian real/persian real/polish real/polynesian real/portuguese real/roman real/romanian real/russian real/scottish \
+    real/senegalese real/serbian real/shona real/slovakian real/slovenian real/somali real/spanish real/swahili real/swedish real/swiss real/syrian real/taiwanese \
+    real/tajik real/tamil real/tibetan real/tswana real/tunisian real/turkish real/turkmen real/ukrainian real/urdu real/uyghur real/venezuelan real/vietnamese \
+    real/welsh real/yoruba real/zambian real/zealandian real/zulu \
     \
     real/common/african real/common/asian real/common/british real/common/celtic real/common/english real/common/european real/common/german real/common/hellenic \
     real/common/iberian real/common/norse real/common/portuguese real/common/slavic real/common/spanish_americano real/common/spanish real/common/turkic \
@@ -263,13 +258,13 @@ build "ui_extra_humans_extended"        "Human - Extended"          "L" \
     media/other/human/basque media/other/human/belarusian media/other/human/british media/other/human/canadian media/other/human/catalan media/other/human/celtic \
     media/other/human/chinese media/other/human/croatian media/other/human/czech media/other/human/danish media/other/human/english media/other/human/english_int \
     media/other/human/filipino media/other/human/french media/other/human/german media/other/human/hebrew media/other/human/hellenic media/other/human/hindi \
-    media/other/human/icelandic media/other/human/indonesian media/other/human/irish media/other/human/italian media/other/human/japanese media/other/human/korean \
-    media/other/human/latin media/other/human/malaysian media/other/human/maori media/other/human/mexican media/other/human/mongol media/other/human/norse \
-    media/other/human/norwegian media/other/human/polish media/other/human/portuguese media/other/human/romanian media/other/human/russian media/other/human/shona \
-    media/other/human/slavic media/other/human/spanish media/other/human/sanskrit media/other/human/scottish media/other/human/somali media/other/human/swahili \
-    media/other/human/swedish media/other/human/swiss media/other/human/tamil media/other/human/tibetan media/other/human/tswana media/other/human/turkish \
-    media/other/human/ukrainian media/other/human/urdu media/other/human/venezuelan media/other/human/vietnamese media/other/human/xhosa media/other/human/zulu \
-    media/other/human/_ \
+    media/other/human/icelandic media/other/human/indian media/other/human/indonesian media/other/human/irish media/other/human/italian media/other/human/japanese \
+    media/other/human/korean media/other/human/latin media/other/human/malaysian media/other/human/maori media/other/human/mexican media/other/human/mongol \
+    media/other/human/norse media/other/human/norwegian media/other/human/polish media/other/human/portuguese media/other/human/romanian media/other/human/russian \
+    media/other/human/shona media/other/human/slavic media/other/human/spanish media/other/human/sanskrit media/other/human/scottish media/other/human/somali \
+    media/other/human/swahili media/other/human/swedish media/other/human/swiss media/other/human/tamil media/other/human/tibetan media/other/human/tswana \
+    media/other/human/turkish media/other/human/ukrainian media/other/human/urdu media/other/human/venezuelan media/other/human/vietnamese media/other/human/xhosa \
+    media/other/human/zulu media/other/human/_ \
     \
     real/human1 real/human2 real/human3 ui/human_extra real/zextended
 

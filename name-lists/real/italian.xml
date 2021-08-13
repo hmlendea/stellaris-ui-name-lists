@@ -24,11 +24,11 @@
       </Countries>
       <Regions>
         <NameGroup>
-          <Name>Regions</Name>
+          <Name>Regions - Endonyms</Name>
           <Values>
             <string>Abruzzo</string>
+            <string>Alto Adige</string>
             <string>Aosta</string>
-            <string>Apulia</string>
             <string>Basilicata</string>
             <string>Calabria</string>
             <string>Campania</string>
@@ -36,44 +36,78 @@
             <string>Friuli</string>
             <string>Lazio</string>
             <string>Liguria</string>
-            <string>Lombardy</string>
+            <string>Lombardia</string>
             <string>Marche</string>
             <string>Molise</string>
-            <string>Piedmont</string>
-            <string>Sardinia</string>
-            <string>Sicily</string>
-            <string>South Tyrol</string>
+            <string>Piemonte</string>
+            <string>Puglia</string>
+            <string>Sardegna</string>
+            <string>Sicilia</string>
+            <string>Toscania</string>
             <string>Trentino</string>
-            <string>Tuscany</string>
             <string>Umbria</string>
             <string>Veneto</string>
             <string>Venezia</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions - Endonyms</Name>
+          <Name>Regions - Exonyms</Name>
           <Values>
-            <string>Alto Adige</string>
-            <string>Lombardia</string>
-            <string>Piemonte</string>
-            <string>Puglia</string>
-            <string>Sardegna</string>
-            <string>Sicilia</string>
-            <string>Toscania</string>
+            <string>Apulia</string>
+            <string>Lombardy</string>
+            <string>Piedmont</string>
+            <string>Sardinia</string>
+            <string>Sicily</string>
+            <string>South Tyrol</string>
+            <string>Tuscany</string>
+            <string>Venice</string>
           </Values>
         </NameGroup>
       </Regions>
       <Cities>
         <NameGroup>
-          <Name>Cities</Name>
+          <Name>Cities - Endonyms</Name>
           <Values>
+            <string>Bari</string>
+            <string>Bologna</string>
+            <string>Brescia</string>
             <string>Cagliari</string>
+            <string>Catania</string>
+            <string>Firenze</string>
+            <string>Foggia</string>
+            <string>Genova</string>
+            <string>Livorno</string>
+            <string>Messina</string>
+            <string>Milano</string>
+            <string>Modena</string>
+            <string>Napoli</string>
+            <string>Padova</string>
+            <string>Palermo</string>
+            <string>Parma</string>
+            <string>Perugia</string>
+            <string>Prato</string>
+            <string>Ravenna</string>
+            <string>Rimini</string>
+            <string>Roma</string>
+            <string>Salerno</string>
+            <string>Siracusa</string>
+            <string>Taranto</string>
+            <string>Torino</string>
+            <string>Trieste</string>
+            <string>Venezia</string>
+            <string>Verona</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Exonyms</Name>
+          <Values>
             <string>Florence</string>
             <string>Genoa</string>
             <string>Milan</string>
             <string>Naples</string>
-            <string>Palermo</string>
+            <string>Padua</string>
             <string>Rome</string>
+            <string>Syracuse</string>
             <string>Turin</string>
             <string>Venice</string>
           </Values>

@@ -317,14 +317,6 @@
           </Values>
         </NameGroup>
       </Continental>
-      <Arid>
-        <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
-          <Values>
-            <string>Oltenia</string>
-          </Values>
-        </NameGroup>
-      </Arid>
       <Ocean>
         <NameGroup>
           <Name>Stellaris - United Nations of Earth</Name>

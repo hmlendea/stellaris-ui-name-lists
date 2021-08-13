@@ -98,6 +98,14 @@
           </Values>
         </NameGroup>
       </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Serendipity</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
       <Alpine>
         <NameGroup>
           <Name>Islands - Puzzle Pirates</Name>

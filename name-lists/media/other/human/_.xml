@@ -256,6 +256,12 @@
             <string>Caravenserai</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>New Mars</string>
+          </Values>
+        </NameGroup>
       </Arid>
       <Tropical>
         <NameGroup>

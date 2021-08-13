@@ -28,6 +28,14 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Zanzibar</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
     </Planets>
   </NameList>
 </ArrayOfNameList>

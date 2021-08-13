@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>other-media_human_hindi</Id>
-    <Name>Other Media - Human - Hindi</Name>
+    <Id>other-media_human_indian</Id>
+    <Name>Other Media - Human - Indian</Name>
     <Places>
       <Cities>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Kavithan Protectorate -->
-          <Values>
-            <string>Udyama</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - Pandora: First Contact</Name> <!-- Divine Ascension -->
           <Values>
@@ -27,12 +21,6 @@
     </Places>
     <Planets>
       <Generic>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Kavithan Protectorate -->
-          <Values>
-            <string>Udyama</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - Pandora: First Contact</Name> <!-- Divine Ascension -->
           <Values>

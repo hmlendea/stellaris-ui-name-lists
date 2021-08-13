@@ -35,7 +35,6 @@
             <string>Sierra Leone</string>
             <string>South Africa</string>
             <string>Sudan</string>
-            <string>Tanzania</string>
             <string>Uganda</string>
           </Values>
         </NameGroup>
@@ -115,12 +114,6 @@
           <Name>Cities - Sudan</Name>
           <Values>
             <string>Khartoum</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Tanzania</Name>
-          <Values>
-            <string>Dar es Salaam</string>
           </Values>
         </NameGroup>
       </Cities>

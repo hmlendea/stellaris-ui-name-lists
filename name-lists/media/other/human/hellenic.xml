@@ -138,6 +138,12 @@
             <string>Jaxartes</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Planets - Universum Infinitum</Name>
+          <Values>
+            <string>New Troy</string>
+          </Values>
+        </NameGroup>
       </Arid>
       <Continental>
         <NameGroup>

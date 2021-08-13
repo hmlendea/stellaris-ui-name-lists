@@ -3,6 +3,24 @@
   <NameList>
     <Id>human_swahili</Id>
     <Name>Human - Swahili</Name>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Tanzania</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name> <!-- Tanzania -->
+          <Values>
+            <string>Dar es Salaam</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
     <GreatPeople>
       <LeadersTier1>
         <NameGroup>
