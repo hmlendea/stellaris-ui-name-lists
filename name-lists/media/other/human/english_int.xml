@@ -133,6 +133,16 @@
         </NameGroup>
       </Lakes>
     </Places>
+    <GreatPeople>
+      <Heroes>
+        <NameGroup>
+          <Name>Characters - Mad Jack the Pirate</Name>
+          <Values>
+            <string>Mad Jack the Pirate</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+    </GreatPeople>
     <Planets>
       <Generic>
         <NameGroup>
