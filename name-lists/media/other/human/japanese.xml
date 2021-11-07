@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_japanese</Id>
+    <Name>Other Media - Human - Japanese</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
+          <Values>
+            <string>Kyoto</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Companies>
+      <RobotManufacturers>
+        <NameGroup>
+          <Name>Research Companies - Alien</Name>
+          <Values>
+            <string>Yutani</string>
+          </Values>
+        </NameGroup>
+      </RobotManufacturers>
+    </Companies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Nozomi</string>
+            <string>Akatsuki</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Continental>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
+          <Values>
+            <string>Kyoto</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Oda</string>
+            <string>Tokugawa</string>
+            <string>Toyotomi</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

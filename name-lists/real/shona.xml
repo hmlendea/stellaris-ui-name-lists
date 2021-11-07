@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_shona</Id>
+    <Name>Human - Shona</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Shona</string>
+          <string>Zimbabwean</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Zimbabwe</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Bulawayo</string>
+            <string>Harare</string>
+            <string>Manicaland</string>
+            <string>Mashonaland</string>
+            <string>Masvingo</string>
+            <string>Matabeleland</string>
+            <string>Midlands</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Bulawayo</string>
+            <string>Chinhoyi</string>
+            <string>Chitungwiza</string>
+            <string>Gweru</string>
+            <string>Harare</string>
+            <string>Kadoma</string>
+            <string>Kwekwe</string>
+            <string>Marondera</string>
+            <string>Masvingo</string>
+            <string>Mutare</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+  </NameList>
+</ArrayOfNameList>

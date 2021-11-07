@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>elderscrolls_human</Id>
+    <Name>ElderScrolls - Human</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - The Elder Scrolls</Name>
+        <Values>
+          <string>Atmoran</string>
+          <string>Breton</string>
+          <string>Colovian</string>
+          <string>Crown</string>
+          <string>Forebear</string>
+          <string>Heartlander</string>
+          <string>Human</string>
+          <string>Imperial</string>
+          <string>Nibenese</string>
+          <string>Reachman</string>
+          <string>Redguard</string>
+          <string>Yokudan</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - The Elder Scrolls</Name>
+          <Values>
+            <string>Cyrodiil</string>
+            <string>Hammerfell</string>
+            <string>High Rock</string>
+            <string>Yokuda</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions - The Elder Scrolls - Cyrodiil</Name>
+          <Values>
+            <string>Colovia</string>
+            <string>Heartlands</string>
+            <string>Nibenay</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - The Elder Scrolls - Human - Cyrodiil</Name>
+          <Values>
+            <string>Anvil</string>
+            <string>Bravil</string>
+            <string>Bruma</string>
+            <string>Cheydinhal</string>
+            <string>Chorrol</string>
+            <string>Imperial City</string>
+            <string>Kvatch</string>
+            <string>Leyawiin</string>
+            <string>Skingrad</string>
+            <string>Sutch</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - The Elder Scrolls - Human - Hammerfell</Name>
+          <Values>
+            <string>Abah's Landing</string>
+            <string>Sentinel</string>
+            <string>Taneth</string>
+            <string>Elinhir</string>
+            <string>Belkarth</string>
+            <string>Port Hunding</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - The Elder Scrolls - Human - High Rock</Name>
+          <Values>
+            <string>Alcaire</string>
+            <string>Camlorn</string>
+            <string>Daggerfall</string>
+            <string>Evermore</string>
+            <string>Jehanna</string>
+            <string>Wayrest</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains - The Elder Scrolls - High Rock</Name>
+          <Values>
+            <string>Wrothgar</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers - The Elder Scrolls - Human - Cyrodiil</Name>
+          <Values>
+            <string>Brena</string>
+            <string>Corbolo</string>
+            <string>Niben</string>
+            <string>Panther</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rivers - The Elder Scrolls - Human - High Rock</Name>
+          <Values>
+            <string>Bjoulsae</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+    </Places>
+    <GreatPersons>
+      <CreationDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Aka</string>
+            <string>Anu</string>
+          </Values>
+        </NameGroup>
+      </CreationDeities>
+      <DestructionDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Padomay</string>
+          </Values>
+        </NameGroup>
+      </DestructionDeities>
+      <DeathDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Arkay</string>
+          </Values>
+        </NameGroup>
+      </DeathDeities>
+      <TimeDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Akatosh</string>
+          </Values>
+        </NameGroup>
+      </TimeDeities>
+      <JusticeDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Julianos</string>
+            <string>Stendarr</string>
+          </Values>
+        </NameGroup>
+      </JusticeDeities>
+      <DisloyaltyDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Orkey</string>
+          </Values>
+        </NameGroup>
+      </DisloyaltyDeities>
+      <LoveDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Dibella</string>
+            <string>Mara</string>
+          </Values>
+        </NameGroup>
+      </LoveDeities>
+      <KnowledgeDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Julianos</string>
+          </Values>
+        </NameGroup>
+      </KnowledgeDeities>
+      <FortuneDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Zenithar</string>
+          </Values>
+        </NameGroup>
+      </FortuneDeities>
+      <AirDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Kynareth</string>
+          </Values>
+        </NameGroup>
+      </AirDeities>
+      <OtherDeites>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Morihaus</string>
+            <string>Reman</string>
+            <string>Shezarr</string>
+            <string>Talos</string>
+          </Values>
+        </NameGroup>
+      </OtherDeites>
+    </GreatPersons>
+    <Warfare>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations - The Elder Scrolls</Name>
+          <Values>
+            <string>Orsinium</string>
+            <string>Red Mountain</string>
+            <string>Red Ring</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+    </Warfare>
+    <Armies>
+      <FleetSequentialName>Star Legion %R%</FleetSequentialName>
+      <DefenceArmySequentialName>Garrison Legion %R%</DefenceArmySequentialName>
+      <AssaultArmySequentialName>Legion %R%</AssaultArmySequentialName>
+      <OccupationArmySequentialName>Legion %R%</OccupationArmySequentialName>
+      <SlaveArmySequentialName>Conscripted Legion %R%</SlaveArmySequentialName>
+      <CloneArmySequentialName>Clone Legion %R%</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Army</UndeadArmySequentialName>
+      <RoboticDefenceArmySequentialName>Robotic Legion %R%</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>Robotic Legion %R%</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>Robotic Legion %R%</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>Synthetic Legion %R%</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>Synthetic Legion %R%</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>Psionic Legion %R%</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>Beast Legion %R%</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>Super-Legion %R%</SuperSoldierArmySequentialName>
+    </Armies>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Countries - The Elder Scrolls</Name>
+          <Values>
+            <string>Cyrodiil</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - The Elder Scrolls</Name>
+          <Values>
+            <string>Colovia</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>runescape_human_asgarnian</Id>
+    <Name>RuneScape - Human - Asgarnian</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - RuneScape</Name>
+        <Values>
+          <string>Asgarnian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - RuneScape</Name>
+          <Values>
+            <string>Asgarnia</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - RuneScape</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-asgarnian-settlements.txt</Url>
+        </NameGroup>
+      </Cities>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes - RuneScape</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-asgarnian-lakes.txt</Url>
+        </NameGroup>
+      </Lakes>
+    </Places>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Cities - RuneScape</Name>
+          <Values>
+            <string>Falador</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - RuneScape</Name>
+          <Values>
+            <string>Asgarnia</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Cities - RuneScape</Name>
+          <Values>
+            <string>Port Sarim</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>asgarnian</Id>
+        <Weight>1</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-asgarnian-persons-male.txt</Url>
+          </NameGroup>
+        </MaleFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-asgarnian-persons-female.txt</Url>
+          </NameGroup>
+        </FemaleFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-asgarnian-persons-surname.txt</Url>
+          </NameGroup>
+        </SecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

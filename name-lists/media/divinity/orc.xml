@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_divinity_orc</Id>
+    <Name>Divinity - Orc</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Orc</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts</Name>
+          <Values>
+            <string>Yuthul Gor</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
+    </Places>
+    <GreatPersons>
+      <CreationDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Vrogir</string>
+          </Values>
+        </NameGroup>
+      </CreationDeities>
+    </GreatPersons>
+    <Characters>
+      <CharacterNames>
+        <Id>divinity-orc</Id>
+        <Weight>100</Weight>
+        <MaleFullNames>
+          <NameGroup>
+            <Url>https://github.com/hmlendea/universal-name-generator/blob/master/Wordlists/divinity-orc-person-male.txt</Url>
+          </NameGroup>
+        </MaleFullNames>
+        <FemaleFullNames>
+          <NameGroup>
+          </NameGroup>
+        </FemaleFullNames>
+        <SecondNames>
+          <NameGroup>
+          </NameGroup>
+        </SecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>humans_common_european</Id>
+    <Name>Humans - Common - European</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>European</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Continents</Name>
+          <Values>
+            <string>Europe</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+    </Places>
+    <Warfare>
+      <Weapons>
+        <Artillery>
+          <NameGroup>
+            <Name>Artillery</Name>
+            <Values>
+              <string>Trebuchet</string>
+            </Values>
+          </NameGroup>
+        </Artillery>
+      </Weapons>
+    </Warfare>
+    <Ships>
+      <Science>
+        <NameGroup>
+          <Name>Landers - Mars - Future / Proposed</Name>
+          <Values>
+            <string>Phootprint</string>
+          </Values>
+        </NameGroup>
+      </Science>
+    </Ships>
+  </NameList>
+</ArrayOfNameList>

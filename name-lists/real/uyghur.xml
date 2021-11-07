@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_uyghur</Id>
+    <Name>Other Media - Human - Uyghur</Name>
+    <GreatPeople>
+      <Explorers>
+        <NameGroup>
+          <Name>Explorers</Name>
+          <Values>
+            <string>Rabban Bar Ṣawma</string>
+          </Values>
+        </NameGroup>
+      </Explorers>
+    </GreatPeople>
+  </NameList>
+</ArrayOfNameList>

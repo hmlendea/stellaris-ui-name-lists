@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_common_spanish_americano</Id>
+    <Name>Human - Common - Spanish - Americano</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Peruvian</string>
+          <string>Spanish</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>El Salvador</string>
+            <string>Panama</string>
+            <string>Peru</string>
+            <string>Uruguay</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Forests>
+        <NameGroup>
+          <Name>Forests</Name>
+          <Values>
+            <string>Amazonia</string>
+          </Values>
+        </NameGroup>
+      </Forests>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - El Salvador</Name>
+          <Values>
+            <string>San Salvador</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Panama</Name>
+          <Values>
+            <string>Panama City</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Peru</Name>
+          <Values>
+            <string>Lima</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Uruguay</Name>
+          <Values>
+            <string>Montevideo</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Amazon</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rivers - Paraguay</Name>
+          <Values>
+            <string>Rio Paraguay</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Andes</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mountains - Mythological</Name>
+          <Values>
+            <string>Sierra de la Plata</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts</Name>
+          <Values>
+            <string>Patagonia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Deserts - Chile</Name>
+          <Values>
+            <string>Atacama</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Deserts - Peru</Name>
+          <Values>
+            <string>Nazca</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
+    </Places>
+    <Warfare>
+      <Weapons>
+        <Throwables>
+          <NameGroup>
+            <Name>Throwables</Name>
+            <Values>
+              <string>Bola</string>
+            </Values>
+          </NameGroup>
+        </Throwables>
+      </Weapons>
+    </Warfare>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals</Name>
+          <Values>
+            <string>Iguana</string>
+            <string>Ocelot</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
+    <Ships>
+      <Coloniser>
+        <NameGroup>
+          <Name>Mythology - Places</Name>
+          <Values>
+            <string>El Dorado</string>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+    </Ships>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Places</Name>
+          <Values>
+            <string>Nuevo Mojave</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Gaia>
+        <NameGroup>
+          <Name>Mythology - Places</Name>
+          <Values>
+            <string>El Dorado</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

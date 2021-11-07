@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_irish</Id>
+    <Name>Human - Irish</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+            <string>Irish</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Ireland</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Belfast</string>
+            <string>Cork</string>
+            <string>Drogheda</string>
+            <string>Dublin</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Endonyms</Name>
+          <Values>
+            <string>Corcaigh</string>
+            <string>Droichead Átha</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>An Abha Mhór</string>
+            <string>An Abhainn Mhór</string>
+            <string>An Bandan</string>
+            <string>An Bhanna</string>
+            <string>An Bhearú</string>
+            <string>An Bhóinn</string>
+            <string>An Bhríd</string>
+            <string>An Bhrosnach</string>
+            <string>An Bhúill</string>
+            <string>An Chláir</string>
+            <string>An Daoil</string>
+            <string>An Éirne</string>
+            <string>An Eithne</string>
+            <string>An Feabhal</string>
+            <string>An Fhéil</string>
+            <string>An Fheoir</string>
+            <string>An Finne</string>
+            <string>An Lagáin</string>
+            <string>An Laoi</string>
+            <string>An Leamhain</string>
+            <string>An Life</string>
+            <string>An Mháigh</string>
+            <string>An Mhuaidh</string>
+            <string>An Róba</string>
+            <string>An Sionainne</string>
+            <string>An Siúire</string>
+            <string>An Suca</string>
+            <string>An Uisce Dubh</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+    </Places>
+    <GreatPeople>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists</Name>
+          <Values>
+            <string>Kelvin</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes</Name>
+          <Values>
+            <string>Creidne</string>
+            <string>Deirdre</string>
+            <string>Étaín</string>
+            <string>Fráech</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Muirisc</string>
+            <string>Scáthach</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+      <PowerDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Badb</string>
+            <string>Macha</string>
+            <string>Mór Muman</string>
+            <string>Morrígan</string>
+            <string>Nemain</string>
+          </Values>
+        </NameGroup>
+      </PowerDeities>
+      <WarDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Badb</string>
+            <string>Lugh</string>
+            <string>Macha</string>
+            <string>Morrígan</string>
+            <string>Néit</string>
+            <string>Nemain</string>
+          </Values>
+        </NameGroup>
+      </WarDeities>
+      <DestructionDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Balor</string>
+          </Values>
+        </NameGroup>
+      </DestructionDeities>
+      <DeathDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Aodh</string>
+          </Values>
+        </NameGroup>
+      </DeathDeities>
+      <LabourDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Brigid</string>
+            <string>Creidhne</string>
+            <string>Goibniu</string>
+            <string>Luchtaine</string>
+          </Values>
+        </NameGroup>
+      </LabourDeities>
+      <HealthDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Airmed</string>
+            <string>Brigid</string>
+            <string>Dian Cécht</string>
+          </Values>
+        </NameGroup>
+      </HealthDeities>
+      <LoveDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Clíodhna</string>
+            <string>Óengus</string>
+          </Values>
+        </NameGroup>
+      </LoveDeities>
+      <ArtDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Abhcán</string>
+            <string>Abhean</string>
+            <string>Aoi Mac Ollamain</string>
+            <string>Brigid</string>
+            <string>Canola</string>
+            <string>Creidhne</string>
+            <string>Ernmas</string>
+            <string>Goibniu</string>
+            <string>Luchtaine</string>
+          </Values>
+        </NameGroup>
+      </ArtDeities>
+      <KnowledgeDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Beag</string>
+          </Values>
+        </NameGroup>
+      </KnowledgeDeities>
+      <FortuneDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Áine</string>
+          </Values>
+        </NameGroup>
+      </FortuneDeities>
+      <ColdDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Cailleach</string>
+          </Values>
+        </NameGroup>
+      </ColdDeities>
+      <WarmthDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Áillen</string>
+          </Values>
+        </NameGroup>
+      </WarmthDeities>
+      <WaterDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Boann</string>
+          </Values>
+        </NameGroup>
+      </WaterDeities>
+      <OtherDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Ábartach</string>
+            <string>Anu</string>
+            <string>Béḃinn</string>
+            <string>Bodb Derg</string>
+            <string>Builg</string>
+            <string>Crom Cruach</string>
+            <string>Ethniu</string>
+            <string>Fliodhais</string>
+            <string>Grian</string>
+            <string>Midhir</string>
+            <string>Mongfind</string>
+          </Values>
+        </NameGroup>
+      </OtherDeities>
+    </GreatPeople>
+    <Companies>
+      <AircraftManufacturers>
+        <NameGroup>
+          <Name>Aircraft Manufacturers</Name>
+          <Values>
+            <string>AerCap</string>
+          </Values>
+        </NameGroup>
+      </AircraftManufacturers>
+    </Companies>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Banshee</string>
+            <string>Enfield</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
+    <Characters>
+      <CharacterNames>
+        <Id>irish</Id>
+        <Weight>1</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/gle-persons-male.txt</Url>
+          </NameGroup>
+        </MaleFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/gle-persons-female.txt</Url>
+          </NameGroup>
+        </FemaleFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/gle-persons-surnames.txt</Url>
+          </NameGroup>
+        </SecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

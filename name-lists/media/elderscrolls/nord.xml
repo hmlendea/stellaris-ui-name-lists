@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>elderscrolls_nord</Id>
+    <Name>ElderScrolls - Nord</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - The Elder Scrolls</Name>
+        <Values>
+          <string>Nord</string>
+          <string>Skaal</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - The Elder Scrolls</Name>
+          <Values>
+            <string>Atmora</string>
+            <string>Roscrea</string>
+            <string>Skyrim</string>
+            <string>Solstheim</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Islands - The Elder Scrolls</Name>
+          <Values>
+            <string>Solstheim</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - The Elder Scrolls</Name>
+          <Values>
+            <string>Eastmarch</string>
+            <string>Falkreath</string>
+            <string>Haafingar</string>
+            <string>Hjaalmarch</string>
+            <string>Solstheim</string>
+            <string>The Pale</string>
+            <string>The Reach</string>
+            <string>The Rift</string>
+            <string>Whiterun</string>
+            <string>Winterhold</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - The Elder Scrolls</Name> <!-- Skyrim -->
+          <Values>
+            <string>Dawnstar</string>
+            <string>Falkreath</string>
+            <string>Helgen</string>
+            <string>Markarth</string>
+            <string>Morthal</string>
+            <string>Riften</string>
+            <string>Solitude</string>
+            <string>Whiterun</string>
+            <string>Windhelm</string>
+            <string>Winterhold</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - The Elder Scrolls</Name> <!-- Cyrodiil -->
+          <Values>
+            <string>Bruma</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains - The Elder Scrolls</Name> <!-- Skyrim -->
+          <Values>
+            <string>Anthor</string>
+            <string>Hrothgar</string>
+            <string>Jerall</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers - The Elder Scrolls</Name> <!-- Skyrim -->
+          <Values>
+            <string>Darkwater</string>
+            <string>Hjaal</string>
+            <string>Karth</string>
+            <string>Treva</string>
+            <string>White River</string>
+            <string>Yorgrim</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes - The Elder Scrolls</Name> <!-- Skyrim -->
+          <Values>
+            <string>Fjalding</string>
+            <string>Geir</string>
+            <string>Honrich</string>
+            <string>Ilinalta</string>
+            <string>Yorgrim</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
+      <Seas>
+        <NameGroup>
+          <Name>Seas - The Elder Scrolls</Name> <!-- Skyrim -->
+          <Values>
+            <string>Sea of Ghosts</string>
+          </Values>
+        </NameGroup>
+      </Seas>
+    </Places>
+    <GreatPersons>
+      <DestructionDeities>
+        <NameGroup>
+          <Name>Deities - The Elder Scrolls</Name>
+          <Values>
+            <string>Alduin</string>
+          </Values>
+        </NameGroup>
+      </DestructionDeities>
+      <WarDeities>
+        <NameGroup>
+          <Name>Deities - The Elder Scrolls</Name>
+          <Values>
+            <string>Stuhn</string>
+          </Values>
+        </NameGroup>
+      </WarDeities>
+      <ProphecyDeities>
+        <NameGroup>
+          <Name>Deities - The Elder Scrolls</Name>
+          <Values>
+            <string>Herma-Mora</string>
+          </Values>
+        </NameGroup>
+      </ProphecyDeities>
+      <JusticeDeities>
+        <NameGroup>
+          <Name>Deities - The Elder Scrolls</Name>
+          <Values>
+            <string>Jhunal</string>
+          </Values>
+        </NameGroup>
+      </JusticeDeities>
+      <KnowledgeDeities>
+        <NameGroup>
+          <Name>Deities - The Elder Scrolls</Name>
+          <Values>
+            <string>Herma-Mora</string>
+            <string>Jhunal</string>
+          </Values>
+        </NameGroup>
+      </KnowledgeDeities>
+      <AirDeities>
+        <NameGroup>
+          <Name>Deities - The Elder Scrolls</Name>
+          <Values>
+            <string>Kyne</string>
+          </Values>
+        </NameGroup>
+      </AirDeities>
+      <OtherDeites>
+        <NameGroup>
+          <Name>Deities - The Elder Scrolls</Name>
+          <Values>
+            <string>Shor</string>
+            <string>Tsun</string>
+          </Values>
+        </NameGroup>
+      </OtherDeites>
+    </GreatPersons>
+    <Warfare>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations - The Elder Scrolls</Name>
+          <Values>
+            <string>Markarth</string>
+            <string>Mount Anthor</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+    </Warfare>
+    <Ships>
+      <Corvette>
+        <NameGroup>
+          <Name>Ships - The Elder Scrolls</Name>
+          <Values>
+            <string>Brinehammer</string>
+            <string>Dainty Sload</string>
+            <string>Hela's Folly</string>
+            <string>Icerunner</string>
+            <string>Orphan's Tear</string>
+            <string>Red Wave</string>
+            <string>Sea Sqall</string>
+            <string>Silvermoon</string>
+            <string>Winter War</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+    </Ships>
+    <Armies>
+      <FleetSequentialName>Star Legion %R%</FleetSequentialName>
+      <DefenceArmySequentialName>Garrison Legion %R%</DefenceArmySequentialName>
+      <AssaultArmySequentialName>Legion %R%</AssaultArmySequentialName>
+      <OccupationArmySequentialName>Legion %R%</OccupationArmySequentialName>
+      <SlaveArmySequentialName>Conscripted Legion %R%</SlaveArmySequentialName>
+      <CloneArmySequentialName>Clone Legion %R%</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Draugr Army</UndeadArmySequentialName>
+      <RoboticDefenceArmySequentialName>Robotic Legion %R%</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>Robotic Legion %R%</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>Robotic Legion %R%</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>Synthetic Legion %R%</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>Synthetic Legion %R%</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>Psionic Legion %R%</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>Beast Legion %R%</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>Super-Legion %R%</SuperSoldierArmySequentialName>
+    </Armies>
+    <Planets>
+      <Gaia>
+        <NameGroup>
+          <Name>Places - The Elder Scrolls</Name>
+          <Values>
+            <string>Sovengarde</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Arctic>
+        <NameGroup>
+          <Name>Countries - The Elder Scrolls</Name>
+          <Values>
+            <string>Atmora</string>
+            <string>Solstheim</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

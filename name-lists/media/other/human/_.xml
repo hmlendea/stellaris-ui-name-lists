@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human</Id>
+    <Name>Other Media - Human</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - Marvel</Name>
+        <Values>
+          <string>Wakandan</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Denonyms - Memes</Name>
+        <Values>
+          <string>Kekistani</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - Marvel</Name>
+          <Values>
+            <string>Wakanda</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Memes</Name>
+          <Values>
+            <string>Kekistan</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Islands - Bugsnax</Name>
+          <Values>
+            <string>Snaktooth</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Bugsnax</Name>
+          <Values>
+            <string>Snaxburg</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains - Marvel</Name>
+          <Values>
+            <string>Bashenga</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+    </Places>
+    <GreatPeople>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - Memes</Name>
+          <Values>
+            <string>Captain Alex</string>
+            <string>Pepe the Frog</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+    </GreatPeople>
+    <Warfare>
+      <Weapons>
+        <Swords>
+          <NameGroup>
+            <Name>Swords - Puzzle Pirates</Name>
+            <Values>
+              <string>Backsword</string>
+              <string>Cutlass</string>
+              <string>Dadao</string>
+              <string>Dirk</string>
+              <string>Falchion</string>
+              <string>Foil</string>
+              <string>Katana</string>
+              <string>Longsword</string>
+              <string>Rapier</string>
+              <string>Saber</string>
+              <string>Shortsword</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+      </Weapons>
+    </Warfare>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals - Bugsnax</Name>
+          <Values>
+            <string>Bugsnax</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
+    <ShipClasses>
+      <Generic>
+        <NameGroup>
+          <Name>Ship classes - XCOM</Name>
+          <Values>
+            <string>XCOM</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </ShipClasses>
+    <Stations>
+      <Starbases>
+        <Outposts>
+          <NameGroup>
+            <Name>Outposts - Games</Name>
+            <Values>
+              <string>No Man's Sky</string>
+            </Values>
+          </NameGroup>
+        </Outposts>
+      </Starbases>
+    </Stations>
+    <Armies>
+      <PsionicArmy>
+        <NameGroup>
+          <Name>Armies - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Shadow Legion</string>
+            <string>Skull Legion</string>
+            <string>Widowmaker Legion</string>
+          </Values>
+        </NameGroup>
+      </PsionicArmy>
+      <XenomorphArmy>
+        <NameGroup>
+          <Name>Armies - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Experimental Unit 'Amaru'</string>
+            <string>Experimental Unit 'Bakunawa'</string>
+            <string>Experimental Unit 'Fafnir'</string>
+            <string>Experimental Unit 'Illuyanka'</string>
+            <string>Experimental Unit 'Jaculus'</string>
+            <string>Experimental Unit 'Orochi'</string>
+            <string>Experimental Unit 'Rahab'</string>
+            <string>Experimental Unit 'Tarasque'</string>
+            <string>Experimental Unit 'Tiamat'</string>
+            <string>Experimental Unit 'Typhon'</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Others - Based on cheat codes from GTA San Andreas</Name>
+          <Values>
+            <string>Experimental Unit 'Aezkami'</string>
+            <string>Experimental Unit 'Asnaeb'</string>
+            <string>Experimental Unit 'Baguvix'</string>
+            <string>Experimental Unit 'Hesoyam'</string>
+            <string>Experimental Unit 'Iowdlac'</string>
+            <string>Experimental Unit 'Uzumymw'</string>
+            <string>Experimental Unit 'Ylteicz'</string>
+            <string>Experimental Unit 'Ysohnul'</string>
+          </Values>
+        </NameGroup>
+      </XenomorphArmy>
+      <SuperSoliderArmy>
+        <NameGroup>
+          <Name>Armies - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+              <string>SARC-A 'Gladiators'</string>
+              <string>SARC-B 'Widowmakers'</string>
+              <string>SARC-C 'Immortals'</string>
+              <string>SARC-D 'Berserkers'</string>
+              <string>SARC-E 'Assassins'</string>
+              <string>SARC-F 'Reapers'</string>
+              <string>SARC-G 'Nighthawks'</string>
+              <string>SARC-H 'Desperados'</string>
+              <string>SARC-I 'Grey Knights'</string>
+              <string>SARC-J 'Roughnecks'</string>
+          </Values>
+        </NameGroup>
+      </SuperSoliderArmy>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Bugsnax</Name>
+          <Values>
+            <string>Snaxburg</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
+          <Values>
+            <string>Bastillian</string>
+            <string>Caltan</string>
+            <string>Meya</string>
+            <string>Pradym</string>
+            <string>Tamarak</string>
+            <string>Yaro</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Galactik Football</Name>
+          <Values>
+            <string>Escaron</string>
+            <string>Hectonia</string>
+            <string>Obia</string>
+            <string>Oeno</string>
+            <string>Unadar</string>
+            <string>Xenon</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Puzzle Pirates</Name>
+          <Values>
+            <string>Ansel</string>
+            <string>Arakoua</string>
+            <string>Chaparral</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Settlements - Pandora: First Contact - Noxium Corporation</Name>
+          <Values>
+            <string>Sheratan</string>
+            <string>Zaniah</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Settlements - Pandora: First Contact - Togra University</Name>
+          <Values>
+            <string>Alkaid</string>
+            <string>Galileo</string>
+            <string>Landau</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Galactik Football</Name>
+          <Values>
+            <string>Menor</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Arid>
+        <NameGroup>
+          <Name>Places - A Song of Ice and Fire</Name>
+          <Values>
+            <string>Dorne</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Puzzle Pirates</Name>
+          <Values>
+            <string>Caravenserai</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>New Mars</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Avatar</Name>
+          <Values>
+            <string>Pandora</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Galactik Football</Name>
+          <Values>
+            <string>Wamba</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Games</Name>
+          <Values>
+            <string>Tropico</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Warhammer</Name>
+          <Values>
+            <string>Espandor</string>
+            <string>Gudrun</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Dark Souls</Name>
+          <Values>
+            <string>Astora</string>
+            <string>Lothric</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Mount and Blade</Name>
+          <Values>
+            <string>Calradia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Warcraft</Name>
+          <Values>
+            <string>Andorhal</string>
+            <string>Lordaeron</string>
+            <string>Stratholme</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Doctor Who</Name>
+          <Values>
+            <string>Gallifrey</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Puzzle Pirates</Name>
+          <Values>
+            <string>Cleopatra's Pearl</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - The Lord of the Rings</Name>
+          <Values>
+            <string>Valinor</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Games</Name>
+          <Values>
+            <string>Terraria</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Ocean>
+        <NameGroup>
+          <Name>Islands - Bugsnax</Name>
+          <Values>
+            <string>Snaktooth</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Lovecraft</Name>
+          <Values>
+            <string>R'lyeh</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Tundra>
+        <NameGroup>
+          <Name>Places - Puzzle Pirates</Name>
+          <Values>
+            <string>Jorvik</string>
+            <string>Norse</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - The Lord of the Rings</Name>
+          <Values>
+            <string>Rohan</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - Galactik Football</Name>
+          <Values>
+            <string>Akillian</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Warhammer</Name>
+          <Values>
+            <string>Krieg</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - A Song of Ice and Fire</Name>
+          <Values>
+            <string>Valyria</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - The Lord of the Rings</Name>
+          <Values>
+            <string>Mordor</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_vietnamese</Id>
+    <Name>Human - Vietnamese</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Vietnamese</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Vietnam</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Countries>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Bà Rịa</string>
+            <string>Bạc Liêu</string>
+            <string>Can Tho</string>
+            <string>Da Nang</string>
+            <string>Dong Nai</string>
+            <string>Haiphong</string>
+            <string>Hanoi</string>
+            <string>Ho Chi Minh</string>
+            <string>Nghe An</string>
+            <string>Thanh Hoa</string>
+            <string>Thủ Đức</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+    </Places>
+  </NameList>
+</ArrayOfNameList>

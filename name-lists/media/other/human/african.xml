@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_african</Id>
+    <Name>Other Media - Human - African</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Divine Ascension -->
+          <Values>
+            <string>Touba</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pax Nova</Name> <!-- Ashanti Union -->
+          <Values>
+            <string>Adimbo</string>
+            <string>Awekiri</string>
+            <string>Bweyu</string>
+            <string>Chiwawano</string>
+            <string>Daweb</string>
+            <string>Dumeo</string>
+            <string>Ebusongo</string>
+            <string>Gatanga</string>
+            <string>Kabadulo</string>
+            <string>Kambewa</string>
+            <string>Kamkwamba</string>
+            <string>Kiawarigo</string>
+            <string>Kireri-Mawe</string>
+            <string>Mabasi</string>
+            <string>Madika</string>
+            <string>Mado-Yawe</string>
+            <string>Majiasawo</string>
+            <string>Mesababu</string>
+            <string>Mungombo</string>
+            <string>Mwaembo</string>
+            <string>Mwando</string>
+            <string>Myara</string>
+            <string>Nyangwenu</string>
+            <string>Obato</string>
+            <string>Onamasilo</string>
+            <string>Onamatendo</string>
+            <string>Onandi</string>
+            <string>Ontanango</string>
+            <string>Wandongo</string>
+            <string>Wangiwa</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Divine Ascension -->
+          <Values>
+            <string>Touba</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pax Nova</Name> <!-- Ashanti Union -->
+          <Values>
+            <string>Adimbo</string>
+            <string>Awekiri</string>
+            <string>Bweyu</string>
+            <string>Chiwawano</string>
+            <string>Daweb</string>
+            <string>Dumeo</string>
+            <string>Ebusongo</string>
+            <string>Gatanga</string>
+            <string>Kabadulo</string>
+            <string>Kambewa</string>
+            <string>Kamkwamba</string>
+            <string>Kiawarigo</string>
+            <string>Kireri-Mawe</string>
+            <string>Mabasi</string>
+            <string>Madika</string>
+            <string>Mado-Yawe</string>
+            <string>Majiasawo</string>
+            <string>Mesababu</string>
+            <string>Mungombo</string>
+            <string>Mwaembo</string>
+            <string>Mwando</string>
+            <string>Myara</string>
+            <string>Nyangwenu</string>
+            <string>Obato</string>
+            <string>Onamasilo</string>
+            <string>Onamatendo</string>
+            <string>Onandi</string>
+            <string>Ontanango</string>
+            <string>Wandongo</string>
+            <string>Wangiwa</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>New Africa</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

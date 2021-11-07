@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_italian</Id>
+    <Name>Other Media - Human - Italian</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth - Translated</Name> <!-- Brasilia -->
+          <Values>
+            <string>Benedizione</string>
+            <string>Monumento</string>
+            <string>Salire</string>
+            <string>Sentiero Celeste</string>
+            <string>Torre</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth - Translated</Name> <!-- Franco-Iberia -->
+          <Values>
+            <string>Coraggio</string>
+            <string>Cresciuto</string>
+            <string>Fedele</string>
+            <string>Gloria</string>
+            <string>Grande Successo</string>
+            <string>Il Cuore</string>
+            <string>Luminosa</string>
+            <string>Mirabela</string>
+            <string>Monumento</string>
+            <string>Onorato</string>
+            <string>Pacifico</string>
+            <string>Prosperità</string>
+            <string>Protezione</string>
+            <string>Scudo</string>
+            <string>Speranza</string>
+            <string>Stella</string>
+            <string>Valienta</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Noxium Corporation -->
+          <Values>
+            <string>Bardi</string>
+            <string>Medici</string>
+            <string>Peruzzi</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
+          <Values>
+            <string>Volterra</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
+          <Values>
+            <string>Dulbecco</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth - Translated</Name> <!-- Brasilia -->
+          <Values>
+            <string>Torre</string>
+            <string>Salire</string>
+            <string>Benedizione</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth - Translated</Name> <!-- Franco-Iberia -->
+          <Values>
+            <string>Coraggio</string>
+            <string>Cresciuto</string>
+            <string>Fedele</string>
+            <string>Gloria</string>
+            <string>Grande Successo</string>
+            <string>Il Cuore</string>
+            <string>Luminosa</string>
+            <string>Onorato</string>
+            <string>Pacifico</string>
+            <string>Prosperità</string>
+            <string>Protezione</string>
+            <string>Scudo</string>
+            <string>Speranza</string>
+            <string>Stella</string>
+            <string>Valienta</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Noxium Corporation -->
+          <Values>
+            <string>Bardi</string>
+            <string>Medici</string>
+            <string>Peruzzi</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
+          <Values>
+            <string>Volterra</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
+          <Values>
+            <string>Dulbecco</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Tuscany</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Gaia>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth - Translated</Name> <!-- Franco-Iberia -->
+          <Values>
+            <string>Mirabela</string>
+            <string>Monumento</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth - Translated</Name> <!-- Brasilia -->
+          <Values>
+            <string>Sentiero Celeste</string>
+            <string>Monumento</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

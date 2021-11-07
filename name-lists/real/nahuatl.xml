@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_nahuatl</Id>
+    <Name>Humans - Nahuatl</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Aztec</string>
+          <string>Mexica</string>
+          <string>Nahuatl</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Warfare>
+      <Weapons>
+        <Swords>
+          <NameGroup>
+            <Name>Swords</Name>
+            <Values>
+              <string>Macuahuitl</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+        <Throwables>
+          <NameGroup>
+            <Name>Throwables</Name>
+            <Values>
+              <string>Ahtlatl</string>
+              <string>Bola</string>
+            </Values>
+          </NameGroup>
+        </Throwables>
+      </Weapons>
+    </Warfare>
+  </NameList>
+</ArrayOfNameList>

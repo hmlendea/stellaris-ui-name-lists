@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_czech</Id>
+    <Name>Human - Czech</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Czech</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Czechia</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Bohemia</string>
+            <string>Hradec Králové</string>
+            <string>Karlovy Vary</string>
+            <string>Liberec</string>
+            <string>Moravia</string>
+            <string>Olomouc</string>
+            <string>Pardubice</string>
+            <string>Plzeň</string>
+            <string>Prague</string>
+            <string>Ústí nad Labem</string>
+            <string>Vysočina</string>
+            <string>Zlín</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Brno</string>
+            <string>České Budějovice</string>
+            <string>Chomutov</string>
+            <string>Děčín</string>
+            <string>Frýdek-Místek</string>
+            <string>Havířov</string>
+            <string>Hradec Králové</string>
+            <string>Jihlava</string>
+            <string>Karlovy Vary</string>
+            <string>Karviná</string>
+            <string>Kladno</string>
+            <string>Liberec</string>
+            <string>Mladá Boleslav</string>
+            <string>Most</string>
+            <string>Olomouc</string>
+            <string>Opava</string>
+            <string>Ostrava</string>
+            <string>Pardubice</string>
+            <string>Plzeň</string>
+            <string>Prague</string>
+            <string>Přerov</string>
+            <string>Teplice</string>
+            <string>Ústí nad Labem</string>
+            <string>Zlín</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Bečva</string>
+            <string>Chrudimka</string>
+            <string>Dyje</string>
+            <string>Jihlava</string>
+            <string>Jizera</string>
+            <string>Labe</string>
+            <string>Lužnice</string>
+            <string>Morava</string>
+            <string>Moravice</string>
+            <string>Mže</string>
+            <string>Odra</string>
+            <string>Ohře</string>
+            <string>Opava</string>
+            <string>Orlice</string>
+            <string>Oslava</string>
+            <string>Ploučnice</string>
+            <string>Radbuza</string>
+            <string>Sázava</string>
+            <string>Svratka</string>
+            <string>Úhlava</string>
+            <string>Vltava</string>
+            <string>Vydra</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Certovo</string>
+            <string>Hlucin</string>
+            <string>Kamencove</string>
+            <string>Lhota</string>
+            <string>Macha</string>
+            <string>Milada</string>
+            <string>Nove Mlyny</string>
+            <string>Prasilske</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
+    </Places>
+    <Warfare>
+      <Weapons>
+        <Artillery>
+          <NameGroup>
+            <Name>Artillery</Name>
+            <Values>
+              <string>Houfnice</string>
+            </Values>
+          </NameGroup>
+        </Artillery>
+      </Weapons>
+    </Warfare>
+  </NameList>
+</ArrayOfNameList>

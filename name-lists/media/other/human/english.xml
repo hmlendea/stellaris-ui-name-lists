@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_english</Id>
+    <Name>Other Media - Human - English</Name>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Admiral</string>
+            <string>Wensleydale</string>
+            <string>Yorrick</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
+          <Values>
+            <string>Baleton</string>
+            <string>Driscol</string>
+            <string>Dunwall</string>
+            <string>Old Lamprow</string>
+            <string>Poolwick</string>
+            <string>Potterstead</string>
+            <string>Redmoor</string>
+            <string>Whitecliff</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Imperium -->
+          <Values>
+            <string>Cromwell</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Solar Dynasty -->
+          <Values>
+            <string>Tolpuddle</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
+          <Values>
+            <string>Rothamsted</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
+          <Values>
+            <string>Baleton</string>
+            <string>Driscol</string>
+            <string>Dunwall</string>
+            <string>Old Lamprow</string>
+            <string>Poolwick</string>
+            <string>Potterstead</string>
+            <string>Redmoor</string>
+            <string>Whitecliff</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Imperium -->
+          <Values>
+            <string>Cromwell</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Solar Dynasty -->
+          <Values>
+            <string>Tolpuddle</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
+          <Values>
+            <string>Rothamsted</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>New Jamestown</string>
+            <string>New Roanoke</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Continental>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Wensleydale</string>
+            <string>Admiral</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Serendipity</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Alpine>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Yorrick</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

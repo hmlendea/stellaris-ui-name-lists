@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_aowp_kirko</Id>
+    <Name>AoW:P - Kir'Ko</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Kir'Ko</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Age of Wonders: Planetfall</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-kirko-cities.txt</Url>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Units - Age of Wonders: Planetfall</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-kirko-units.txt</Url>
+        </NameGroup>
+      </Generic>
+    </Ships>
+    <Armies>
+      <FleetSequentialName>%0% Swarm</FleetSequentialName>
+      <DefenceArmySequentialName>%O% Hiveguards</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Hornets</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Swarmlords</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Horde</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Chrysalises</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Sentinels</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Fleshtearers</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Overseers</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%0% Protectors</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%0% Unchained</AndroidAssaultArmySequentialName>
+      <PrimitiveArmySequentialName>%O% Primals</PrimitiveArmySequentialName>
+      <PsionicArmySequentialName>%O% Seekers</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Devourers</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Spliced</SuperSoldierArmySequentialName>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Age of Wonders: Planetfall</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-kirko-cities.txt</Url>
+        </NameGroup>
+      </Generic>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>kirko</Id>
+        <Weight>100</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-kirko-persons-male.txt</Url>
+          </NameGroup>
+        </MaleFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-kirko-persons-female.txt</Url>
+          </NameGroup>
+        </FemaleFirstNames>
+        <SecondNames>
+          <NameGroup>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-kirko-persons-surnames.txt</Url>
+          </NameGroup>
+        </SecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

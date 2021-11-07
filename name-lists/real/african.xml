@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_african</Id>
+    <Name>Human - African</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>African</string>
+          <string>Kenyan</string>
+          <string>Mossi</string>
+          <string>Namibian</string>
+          <string>Sudanese</string>
+          <string>Ugandan</string>
+          <string>Zimbo</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Burkina Faso</string>
+            <string>Chad</string>
+            <string>Djibouti</string>
+            <string>Eritrea</string>
+            <string>Ghana</string>
+            <string>Kenya</string>
+            <string>Liberia</string>
+            <string>Madagascar</string>
+            <string>Mozambique</string>
+            <string>Namibia</string>
+            <string>Sierra Leone</string>
+            <string>South Africa</string>
+            <string>Sudan</string>
+            <string>Uganda</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Chad</Name>
+          <Values>
+            <string>N'Djamena</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Djibouti</Name>
+          <Values>
+            <string>Djibouti</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Eritrea</Name>
+          <Values>
+            <string>Asmara</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Ghana</Name>
+          <Values>
+            <string>Accra</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Kenya</Name>
+          <Values>
+            <string>Mombasa</string>
+            <string>Nairobi</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Liberia</Name>
+          <Values>
+            <string>Monrovia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Madagascar</Name>
+          <Values>
+            <string>Antananarivo</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Mozambique</Name>
+          <Values>
+            <string>Maputo</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Namibia</Name>
+          <Values>
+            <string>Windhoek</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Sierra Leone</Name>
+          <Values>
+            <string>Freetown</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - South Africa</Name>
+          <Values>
+            <string>Cape Town</string>
+            <string>Port Elizabeth</string>
+            <string>Pretoria</string>
+            <string>Ekurhuleni</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Sudan</Name>
+          <Values>
+            <string>Khartoum</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts</Name>
+          <Values>
+            <string>Kalahari</string>
+            <string>Namib</string>
+            <string>Sahara</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers - Mozambique</Name>
+          <Values>
+            <string>Limpopo</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+    </Places>
+    <GreatPeople>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - Mossi</Name>
+          <Values>
+            <string>Yennenga</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+      <LabourDeities>
+        <NameGroup>
+          <Name>Deities - Igbo</Name>
+          <Values>
+            <string>Ikenga</string>
+          </Values>
+        </NameGroup>
+      </LabourDeities>
+    </GreatPeople>
+    <Warfare>
+      <Weapons>
+        <Throwables>
+          <NameGroup>
+            <Name>Throwables - Azande</Name>
+            <Values>
+              <string>Kpinga</string>
+            </Values>
+          </NameGroup>
+        </Throwables>
+        <Swords>
+          <NameGroup>
+            <Name>Swords - Sudan, Chad, Eritrea</Name>
+            <Values>
+              <string>Kaskara</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+      </Weapons>
+    </Warfare>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals</Name>
+          <Values>
+            <string>Aardvark</string>
+            <string>Dromedary</string>
+            <string>Elephant</string>
+            <string>Nicator</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
+    <Characters>
+      <CharacterNames>
+        <Id>hausa</Id>
+        <Weight>1</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/hau-persons-male.txt</Url>
+          </NameGroup>
+        </MaleFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/hau-persons-female.txt</Url>
+          </NameGroup>
+        </FemaleFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/hau-persons-surnames.txt</Url>
+          </NameGroup>
+        </SecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

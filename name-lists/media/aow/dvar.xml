@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_aowp_dvar</Id>
+    <Name>AoW:P - Dvar</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Dvar</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Age of Wonders: Planetfall</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-cities.txt</Url>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Units - Age of Wonders: Planetfall</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-units.txt</Url>
+        </NameGroup>
+      </Generic>
+    </Ships>
+    <Armies>
+      <FleetSequentialName>%0% Ironfleet</FleetSequentialName>
+      <DefenceArmySequentialName>%O% Protectors</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Chargers</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Peacemakers</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Workers</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Battleforged</CloneArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Firewalls</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Ironborns</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Steelbeards</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%0% Protectors</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%0% Steamrollers</AndroidAssaultArmySequentialName>
+      <PrimitiveArmySequentialName>%O% Barbarians</PrimitiveArmySequentialName>
+      <PsionicArmySequentialName>%O% Firegazers</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Beastly Pack</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Lionhearts</SuperSoldierArmySequentialName>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Age of Wonders: Planetfall</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-cities.txt</Url>
+        </NameGroup>
+      </Generic>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>dvar</Id>
+        <Weight>100</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+          <Name>Male first names - Age of Wonders: Planetfall</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-persons-male.txt</Url>
+          </NameGroup>
+        </MaleFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+          <Name>Female first names - Age of Wonders: Planetfall</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-persons-female.txt</Url>
+          </NameGroup>
+        </FemaleFirstNames>
+        <SecondNames>
+          <NameGroup>
+          <Name>Surnames - Age of Wonders: Planetfall</Name>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-persons-surnames.txt</Url>
+          </NameGroup>
+        </SecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>
