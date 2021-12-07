@@ -76,15 +76,6 @@
           </Values>
         </NameGroup>
       </MiningStations>
-      <MilitaryStations>
-        <Generic>
-          <NameGroup>
-            <Name></Name>
-            <Values>
-            </Values>
-          </NameGroup>
-        </Generic>
-      </MilitaryStations>
       <ResearchStations>
         <NameGroup>
           <Name>Research stations - StarWars - Human</Name>
@@ -243,47 +234,5 @@
         </NameGroup>
       </Molten>
     </Planets>
-    <Characters>
-      <CharacterNames>
-        <Id></Id>
-        <Weight>100</Weight>
-        <MaleFirstNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </MaleFirstNames>
-        <MaleRoyalFirstNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </MaleRoyalFirstNames>
-        <FemaleFirstNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </FemaleFirstNames>
-        <FemaleRoyalFirstNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </FemaleRoyalFirstNames>
-        <SecondNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </SecondNames>
-        <RoyalSecondNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </RoyalSecondNames>
-      </CharacterNames>
-    </Characters>
   </NameList>
 </ArrayOfNameList>

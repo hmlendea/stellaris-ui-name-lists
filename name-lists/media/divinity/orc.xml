@@ -40,14 +40,6 @@
             <Url>https://github.com/hmlendea/universal-name-generator/blob/master/Wordlists/divinity-orc-person-male.txt</Url>
           </NameGroup>
         </MaleFullNames>
-        <FemaleFullNames>
-          <NameGroup>
-          </NameGroup>
-        </FemaleFullNames>
-        <SecondNames>
-          <NameGroup>
-          </NameGroup>
-        </SecondNames>
       </CharacterNames>
     </Characters>
   </NameList>

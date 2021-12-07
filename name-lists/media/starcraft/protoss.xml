@@ -304,6 +304,7 @@
         <NameGroup>
           <Name>Arkship</Name>
           <Values>
+              <string>Arkship</string>
           </Values>
         </NameGroup>
       </Coloniser>
@@ -491,8 +492,6 @@
           </NameGroup>
         </FemaleFullNames>
       </CharacterNames>
-    </Characters>
-    <Characters>
       <CharacterNames>
         <Id>nerazim</Id>
         <Weight>24</Weight>
@@ -511,8 +510,6 @@
           </NameGroup>
         </FemaleFullNames>
       </CharacterNames>
-    </Characters>
-    <Characters>
       <CharacterNames>
         <Id>taldarim</Id>
         <Weight>10</Weight>
