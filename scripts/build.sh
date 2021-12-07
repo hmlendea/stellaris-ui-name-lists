@@ -314,7 +314,7 @@ build "ui_dwarven"  "Dwarven"   "R" media/aow/dwarven media/divinity/dwarven
 build "ui_elven"    "Elven"     "R" media/aow/elven media/divinity/elven media/elderscrolls/altmer media/elderscrolls/ayleid
 build "ui_goblin"   "Goblin"    "R" media/aow/goblin media/divinity/goblin media/elderscrolls/goblin media/runescape/goblin
 build "ui_lizard"   "Lizard"    "R" media/divinity/lizard media/elderscrolls/argonian
-build "ui_orc"      "Orc"       "R" media/aow/orc media/elderscrolls/orc
+build "ui_orc"      "Orc"       "R" media/aow/orc media/divinity/orc media/elderscrolls/orc
 
 build "ui_extra_art1" "Extra - Arthropoid 1"    "R" ui/art1
 build "ui_extra_avi1" "Extra - Avian 1"         "R" ui/avi1
