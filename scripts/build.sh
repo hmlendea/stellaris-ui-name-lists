@@ -5,7 +5,7 @@ SCRIPTSDIR="${STARTDIR}/scripts"
 
 MOD_ID="ui-name-lists"
 MOD_NAME="Universum Infinitum - Name Lists"
-STELLARIS_VERSION="3.1.*"
+STELLARIS_VERSION="3.2.*"
 
 BUILD_DIRECTORY_PATH="${STARTDIR}/build"
 OUTPUT_DIRECTORY_PATH="${STARTDIR}/out"
