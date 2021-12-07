@@ -479,16 +479,12 @@
         <Weight>66</Weight>
         <MaleFullNames>
           <NameGroup>
-            <Values>
-              <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-male-khalai.txt</Url>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-male-khalai.txt</Url>
           </NameGroup>
         </MaleFullNames>
         <FemaleFullNames>
           <NameGroup>
-            <Values>
-              <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-female-khalai.txt</Url>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-female-khalai.txt</Url>
           </NameGroup>
         </FemaleFullNames>
       </CharacterNames>
@@ -497,16 +493,12 @@
         <Weight>24</Weight>
         <MaleFullNames>
           <NameGroup>
-            <Values>
-              <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-male-nerazim.txt</Url>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-male-nerazim.txt</Url>
           </NameGroup>
         </MaleFullNames>
         <FemaleFullNames>
           <NameGroup>
-            <Values>
-              <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-female-nerazim.txt</Url>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-female-nerazim.txt</Url>
           </NameGroup>
         </FemaleFullNames>
       </CharacterNames>
@@ -515,16 +507,12 @@
         <Weight>10</Weight>
         <MaleFullNames>
           <NameGroup>
-            <Values>
-              <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-male-taldarim.txt</Url>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-male-taldarim.txt</Url>
           </NameGroup>
         </MaleFullNames>
         <FemaleFullNames>
           <NameGroup>
-            <Values>
-              <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-female-taldarim.txt</Url>
-            </Values>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-female-taldarim.txt</Url>
           </NameGroup>
         </FemaleFullNames>
       </CharacterNames>
