@@ -23,6 +23,16 @@ if [[ $* != *--skip-updates* ]]; then
     "${SCRIPTSDIR}"/update-builder.sh
 fi
 
+if [[ $* != *--skip-validation* ]]; then
+    echo "Validating the files..."
+    VALIDATE_DATA="$(scripts/validate-data.sh | tr '\0' '\n')"
+    if [ -n "${VALIDATE_DATA}" ]; then
+        echo "Input files validation failed!"
+        echo "${VALIDATE_DATA}"
+        exit 1
+    fi
+fi
+
 [ ! -d "${BUILD_DIRECTORY_PATH}" ] && mkdir -p "${BUILD_DIRECTORY_PATH}"
 [ ! -d "${OUTPUT_DIRECTORY_PATH}" ] && mkdir -p "${OUTPUT_DIRECTORY_PATH}"
 [ ! -d "${OUTPUT_NAMELISTS_DIRECTORY_PATH}" ] && mkdir -p "${OUTPUT_NAMELISTS_DIRECTORY_PATH}"
