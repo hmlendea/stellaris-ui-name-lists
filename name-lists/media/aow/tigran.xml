@@ -66,7 +66,7 @@
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-tigran-persons-surname.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-tigran-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>
