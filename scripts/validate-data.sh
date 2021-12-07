@@ -23,5 +23,3 @@ validateNameLists_multiLine "\n\s*</Characters>\n\s*<Characters>\s*\n" # Multipl
 validateNameLists_multiLine "\n\s*<Values>\n\s*<Url>" # <Url> inside <Values>
 
 validateNameLists "<Url>https://github.com" # Non-raw GitHub URLs
-
-exit 0
