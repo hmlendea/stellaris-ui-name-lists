@@ -1,20 +1,27 @@
 #!/bin/bash
 
+STARTDIR="$(pwd)"
+SCRIPTSDIR="${STARTDIR}/scripts"
+
 MOD_ID="ui-name-lists"
 MOD_NAME="Universum Infinitum - Name Lists"
 STELLARIS_VERSION="3.1.*"
 
-BUILD_DIRECTORY_PATH="./build"
-OUTPUT_DIRECTORY_PATH="./out"
+BUILD_DIRECTORY_PATH="${STARTDIR}/build"
+OUTPUT_DIRECTORY_PATH="${STARTDIR}/out"
 OUTPUT_MOD_DIRECTORY_PATH="${OUTPUT_DIRECTORY_PATH}/${MOD_ID}"
 OUTPUT_NAMELISTS_DIRECTORY_PATH="${OUTPUT_MOD_DIRECTORY_PATH}/common/name_lists"
 OUTPUT_LOCALISATION_DIRECTORY_PATH="${OUTPUT_MOD_DIRECTORY_PATH}/localisation/english"
 OUTPUT_LOCALISATION_FILE_PATH="${OUTPUT_LOCALISATION_DIRECTORY_PATH}/ui_names_l_english.yml"
-GENERATOR_EXECUTABLE="dotnet ../stellaris-name-list-generator/bin/Debug/net5.0/StellarisNameListGenerator.dll"
+GENERATOR_EXECUTABLE="${STARTDIR}/stellaris-name-list-generator/StellarisNameListGenerator"
 
 MOD_THUMBNAIL_FILE_PATH="${OUTPUT_MOD_DIRECTORY_PATH}/thumbnail.png"
 MOD_DESCRIPTOR_PRIMARY_FILE_PATH="${OUTPUT_DIRECTORY_PATH}/${MOD_ID}.mod"
 MOD_DESCRIPTOR_SECONDARY_FILE_PATH="${OUTPUT_MOD_DIRECTORY_PATH}/descriptor.mod"
+
+if [[ $* != *--skip-updates* ]]; then
+    "${SCRIPTSDIR}"/update-builder.sh
+fi
 
 [ ! -d "${BUILD_DIRECTORY_PATH}" ] && mkdir -p "${BUILD_DIRECTORY_PATH}"
 [ ! -d "${OUTPUT_DIRECTORY_PATH}" ] && mkdir -p "${OUTPUT_DIRECTORY_PATH}"
