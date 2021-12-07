@@ -17,5 +17,8 @@ jobs:
       - name: Setup the builder
         run: bash scripts/update-builder.sh
 
+      - name: Validate
+        run: bash scripts/validate-data.sh
+
       - name: Build
         run: bash scripts/build.sh --skip-validation --skip-updates
