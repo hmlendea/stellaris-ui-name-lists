@@ -1,4 +1,4 @@
-[![Donate](https://img.shields.io/badge/-%E2%99%A5%20Donate-%23ff69b4)](https://hmlendea.go.ro/fund.html) [![Latest GitHub release](https://img.shields.io/github/v/release/hmlendea/stellaris-ui-name-lists)](https://github.com/hmlendea/stellaris-ui-name-lists/releases/latest)
+[![Donate](https://img.shields.io/badge/-%E2%99%A5%20Donate-%23ff69b4)](https://hmlendea.go.ro/fund.html) [![Build Status](https://github.com/hmlendea/stellaris-ui-name-lists/actions/workflows/build.yml/badge.svg)](https://github.com/hmlendea/stellaris-ui-name-lists/actions/workflows/build.yml) [![Latest GitHub release](https://img.shields.io/github/v/release/hmlendea/stellaris-ui-name-lists)](https://github.com/hmlendea/stellaris-ui-name-lists/releases/latest)
 
 # About
 
