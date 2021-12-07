@@ -1,11 +1,27 @@
 #!/bin/bash
 
-NAME_LISTS_DIR_PATH="$(pwd)/name-lists"
+function validateNameLists() {
+    local PATTERN="${@}"
+
+    for NAME_LIST in $(find "name-lists" -type f -name "*.xml"); do
+        grep -n "${PATTERN}" "${NAME_LIST}"
+    done
+}
+
+function validateNameLists_multiLine() {
+    local PATTERN="${@}"
+
+    for NAME_LIST in $(find "name-lists" -type f -name "*.xml"); do
+        grep -Pzo "${PATTERN}" "${NAME_LIST}"
+    done
+}
 
 # Validate XML structure
-grep -Pzo "\n\s*<(/[^>]*)>.*\n\s*<\1>\n" --recursive "${NAME_LISTS_DIR_PATH}" # Double tags
-grep -Pzo "\n\s*<([^>]*)>\s*\n\s*</\1>\n" --recursive "${NAME_LISTS_DIR_PATH}" # Empty tags
-grep -Pzo "\n\s*</Characters>\n\s*<Characters>\s*\n" --recursive "${NAME_LISTS_DIR_PATH}" # Multiple <Characters> tags
-grep -Pzo "\n\s*<Values>\n\s*<Url>" --recursive "${NAME_LISTS_DIR_PATH}" # <Url> inside <Values>
+validateNameLists_multiLine "\n\s*<(/[^>]*)>.*\n\s*<\1>\n" # Double tags
+validateNameLists_multiLine "\n\s*<([^>]*)>\s*\n\s*</\1>\n" # Empty tags
+validateNameLists_multiLine "\n\s*</Characters>\n\s*<Characters>\s*\n" # Multiple <Characters> tags
+validateNameLists_multiLine "\n\s*<Values>\n\s*<Url>" # <Url> inside <Values>
 
-grep -n "<Url>https://github.com" --recursive "${NAME_LISTS_DIR_PATH}" # Non-raw GitHub URLs
+validateNameLists "<Url>https://github.com" # Non-raw GitHub URLs
+
+exit 0
