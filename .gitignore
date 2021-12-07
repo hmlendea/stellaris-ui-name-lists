@@ -1,3 +1,5 @@
 .cache
 build/*
 out/*
+stellaris-name-list-generator/*
+stellaris-name-list-generator_*_*.zip
