@@ -49,9 +49,5 @@
         </NameGroup>
       </Deserts>
     </Places>
-    <Planets>
-      <Generic>
-      </Generic>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

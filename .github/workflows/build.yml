@@ -17,5 +17,13 @@ jobs:
       - name: Setup the builder
         run: bash scripts/update-builder.sh
 
+      - name: Validate
+        run: |
+          VALIDATE_DATA_OUTPUT="$(bash scripts/validate-data.sh | tr '\0' '\n')"
+          if [ -n "${VALIDATE_DATA_OUTPUT}" ]; then
+              echo "${VALIDATE_DATA_OUTPUT}"
+              exit 1
+          fi
+
       - name: Build
         run: bash scripts/build.sh --skip-validation --skip-updates

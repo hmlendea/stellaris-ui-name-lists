@@ -23,6 +23,16 @@ if [[ $* != *--skip-updates* ]]; then
     "${SCRIPTSDIR}"/update-builder.sh
 fi
 
+if [[ $* != *--skip-validation* ]]; then
+    echo "Validating the files..."
+    VALIDATE_DATA="$(scripts/validate-data.sh | tr '\0' '\n')"
+    if [ -n "${VALIDATE_DATA}" ]; then
+        echo "Input files validation failed!"
+        echo "${VALIDATE_DATA}"
+        exit 1
+    fi
+fi
+
 [ ! -d "${BUILD_DIRECTORY_PATH}" ] && mkdir -p "${BUILD_DIRECTORY_PATH}"
 [ ! -d "${OUTPUT_DIRECTORY_PATH}" ] && mkdir -p "${OUTPUT_DIRECTORY_PATH}"
 [ ! -d "${OUTPUT_NAMELISTS_DIRECTORY_PATH}" ] && mkdir -p "${OUTPUT_NAMELISTS_DIRECTORY_PATH}"
@@ -304,7 +314,7 @@ build "ui_dwarven"  "Dwarven"   "R" media/aow/dwarven media/divinity/dwarven
 build "ui_elven"    "Elven"     "R" media/aow/elven media/divinity/elven media/elderscrolls/altmer media/elderscrolls/ayleid
 build "ui_goblin"   "Goblin"    "R" media/aow/goblin media/divinity/goblin media/elderscrolls/goblin media/runescape/goblin
 build "ui_lizard"   "Lizard"    "R" media/divinity/lizard media/elderscrolls/argonian
-build "ui_orc"      "Orc"       "R" media/aow/orc media/elderscrolls/orc
+build "ui_orc"      "Orc"       "R" media/aow/orc media/divinity/orc media/elderscrolls/orc
 
 build "ui_extra_art1" "Extra - Arthropoid 1"    "R" ui/art1
 build "ui_extra_avi1" "Extra - Avian 1"         "R" ui/avi1
