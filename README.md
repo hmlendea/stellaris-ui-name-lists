@@ -2,7 +2,7 @@
 
 # About
 
-Mod that added dozens of new and detailed name lists to Stellaris.
+Mod that adds [dozens of new and detailed name lists](https://github.com/hmlendea/stellaris-ui-name-lists/wiki/Name-Lists) to Stellaris.
 
 # Installation
 
