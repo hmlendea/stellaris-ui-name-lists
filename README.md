@@ -21,6 +21,15 @@ It is actively tested (and developed) on **Linux**, where it is guaranteed to wo
 
 It should also be compatible with any other mods.
 
+# Contributions
+
+You are welcome to bring any suggestion, feedback or modification to this project.
+
+Here are a few ways in which you can do so:
+ - Commenting directly on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1912242707) or [Nexus](https://www.nexusmods.com/stellaris/mods/73) pages
+ - Raising a new [issue](https://github.com/hmlendea/stellaris-ui-species-traits/issues) for this project
+ - Creating a git pull request _(This requires git knowledge)_
+
 # Features
 
 The highlight is the "Human - Extended" list that contains thousands upon thousands of names from various languages, both from history and from fiction (especially space operas).
