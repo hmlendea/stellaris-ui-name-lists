@@ -15,7 +15,7 @@ Other name lists include ones taken from species from other games or movies such
 
 ## Manual installation
 
- - Download the [latest release](https://github.com/hmlendea/more-cultural-names/releases)
+ - Download the [latest release](https://github.com/hmlendea/stellaris-ui-name-lists/releases)
  - Extract the contents into your game's mod directory
 
 # Compatibility
@@ -32,5 +32,5 @@ You are welcome to bring any suggestion, feedback or modification to this projec
 
 Here are a few ways in which you can do so:
  - Commenting directly on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1912242707) or [Nexus](https://www.nexusmods.com/stellaris/mods/73) pages
- - Raising a new [issue](https://github.com/hmlendea/stellaris-ui-species-traits/issues) for this project
+ - Raising a new [issue](https://github.com/hmlendea/stellaris-ui-name-lists/issues) for this project
  - Creating a git pull request _(This requires git knowledge)_
