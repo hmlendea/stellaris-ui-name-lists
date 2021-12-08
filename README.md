@@ -13,6 +13,14 @@ Mod that adds [dozens of new and detailed name lists](https://github.com/hmlende
  - Download the [latest release](https://github.com/hmlendea/more-cultural-names/releases)
  - Extract the contents into your game's mod directory
 
+# Compatibility
+
+The mod is **OS-agnostic**, which means that it will work on all of the operating systems supported by the game.
+
+It is actively tested (and developed) on **Linux**, where it is guaranteed to work with either the native version of the game or through Steam Play.
+
+It should also be compatible with any other mods.
+
 # Features
 
 The highlight is the "Human - Extended" list that contains thousands upon thousands of names from various languages, both from history and from fiction (especially space operas).
