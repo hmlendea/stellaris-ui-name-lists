@@ -171,8 +171,7 @@ build "ui_extra_humans_european"        "Human - European"          "L" \
     media/other/human/icelandic media/other/human/irish media/other/human/latin media/other/human/norse media/other/human/norwegian media/other/human/polish \
     media/other/human/portuguese media/other/human/romanian media/other/human/russian media/other/human/scottish media/other/human/slavic media/other/human/spanish \
     media/other/human/swedish media/other/human/swiss media/other/human/ukrainian \
-    media/other/human/english_int \
-    real/common/_
+    media/other/human/english_int
 build "ui_extra_humans_franco-iberian"  "Human - Franco-Iberian"    "L" \
     real/basque real/catalan real/french real/portuguese real/spanish real/common/iberian real/common/portuguese \
     real/common/spanish real/common/european \
