@@ -141,7 +141,9 @@
         <NameGroup>
           <Name>Explorers</Name>
           <Values>
+            <string>Antipa</string>
             <string>Prunariu</string>
+            <string>Racoviță</string>
           </Values>
         </NameGroup>
       </Explorers>
@@ -167,6 +169,8 @@
         <NameGroup>
           <Name>Leaders</Name>
           <Values>
+            <string>Gelu</string>
+            <string>Glad</string>
             <string>Menumorut</string>
           </Values>
         </NameGroup>
@@ -185,6 +189,7 @@
         <NameGroup>
           <Name>Leaders</Name>
           <Values>
+            <string>Michael the Brave</string>
             <string>Stephen the Great</string>
             <string>Vlad the Impaler</string>
           </Values>
@@ -192,6 +197,7 @@
         <NameGroup>
           <Name>Leaders - Endonyms</Name>
           <Values>
+            <string>Mihai Viteazul</string>
             <string>Ștefan cel Mare</string>
             <string>Vlad Țepeș</string>
           </Values>
@@ -281,6 +287,7 @@
           <Name>Mythological creatures</Name>
           <Values>
             <string>Balaur</string>
+            <string>Căpcăun</string>
             <string>Strigoi</string>
             <string>Vampire</string>
             <string>Zmeu</string>
@@ -330,6 +337,7 @@
           <Name>Trashed places</Name>
           <Values>
             <string>Ferentari</string>
+            <string>Pata-Rât</string>
           </Values>
         </NameGroup>
       </Tomb>
