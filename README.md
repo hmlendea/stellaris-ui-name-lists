@@ -4,6 +4,11 @@
 
 Mod that adds [dozens of new and detailed name lists](https://github.com/hmlendea/stellaris-ui-name-lists/wiki/Name-Lists) to Stellaris.
 
+The highlight is the "Human - Extended" list that contains thousands upon thousands of names from various languages, both from history and from fiction (especially space operas).
+There are also individual name lists for each of the used human language, or groups.
+
+Other name lists include ones taken from species from other games or movies such as `Galactic Civilizations`, `StarCraft`, `No Man's Sky`, `The Elder Scrolls`, `Star Wars`, and others
+
 # Installation
 
 [![Get it from the Workshop](https://raw.githubusercontent.com/hmlendea/readme-assets/master/badges/stores/steam-workshop.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=1912242707) [![Get it from Paradox Mods](https://raw.githubusercontent.com/hmlendea/readme-assets/master/badges/stores/paradox-mods.png)](https://mods.paradoxplaza.com/mods/25409/Any) [![Get it from the Nexus](https://raw.githubusercontent.com/hmlendea/readme-assets/master/badges/stores/nexus.png)](https://www.nexusmods.com/stellaris/mods/73) [![Get it from GitHub](https://raw.githubusercontent.com/hmlendea/readme-assets/master/badges/stores/github.png)](https://github.com/hmlendea/stellaris-ui-name-lists/releases)
@@ -29,10 +34,3 @@ Here are a few ways in which you can do so:
  - Commenting directly on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1912242707) or [Nexus](https://www.nexusmods.com/stellaris/mods/73) pages
  - Raising a new [issue](https://github.com/hmlendea/stellaris-ui-species-traits/issues) for this project
  - Creating a git pull request _(This requires git knowledge)_
-
-# Features
-
-The highlight is the "Human - Extended" list that contains thousands upon thousands of names from various languages, both from history and from fiction (especially space operas).
-There are also individual name lists for each of the used human language, or groups.
-
-Other name lists include ones taken from species from other games or movies such as `Galactic Civilizations`, `StarCraft`, `No Man's Sky`, `The Elder Scrolls`, `Star Wars`, and others
