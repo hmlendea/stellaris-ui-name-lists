@@ -310,7 +310,6 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name></Name>
           <Values>
             <string>Dava</string>
           </Values>
@@ -318,7 +317,6 @@
       </Generic>
       <Continental>
         <NameGroup>
-          <Name></Name>
           <Values>
             <string>Dacia</string>
           </Values>

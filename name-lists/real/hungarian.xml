@@ -95,7 +95,6 @@
     <Armies>
       <Fleet>
         <NameGroup>
-          <Name></Name>
           <Values>
             <FleetSequentialNames>Flotta %C%</FleetSequentialNames>
           </Values>
