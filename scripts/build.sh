@@ -251,7 +251,7 @@ build "ui_extra_humans_yugoslavic"      "Human - Yugoslavic"        "L" \
     real/bosnian real/croatian real/serbian real/slovenian \
     real/common/european real/common/slavic real/common/yugoslavic \
     media/other/human/croatian media/other/human/slavic
-build "ui_extra_humans_extended"        "Human - Extended"          "L" \
+build "ui_extra_humans_extended"        "Human - *Extended*"          "L" \
     real/afghan real/african real/algerian real/american real/angolan real/arabic real/argentinian real/armenian real/australian real/austrian real/austronesian \
     real/belarusian real/basque real/bosnian real/bengal real/brazilian real/breton real/bulgarian real/canadian real/catalan real/celtic real/chinese real/colombian \
     real/congolese real/cornish real/croatian real/cuban real/cypriote real/czech real/danish real/dutch real/ecuadorian real/egyptian real/english real/estonian \
@@ -308,14 +308,14 @@ build "ui_starcraft_protoss" "StarCraft - Protoss"  "R" media/starcraft/protoss
 
 build "ui_starwars_human" "StarWars - Human" "L" media/starwars/human
 
-build "ui_catfolk"          "Catfolk"           "R" media/aow/tigran media/elderscrolls/khajiit
-build "ui_demon"            "Demon"             "R" media/aow/draconian media/divinity/demon media/elderscrolls/dremora
-build "ui_dwarven"          "Dwarven"           "R" media/aow/dwarven media/divinity/dwarven
-build "ui_elven"            "Elven"             "R" media/aow/elven media/divinity/elven media/elderscrolls/altmer media/elderscrolls/ayleid
-build "ui_goblin"           "Goblin"            "R" media/aow/goblin media/divinity/goblin media/elderscrolls/goblin media/runescape/goblin
-build "ui_lizard"           "Lizard"            "R" media/divinity/lizard media/elderscrolls/argonian
-build "ui_orc"              "Orc"               "R" media/aow/orc media/divinity/orc media/elderscrolls/orc
-build "ui_fantasy_spider"   "Famtasy - Spider"  "R" media/elderscrolls/spider media/middle-earth/spider media/generated/fantasy-name-generators/spiderfolk
+build "ui_catfolk"          "Fantasy - Catfolk" "R" media/aow/tigran media/elderscrolls/khajiit
+build "ui_demon"            "Fantasy - Demon"   "R" media/aow/draconian media/divinity/demon media/elderscrolls/dremora
+build "ui_dwarven"          "Fantasy - Dwarven" "R" media/aow/dwarven media/divinity/dwarven
+build "ui_elven"            "Fantasy - Elven"   "R" media/aow/elven media/divinity/elven media/elderscrolls/altmer media/elderscrolls/ayleid
+build "ui_fantasy_spider"   "Fantasy - Spider"  "R" media/elderscrolls/spider media/middle-earth/spider media/generated/fantasy-name-generators/spiderfolk
+build "ui_goblin"           "Fantasy - Goblin"  "R" media/aow/goblin media/divinity/goblin media/elderscrolls/goblin media/runescape/goblin
+build "ui_lizard"           "Fantasy - Lizard"  "R" media/divinity/lizard media/elderscrolls/argonian
+build "ui_orc"              "Fantasy - Orc"     "R" media/aow/orc media/divinity/orc media/elderscrolls/orc
 
 build "ui_extra_art1" "Extra - Arthropoid 1"    "R" ui/art1
 build "ui_extra_avi1" "Extra - Avian 1"         "R" ui/avi1
