@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_middle-earth_orc</Id>
+    <Name>Middle Earth - Orc</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Orc</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Characters>
+      <CharacterNames>
+        <Id>middle-earth-orc</Id>
+        <Weight>100</Weight>
+        <FullNames>
+          <NameGroup>
+            <Values>
+              <string>Azog</string>
+              <string>Balcmeg</string>
+              <string>Boldog</string>
+              <string>Bolg</string>
+              <string>Golfimbul</string>
+              <string>Gorbag</string>
+              <string>Gorgol</string>
+              <string>Grishnákh</string>
+              <string>Lagduf</string>
+              <string>Lug</string>
+              <string>Lugdush</string>
+              <string>Mauhúr</string>
+              <string>Muzgash</string>
+              <string>Orcobal</string>
+              <string>Othrod</string>
+              <string>Radbug</string>
+              <string>Shagrat</string>
+              <string>Snaga</string>
+              <string>Ufthak</string>
+              <string>Uglúk</string>
+            </Values>
+          </NameGroup>
+        </FullNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

@@ -315,7 +315,7 @@ build "ui_elven"            "Fantasy - Elven"   "R" media/aow/elven media/divini
 build "ui_fantasy_spider"   "Fantasy - Spider"  "R" media/elderscrolls/spider media/middle-earth/spider media/generated/fantasy-name-generators/spiderfolk
 build "ui_goblin"           "Fantasy - Goblin"  "R" media/aow/goblin media/divinity/goblin media/elderscrolls/goblin media/runescape/goblin
 build "ui_lizard"           "Fantasy - Lizard"  "R" media/divinity/lizard media/elderscrolls/argonian
-build "ui_orc"              "Fantasy - Orc"     "R" media/aow/orc media/divinity/orc media/elderscrolls/orc
+build "ui_orc"              "Fantasy - Orc"     "R" media/aow/orc media/divinity/orc media/elderscrolls/orc media/middle-earth/orc
 
 build "ui_extra_art1" "Extra - Arthropoid 1"    "R" ui/art1
 build "ui_extra_avi1" "Extra - Avian 1"         "R" ui/avi1
