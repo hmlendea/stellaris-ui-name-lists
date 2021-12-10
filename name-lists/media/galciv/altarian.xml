@@ -3,6 +3,13 @@
   <NameList>
     <Id>ui_galciv_altarian</Id>
     <Name>GalCiv - Altarian</Name>
+    <Denonyms>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Altarian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
     <Planets>
       <Generic>
         <NameGroup>

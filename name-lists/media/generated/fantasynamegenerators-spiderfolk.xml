@@ -3,6 +3,13 @@
   <NameList>
     <Id>ui_fantasynamegeneratores_spiderfolk</Id>
     <Name>Generated - FantasyNameGenerators - Spiderfolk</Name>
+    <Denonyms>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Spiderfolk</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
     <Characters>
       <CharacterNames>
         <Id>fng-spiderfolk</Id>
