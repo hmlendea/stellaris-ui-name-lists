@@ -55,7 +55,7 @@
     <Characters>
       <CharacterNames>
         <Id>dvar</Id>
-        <Weight>100</Weight>
+        <Weight>1</Weight>
         <MaleFirstNames>
           <NameGroup>
           <Name>Male first names - Age of Wonders: Planetfall</Name>
