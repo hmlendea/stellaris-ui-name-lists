@@ -22,4 +22,6 @@ validateNameLists_multiLine "\n\s*<([^>]*)>\s*\n\s*</\1>\n" # Empty tags
 validateNameLists_multiLine "\n\s*</Characters>\n\s*<Characters>\s*\n" # Multiple <Characters> tags
 validateNameLists_multiLine "\n\s*<Values>\n\s*<Url>" # <Url> inside <Values>
 
+validateNameLists_multiLine "\n\s*<[^N][a-zA-Z]*[^p]>\n\s*<Name>" # <Name> outside <NameGroup>
+
 validateNameLists "<Url>https://github.com" # Non-raw GitHub URLs
