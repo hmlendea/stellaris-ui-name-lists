@@ -308,13 +308,14 @@ build "ui_starcraft_protoss" "StarCraft - Protoss"  "R" media/starcraft/protoss
 
 build "ui_starwars_human" "StarWars - Human" "L" media/starwars/human
 
-build "ui_catfolk"  "Catfolk"   "R" media/aow/tigran media/elderscrolls/khajiit
-build "ui_demon"    "Demon"     "R" media/aow/draconian media/divinity/demon media/elderscrolls/dremora
-build "ui_dwarven"  "Dwarven"   "R" media/aow/dwarven media/divinity/dwarven
-build "ui_elven"    "Elven"     "R" media/aow/elven media/divinity/elven media/elderscrolls/altmer media/elderscrolls/ayleid
-build "ui_goblin"   "Goblin"    "R" media/aow/goblin media/divinity/goblin media/elderscrolls/goblin media/runescape/goblin
-build "ui_lizard"   "Lizard"    "R" media/divinity/lizard media/elderscrolls/argonian
-build "ui_orc"      "Orc"       "R" media/aow/orc media/divinity/orc media/elderscrolls/orc
+build "ui_catfolk"          "Catfolk"           "R" media/aow/tigran media/elderscrolls/khajiit
+build "ui_demon"            "Demon"             "R" media/aow/draconian media/divinity/demon media/elderscrolls/dremora
+build "ui_dwarven"          "Dwarven"           "R" media/aow/dwarven media/divinity/dwarven
+build "ui_elven"            "Elven"             "R" media/aow/elven media/divinity/elven media/elderscrolls/altmer media/elderscrolls/ayleid
+build "ui_goblin"           "Goblin"            "R" media/aow/goblin media/divinity/goblin media/elderscrolls/goblin media/runescape/goblin
+build "ui_lizard"           "Lizard"            "R" media/divinity/lizard media/elderscrolls/argonian
+build "ui_orc"              "Orc"               "R" media/aow/orc media/divinity/orc media/elderscrolls/orc
+build "ui_fantasy_spider"   "Famtasy - Spider"  "R" media/elderscrolls/spider media/middle-earth/spider media/generated/fantasy-name-generators/spiderfolk
 
 build "ui_extra_art1" "Extra - Arthropoid 1"    "R" ui/art1
 build "ui_extra_avi1" "Extra - Avian 1"         "R" ui/avi1
