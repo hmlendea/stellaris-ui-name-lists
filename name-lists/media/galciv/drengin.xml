@@ -4,6 +4,7 @@
     <Id>ui_galciv_drengin</Id>
     <Name>GalCiv - Drengin</Name>
     <Denonyms>
+      <NameGroup>
         <Name>Denonyms</Name>
         <Values>
           <string>Drengin</string>

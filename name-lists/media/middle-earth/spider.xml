@@ -4,6 +4,7 @@
     <Id>ui_middle-earth_spider</Id>
     <Name>Middle Earth - Spider</Name>
     <Denonyms>
+      <NameGroup>
         <Name>Denonyms</Name>
         <Values>
           <string>Ungol</string>

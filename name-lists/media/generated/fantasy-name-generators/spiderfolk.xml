@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>ui_fantasynamegeneratores_spiderfolk</Id>
+    <Id>ui_generated-fng_spiderfolk</Id>
     <Name>Generated - FantasyNameGenerators - Spiderfolk</Name>
     <Denonyms>
+      <NameGroup>
         <Name>Denonyms</Name>
         <Values>
           <string>Spiderfolk</string>
