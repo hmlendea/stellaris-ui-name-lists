@@ -22,7 +22,7 @@
         <NameGroup>
           <Name>Countries</Name>
           <Values>
-          <string>Russia</string>
+            <string>Russia</string>
           </Values>
         </NameGroup>
       </Countries>
@@ -76,9 +76,9 @@
         <NameGroup>
           <Name>Rivers</Name>
           <Values>
-          <string>Dnieper</string>
-          <string>Ural</string>
-          <string>Volga</string>
+            <string>Dnieper</string>
+            <string>Ural</string>
+            <string>Volga</string>
           </Values>
         </NameGroup>
       </Rivers>
