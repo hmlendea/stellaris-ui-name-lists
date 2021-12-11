@@ -321,7 +321,7 @@ build "ui_elven"            "Fantasy - Elven"   "R" \
     generated/fantasy-name-generators/elven-dark
 build "ui_fantasy_spider"   "Fantasy - Spider"  "R" media/elderscrolls/spider media/middle-earth/spider generated/fantasy-name-generators/spiderfolk
 build "ui_goblin"           "Fantasy - Goblin"  "R" media/aow/goblin media/divinity/goblin media/elderscrolls/goblin media/runescape/goblin
-build "ui_lizard"           "Fantasy - Lizard"  "R" media/divinity/lizard media/elderscrolls/argonian
+build "ui_lizard"           "Fantasy - Lizard"  "R" media/divinity/lizard media/elderscrolls/argonian generated/fantasy-name-generators/lizardfolk
 build "ui_orc"              "Fantasy - Orc"     "R" media/aow/orc media/divinity/orc media/elderscrolls/orc media/middle-earth/orc
 
 build "ui_extra_art1" "Extra - Arthropoid 1"    "R" ui/art1
