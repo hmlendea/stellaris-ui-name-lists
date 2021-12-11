@@ -313,7 +313,10 @@ build "ui_starwars_human" "StarWars - Human" "L" media/starwars/human
 build "ui_catfolk"          "Fantasy - Catfolk" "R" media/aow/tigran media/elderscrolls/khajiit
 build "ui_demon"            "Fantasy - Demon"   "R" media/aow/draconian media/divinity/demon media/elderscrolls/dremora
 build "ui_dwarven"          "Fantasy - Dwarven" "R" media/aow/dwarven media/divinity/dwarven
-build "ui_elven"            "Fantasy - Elven"   "R" media/aow/elven media/divinity/elven media/elderscrolls/altmer media/elderscrolls/ayleid
+build "ui_elven"            "Fantasy - Elven"   "R" \
+    media/aow/elven media/divinity/elven \
+    media/elderscrolls/altmer media/elderscrolls/ayleid \
+    generated/fantasy-name-generators/elven-dark
 build "ui_fantasy_spider"   "Fantasy - Spider"  "R" media/elderscrolls/spider media/middle-earth/spider generated/fantasy-name-generators/spiderfolk
 build "ui_goblin"           "Fantasy - Goblin"  "R" media/aow/goblin media/divinity/goblin media/elderscrolls/goblin media/runescape/goblin
 build "ui_lizard"           "Fantasy - Lizard"  "R" media/divinity/lizard media/elderscrolls/argonian
