@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starcraft_protoss_tadarim</Id>
+    <Name>StarCraft - Protoss - Tal'darim</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - Groups</Name>
+        <Values>
+          <string>Tal'darim</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Denonyms - Groups</Name>
+        <Values>
+          <string>Xava'kai</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Regions - Bel'Shir - Locations</Name>
+          <Values>
+            <string>Kulas</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Shakuras</Name>
+          <Values>
+            <string>Katuul</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Shakuras - Locations</Name>
+          <Values>
+            <string>Razjan</string>
+            <string>Kakaru</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+    </Places>
+    <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types</Name>
+          <Values>
+            <string>Ascendant</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+      <Forts>
+        <NameGroup>
+          <Name>Strongholds - Bel'Shir</Name>
+          <Values>
+            <string>Arakan</string>
+          </Values>
+        </NameGroup>
+      </Forts>
+    </Warfare>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals - Slayn</Name>
+          <Values>
+            <string>Dirge</string>
+            <string>Slayn</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
+    <Armies>
+      <FleetSequentialName>%O% Armada</FleetSequentialName>
+      <DefenceArmySequentialName>%O% Dragoons</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Zealots</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Stalkers</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Slave Corps</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Clone Division</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Resurrected Warriors</UndeadArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Immortals</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Sentinels</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Photon Cannon Field</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Purifier Guard</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Purifier Force</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% High Templars</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Death Flock</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Dark Templars</SuperSoldierArmySequentialName>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets</Name>
+          <Values>
+            <string>Atrias</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Desert>
+        <NameGroup>
+          <Name>Planets</Name>
+          <Values>
+            <string>Xil</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets</Name>
+          <Values>
+            <string>Bel'Shir</string>
+            <string>Slayn</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>taldarim</Id>
+        <Weight>10</Weight>
+        <MaleFullNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-male-taldarim.txt</Url>
+          </NameGroup>
+        </MaleFullNames>
+        <FemaleFullNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-female-taldarim.txt</Url>
+          </NameGroup>
+        </FemaleFullNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

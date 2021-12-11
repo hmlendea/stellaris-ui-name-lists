@@ -303,8 +303,10 @@ build "ui_runescape_human" "RuneScape - Human" "L" \
     media/runescape/human_asgarnian media/runescape/human_kandarin media/runescape/human_kharidian media/runescape/human_menaphite \
     media/runescape/human_misthalinian media/runescape/human
 
-build "ui_starcraft_human" "StarCraft - Human"      "L" media/starcraft/human
-build "ui_starcraft_protoss" "StarCraft - Protoss"  "R" media/starcraft/protoss
+build "ui_starcraft_human"      "StarCraft - Human"     "L" media/starcraft/human
+build "ui_starcraft_protoss"    "StarCraft - Protoss"   "R" \
+    media/starcraft/protoss/khalai media/starcraft/protoss/nerazim media/starcraft/protoss/purifier media/starcraft/protoss/taldarim \
+    media/starcraft/protoss/_
 
 build "ui_starwars_human" "StarWars - Human" "L" media/starwars/human
 
