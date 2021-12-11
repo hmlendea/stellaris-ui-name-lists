@@ -34,12 +34,27 @@
               <string>Krindar</string>
             </Values>
           </NameGroup>
+          <NameGroup>
+            <Name>Made-up</Name>
+            <Values>
+              <string>Bondar</string>
+              <string>Gundar</string>
+              <string>Kora</string>
+            </Values>
+          </NameGroup>
         </FirstNames>
         <SecondNames>
           <NameGroup>
             <Values>
-              <string>a'Aghohl</string>
               <string>i'Aghohl</string>
+            </Values>
+          </NameGroup>
+          <NameGroup>
+            <Name>Made-up</Name>
+            <Values>
+              <string>a'Nagogh</string>
+              <string>a'Zojal</string>
+              <string>i'Ughahl</string>
             </Values>
           </NameGroup>
         </SecondNames>

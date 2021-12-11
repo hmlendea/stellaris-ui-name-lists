@@ -32,12 +32,25 @@
               <string>Netro</string>
             </Values>
           </NameGroup>
+          <NameGroup>
+            <Name>Made-up</Name>
+            <Values>
+              <string>Petro</string>
+            </Values>
+          </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
             <Values>
               <string>Akari</string>
               <string>Eleys</string>
+            </Values>
+          </NameGroup>
+          <NameGroup>
+            <Name>Made-up</Name>
+            <Values>
+              <string>Lueys</string>
+              <string>Nikari</string>
             </Values>
           </NameGroup>
         </FemaleFirstNames>
@@ -47,6 +60,13 @@
               <string>Mancer</string>
               <string>Mue</string>
               <string>Malara</string>
+            </Values>
+          </NameGroup>
+          <NameGroup>
+            <Name>Made-up</Name>
+            <Values>
+              <string>Talara</string>
+              <string>Praxer</string>
             </Values>
           </NameGroup>
         </SecondNames>
