@@ -297,6 +297,8 @@ build "ui_elderscrolls_khajiit"     "ElderScrolls - Khajiit"    "R" media/elders
 build "ui_elderscrolls_orc"         "ElderScrolls - Orc"        "R" media/elderscrolls/orc
 build "ui_elderscrolls_spriggan"    "ElderScrolls - Spriggan"   "R" media/elderscrolls/spriggan
 
+build "ui_galciv_yor" "GalCiv - Yor" "R" media/galciv/yor
+
 build "ui_narivia_rodah" "Narivia - Rodah" "R" media/narivia/rodah
 
 build "ui_runescape_human" "RuneScape - Human" "L" \
