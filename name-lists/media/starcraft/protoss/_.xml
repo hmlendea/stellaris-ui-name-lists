@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starcraft_protoss</Id>
+    <Name>StarCraft - Protoss</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Protoss</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Denonyms - Groups</Name>
+        <Values>
+          <string>Ihan-rii</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Daelaam</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+    </Places>
+    <Warfare>
+      <Weapons>
+        <Swords>
+          <NameGroup>
+            <Name>Swords</Name>
+            <Values>
+              <string>Sal'bak</string>
+              <string>Shikma</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types - Daelaam</Name>
+          <Values>
+            <string>Akhundelar</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Ships - Carriers</Name>
+          <Values>
+            <string>Koramund</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Coloniser>
+        <NameGroup>
+          <Name>Ships</Name>
+          <Values>
+            <string>Daelaam</string>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+    </Ships>
+    <ShipClasses>
+      <Coloniser>
+        <NameGroup>
+          <Name>Arkship</Name>
+          <Values>
+              <string>Arkship</string>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+    </ShipClasses>
+    <Armies>
+      <FleetSequentialName>%O% Armada</FleetSequentialName>
+      <Fleet>
+        <NameGroup>
+          <Values>
+            <string>Golden Armada</string>
+            <string>Great Fleet</string>
+          </Values>
+        </NameGroup>
+      </Fleet>
+      <DefenceArmySequentialName>%O% Dragoons</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Zealots</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Stalkers</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Slave Corps</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Clone Division</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Resurrected Warriors</UndeadArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Immortals</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Sentinels</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Photon Cannon Field</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Purifier Guard</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Purifier Force</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% High Templars</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Death Flock</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Dark Templars</SuperSoldierArmySequentialName>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Daelaam</Name>
+          <Values>
+            <string>Artika</string>
+            <string>Cantar</string>
+            <string>Nelyth</string>
+            <string>Rajal</string>
+            <string>Saalok</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Markov-generated based on all Protoss planet names</Name>
+          <Values>
+            <string>Gyrador</string>
+            <string>Khyras</string>
+            <string>Shakul</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Daelaam</Name>
+          <Values>
+            <string>Ash'Arak</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

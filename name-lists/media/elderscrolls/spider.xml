@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>elderscrolls_spider</Id>
+    <Name>ElderScrolls - Spider</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Spider</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <GreatPersons>
+      <CreationDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Shagrath</string>
+          </Values>
+        </NameGroup>
+      </CreationDeities>
+      <DisloyaltyDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Mephala</string>
+          </Values>
+        </NameGroup>
+      </DisloyaltyDeities>
+    </GreatPersons>
+  </NameList>
+</ArrayOfNameList>

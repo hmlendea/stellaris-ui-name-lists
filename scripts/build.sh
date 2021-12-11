@@ -251,7 +251,7 @@ build "ui_extra_humans_yugoslavic"      "Human - Yugoslavic"        "L" \
     real/bosnian real/croatian real/serbian real/slovenian \
     real/common/european real/common/slavic real/common/yugoslavic \
     media/other/human/croatian media/other/human/slavic
-build "ui_extra_humans_extended"        "Human - Extended"          "L" \
+build "ui_extra_humans_extended"        "Human - *Extended*"          "L" \
     real/afghan real/african real/algerian real/american real/angolan real/arabic real/argentinian real/armenian real/australian real/austrian real/austronesian \
     real/belarusian real/basque real/bosnian real/bengal real/brazilian real/breton real/bulgarian real/canadian real/catalan real/celtic real/chinese real/colombian \
     real/congolese real/cornish real/croatian real/cuban real/cypriote real/czech real/danish real/dutch real/ecuadorian real/egyptian real/english real/estonian \
@@ -268,7 +268,8 @@ build "ui_extra_humans_extended"        "Human - Extended"          "L" \
     real/common/yugoslavic real/common/_ \
     \
     media/aow/dvar media/elderscrolls/atmoran media/elderscrolls/human media/elderscrolls/nord \
-    media/galciv/human media/sose/human media/starcraft/human media/starwars/human \
+    media/galciv/human media/sose/human media/starcraft/human \
+    media/starwars/human/_ media/starwars/human/alderaanian media/starwars/human/corellian media/starwars/human/coruscanti \
     media/runescape/human_asgarnian media/runescape/human_kandarin media/runescape/human_kharidian media/runescape/human_menaphite media/runescape/human_misthalinian \
     media/runescape/human \
     media/other/human/african media/other/human/american media/other/human/arabic media/other/human/armenian media/other/human/australian media/other/human/austrian \
@@ -297,24 +298,45 @@ build "ui_elderscrolls_khajiit"     "ElderScrolls - Khajiit"    "R" media/elders
 build "ui_elderscrolls_orc"         "ElderScrolls - Orc"        "R" media/elderscrolls/orc
 build "ui_elderscrolls_spriggan"    "ElderScrolls - Spriggan"   "R" media/elderscrolls/spriggan
 
+build "ui_fng_lizardfolk" "FNG - Lizardfolk" "R" generated/fantasy-name-generators/lizardfolk
+
+build "ui_galciv_yor" "GalCiv - Yor" "R" media/galciv/yor
+
 build "ui_narivia_rodah" "Narivia - Rodah" "R" media/narivia/rodah
 
 build "ui_runescape_human" "RuneScape - Human" "L" \
     media/runescape/human_asgarnian media/runescape/human_kandarin media/runescape/human_kharidian media/runescape/human_menaphite \
     media/runescape/human_misthalinian media/runescape/human
 
-build "ui_starcraft_human" "StarCraft - Human"      "L" media/starcraft/human
-build "ui_starcraft_protoss" "StarCraft - Protoss"  "R" media/starcraft/protoss
+build "ui_starcraft_human"      "StarCraft - Human"     "L" media/starcraft/human
+build "ui_starcraft_protoss"    "StarCraft - Protoss"   "R" \
+    media/starcraft/protoss/khalai media/starcraft/protoss/nerazim media/starcraft/protoss/purifier media/starcraft/protoss/taldarim \
+    media/starcraft/protoss/_
 
-build "ui_starwars_human" "StarWars - Human" "L" media/starwars/human
+build "ui_starwars_human" "StarWars - Human" "L" \
+    media/starwars/human/alderaanian media/starwars/human/corellian media/starwars/human/coruscanti \
+    media/starwars/human/_
 
-build "ui_catfolk"  "Catfolk"   "R" media/aow/tigran media/elderscrolls/khajiit
-build "ui_demon"    "Demon"     "R" media/aow/draconian media/divinity/demon media/elderscrolls/dremora
-build "ui_dwarven"  "Dwarven"   "R" media/aow/dwarven media/divinity/dwarven
-build "ui_elven"    "Elven"     "R" media/aow/elven media/divinity/elven media/elderscrolls/altmer media/elderscrolls/ayleid
-build "ui_goblin"   "Goblin"    "R" media/aow/goblin media/divinity/goblin media/elderscrolls/goblin media/runescape/goblin
-build "ui_lizard"   "Lizard"    "R" media/divinity/lizard media/elderscrolls/argonian
-build "ui_orc"      "Orc"       "R" media/aow/orc media/divinity/orc media/elderscrolls/orc
+build "ui_catfolk"          "Fantasy - Catfolk" "R" media/aow/tigran media/elderscrolls/khajiit
+build "ui_demon"            "Fantasy - Demon"   "R" \
+    media/aow/draconian media/divinity/demon media/elderscrolls/dremora \
+    generated/fantasy-name-generators/demon
+build "ui_dwarven"          "Fantasy - Dwarven" "R" media/aow/dwarven media/divinity/dwarven
+build "ui_elven"            "Fantasy - Elven"   "R" \
+    media/aow/elven media/divinity/elven \
+    media/elderscrolls/altmer media/elderscrolls/ayleid \
+    media/middle-earth/elven \
+    generated/fantasy-name-generators/elven-dark
+build "ui_fantasy_spider"   "Fantasy - Spider"  "R" \
+    media/elderscrolls/spider media/middle-earth/spider \
+    generated/fantasy-name-generators/spiderfolk
+build "ui_goblin"           "Fantasy - Goblin"  "R" \
+    media/aow/goblin media/divinity/goblin media/elderscrolls/goblin media/runescape/goblin \
+    generated/fantasy-name-generators/goblin
+build "ui_lizard"           "Fantasy - Lizard"  "R" \
+    media/divinity/lizard media/elderscrolls/argonian \
+    generated/fantasy-name-generators/lizardfolk
+build "ui_orc"              "Fantasy - Orc"     "R" media/aow/orc media/divinity/orc media/elderscrolls/orc media/middle-earth/orc
 
 build "ui_extra_art1" "Extra - Arthropoid 1"    "R" ui/art1
 build "ui_extra_avi1" "Extra - Avian 1"         "R" ui/avi1
@@ -322,14 +344,18 @@ build "ui_extra_avi2" "Extra - Avian 2"         "R" ui/avi2
 build "ui_extra_fun1" "Extra - Fungoid 1"       "R" ui/fun1
 build "ui_extra_hum1" "Extra - Humanoid 1"      "R" ui/hum1
 build "ui_extra_hum2" "Extra - Humanoid 2"      "R" ui/hum2
+build "ui_extra_hum3" "Extra - Humanoid 3"      "R" ui/hum3
+build "ui_extra_hum3" "Extra - Humanoid 4"      "R" ui/hum4
 build "ui_extra_mam1" "Extra - Mammalian 1"     "R" ui/mam1
 build "ui_extra_mam2" "Extra - Mammalian 2"     "R" ui/mam2
+build "ui_extra_mam3" "Extra - Mammalian 3"     "R" ui/mam3
 build "ui_extra_mol1" "Extra - Molluscoid 1"    "R" ui/mol1
 build "ui_extra_mol2" "Extra - Molluscoid 2"    "R" ui/mol2
 build "ui_extra_pla1" "Extra - Plantoid 1"      "R" ui/pla1
 build "ui_extra_rep1" "Extra - Reptillian 1"    "R" ui/rep1
 build "ui_extra_rep2" "Extra - Reptillian 2"    "R" ui/rep2
 build "ui_extra_rep3" "Extra - Reptillian 3"    "R" ui/rep3
+build "ui_extra_rep4" "Extra - Reptillian 4"    "R" ui/rep4
 
 generate-mod-descriptor ${MOD_DESCRIPTOR_PRIMARY_FILE_PATH}
 generate-mod-descriptor ${MOD_DESCRIPTOR_SECONDARY_FILE_PATH}

@@ -24,6 +24,12 @@
             <string>Wrothgar</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Islands</Name>
+          <Values>
+            <string>Betnikh</string>
+          </Values>
+        </NameGroup>
       </Regions>
       <Cities>
         <NameGroup>

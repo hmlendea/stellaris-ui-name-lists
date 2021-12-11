@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_middle-earth_spider</Id>
+    <Name>Middle Earth - Spider</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Ungol</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Cirith Ungol</string>
+            <string>Nan Dungortheb</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Ephel Dúath</string>
+            <string>Ered Gorgoroth</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+    </Places>
+    <GreatPersons>
+      <OtherDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Ungoliant</string>
+          </Values>
+        </NameGroup>
+      </OtherDeities>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - Memes</Name>
+          <Values>
+            <string>Shelob</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+    </GreatPersons>
+  </NameList>
+</ArrayOfNameList>

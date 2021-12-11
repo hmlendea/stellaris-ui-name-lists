@@ -3,6 +3,14 @@
   <NameList>
     <Id>ui_galciv_drengin</Id>
     <Name>GalCiv - Drengin</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Drengin</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
     <Planets>
       <Generic>
         <NameGroup>
@@ -10,6 +18,21 @@
             <string>Kona</string>
             <string>Kora</string>
             <string>Kynda</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Made-up</Name>
+          <Values>
+            <string>Bhurla</string>
+            <string>Drima</string>
+            <string>Kyvar</string>
+            <string>Nuba</string>
+            <string>Rona</string>
+            <string>Sona</string>
+            <string>Synda</string>
+            <string>Vora</string>
+            <string>Vyna</string>
+            <string>Vynda</string>
           </Values>
         </NameGroup>
       </Generic>
@@ -26,11 +49,45 @@
               <string>Krindar</string>
             </Values>
           </NameGroup>
+          <NameGroup>
+            <Name>Made-up</Name>
+            <Values>
+              <string>Bhurla</string>
+              <string>Bondar</string>
+              <string>Drima</string>
+              <string>Grina</string>
+              <string>Gundar</string>
+              <string>Kora</string>
+              <string>Krivar</string>
+              <string>Nuba</string>
+              <string>Rona</string>
+              <string>Sindar</string>
+              <string>Sona</string>
+              <string>Urdar</string>
+              <string>Vindar</string>
+              <string>Vora</string>
+              <string>Vrina</string>
+              <string>Vundar</string>
+              <string>Zangan</string>
+            </Values>
+          </NameGroup>
         </FirstNames>
         <SecondNames>
           <NameGroup>
             <Values>
-              <string>A'Aghohl</string>
+              <string>i'Aghohl</string>
+            </Values>
+          </NameGroup>
+          <NameGroup>
+            <Name>Made-up</Name>
+            <Values>
+              <string>a'Gurvah</string>
+              <string>a'Nagogh</string>
+              <string>a'Zojal</string>
+              <string>d'Yavohl</string>
+              <string>i'Anogh</string>
+              <string>i'Asgih</string>
+              <string>i'Ughahl</string>
             </Values>
           </NameGroup>
         </SecondNames>

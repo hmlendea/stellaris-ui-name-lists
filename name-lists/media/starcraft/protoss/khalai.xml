@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starcraft_protoss_khalai</Id>
+    <Name>StarCraft - Protoss - Khalai</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - Groups</Name>
+        <Values>
+          <string>Khalai</string>
+          <string>Shel'na Kryhas</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Denonyms - Tribes</Name>
+        <Values>
+          <string>Akilae</string>
+          <string>Ara</string>
+          <string>Auriga</string>
+          <string>Furinax</string>
+          <string>Sargas</string>
+          <string>Shelak</string>
+          <string>Velari</string>
+          <string>Venatir</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Daelaam</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions - Aiur</Name>
+          <Values>
+            <string>Asari</string>
+            <string>Ni Monn Adun</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Aiur - Provinces</Name>
+          <Values>
+            <string>Antioch</string>
+            <string>Scion</string>
+            <string>Velari</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Aiur - Locations</Name>
+          <Values>
+            <string>Shreka</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Aiur</Name>
+          <Values>
+            <string>Aldera</string>
+            <string>Kherrisan</string>
+            <string>Kor-shakal</string>
+            <string>Mendella</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Dylar IV</Name>
+          <Values>
+            <string>Dylar</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <GreatPeople>
+      <Admirals>
+        <NameGroup>
+          <Name>Executors</Name>
+          <Values>
+            <string>Adun</string>
+            <string>Tassadar</string>
+          </Values>
+        </NameGroup>
+      </Admirals>
+    </GreatPeople>
+    <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types</Name>
+          <Values>
+            <string>Dragoon</string>
+            <string>Void Ray</string>
+            <string>Mothership</string>
+            <string>Colossus</string>
+            <string>Phoenix</string>
+            <string>Carrier</string>
+            <string>Arbiter</string>
+            <string>Tempest</string>
+            <string>Scarab</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals - Aiur</Name>
+          <Values>
+            <string>Bengalaas</string>
+            <string>Kal-taar</string>
+            <string>Kwah-kai</string>
+            <string>Lombad</string>
+            <string>Mai-lur</string>
+            <string>Omhara</string>
+            <string>Urubu</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Animals - Khyrador</Name>
+          <Values>
+            <string>Ursadon</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Ships - Arbiters</Name>
+          <Values>
+            <string>Serenity</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Ships - Carriers</Name>
+          <Values>
+            <string>Tempest</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Ships - Supercarriers</Name>
+          <Values>
+            <string>Antimond</string>
+            <string>Gantrithor</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Ships - Motherships</Name>
+          <Values>
+            <string>Moratun</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Coloniser>
+        <NameGroup>
+          <Name>Ships</Name>
+          <Values>
+            <string>Memory of Nazin</string>
+            <string>Pride of Altaris</string>
+            <string>Spear of Adun</string>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+    </Ships>
+    <Armies>
+      <FleetSequentialName>%O% Armada</FleetSequentialName>
+      <Fleet>
+        <NameGroup>
+          <Values>
+            <string>Koprulu Expeditionary Force</string>
+          </Values>
+        </NameGroup>
+      </Fleet>
+      <DefenceArmySequentialName>%O% Dragoons</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Zealots</AssaultArmySequentialName>
+      <AssaultArmy>
+        <NameGroup>
+          <Name>Warbands</Name>
+          <Values>
+            <string>Blackman's Reavers</string>
+            <string>Venetir Scouts</string>
+          </Values>
+        </NameGroup>
+      </AssaultArmy>
+      <OccupationArmySequentialName>%0% Stalkers</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Slave Corps</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Clone Division</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Resurrected Warriors</UndeadArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Immortals</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Sentinels</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Photon Cannon Field</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Purifier Guard</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Purifier Force</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% High Templars</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Death Flock</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Dark Templars</SuperSoldierArmySequentialName>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets</Name>
+          <Values>
+            <string>Samiku</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets</Name>
+          <Values>
+            <string>Aiur</string>
+            <string>Braken</string>
+            <string>Gyras</string>
+            <string>Swampus</string>
+            <string>Vanass</string>
+            <string>Zhakul</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Continental>
+        <NameGroup>
+          <Name>Planets</Name>
+          <Values>
+            <string>Endion</string>
+            <string>Roxara</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets</Name>
+          <Values>
+            <string>Glacius</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets</Name>
+          <Values>
+            <string>Kaldir</string>
+            <string>Khyrador</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>khalai</Id>
+        <Weight>66</Weight>
+        <MaleFullNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-male-khalai.txt</Url>
+          </NameGroup>
+        </MaleFullNames>
+        <FemaleFullNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-female-khalai.txt</Url>
+          </NameGroup>
+        </FemaleFullNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

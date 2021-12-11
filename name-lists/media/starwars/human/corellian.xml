@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starwars_human_corellian</Id>
+    <Name>StarWars - Human - Corellian</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - StarWars</Name>
+        <Values>
+          <string>Corellian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - StarWars - Corellia</Name>
+          <Values>
+            <string>Bela Vistal</string>
+            <string>Coronet</string>
+            <string>Doaba Guerfel</string>
+            <string>Kor Vella</string>
+            <string>Tyrena</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals - StarWars - Corellia</Name>
+          <Values>
+            <string>Bluevev Glider</string>
+            <string>Coppergrin</string>
+            <string>Corellian Hound</string>
+            <string>Corellian Sand Panther</string>
+            <string>Fingerlip Garpon</string>
+            <string>Fleek Eel</string>
+            <string>Garsmelt</string>
+            <string>Lancepyke</string>
+            <string>Mottled Hexskip Paddler</string>
+            <string>Needlegawp</string>
+            <string>Night Fisher</string>
+            <string>Pulsar Skate</string>
+            <string>Scalefin Fish</string>
+            <string>Screerat</string>
+            <string>Spukami</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
+    <Ships>
+      <Corvette>
+        <NameGroup>
+          <Name>Ships - StarWars</Name>
+          <Values>
+            <string>Millenium Falcon</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+    </Ships>
+    <Armies>
+      <FleetSequentialName>%O% Fleet</FleetSequentialName>
+      <DefenceArmySequentialName>%O% Stormtroopers</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Storm Commandos</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Storm Garrison</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Slave Auxiliaries</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Clone Troopers</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Squadron</UndeadArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Battle Droids</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Super Battle Droids</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Garrison Droids</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Troopers</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Troopers</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Force-Sensitives</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Xenomorph Troopers</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Death Troopers</SuperSoldierArmySequentialName>
+    </Armies>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - StarWars</Name>
+          <Values>
+            <string>Corellia</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+    <Characters>
+      <CharacterNames>
+        <Id>corellian</Id>
+        <Weight>1</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Abadaner</string>
+              <string>Almar</string>
+              <string>Anson</string>
+              <string>Banyon</string>
+              <string>Barnley</string>
+              <string>Barr</string>
+              <string>Baylis</string>
+              <string>Bern</string>
+              <string>Bey</string>
+              <string>Bolf</string>
+              <string>BoShek</string>
+              <string>Boultan</string>
+              <string>Buroy</string>
+              <string>Burr</string>
+              <string>Chak</string>
+              <string>Charr</string>
+              <string>Chase</string>
+              <string>Chelch</string>
+              <string>Cole</string>
+              <string>Com</string>
+              <string>Conil</string>
+              <string>Coril</string>
+              <string>Corran</string>
+              <string>Cotin</string>
+              <string>Crev</string>
+              <string>Cubber</string>
+              <string>Dannl</string>
+              <string>Darv</string>
+              <string>Darvis</string>
+              <string>Dash</string>
+              <string>Davin</string>
+              <string>Davrin</string>
+              <string>Deegan</string>
+              <string>Deel</string>
+              <string>Deena</string>
+              <string>Deflaros</string>
+              <string>Dengar</string>
+              <string>Dev</string>
+              <string>Devlin</string>
+              <string>Devoris</string>
+              <string>Dex</string>
+              <string>Didjoa</string>
+              <string>Doman</string>
+              <string>Donovan</string>
+              <string>Draykken</string>
+              <string>Ecclessis</string>
+              <string>Erno</string>
+              <string>Falco</string>
+              <string>Feyodor</string>
+              <string>Flautis</string>
+              <string>Fyric</string>
+              <string>Garm</string>
+              <string>Gil</string>
+              <string>Gilad</string>
+              <string>Grov</string>
+              <string>Han</string>
+              <string>Harlon</string>
+              <string>Hiram</string>
+              <string>Hraykken</string>
+              <string>Ilim</string>
+              <string>Ivr</string>
+              <string>Jamb</string>
+              <string>Jareck</string>
+              <string>Jarth</string>
+              <string>Jerem</string>
+              <string>Jesseb</string>
+              <string>Jonah</string>
+              <string>Jonashe</string>
+              <string>Jorj</string>
+              <string>Jurnel</string>
+              <string>Karl</string>
+              <string>Lanius</string>
+              <string>Lon</string>
+              <string>Louis</string>
+              <string>Macz</string>
+              <string>Malakili</string>
+              <string>Mastakatorus</string>
+              <string>Matieu</string>
+              <string>Mich</string>
+              <string>Monti</string>
+              <string>Myn</string>
+              <string>Myron</string>
+              <string>Natt</string>
+              <string>Naz</string>
+              <string>Noro</string>
+              <string>Odair</string>
+              <string>Raar</string>
+              <string>Rik</string>
+              <string>Ront</string>
+              <string>Sal</string>
+              <string>Salovan</string>
+              <string>Sann</string>
+              <string>Seb</string>
+              <string>Shandy</string>
+              <string>Shi</string>
+              <string>Skerrick</string>
+              <string>Soontir</string>
+              <string>Stephax</string>
+              <string>Strilath</string>
+              <string>Tekil</string>
+              <string>Tendir</string>
+              <string>Tev</string>
+              <string>Thale</string>
+              <string>Tivoche</string>
+              <string>Todr</string>
+              <string>Toob</string>
+              <string>Tormax</string>
+              <string>Valon</string>
+              <string>Villian</string>
+              <string>Vol</string>
+              <string>Waroon</string>
+              <string>Wedge</string>
+              <string>Winshur</string>
+              <string>Yustavan</string>
+            </Values>
+          </NameGroup>
+        </MaleFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Values>
+              <string>Abagga</string>
+              <string>Ajai</string>
+              <string>Angela</string>
+              <string>Anita</string>
+              <string>Anni</string>
+              <string>Annissya</string>
+              <string>Areta</string>
+              <string>Arrianya</string>
+              <string>Bant'ena</string>
+              <string>Brusela</string>
+              <string>Camelle</string>
+              <string>Chai</string>
+              <string>Cora</string>
+              <string>Coraline</string>
+              <string>Corinna</string>
+              <string>Deli</string>
+              <string>Doman</string>
+              <string>Domisari</string>
+              <string>Dotyk</string>
+              <string>Dova</string>
+              <string>Elga</string>
+              <string>Elsen</string>
+              <string>Evgenia</string>
+              <string>Feleema</string>
+              <string>Fianna</string>
+              <string>Frei</string>
+              <string>Josta</string>
+              <string>Kandria</string>
+              <string>Kimmi</string>
+              <string>Maris</string>
+              <string>Miru</string>
+              <string>Myri</string>
+              <string>Qi'ra</string>
+              <string>Roxi</string>
+              <string>Shirlee</string>
+              <string>Shobbo</string>
+              <string>Sulen</string>
+              <string>Sunny</string>
+              <string>Syal</string>
+              <string>Tess</string>
+              <string>Ubbal</string>
+              <string>Vella</string>
+              <string>Viera</string>
+              <string>Voba</string>
+              <string>Yama</string>
+              <string>Zena</string>
+              <string>Zindra</string>
+            </Values>
+          </NameGroup>
+        </FemaleFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Values>
+              <string>A'Daasha</string>
+              <string>Alder</string>
+              <string>Ancher</string>
+              <string>Antilles</string>
+              <string>Anyell</string>
+              <string>Arbo</string>
+              <string>Archan</string>
+              <string>Ardellian</string>
+              <string>Arkos</string>
+              <string>Arned</string>
+              <string>Arrant</string>
+              <string>Aycen</string>
+              <string>B'ath</string>
+              <string>Barad</string>
+              <string>Barje</string>
+              <string>Barl</string>
+              <string>Barthis</string>
+              <string>Bastra</string>
+              <string>Bata</string>
+              <string>Beech</string>
+              <string>Beetilles</string>
+              <string>Behar</string>
+              <string>Bel Iblis</string>
+              <string>Bel-Opis</string>
+              <string>Bell</string>
+              <string>Belos</string>
+              <string>Bender</string>
+              <string>Beruss</string>
+              <string>Bilure</string>
+              <string>Bish</string>
+              <string>Blazer</string>
+              <string>Blue</string>
+              <string>Bok</string>
+              <string>Bombaasa</string>
+              <string>Bordo</string>
+              <string>Bounder</string>
+              <string>Bratt</string>
+              <string>Breeger</string>
+              <string>Bricker</string>
+              <string>Byrnloo</string>
+              <string>Cadmir</string>
+              <string>Calay</string>
+              <string>Cantarus</string>
+              <string>Capstan</string>
+              <string>Car'das</string>
+              <string>Carr</string>
+              <string>Carter</string>
+              <string>Chyler</string>
+              <string>Convorr</string>
+              <string>Cope</string>
+              <string>Corse</string>
+              <string>Cracken</string>
+              <string>Craddok</string>
+              <string>Creel</string>
+              <string>Cynthisa</string>
+              <string>Dain</string>
+              <string>Daine</string>
+              <string>Dak</string>
+              <string>Dakron</string>
+              <string>Dance</string>
+              <string>Darriovof</string>
+              <string>Das</string>
+              <string>Daskmin</string>
+              <string>Dekker</string>
+              <string>DeVitt</string>
+              <string>Dex</string>
+              <string>Donos</string>
+              <string>Draav</string>
+              <string>Drass</string>
+              <string>Dravvad</string>
+              <string>Dreezian</string>
+              <string>Driscull</string>
+              <string>Drop</string>
+              <string>Duel</string>
+              <string>Duey</string>
+              <string>Durron</string>
+              <string>Dustrunner</string>
+              <string>Dynes</string>
+              <string>Eldon</string>
+              <string>Faldrin</string>
+              <string>Fanaso</string>
+              <string>Fane</string>
+              <string>Farles</string>
+              <string>Faughn</string>
+              <string>Faytonni</string>
+              <string>Fel</string>
+              <string>Felyood</string>
+              <string>Fenn</string>
+              <string>Ferd</string>
+              <string>Fhernan</string>
+              <string>Figg</string>
+              <string>Findo</string>
+              <string>Fische</string>
+              <string>Flenn</string>
+              <string>Fordox</string>
+              <string>Horn</string>
+              <string>Nadrinakar</string>
+              <string>Naxis</string>
+              <string>Pallaeon</string>
+              <string>Rendar</string>
+              <string>Solo</string>
+              <string>Varangi</string>
+            </Values>
+          </NameGroup>
+        </SecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>

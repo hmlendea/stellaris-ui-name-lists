@@ -3,6 +3,14 @@
   <NameList>
     <Id>ui_galciv_altarian</Id>
     <Name>GalCiv - Altarian</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Altarian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
     <Planets>
       <Generic>
         <NameGroup>
@@ -10,6 +18,14 @@
             <string>Altaria</string>
             <string>Kynda</string>
             <string>Wisp</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Made-up</Name>
+          <Values>
+            <string>Praxia</string>
+            <string>Talaria</string>
+            <string>Wiseys</string>
           </Values>
         </NameGroup>
       </Generic>
@@ -24,12 +40,31 @@
               <string>Netro</string>
             </Values>
           </NameGroup>
+          <NameGroup>
+            <Name>Made-up</Name>
+            <Values>
+              <string>Leto</string>
+              <string>Petro</string>
+              <string>Retro</string>
+            </Values>
+          </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
             <Values>
               <string>Akari</string>
               <string>Eleys</string>
+            </Values>
+          </NameGroup>
+          <NameGroup>
+            <Name>Made-up</Name>
+            <Values>
+              <string>Lueys</string>
+              <string>Meleys</string>
+              <string>Nikari</string>
+              <string>Reneys</string>
+              <string>Sakari</string>
+              <string>Seleys</string>
             </Values>
           </NameGroup>
         </FemaleFirstNames>
@@ -39,6 +74,17 @@
               <string>Mancer</string>
               <string>Mue</string>
               <string>Malara</string>
+            </Values>
+          </NameGroup>
+          <NameGroup>
+            <Name>Made-up</Name>
+            <Values>
+              <string>Celara</string>
+              <string>Falara</string>
+              <string>Lancer</string>
+              <string>Praxer</string>
+              <string>Talara</string>
+              <string>Tue</string>
             </Values>
           </NameGroup>
         </SecondNames>
