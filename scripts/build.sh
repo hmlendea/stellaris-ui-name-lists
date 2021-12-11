@@ -314,7 +314,7 @@ build "ui_catfolk"          "Fantasy - Catfolk" "R" media/aow/tigran media/elder
 build "ui_demon"            "Fantasy - Demon"   "R" media/aow/draconian media/divinity/demon media/elderscrolls/dremora
 build "ui_dwarven"          "Fantasy - Dwarven" "R" media/aow/dwarven media/divinity/dwarven
 build "ui_elven"            "Fantasy - Elven"   "R" media/aow/elven media/divinity/elven media/elderscrolls/altmer media/elderscrolls/ayleid
-build "ui_fantasy_spider"   "Fantasy - Spider"  "R" media/elderscrolls/spider media/middle-earth/spider media/generated/fantasy-name-generators/spiderfolk
+build "ui_fantasy_spider"   "Fantasy - Spider"  "R" media/elderscrolls/spider media/middle-earth/spider generated/fantasy-name-generators/spiderfolk
 build "ui_goblin"           "Fantasy - Goblin"  "R" media/aow/goblin media/divinity/goblin media/elderscrolls/goblin media/runescape/goblin
 build "ui_lizard"           "Fantasy - Lizard"  "R" media/divinity/lizard media/elderscrolls/argonian
 build "ui_orc"              "Fantasy - Orc"     "R" media/aow/orc media/divinity/orc media/elderscrolls/orc media/middle-earth/orc
