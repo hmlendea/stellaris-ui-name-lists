@@ -297,6 +297,8 @@ build "ui_elderscrolls_khajiit"     "ElderScrolls - Khajiit"    "R" media/elders
 build "ui_elderscrolls_orc"         "ElderScrolls - Orc"        "R" media/elderscrolls/orc
 build "ui_elderscrolls_spriggan"    "ElderScrolls - Spriggan"   "R" media/elderscrolls/spriggan
 
+build "ui_fng_lizardfolk" "FNG - Lizardfolk" "R" generated/fantasy-name-generators/lizardfolk
+
 build "ui_galciv_yor" "GalCiv - Yor" "R" media/galciv/yor
 
 build "ui_narivia_rodah" "Narivia - Rodah" "R" media/narivia/rodah
@@ -313,7 +315,7 @@ build "ui_starcraft_protoss"    "StarCraft - Protoss"   "R" \
 build "ui_starwars_human" "StarWars - Human" "L" media/starwars/human
 
 build "ui_catfolk"          "Fantasy - Catfolk" "R" media/aow/tigran media/elderscrolls/khajiit
-build "ui_demon"            "Fantasy - Demon"   "R" media/aow/draconian media/divinity/demon media/elderscrolls/dremora
+build "ui_demon"            "Fantasy - Demon"   "R" media/aow/draconian media/divinity/demon media/elderscrolls/dremora generated/fantasy-name-generators/demon
 build "ui_dwarven"          "Fantasy - Dwarven" "R" media/aow/dwarven media/divinity/dwarven
 build "ui_elven"            "Fantasy - Elven"   "R" \
     media/aow/elven media/divinity/elven \
