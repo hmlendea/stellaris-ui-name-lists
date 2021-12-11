@@ -20,6 +20,14 @@
             <string>Wisp</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Made-up</Name>
+          <Values>
+            <string>Praxia</string>
+            <string>Talaria</string>
+            <string>Wiseys</string>
+          </Values>
+        </NameGroup>
       </Generic>
     </Planets>
     <Characters>
@@ -35,7 +43,9 @@
           <NameGroup>
             <Name>Made-up</Name>
             <Values>
+              <string>Leto</string>
               <string>Petro</string>
+              <string>Retro</string>
             </Values>
           </NameGroup>
         </MaleFirstNames>
@@ -50,7 +60,11 @@
             <Name>Made-up</Name>
             <Values>
               <string>Lueys</string>
+              <string>Meleys</string>
               <string>Nikari</string>
+              <string>Reneys</string>
+              <string>Sakari</string>
+              <string>Seleys</string>
             </Values>
           </NameGroup>
         </FemaleFirstNames>
@@ -65,8 +79,12 @@
           <NameGroup>
             <Name>Made-up</Name>
             <Values>
-              <string>Talara</string>
+              <string>Celara</string>
+              <string>Falara</string>
+              <string>Lancer</string>
               <string>Praxer</string>
+              <string>Talara</string>
+              <string>Tue</string>
             </Values>
           </NameGroup>
         </SecondNames>
