@@ -38,7 +38,21 @@
             <string>Kakaru</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Regions - Typhon XI</Name>
+          <Values>
+            <string>Elysium</string>
+          </Values>
+        </NameGroup>
       </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Monlyth</Name>
+          <Values>
+            <string>Zenith</string>
+          </Values>
+        </NameGroup>
+      </Cities>
     </Places>
     <Warfare>
       <MilitaryUnitTypes>
@@ -46,6 +60,13 @@
           <Name>Military unit types</Name>
           <Values>
             <string>Ascendant</string>
+            <string>Blood Hunter</string>
+            <string>Destroyer</string>
+            <string>Havoc</string>
+            <string>Slayer</string>
+            <string>Supplicant</string>
+            <string>Vanguard</string>
+            <string>War Prism</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
@@ -65,6 +86,21 @@
           <Values>
             <string>Dirge</string>
             <string>Slayn</string>
+            <string>Zoanthisk</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+      <Animals>
+        <NameGroup>
+          <Name>Animals - Typhon XI</Name>
+          <Values>
+            <string>Karak</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Animals - Xil</Name>
+          <Values>
+            <string>Urubu</string>
           </Values>
         </NameGroup>
       </Animals>
@@ -73,18 +109,18 @@
       <FleetSequentialName>%O% Armada</FleetSequentialName>
       <DefenceArmySequentialName>%O% Dragoons</DefenceArmySequentialName>
       <AssaultArmySequentialName>%O% Zealots</AssaultArmySequentialName>
-      <OccupationArmySequentialName>%0% Stalkers</OccupationArmySequentialName>
-      <SlaveArmySequentialName>%O% Slave Corps</SlaveArmySequentialName>
+      <OccupationArmySequentialName>%0% Havocs</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Supplicants</SlaveArmySequentialName>
       <CloneArmySequentialName>%O% Clone Division</CloneArmySequentialName>
       <UndeadArmySequentialName>%O% Resurrected Warriors</UndeadArmySequentialName>
-      <RoboticDefenceArmySequentialName>%O% Immortals</RoboticDefenceArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Vanguards</RoboticDefenceArmySequentialName>
       <RoboticAssaultArmySequentialName>%O% Sentinels</RoboticAssaultArmySequentialName>
       <RoboticOccupationArmySequentialName>%0% Photon Cannon Field</RoboticOccupationArmySequentialName>
       <AndroidDefenceArmySequentialName>%O% Purifier Guard</AndroidDefenceArmySequentialName>
       <AndroidAssaultArmySequentialName>%O% Purifier Force</AndroidAssaultArmySequentialName>
-      <PsionicArmySequentialName>%O% High Templars</PsionicArmySequentialName>
+      <PsionicArmySequentialName>%O% Ascendants</PsionicArmySequentialName>
       <XenomorphArmySequentialName>%O% Death Flock</XenomorphArmySequentialName>
-      <SuperSoldierArmySequentialName>%O% Dark Templars</SuperSoldierArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Blood Hunters</SuperSoldierArmySequentialName>
     </Armies>
     <Planets>
       <Generic>
@@ -112,6 +148,14 @@
           </Values>
         </NameGroup>
       </Tropical>
+      <Barren>
+        <NameGroup>
+          <Name>Planets</Name>
+          <Values>
+            <string>Monlyth</string>
+          </Values>
+        </NameGroup>
+      </Barren>
     </Planets>
     <Characters>
       <CharacterNames>

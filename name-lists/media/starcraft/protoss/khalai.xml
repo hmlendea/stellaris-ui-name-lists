@@ -225,6 +225,7 @@
           <Name>Planets</Name>
           <Values>
             <string>Endion</string>
+            <string>Roxara</string>
           </Values>
         </NameGroup>
       </Continental>
@@ -245,14 +246,6 @@
           </Values>
         </NameGroup>
       </Arctic>
-      <Barren>
-        <NameGroup>
-          <Name>Planets</Name>
-          <Values>
-            <string>Monlyth</string>
-          </Values>
-        </NameGroup>
-      </Barren>
     </Planets>
     <Characters>
       <CharacterNames>

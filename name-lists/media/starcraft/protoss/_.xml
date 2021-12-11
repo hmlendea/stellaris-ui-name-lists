@@ -113,6 +113,14 @@
             <string>Saalok</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Markov-generated based on all Protoss planet names</Name>
+          <Values>
+            <string>Gyrador</string>
+            <string>Khyras</string>
+            <string>Shakul</string>
+          </Values>
+        </NameGroup>
       </Generic>
       <Tropical>
         <NameGroup>
