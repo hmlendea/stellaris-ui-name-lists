@@ -332,6 +332,7 @@ build "ui_extra_pla1" "Extra - Plantoid 1"      "R" ui/pla1
 build "ui_extra_rep1" "Extra - Reptillian 1"    "R" ui/rep1
 build "ui_extra_rep2" "Extra - Reptillian 2"    "R" ui/rep2
 build "ui_extra_rep3" "Extra - Reptillian 3"    "R" ui/rep3
+build "ui_extra_rep4" "Extra - Reptillian 4"    "R" ui/rep4
 
 generate-mod-descriptor ${MOD_DESCRIPTOR_PRIMARY_FILE_PATH}
 generate-mod-descriptor ${MOD_DESCRIPTOR_SECONDARY_FILE_PATH}
