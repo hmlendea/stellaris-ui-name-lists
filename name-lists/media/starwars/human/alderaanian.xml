@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starwars_human_alderaanian</Id>
+    <Name>StarWars - Human - Alderaanian</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - StarWars</Name>
+        <Values>
+          <string>Alderaanian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - StarWars</Name>
+          <Values>
+            <string>Aldera</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Armies>
+      <FleetSequentialName>%O% Fleet</FleetSequentialName>
+      <DefenceArmySequentialName>%O% Stormtroopers</DefenceArmySequentialName>
+      <AssaultArmySequentialName>%O% Storm Commandos</AssaultArmySequentialName>
+      <OccupationArmySequentialName>%0% Storm Garrison</OccupationArmySequentialName>
+      <SlaveArmySequentialName>%O% Slave Auxiliaries</SlaveArmySequentialName>
+      <CloneArmySequentialName>%O% Clone Troopers</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Squadron</UndeadArmySequentialName>
+      <RoboticDefenceArmySequentialName>%O% Battle Droids</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>%O% Super Battle Droids</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>%0% Garrison Droids</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>%O% Synthetic Troopers</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>%O% Synthetic Troopers</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>%O% Force-Sensitives</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>%O% Xenomorph Troopers</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>%O% Death Troopers</SuperSoldierArmySequentialName>
+    </Armies>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - StarWars</Name>
+          <Values>
+            <string>Alderaan</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

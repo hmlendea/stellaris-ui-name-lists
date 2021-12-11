@@ -3,50 +3,10 @@
   <NameList>
     <Id>starwars_human</Id>
     <Name>StarWars - Human</Name>
-    <Denonyms>
-      <NameGroup>
-        <Name>Denonyms - StarWars - Human</Name>
-        <Values>
-          <string>Alderaanian</string>
-          <string>Corellian</string>
-          <string>Coruscanti</string>
-        </Values>
-      </NameGroup>
-    </Denonyms>
-    <Places>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - StarWars - Alderaan</Name>
-          <Values>
-            <string>Aldera</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - StarWars - Corellia</Name>
-          <Values>
-            <string>Bela Vistal</string>
-            <string>Coronet</string>
-            <string>Doaba Guerfel</string>
-            <string>Kor Vella</string>
-            <string>Tyrena</string>
-          </Values>
-        </NameGroup>
-      </Cities>
-    </Places>
-    <Ships>
-      <Corvette>
-        <NameGroup>
-          <Name>Ships - StarWars - Human</Name>
-          <Values>
-            <string>Millenium Falcon</string>
-          </Values>
-        </NameGroup>
-      </Corvette>
-    </Ships>
     <ShipClasses>
       <Generic>
         <NameGroup>
-          <Name>Ship classes - StarWars - Human</Name>
+          <Name>Ship classes - StarWars</Name>
           <Values>
             <string>Bengel</string>
           </Values>
@@ -54,7 +14,7 @@
       </Generic>
       <Corvette>
         <NameGroup>
-          <Name>Ship classes - StarWars - Human</Name>
+          <Name>Ship classes - StarWars</Name>
           <Values>
             <string>TIE</string>
           </Values>
@@ -64,7 +24,7 @@
     <Stations>
       <MiningStations>
         <NameGroup>
-          <Name>Mining Stations - StarWars - Human</Name>
+          <Name>Mining Stations - StarWars</Name>
           <Values>
             <string>Arah</string>
             <string>CMC-A14</string>
@@ -78,7 +38,7 @@
       </MiningStations>
       <ResearchStations>
         <NameGroup>
-          <Name>Research stations - StarWars - Human</Name>
+          <Name>Research stations - StarWars</Name>
           <Values>
             <string>Youst</string>
           </Values>
@@ -94,7 +54,7 @@
       <CloneArmySequentialName>%O% Clone Troopers</CloneArmySequentialName>
       <CloneArmy>
         <NameGroup>
-          <Name>Clone armies - StarWars - Human</Name>
+          <Name>Clone armies - StarWars</Name>
           <Values>
             <string>104th Battalion</string>
             <string>212th Attack Battalion</string>
@@ -138,7 +98,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Planets - StarWars - Human</Name>
+          <Name>Planets - StarWars</Name>
           <Values>
             <string>Chalcata</string>
             <string>Pamarthe</string>
@@ -147,7 +107,7 @@
       </Generic>
       <Desert>
         <NameGroup>
-          <Name>Planets - StarWars - Human</Name>
+          <Name>Planets - StarWars</Name>
           <Values>
             <string>Geonosis</string>
             <string>Mandalore</string>
@@ -157,7 +117,7 @@
       </Desert>
       <Tropical>
         <NameGroup>
-          <Name>Planets - StarWars - Human</Name>
+          <Name>Planets - StarWars</Name>
           <Values>
             <string>Akiva</string>
             <string>Daflomia</string>
@@ -170,9 +130,8 @@
       </Tropical>
       <Continental>
         <NameGroup>
-          <Name>Planets - StarWars - Human</Name>
+          <Name>Planets - StarWars</Name>
           <Values>
-            <string>Alderaan</string>
             <string>Aradan</string>
             <string>Bakura</string>
             <string>Bastion</string>
@@ -180,7 +139,6 @@
             <string>Carida</string>
             <string>Champala</string>
             <string>Chandrila</string>
-            <string>Corellia</string>
             <string>Coruscant</string>
             <string>Dantooine</string>
             <string>Fondor</string>
@@ -193,7 +151,7 @@
       </Continental>
       <Gaia>
         <NameGroup>
-          <Name>Planets - StarWars - Human</Name>
+          <Name>Planets - StarWars</Name>
           <Values>
             <string>Achillea</string>
             <string>Agamar</string>
@@ -205,7 +163,7 @@
       </Gaia>
       <Ocean>
         <NameGroup>
-          <Name>Planets - StarWars - Human</Name>
+          <Name>Planets - StarWars</Name>
           <Values>
             <string>Admastor</string>
             <string>Aguarl</string>
@@ -217,7 +175,7 @@
       </Ocean>
       <Arctic>
         <NameGroup>
-          <Name>Planets - StarWars - Human</Name>
+          <Name>Planets - StarWars</Name>
           <Values>
             <string>Akuria</string>
             <string>Carlac</string>
@@ -227,7 +185,7 @@
       </Arctic>
       <Molten>
         <NameGroup>
-          <Name>Planets - StarWars - Human</Name>
+          <Name>Planets - StarWars</Name>
           <Values>
             <string>Mustafar</string>
           </Values>

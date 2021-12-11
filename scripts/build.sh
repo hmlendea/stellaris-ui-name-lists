@@ -268,7 +268,8 @@ build "ui_extra_humans_extended"        "Human - *Extended*"          "L" \
     real/common/yugoslavic real/common/_ \
     \
     media/aow/dvar media/elderscrolls/atmoran media/elderscrolls/human media/elderscrolls/nord \
-    media/galciv/human media/sose/human media/starcraft/human media/starwars/human \
+    media/galciv/human media/sose/human media/starcraft/human \
+    media/starwars/human/_ media/starwars/human/alderaanian media/starwars/human/corellian media/starwars/human/coruscanti \
     media/runescape/human_asgarnian media/runescape/human_kandarin media/runescape/human_kharidian media/runescape/human_menaphite media/runescape/human_misthalinian \
     media/runescape/human \
     media/other/human/african media/other/human/american media/other/human/arabic media/other/human/armenian media/other/human/australian media/other/human/austrian \
@@ -312,7 +313,9 @@ build "ui_starcraft_protoss"    "StarCraft - Protoss"   "R" \
     media/starcraft/protoss/khalai media/starcraft/protoss/nerazim media/starcraft/protoss/purifier media/starcraft/protoss/taldarim \
     media/starcraft/protoss/_
 
-build "ui_starwars_human" "StarWars - Human" "L" media/starwars/human
+build "ui_starwars_human" "StarWars - Human" "L" \
+    media/starwars/human/alderaanian media/starwars/human/corellian media/starwars/human/coruscanti \
+    media/starwars/human/_
 
 build "ui_catfolk"          "Fantasy - Catfolk" "R" media/aow/tigran media/elderscrolls/khajiit
 build "ui_demon"            "Fantasy - Demon"   "R" \
