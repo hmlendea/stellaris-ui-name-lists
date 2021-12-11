@@ -325,6 +325,7 @@ build "ui_dwarven"          "Fantasy - Dwarven" "R" media/aow/dwarven media/divi
 build "ui_elven"            "Fantasy - Elven"   "R" \
     media/aow/elven media/divinity/elven \
     media/elderscrolls/altmer media/elderscrolls/ayleid \
+    media/middle-earth/elven \
     generated/fantasy-name-generators/elven-dark
 build "ui_fantasy_spider"   "Fantasy - Spider"  "R" \
     media/elderscrolls/spider media/middle-earth/spider \
