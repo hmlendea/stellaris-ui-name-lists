@@ -26,11 +26,16 @@
           <Values>
             <string>Bhurla</string>
             <string>Drima</string>
+            <string>Gora</string>
+            <string>Grima</string>
+            <string>Grina</string>
+            <string>Kasta</string>
             <string>Kyvar</string>
             <string>Nuba</string>
             <string>Rona</string>
             <string>Sona</string>
             <string>Synda</string>
+            <string>Thona</string>
             <string>Vora</string>
             <string>Vyna</string>
             <string>Vynda</string>
@@ -55,14 +60,19 @@
               <string>Bhurla</string>
               <string>Bondar</string>
               <string>Drima</string>
+              <string>Gora</string>
+              <string>Grima</string>
               <string>Grina</string>
               <string>Gundar</string>
+              <string>Kasta</string>
               <string>Kora</string>
+              <string>Krasta</string>
               <string>Krivar</string>
               <string>Nuba</string>
               <string>Rona</string>
               <string>Sindar</string>
               <string>Sona</string>
+              <string>Thona</string>
               <string>Urdar</string>
               <string>Vindar</string>
               <string>Vora</string>
@@ -83,11 +93,19 @@
             <Values>
               <string>a'Gurvah</string>
               <string>a'Nagogh</string>
+              <string>a'Snaebh</string>
               <string>a'Zojal</string>
+              <string>ar'Banogh</string>
+              <string>d'Robh</string>
+              <string>d'Ugahl</string>
+              <string>d'Ulguhr</string>
               <string>d'Yavohl</string>
+              <string>h'Azajh</string>
+              <string>he'Soyam</string>
               <string>i'Anogh</string>
               <string>i'Asgih</string>
               <string>i'Ughahl</string>
+              <string>u'Zumimvh</string>
             </Values>
           </NameGroup>
         </SecondNames>
