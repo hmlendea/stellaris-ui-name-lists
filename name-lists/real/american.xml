@@ -177,6 +177,14 @@
           </Values>
         </NameGroup>
       </Rivers>
+      <Airports>
+        <NameGroup>
+          <Name>Airports</Name>
+          <Values>
+            <string>John F. Kennedy</string>
+          </Values>
+        </NameGroup>
+      </Airports>
     </Places>
     <GreatPeople>
       <Explorers>
@@ -434,18 +442,6 @@
         </NameGroup>
       </Science>
     </Ships>
-    <Stations>
-      <Starbases>
-        <Starports>
-          <NameGroup>
-            <Name>Airports</Name>
-            <Values>
-              <string>John F. Kennedy</string>
-            </Values>
-          </NameGroup>
-        </Starports>
-      </Starbases>
-    </Stations>
     <Armies>
       <AssaultArmy>
         <NameGroup>

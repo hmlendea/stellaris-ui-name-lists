@@ -63,6 +63,16 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Airports>
+        <NameGroup>
+          <Name>Airports</Name>
+          <Values>
+            <string>Gander</string>
+            <string>LeBlanc</string>
+            <string>Stanfield</string>
+          </Values>
+        </NameGroup>
+      </Airports>
     </Places>
     <GreatPeople>
       <LeadersTier1>
@@ -115,19 +125,5 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <Stations>
-      <Starbases>
-        <Starports>
-          <NameGroup>
-            <Name>Airports</Name>
-            <Values>
-              <string>Gander</string>
-              <string>LeBlanc</string>
-              <string>Stanfield</string>
-            </Values>
-          </NameGroup>
-        </Starports>
-      </Starbases>
-    </Stations>
   </NameList>
 </ArrayOfNameList>

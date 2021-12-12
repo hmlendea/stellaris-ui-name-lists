@@ -93,6 +93,14 @@
           </Values>
         </NameGroup>
       </Rivers>
+      <Airports>
+        <NameGroup>
+          <Name>Airports</Name>
+          <Values>
+            <string>Heathrow</string>
+          </Values>
+        </NameGroup>
+      </Airports>
     </Places>
     <GreatPeople>
       <Scientists>
@@ -155,18 +163,6 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <Stations>
-      <Starbases>
-        <Starports>
-          <NameGroup>
-            <Name>Airports</Name>
-            <Values>
-              <string>Heathrow</string>
-            </Values>
-          </NameGroup>
-        </Starports>
-      </Starbases>
-    </Stations>
     <Planets>
       <Continental>
         <NameGroup>

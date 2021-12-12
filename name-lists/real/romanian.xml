@@ -135,6 +135,14 @@
           </Values>
         </NameGroup>
       </Seas>
+      <Airports>
+        <NameGroup>
+          <Name>Airports</Name>
+          <Values>
+            <string>Otopeni</string>
+          </Values>
+        </NameGroup>
+      </Airports>
     </Places>
     <GreatPeople>
       <Explorers>
@@ -295,18 +303,6 @@
         </NameGroup>
       </MythologicalCreatures>
     </BiosphereNames>
-    <Stations>
-      <Starbases>
-        <Starports>
-          <NameGroup>
-            <Name>Airports</Name>
-            <Values>
-              <string>Otopeni</string>
-            </Values>
-          </NameGroup>
-        </Starports>
-      </Starbases>
-    </Stations>
     <Planets>
       <Generic>
         <NameGroup>

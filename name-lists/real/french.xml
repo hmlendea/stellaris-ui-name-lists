@@ -105,6 +105,14 @@
           </Values>
         </NameGroup>
       </Lakes>
+      <Airports>
+        <NameGroup>
+          <Name>Airports</Name>
+          <Values>
+            <string>Charles de Gaulle</string>
+          </Values>
+        </NameGroup>
+      </Airports>
     </Places>
     <GreatPeople>
       <Explorers>
@@ -302,18 +310,6 @@
         </NameGroup>
       </Cruiser>
     </Ships>
-    <Stations>
-      <Starbases>
-        <Starports>
-          <NameGroup>
-            <Name>Airports</Name>
-            <Values>
-              <string>Charles de Gaulle</string>
-            </Values>
-          </NameGroup>
-        </Starports>
-      </Starbases>
-    </Stations>
     <Planets>
       <Gaia>
         <NameGroup>
