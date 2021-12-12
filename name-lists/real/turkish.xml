@@ -148,17 +148,17 @@
         <Weight>2</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tur-persons-male.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/turkish/persons/males.lst</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tur-persons-female.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/turkish/persons/females.lst</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tur-persons-surnames.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/turkish/persons/surnames.lst</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>

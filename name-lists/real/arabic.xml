@@ -314,7 +314,7 @@
         <Weight>7</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/ara-persons-male.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/arabic/persons/males.lst</Url>
           </NameGroup>
         </MaleFirstNames>
         <MaleRoyalFirstNames>
@@ -337,7 +337,7 @@
         </MaleRoyalFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/ara-persons-female.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/arabic/persons/females.lst</Url>
           </NameGroup>
         </FemaleFirstNames>
         <FemaleRoyalFirstNames>
@@ -358,7 +358,7 @@
         </FemaleRoyalFirstNames>
         <SecondNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/ara-persons-surnames.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/arabic/persons/surnames.lst</Url>
           </NameGroup>
         </SecondNames>
         <RoyalSecondNames>

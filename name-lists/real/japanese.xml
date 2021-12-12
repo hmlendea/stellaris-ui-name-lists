@@ -350,7 +350,7 @@
         <Weight>4</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/jpn-persons-male.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/japanese/persons/males.lst</Url>
           </NameGroup>
         </MaleFirstNames>
         <MaleRoyalFirstNames>
@@ -367,7 +367,7 @@
         </MaleRoyalFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/jpn-persons-female.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/japanese/persons/females.lst</Url>
           </NameGroup>
         </FemaleFirstNames>
         <FemaleRoyalFirstNames>
@@ -386,7 +386,7 @@
         </FemaleRoyalFirstNames>
         <SecondNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/jpn-persons-surnames.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/japanese/persons/surnames.lst</Url>
           </NameGroup>
         </SecondNames>
         <RoyalSecondNames>

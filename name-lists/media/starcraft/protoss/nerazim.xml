@@ -154,12 +154,12 @@
         <Weight>24</Weight>
         <MaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-male-nerazim.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft/protoss/nerazim/persons/males.lst</Url>
           </NameGroup>
         </MaleFullNames>
         <FemaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft-protoss-persons-female-nerazim.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft/protoss/nerazim/persons/females.lst</Url>
           </NameGroup>
         </FemaleFullNames>
       </CharacterNames>

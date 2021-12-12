@@ -16,7 +16,7 @@
       <Cities>
         <NameGroup>
           <Name>Cities</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-ayleid-ruins.txt</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists//elder-scrolls/ayleid-ruins.txt</Url>
         </NameGroup>
       </Cities>
     </Places>
@@ -24,7 +24,7 @@
       <Generic>
         <NameGroup>
           <Name>Cities</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-ayleid-ruins.txt</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists//elder-scrolls/ayleid-ruins.txt</Url>
         </NameGroup>
       </Generic>
     </Planets>

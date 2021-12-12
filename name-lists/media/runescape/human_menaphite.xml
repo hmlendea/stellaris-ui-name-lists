@@ -24,7 +24,7 @@
       <Cities>
         <NameGroup>
           <Name>Cities - RuneScape</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-menaphos-settlements.txt</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape/human/menaphite/locations/settlements.lst</Url>
         </NameGroup>
       </Cities>
     </Places>

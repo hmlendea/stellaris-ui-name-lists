@@ -17,12 +17,12 @@
         <Weight>100</Weight>
         <MaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/divinity-demon-persons-male.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/divinity/demonic/persons/males.lst</Url>
           </NameGroup>
         </MaleFullNames>
         <FemaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/divinity-demon-persons-female.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/divinity/demonic/persons/females.lst</Url>
           </NameGroup>
         </FemaleFullNames>
       </CharacterNames>

@@ -12,7 +12,7 @@
       </NameGroup>
       <NameGroup>
         <Name>Denonyms - Clans</Name>
-        <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-goblin-clans.txt</Url>
+        <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape/goblins/groups/clans.lst</Url>
       </NameGroup>
     </Denonyms>
     <Characters>
@@ -21,12 +21,12 @@
         <Weight>100</Weight>
         <MaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-goblin-persons-male.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape/goblins/persons/males.lst</Url>
           </NameGroup>
         </MaleFullNames>
         <FemaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-goblin-persons-female.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape/goblins/persons/females.lst</Url>
           </NameGroup>
         </FemaleFullNames>
       </CharacterNames>

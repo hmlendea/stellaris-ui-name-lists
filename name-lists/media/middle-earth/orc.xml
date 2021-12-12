@@ -17,7 +17,7 @@
         <Weight>100</Weight>
         <FullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/middle-earth/orcish/persons-male.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/middle-earth/orcish/persons/males.lst</Url>
           </NameGroup>
         </FullNames>
       </CharacterNames>

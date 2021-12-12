@@ -28,17 +28,17 @@
         <Weight>100</Weight>
         <MaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/divinity-dwarf-person-male.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/divinity/dwarven/persons/males.lst</Url>
           </NameGroup>
         </MaleFullNames>
         <FemaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/divinity-dwarf-person-female.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/divinity/dwarven/persons/females.lst</Url>
           </NameGroup>
         </FemaleFullNames>
         <SecondNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/divinity-dwarf-person-surname.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/divinity/dwarven/persons/surnames.lst</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>
