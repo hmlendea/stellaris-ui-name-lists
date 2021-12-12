@@ -15,6 +15,7 @@
       <Generic>
         <NameGroup>
           <Values>
+            <string>Drengi</string>
             <string>Kona</string>
             <string>Kora</string>
             <string>Kynda</string>
@@ -44,7 +45,6 @@
         <FirstNames>
           <NameGroup>
             <Values>
-              <string>Drengi</string>
               <string>Kona</string>
               <string>Krindar</string>
             </Values>

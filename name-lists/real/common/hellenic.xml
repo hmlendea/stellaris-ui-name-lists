@@ -496,7 +496,6 @@
       </Battleship>
       <Titan>
         <NameGroup>
-          <Name></Name>
           <Values>
             <string>Heracles</string>
           </Values>

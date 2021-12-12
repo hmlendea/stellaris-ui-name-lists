@@ -263,7 +263,6 @@
     <Ships>
       <Juggernaut>
         <NameGroup>
-          <Name></Name>
           <Values>
             <string>Armageddon</string>
             <string>Calamity</string>

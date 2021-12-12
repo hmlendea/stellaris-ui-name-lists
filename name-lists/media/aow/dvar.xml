@@ -55,23 +55,23 @@
     <Characters>
       <CharacterNames>
         <Id>dvar</Id>
-        <Weight>100</Weight>
+        <Weight>1</Weight>
         <MaleFirstNames>
           <NameGroup>
-          <Name>Male first names - Age of Wonders: Planetfall</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-persons-male.txt</Url>
+            <Name>Male first names - Age of Wonders: Planetfall</Name>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-persons-male.txt</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-          <Name>Female first names - Age of Wonders: Planetfall</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-persons-female.txt</Url>
+            <Name>Female first names - Age of Wonders: Planetfall</Name>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-persons-female.txt</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-          <Name>Surnames - Age of Wonders: Planetfall</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-persons-surnames.txt</Url>
+            <Name>Surnames - Age of Wonders: Planetfall</Name>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-persons-surnames.txt</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>
