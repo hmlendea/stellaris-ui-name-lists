@@ -117,8 +117,8 @@ build "ui_extra_humans_american_usa"    "Human - American USA"      "L" \
     media/other/human/english_int \
     real/common/_
 build "ui_extra_humans_arabic"          "Human - Arabic"            "L" \
-    real/egyptian real/jordanian real/syrian \
-    real/arabic \
+    real/arabic/berber rreal/arabic/egyptian real/arabic/iraqi real/arabic/jordanian real/arabic/kuwaiti real/arabic/moroccan real/arabic/palestinian real/arabic/saudi \
+    real/arabic/syrian real/arabic/uae real/arabic/_ \
     media/other/human/arabic media/runescape/human_kharidian \
     real/common/_
 build "ui_extra_humans_asian"           "Human - Asian"             "L" \
@@ -282,15 +282,18 @@ build "ui_extra_humans_yugoslavic"      "Human - Yugoslavic"        "L" \
     real/common/european real/common/slavic real/common/yugoslavic \
     media/other/human/croatian media/other/human/slavic \
     real/common/_
-build "ui_extra_humans_extended"        "Human - *Extended*"        "L" \
-    real/afghan real/african real/algerian real/american real/angolan real/arabic real/argentinian real/armenian real/australian real/austrian real/austronesian \
+build "ui_extra_humans_extended"        "Human - *Extended*"          "L" \
+    real/afghan real/african real/algerian real/american real/angolan \
+    real/arabic/berber rreal/arabic/egyptian real/arabic/iraqi real/arabic/jordanian real/arabic/kuwaiti real/arabic/moroccan real/arabic/palestinian real/arabic/saudi \
+    real/arabic/syrian real/arabic/uae real/arabic/_ \
+    real/argentinian real/armenian real/australian real/austrian real/austronesian \
     real/belarusian real/basque real/bosnian real/bengal real/brazilian real/breton real/bulgarian real/canadian real/catalan real/celtic real/chinese real/colombian \
-    real/congolese real/cornish real/croatian real/cuban real/cypriote real/czech real/danish real/dutch real/ecuadorian real/egyptian real/english real/estonian \
+    real/congolese real/cornish real/croatian real/cuban real/cypriote real/czech real/danish real/dutch real/ecuadorian real/english real/estonian \
     real/ethiopian real/filipino real/finnish real/french real/french_ivory real/german real/germanic real/greek real/greenlandic real/guatemalan real/hawaiian \
-    real/hebrew real/hindi real/hungarian real/icelandic real/icenic real/indian real/indonesian real/iranian real/italian real/irish real/japanese real/jordanian \
+    real/hebrew real/hindi real/hungarian real/icelandic real/icenic real/indian real/indonesian real/iranian real/italian real/irish real/japanese \
     real/kabyle real/kazakh real/kiribatian real/korean real/latvian real/lithuanian real/malaysian real/malian real/maori real/mauritanian real/mexican real/mongol \
     real/nahuatl real/nepali real/nigerian real/norwegian real/persian real/polish real/polynesian real/portuguese real/roman real/romanian real/russian real/scottish \
-    real/senegalese real/serbian real/shona real/slovakian real/slovenian real/somali real/spanish real/swahili real/swedish real/swiss real/syrian real/taiwanese \
+    real/senegalese real/serbian real/shona real/slovakian real/slovenian real/somali real/spanish real/swahili real/swedish real/swiss real/taiwanese \
     real/tajik real/tamil real/tibetan real/tswana real/tunisian real/turkish real/turkmen real/ukrainian real/urdu real/uyghur real/venezuelan real/vietnamese \
     real/welsh real/yoruba real/zambian real/zealandian real/zulu \
     \

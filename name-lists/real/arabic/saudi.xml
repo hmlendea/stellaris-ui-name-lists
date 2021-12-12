@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_saudi</Id>
+    <Name>Human - Saudi</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Saudi</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Saudi Arabia</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>'Asir</string>
+            <string>Bahah</string>
+            <string>Eastern Province</string>
+            <string>Ha'il</string>
+            <string>Jawf</string>
+            <string>Jizan</string>
+            <string>Madinah</string>
+            <string>Makkah</string>
+            <string>Najran</string>
+            <string>Northern Borders</string>
+            <string>Qassim</string>
+            <string>Riyadh</string>
+            <string>Tabuk</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Abha</string>
+            <string>Al Bahah</string>
+            <string>Al Jawf</string>
+            <string>Al Qunfudhah</string>
+            <string>Al-Mubarraz</string>
+            <string>Ar Rass</string>
+            <string>Buraydah</string>
+            <string>Dhahran</string>
+            <string>Gurayat</string>
+            <string>Jeddah</string>
+            <string>Khamis Mushayt</string>
+            <string>Muzahmiyya</string>
+            <string>Najran</string>
+            <string>Riyadh Al-Khabra</string>
+            <string>Riyadh</string>
+            <string>Sakakah</string>
+            <string>Sharurah</string>
+            <string>Tabuk</string>
+            <string>Taif</string>
+            <string>Unaizah</string>
+            <string>Yanbu</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_berber</Id>
+    <Name>Human - Berber</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Berber</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <GreatPeople>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists</Name>
+          <Values>
+            <string>Ibn Battuta</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+    </GreatPeople>
+  </NameList>
+</ArrayOfNameList>
