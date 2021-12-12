@@ -376,7 +376,7 @@ build "ui_extra_fun1" "Extra - Fungoid 1"       "R" ui/fun1
 build "ui_extra_hum1" "Extra - Humanoid 1"      "R" ui/hum1
 build "ui_extra_hum2" "Extra - Humanoid 2"      "R" ui/hum2
 build "ui_extra_hum3" "Extra - Humanoid 3"      "R" ui/hum3
-build "ui_extra_hum3" "Extra - Humanoid 4"      "R" ui/hum4
+build "ui_extra_hum4" "Extra - Humanoid 4"      "R" ui/hum4
 build "ui_extra_mam1" "Extra - Mammalian 1"     "R" ui/mam1
 build "ui_extra_mam2" "Extra - Mammalian 2"     "R" ui/mam2
 build "ui_extra_mam3" "Extra - Mammalian 3"     "R" ui/mam3
