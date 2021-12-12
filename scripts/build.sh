@@ -117,7 +117,7 @@ build "ui_extra_humans_american_usa"    "Human - American USA"      "L" \
     media/other/human/english_int \
     real/common/_
 build "ui_extra_humans_arabic"          "Human - Arabic"            "L" \
-    real/arabic/berber rreal/arabic/egyptian real/arabic/iraqi real/arabic/jordanian real/arabic/kuwaiti real/arabic/moroccan real/arabic/palestinian real/arabic/saudi \
+    real/arabic/berber real/arabic/egyptian real/arabic/iraqi real/arabic/jordanian real/arabic/kuwaiti real/arabic/moroccan real/arabic/palestinian real/arabic/saudi \
     real/arabic/syrian real/arabic/uae real/arabic/_ \
     media/other/human/arabic media/runescape/human_kharidian \
     real/common/_
@@ -285,7 +285,7 @@ build "ui_extra_humans_yugoslavic"      "Human - Yugoslavic"        "L" \
     real/common/_
 build "ui_extra_humans_extended"        "Human - *Extended*"          "L" \
     real/afghan real/african real/algerian real/angolan \
-    real/arabic/berber rreal/arabic/egyptian real/arabic/iraqi real/arabic/jordanian real/arabic/kuwaiti real/arabic/moroccan real/arabic/palestinian real/arabic/saudi \
+    real/arabic/berber real/arabic/egyptian real/arabic/iraqi real/arabic/jordanian real/arabic/kuwaiti real/arabic/moroccan real/arabic/palestinian real/arabic/saudi \
     real/arabic/syrian real/arabic/uae real/arabic/_ \
     real/argentinian real/armenian real/austrian real/austronesian \
     real/belarusian real/basque real/bosnian real/bengal real/brazilian real/breton real/bulgarian real/catalan real/celtic real/chinese real/colombian \
