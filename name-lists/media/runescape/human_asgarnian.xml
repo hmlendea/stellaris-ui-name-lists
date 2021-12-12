@@ -23,13 +23,13 @@
       <Cities>
         <NameGroup>
           <Name>Cities - RuneScape</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-asgarnian-settlements.txt</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape/human/asgarnian/locations/settlements.lst</Url>
         </NameGroup>
       </Cities>
       <Lakes>
         <NameGroup>
           <Name>Lakes - RuneScape</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-asgarnian-lakes.txt</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape/human/asgarnian/locations/lakes.lst</Url>
         </NameGroup>
       </Lakes>
     </Places>
@@ -63,17 +63,17 @@
         <Weight>1</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-asgarnian-persons-male.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape/human/asgarnian/persons/males.lst</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-asgarnian-persons-female.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape/human/asgarnian/persons/females.lst</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-asgarnian-persons-surname.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape/human/asgarnian/persons/surnames.lst</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>

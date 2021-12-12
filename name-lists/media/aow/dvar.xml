@@ -15,7 +15,7 @@
       <Cities>
         <NameGroup>
           <Name>Cities - Age of Wonders: Planetfall</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-cities.txt</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/age-of-wonders-planetfall/dvar/locations/cities.lst</Url>
         </NameGroup>
       </Cities>
     </Places>
@@ -23,7 +23,7 @@
       <Generic>
         <NameGroup>
           <Name>Units - Age of Wonders: Planetfall</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-units.txt</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/age-of-wonders-planetfall/dvar/units/units.lst</Url>
         </NameGroup>
       </Generic>
     </Ships>
@@ -48,7 +48,7 @@
       <Generic>
         <NameGroup>
           <Name>Cities - Age of Wonders: Planetfall</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-cities.txt</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/age-of-wonders-planetfall/dvar/locations/cities.lst</Url>
         </NameGroup>
       </Generic>
     </Planets>
@@ -59,19 +59,19 @@
         <MaleFirstNames>
           <NameGroup>
             <Name>Male first names - Age of Wonders: Planetfall</Name>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-persons-male.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/age-of-wonders-planetfall/dvar/persons/males.lst</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
             <Name>Female first names - Age of Wonders: Planetfall</Name>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-persons-female.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/age-of-wonders-planetfall/dvar/persons/females.lst</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
             <Name>Surnames - Age of Wonders: Planetfall</Name>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aowp-dvar-persons-surnames.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/age-of-wonders-planetfall/dvar/persons/surnames/neutral.lst</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>

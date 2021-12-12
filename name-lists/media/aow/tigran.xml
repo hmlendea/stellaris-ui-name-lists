@@ -15,7 +15,7 @@
       <Cities>
         <NameGroup>
           <Name>Cities - Age of Wonders 3</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-tigran-cities.txt</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/age-of-wonders/tigran/locations/cities.lst</Url>
         </NameGroup>
       </Cities>
     </Places>
@@ -23,7 +23,7 @@
       <Forts>
         <NameGroup>
           <Name>Fortresses - Age of Wonders 3</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-tigran-fortresses.txt</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/age-of-wonders/tigran/locations/fortresses.lst</Url>
         </NameGroup>
       </Forts>
     </Warfare>
@@ -46,7 +46,7 @@
       <Generic>
         <NameGroup>
           <Name>Cities - Age of Wonders 3</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-tigran-cities.txt</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/age-of-wonders/tigran/locations/cities.lst</Url>
         </NameGroup>
       </Generic>
     </Planets>
@@ -56,17 +56,17 @@
         <Weight>100</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-tigran-persons-male.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/age-of-wonders/tigran/persons/males.lst</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-tigran-persons-female.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/age-of-wonders/tigran/persons/females.lst</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/aow-tigran-persons-surnames.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/age-of-wonders/tigran/persons/surnames.lst</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>

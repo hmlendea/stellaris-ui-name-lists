@@ -183,27 +183,27 @@
         <Weight>100</Weight>
         <MaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-dremora-persons-male.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists//elder-scrolls/dremora/persons/males.lst</Url>
           </NameGroup>
         </MaleFullNames>
         <MaleRoyalFirstNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-dremora-persons-male.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists//elder-scrolls/dremora/persons/males.lst</Url>
           </NameGroup>
         </MaleRoyalFirstNames>
         <FemaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-dremora-persons-female.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists//elder-scrolls/dremora/persons/females.lst</Url>
           </NameGroup>
         </FemaleFullNames>
         <FemaleRoyalFirstNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-dremora-persons-female.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists//elder-scrolls/dremora/persons/females.lst</Url>
           </NameGroup>
         </FemaleRoyalFirstNames>
         <RoyalSecondNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/tes-dremora-persons-surnames.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists//elder-scrolls/dremora/persons/surnames.lst</Url>
           </NameGroup>
         </RoyalSecondNames>
       </CharacterNames>

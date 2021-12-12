@@ -25,7 +25,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/nms-planets.txt</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/no-mans-sky/locations/planets.lst</Url>
         </NameGroup>
       </Generic>
     </Planets>
@@ -35,7 +35,7 @@
         <Weight>100</Weight>
         <FullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/nms-traveller-persons.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/no-mans-sky/traveller/persons/neutral.lst</Url>
           </NameGroup>
         </FullNames>
       </CharacterNames>

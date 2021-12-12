@@ -23,13 +23,13 @@
       <Cities>
         <NameGroup>
           <Name>Cities - RuneScape</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-kandarin-settlements.txt</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape/human/kandarin/locations/settlements.lst</Url>
         </NameGroup>
       </Cities>
       <Rivers>
         <NameGroup>
           <Name>Rivers - RuneScape</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape-kandarin-rivers.txt</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape/human/kandarin/locations/rivers.lst</Url>
         </NameGroup>
       </Rivers>
     </Places>
