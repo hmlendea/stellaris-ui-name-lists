@@ -419,6 +419,7 @@ build "ui_extra_mam3" "Extra - Mammalian 3"     "R" ui/mam3
 build "ui_extra_mol1" "Extra - Molluscoid 1"    "R" ui/mol1
 build "ui_extra_mol2" "Extra - Molluscoid 2"    "R" ui/mol2
 build "ui_extra_pla1" "Extra - Plantoid 1"      "R" ui/pla1
+build "ui_extra_pla2" "Extra - Plantoid 2"      "R" ui/pla2
 build "ui_extra_rep1" "Extra - Reptillian 1"    "R" ui/rep1
 build "ui_extra_rep2" "Extra - Reptillian 2"    "R" ui/rep2
 build "ui_extra_rep3" "Extra - Reptillian 3"    "R" ui/rep3
