@@ -38,3 +38,29 @@ validateNameLists_multiLine "\n\s*<[^N][a-zA-Z]*[^p]>\n\s*<Name>" # <Name> outsi
 validateNameLists_multiLine "\n(\s*)<[a-zA-Z]*>\n\1<[a-zA-Z]*>"
 
 validateNameLists "<Url>https://github.com" # Non-raw GitHub URLs
+
+# Validate URLs
+
+[ ! -d ".cache" ] && mkdir ".cache"
+
+for URL in $(find name-lists -type f -name "*.xml" | \
+    xargs grep "<Url>" | \
+    sed 's/^.*<Url>\(.*\)<\/Url>.*$/\1/g' | \
+    sort | uniq); do
+    CACHE_KEY=$(echo "${URL}" | sed 's/[:\/]//g')
+    CACHE_FILE=".cache/${CACHE_KEY}"
+    CONTENT=""
+
+    if [ -f "${CACHE_FILE}" ]; then
+        CONTENT=$(cat "${CACHE_FILE}")
+    else
+        CONTENT=$(curl --silent "${URL}")
+    fi
+
+    if [[ "${CONTENT}" == "404: Not Found" ]] \
+    || [[ "${CONTENT}" == *">Moved Permanently<"* ]] ; then
+        echo "${URL}"
+    else
+        echo "${CONTENT}" > "${CACHE_FILE}"
+    fi
+done
