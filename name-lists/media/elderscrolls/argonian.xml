@@ -52,7 +52,7 @@
       <Cities>
         <NameGroup>
           <Name>Cities</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists//elder-scrolls/argonian-settlements/locations/cities.lst</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/elder-scrolls/argonian/locations/cities.lst</Url>
         </NameGroup>
       </Cities>
       <Lakes>
@@ -106,7 +106,7 @@
       <Generic>
         <NameGroup>
           <Name>Cities</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists//elder-scrolls/argonian-settlements/locations/cities.lst</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/elder-scrolls/argonian/locations/cities.lst</Url>
         </NameGroup>
         <NameGroup>
           <Name>Markov-generated based on male and female single-word names</Name>
@@ -1117,7 +1117,7 @@
       <Tomb>
         <NameGroup>
           <Name>Ruins</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists//elder-scrolls/argonian-ruins.txt</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/elder-scrolls/argonian/locations/ruins.lst</Url>
         </NameGroup>
       </Tomb>
     </Planets>
@@ -1127,12 +1127,12 @@
         <Weight>66</Weight>
         <MaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists//elder-scrolls/argonian-persons-male-singleword.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/elder-scrolls/argonian/persons/single-word/males.lst</Url>
           </NameGroup>
         </MaleFullNames>
         <FemaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists//elder-scrolls/argonian-persons-female-singleword.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/elder-scrolls/argonian/persons/single-word/females.lst</Url>
           </NameGroup>
         </FemaleFullNames>
       </CharacterNames>
@@ -1141,12 +1141,12 @@
         <Weight>33</Weight>
         <MaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists//elder-scrolls/argonian-persons-male-hyphenated.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/elder-scrolls/argonian/persons/hyphenated/males.lst</Url>
           </NameGroup>
         </MaleFullNames>
         <FemaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists//elder-scrolls/argonian-persons-female-hyphenated.txt</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/elder-scrolls/argonian/persons/hyphenated/females.lst</Url>
           </NameGroup>
         </FemaleFullNames>
       </CharacterNames>
