@@ -17,7 +17,7 @@
         <Weight>100</Weight>
         <MaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists//elder-scrolls/goblin/persons/males.lst</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/elder-scrolls/goblin/persons/males.lst</Url>
           </NameGroup>
         </MaleFullNames>
       </CharacterNames>

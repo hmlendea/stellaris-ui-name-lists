@@ -52,7 +52,7 @@
       <Cities>
         <NameGroup>
           <Name>Cities</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists//elder-scrolls/khajiit-settlements/locations/cities.lst</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/elder-scrolls/taagra/locations/cities.lst</Url>
         </NameGroup>
       </Cities>
       <Forests>
@@ -271,7 +271,7 @@
       <Generic>
         <NameGroup>
           <Name>Cities</Name>
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists//elder-scrolls/khajiit-settlements/locations/cities.lst</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/elder-scrolls/taagra/locations/cities.lst</Url>
         </NameGroup>
         <NameGroup>
           <Name>Markov-generated based on male and female single-word names</Name>
@@ -1286,12 +1286,12 @@
         <Weight>100</Weight>
         <MaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists//elder-scrolls/khajiit/persons/males.lst</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/elder-scrolls/taagra/persons/males.lst</Url>
           </NameGroup>
         </MaleFullNames>
         <FemaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists//elder-scrolls/khajiit/persons/males.lst</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/elder-scrolls/taagra/persons/males.lst</Url>
           </NameGroup>
         </FemaleFullNames>
       </CharacterNames>
