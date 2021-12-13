@@ -8,10 +8,6 @@
         <Name>Denonyms</Name>
         <Values>
           <string>African</string>
-          <string>Kenyan</string>
-          <string>Mossi</string>
-          <string>Namibian</string>
-          <string>Sudanese</string>
           <string>Ugandan</string>
           <string>Zimbo</string>
         </Values>
@@ -22,30 +18,17 @@
         <NameGroup>
           <Name>Countries</Name>
           <Values>
-            <string>Burkina Faso</string>
-            <string>Chad</string>
             <string>Djibouti</string>
-            <string>Eritrea</string>
             <string>Ghana</string>
-            <string>Kenya</string>
-            <string>Liberia</string>
             <string>Madagascar</string>
             <string>Mozambique</string>
-            <string>Namibia</string>
             <string>Sierra Leone</string>
             <string>South Africa</string>
-            <string>Sudan</string>
             <string>Uganda</string>
           </Values>
         </NameGroup>
       </Countries>
       <Cities>
-        <NameGroup>
-          <Name>Cities - Chad</Name>
-          <Values>
-            <string>N'Djamena</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - Djibouti</Name>
           <Values>
@@ -53,28 +36,9 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Eritrea</Name>
-          <Values>
-            <string>Asmara</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Ghana</Name>
           <Values>
             <string>Accra</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Kenya</Name>
-          <Values>
-            <string>Mombasa</string>
-            <string>Nairobi</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Liberia</Name>
-          <Values>
-            <string>Monrovia</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -90,12 +54,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Namibia</Name>
-          <Values>
-            <string>Windhoek</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Sierra Leone</Name>
           <Values>
             <string>Freetown</string>
@@ -108,12 +66,6 @@
             <string>Port Elizabeth</string>
             <string>Pretoria</string>
             <string>Ekurhuleni</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Sudan</Name>
-          <Values>
-            <string>Khartoum</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -136,44 +88,6 @@
         </NameGroup>
       </Rivers>
     </Places>
-    <GreatPeople>
-      <Heroes>
-        <NameGroup>
-          <Name>Heroes - Mossi</Name>
-          <Values>
-            <string>Yennenga</string>
-          </Values>
-        </NameGroup>
-      </Heroes>
-      <LabourDeities>
-        <NameGroup>
-          <Name>Deities - Igbo</Name>
-          <Values>
-            <string>Ikenga</string>
-          </Values>
-        </NameGroup>
-      </LabourDeities>
-    </GreatPeople>
-    <Warfare>
-      <Weapons>
-        <Throwables>
-          <NameGroup>
-            <Name>Throwables - Azande</Name>
-            <Values>
-              <string>Kpinga</string>
-            </Values>
-          </NameGroup>
-        </Throwables>
-        <Swords>
-          <NameGroup>
-            <Name>Swords - Sudan, Chad, Eritrea</Name>
-            <Values>
-              <string>Kaskara</string>
-            </Values>
-          </NameGroup>
-        </Swords>
-      </Weapons>
-    </Warfare>
     <BiosphereNames>
       <Animals>
         <NameGroup>

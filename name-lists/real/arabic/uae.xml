@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_uae</Id>
+    <Name>Human - Arabic UAE</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Arab</string>
+          <string>Arabian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>United Arab Emirates</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Abu Dhabi</string>
+            <string>Ajman</string>
+            <string>Dubai</string>
+            <string>Fujairah</string>
+            <string>Ras Al Khaimah</string>
+            <string>Sharjah</string>
+            <string>Umm Al Quwain</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Abu Dhabi</string>
+            <string>Ajman</string>
+            <string>Al Ain</string>
+            <string>Al Madam</string>
+            <string>Al Quoz</string>
+            <string>Ar-Rams</string>
+            <string>Dhaid</string>
+            <string>Dibba Al-Fujairah</string>
+            <string>Dibba Al-Hish</string>
+            <string>Dubai</string>
+            <string>Fujairah</string>
+            <string>Ghayathi</string>
+            <string>Hatta</string>
+            <string>Jebel Ali</string>
+            <string>Kalba</string>
+            <string>Khor Fakkan</string>
+            <string>Liwa Oasis</string>
+            <string>Madinat Zayed</string>
+            <string>Ras Al Khaimah City</string>
+            <string>Ruwais</string>
+            <string>Sharjah</string>
+            <string>Umm Al Quwain</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+  </NameList>
+</ArrayOfNameList>
