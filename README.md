@@ -35,7 +35,7 @@ Here are a few ways in which you can do so:
  - Raising a new [issue](https://github.com/hmlendea/stellaris-ui-name-lists/issues) for this project
  - Creating a git pull request _(This requires git knowledge)_
 
-# Universul Unfinitum Collection
+# Universul Infinitum Collection
 
  - [Character Traits](https://github.com/hmlendea/stellaris-ui-character-traits)
  - [Deposit Blockers](https://github.com/hmlendea/stellaris-ui-deposit-blockers)
