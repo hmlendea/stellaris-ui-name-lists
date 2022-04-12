@@ -277,6 +277,7 @@
             <Values>
               <string>Huojian</string> <!-- Incendiary arrow -->
               <string>Huojiang</string> <!-- Flamethrower lance -->
+              <string>Pen Huo Qi</string> <!-- Piston Flamethrower -->
             </Values>
           </NameGroup>
         </Throwables>
