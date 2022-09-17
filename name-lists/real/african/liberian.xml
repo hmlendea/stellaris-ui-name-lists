@@ -20,6 +20,22 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Bomi</string>
+            <string>Bong</string>
+            <string>Gbarpolu</string>
+            <string>Gbarpolu</string>
+            <string>Lofa</string>
+            <string>Margibi</string>
+            <string>Nimba</string>
+            <string>Rivercess</string>
+            <string>Sinoe</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities</Name>

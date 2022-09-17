@@ -42,8 +42,9 @@
         <NameGroup>
           <Name>Cities - Grand Theft Auto</Name>
           <Values>
-            <string>Liberty</string>
-            <string>Vice</string>
+            <string>Alderney City</string>
+            <string>Liberty City</string>
+            <string>Vice City</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -171,7 +172,7 @@
         <NameGroup>
           <Name>Cities - Grand Theft Auto</Name>
           <Values>
-            <string>Vice</string>
+            <string>Vice City</string>
           </Values>
         </NameGroup>
       </Tropical>
@@ -179,7 +180,8 @@
         <NameGroup>
           <Name>Cities - Grand Theft Auto</Name>
           <Values>
-            <string>Liberty</string>
+            <string>Alderney City</string>
+            <string>Liberty City</string>
           </Values>
         </NameGroup>
       </Continental>

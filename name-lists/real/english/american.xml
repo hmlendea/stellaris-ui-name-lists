@@ -303,6 +303,18 @@
       </GeneralsTier3>
     </GreatPeople>
     <Companies>
+      <AutomotiveManufacturers>
+        <NameGroup>
+          <Name>Automotive Manufacturers</Name>
+          <Values>
+            <string>Ford</string>
+            <string>General Motors</string>
+            <string>Harley-Davidson</string>
+            <string>Paccar</string>
+            <string>Tesla</string>
+          </Values>
+        </NameGroup>
+      </AutomotiveManufacturers>
       <AircraftManufacturers>
         <NameGroup>
           <Name>Aircraft manufacturers</Name>
@@ -437,7 +449,13 @@
         <NameGroup>
           <Name>Space Shuttles</Name>
           <Values>
+            <string>Atlantis</string>
+            <string>Challenger</string>
+            <string>Columbia</string>
             <string>Discovery</string>
+            <string>Endeavour</string>
+            <string>Enterprise</string>
+            <string>Pathfinder</string>
           </Values>
         </NameGroup>
       </Science>

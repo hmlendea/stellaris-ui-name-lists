@@ -20,10 +20,31 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Batha</string>
+            <string>Bahr el Gazel</string>
+            <string>Borkou</string>
+            <string>Guéra</string>
+            <string>Kanem</string>
+            <string>Lac</string>
+            <string>Mandoul</string>
+            <string>Ouaddaï</string>
+            <string>Salamat</string>
+            <string>Sila</string>
+            <string>Tandjilé</string>
+            <string>Tibesti</string>
+            <string>Wadi Fira</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities</Name>
           <Values>
+            <string>Moundou</string>
             <string>N'Djamena</string>
           </Values>
         </NameGroup>

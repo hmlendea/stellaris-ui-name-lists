@@ -20,6 +20,19 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Erongo</string>
+            <string>Khomas</string>
+            <string>Ohangwena</string>
+            <string>Omusati</string>
+            <string>Oshana</string>
+            <string>Zambezi</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities</Name>

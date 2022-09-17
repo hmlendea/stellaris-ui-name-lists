@@ -338,6 +338,14 @@
           </Values>
         </NameGroup>
       </WaterDeities>
+      <DestructionDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Perses</string>
+          </Values>
+        </NameGroup>
+      </DestructionDeities>
       <OtherDeities>
         <NameGroup>
           <Name>Deities</Name>

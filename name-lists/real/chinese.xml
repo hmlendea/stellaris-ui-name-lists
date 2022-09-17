@@ -227,6 +227,21 @@
     </GreatPeople>
     <Companies>
       <AircraftManufacturers>
+      <AutomotiveManufacturers>
+        <NameGroup>
+          <Name>Automotive Manufacturers</Name>
+          <Values>
+            <string>BAIC Group</string>
+            <string>Changan</string>
+            <string>Chery</string>
+            <string>Dongfeng Motor</string>
+            <string>FAW Group</string>
+            <string>Geely</string>
+            <string>Great Wall</string>
+            <string>SAIC Motor</string>
+          </Values>
+        </NameGroup>
+      </AutomotiveManufacturers>
         <NameGroup>
           <Name>Aircraft manufacturers</Name>
           <Values>

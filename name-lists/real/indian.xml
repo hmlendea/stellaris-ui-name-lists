@@ -145,6 +145,16 @@
       </LeadersTier3>
     </GreatPeople>
     <Companies>
+      <AutomotiveManufacturers>
+        <NameGroup>
+          <Name>Automotive Manufacturers</Name>
+          <Values>
+            <string>Ashok Leyland</string>
+            <string>Mahindra and Mahindra</string>
+            <string>Tata Motors</string>
+          </Values>
+        </NameGroup>
+      </AutomotiveManufacturers>
       <AircraftManufacturers>
         <NameGroup>
           <Name>Aircraft manufacturers</Name>

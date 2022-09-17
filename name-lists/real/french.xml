@@ -210,6 +210,16 @@
       </GeneralsTier3>
     </GreatPeople>
     <Companies>
+      <AutomotiveManufacturers>
+        <NameGroup>
+          <Name>Automotive Manufacturers</Name>
+          <Values>
+            <string>Citroën</string>
+            <string>Peugeot</string>
+            <string>Renault</string>
+          </Values>
+        </NameGroup>
+      </AutomotiveManufacturers>
       <AircraftManufacturers>
         <NameGroup>
           <Name>Aircraft manufacturers</Name>

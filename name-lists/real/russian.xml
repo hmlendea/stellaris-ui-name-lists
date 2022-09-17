@@ -406,6 +406,13 @@
             <string>Sputnik</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Space Shuttles</Name>
+          <Values>
+            <string>Buran</string>
+            <string>Ptichka</string>
+          </Values>
+        </NameGroup>
       </Science>
     </Ships>
     <Armies>

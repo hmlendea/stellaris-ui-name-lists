@@ -101,6 +101,16 @@
     </GreatPeople>
     <Companies>
       <AircraftManufacturers>
+      <AutomotiveManufacturers>
+        <NameGroup>
+          <Name>Automotive Manufacturers</Name>
+          <Values>
+            <string>Aston Martin</string>
+            <string>Rover</string>
+            <string>Vauxhall</string>
+          </Values>
+        </NameGroup>
+      </AutomotiveManufacturers>
         <NameGroup>
           <Name>Aircraft manufacturers</Name>
           <Values>
