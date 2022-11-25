@@ -27,9 +27,10 @@
             <string>Bomi</string>
             <string>Bong</string>
             <string>Gbarpolu</string>
-            <string>Gbarpolu</string>
+            <string>Grand Bassa</string>
             <string>Lofa</string>
             <string>Margibi</string>
+            <string>Maryland</string>
             <string>Nimba</string>
             <string>Rivercess</string>
             <string>Sinoe</string>
@@ -40,10 +41,21 @@
         <NameGroup>
           <Name>Cities</Name>
           <Values>
+            <string>Buchanan</string>
             <string>Monrovia</string>
           </Values>
         </NameGroup>
       </Cities>
+      <Forests>
+        <NameGroup>
+          <Name>Forests</Name>
+          <Values>
+            <string>Gibi</string>
+            <string>Gola</string>
+            <string>Kpelle</string>
+          </Values>
+        </NameGroup>
+      </Forests>
     </Places>
   </NameList>
 </ArrayOfNameList>
