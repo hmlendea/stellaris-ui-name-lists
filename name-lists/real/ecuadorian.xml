@@ -82,6 +82,26 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Antisana</string>
+            <string>Cayambe</string>
+            <string>Chimborazo</string>
+            <string>Cotacachi</string>
+            <string>Cotopaxi</string>
+            <string>Imbabura</string>
+            <string>Pasochoa</string>
+            <string>Pichincha</string>
+            <string>Quilindaña</string>
+            <string>Reventador</string>
+            <string>Rumiñahui</string>
+            <string>Sincholagua</string>
+            <string>Tungurahua</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
       <Lakes>
         <NameGroup>
           <Name>Lakes</Name>
@@ -89,7 +109,7 @@
             <string>Cuicocha</string>
             <string>El Cajas</string>
             <string>Mojanda</string>
-            <string>Panacocha</string> 
+            <string>Panacocha</string>
             <string>San Pablo</string>
           </Values>
         </NameGroup>

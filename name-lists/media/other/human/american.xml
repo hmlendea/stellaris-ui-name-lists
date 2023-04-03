@@ -59,6 +59,13 @@
             <string>Whipple</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Cities - Saints Row</Name>
+          <Values>
+            <string>Steelport</string>
+            <string>Stilwater</string>
+          </Values>
+        </NameGroup>
       </Cities>
     </Places>
     <GreatPeople>
