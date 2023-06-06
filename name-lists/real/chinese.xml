@@ -226,7 +226,6 @@
       </JusticeDeities>
     </GreatPeople>
     <Companies>
-      <AircraftManufacturers>
       <AutomotiveManufacturers>
         <NameGroup>
           <Name>Automotive Manufacturers</Name>
@@ -242,6 +241,7 @@
           </Values>
         </NameGroup>
       </AutomotiveManufacturers>
+      <AircraftManufacturers>
         <NameGroup>
           <Name>Aircraft manufacturers</Name>
           <Values>
