@@ -36,15 +36,15 @@
             <string>Grayditch</string>
             <string>Megaton</string>
             <string>New Vegas</string>
-            <string>Rivet City</string>
+            <string>Rivet</string> <!-- Rivet City -->
           </Values>
         </NameGroup>
         <NameGroup>
           <Name>Cities - Grand Theft Auto</Name>
           <Values>
-            <string>Alderney City</string>
-            <string>Liberty City</string>
-            <string>Vice City</string>
+            <string>Alderney</string> <!-- Alderney City -->
+            <string>Liberty</string> <!-- Liberty City -->
+            <string>Vice</string> <!-- Vice City -->
           </Values>
         </NameGroup>
         <NameGroup>
@@ -142,7 +142,7 @@
             <string>Endaevour</string>
             <string>Enterprise</string>
             <string>Fortune</string>
-            <string>Grand City</string>
+            <string>Grand</string> <!-- Grand City -->
             <string>Heritage</string>
             <string>Liberty</string>
             <string>Praxis</string>
@@ -150,7 +150,7 @@
             <string>Reliance</string>
             <string>Sentinel</string>
             <string>Stalwart</string>
-            <string>Star City</string>
+            <string>Star</string> <!-- Star City -->
             <string>Vanguard</string>
             <string>Venture</string>
           </Values>
@@ -179,7 +179,7 @@
         <NameGroup>
           <Name>Cities - Grand Theft Auto</Name>
           <Values>
-            <string>Vice City</string>
+            <string>Vice</string> <!-- Vice City -->
           </Values>
         </NameGroup>
       </Tropical>
@@ -187,8 +187,8 @@
         <NameGroup>
           <Name>Cities - Grand Theft Auto</Name>
           <Values>
-            <string>Alderney City</string>
-            <string>Liberty City</string>
+            <string>Alderney</string> <!-- Alderney City -->
+            <string>Liberty</string> <!-- Liberty City -->
           </Values>
         </NameGroup>
       </Continental>
@@ -221,7 +221,7 @@
           <Name>Cities - Fallout</Name>
           <Values>
             <string>Megaton</string>
-            <string>Rivet City</string>
+            <string>Rivet</string> <!-- Rivet City -->
           </Values>
         </NameGroup>
       </Tomb>
