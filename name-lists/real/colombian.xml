@@ -93,6 +93,17 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Azufral</string>
+            <string>Pico Cristóbal Colón</string>
+            <string>Pico Simón Bolívar</string>
+            <string>Ritacuba Blanco</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
       <Lakes>
         <NameGroup>
           <Name>Lakes</Name>

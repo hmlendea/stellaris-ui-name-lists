@@ -26,6 +26,7 @@
           <Name>Cities</Name>
           <Values>
             <string>Auckland</string>
+            <string>Christchurch</string>
             <string>Wellington</string>
           </Values>
         </NameGroup>

@@ -12,6 +12,14 @@
       </NameGroup>
     </Denonyms>
     <GreatPeople>
+      <JusticeDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Amadioha</string>
+          </Values>
+        </NameGroup>
+      </JusticeDeities>
       <LabourDeities>
         <NameGroup>
           <Name>Deities</Name>
@@ -20,6 +28,22 @@
           </Values>
         </NameGroup>
       </LabourDeities>
+      <SkyDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Igwe</string>
+          </Values>
+        </NameGroup>
+      </SkyDeities>
+      <SunDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Anyanwu</string>
+          </Values>
+        </NameGroup>
+      </SunDeities>
     </GreatPeople>
   </NameList>
 </ArrayOfNameList>

@@ -135,6 +135,22 @@
       </Seas>
     </Places>
     <GreatPeople>
+      <DestructionDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Batara Kala</string>
+          </Values>
+        </NameGroup>
+      </DestructionDeities>
+      <TimeDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Batara Kala</string>
+          </Values>
+        </NameGroup>
+      </TimeDeities>
       <LeadersTier1>
         <NameGroup>
           <Name>Leaders</Name>

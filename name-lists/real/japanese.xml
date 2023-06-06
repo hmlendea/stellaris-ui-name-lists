@@ -182,8 +182,9 @@
     <Companies>
       <AutomotiveManufacturers>
         <NameGroup>
-          <Name>Vehicle Manufacturers</Name>
+          <Name>Automotive Manufacturers</Name>
           <Values>
+            <string>Honda</string>
             <string>Nissan</string>
             <string>Suzuki</string>
             <string>Toyota</string>

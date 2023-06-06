@@ -219,6 +219,20 @@
         </NameGroup>
       </Scientists>
     </GreatPeople>
+    <Companies>
+      <AutomotiveManufacturers>
+        <NameGroup>
+          <Name>Automotive Manufacturers</Name>
+          <Values>
+            <string>Ducati</string>
+            <string>Ferrari</string>
+            <string>Fiat</string>
+            <string>Maserati</string>
+            <string>Piaggio</string>
+          </Values>
+        </NameGroup>
+      </AutomotiveManufacturers>
+    </Companies>
     <Warfare>
       <Weapons>
         <Swords>
