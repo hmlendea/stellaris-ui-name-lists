@@ -1,26 +1,22 @@
 #!/bin/bash
-
-STARTDIR="$(pwd)"
-SCRIPTSDIR="${STARTDIR}/scripts"
+source "scripts/common/paths.sh"
 
 MOD_ID="ui-name-lists"
 MOD_NAME="Universum Infinitum - Name Lists"
 STELLARIS_VERSION="3.2.*"
 
-BUILD_DIRECTORY_PATH="${STARTDIR}/build"
-OUTPUT_DIRECTORY_PATH="${STARTDIR}/out"
-OUTPUT_MOD_DIRECTORY_PATH="${OUTPUT_DIRECTORY_PATH}/${MOD_ID}"
+OUTPUT_MOD_DIRECTORY_PATH="${OUTPUT_DIR}/${MOD_ID}"
 OUTPUT_NAMELISTS_DIRECTORY_PATH="${OUTPUT_MOD_DIRECTORY_PATH}/common/name_lists"
 OUTPUT_LOCALISATION_DIRECTORY_PATH="${OUTPUT_MOD_DIRECTORY_PATH}/localisation/english"
 OUTPUT_LOCALISATION_FILE_PATH="${OUTPUT_LOCALISATION_DIRECTORY_PATH}/ui_names_l_english.yml"
-GENERATOR_EXECUTABLE="${STARTDIR}/stellaris-name-list-generator/StellarisNameListGenerator"
+GENERATOR_EXECUTABLE="${MOD_BUILDER_DIRECTORY}/StellarisNameListGenerator"
 
 MOD_THUMBNAIL_FILE_PATH="${OUTPUT_MOD_DIRECTORY_PATH}/thumbnail.png"
-MOD_DESCRIPTOR_PRIMARY_FILE_PATH="${OUTPUT_DIRECTORY_PATH}/${MOD_ID}.mod"
+MOD_DESCRIPTOR_PRIMARY_FILE_PATH="${OUTPUT_DIR}/${MOD_ID}.mod"
 MOD_DESCRIPTOR_SECONDARY_FILE_PATH="${OUTPUT_MOD_DIRECTORY_PATH}/descriptor.mod"
 
 if [[ $* != *--skip-updates* ]]; then
-    "${SCRIPTSDIR}"/update-builder.sh
+    "${SCRIPTS_DIR}"/update-builder.sh
 fi
 
 if [[ $* != *--skip-validation* ]]; then
@@ -33,8 +29,8 @@ if [[ $* != *--skip-validation* ]]; then
     fi
 fi
 
-[ ! -d "${BUILD_DIRECTORY_PATH}" ] && mkdir -p "${BUILD_DIRECTORY_PATH}"
-[ ! -d "${OUTPUT_DIRECTORY_PATH}" ] && mkdir -p "${OUTPUT_DIRECTORY_PATH}"
+[ ! -d "${BUILD_DIR}" ] && mkdir -p "${BUILD_DIR}"
+[ ! -d "${OUTPUT_DIR}" ] && mkdir -p "${OUTPUT_DIR}"
 [ ! -d "${OUTPUT_NAMELISTS_DIRECTORY_PATH}" ] && mkdir -p "${OUTPUT_NAMELISTS_DIRECTORY_PATH}"
 [ ! -d "${OUTPUT_LOCALISATION_DIRECTORY_PATH}" ] && mkdir -p "${OUTPUT_LOCALISATION_DIRECTORY_PATH}"
 
@@ -73,7 +69,7 @@ function build {
     NAMELIST_ID=$1 && shift
     NAMELIST_NAME=$1 && shift
     NAMELIST_ISLOCKED=$1 && shift
-    NAMELIST_FILE_PATH="${BUILD_DIRECTORY_PATH}/${NAMELIST_ID}.xml"
+    NAMELIST_FILE_PATH="${BUILD_DIR}/${NAMELIST_ID}.xml"
     OUTPUT_NAMELIST_FILE_PATH="${OUTPUT_NAMELISTS_DIRECTORY_PATH}/${NAMELIST_ID}.txt"
 
     echo "Building ${NAMELIST_ID}..."
