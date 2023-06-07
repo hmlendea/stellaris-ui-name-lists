@@ -1,0 +1,29 @@
+name: Nexus Mods
+
+on:
+  push:
+    tags:
+    - 'v*.*.*'
+
+jobs:
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+
+    - name: Download the release asset
+      run: wget "https://github.com/hmlendea/stellaris-ui-name-lists/releases/download/${{github.ref_name}}/ui-name-lists_${GITHUB_REF:11}.zip" -O "release.zip"
+
+    - name: Upload
+      uses: hmlendea/nexusmods-update@latest
+      with:
+        account_email_address: ${{secrets.NEXUS_EMAIL_ADDRESS}}
+        account_password: ${{secrets.NEXUS_PASSWORD}}
+        nexus_game_id: "stellaris"
+        nexus_mod_id: "77"
+        mod_file_name: "ui-name-lists"
+        mod_version: ${{github.ref_name}}
+        file_description: "Changelog: https://github.com/hmlendea/stellaris-ui-name-lists/releases/${{github.ref_name}}"
+        file_path: "release.zip"
