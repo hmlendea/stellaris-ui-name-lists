@@ -6,15 +6,6 @@
     <Places>
       <Cities>
         <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Franco-Iberia -->
-          <Values>
-            <string>Gran Éxito</string>
-            <string>Fidèle</string>
-            <string>Amparo</string>
-            <string>Valienta</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
           <Values>
             <string>Cullero</string>
@@ -25,15 +16,6 @@
     </Places>
     <Planets>
       <Generic>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Franco-Iberia -->
-          <Values>
-            <string>Gran Éxito</string>
-            <string>Fidèle</string>
-            <string>Amparo</string>
-            <string>Valienta</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
           <Values>
