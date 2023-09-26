@@ -38,12 +38,12 @@ printf '\xEF\xBB\xBF' > ${OUTPUT_LOCALISATION_FILE_PATH}
 printf "l_english:\n" >> ${OUTPUT_LOCALISATION_FILE_PATH}
 
 function merge {
-    OUTPUT_FILE_NAME=$1
+    local OUTPUT_FILE_NAME=$1
     shift 1
 
     head -2 "./name-lists/$1.xml" > "${OUTPUT_FILE_NAME}"
 
-    for NAME_LIST in "$@"; do
+    for NAME_LIST in $(get-namelists-merged ${@}); do
         tail -n +3 "./name-lists/${NAME_LIST}.xml" | head -n -1 >> "${OUTPUT_FILE_NAME}"
         echo " " >> "${OUTPUT_FILE_NAME}"
     done
@@ -160,10 +160,10 @@ ENGLISH_NAMELISTS=$(get-namelists-merged ${ENGLISH_AMERICAN_NAMELISTS} ${ENGLISH
 ###############
 ### FRENCH ###
 ###############
-FRENCH_AFRO_MEDIA_NAMELISTS=""
+FRENCH_AFRO_MEDIA_NAMELISTS="media/other/human/romance/french/common"
 FRENCH_AFRO_REAL_NAMELISTS="real/romance/french/ivorian real/common/_"
 FRENCH_AFRO_NAMELISTS=$(get-namelists-merged ${FRENCH_AFRO_REAL_NAMELISTS} ${FRENCH_AFRO_MEDIA_NAMELISTS})
-FRENCH_EURO_MEDIA_NAMELISTS="media/other/human/french/french"
+FRENCH_EURO_MEDIA_NAMELISTS="media/other/human/romance/french/french media/other/human/romance/french/common"
 FRENCH_EURO_REAL_NAMELISTS="real/romance/french/french real/common/european real/common/_"
 FRENCH_EURO_NAMELISTS=$(get-namelists-merged ${FRENCH_EURO_REAL_NAMELISTS} ${FRENCH_EURO_MEDIA_NAMELISTS})
 FRENCH_NAMELISTS=$(get-namelists-merged ${FRENCH_AFRO_NAMELISTS} ${FRENCH_EURO_NAMELISTS})
@@ -171,11 +171,11 @@ FRENCH_NAMELISTS=$(get-namelists-merged ${FRENCH_AFRO_NAMELISTS} ${FRENCH_EURO_N
 ###############
 ### IBERIAN ###
 ###############
-IBERIAN_ROMANCE_EURO_MEDIA_NAMELISTS=$(get-namelists-merged ${PORTUGUESE_EURO_MEDIA_NAMELISTS} ${SPANISH_EURO_MEDIA_NAMELISTS} media/other/human/iberic/catalan)
-IBERIAN_ROMANCE_EURO_REAL_NAMELISTS=$(get-namelists-merged ${PORTUGUESE_EURO_REAL_NAMELISTS} ${SPANISH_EURO_REAL_NAMELISTS} real/iberic/catalan real/iberian/common real/common/european real/common/_)
+IBERIAN_ROMANCE_EURO_MEDIA_NAMELISTS=$(get-namelists-merged ${PORTUGUESE_EURO_MEDIA_NAMELISTS} ${SPANISH_EURO_MEDIA_NAMELISTS} media/other/human/romance/iberian/catalan)
+IBERIAN_ROMANCE_EURO_REAL_NAMELISTS=$(get-namelists-merged ${PORTUGUESE_EURO_REAL_NAMELISTS} ${SPANISH_EURO_REAL_NAMELISTS} real/romance/iberian/catalan real/romance/iberian/common real/common/european real/common/_)
 IBERIAN_ROMANCE_EURO_NAMELISTS=$(get-namelists-merged ${IBERIAN_ROMANCE_EURO_REAL_NAMELISTS} ${IBERIAN_ROMANCE_EURO_MEDIA_NAMELISTS})
-IBERIAN_EURO_MEDIA_NAMELISTS=$(get-namelists-merged ${IBERIAN_ROMANCE_EURO_MEDIA_NAMELISTS} media/other/human/iberic/basque)
-IBERIAN_EURO_REAL_NAMELISTS=$(get-namelists-merged ${IBERIAN_ROMANCE_EURO_REAL_NAMELISTS} real/iberic/basque real/iberic/common real/common/european real/common/_)
+IBERIAN_EURO_MEDIA_NAMELISTS=$(get-namelists-merged ${IBERIAN_ROMANCE_EURO_MEDIA_NAMELISTS} media/other/human/basque)
+IBERIAN_EURO_REAL_NAMELISTS=$(get-namelists-merged ${IBERIAN_ROMANCE_EURO_REAL_NAMELISTS} real/basque real/romance/iberian/common real/common/european real/common/_)
 IBERIAN_EURO_NAMELISTS=$(get-namelists-merged ${IBERIAN_EURO_REAL_NAMELISTS} ${IBERIAN_EURO_MEDIA_NAMELISTS})
 IBERIAN_NAMELISTS=$(get-namelists-merged ${IBERIAN_EURO_NAMELISTS} ${PORTUGUESE_NAMELISTS} ${SPANISH_NAMELISTS})
 
@@ -196,14 +196,14 @@ LATIN_NAMELISTS=$(get-namelists-merged ${LATIN_REAL_NAMELISTS} ${LATIN_MEDIA_NAM
 ##################
 ### PORTUGUESE ###
 ##################
-PORTUGUESE_AFRICAN_MEDIA_NAMELISTS="media/other/human/iberic/portuguese/common"
-PORTUGUESE_AFRICAN_REAL_NAMELISTS="real/iberic/portuguese/angolan real/iberic/portuguese/common real/common/_"
+PORTUGUESE_AFRICAN_MEDIA_NAMELISTS="media/other/human/romance/iberian/portuguese/common"
+PORTUGUESE_AFRICAN_REAL_NAMELISTS="real/romance/iberian/portuguese/angolan real/romance/iberian/portuguese/common real/common/_"
 PORTUGUESE_AFRICAN_NAMELISTS=$(get-namelists-merged ${PORTUGUESE_AFRICAN_REAL_NAMELISTS} ${PORTUGUESE_AFRICAN_MEDIA_NAMELISTS})
-PORTUGUESE_EURO_MEDIA_NAMELISTS="media/other/human/iberic/portuguese/common"
-PORTUGUESE_EURO_REAL_NAMELISTS="real/iberic/portuguese/portuguese real/iberic/portuguese/common real/iberian/common real/common/european real/common/_"
+PORTUGUESE_EURO_MEDIA_NAMELISTS="media/other/human/romance/iberian/portuguese/common"
+PORTUGUESE_EURO_REAL_NAMELISTS="real/romance/iberian/portuguese/portuguese real/romance/iberian/portuguese/common real/romance/iberian/common real/common/european real/common/_"
 PORTUGUESE_EURO_NAMELISTS=$(get-namelists-merged ${PORTUGUESE_EURO_REAL_NAMELISTS} ${PORTUGUESE_EURO_MEDIA_NAMELISTS})
-PORTUGUESE_LATAM_MEDIA_NAMELISTS="media/other/human/iberic/portuguese/common"
-PORTUGUESE_LATAM_REAL_NAMELISTS="real/iberic/portuguese/brazilian real/iberic/portuguese/common real/common/_"
+PORTUGUESE_LATAM_MEDIA_NAMELISTS="media/other/human/romance/iberian/portuguese/common"
+PORTUGUESE_LATAM_REAL_NAMELISTS="real/romance/iberian/portuguese/brazilian real/romance/iberian/portuguese/common real/common/_"
 PORTUGUESE_LATAM_NAMELISTS=$(get-namelists-merged ${PORTUGUESE_LATAM_REAL_NAMELISTS} ${PORTUGUESE_LATAM_MEDIA_NAMELISTS})
 PORTUGUESE_NAMELISTS=$(get-namelists-merged ${PORTUGUESE_AFRICAN_NAMELISTS} ${PORTUGUESE_EURO_NAMELISTS} ${PORTUGUESE_LATAM_NAMELISTS})
 
@@ -223,11 +223,11 @@ ROMANCE_NAMELISTS=$(get-namelists-merged ${ROMANCE_EURO_NAMELISTS} ${FRENCH_NAME
 ###############
 ### SPANISH ###
 ###############
-SPANISH_EURO_MEDIA_NAMELISTS="media/other/human/iberic/spanish/spanish media/other/human/iberic/spanish/common"
-SPANISH_EURO_REAL_NAMELISTS="real/iberic/spanish/spanish real/iberic/spanish/common real/iberian/common real/common/european real/common/_"
+SPANISH_EURO_MEDIA_NAMELISTS="media/other/human/romance/iberian/spanish/spanish media/other/human/romance/iberian/spanish/common"
+SPANISH_EURO_REAL_NAMELISTS="real/romance/iberian/spanish/spanish real/romance/iberian/spanish/common real/romance/iberian/common real/common/european real/common/_"
 SPANISH_EURO_NAMELISTS=$(get-namelists-merged ${SPANISH_EURO_REAL_NAMELISTS} ${SPANISH_EURO_MEDIA_NAMELISTS})
-SPANISH_LATAM_MEDIA_NAMELISTS="media/other/human/iberic/spanish/mexican media/other/human/iberic/spanish/venezuelan media/other/human/iberic/spanish/common"
-SPANISH_LATAM_REAL_NAMELISTS="real/iberic/spanish/argentinian real/iberic/spanish/colombian real/iberic/spanish/cuban real/iberic/spanish/ecuadorian real/iberic/spanish/guatemalan real/iberic/spanish/mexican real/iberic/spanish/venezuelan real/iberic/spanish/common_american real/iberic/spanish/common real/common/_"
+SPANISH_LATAM_MEDIA_NAMELISTS="media/other/human/romance/iberian/spanish/mexican media/other/human/romance/iberian/spanish/venezuelan media/other/human/romance/iberian/spanish/common"
+SPANISH_LATAM_REAL_NAMELISTS="real/romance/iberian/spanish/argentinian real/romance/iberian/spanish/colombian real/romance/iberian/spanish/cuban real/romance/iberian/spanish/ecuadorian real/romance/iberian/spanish/guatemalan real/romance/iberian/spanish/mexican real/romance/iberian/spanish/venezuelan real/romance/iberian/spanish/common_american real/romance/iberian/spanish/common real/common/_"
 SPANISH_LATAM_NAMELISTS=$(get-namelists-merged ${SPANISH_LATAM_REAL_NAMELISTS} ${SPANISH_LATAM_MEDIA_NAMELISTS})
 SPANISH_NAMELISTS=$(get-namelists-merged ${SPANISH_EURO_NAMELISTS} ${SPANISH_LATAM_NAMELISTS})
 
@@ -278,7 +278,7 @@ build "ui_extra_humans_austronesian"    "Human - Austronesian"      "L" \
     real/austronesian \
     media/other/human/filipino media/other/human/indonesian media/other/human/malaysian media/other/human/maori \
     real/common/_
-build "ui_extra_humans_british"         "Human - British"           "L" ${ENGLISH_EURO_NAMELISTS} real/scottish real/welsh media/other/human/scottish
+build "ui_extra_humans_british"         "Human - British"           "L" ${ENGLISH_EURO_NAMELISTS} real/celtic/scottish real/celtic/welsh media/other/human/celtic/scottish
 build "ui_extra_humans_celtic"          "Human - Celtic"            "L" ${CELTIC_NAMELISTS}
 build "ui_extra_humans_chinese"         "Human - Chinese"           "L" \
     real/chinese real/taiwanese \
@@ -288,7 +288,7 @@ build "ui_extra_humans_chinese"         "Human - Chinese"           "L" \
 build "ui_extra_humans_english"         "Human - English"           "L" "${ENGLISH_NAMELISTS}"
 build "ui_extra_humans_european"        "Human - European"          "L" \
     ${CELTIC_NAMELISTS} ${ENGLISH_EURO_NAMELISTS} ${IBERIAN_EURO_NAMELISTS} ${ROMANCE_EURO_NAMELISTS} ${SLAVIC_NAMELISTS} \
-    real/austrian real/cypriot real/danish real/dutch real/estonian real/finnish real/german real/germanic real/greek real/hungarian real/icelandic real/latvian \
+    real/austrian real/cypriote real/danish real/dutch real/estonian real/finnish real/german real/germanic real/greek real/hungarian real/icelandic real/latvian \
     real/lithuanian real/norwegian real/swedish real/swiss \
     \
     real/common/german real/common/hellenic real/common/norse \

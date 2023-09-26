@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>other-media_human_celtic</Id>
-    <Name>Other Media - Human - Welsh</Name>
+    <Id>other-media_human_celtic_welsh</Id>
+    <Name>Other Media - Human - Celtic - Welsh</Name>
     <Places>
       <Cities>
         <NameGroup>
