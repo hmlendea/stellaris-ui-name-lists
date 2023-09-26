@@ -2,14 +2,12 @@
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
     <Id>human_common_slavic_yugoslavic</Id>
-    <Name>Human - Common - Slavic - Yugoslavic</Name>
+    <Name>Human - Slavic - Yugoslavic - Montenegrin</Name>
     <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
           <string>Montenegrin</string>
-          <string>Yugoslav</string>
-          <string>Yugoslavic</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -19,7 +17,6 @@
           <Name>Countries</Name>
           <Values>
             <string>Montenegro</string>
-            <string>Yugoslavia</string>
           </Values>
         </NameGroup>
       </Countries>
