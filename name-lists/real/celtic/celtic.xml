@@ -4,14 +4,6 @@
     <Id>human_celtic</Id>
     <Name>Human - Celtic</Name>
     <Places>
-      <Countries>
-        <NameGroup>
-          <Name>Countries</Name>
-          <Values>
-            <string>Britanny</string>
-          </Values>
-        </NameGroup>
-      </Countries>
       <Regions>
         <NameGroup>
           <Name>Islands</Name>

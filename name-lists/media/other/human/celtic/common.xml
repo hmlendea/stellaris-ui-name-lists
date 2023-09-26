@@ -9,7 +9,6 @@
           <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
           <Values>
             <string>Fraeport</string>
-            <string>Wynnedown</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -20,7 +19,6 @@
           <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
           <Values>
             <string>Fraeport</string>
-            <string>Wynnedown</string>
           </Values>
         </NameGroup>
         <NameGroup>
