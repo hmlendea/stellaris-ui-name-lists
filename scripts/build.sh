@@ -200,6 +200,16 @@ LATIN_MEDIA_NAMELISTS="media/other/human/romance/latin media/stellaris/human3"
 LATIN_REAL_NAMELISTS="real/romance/latin real/common/european real/common/_"
 LATIN_NAMELISTS=$(get-namelists-merged ${LATIN_REAL_NAMELISTS} ${LATIN_MEDIA_NAMELISTS})
 
+################
+### NORSE ###
+################
+NORSE_EURO_MEDIA_NAMELISTS="media/other/human/norse/danish media/other/human/norse/icelandic media/other/human/norse/norwegian media/other/human/norse/swedish media/other/human/norse/norse media/elderscrolls/atmoran media/elderscrolls/nord"
+NORSE_EURO_REAL_NAMELISTS="real/norse/danish real/norse/icelandic real/norse/norwegian real/norse/swedish real/norse/common real/common/european real/common/_"
+NORSE_EURO_NAMELISTS=$(get-namelists-merged ${NORSE_EURO_MEDIA_NAMELISTS} ${NORSE_EURO_REAL_NAMELISTS})
+NORSE_GLOBAL_MEDIA_NAMELISTS=$(get-namelists-merged ${NORSE_EURO_MEDIA_NAMELISTS} media/elderscrolls/atmoran media/elderscrolls/nord)
+NORSE_GLOBAL_REAL_NAMELISTS=$(get-namelists-merged ${NORSE_EURO_REAL_NAMELISTS} real/norse/greenlandic)
+NORSE_GLOBAL_NAMELISTS=$(get-namelists-merged ${NORSE_GLOBAL_REAL_NAMELISTS} ${NORSE_GLOBAL_MEDIA_NAMELISTS})
+
 ##################
 ### PORTUGUESE ###
 ##################
@@ -294,15 +304,12 @@ build "ui_extra_humans_chinese"         "Human - Chinese"           "L" \
     real/common/_
 build "ui_extra_humans_english"         "Human - English"           "L" "${ENGLISH_NAMELISTS}"
 build "ui_extra_humans_european"        "Human - European"          "L" \
-    ${CELTIC_NAMELISTS} ${ENGLISH_EURO_NAMELISTS} ${HELLENIC_NAMELISTS} ${IBERIAN_EURO_NAMELISTS} ${ROMANCE_EURO_NAMELISTS} ${SLAVIC_NAMELISTS} \
-    real/austrian real/danish real/dutch real/estonian real/finnish real/german real/germanic real/hungarian real/icelandic real/latvian \
-    real/lithuanian real/norwegian real/swedish real/swiss \
+    ${CELTIC_NAMELISTS} ${ENGLISH_EURO_NAMELISTS} ${HELLENIC_NAMELISTS} ${IBERIAN_EURO_NAMELISTS} ${NORSE_EURO_NAMELISTS} ${ROMANCE_EURO_NAMELISTS} ${SLAVIC_NAMELISTS} \
+    real/austrian real/dutch real/estonian real/finnish real/german real/germanic real/hungarian real/latvian real/lithuanian real/swiss \
     \
-    real/common/german real/common/norse \
+    real/common/german \
     \
-    media/elderscrolls/atmoran media/elderscrolls/nord  media/runescape/human_asgarnian media/runescape/human_kandarin media/runescape/human_misthalinian \
-    media/runescape/human media/other/human/danish media/other/human/german media/other/human/icelandic media/other/human/norse \
-    media/other/human/norwegian media/other/human/swedish media/other/human/swiss
+    media/runescape/human_asgarnian media/runescape/human_kandarin media/runescape/human_misthalinian media/runescape/human media/other/human/german media/other/human/swiss
 build "ui_extra_humans_franco-iberian"  "Human - Franco-Iberian"    "L" ${FRENCH_EURO_NAMELISTS} ${IBERIAN_EURO_NAMELISTS}
 build "ui_extra_humans_french"          "Human - French EU"         "L" ${FRENCH_EURO_NAMELISTS}
 build "ui_extra_humans_french_int"      "Human - French INT"        "L" ${FRENCH_NAMELISTS}
@@ -312,11 +319,8 @@ build "ui_extra_humans_german"          "Human - German"            "L" \
     media/other/human/austrian media/other/human/german media/other/human/swiss \
     real/common/_
 build "ui_extra_humans_germanic"        "Human - Germanic"          "L" \
-    real/austrian real/danish real/dutch real/german real/icelandic real/norwegian real/swedish real/swiss \
-    real/germanic real/common/european real/common/german real/common/norse \
-    media/elderscrolls/atmoran media/elderscrolls/nord \
-    media/other/human/austrian media/other/human/danish media/other/human/german media/other/human/icelandic media/other/human/norse media/other/human/norwegian \
-    media/other/human/swedish media/other/human/swiss \
+    ${NORSE_EURO_NAMELISTS} real/austrian real/dutch real/german real/swiss real/germanic real/common/german \
+    media/other/human/austrian media/other/human/german media/other/human/swiss \
     real/common/_
 build "ui_extra_humans_hellenic"        "Human - Hellenic"          "L" ${HELLENIC_NAMELISTS}
 build "ui_extra_humans_hindi"           "Human - Hindi"             "L" \
@@ -331,12 +335,7 @@ build "ui_extra_humans_japanese"        "Human - Japanese"          "L" \
     real/common/_
 build "ui_extra_humans_latino"          "Human - Latino"            "L" \
     "${SPANISH_LATAM_NAMELISTS}" "${PORTUGUESE_LATAM_NAMELISTS}" real/nahuatl real/common/_
-build "ui_extra_humans_norse"           "Human - Norse"             "L" \
-    real/danish real/icelandic real/norwegian real/swedish \
-    real/common/norse \
-    media/elderscrolls/atmoran media/elderscrolls/nord \
-    media/other/human/danish media/other/human/icelandic media/other/human/norse media/other/human/norwegian media/other/human/swedish \
-    real/common/_
+build "ui_extra_humans_norse"           "Human - Norse"             "L" ${NORSE_NAMELISTS}
 build "ui_extra_humans_portuguese"      "Human - Portuguese EU"     "L" ${PORTUGUESE_EURO_NAMELISTS}
 build "ui_extra_humans_portuguese_int"  "Human - Portuguese INT"    "L" ${PORTUGUESE_NAMELISTS}
 build "ui_extra_humans_romanian"        "Human - Romanian"          "L" ${ROMANIAN_NAMELISTS}
@@ -349,19 +348,19 @@ build "ui_extra_humans_yugoslavic"      "Human - Yugoslavic"        "L" ${SLAVIC
 build "ui_extra_humans_extended"        "Human - *Extended*"        "L" \
     real/afghan \
     ${AFRICAN_NAMELISTS} ${ARABIC_NAMELISTS} ${CELTIC_NAMELISTS} ${ENGLISH_NAMELISTS} ${IBERIAN_NAMELISTS} ${ROMANCE_NAMELISTS} ${SLAVIC_NAMELISTS} ${TURKIC_NAMELISTS} \
-    real/armenian real/austrian real/austronesian real/bengal real/chinese real/danish real/dutch real/estonian real/filipino real/finnish real/german real/germanic \
-    real/greenlandic real/hawaiian real/hebrew real/hindi real/hungarian real/icelandic real/indian real/indonesian real/iranian real/japanese real/kazakh \
-    real/kiribatian real/korean real/latvian real/lithuanian real/malaysian real/maori real/mongol real/nahuatl real/nepali real/norwegian real/persian real/polynesian \
-    real/swedish real/swiss real/taiwanese real/tajik real/tamil real/tibetan real/tunisian real/urdu real/vietnamese \
+    real/armenian real/austrian real/austronesian real/bengal real/chinese real/dutch real/estonian real/filipino real/finnish real/german real/germanic \
+    real/hawaiian real/hebrew real/hindi real/hungarian real/indian real/indonesian real/iranian real/japanese real/kazakh \
+    real/kiribatian real/korean real/latvian real/lithuanian real/malaysian real/maori real/mongol real/nahuatl real/nepali real/persian real/polynesian \
+    real/swiss real/taiwanese real/tajik real/tamil real/tibetan real/tunisian real/urdu real/vietnamese \
     \
-    real/common/asian real/common/german real/common/norse \
+    real/common/asian real/common/german \
     \
-    media/elderscrolls/atmoran media/elderscrolls/human media/elderscrolls/nord media/galciv/human media/sose/human media/starcraft/human media/starwars/human/_ \
+    media/galciv/human media/sose/human media/starcraft/human media/starwars/human/_ \
     media/starwars/human/alderaanian media/starwars/human/corellian media/starwars/human/coruscanti media/runescape/human_asgarnian media/runescape/human_kandarin \
     media/runescape/human_menaphite media/runescape/human_misthalinian media/runescape/human media/other/human/armenian media/other/human/austrian \
-    media/other/human/chinese media/other/human/danish media/other/human/filipino media/other/human/german media/other/human/hebrew  media/other/human/hindi \
-    media/other/human/icelandic media/other/human/indian media/other/human/indonesian media/other/human/japanese media/other/human/korean media/other/human/malaysian \
-    media/other/human/maori media/other/human/mongol media/other/human/norse media/other/human/norwegian media/other/human/sanskrit media/other/human/swedish \
+    media/other/human/chinese media/other/human/filipino media/other/human/german media/other/human/hebrew  media/other/human/hindi \
+    media/other/human/indian media/other/human/indonesian media/other/human/japanese media/other/human/korean media/other/human/malaysian \
+    media/other/human/maori media/other/human/mongol media/other/human/sanskrit \
     media/other/human/swiss media/other/human/tamil media/other/human/tibetan media/other/human/urdu media/other/human/vietnamese \
     \
     real/human1 real/human2 ui/human_extra real/zextended
