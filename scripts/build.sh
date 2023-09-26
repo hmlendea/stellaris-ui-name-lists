@@ -159,19 +159,25 @@ ENGLISH_NAMELISTS=$(get-namelists-merged ${ENGLISH_AMERICAN_NAMELISTS} ${ENGLISH
 ##################
 ### PORTUGUESE ###
 ##################
-PORTUGUESE_AFRICAN_NAMELISTS="real/portuguese/angolan real/portuguese/common"
-PORTUGUESE_EURO_NAMELISTS="real/portuguese/portuguese media/other/human/portuguese real/portuguese/common"
-PORTUGUESE_LATAM_NAMELISTS="real/portuguese/brazilian media/other/human/portuguese real/portuguese/common"
+PORTUGUESE_AFRICAN_REAL_NAMELISTS="real/iberic/portuguese/angolan real/iberic/portuguese/common"
+PORTUGUESE_AFRICAN_MEDIA_NAMELISTS="media/other/human/iberic/portuguese/common"
+PORTUGUESE_AFRICAN_NAMELISTS=$(get-namelists-merged ${PORTUGUESE_AFRICAN_REAL_NAMELISTS} ${PORTUGUESE_AFRICAN_MEDIA_NAMELISTS})
+PORTUGUESE_EURO_REAL_NAMELISTS="real/iberic/portuguese/portuguese real/iberic/portuguese/common"
+PORTUGUESE_EURO_MEDIA_NAMELISTS="media/other/human/iberic/portuguese/common"
+PORTUGUESE_EURO_NAMELISTS=$(get-namelists-merged ${PORTUGUESE_EURO_REAL_NAMELISTS} ${PORTUGUESE_EURO_MEDIA_NAMELISTS})
+PORTUGUESE_LATAM_REAL_NAMELISTS="real/iberic/portuguese/brazilian real/iberic/portuguese/common"
+PORTUGUESE_LATAM_MEDIA_NAMELISTS="media/other/human/iberic/portuguese/common"
+PORTUGUESE_LATAM_NAMELISTS=$(get-namelists-merged ${PORTUGUESE_LATAM_REAL_NAMELISTS} ${PORTUGUESE_LATAM_MEDIA_NAMELISTS})
 PORTUGUESE_NAMELISTS=$(get-namelists-merged ${PORTUGUESE_AFRICAN_NAMELISTS} ${PORTUGUESE_EURO_NAMELISTS} ${PORTUGUESE_LATAM_NAMELISTS})
 
 ###############
 ### SPANISH ###
 ###############
-SPANISH_EURO_REAL_NAMELISTS="real/spanish/spanish real/spanish/common"
-SPANISH_EURO_MEDIA_NAMELISTS="media/other/human/spanish/spanish media/other/human/spanish/common"
+SPANISH_EURO_REAL_NAMELISTS="real/iberic/spanish/spanish real/iberic/spanish/common"
+SPANISH_EURO_MEDIA_NAMELISTS="media/other/human/iberic/spanish/spanish media/other/human/iberic/spanish/common"
 SPANISH_EURO_NAMELISTS=$(get-namelists-merged ${SPANISH_EURO_REAL_NAMELISTS} ${SPANISH_EURO_MEDIA_NAMELISTS})
-SPANISH_LATAM_REAL_NAMELISTS="real/spanish/argentinian real/spanish/colombian real/spanish/cuban real/spanish/ecuadorian real/spanish/guatemalan real/spanish/mexican real/spanish/venezuelan real/spanish/common_american real/spanish/common"
-SPANISH_LATAM_MEDIA_NAMELISTS="media/other/human/spanish/mexican media/other/human/spanish/venezuelan media/other/human/spanish/common"
+SPANISH_LATAM_REAL_NAMELISTS="real/iberic/spanish/argentinian real/iberic/spanish/colombian real/iberic/spanish/cuban real/iberic/spanish/ecuadorian real/iberic/spanish/guatemalan real/iberic/spanish/mexican real/iberic/spanish/venezuelan real/iberic/spanish/common_american real/iberic/spanish/common"
+SPANISH_LATAM_MEDIA_NAMELISTS="media/other/human/iberic/spanish/mexican media/other/human/iberic/spanish/venezuelan media/other/human/iberic/spanish/common"
 SPANISH_LATAM_NAMELISTS=$(get-namelists-merged ${SPANISH_LATAM_REAL_NAMELISTS} ${SPANISH_LATAM_MEDIA_NAMELISTS})
 SPANISH_NAMELISTS=$(get-namelists-merged ${SPANISH_EURO_NAMELISTS} ${SPANISH_LATAM_NAMELISTS})
 
