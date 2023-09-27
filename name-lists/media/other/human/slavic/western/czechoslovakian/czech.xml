@@ -11,6 +11,12 @@
             <string>Havel</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Villages - Kingdom Come: Deliverance</Name>
+          <Values>
+            <string>Skalitz</string>
+          </Values>
+        </NameGroup>
       </Cities>
     </Places>
     <Planets>
@@ -22,6 +28,14 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Continental>
+        <NameGroup>
+          <Name>Villages - Kingdom Come: Deliverance</Name>
+          <Values>
+            <string>Skalitz</string>
+          </Values>
+        </NameGroup>
+      </Continental>
     </Planets>
   </NameList>
 </ArrayOfNameList>

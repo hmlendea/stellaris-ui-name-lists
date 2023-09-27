@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>warhammer_fantasy_bretonnia</Id>
+    <Name>Warhammer Fantasy - Bretonnia</Name>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - Warhammer Fantasy</Name>
+          <Values>
+            <string>Bretonnia</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions - Warhammer Fantasy</Name>
+          <Values>
+            <string>Aquitaine</string>
+            <string>Artois</string>
+            <string>Bastonne</string>
+            <string>Bordeleaux</string>
+            <string>Brionne</string>
+            <string>Carcassonne</string>
+            <string>Couronne</string>
+            <string>Gisoreux</string>
+            <string>L'Anguille</string>
+            <string>Lyonesse</string>
+            <string>Montfort</string>
+            <string>Mousillon</string>
+            <string>Parravon</string>
+            <string>Quenelles</string>
+            <string>Savoie</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Warhammer Fantasy</Name>
+          <Values>
+            <string>Aquitaine</string> <!-- Castle Aquitaine -->
+            <string>Artois</string> <!-- Castle Artois -->
+            <string>Bastonne</string> <!-- Castle Bastonne -->
+            <string>Bordeleaux</string> <!-- Castle Bordeleaux -->
+            <string>Brionne</string> <!-- Castle Brionne -->
+            <string>Carcassonne</string> <!-- Castle Carcassonne -->
+            <string>Cavour</string>
+            <string>Couronne</string> <!-- Castle Couronne -->
+            <string>Derrevin Libre</string>
+            <string>Gisoreux</string> <!-- Castle Gisoreux -->
+            <string>Grenouille</string> <!-- Grenouille Gate -->
+            <string>L'Anguille</string> <!-- Castle L'Anguille -->
+            <string>Larret</string>
+            <string>Lyonesse</string> <!-- Castle Lyonesse -->
+            <string>Montfort</string> <!-- Castle Montfort -->
+            <string>Mousillon</string> <!-- Castle Mousillon -->
+            <string>Oisillon</string>
+            <string>Parravon</string> <!-- Castle Parravon -->
+            <string>Quenelles</string> <!-- Castle Quenelles -->
+            <string>Savoie</string>
+            <string>Serrac</string>
+            <string>Tharravil</string>
+            <string>Uesin</string>
+            <string>Yremy</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Warhammer Fantasy</Name>
+          <Values>
+            <string>Cavour</string>
+            <string>Derrevin Libre</string>
+            <string>Larret</string>
+            <string>Oisillon</string>
+            <string>Savoie</string>
+            <string>Serrac</string>
+            <string>Uesin</string>
+            <string>Yremy</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Warhammer Fantasy</Name>
+          <Values>
+            <string>Aquitaine</string>
+            <string>Artois</string>
+            <string>Bastonne</string>
+            <string>Bordeleaux</string>
+            <string>Brionne</string>
+            <string>Carcassonne</string>
+            <string>Couronne</string>
+            <string>Gisoreux</string>
+            <string>L'Anguille</string>
+            <string>Lyonesse</string>
+            <string>Montfort</string>
+            <string>Mousillon</string>
+            <string>Parravon</string>
+            <string>Quenelles</string>
+            <string>Savoie</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Alpine>
+        <NameGroup>
+          <Name>Cities - Warhammer Fantasy</Name>
+          <Values>
+            <string>Tharravil</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

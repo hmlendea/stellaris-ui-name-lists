@@ -4,6 +4,14 @@
     <Id>other-media_human_russian</Id>
     <Name>Other Media - Human - Russian</Name>
     <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Regions - Escape from Tarkov</Name>
+          <Values>
+            <string>Norvinsk</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Civilization: Beyond Earth</Name> <!-- Kavithan Protectorate -->
@@ -36,6 +44,12 @@
           <Values>
             <string>Alexin</string>
             <string>Samara</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Escape from Tarkov</Name>
+          <Values>
+            <string>Tarkov</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -131,10 +145,22 @@
       </Generic>
       <Tundra>
         <NameGroup>
+          <Name>Cities - Escape from Tarkov</Name>
+          <Values>
+            <string>Tarkov</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
           <Values>
             <string>Kola</string>
             <string>Rus</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Escape from Tarkov</Name>
+          <Values>
+            <string>Norvinsk</string>
           </Values>
         </NameGroup>
       </Tundra>

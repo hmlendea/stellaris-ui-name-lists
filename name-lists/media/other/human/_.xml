@@ -184,9 +184,11 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Cities - Bugsnax</Name>
+          <Name>Islands - Puzzle Pirates</Name>
           <Values>
-            <string>Snaxburg</string>
+            <string>Ansel</string>
+            <string>Arakoua</string>
+            <string>Chaparral</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -209,14 +211,6 @@
             <string>Oeno</string>
             <string>Unadar</string>
             <string>Xenon</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Places - Puzzle Pirates</Name>
-          <Values>
-            <string>Ansel</string>
-            <string>Arakoua</string>
-            <string>Chaparral</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -245,13 +239,13 @@
       </Desert>
       <Arid>
         <NameGroup>
-          <Name>Places - A Song of Ice and Fire</Name>
+          <Name>Countries - A Song of Ice and Fire</Name>
           <Values>
             <string>Dorne</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Places - Puzzle Pirates</Name>
+          <Name>Islands - Puzzle Pirates</Name>
           <Values>
             <string>Caravenserai</string>
           </Values>
@@ -285,6 +279,12 @@
       </Tropical>
       <Continental>
         <NameGroup>
+          <Name>Cities - Bugsnax</Name>
+          <Values>
+            <string>Snaxburg</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Planets - Warhammer</Name>
           <Values>
             <string>Espandor</string>
@@ -315,15 +315,15 @@
       </Continental>
       <Gaia>
         <NameGroup>
-          <Name>Planets - Doctor Who</Name>
+          <Name>Islands - Puzzle Pirates</Name>
           <Values>
-            <string>Gallifrey</string>
+            <string>Cleopatra's Pearl</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Places - Puzzle Pirates</Name>
+          <Name>Planets - Doctor Who</Name>
           <Values>
-            <string>Cleopatra's Pearl</string>
+            <string>Gallifrey</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -355,16 +355,16 @@
       </Ocean>
       <Tundra>
         <NameGroup>
-          <Name>Places - Puzzle Pirates</Name>
+          <Name>Countries - The Lord of the Rings</Name>
           <Values>
-            <string>Jorvik</string>
-            <string>Norse</string>
+            <string>Rohan</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Places - The Lord of the Rings</Name>
+          <Name>Islands - Puzzle Pirates</Name>
           <Values>
-            <string>Rohan</string>
+            <string>Jorvik</string>
+            <string>Norse</string>
           </Values>
         </NameGroup>
       </Tundra>

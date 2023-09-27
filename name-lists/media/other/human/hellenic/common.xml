@@ -89,6 +89,12 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Planets - Avatar</Name>
+          <Values>
+            <string>Polyphemus</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Planets - CoDominium</Name> <!-- Federacy -->
           <Values>
             <string>Alexander</string>

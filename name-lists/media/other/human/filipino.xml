@@ -6,7 +6,7 @@
     <Places>
       <Cities>
         <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!--Polystralia -->
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Polystralia -->
           <Values>
             <string>Kayamutan</string>
             <string>Mahalaga</string>
@@ -17,7 +17,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!--Polystralia -->
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Polystralia -->
           <Values>
             <string>Kayamutan</string>
             <string>Mahalaga</string>
