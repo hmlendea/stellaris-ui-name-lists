@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_belgian</Id>
+    <Name>Human - Belgian</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Belgian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Belgium</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Belgie</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Belgium</Name>
+          <Values>
+            <string>Antwerp</string>
+            <string>Brussels</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Belgium - Endonyms</Name>
+          <Values>
+            <string>Antwerpen</string>
+            <string>Brussel</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Companies>
+      <SpacecraftManufacturers>
+        <NameGroup>
+          <Name>Spacecraft Manufacturers - Belgian</Name>
+          <Values>
+            <string>QuentiQ</string>
+          </Values>
+        </NameGroup>
+      </SpacecraftManufacturers>
+    </Companies>
+  </NameList>
+</ArrayOfNameList>

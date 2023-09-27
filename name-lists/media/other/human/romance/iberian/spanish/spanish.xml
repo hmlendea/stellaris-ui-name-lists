@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>other-media_human_basque</Id>
-    <Name>Other Media - Human - Iberic - Basque</Name>
+    <Id>other-media_human_spanish</Id>
+    <Name>Other Media - Human - Spanish</Name>
     <Places>
       <Cities>
         <NameGroup>
           <Name>Cities - Civilization: Beyond Earth</Name> <!-- Franco-Iberia -->
           <Values>
-            <string>Aintza</string>
-            <string>Igoa</string>
-            <string>Izar</string>
-            <string>Kemena</string>
+            <string>Gran Éxito</string>
+            <string>Fidèle</string>
+            <string>Amparo</string>
+            <string>Valienta</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -21,10 +21,10 @@
         <NameGroup>
           <Name>Cities - Civilization: Beyond Earth</Name> <!-- Franco-Iberia -->
           <Values>
-            <string>Aintza</string>
-            <string>Igoa</string>
-            <string>Izar</string>
-            <string>Kemena</string>
+            <string>Gran Éxito</string>
+            <string>Fidèle</string>
+            <string>Amparo</string>
+            <string>Valienta</string>
           </Values>
         </NameGroup>
       </Generic>

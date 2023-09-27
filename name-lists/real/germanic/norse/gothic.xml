@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_gothic</Id>
+    <Name>Human - Gothic</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Gothic</string>
+          <string>Vandal</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <GreatPeople>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders - Visigoth</Name>
+          <Values>
+            <string>Alaric</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+    </GreatPeople>
+  </NameList>
+</ArrayOfNameList>

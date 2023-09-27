@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_celtic</Id>
+    <Name>Human - Celtic</Name>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Islands</Name>
+          <Values>
+            <string>Albion</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+    </Places>
+    <GreatPeople>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Gwendolen</string>
+            <string>Scathach</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Brennus</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - British</Name>
+          <Values>
+            <string>Robin Hood</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+    </GreatPeople>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_slovakian</Id>
+    <Name>Human - Czechoslovakian - Slovakian</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Slovak</string>
+          <string>Slovakian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Slovakia</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Banská Bystrica</string>
+            <string>Bratislava</string>
+            <string>Komárno</string>
+            <string>Košice</string>
+            <string>Martin</string>
+            <string>Michalovce</string>
+            <string>Nitra</string>
+            <string>Nové Zámky</string>
+            <string>Poprad</string>
+            <string>Považská Bystrica</string>
+            <string>Prešov</string>
+            <string>Prievidza</string>
+            <string>Spišská Nová Ves</string>
+            <string>Trenčín</string>
+            <string>Trnava</string>
+            <string>Žilina</string>
+            <string>Zvolen</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+  </NameList>
+</ArrayOfNameList>

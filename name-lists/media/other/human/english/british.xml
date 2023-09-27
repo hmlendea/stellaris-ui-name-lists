@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_english_british</Id>
+    <Name>Other Media - Human - English (British)</Name>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Scrimshaw</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- North Sea Alliance -->
+          <Values>
+            <string>Deepcastle</string>
+            <string>Wideway</string>
+            <string>Oceanham</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Civilization: Pandora: First Contact</Name> <!-- Noxium Corporation -->
+          <Values>
+            <string>Schroders</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Civilization: Pandora: First Contact</Name> <!-- Togra University -->
+          <Values>
+            <string>Penrose</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Frostpunk</Name>
+          <Values>
+            <string>Frostfire</string>
+            <string>Frostpunk</string>
+            <string>Winterhome</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - The Witcher</Name>
+          <Values>
+            <string>Claywich</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Companies>
+      <ResearchCompanies>
+        <NameGroup>
+          <Name>Research Companies - Alien</Name>
+          <Values>
+            <string>Weyland</string>
+          </Values>
+        </NameGroup>
+      </ResearchCompanies>
+    </Companies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- North Sea Alliance -->
+          <Values>
+            <string>Deepcastle</string>
+            <string>Wideway</string>
+            <string>Oceanham</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Civilization: Pandora: First Contact</Name> <!-- Noxium Corporation -->
+          <Values>
+            <string>Schroders</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Civilization: Pandora: First Contact</Name> <!-- Togra University -->
+          <Values>
+            <string>Penrose</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Frostpunk</Name>
+          <Values>
+            <string>Frostfire</string>
+            <string>Frostpunk</string>
+            <string>Winterhome</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - The Witcher</Name>
+          <Values>
+            <string>Claywich</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Scrimshaw</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Fitzroy's World</string>
+            <string>Hoxworth</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Avalon</string>
+            <string>New Coventry</string>
+            <string>St. Pomeroy</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Albion</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

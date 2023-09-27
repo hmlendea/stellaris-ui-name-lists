@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_common_slavic_montenegrin</Id>
+    <Name>Human - Slavic - Montenegrin</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Montenegrin</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Montenegro</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+    </Places>
+    <Characters>
+      <CharacterNames>
+        <Id>serbo-croatian</Id>
+        <Weight>1</Weight>
+        <MaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/serbocroatian/persons/males.lst</Url>
+          </NameGroup>
+        </MaleFirstNames>
+        <FemaleFirstNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/serbocroatian/persons/females.lst</Url>
+          </NameGroup>
+        </FemaleFirstNames>
+        <SecondNames>
+          <NameGroup>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/serbocroatian/persons/surnames.lst</Url>
+          </NameGroup>
+        </SecondNames>
+      </CharacterNames>
+    </Characters>
+  </NameList>
+</ArrayOfNameList>
