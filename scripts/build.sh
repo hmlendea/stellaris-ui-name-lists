@@ -133,6 +133,37 @@ ARABIC_REAL_NAMELISTS="real/arabic/berber real/arabic/egyptian real/arabic/iraqi
 real/arabic/moroccan real/arabic/palestinian real/arabic/saudi real/arabic/syrian real/arabic/uae real/arabic/_ real/common/_"
 ARABIC_NAMELISTS=$(get-namelists-merged ${ARABIC_MEDIA_NAMELISTS} ${ARABIC_REAL_NAMELISTS})
 
+#############
+### ASIAN ###
+#############
+CHINESE_MEDIA_NAMELISTS="media/other/asian/chinese/chinese"
+CHINESE_REAL_NAMELISTS="real/asian/chinese/chinese real/asian/chinese/taiwanese real/common/asian real/common/_"
+CHINESE_NAMELISTS=$(get-namelists-merged ${CHINESE_REAL_NAMELISTS} ${CHINESE_MEDIA_NAMELISTS})
+
+JAPANESE_MEDIA_NAMELISTS="media/other/asian/japanese"
+JAPANESE_REAL_NAMELISTS="real/asian/japanese real/common/asian real/common/_"
+JAPANESE_NAMELISTS=$(get-namelists-merged ${JAPANESE_REAL_NAMELISTS} ${JAPANESE_MEDIA_NAMELISTS})
+
+KOREAN_MEDIA_NAMELISTS="media/other/asian/korean"
+KOREAN_REAL_NAMELISTS="real/asian/korean real/common/asian real/common/_"
+KOREAN_NAMELISTS=$(get-namelists-merged ${KOREAN_REAL_NAMELISTS} ${KOREAN_MEDIA_NAMELISTS})
+
+MONGOL_MEDIA_NAMELISTS="media/other/asian/mongol"
+MONGOL_REAL_NAMELISTS="real/asian/mongol real/common/asian real/common/_"
+MONGOL_NAMELISTS=$(get-namelists-merged ${MONGOL_REAL_NAMELISTS} ${MONGOL_MEDIA_NAMELISTS})
+
+TIBETAN_MEDIA_NAMELISTS="media/other/asian/tibetan"
+TIBETAN_REAL_NAMELISTS="real/asian/tibetan real/common/asian real/common/_"
+TIBETAN_NAMELISTS=$(get-namelists-merged ${VIETNAMESE_REAL_NAMELISTS} ${VIETNAMESE_MEDIA_NAMELISTS})
+
+VIETNAMESE_MEDIA_NAMELISTS="media/other/asian/vietnamese"
+VIETNAMESE_REAL_NAMELISTS="real/asian/vietnamese real/common/asian real/common/_"
+VIETNAMESE_NAMELISTS=$(get-namelists-merged ${VIETNAMESE_REAL_NAMELISTS} ${VIETNAMESE_MEDIA_NAMELISTS})
+
+ASIAN_MEDIA_NAMELISTS=$(get-namelists-merged ${CHINESE_MEDIA_NAMELISTS} ${JAPANESE_MEDIA_NAMELISTS} ${KOREAN_MEDIA_NAMELISTS} ${MONGOL_MEDIA_NAMELISTS} ${TIBETAN_MEDIA_NAMELISTS} ${VIETNAMESE_MEDIA_NAMELISTS})
+ASIAN_REAL_NAMELISTS=$(get-namelists-merged ${CHINESE_REAL_NAMELISTS} ${JAPANESE_REAL_NAMELISTS} ${KOREAN_REAL_NAMELISTS} ${MONGOL_REAL_NAMELISTS} ${TIBETAN_REAL_NAMELISTS} ${VIETNAMESE_REAL_NAMELISTS})
+ASIAN_NAMELISTS=$(get-namelists-merged ${ASIAN_REAL_NAMELISTS} ${ASIAN_MEDIA_NAMELISTS})
+
 ##############
 ### BALTIC ###
 ##############
@@ -303,11 +334,7 @@ build "ui_extra_humans_american_usa"    "Human - American USA"      "L" \
     media/other/human/american media/other/human/english_int \
     real/common/_
 build "ui_extra_humans_arabic"          "Human - Arabic"            "L" ${ARABIC_NAMELISTS}
-build "ui_extra_humans_asian"           "Human - Asian"             "L" \
-    real/chinese real/japanese real/korean real/mongol real/taiwanese real/tibetan real/vietnamese \
-    real/common/asian \
-    media/other/human/chinese media/other/human/japanese media/other/human/korean media/other/human/tibetan media/other/human/vietnamese \
-    real/common/_
+build "ui_extra_humans_asian"           "Human - Asian"             "L" ${ASIAN_NAMELISTS}
 build "ui_extra_humans_austronesian"    "Human - Austronesian"      "L" \
     real/filipino real/hawaiian real/indonesian real/kiribatian real/malaysian real/maori real/polynesian \
     real/austronesian \
@@ -315,12 +342,8 @@ build "ui_extra_humans_austronesian"    "Human - Austronesian"      "L" \
     real/common/_
 build "ui_extra_humans_british"         "Human - British"           "L" ${ENGLISH_EURO_NAMELISTS} real/celtic/scottish real/celtic/welsh media/other/human/celtic/scottish
 build "ui_extra_humans_celtic"          "Human - Celtic"            "L" ${CELTIC_NAMELISTS}
-build "ui_extra_humans_chinese"         "Human - Chinese"           "L" \
-    real/chinese real/taiwanese \
-    real/common/asian \
-    media/other/human/chinese \
-    real/common/_
-build "ui_extra_humans_english"         "Human - English"           "L" "${ENGLISH_NAMELISTS}"
+build "ui_extra_humans_chinese"         "Human - Chinese"           "L" ${CHINESE_NAMELISTS}
+build "ui_extra_humans_english"         "Human - English"           "L" ${ENGLISH_NAMELISTS}
 build "ui_extra_humans_european"        "Human - European"          "L" \
     ${BALTIC_NAMELISTS} ${CELTIC_NAMELISTS} ${ENGLISH_EURO_NAMELISTS} ${GERMANIC_EURO_NAMELISTS} ${HELLENIC_NAMELISTS} ${IBERIAN_EURO_NAMELISTS} \
     ${ROMANCE_EURO_NAMELISTS} ${SLAVIC_NAMELISTS} \
@@ -339,10 +362,7 @@ build "ui_extra_humans_hindi"           "Human - Hindi"             "L" \
     real/common/_
 build "ui_extra_humans_iberian"         "Human - Iberian"           "L" ${IBERIAN_EURO_NAMELISTS}
 build "ui_extra_humans_italian"         "Human - Italian"           "L" ${ITALIAN_NAMELISTS}
-build "ui_extra_humans_japanese"        "Human - Japanese"          "L" \
-    real/japanese \
-    media/other/human/japanese \
-    real/common/_
+build "ui_extra_humans_japanese"        "Human - Japanese"          "L" ${JAPANESE_NAMELISTS}
 build "ui_extra_humans_latino"          "Human - Latino"            "L" \
     "${SPANISH_LATAM_NAMELISTS}" "${PORTUGUESE_LATAM_NAMELISTS}" real/nahuatl real/common/_
 build "ui_extra_humans_norse"           "Human - Norse"             "L" ${NORSE_NAMELISTS}
@@ -357,22 +377,20 @@ build "ui_extra_humans_turkic"          "Human - Turkic"            "L" ${TURKIC
 build "ui_extra_humans_yugoslavic"      "Human - Yugoslavic"        "L" ${SLAVIC_YUGOSLAVIC_NAMELISTS}
 build "ui_extra_humans_extended"        "Human - *Extended*"        "L" \
     real/afghan \
-    ${AFRICAN_NAMELISTS} ${ARABIC_NAMELISTS} ${CELTIC_NAMELISTS} ${ENGLISH_NAMELISTS} ${GERMAN_NAMELISTS} ${IBERIAN_NAMELISTS} \
+    ${AFRICAN_NAMELISTS} ${ARABIC_NAMELISTS} ${ASIAN_NAMELISTS} ${CELTIC_NAMELISTS} ${ENGLISH_NAMELISTS} ${GERMAN_NAMELISTS} ${IBERIAN_NAMELISTS} \
     ${ROMANCE_NAMELISTS} ${SLAVIC_NAMELISTS} ${TURKIC_NAMELISTS} \
-    real/austronesian real/bengal real/chinese real/filipino \
-    real/hawaiian real/hebrew real/hindi real/hungarian real/indian real/indonesian real/iranian real/japanese real/kazakh \
-    real/kiribatian real/korean real/malaysian real/maori real/mongol real/nahuatl real/nepali real/persian real/polynesian \
-    real/taiwanese real/tajik real/tamil real/tibetan real/tunisian real/urdu real/vietnamese \
-    \
-    real/common/asian \
+    real/austronesian real/bengal real/filipino \
+    real/hawaiian real/hebrew real/hindi real/hungarian real/indian real/indonesian real/iranian real/kazakh \
+    real/kiribatian real/malaysian real/maori real/nahuatl real/nepali real/persian real/polynesian \
+    real/tajik real/tamil real/tunisian real/urdu \
     \
     media/galciv/human media/sose/human media/starcraft/human media/starwars/human/_ \
     media/starwars/human/alderaanian media/starwars/human/corellian media/starwars/human/coruscanti media/runescape/human_asgarnian media/runescape/human_kandarin \
     media/runescape/human_menaphite media/runescape/human_misthalinian media/runescape/human media/other/human/armenian \
-    media/other/human/chinese media/other/human/filipino media/other/human/hebrew  media/other/human/hindi \
-    media/other/human/indian media/other/human/indonesian media/other/human/japanese media/other/human/korean media/other/human/malaysian \
-    media/other/human/maori media/other/human/mongol media/other/human/sanskrit \
-    media/other/human/tamil media/other/human/tibetan media/other/human/urdu media/other/human/vietnamese \
+    media/other/human/filipino media/other/human/hebrew  media/other/human/hindi \
+    media/other/human/indian media/other/human/indonesian media/other/human/malaysian \
+    media/other/human/maori media/other/human/sanskrit \
+    media/other/human/tamil media/other/human/urdu \
     \
     real/human1 real/human2 ui/human_extra real/zextended
 
