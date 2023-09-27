@@ -134,9 +134,14 @@ real/arabic/moroccan real/arabic/palestinian real/arabic/saudi real/arabic/syria
 ARABIC_NAMELISTS=$(get-namelists-merged ${ARABIC_MEDIA_NAMELISTS} ${ARABIC_REAL_NAMELISTS})
 
 ##############
+### BALTIC ###
+##############
+BALTIC_NAMELISTS="real/baltic/estonian real/baltic/finnish real/baltic/latvian real/baltic/lithuanian real/common/european real/common/_"
+
+##############
 ### CELTIC ###
 ##############
-CELTIC_MEDIA_NAMELISTS="media/other/human/celtic/irish media/other/human/celtic/scottish media/other/human/celtic/welsh  media/other/human/celtic/common"
+CELTIC_MEDIA_NAMELISTS="media/other/human/celtic/irish media/other/human/celtic/scottish media/other/human/celtic/welsh media/other/human/celtic/common"
 CELTIC_REAL_NAMELISTS="real/celtic/breton real/celtic/celtic real/celtic/cornish real/celtic/icenic real/celtic/irish real/celtic/scottish real/celtic/welsh real/celtic/common real/common/european real/common/_"
 CELTIC_NAMELISTS=$(get-namelists-merged ${CELTIC_MEDIA_NAMELISTS} ${CELTIC_REAL_NAMELISTS})
 
@@ -317,8 +322,9 @@ build "ui_extra_humans_chinese"         "Human - Chinese"           "L" \
     real/common/_
 build "ui_extra_humans_english"         "Human - English"           "L" "${ENGLISH_NAMELISTS}"
 build "ui_extra_humans_european"        "Human - European"          "L" \
-    ${CELTIC_NAMELISTS} ${ENGLISH_EURO_NAMELISTS} ${GERMANIC_EURO_NAMELISTS} ${HELLENIC_NAMELISTS} ${IBERIAN_EURO_NAMELISTS} ${ROMANCE_EURO_NAMELISTS} ${SLAVIC_NAMELISTS} \
-    real/estonian real/finnish real/hungarian real/latvian real/lithuanian \
+    ${BALTIC_NAMELISTS} ${CELTIC_NAMELISTS} ${ENGLISH_EURO_NAMELISTS} ${GERMANIC_EURO_NAMELISTS} ${HELLENIC_NAMELISTS} ${IBERIAN_EURO_NAMELISTS} \
+    ${ROMANCE_EURO_NAMELISTS} ${SLAVIC_NAMELISTS} \
+    real/hungarian \
     \
     media/runescape/human_asgarnian media/runescape/human_kandarin media/runescape/human_misthalinian media/runescape/human
 build "ui_extra_humans_franco-iberian"  "Human - Franco-Iberian"    "L" ${FRENCH_EURO_NAMELISTS} ${IBERIAN_EURO_NAMELISTS}
@@ -353,9 +359,9 @@ build "ui_extra_humans_extended"        "Human - *Extended*"        "L" \
     real/afghan \
     ${AFRICAN_NAMELISTS} ${ARABIC_NAMELISTS} ${CELTIC_NAMELISTS} ${ENGLISH_NAMELISTS} ${GERMAN_NAMELISTS} ${IBERIAN_NAMELISTS} \
     ${ROMANCE_NAMELISTS} ${SLAVIC_NAMELISTS} ${TURKIC_NAMELISTS} \
-    real/austronesian real/bengal real/chinese real/estonian real/filipino real/finnish \
+    real/austronesian real/bengal real/chinese real/filipino \
     real/hawaiian real/hebrew real/hindi real/hungarian real/indian real/indonesian real/iranian real/japanese real/kazakh \
-    real/kiribatian real/korean real/latvian real/lithuanian real/malaysian real/maori real/mongol real/nahuatl real/nepali real/persian real/polynesian \
+    real/kiribatian real/korean real/malaysian real/maori real/mongol real/nahuatl real/nepali real/persian real/polynesian \
     real/taiwanese real/tajik real/tamil real/tibetan real/tunisian real/urdu real/vietnamese \
     \
     real/common/asian \
