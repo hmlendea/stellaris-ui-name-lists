@@ -16,6 +16,7 @@
         <NameGroup>
           <Name>Islands - Puzzle Pirates</Name>
           <Values>
+            <string>Admiral</string>
             <string>Angelfish</string>
             <string>Barracuda</string>
             <string>Blackthrope</string>

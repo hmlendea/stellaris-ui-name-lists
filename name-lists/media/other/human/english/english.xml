@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>other-media_human_english</Id>
-    <Name>Other Media - Human - English</Name>
+    <Id>other-media_human_english_european</Id>
+    <Name>Other Media - Human - English (European)</Name>
     <Places>
       <Regions>
         <NameGroup>
           <Name>Islands - Puzzle Pirates</Name>
           <Values>
-            <string>Admiral</string>
             <string>Wensleydale</string>
             <string>Yorrick</string>
           </Values>

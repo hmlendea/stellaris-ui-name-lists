@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>human_common_spanish_americano</Id>
-    <Name>Human - Common - Spanish - Americano</Name>
+    <Id>human_common_spanish_american</Id>
+    <Name>Human - Common - Spanish - American</Name>
     <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
