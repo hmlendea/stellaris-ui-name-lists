@@ -1,27 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>elderscrolls_atmoran</Id>
-    <Name>ElderScrolls - Atmoran</Name>
-    <Denonyms>
-      <NameGroup>
-        <Name>Denonyms - The Elder Scrolls</Name>
-        <Values>
-          <string>Atmoran</string>
-        </Values>
-      </NameGroup>
-    </Denonyms>
+    <Id>elderscrolls_human_nord_common</Id>
+    <Name>The Elder Scrolls - Human - Nord (Common)</Name>
     <Places>
-      <Countries>
-        <NameGroup>
-          <Name>Countries - The Elder Scrolls</Name>
-          <Values>
-            <string>Atmora</string>
-            <string>Roscrea</string>
-            <string>Solstheim</string>
-          </Values>
-        </NameGroup>
-      </Countries>
       <Regions>
         <NameGroup>
           <Name>Islands - The Elder Scrolls</Name>
@@ -30,18 +12,9 @@
           </Values>
         </NameGroup>
       </Regions>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - The Elder Scrolls</Name>
-          <Values>
-            <string>Jylkurfyk</string>
-            <string>Saarthal</string>
-          </Values>
-        </NameGroup>
-      </Cities>
       <Seas>
         <NameGroup>
-          <Name>Lakes - The Elder Scrolls</Name>
+          <Name>Seas - The Elder Scrolls</Name>
           <Values>
             <string>Sea of Ghosts</string>
           </Values>
@@ -117,15 +90,6 @@
           </Values>
         </NameGroup>
       </Gaia>
-      <Arctic>
-        <NameGroup>
-          <Name>Countries - The Elder Scrolls</Name>
-          <Values>
-            <string>Atmora</string>
-            <string>Solstheim</string>
-          </Values>
-        </NameGroup>
-      </Arctic>
     </Planets>
   </NameList>
 </ArrayOfNameList>

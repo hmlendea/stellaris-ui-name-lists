@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>elderscrolls_human_imperial_common</Id>
+    <Name>The Elder Scrolls - Human - Imperial (Common)</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - The Elder Scrolls</Name>
+        <Values>
+          <string>Heartlander</string>
+          <string>Imperial</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Regions - The Elder Scrolls</Name>
+          <Values>
+            <string>Heartlands</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - The Elder Scrolls</Name>
+          <Values>
+            <string>Anvil</string>
+            <string>Imperial City</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Warfare>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations - The Elder Scrolls</Name>
+          <Values>
+            <string>Red Ring</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+    </Warfare>
+    <Planets>
+      </Tropical>
+      <Continental>
+        <NameGroup>
+          <Name>Regions - The Elder Scrolls</Name>
+          <Values>
+            <string>Heartland</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Cities - The Elder Scrolls</Name>
+          <Values>
+            <string>Anvil</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

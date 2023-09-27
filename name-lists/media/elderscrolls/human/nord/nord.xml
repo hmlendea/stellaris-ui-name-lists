@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>elderscrolls_nord</Id>
-    <Name>ElderScrolls - Nord</Name>
+    <Id>elderscrolls_human_nord</Id>
+    <Name>The Elder Scrolls - Human - Nord</Name>
     <Denonyms>
       <NameGroup>
         <Name>Denonyms - The Elder Scrolls</Name>
@@ -49,6 +49,12 @@
       </Regions>
       <Cities>
         <NameGroup>
+          <Name>Cities - The Elder Scrolls</Name> <!-- Cyrodiil -->
+          <Values>
+            <string>Bruma</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - The Elder Scrolls</Name> <!-- Skyrim -->
           <Values>
             <string>Dawnstar</string>
@@ -64,9 +70,9 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - The Elder Scrolls</Name> <!-- Cyrodiil -->
+          <Name>Cities - The Elder Scrolls</Name> <!-- Solstheim -->
           <Values>
-            <string>Bruma</string>
+            <string>Skaal</string> <!-- Skaal Village -->
           </Values>
         </NameGroup>
       </Cities>
@@ -179,8 +185,8 @@
         <NameGroup>
           <Name>Battle locations - The Elder Scrolls</Name>
           <Values>
+            <string>Anthor</string> <!-- Mount Anthor -->
             <string>Markarth</string>
-            <string>Mount Anthor</string>
           </Values>
         </NameGroup>
       </BattleLocations>
@@ -229,6 +235,14 @@
           </Values>
         </NameGroup>
       </Gaia>
+      <Ocean>
+        <NameGroup>
+          <Name>Countries - The Elder Scrolls</Name>
+          <Values>
+            <string>Roscrea</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
       <Arctic>
         <NameGroup>
           <Name>Countries - The Elder Scrolls</Name>

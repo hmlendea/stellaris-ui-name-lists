@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>elderscrolls_human</Id>
-    <Name>ElderScrolls - Human</Name>
+    <Id>elderscrolls_human_common</Id>
+    <Name>ElderScrolls - Human (Common)</Name>
     <Denonyms>
       <NameGroup>
         <Name>Denonyms - The Elder Scrolls</Name>
         <Values>
-          <string>Atmoran</string>
-          <string>Breton</string>
-          <string>Colovian</string>
           <string>Crown</string>
           <string>Forebear</string>
-          <string>Heartlander</string>
           <string>Human</string>
-          <string>Imperial</string>
-          <string>Nibenese</string>
           <string>Reachman</string>
           <string>Redguard</string>
           <string>Yokudan</string>
@@ -27,39 +21,12 @@
         <NameGroup>
           <Name>Countries - The Elder Scrolls</Name>
           <Values>
-            <string>Cyrodiil</string>
             <string>Hammerfell</string>
-            <string>High Rock</string>
             <string>Yokuda</string>
           </Values>
         </NameGroup>
       </Countries>
-      <Regions>
-        <NameGroup>
-          <Name>Regions - The Elder Scrolls - Cyrodiil</Name>
-          <Values>
-            <string>Colovia</string>
-            <string>Heartlands</string>
-            <string>Nibenay</string>
-          </Values>
-        </NameGroup>
-      </Regions>
       <Cities>
-        <NameGroup>
-          <Name>Cities - The Elder Scrolls - Human - Cyrodiil</Name>
-          <Values>
-            <string>Anvil</string>
-            <string>Bravil</string>
-            <string>Bruma</string>
-            <string>Cheydinhal</string>
-            <string>Chorrol</string>
-            <string>Imperial City</string>
-            <string>Kvatch</string>
-            <string>Leyawiin</string>
-            <string>Skingrad</string>
-            <string>Sutch</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - The Elder Scrolls - Human - Hammerfell</Name>
           <Values>
@@ -71,43 +38,7 @@
             <string>Port Hunding</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Cities - The Elder Scrolls - Human - High Rock</Name>
-          <Values>
-            <string>Alcaire</string>
-            <string>Camlorn</string>
-            <string>Daggerfall</string>
-            <string>Evermore</string>
-            <string>Jehanna</string>
-            <string>Wayrest</string>
-          </Values>
-        </NameGroup>
       </Cities>
-      <Mountains>
-        <NameGroup>
-          <Name>Mountains - The Elder Scrolls - High Rock</Name>
-          <Values>
-            <string>Wrothgar</string>
-          </Values>
-        </NameGroup>
-      </Mountains>
-      <Rivers>
-        <NameGroup>
-          <Name>Rivers - The Elder Scrolls - Human - Cyrodiil</Name>
-          <Values>
-            <string>Brena</string>
-            <string>Corbolo</string>
-            <string>Niben</string>
-            <string>Panther</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Rivers - The Elder Scrolls - Human - High Rock</Name>
-          <Values>
-            <string>Bjoulsae</string>
-          </Values>
-        </NameGroup>
-      </Rivers>
     </Places>
     <GreatPersons>
       <CreationDeities>
@@ -210,9 +141,7 @@
         <NameGroup>
           <Name>Battle locations - The Elder Scrolls</Name>
           <Values>
-            <string>Orsinium</string>
             <string>Red Mountain</string>
-            <string>Red Ring</string>
           </Values>
         </NameGroup>
       </BattleLocations>
@@ -237,15 +166,9 @@
     <Planets>
       <Continental>
         <NameGroup>
-          <Name>Countries - The Elder Scrolls</Name>
+          <Name>Continents - The Elder Scrolls</Name>
           <Values>
-            <string>Cyrodiil</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Regions - The Elder Scrolls</Name>
-          <Values>
-            <string>Colovia</string>
+            <string>Tamriel</string>
           </Values>
         </NameGroup>
       </Continental>
