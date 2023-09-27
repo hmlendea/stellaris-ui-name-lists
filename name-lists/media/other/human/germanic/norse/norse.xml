@@ -23,12 +23,6 @@
       </Regions>
       <Cities>
         <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- North Sea Alliance -->
-          <Values>
-            <string>Duncankeld</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - The Witcher</Name>
           <Values>
             <string>Arinbjorn</string>
@@ -49,12 +43,6 @@
     </Ships>
     <Planets>
       <Generic>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- North Sea Alliance -->
-          <Values>
-            <string>Duncankeld</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - The Witcher</Name>
           <Values>

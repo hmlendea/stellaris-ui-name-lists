@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>civbe_human_danish</Id>
+    <Name>Civilization: Beyond Earth - Human - Danish</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- North Sea Alliance -->
+          <Values>
+            <string>Klog Hjerte</string>
+            <string>Vanfald</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- North Sea Alliance -->
+          <Values>
+            <string>Klog Hjerte</string>
+            <string>Vanfald</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

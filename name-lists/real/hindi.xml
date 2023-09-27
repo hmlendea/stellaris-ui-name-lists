@@ -239,19 +239,6 @@
         </NameGroup>
       </MythologicalCreatures>
     </BiosphereNames>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Kavithan Protectorate -->
-          <Values>
-            <string>Dhanya</string>
-            <string>Garhi</string>
-            <string>Rayyan</string>
-            <string>Sachita</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
     <Characters>
       <CharacterNames>
         <Id>hindi</Id>

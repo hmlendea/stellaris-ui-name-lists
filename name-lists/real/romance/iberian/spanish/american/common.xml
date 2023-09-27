@@ -12,15 +12,6 @@
       </NameGroup>
     </Denonyms>
     <Places>
-      <Countries>
-        <NameGroup>
-          <Name>Countries</Name>
-          <Values>
-            <string>El Salvador</string>
-            <string>Panama</string>
-          </Values>
-        </NameGroup>
-      </Countries>
       <Forests>
         <NameGroup>
           <Name>Forests</Name>
@@ -29,20 +20,6 @@
           </Values>
         </NameGroup>
       </Forests>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - El Salvador</Name>
-          <Values>
-            <string>San Salvador</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Panama</Name>
-          <Values>
-            <string>Panama City</string>
-          </Values>
-        </NameGroup>
-      </Cities>
       <Rivers>
         <NameGroup>
           <Name>Rivers</Name>
@@ -100,7 +77,7 @@
     <Ships>
       <Coloniser>
         <NameGroup>
-          <Name>Mythology - Places</Name>
+          <Name>Places - Mythology</Name>
           <Values>
             <string>El Dorado</string>
           </Values>
@@ -118,7 +95,7 @@
       </Desert>
       <Gaia>
         <NameGroup>
-          <Name>Mythology - Places</Name>
+          <Name>Places - Mythology</Name>
           <Values>
             <string>El Dorado</string>
           </Values>

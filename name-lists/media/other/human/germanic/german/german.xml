@@ -6,36 +6,6 @@
     <Places>
       <Cities>
         <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Franco-Iberia -->
-          <Values>
-            <string>Beraht</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- INTEGR -->
-          <Values>
-            <string>Belohnung</string>
-            <string>Blauwald</string>
-            <string>Demut</string>
-            <string>Ehrfurcht</string>
-            <string>Eintracht</string>
-            <string>Entschluss</string>
-            <string>Entwicklung</string>
-            <string>Gemüt</string>
-            <string>Hochachtung</string>
-            <string>Hochburg</string>
-            <string>Kastellan</string>
-            <string>Schwerweg</string>
-            <string>Streben</string>
-            <string>Trutzburg</string>
-            <string>Wächter</string>
-            <string>Wahrheit</string>
-            <string>Weisheit</string>
-            <string>Weltgeist</string>
-            <string>Zenit</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Pandora: First Contact</Name> <!-- Imperium -->
           <Values>
             <string>Rommel</string>
@@ -69,48 +39,8 @@
         </NameGroup>
       </RobotManufacturers>
     </Companies>
-    <ShipClasses>
-      <Science>
-        <NameGroup>
-          <Name>Ship Classes - StarCraft</Name>
-          <Values>
-            <string>Kurzweil</string>
-          </Values>
-        </NameGroup>
-      </Science>
-    </ShipClasses>
     <Planets>
       <Generic>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Franco-Iberia -->
-          <Values>
-            <string>Beraht</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- INTEGR -->
-          <Values>
-            <string>Belohnung</string>
-            <string>Blauwald</string>
-            <string>Demut</string>
-            <string>Ehrfurcht</string>
-            <string>Eintracht</string>
-            <string>Entschluss</string>
-            <string>Entwicklung</string>
-            <string>Gemüt</string>
-            <string>Hochachtung</string>
-            <string>Hochburg</string>
-            <string>Kastellan</string>
-            <string>Schwerweg</string>
-            <string>Streben</string>
-            <string>Trutzburg</string>
-            <string>Wächter</string>
-            <string>Wahrheit</string>
-            <string>Weisheit</string>
-            <string>Weltgeist</string>
-            <string>Zenit</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - Pandora: First Contact</Name> <!-- Imperium -->
           <Values>

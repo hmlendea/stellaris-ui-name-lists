@@ -3,25 +3,7 @@
   <NameList>
     <Id>other-media_human_hebrew</Id>
     <Name>Other Media - Human - Hebrew</Name>
-    <Places>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth - Translated</Name> <!-- Brasilia -->
-          <Values>
-            <string>Immanuel</string>
-          </Values>
-        </NameGroup>
-      </Cities>
-    </Places>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth - Translated</Name> <!-- Brasilia -->
-          <Values>
-            <string>Immanuel</string>
-          </Values>
-        </NameGroup>
-      </Generic>
       <Arid>
         <NameGroup>
           <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>warcraft_human</Id>
+    <Name>WarCraft - Human</Name>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Cities - WarCraft</Name>
+          <Values>
+            <string>Lordaeron</string>
+            <string>Stormgarde</string>
+            <string>Stormwind</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - WarCraft</Name>
+          <Values>
+            <string>Corwell</string>
+            <string>Stormgarde</string>
+            <string>Stormwind</string>
+            <string>Stratholme</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+  </NameList>
+</ArrayOfNameList>

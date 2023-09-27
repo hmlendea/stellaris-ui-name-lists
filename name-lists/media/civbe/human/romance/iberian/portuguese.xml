@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>civbe_human_portuguese</Id>
+    <Name>Civilization: Beyond Earth - Human - Portuguese</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Brasilia -->
+          <Values>
+            <string>Alto Torre</string>
+            <string>Ascensão</string>
+            <string>Batista Aldeia</string>
+            <string>Bênção</string>
+            <string>Boa Esperança</string>
+            <string>Borda Dura</string>
+            <string>Caminho Celeste</string>
+            <string>Cidadela</string>
+            <string>Dourado</string>
+            <string>Fiel</string>
+            <string>Fogo Sagrado</string>
+            <string>Hélder</string>
+            <string>Lembrança</string>
+            <string>Lugar de Paz</string>
+            <string>Manoel</string>
+            <string>Monumento</string>
+            <string>Pacífico</string>
+            <string>Paraíso</string>
+            <string>Santo Adrião</string>
+            <string>Terra Alegre</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Brasilia -->
+          <Values>
+            <string>Alto Torre</string>
+            <string>Ascensão</string>
+            <string>Batista Aldeia</string>
+            <string>Bênção</string>
+            <string>Boa Esperança</string>
+            <string>Cidadela</string>
+            <string>Dourado</string>
+            <string>Fiel</string>
+            <string>Fogo Sagrado</string>
+            <string>Hélder</string>
+            <string>Lembrança</string>
+            <string>Manoel</string>
+            <string>Pacífico</string>
+            <string>Paraíso</string>
+            <string>Santo Adrião</string>
+            <string>Terra Alegre</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Gaia>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Brasilia -->
+          <Values>
+            <string>Caminho Celeste</string>
+            <string>Monumento</string>
+            <string>Lugar de Paz</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Alpine>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Brasilia -->
+          <Values>
+            <string>Borda Dura</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

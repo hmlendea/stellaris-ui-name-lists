@@ -22,14 +22,6 @@
       </Countries>
       <Cities>
         <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Slavic Federation -->
-          <Values>
-            <string>Mir</string>
-            <string>Rodomir</string>
-            <string>Stanimir</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
           <Values>
             <string>Dabokva</string>
@@ -56,14 +48,6 @@
     </Places>
     <Planets>
       <Generic>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Slavic Federation -->
-          <Values>
-            <string>Mir</string>
-            <string>Rodomir</string>
-            <string>Stanimir</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
           <Values>

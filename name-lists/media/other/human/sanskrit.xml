@@ -3,31 +3,7 @@
   <NameList>
     <Id>other-media_human_sanskrit</Id>
     <Name>Other Media - Human - Sanskrit</Name>
-    <Places>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Kavithan Protectorate -->
-          <Values>
-            <string>Dhanya</string>
-            <string>Garhi</string>
-            <string>Rayyan</string>
-            <string>Sachita</string>
-          </Values>
-        </NameGroup>
-      </Cities>
-    </Places>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Kavithan Protectorate -->
-          <Values>
-            <string>Dhanya</string>
-            <string>Garhi</string>
-            <string>Rayyan</string>
-            <string>Sachita</string>
-          </Values>
-        </NameGroup>
-      </Generic>
       <Tropical>
         <NameGroup>
           <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->

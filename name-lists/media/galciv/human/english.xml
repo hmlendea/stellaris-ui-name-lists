@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_galciv_human_english</Id>
+    <Name>Galactic Civilisations - Human (English)</Name>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Ships - Galactic Civilisations</Name>
+          <Values>
+            <string>Mace</string>
+            <string>Pitbull</string>
+            <string>Remnant</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Destroyer>
+        <NameGroup>
+          <Name>Ships - Galactic Civilisations</Name>
+          <Values>
+            <string>Battle Hammer</string>
+            <string>Revenge</string>
+            <string>War Hammer</string>
+          </Values>
+        </NameGroup>
+      </Destroyer>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - Galactic Civilisations</Name>
+          <Values>
+            <string>Endurance</string>
+            <string>Starward</string>
+            <string>Vigilance</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Titan>
+        <NameGroup>
+          <Name>Ships - Galactic Civilisations</Name>
+          <Values>
+            <string>Crusader</string>
+          </Values>
+        </NameGroup>
+      </Titan>
+      <Science>
+        <NameGroup>
+          <Name>Ships - Galactic Civilisations</Name>
+          <Values>
+            <string>Farsight</string>
+            <string>Strider</string>
+          </Values>
+        </NameGroup>
+      </Science>
+      <Coloniser>
+        <NameGroup>
+          <Name>Ships - Galactic Civilisations</Name>
+          <Values>
+            <string>Last Hope</string>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+    </Ships>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Values>
+            <string>Haven</string>
+            <string>Refuge</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

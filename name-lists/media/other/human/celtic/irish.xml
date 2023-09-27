@@ -6,12 +6,6 @@
     <Places>
       <Cities>
         <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- North Sea Alliance -->
-          <Values>
-            <string>Eilemuir</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
           <Values>
             <string>Caulkenny</string>
@@ -27,12 +21,6 @@
     </Places>
     <Planets>
       <Generic>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- North Sea Alliance -->
-          <Values>
-            <string>Eilemuir</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
           <Values>

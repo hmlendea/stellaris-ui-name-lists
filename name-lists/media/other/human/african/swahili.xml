@@ -3,31 +3,7 @@
   <NameList>
     <Id>other-media_human_swahili</Id>
     <Name>Other Media - Human - Swahili</Name>
-    <Places>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- People's African Union -->
-          <Values>
-            <string>Hoodo</string>
-            <string>Jenali</string>
-            <string>Libaan</string>
-            <string>Roonaan</string>
-          </Values>
-        </NameGroup>
-      </Cities>
-    </Places>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- People's African Union -->
-          <Values>
-            <string>Hoodo</string>
-            <string>Jenali</string>
-            <string>Libaan</string>
-            <string>Roonaan</string>
-          </Values>
-        </NameGroup>
-      </Generic>
       <Tropical>
         <NameGroup>
           <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->

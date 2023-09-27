@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>civbe_human_korean</Id>
+    <Name>Civilization: Beyond Earth - Human - Korean</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Pan-Asian Cooperative -->
+          <Values>
+            <string>Hyugeso</string>
+            <string>Sinjeon</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Chungsu -->
+          <Values>
+            <string>Jeongsang</string>
+            <string>Dangye</string>
+            <string>Uimu</string>
+            <string>Yagsog</string>
+            <string>Jibae</string>
+            <string>Cheongchija</string>
+            <string>Bojeung</string>
+            <string>Gamsa</string>
+            <string>Ihae</string>
+            <string>Junbi</string>
+            <string>Gwanchalja</string>
+            <string>Chul</string>
+            <string>Sinnyeom</string>
+            <string>Tong-Gwa</string>
+            <string>Pangyeol</string>
+            <string>Mogjeog</string>
+            <string>Pungbu</string>
+            <string>Insig</string>
+            <string>Pinancheo</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Pan-Asian Cooperative -->
+          <Values>
+            <string>Hyugeso</string>
+            <string>Sinjeon</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Chungsu -->
+          <Values>
+            <string>Jeongsang</string>
+            <string>Dangye</string>
+            <string>Uimu</string>
+            <string>Yagsog</string>
+            <string>Jibae</string>
+            <string>Cheongchija</string>
+            <string>Bojeung</string>
+            <string>Gamsa</string>
+            <string>Ihae</string>
+            <string>Junbi</string>
+            <string>Gwanchalja</string>
+            <string>Chul</string>
+            <string>Sinnyeom</string>
+            <string>Tong-Gwa</string>
+            <string>Pangyeol</string>
+            <string>Mogjeog</string>
+            <string>Pungbu</string>
+            <string>Insig</string>
+            <string>Pinancheo</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

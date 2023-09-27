@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>civbe_human_french</Id>
+    <Name>Civilization: Beyond Earth - Human - French</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Franco-Iberia -->
+          <Values>
+            <string>Bouclier</string>
+            <string>Espérance</string>
+            <string>Fidèle</string>
+            <string>Honorée</string>
+            <string>Kenza</string>
+            <string>Le Coeur</string>
+            <string>Mirabelle</string>
+            <string>Pacifique</string>
+            <string>Prospérité</string>
+            <string>Senén</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Franco-Iberia -->
+          <Values>
+            <string>Bouclier</string>
+            <string>Espérance</string>
+            <string>Fidèle</string>
+            <string>Honorée</string>
+            <string>Kenza</string>
+            <string>Le Coeur</string>
+            <string>Pacifique</string>
+            <string>Prospérité</string>
+            <string>Senén</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Gaia>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Franco-Iberia -->
+          <Values>
+            <string>Mirabelle</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

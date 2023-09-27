@@ -105,7 +105,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Mythology - Places</Name>
+          <Name>Places - Mythology</Name>
           <Values>
             <string>Alfheim</string>
           </Values>
@@ -121,7 +121,7 @@
       </Desert>
       <Continental>
         <NameGroup>
-          <Name>Mythology - Places</Name>
+          <Name>Places - Mythology</Name>
           <Values>
             <string>Asgard</string>
             <string>Midgard</string>
@@ -130,7 +130,7 @@
       </Continental>
       <Tundra>
         <NameGroup>
-          <Name>Mythology - Places</Name>
+          <Name>Places - Mythology</Name>
           <Values>
             <string>Utgard</string>
           </Values>
@@ -138,7 +138,7 @@
       </Tundra>
       <Arctic>
         <NameGroup>
-          <Name>Mythology - Places</Name>
+          <Name>Places - Mythology</Name>
           <Values>
             <string>Jotunheim</string>
             <string>Niflheim</string>
@@ -147,7 +147,7 @@
       </Arctic>
       <Molten>
         <NameGroup>
-          <Name>Mythology - Places</Name>
+          <Name>Places - Mythology</Name>
           <Values>
             <string>Muspelheim</string>
           </Values>

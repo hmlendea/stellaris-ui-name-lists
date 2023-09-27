@@ -6,21 +6,6 @@
     <Places>
       <Cities>
         <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Franco-Iberia -->
-          <Values>
-            <string>Bouclier</string>
-            <string>Espérance</string>
-            <string>Fidèle</string>
-            <string>Honorée</string>
-            <string>Kenza</string>
-            <string>Le Coeur</string>
-            <string>Mirabelle</string>
-            <string>Pacifique</string>
-            <string>Prospérité</string>
-            <string>Senén</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
           <Values>
             <string>Hutchinson</string>
@@ -72,20 +57,6 @@
     </Places>
     <Planets>
       <Generic>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Franco-Iberia -->
-          <Values>
-            <string>Bouclier</string>
-            <string>Espérance</string>
-            <string>Fidèle</string>
-            <string>Honorée</string>
-            <string>Kenza</string>
-            <string>Le Coeur</string>
-            <string>Pacifique</string>
-            <string>Prospérité</string>
-            <string>Senén</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
           <Values>
@@ -149,14 +120,6 @@
           </Values>
         </NameGroup>
       </Arid>
-      <Gaia>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Franco-Iberia -->
-          <Values>
-            <string>Mirabelle</string>
-          </Values>
-        </NameGroup>
-      </Gaia>
     </Planets>
   </NameList>
 </ArrayOfNameList>

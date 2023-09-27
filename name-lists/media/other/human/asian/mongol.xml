@@ -3,29 +3,7 @@
   <NameList>
     <Id>other-media_human_mongol</Id>
     <Name>Other Media - Human - Mongol</Name>
-    <Places>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Pan-Asian Cooperative -->
-          <Values>
-            <string>Adislal</string>
-            <string>Ganzorig</string>
-            <string>Tenger Bambai</string>
-          </Values>
-        </NameGroup>
-      </Cities>
-    </Places>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Pan-Asian Cooperative -->
-          <Values>
-            <string>Adislal</string>
-            <string>Ganzorig</string>
-            <string>Tenger Bambai</string>
-          </Values>
-        </NameGroup>
-      </Generic>
       <Gaia>
         <NameGroup>
           <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->

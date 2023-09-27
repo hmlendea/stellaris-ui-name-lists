@@ -14,32 +14,6 @@
       </Regions>
       <Cities>
         <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Kavithan Protectorate -->
-          <Values>
-            <string>Nikhitha</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Slavic Federation -->
-          <Values>
-            <string>Averkiy</string>
-            <string>Blesk</string>
-            <string>Heba</string>
-            <string>Istochnik</string>
-            <string>Izot</string>
-            <string>Khrabrost</string>
-            <string>Konechno</string>
-            <string>Krasota</string>
-            <string>Kuzma</string>
-            <string>Pobeda</string>
-            <string>Serik</string>
-            <string>Svyatoy</string>
-            <string>Uspekh</string>
-            <string>Vola</string>
-            <string>Yuriya</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
           <Values>
             <string>Alexin</string>
@@ -79,32 +53,6 @@
     </Places>
     <Planets>
       <Generic>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Kavithan Protectorate -->
-          <Values>
-            <string>Nikhitha</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Slavic Federation -->
-          <Values>
-            <string>Averkiy</string>
-            <string>Blesk</string>
-            <string>Heba</string>
-            <string>Istochnik</string>
-            <string>Izot</string>
-            <string>Khrabrost</string>
-            <string>Konechno</string>
-            <string>Krasota</string>
-            <string>Kuzma</string>
-            <string>Pobeda</string>
-            <string>Serik</string>
-            <string>Svyatoy</string>
-            <string>Uspekh</string>
-            <string>Vola</string>
-            <string>Yuriya</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
           <Values>
