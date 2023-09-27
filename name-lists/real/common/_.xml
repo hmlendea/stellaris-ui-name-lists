@@ -405,7 +405,7 @@
     <Planets>
       <Arctic>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
           <Values>
             <string>Arctica</string>
           </Values>

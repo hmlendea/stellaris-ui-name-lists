@@ -228,7 +228,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Planets Stellaris</Name> <!-- United Nations of Earth -->
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
           <Values>
             <string>Anchor</string>
             <string>Bounty</string>
@@ -245,7 +245,7 @@
       </Generic>
       <Desert>
         <NameGroup>
-          <Name>Planets Stellaris</Name> <!-- United Nations of Earth -->
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
           <Values>
             <string>Dune</string>
             <string>Sand</string>
@@ -259,6 +259,12 @@
         </NameGroup>
       </Desert>
       <Arid>
+        <NameGroup>
+          <Name>Countries - A Song of Ice and Fire</Name>
+          <Values>
+            <string>Dorne</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Cities - A Song of Ice and Fire</Name> <!-- Dorne -->
           <Values>
@@ -274,7 +280,7 @@
       </Arid>
       <Tropical>
         <NameGroup>
-          <Name>Planets Stellaris</Name> <!-- United Nations of Earth -->
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
           <Values>
             <string>Rain</string>
             <string>Storm</string>
@@ -295,7 +301,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Planets Stellaris</Name> <!-- United Nations of Earth -->
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
           <Values>
             <string>Dawn</string>
             <string>Horizon</string>
@@ -347,7 +353,7 @@
       </Ocean>
       <Tundra>
         <NameGroup>
-          <Name>Planets Stellaris</Name> <!-- United Nations of Earth -->
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
           <Values>
             <string>Blizzard</string>
           </Values>

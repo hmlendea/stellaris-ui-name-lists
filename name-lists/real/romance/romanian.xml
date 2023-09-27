@@ -320,7 +320,7 @@
       </Continental>
       <Ocean>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
           <Values>
             <string>Euxina</string>
           </Values>

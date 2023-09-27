@@ -7,7 +7,6 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-          <string>Peruvian</string>
           <string>Spanish</string>
         </Values>
       </NameGroup>
@@ -19,8 +18,6 @@
           <Values>
             <string>El Salvador</string>
             <string>Panama</string>
-            <string>Peru</string>
-            <string>Uruguay</string>
           </Values>
         </NameGroup>
       </Countries>
@@ -45,30 +42,12 @@
             <string>Panama City</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Cities - Peru</Name>
-          <Values>
-            <string>Lima</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Uruguay</Name>
-          <Values>
-            <string>Montevideo</string>
-          </Values>
-        </NameGroup>
       </Cities>
       <Rivers>
         <NameGroup>
           <Name>Rivers</Name>
           <Values>
             <string>Amazon</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Rivers - Paraguay</Name>
-          <Values>
-            <string>Rio Paraguay</string>
           </Values>
         </NameGroup>
       </Rivers>
@@ -91,18 +70,6 @@
           <Name>Deserts</Name>
           <Values>
             <string>Patagonia</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Deserts - Chile</Name>
-          <Values>
-            <string>Atacama</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Deserts - Peru</Name>
-          <Values>
-            <string>Nazca</string>
           </Values>
         </NameGroup>
       </Deserts>

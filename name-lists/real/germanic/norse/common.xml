@@ -7,9 +7,11 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
+          <string>Gothic</string>
           <string>Nord</string>
           <string>Nordic</string>
           <string>Norse</string>
+          <string>Vandal</string>
           <string>Viking</string>
         </Values>
       </NameGroup>
@@ -25,6 +27,14 @@
       </Regions>
     </Places>
     <GreatPeople>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Alaric</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
       <Explorers>
         <NameGroup>
           <Name>Explorers</Name>

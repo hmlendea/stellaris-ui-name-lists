@@ -6,7 +6,7 @@
     <Ships>
       <Corvette>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Ships - Stellaris</Name>
           <Values>
             <string>Aardvark</string>
             <string>Accentor</string>
@@ -330,7 +330,7 @@
       </Corvette>
       <Destroyer>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Ships - Stellaris</Name>
           <Values>
             <string>Amsterdam</string>
             <string>Austin</string>
@@ -766,7 +766,7 @@
       </Destroyer>
       <Cruiser>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Ships - Stellaris</Name>
           <Values>
             <string>Bolivar</string>
             <string>Brusilov</string>
@@ -974,7 +974,7 @@
       </Cruiser>
       <Battleship>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Ships - Stellaris</Name>
           <Values>
             <string>Ulysses</string>
             <string>Xenophon</string>
@@ -1069,7 +1069,7 @@
       </Battleship>
       <Titan>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Ships - Stellaris</Name>
           <Values>
             <string>Enterprise</string>
             <string>Invincible</string>
@@ -1082,7 +1082,7 @@
       </Titan>
       <Colossus>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Ships - Stellaris</Name>
           <Values>
             <string>Sol Invictus</string>
             <string>Adjudicator</string>
@@ -1094,7 +1094,7 @@
       </Colossus>
       <Juggernaut>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Ships - Stellaris</Name>
           <Values>
             <string>Ararat</string>
             <string>Axis Mundi</string>
@@ -1106,7 +1106,7 @@
       </Juggernaut>
       <Constructor>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Ships - Stellaris</Name>
           <Values>
             <string>Pacific</string>
             <string>Atlantic</string>
@@ -1140,7 +1140,7 @@
       </Constructor>
       <Science>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Ships - Stellaris</Name>
           <Values>
             <string>Aldrin</string>
             <string>Armstrong</string>
@@ -1195,7 +1195,7 @@
       </Science>
       <Coloniser>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Ships - Stellaris</Name>
           <Values>
             <string>Mayflower</string>
             <string>Abundance</string>
@@ -1239,7 +1239,7 @@
       </Coloniser>
       <Transport>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Ships - Stellaris</Name>
           <Values>
             <string>Cowpens</string>
             <string>Belleau Wood</string>
@@ -1259,7 +1259,7 @@
       </Transport>
       <IonCannon>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Ships - Stellaris</Name>
           <Values>
               <string>Ballista</string>
               <string>Bombard</string>
@@ -1275,7 +1275,7 @@
       <MilitaryStations>
         <Small>
           <NameGroup>
-            <Name>Stellaris - United Nations of Earth</Name>
+            <Name>Military Stations - Stellaris</Name>
             <Values>
               <string>Acheron</string>
               <string>Aconcagua</string>
@@ -1363,7 +1363,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Planets - Stellaris</Name>
           <Values>
             <string>Akatsuki</string>
             <string>Al-Jissa</string>
@@ -1410,7 +1410,7 @@
       </Generic>
       <Desert>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Planets - Stellaris</Name>
           <Values>
             <string>Atacama</string>
             <string>Baal</string>
@@ -1450,7 +1450,7 @@
       </Desert>
       <Arid>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Planets - Stellaris</Name>
           <Values>
             <string>Accona</string>
             <string>Antioch</string>
@@ -1473,7 +1473,7 @@
       </Arid>
       <Tropical>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Planets - Stellaris</Name>
           <Values>
             <string>Amazonia</string>
             <string>Bengal</string>
@@ -1491,7 +1491,7 @@
       </Tropical>
       <Continental>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Planets - Stellaris</Name>
           <Values>
             <string>Albion</string>
             <string>Amor</string>
@@ -1517,7 +1517,7 @@
       </Continental>
       <Gaia>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Planets - Stellaris</Name>
           <Values>
             <string>Cornucopia</string>
             <string>Eden</string>
@@ -1531,7 +1531,7 @@
       </Gaia>
       <Ocean>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Planets - Stellaris</Name>
           <Values>
             <string>Adriatica</string>
             <string>Aegea</string>
@@ -1557,7 +1557,7 @@
       </Ocean>
       <Tundra>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Planets - Stellaris</Name>
           <Values>
             <string>Blizzard</string>
             <string>Canada</string>
@@ -1572,7 +1572,7 @@
       </Tundra>
       <Arctic>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth</Name>
+          <Name>Planets - Stellaris</Name>
           <Values>
             <string>Alaska</string>
             <string>Arctica</string>

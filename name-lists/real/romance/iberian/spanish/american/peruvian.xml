@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>human_belgian</Id>
-    <Name>Human - Belgian</Name>
+    <Id>human_spanish_peruvian</Id>
+    <Name>Human - Spanish - Peruvian</Name>
     <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-          <string>Belgian</string>
+          <string>Peruvian</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -16,13 +16,7 @@
         <NameGroup>
           <Name>Countries</Name>
           <Values>
-            <string>Belgium</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Countries - Endonyms</Name>
-          <Values>
-            <string>Belgie</string>
+            <string>Peru</string>
           </Values>
         </NameGroup>
       </Countries>
@@ -30,28 +24,38 @@
         <NameGroup>
           <Name>Cities</Name>
           <Values>
-            <string>Antwerp</string>
-            <string>Brussels</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Endonyms</Name>
-          <Values>
-            <string>Antwerpen</string>
-            <string>Brussel</string>
+            <string>Lima</string>
           </Values>
         </NameGroup>
       </Cities>
-    </Places>
-    <Companies>
-      <SpacecraftManufacturers>
+      <Deserts>
         <NameGroup>
-          <Name>Spacecraft Manufacturers</Name>
+          <Name>Deserts</Name>
           <Values>
-            <string>QuentiQ</string>
+            <string>Nazca</string>
           </Values>
         </NameGroup>
-      </SpacecraftManufacturers>
-    </Companies>
+      </Deserts>
+    </Places>
+    <GreatPeople>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Castro</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
+    </GreatPeople>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Pandora: First Contact - Solar Dynasty</Name>
+          <Values>
+            <string>Castro</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
   </NameList>
 </ArrayOfNameList>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_spanish_paraguayan</Id>
+    <Name>Human - Spanish - Paraguayan</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Paraguayan</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Paraguay</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Paraguay</string> <!-- Rio Paraguay -->
+          </Values>
+        </NameGroup>
+      </Rivers>
+    </Places>
+  </NameList>
+</ArrayOfNameList>
