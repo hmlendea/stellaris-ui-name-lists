@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>human3</Id>
-    <Name>zzz HUMAN3</Name>
+    <Id>stellaris_human3</Id>
+    <Name>Stellaris - SPQR</Name>
     <Ships>
       <Corvette>
         <NameGroup>
-          <Name>zzz HUMAN3</Name>
+          <Name>Stellaris - SPQR</Name>
           <Values>
             <string>Accipiter</string>
             <string>Acutus</string>
@@ -178,7 +178,7 @@
       </Corvette>
       <Destroyer>
         <NameGroup>
-          <Name>zzz HUMAN3</Name>
+          <Name>Stellaris - SPQR</Name>
           <Values>
             <string>Abundantia</string>
             <string>Acca Larentia</string>
@@ -323,7 +323,7 @@
       </Destroyer>
       <Cruiser>
         <NameGroup>
-          <Name>zzz HUMAN3</Name>
+          <Name>Stellaris - SPQR</Name>
           <Values>
             <string>Aper</string>
             <string>Apollo</string>
@@ -426,7 +426,7 @@
       </Cruiser>
       <Battleship>
         <NameGroup>
-          <Name>zzz HUMAN3</Name>
+          <Name>Stellaris - SPQR</Name>
           <Values>
             <string>Aemilian</string>
             <string>Agrippa</string>
@@ -497,7 +497,7 @@
       </Battleship>
       <Titan>
         <NameGroup>
-          <Name>zzz HUMAN3</Name>
+          <Name>Stellaris - SPQR</Name>
           <Values>
             <string>Imperator Augustus</string>
             <string>Julius Caesar</string>
@@ -509,7 +509,7 @@
       </Titan>
       <Colossus>
         <NameGroup>
-          <Name>zzz HUMAN3</Name>
+          <Name>Stellaris - SPQR</Name>
           <Values>
             <string>Dis Pater</string>
             <string>Pax Romana</string>
@@ -519,7 +519,7 @@
       </Colossus>
       <Juggernaut>
         <NameGroup>
-          <Name>zzz HUMAN3</Name>
+          <Name>Stellaris - SPQR</Name>
           <Values>
             <string>Acca Larentia</string>
             <string>Emperor</string>
@@ -532,7 +532,7 @@
       </Juggernaut>
       <Constructor>
         <NameGroup>
-          <Name>zzz HUMAN3</Name>
+          <Name>Stellaris - SPQR</Name>
           <Values>
             <string>Hibernia</string>
             <string>Macedonia</string>
@@ -552,7 +552,7 @@
       </Constructor>
       <Science>
         <NameGroup>
-          <Name>zzz HUMAN3</Name>
+          <Name>Stellaris - SPQR</Name>
           <Values>
             <string>Acoreus</string>
             <string>Adrastus</string>
@@ -584,7 +584,7 @@
       </Science>
       <Coloniser>
         <NameGroup>
-          <Name>zzz HUMAN3</Name>
+          <Name>Stellaris - SPQR</Name>
           <Values>
             <string>Achaea</string>
             <string>Aegyptus</string>
@@ -613,7 +613,7 @@
       </Coloniser>
       <Transport>
         <NameGroup>
-          <Name>zzz HUMAN3</Name>
+          <Name>Stellaris - SPQR</Name>
           <Values>
             <string>Aeneator</string>
             <string>Aquilifer</string>
@@ -630,7 +630,7 @@
       </Transport>
       <IonCannon>
         <NameGroup>
-          <Name>zzz HUMAN3</Name>
+          <Name>Stellaris - SPQR</Name>
           <Values>
             <string>Ballista</string>
             <string>Javelin</string>
@@ -644,7 +644,7 @@
       <MilitaryStations>
         <Generic>
           <NameGroup>
-            <Name>zzz HUMAN3</Name>
+            <Name>Stellaris - SPQR</Name>
             <Values>
               <string>Gladius</string>
               <string>Hasta</string>
@@ -682,7 +682,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>zzz HUMAN3</Name>
+          <Name>Stellaris - SPQR</Name>
           <Values>
             <string>Acherusia</string>
             <string>Antiochia</string>

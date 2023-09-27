@@ -255,7 +255,7 @@ ITALIAN_NAMELISTS=$(get-namelists-merged ${ITALIAN_REAL_NAMELISTS} ${ITALIAN_MED
 #############
 ### LATIN ###
 #############
-LATIN_MEDIA_NAMELISTS="media/other/human/romance/latin media/stellaris/human3"
+LATIN_MEDIA_NAMELISTS="media/other/human/romance/latin media/stellaris/human/spqr"
 LATIN_REAL_NAMELISTS="real/romance/latin real/common/european real/common/_"
 LATIN_NAMELISTS=$(get-namelists-merged ${LATIN_REAL_NAMELISTS} ${LATIN_MEDIA_NAMELISTS})
 
@@ -392,7 +392,7 @@ build "ui_extra_humans_extended"        "Human - *Extended*"        "L" \
     media/other/human/maori media/other/human/sanskrit \
     media/other/human/tamil media/other/human/urdu \
     \
-    real/human1 real/human2 ui/human_extra real/zextended
+    media/stellaris/human/une media/stellaris/human/com ui/human_extra ui/human_zextended
 
 build "ui_aow_dvar"  "AoW:P - Dvar"     "L" media/aow/dvar
 build "ui_aow_kirko" "AoW:P - Kir'Ko"   "L" media/aow/kirko
