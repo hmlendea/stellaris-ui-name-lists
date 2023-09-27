@@ -179,27 +179,29 @@ CELTIC_NAMELISTS=$(get-namelists-merged ${CELTIC_MEDIA_NAMELISTS} ${CELTIC_REAL_
 ###############
 ### ENGLISH ###
 ###############
-ENGLISH_USA_MEDIA_NAMELISTS="media/other/human/english/american/american media/other/human/english/common"
+ENGLISH_COMMON_MEDIA_NAMELISTS="media/foundation/english media/other/human/english/common"
+
+ENGLISH_USA_MEDIA_NAMELISTS="media/other/human/english/american/american ${ENGLISH_COMMON_MEDIA_NAMELISTS}"
 ENGLISH_USA_REAL_NAMELISTS="real/english/american/american real/english/common real/common/_"
 ENGLISH_USA_NAMELISTS=$(get-namelists-merged ${ENGLISH_USA_REAL_NAMELISTS} ${ENGLISH_USA_MEDIA_NAMELISTS})
 
-ENGLISH_NORTHAMERICAN_MEDIA_NAMELISTS=$(get-namelists-merged ${ENGLISH_USA_MEDIA_NAMELISTS} media/other/human/english/american/canadian media/other/human/english/common)
+ENGLISH_NORTHAMERICAN_MEDIA_NAMELISTS=$(get-namelists-merged ${ENGLISH_USA_MEDIA_NAMELISTS} media/other/human/english/american/canadian ${ENGLISH_COMMON_MEDIA_NAMELISTS})
 ENGLISH_NORTHAMERICAN_REAL_NAMELISTS=$(get-namelists-merged ${ENGLISH_USA_REAL_NAMELISTS} real/english/american/canadian real/english/common real/common/_)
 ENGLISH_NORTHAMERICAN_NAMELISTS=$(get-namelists-merged ${ENGLISH_NORTHAMERICAN_MEDIA_NAMELISTS} ${ENGLISH_NORTHAMERICAN_REAL_NAMELISTS})
 
-ENGLISH_EURO_MEDIA_NAMELISTS="media/other/human/english/english media/other/human/english/british media/other/human/english/common"
+ENGLISH_EURO_MEDIA_NAMELISTS="media/other/human/english/english media/other/human/english/british ${ENGLISH_COMMON_MEDIA_NAMELISTS}"
 ENGLISH_EURO_REAL_NAMELISTS="real/english/english real/english/british real/english/common real/common/european real/common/_"
 ENGLISH_EURO_NAMELISTS=$(get-namelists-merged ${ENGLISH_EURO_MEDIA_NAMELISTS} ${ENGLISH_EURO_REAL_NAMELISTS})
 
-ENGLISH_OCEANIAN_MEDIA_NAMELISTS="media/other/human/english/oceanian/australian media/other/human/english/common"
+ENGLISH_OCEANIAN_MEDIA_NAMELISTS="media/other/human/english/oceanian/australian ${ENGLISH_COMMON_MEDIA_NAMELISTS}"
 ENGLISH_OCEANIAN_REAL_NAMELISTS="real/english/oceanian/australian real/english/oceanian/zealandian real/english/british real/english/common real/common/_"
 ENGLISH_OCEANIAN_NAMELISTS=$(get-namelists-merged ${ENGLISH_OCEANIAN_MEDIA_NAMELISTS} ${ENGLISH_OCEANIAN_REAL_NAMELISTS})
 
 ENGLISH_NAMELISTS=$(get-namelists-merged ${ENGLISH_NORTHAMERICAN_NAMELISTS} ${ENGLISH_EURO_NAMELISTS} ${ENGLISH_OCEANIAN_NAMELISTS})
 
-###############
+##############
 ### FRENCH ###
-###############
+##############
 FRENCH_AFRO_MEDIA_NAMELISTS="media/other/human/romance/french/common"
 FRENCH_AFRO_REAL_NAMELISTS="real/romance/french/ivorian real/common/_"
 FRENCH_AFRO_NAMELISTS=$(get-namelists-merged ${FRENCH_AFRO_REAL_NAMELISTS} ${FRENCH_AFRO_MEDIA_NAMELISTS})
@@ -232,7 +234,7 @@ GERMANIC_NAMELISTS=$(get-namelists-merged ${GERMANIC_EURO_NAMELISTS} ${NORSE_NAM
 ################
 ### HELLENIC ###
 ################
-HELLENIC_MEDIA_NAMELISTS="media/other/human/hellenic/common"
+HELLENIC_MEDIA_NAMELISTS="media/foundation/greek media/other/human/hellenic/common"
 HELLENIC_REAL_NAMELISTS="real/hellenic/cypriote real/hellenic/greek real/hellenic/common real/common/european real/common/_"
 HELLENIC_NAMELISTS=$(get-namelists-merged ${HELLENIC_REAL_NAMELISTS} ${HELLENIC_MEDIA_NAMELISTS})
 
@@ -257,7 +259,7 @@ ITALIAN_NAMELISTS=$(get-namelists-merged ${ITALIAN_REAL_NAMELISTS} ${ITALIAN_MED
 #############
 ### LATIN ###
 #############
-LATIN_MEDIA_NAMELISTS="media/other/human/romance/latin media/stellaris/human/spqr"
+LATIN_MEDIA_NAMELISTS="media/foundation/latin media/other/human/romance/latin media/stellaris/human/spqr"
 LATIN_REAL_NAMELISTS="real/romance/latin real/common/european real/common/_"
 LATIN_NAMELISTS=$(get-namelists-merged ${LATIN_REAL_NAMELISTS} ${LATIN_MEDIA_NAMELISTS})
 
@@ -383,7 +385,7 @@ build "ui_extra_humans_extended"        "Human - *Extended*"        "L" \
     real/kiribatian real/malaysian real/maori real/nahuatl real/nepali real/persian real/polynesian \
     real/tajik real/tamil real/tunisian real/urdu \
     \
-    media/galciv/human media/sose/human media/starcraft/human media/starwars/human/_ \
+    media/foundation/human media/galciv/human media/sose/human media/starcraft/human media/starwars/human/_ \
     media/starwars/human/alderaanian media/starwars/human/corellian media/starwars/human/coruscanti media/runescape/human_asgarnian media/runescape/human_kandarin \
     media/runescape/human_menaphite media/runescape/human_misthalinian media/runescape/human media/other/human/armenian \
     media/other/human/filipino media/other/human/hebrew  media/other/human/hindi \
