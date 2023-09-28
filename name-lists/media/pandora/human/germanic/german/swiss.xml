@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>other-media_human_croatian</Id>
-    <Name>Other Media - Human - Croatian</Name>
+    <Id>pandora_human_swiss</Id>
+    <Name>Pandora: First Contact - Human - Swiss</Name>
     <Places>
       <Cities>
         <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
+          <Name>Cities - Pandora: First Contact</Name> <!-- Noxium Corporation -->
           <Values>
-            <string>Ružička</string>
+            <string>Lemann</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -16,9 +16,9 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
+          <Name>Cities - Pandora: First Contact</Name> <!-- Noxium Corporation -->
           <Values>
-            <string>Ružička</string>
+            <string>Lemann</string>
           </Values>
         </NameGroup>
       </Generic>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>pandora_human_english_common</Id>
+    <Name>Pandora: First Contact - Human - English (Common)</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Imperium -->
+          <Values>
+            <string>Needle</string>
+            <string>Slim</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Noxium Corporation -->
+          <Values>
+            <string>Gross</string>
+            <string>Law</string>
+            <string>Merill</string>
+            <string>Smith</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
+          <Values>
+            <string>Haven</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
+          <Values>
+            <string>Synge</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Imperium -->
+          <Values>
+            <string>Needle</string>
+            <string>Slim</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Noxium Corporation -->
+          <Values>
+            <string>Gross</string>
+            <string>Law</string>
+            <string>Merill</string>
+            <string>Smith</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
+          <Values>
+            <string>Haven</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
+          <Values>
+            <string>Synge</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

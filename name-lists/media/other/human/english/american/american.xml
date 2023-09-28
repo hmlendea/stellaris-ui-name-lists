@@ -23,18 +23,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
-          <Values>
-            <string>Odum</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
-          <Values>
-            <string>Whipple</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Saints Row</Name>
           <Values>
             <string>Steelport</string>
@@ -105,18 +93,6 @@
     </Stations>
     <Planets>
       <Generic>
-        <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
-          <Values>
-            <string>Odum</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
-          <Values>
-            <string>Whipple</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
           <Values>

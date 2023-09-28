@@ -14,18 +14,6 @@
       </Regions>
       <Cities>
         <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Noxium Corporation -->
-          <Values>
-            <string>Schroders</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
-          <Values>
-            <string>Penrose</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Frostpunk</Name>
           <Values>
             <string>Frostfire</string>
@@ -53,18 +41,6 @@
     </Companies>
     <Planets>
       <Generic>
-        <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Noxium Corporation -->
-          <Values>
-            <string>Schroders</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
-          <Values>
-            <string>Penrose</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - Frostpunk</Name>
           <Values>

@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>other-media_human_celtic_irish</Id>
-    <Name>Other Media - Human - Celtic - Irish</Name>
+    <Id>pandora_human_russian</Id>
+    <Name>Pandora: First Contact - Human - Russian</Name>
     <Places>
       <Cities>
         <NameGroup>
-          <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
+          <Name>Cities - Pandora: First Contact</Name> <!-- Solar Dynasty -->
           <Values>
-            <string>Caulkenny</string>
+            <string>Demidov</string>
+            <string>Stakhanov</string>
+            <string>Zhukov</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -16,9 +18,11 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
+          <Name>Cities - Pandora: First Contact</Name> <!-- Solar Dynasty -->
           <Values>
-            <string>Caulkenny</string>
+            <string>Demidov</string>
+            <string>Stakhanov</string>
+            <string>Zhukov</string>
           </Values>
         </NameGroup>
       </Generic>

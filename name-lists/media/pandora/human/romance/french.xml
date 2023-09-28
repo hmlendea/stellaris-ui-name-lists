@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>other-media_human_arabic</Id>
-    <Name>Other Media - Human - Arabic</Name>
+    <Id>pandora_human_french</Id>
+    <Name>Pandora: First Contact - Human - French</Name>
     <Places>
       <Cities>
         <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Divine Ascension -->
+          <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
           <Values>
-            <string>Karbala</string>
+            <string>Hutchinson</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Imperium -->
+          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
           <Values>
-            <string>Al-Walid</string>
+            <string>Becquerel</string>
+            <string>Cousteau</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -22,15 +23,16 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Divine Ascension -->
+          <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
           <Values>
-            <string>Karbala</string>
+            <string>Hutchinson</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Imperium -->
+          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
           <Values>
-            <string>Al-Walid</string>
+            <string>Becquerel</string>
+            <string>Cousteau</string>
           </Values>
         </NameGroup>
       </Generic>

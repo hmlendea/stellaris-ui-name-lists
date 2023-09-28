@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>other-media_human_venezuelan</Id>
-    <Name>Other Media - Human - Venezuelan</Name>
+    <Id>pandora_human_austrian</Id>
+    <Name>Pandora: First Contact - Human - Austrian</Name>
     <Places>
       <Cities>
         <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Solar Dynasty -->
+          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
           <Values>
-            <string>Chávez</string>
+            <string>Zsigmondy</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -16,9 +16,9 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Solar Dynasty -->
+          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
           <Values>
-            <string>Chávez</string>
+            <string>Zsigmondy</string>
           </Values>
         </NameGroup>
       </Generic>
