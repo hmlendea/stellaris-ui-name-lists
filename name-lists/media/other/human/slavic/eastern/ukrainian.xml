@@ -3,25 +3,7 @@
   <NameList>
     <Id>other-media_human_ukrainian</Id>
     <Name>Other Media - Human - Ukrainian</Name>
-    <Places>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - Pax Nova</Name> <!-- Eastern Resistance -->
-          <Values>
-            <string>Zhitani</string>
-          </Values>
-        </NameGroup>
-      </Cities>
-    </Places>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Cities - Pax Nova</Name> <!-- Eastern Resistance -->
-          <Values>
-            <string>Zhitani</string>
-          </Values>
-        </NameGroup>
-      </Generic>
       <Tundra>
         <NameGroup>
           <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->

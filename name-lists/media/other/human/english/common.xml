@@ -76,41 +76,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Pax Nova</Name> <!-- Terran Republic -->
-          <Values>
-            <string>Aust</string>
-            <string>Burgh</string>
-            <string>Burton</string>
-            <string>Caister</string>
-            <string>Calne</string>
-            <string>Castor</string>
-            <string>Chirk</string>
-            <string>Crowland</string>
-            <string>Culray</string>
-            <string>Dorking</string>
-            <string>Dysert</string>
-            <string>Hatfield</string>
-            <string>Leiston</string>
-            <string>Liskeard</string>
-            <string>Merton</string>
-            <string>Newbury</string>
-            <string>Orwell</string>
-            <string>Patrington</string>
-            <string>Ravenglass</string>
-            <string>Richmondville</string>
-            <string>Ripley</string>
-            <string>Rye</string>
-            <string>Spalding</string>
-            <string>Stratford</string>
-            <string>Stroud</string>
-            <string>Walden</string>
-            <string>Wenlock</string>
-            <string>Woodbridge</string>
-            <string>Wright</string>
-            <string>Wrotham</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - WarCraft</Name>
           <Values>
             <string>Stormwind</string>
@@ -182,41 +147,6 @@
           <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
           <Values>
             <string>Synge</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Pax Nova</Name> <!-- Terran Republic -->
-          <Values>
-            <string>Aust</string>
-            <string>Burgh</string>
-            <string>Burton</string>
-            <string>Caister</string>
-            <string>Calne</string>
-            <string>Castor</string>
-            <string>Chirk</string>
-            <string>Crowland</string>
-            <string>Culray</string>
-            <string>Dorking</string>
-            <string>Dysert</string>
-            <string>Hatfield</string>
-            <string>Leiston</string>
-            <string>Liskeard</string>
-            <string>Merton</string>
-            <string>Newbury</string>
-            <string>Orwell</string>
-            <string>Patrington</string>
-            <string>Ravenglass</string>
-            <string>Richmondville</string>
-            <string>Ripley</string>
-            <string>Rye</string>
-            <string>Spalding</string>
-            <string>Stratford</string>
-            <string>Stroud</string>
-            <string>Walden</string>
-            <string>Wenlock</string>
-            <string>Woodbridge</string>
-            <string>Wright</string>
-            <string>Wrotham</string>
           </Values>
         </NameGroup>
         <NameGroup>

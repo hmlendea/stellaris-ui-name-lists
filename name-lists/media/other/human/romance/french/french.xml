@@ -18,41 +18,6 @@
             <string>Cousteau</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Cities - Pax Nova</Name> <!-- Templar Order -->
-          <Values>
-            <string>Antignac</string>
-            <string>Baudre</string>
-            <string>Bourdain</string>
-            <string>Bruyeres</string>
-            <string>Charvonnex</string>
-            <string>Clairefontaine</string>
-            <string>Croisille</string>
-            <string>Cuiseaux</string>
-            <string>Dieu</string>
-            <string>Draux</string>
-            <string>Dulion</string>
-            <string>Fage</string>
-            <string>Juville</string>
-            <string>Liercourt</string>
-            <string>Lugan</string>
-            <string>Marceau</string>
-            <string>Montcabrier</string>
-            <string>Ortale</string>
-            <string>Ortigier</string>
-            <string>Pardoux</string>
-            <string>Roi</string>
-            <string>Roinul</string>
-            <string>Ruan</string>
-            <string>Sancerre</string>
-            <string>Thulay</string>
-            <string>Verchin</string>
-            <string>Vide</string>
-            <string>Vignand</string>
-            <string>Viller</string>
-            <string>Voyette</string>
-          </Values>
-        </NameGroup>
       </Cities>
     </Places>
     <Planets>
@@ -68,41 +33,6 @@
           <Values>
             <string>Becquerel</string>
             <string>Cousteau</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Pax Nova</Name> <!-- Templar Order -->
-          <Values>
-            <string>Antignac</string>
-            <string>Baudre</string>
-            <string>Bourdain</string>
-            <string>Bruyeres</string>
-            <string>Charvonnex</string>
-            <string>Clairefontaine</string>
-            <string>Croisille</string>
-            <string>Cuiseaux</string>
-            <string>Dieu</string>
-            <string>Draux</string>
-            <string>Dulion</string>
-            <string>Fage</string>
-            <string>Juville</string>
-            <string>Liercourt</string>
-            <string>Lugan</string>
-            <string>Marceau</string>
-            <string>Montcabrier</string>
-            <string>Ortale</string>
-            <string>Ortigier</string>
-            <string>Pardoux</string>
-            <string>Roi</string>
-            <string>Roinul</string>
-            <string>Ruan</string>
-            <string>Sancerre</string>
-            <string>Thulay</string>
-            <string>Verchin</string>
-            <string>Vide</string>
-            <string>Vignand</string>
-            <string>Viller</string>
-            <string>Voyette</string>
           </Values>
         </NameGroup>
         <NameGroup>

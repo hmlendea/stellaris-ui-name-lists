@@ -89,14 +89,6 @@
       </MilitaryUnitTypes>
     </Warfare>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Cities - Pax Nova</Name> <!-- Eastern Resistance -->
-          <Values>
-            <string>Kard</string>
-          </Values>
-        </NameGroup>
-      </Generic>
       <Desert>
         <NameGroup>
           <Name>Places</Name>
