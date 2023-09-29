@@ -42,14 +42,6 @@
           </Values>
         </NameGroup>
       </Cities>
-      <Mountains>
-        <NameGroup>
-          <Name>Mountains - Marvel</Name>
-          <Values>
-            <string>Bashenga</string>
-          </Values>
-        </NameGroup>
-      </Mountains>
     </Places>
     <BiosphereNames>
       <Animals>
@@ -71,18 +63,6 @@
         </NameGroup>
       </Generic>
     </ShipClasses>
-    <Stations>
-      <Starbases>
-        <Outposts>
-          <NameGroup>
-            <Name>Outposts - Games</Name>
-            <Values>
-              <string>No Man's Sky</string>
-            </Values>
-          </NameGroup>
-        </Outposts>
-      </Starbases>
-    </Stations>
     <Armies>
       <XenomorphArmy>
         <NameGroup>
@@ -159,13 +139,6 @@
           </Values>
         </NameGroup>
       </Arid>
-      <Tropical>
-        <NameGroup>
-          <Name>Planets - Avatar</Name>
-          <Values>
-            <string>Pandora</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Planets - Galactik Football</Name>
           <Values>
@@ -173,7 +146,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Games</Name>
+          <Name>Video Games</Name>
           <Values>
             <string>Tropico</string>
           </Values>
@@ -187,10 +160,9 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Planets - Warhammer</Name>
+          <Name>Planets - Warhammer 40K</Name>
           <Values>
             <string>Espandor</string>
-            <string>Gudrun</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -209,7 +181,7 @@
       </Continental>
       <Gaia>
         <NameGroup>
-          <Name>Games</Name>
+          <Name>Video Games</Name>
           <Values>
             <string>Terraria</string>
           </Values>
@@ -258,12 +230,6 @@
         </NameGroup>
       </Arctic>
       <Tomb>
-        <NameGroup>
-          <Name>Planets - Warhammer</Name>
-          <Values>
-            <string>Krieg</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Places - A Song of Ice and Fire</Name>
           <Values>

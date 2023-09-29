@@ -48,6 +48,14 @@
           </Values>
         </NameGroup>
       </Arid>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Avatar</Name>
+          <Values>
+            <string>Pandora</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
       <Ocean>
         <NameGroup>
           <Name>Heroes - Age of Mythology</Name>

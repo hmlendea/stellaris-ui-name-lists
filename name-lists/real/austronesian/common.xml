@@ -35,28 +35,5 @@
         </Throwables>
       </Weapons>
     </Warfare>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Polystralia</Name>
-          <Values>
-            <string>Mareeba</string>
-            <string>Speewah</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Polystralia - Yugambeh</Name>
-          <Values>
-            <string>Jimboomba</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilization: Beyond Earth - Polystralia - Wathawurrung</Name>
-          <Values>
-            <string>Ballarat</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

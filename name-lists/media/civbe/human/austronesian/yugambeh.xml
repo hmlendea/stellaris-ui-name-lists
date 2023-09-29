@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>civbe_human_yugambeh</Id>
+    <Name>Civilization: Beyond Earth - Human - Yugambeh</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Polystralia -->
+          <Values>
+            <string>Jimboomba</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth</Name> <!-- Polystralia -->
+          <Values>
+            <string>Jimboomba</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

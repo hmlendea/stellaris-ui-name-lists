@@ -20,7 +20,25 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains - Marvel</Name>
+          <Values>
+            <string>Bashenga</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
     </Places>
+    <GreatPeople>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Bashenga</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+    </GreatPeople>
     <Planets>
       <Generic>
         <NameGroup>

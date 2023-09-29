@@ -49,6 +49,18 @@
         </NameGroup>
       </Heroes>
     </GreatPeople>
+    <Stations>
+      <Starbases>
+        <Outposts>
+          <NameGroup>
+            <Name>Video Games</Name>
+            <Values>
+              <string>No Man's Sky</string>
+            </Values>
+          </NameGroup>
+        </Outposts>
+      </Starbases>
+    </Stations>
     <Planets>
       <Generic>
         <NameGroup>
