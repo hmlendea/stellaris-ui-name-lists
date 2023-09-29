@@ -16,15 +16,6 @@
       </Cities>
     </Places>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>Las Veredas</string>
-            <string>Nueva Sonora</string>
-          </Values>
-        </NameGroup>
-      </Generic>
       <Arid>
         <NameGroup>
           <Name>Cities - Grand Theft Auto</Name>

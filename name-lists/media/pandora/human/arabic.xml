@@ -17,6 +17,19 @@
             <string>Al-Walid</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Noxium Corporation -->
+          <Values>
+            <string>Sharatān</string> <!-- Sheratan -->
+            <string>Zaniah</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
+          <Values>
+            <string>Alkaid</string>
+          </Values>
+        </NameGroup>
       </Cities>
     </Places>
     <Planets>
@@ -31,6 +44,19 @@
           <Name>Cities - Pandora: First Contact</Name> <!-- Imperium -->
           <Values>
             <string>Al-Walid</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Noxium Corporation -->
+          <Values>
+            <string>Sharatān</string> <!-- Sheratan -->
+            <string>Zaniah</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
+          <Values>
+            <string>Alkaid</string>
           </Values>
         </NameGroup>
       </Generic>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ypp_english_common</Id>
+    <Name>Puzzle Pirates - English (Common)</Name>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Admiral</string>
+            <string>Angelfish</string>
+            <string>Barracuda</string>
+            <string>Blackthrope</string>
+            <string>Boyle</string>
+            <string>Byrne</string>
+            <string>Charcoal</string>
+            <string>Cormorant</string>
+            <string>Ebony</string>
+            <string>Ember</string>
+            <string>Gallows</string>
+            <string>Midsummer</string>
+            <string>Port Venture</string>
+            <string>Shatterstone</string>
+            <string>Starfish</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Blackthrope</string>
+            <string>Boyle</string>
+            <string>Byrne</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Gaia>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Cleopatra's Pearl</string>
+            <string>Midsummer</string>
+            <string>Port Venture</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Ocean>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Angelfish</string>
+            <string>Barracuda</string>
+            <string>Cormorant</string>
+            <string>Starfish</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Alpine>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Charcoal</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+      <Tomb>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Ebony</string>
+            <string>Gallows</string>
+            <string>Shatterstone</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+      <Molten>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Ember</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

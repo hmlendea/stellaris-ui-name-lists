@@ -22,12 +22,6 @@
       </Countries>
       <Cities>
         <NameGroup>
-          <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
-          <Values>
-            <string>Dabokva</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - The Witcher</Name>
           <Values>
             <string>Dravograd</string>
@@ -37,12 +31,6 @@
     </Places>
     <Planets>
       <Generic>
-        <NameGroup>
-          <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
-          <Values>
-            <string>Dabokva</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - The Witcher</Name>
           <Values>

@@ -12,15 +12,6 @@
           </Values>
         </NameGroup>
       </Countries>
-      <Regions>
-        <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Jorvik</string>
-            <string>Norse</string>
-          </Values>
-        </NameGroup>
-      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - The Witcher</Name>
@@ -31,16 +22,6 @@
         </NameGroup>
       </Cities>
     </Places>
-    <Ships>
-      <Juggernaut>
-        <NameGroup>
-          <Name>Ships - Stellaris</Name>
-          <Values>
-            <string>Ragnarök</string>
-          </Values>
-        </NameGroup>
-      </Juggernaut>
-    </Ships>
     <Planets>
       <Generic>
         <NameGroup>
@@ -51,15 +32,6 @@
           </Values>
         </NameGroup>
       </Generic>
-      <Tundra>
-        <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Jorvik</string>
-            <string>Norse</string>
-          </Values>
-        </NameGroup>
-      </Tundra>
     </Planets>
   </NameList>
 </ArrayOfNameList>

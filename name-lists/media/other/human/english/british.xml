@@ -4,14 +4,6 @@
     <Id>other-media_human_english_british</Id>
     <Name>Other Media - Human - English (British)</Name>
     <Places>
-      <Regions>
-        <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Scrimshaw</string>
-          </Values>
-        </NameGroup>
-      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Frostpunk</Name>
@@ -29,16 +21,6 @@
         </NameGroup>
       </Cities>
     </Places>
-    <Companies>
-      <ResearchCompanies>
-        <NameGroup>
-          <Name>Research Companies - Alien</Name>
-          <Values>
-            <string>Weyland</string>
-          </Values>
-        </NameGroup>
-      </ResearchCompanies>
-    </Companies>
     <Planets>
       <Generic>
         <NameGroup>
@@ -55,36 +37,7 @@
             <string>Claywich</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Scrimshaw</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
-          <Values>
-            <string>Fitzroy's World</string>
-            <string>Hoxworth</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>Avalon</string>
-            <string>New Coventry</string>
-            <string>St. Pomeroy</string>
-          </Values>
-        </NameGroup>
       </Generic>
-      <Continental>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>Albion</string>
-          </Values>
-        </NameGroup>
-      </Continental>
     </Planets>
   </NameList>
 </ArrayOfNameList>

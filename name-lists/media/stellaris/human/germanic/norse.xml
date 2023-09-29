@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>stellaris_human_norse</Id>
+    <Name>Stellaris - Human - Norse</Name>
+    <Ships>
+      <Juggernaut>
+        <NameGroup>
+          <Name>Ships - Stellaris</Name>
+          <Values>
+            <string>Ragnarök</string>
+          </Values>
+        </NameGroup>
+      </Juggernaut>
+    </Ships>
+  </NameList>
+</ArrayOfNameList>

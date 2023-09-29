@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>alien_human_english_british</Id>
+    <Name>Alien - Human - English (British)</Name>
+    <Companies>
+      <ResearchCompanies>
+        <NameGroup>
+          <Name>Research Companies - Alien</Name>
+          <Values>
+            <string>Lasalle</string>
+            <string>Weyland</string>
+          </Values>
+        </NameGroup>
+      </ResearchCompanies>
+    </Companies>
+    <Stations>
+      <Starbases>
+        <Outposts>
+          <NameGroup>
+            <Name>Outposts - Alien</Name> <!-- Weyland -->
+            <Values>
+              <string>September</string>
+            </Values>
+          </NameGroup>
+        </Outposts>
+      </Starbases>
+    </Stations>
+  </NameList>
+</ArrayOfNameList>

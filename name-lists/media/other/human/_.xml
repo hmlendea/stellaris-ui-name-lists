@@ -5,12 +5,6 @@
     <Name>Other Media - Human</Name>
     <Denonyms>
       <NameGroup>
-        <Name>Denonyms - Marvel</Name>
-        <Values>
-          <string>Wakandan</string>
-        </Values>
-      </NameGroup>
-      <NameGroup>
         <Name>Denonyms - Memes</Name>
         <Values>
           <string>Kekistani</string>
@@ -19,12 +13,6 @@
     </Denonyms>
     <Places>
       <Countries>
-        <NameGroup>
-          <Name>Countries - Marvel</Name>
-          <Values>
-            <string>Wakanda</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Countries - Memes</Name>
           <Values>
@@ -42,6 +30,12 @@
       </Regions>
       <Cities>
         <NameGroup>
+          <Name>Cities - Alien</Name>
+          <Values>
+            <string>Shinowa</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - Bugsnax</Name>
           <Values>
             <string>Snaxburg</string>
@@ -57,39 +51,6 @@
         </NameGroup>
       </Mountains>
     </Places>
-    <GreatPeople>
-      <Heroes>
-        <NameGroup>
-          <Name>Heroes - Memes</Name>
-          <Values>
-            <string>Captain Alex</string>
-            <string>Pepe the Frog</string>
-          </Values>
-        </NameGroup>
-      </Heroes>
-    </GreatPeople>
-    <Warfare>
-      <Weapons>
-        <Swords>
-          <NameGroup>
-            <Name>Swords - Puzzle Pirates</Name>
-            <Values>
-              <string>Backsword</string>
-              <string>Cutlass</string>
-              <string>Dadao</string>
-              <string>Dirk</string>
-              <string>Falchion</string>
-              <string>Foil</string>
-              <string>Katana</string>
-              <string>Longsword</string>
-              <string>Rapier</string>
-              <string>Saber</string>
-              <string>Shortsword</string>
-            </Values>
-          </NameGroup>
-        </Swords>
-      </Weapons>
-    </Warfare>
     <BiosphereNames>
       <Animals>
         <NameGroup>
@@ -123,32 +84,7 @@
       </Starbases>
     </Stations>
     <Armies>
-      <PsionicArmy>
-        <NameGroup>
-          <Name>Armies - Stellaris</Name> <!-- Commonwealth of Man -->
-          <Values>
-            <string>Shadow Legion</string>
-            <string>Skull Legion</string>
-            <string>Widowmaker Legion</string>
-          </Values>
-        </NameGroup>
-      </PsionicArmy>
       <XenomorphArmy>
-        <NameGroup>
-          <Name>Armies - Stellaris</Name> <!-- Commonwealth of Man -->
-          <Values>
-            <string>Experimental Unit 'Amaru'</string>
-            <string>Experimental Unit 'Bakunawa'</string>
-            <string>Experimental Unit 'Fafnir'</string>
-            <string>Experimental Unit 'Illuyanka'</string>
-            <string>Experimental Unit 'Jaculus'</string>
-            <string>Experimental Unit 'Orochi'</string>
-            <string>Experimental Unit 'Rahab'</string>
-            <string>Experimental Unit 'Tarasque'</string>
-            <string>Experimental Unit 'Tiamat'</string>
-            <string>Experimental Unit 'Typhon'</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Others - Based on cheat codes from GTA San Andreas</Name>
           <Values>
@@ -163,32 +99,13 @@
           </Values>
         </NameGroup>
       </XenomorphArmy>
-      <SuperSoliderArmy>
-        <NameGroup>
-          <Name>Armies - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-              <string>SARC-A 'Gladiators'</string>
-              <string>SARC-B 'Widowmakers'</string>
-              <string>SARC-C 'Immortals'</string>
-              <string>SARC-D 'Berserkers'</string>
-              <string>SARC-E 'Assassins'</string>
-              <string>SARC-F 'Reapers'</string>
-              <string>SARC-G 'Nighthawks'</string>
-              <string>SARC-H 'Desperados'</string>
-              <string>SARC-I 'Grey Knights'</string>
-              <string>SARC-J 'Roughnecks'</string>
-          </Values>
-        </NameGroup>
-      </SuperSoliderArmy>
     </Armies>
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
+          <Name>Cities - Alien</Name>
           <Values>
-            <string>Ansel</string>
-            <string>Arakoua</string>
-            <string>Chaparral</string>
+            <string>Shinowa</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -203,6 +120,12 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Arakoua</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Planets - Galactik Football</Name>
           <Values>
             <string>Escaron</string>
@@ -211,21 +134,6 @@
             <string>Oeno</string>
             <string>Unadar</string>
             <string>Xenon</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Settlements - Pandora: First Contact - Noxium Corporation</Name>
-          <Values>
-            <string>Sheratan</string>
-            <string>Zaniah</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Settlements - Pandora: First Contact - Togra University</Name>
-          <Values>
-            <string>Alkaid</string>
-            <string>Galileo</string>
-            <string>Landau</string>
           </Values>
         </NameGroup>
       </Generic>
@@ -248,12 +156,6 @@
           <Name>Islands - Puzzle Pirates</Name>
           <Values>
             <string>Caravenserai</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>New Mars</string>
           </Values>
         </NameGroup>
       </Arid>
@@ -304,26 +206,12 @@
             <string>Calradia</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Places - Warcraft</Name>
-          <Values>
-            <string>Andorhal</string>
-            <string>Lordaeron</string>
-            <string>Stratholme</string>
-          </Values>
-        </NameGroup>
       </Continental>
       <Gaia>
         <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
+          <Name>Games</Name>
           <Values>
-            <string>Cleopatra's Pearl</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Doctor Who</Name>
-          <Values>
-            <string>Gallifrey</string>
+            <string>Terraria</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -333,9 +221,9 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Games</Name>
+          <Name>Planets - Doctor Who</Name>
           <Values>
-            <string>Terraria</string>
+            <string>Gallifrey</string>
           </Values>
         </NameGroup>
       </Gaia>
@@ -358,13 +246,6 @@
           <Name>Countries - The Lord of the Rings</Name>
           <Values>
             <string>Rohan</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Jorvik</string>
-            <string>Norse</string>
           </Values>
         </NameGroup>
       </Tundra>

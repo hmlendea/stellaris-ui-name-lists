@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>stellaris_human_hebrew</Id>
+    <Name>Stellaris - Human - Hebrew</Name>
+    <Planets>
+      <Arid>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>New Jerusalem</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

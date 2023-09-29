@@ -12,28 +12,6 @@
           </Values>
         </NameGroup>
       </Countries>
-      <Regions>
-        <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Admiral</string>
-            <string>Angelfish</string>
-            <string>Barracuda</string>
-            <string>Blackthrope</string>
-            <string>Boyle</string>
-            <string>Byrne</string>
-            <string>Charcoal</string>
-            <string>Cormorant</string>
-            <string>Ebony</string>
-            <string>Ember</string>
-            <string>Gallows</string>
-            <string>Midsummer</string>
-            <string>Port Venture</string>
-            <string>Shatterstone</string>
-            <string>Starfish</string>
-          </Values>
-        </NameGroup>
-      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - A Song of Ice and Fire</Name> <!-- Dorne -->
@@ -81,6 +59,25 @@
         </NameGroup>
       </Heroes>
     </GreatPeople>
+    <Warfare>
+      <Weapons>
+        <Swords>
+          <NameGroup>
+            <Name>Swords - Puzzle Pirates</Name>
+            <Values>
+              <string>Backsword</string>
+              <string>Cutlass</string>
+              <string>Dirk</string>
+              <string>Foil</string>
+              <string>Longsword</string>
+              <string>Rapier</string>
+              <string>Saber</string>
+              <string>Shortsword</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+      </Weapons>
+    </Warfare>
     <Planets>
       <Generic>
         <NameGroup>
@@ -93,45 +90,7 @@
             <string>Blighttown</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Blackthrope</string>
-            <string>Boyle</string>
-            <string>Byrne</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>Anchor</string>
-            <string>Bounty</string>
-            <string>Hope</string>
-            <string>Spring</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
-          <Values>
-            <string>Sunrise</string>
-          </Values>
-        </NameGroup>
       </Generic>
-      <Desert>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>Dune</string>
-            <string>Sand</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
-          <Values>
-            <string>Sunrise</string>
-          </Values>
-        </NameGroup>
-      </Desert>
       <Arid>
         <NameGroup>
           <Name>Countries - A Song of Ice and Fire</Name>
@@ -145,49 +104,12 @@
             <string>Sunspear</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
-          <Values>
-            <string>High Ground</string>
-          </Values>
-        </NameGroup>
       </Arid>
-      <Tropical>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>Rain</string>
-            <string>Storm</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
-          <Values>
-            <string>Broadleaf</string>
-          </Values>
-        </NameGroup>
-      </Tropical>
       <Continental>
         <NameGroup>
           <Name>Cities - WarCraft</Name>
           <Values>
             <string>Stormwind</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>Dawn</string>
-            <string>Horizon</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
-          <Values>
-            <string>Citadel</string>
-            <string>Dawnlight</string>
-            <string>Destiny</string>
-            <string>Harmony</string>
           </Values>
         </NameGroup>
       </Continental>
@@ -198,67 +120,13 @@
             <string>Summerset</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Midsummer</string>
-            <string>Port Venture</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
-          <Values>
-            <string>Deliverance</string>
-            <string>Garden</string>
-            <string>Sanctuary</string>
-          </Values>
-        </NameGroup>
       </Gaia>
-      <Ocean>
-        <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Angelfish</string>
-            <string>Barracuda</string>
-            <string>Cormorant</string>
-            <string>Starfish</string>
-          </Values>
-        </NameGroup>
-      </Ocean>
-      <Tundra>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>Blizzard</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
-          <Values>
-            <string>Stonehead</string>
-          </Values>
-        </NameGroup>
-      </Tundra>
-      <Arctic>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
-          <Values>
-            <string>Winter</string>
-          </Values>
-        </NameGroup>
-      </Arctic>
       <Alpine>
         <NameGroup>
           <Name>Cities - A Song of Ice and Fire</Name>
           <Values>
             <string>Skyreach</string>
             <string>Runestone</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Charcoal</string>
           </Values>
         </NameGroup>
       </Alpine>
@@ -270,14 +138,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Ebony</string>
-            <string>Gallows</string>
-            <string>Shatterstone</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Places - The Elder Scrolls</Name>
           <Values>
             <string>Bleakfalls</string>
@@ -285,14 +145,6 @@
           </Values>
         </NameGroup>
       </Tomb>
-      <Molten>
-        <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Ember</string>
-          </Values>
-        </NameGroup>
-      </Molten>
     </Planets>
   </NameList>
 </ArrayOfNameList>

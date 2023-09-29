@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>alien_human_hellenic</Id>
+    <Name>Alien - Human - Hellenic</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Alien</Name>
+          <Values>
+            <string>Anesidora</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Alien</Name> <!-- Union of Progressive Peoples -->
+          <Values>
+            <string>Corinth</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Stations>
+      <Starbases>
+        <Outposts>
+          <NameGroup>
+            <Name>Outposts - Alien</Name> <!-- Union of Progressive Peoples -->
+            <Values>
+              <string>Charybdis</string>
+            </Values>
+          </NameGroup>
+        </Outposts>
+      </Starbases>
+    </Stations>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Alien</Name>
+          <Values>
+            <string>Anesidora</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Alien</Name> <!-- Union of Progressive Peoples -->
+          <Values>
+            <string>Corinth</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Alien</Name>
+          <Values>
+            <string>Oryza</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Alien</Name>
+          <Values>
+            <string>Pandora</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

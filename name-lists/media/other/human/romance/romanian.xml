@@ -12,14 +12,6 @@
           </Values>
         </NameGroup>
       </Generic>
-      <Arid>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>Oltenia</string>
-          </Values>
-        </NameGroup>
-      </Arid>
     </Planets>
   </NameList>
 </ArrayOfNameList>

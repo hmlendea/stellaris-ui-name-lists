@@ -24,6 +24,7 @@
           <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
           <Values>
             <string>Heisenberg</string>
+            <string>Landau</string>
             <string>Planck</string>
           </Values>
         </NameGroup>
@@ -49,6 +50,7 @@
         <NameGroup>
           <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
           <Values>
+            <string>Landau</string>
             <string>Planck</string>
           </Values>
         </NameGroup>

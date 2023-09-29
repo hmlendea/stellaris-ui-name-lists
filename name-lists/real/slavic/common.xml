@@ -12,5 +12,15 @@
         </Values>
       </NameGroup>
     </Denonyms>
+    <GreatPersons>
+      <SunDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Svarog</string>
+          </Values>
+        </NameGroup>
+      </SunDeities>
+    </GreatPersons>
   </NameList>
 </ArrayOfNameList>

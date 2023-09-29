@@ -521,6 +521,12 @@
     <Planets>
       <Ocean>
         <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Charybdis</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Words</Name>
           <Values>
             <string>Panthalassa</string>

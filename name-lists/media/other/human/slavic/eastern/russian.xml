@@ -14,13 +14,6 @@
       </Regions>
       <Cities>
         <NameGroup>
-          <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
-          <Values>
-            <string>Alexin</string>
-            <string>Samara</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Escape from Tarkov</Name>
           <Values>
             <string>Tarkov</string>
@@ -29,34 +22,11 @@
       </Cities>
     </Places>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
-          <Values>
-            <string>Alexin</string>
-            <string>Samara</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>Port Karakosov</string>
-            <string>St. Yegorov</string>
-          </Values>
-        </NameGroup>
-      </Generic>
       <Tundra>
         <NameGroup>
           <Name>Cities - Escape from Tarkov</Name>
           <Values>
             <string>Tarkov</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>Kola</string>
-            <string>Rus</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -66,14 +36,6 @@
           </Values>
         </NameGroup>
       </Tundra>
-      <Arctic>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>Siberia</string>
-          </Values>
-        </NameGroup>
-      </Arctic>
     </Planets>
   </NameList>
 </ArrayOfNameList>

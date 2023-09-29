@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>alien_human_ukrainian</Id>
+    <Name>Alien - Human - Ukrainian</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Alien</Name> <!-- Union of Progressive Peoples -->
+          <Values>
+            <string>New Luhansk</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Stations>
+      <Starbases>
+        <Outposts>
+          <NameGroup>
+            <Name>Outposts - Alien</Name>
+            <Values>
+              <string>Sevastopol</string>
+            </Values>
+          </NameGroup>
+        </Outposts>
+      </Starbases>
+    </Stations>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Alien</Name> <!-- Union of Progressive Peoples -->
+          <Values>
+            <string>New Luhansk</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

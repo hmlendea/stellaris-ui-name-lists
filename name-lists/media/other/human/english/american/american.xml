@@ -92,15 +92,6 @@
       </ResearchStations>
     </Stations>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
-          <Values>
-            <string>Hinckley's Hope</string>
-            <string>Leffingwell</string>
-          </Values>
-        </NameGroup>
-      </Generic>
       <Tropical>
         <NameGroup>
           <Name>Cities - Grand Theft Auto</Name>
@@ -126,14 +117,6 @@
           </Values>
         </NameGroup>
       </Arid>
-      <Arctic>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>Alaska</string>
-          </Values>
-        </NameGroup>
-      </Arctic>
       <Alpine>
         <NameGroup>
           <Name>Cities - Fallout</Name>
