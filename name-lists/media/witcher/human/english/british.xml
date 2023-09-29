@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>other-media_human_english_british</Id>
-    <Name>Other Media - Human - English (British)</Name>
+    <Id>witcher_human_english_british</Id>
+    <Name>The Witcher - Human - English (British)</Name>
     <Places>
       <Cities>
         <NameGroup>
-          <Name>Cities - Frostpunk</Name>
+          <Name>Cities - The Witcher</Name>
           <Values>
-            <string>Frostfire</string>
-            <string>Frostpunk</string>
-            <string>Winterhome</string>
+            <string>Claywich</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -18,11 +16,9 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Cities - Frostpunk</Name>
+          <Name>Cities - The Witcher</Name>
           <Values>
-            <string>Frostfire</string>
-            <string>Frostpunk</string>
-            <string>Winterhome</string>
+            <string>Claywich</string>
           </Values>
         </NameGroup>
       </Generic>

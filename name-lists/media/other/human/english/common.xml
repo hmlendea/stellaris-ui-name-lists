@@ -21,16 +21,6 @@
             <string>Sunspear</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Cities - Age of Wonders: Planetfall</Name> <!-- Vanguard -->
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/age-of-wonders-planetfall/human/locations/cities.lst</Url>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - WarCraft</Name>
-          <Values>
-            <string>Stormwind</string>
-          </Values>
-        </NameGroup>
       </Cities>
       <Mountains>
         <NameGroup>
@@ -59,31 +49,8 @@
         </NameGroup>
       </Heroes>
     </GreatPeople>
-    <Warfare>
-      <Weapons>
-        <Swords>
-          <NameGroup>
-            <Name>Swords - Puzzle Pirates</Name>
-            <Values>
-              <string>Backsword</string>
-              <string>Cutlass</string>
-              <string>Dirk</string>
-              <string>Foil</string>
-              <string>Longsword</string>
-              <string>Rapier</string>
-              <string>Saber</string>
-              <string>Shortsword</string>
-            </Values>
-          </NameGroup>
-        </Swords>
-      </Weapons>
-    </Warfare>
     <Planets>
       <Generic>
-        <NameGroup>
-          <Name>Cities - Age of Wonders: Planetfall</Name> <!-- Vanguard -->
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/age-of-wonders-planetfall/human/locations/cities.lst</Url>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - Dark Souls</Name>
           <Values>
@@ -105,14 +72,6 @@
           </Values>
         </NameGroup>
       </Arid>
-      <Continental>
-        <NameGroup>
-          <Name>Cities - WarCraft</Name>
-          <Values>
-            <string>Stormwind</string>
-          </Values>
-        </NameGroup>
-      </Continental>
       <Gaia>
         <NameGroup>
           <Name>Countries - Elder Scrolls</Name>

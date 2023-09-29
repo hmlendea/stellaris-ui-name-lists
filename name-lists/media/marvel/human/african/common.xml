@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>other-media_human_slavic</Id>
-    <Name>Other Media - Human - Slavic</Name>
+    <Id>marvel_human_african</Id>
+    <Name>Marvel - Human - African</Name>
     <Denonyms>
       <NameGroup>
         <Name>Denonyms - Marvel</Name>
         <Values>
-          <string>Sokovian</string>
+          <string>Wakandan</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -16,32 +16,17 @@
         <NameGroup>
           <Name>Countries - Marvel</Name>
           <Values>
-            <string>Sokovia</string>
+            <string>Wakanda</string>
           </Values>
         </NameGroup>
       </Countries>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - The Witcher</Name>
-          <Values>
-            <string>Dravograd</string>
-          </Values>
-        </NameGroup>
-      </Cities>
     </Places>
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Cities - The Witcher</Name>
+          <Name>Countries - Marvel</Name>
           <Values>
-            <string>Dravograd</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>letsmakeagame.net</Name>
-          <Values>
-            <string>Brunonov</string>
-            <string>Nonov</string>
+            <string>Wakanda</string>
           </Values>
         </NameGroup>
       </Generic>

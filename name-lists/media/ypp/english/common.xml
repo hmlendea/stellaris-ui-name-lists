@@ -27,6 +27,25 @@
         </NameGroup>
       </Regions>
     </Places>
+    <Warfare>
+      <Weapons>
+        <Swords>
+          <NameGroup>
+            <Name>Swords - Puzzle Pirates</Name>
+            <Values>
+              <string>Backsword</string>
+              <string>Cutlass</string>
+              <string>Dirk</string>
+              <string>Foil</string>
+              <string>Longsword</string>
+              <string>Rapier</string>
+              <string>Saber</string>
+              <string>Shortsword</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+      </Weapons>
+    </Warfare>
     <Planets>
       <Generic>
         <NameGroup>

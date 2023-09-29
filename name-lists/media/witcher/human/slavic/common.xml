@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>other-media_human_norse</Id>
-    <Name>Other Media - Human - Norse</Name>
+    <Id>witcher_human_slavic</Id>
+    <Name>The Witcher - Human - Slavic</Name>
     <Places>
-      <Countries>
-        <NameGroup>
-          <Name>Countries - The Witcher</Name>
-          <Values>
-            <string>Nilfgaard</string>
-          </Values>
-        </NameGroup>
-      </Countries>
       <Cities>
         <NameGroup>
           <Name>Cities - The Witcher</Name>
           <Values>
-            <string>Arinbjorn</string>
-            <string>Nilfgaard</string>
+            <string>Dravograd</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -27,8 +18,7 @@
         <NameGroup>
           <Name>Cities - The Witcher</Name>
           <Values>
-            <string>Arinbjorn</string>
-            <string>Nilfgaard</string>
+            <string>Dravograd</string>
           </Values>
         </NameGroup>
       </Generic>

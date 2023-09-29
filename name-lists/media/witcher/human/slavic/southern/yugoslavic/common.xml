@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>other-media_human_slavic_yugoslavic</Id>
-    <Name>Other Media - Human - Slavic - Yugoslavic</Name>
+    <Id>witcher_human_slavic_yugoslavic</Id>
+    <Name>The Witcher - Human - Slavic (Yugoslavic)</Name>
     <Places>
       <Cities>
-        <NameGroup>
-          <Name>Cities - Marvel</Name> <!-- Sokovia -->
-          <Values>
-            <string>Novi Grad</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Cities - The Witcher</Name>
           <Values>
@@ -22,15 +16,9 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Cities - Marvel</Name> <!-- Sokovia -->
-          <Values>
-            <string>Novi Grad</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - The Witcher</Name>
           <Values>
-            <string>Dravograd</string>
+            <string>Novigrad</string>
           </Values>
         </NameGroup>
       </Generic>

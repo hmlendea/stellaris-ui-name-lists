@@ -3,24 +3,6 @@
   <NameList>
     <Id>other-media_human_african</Id>
     <Name>Other Media - Human - African</Name>
-    <Denonyms>
-      <NameGroup>
-        <Name>Denonyms - Marvel</Name>
-        <Values>
-          <string>Wakandan</string>
-        </Values>
-      </NameGroup>
-    </Denonyms>
-    <Places>
-      <Countries>
-        <NameGroup>
-          <Name>Countries - Marvel</Name>
-          <Values>
-            <string>Wakanda</string>
-          </Values>
-        </NameGroup>
-      </Countries>
-    </Places>
     <GreatPeople>
       <Heroes>
         <NameGroup>

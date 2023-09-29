@@ -3,6 +3,16 @@
   <NameList>
     <Id>other-media_human_hellenic</Id>
     <Name>Other Media - Human - Hellenic</Name>
+    <GreatPersons>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - Age of Mythology</Name>
+          <Values>
+            <string>Arkantos</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+    </GreatPersons>
     <Planets>
       <Generic>
         <NameGroup>
