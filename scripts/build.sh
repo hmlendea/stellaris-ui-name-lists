@@ -206,7 +206,7 @@ POLYNESIAN_MEDIA_NAMELISTS="${AUSTRONESIAN_COMMON_MEDIA_NAMELISTS}"
 POLYNESIAN_REAL_NAMELISTS="real/austronesian/polynesian ${AUSTRONESIAN_COMMON_REAL_NAMELISTS}"
 POLYNESIAN_NAMELISTS=$(get-namelists-merged ${POLYNESIAN_REAL_NAMELISTS} ${POLYNESIAN_MEDIA_NAMELISTS})
 
-AUSTRONESIAN_MEDIA_NAMELISTS="${FILIPINO_MEDIA_NAMELISTS} ${HAWAIIAN_MEDIA_NAMELISTS} ${INDONESIAN_MEDIA_NAMELISTS} ${KIRIBATIAN_MEDIA_NAMELISTS} ${MALAYSIAN_MEDIA_NAMELISTS} ${MAORI_MEDIA_NAMELISTS} ${POLYNESIAN_MEDIA_NAMELISTS} ${AUSTRONESIAN_COMMON_MEDIA_NAMELISTS} media/civbe/human/austronesian/austronesian media/civbe/human/austronesian/wathawurrung media/civbe/human/austronesian/yugambeh"
+AUSTRONESIAN_MEDIA_NAMELISTS="${FILIPINO_MEDIA_NAMELISTS} ${HAWAIIAN_MEDIA_NAMELISTS} ${INDONESIAN_MEDIA_NAMELISTS} ${KIRIBATIAN_MEDIA_NAMELISTS} ${MALAYSIAN_MEDIA_NAMELISTS} ${MAORI_MEDIA_NAMELISTS} ${POLYNESIAN_MEDIA_NAMELISTS} ${AUSTRONESIAN_COMMON_MEDIA_NAMELISTS} media/civbe/human/austronesian/wathawurrung media/civbe/human/austronesian/yugambeh media/civbe/human/austronesian/common"
 AUSTRONESIAN_REAL_NAMELISTS="${FILIPINO_REAL_NAMELISTS} ${HAWAIIAN_REAL_NAMELISTS} ${INDONESIAN_REAL_NAMELISTS} ${KIRIBATIAN_REAL_NAMELISTS} ${MALAYSIAN_REAL_NAMELISTS} ${MAORI_REAL_NAMELISTS} ${POLYNESIAN_REAL_NAMELISTS} ${AUSTRONESIAN_COMMON_REAL_NAMELISTS}"
 AUSTRONESIAN_NAMELISTS=$(get-namelists-merged ${AUSTRONESIAN_REAL_NAMELISTS} ${AUSTRONESIAN_MEDIA_NAMELISTS})
 
@@ -291,7 +291,7 @@ GERMAN_MEDIA_NAMELISTS="media/alien/human/germanic/german media/civbe/human/germ
 GERMAN_REAL_NAMELISTS="real/germanic/german/austrian real/germanic/german/german real/germanic/german/swiss real/germanic/german/common real/common/european real/common/_"
 GERMAN_NAMELISTS=$(get-namelists-merged ${GERMAN_REAL_NAMELISTS} ${GERMAN_MEDIA_NAMELISTS})
 
-SCANDINAVIAN_COMMON_MEDIA_NAMELISTS="media/borderlands/human/germanic/scandinavian/common media/civbe/human/germanic/norse/norse media/stellaris/human/germanic/norse media/elderscrolls/human/breton/germanic media/witcher/human/germanic/norse media/ypp/germanic/norse ${GERMANIC_COMMON_MEDIA_NAMELISTS} ${ELDERSCROLLS_HUMAN_NORD_NAMELISTS}"
+SCANDINAVIAN_COMMON_MEDIA_NAMELISTS="media/borderlands/germanic/scandinavian/common media/civbe/human/germanic/norse/norse media/stellaris/human/germanic/norse media/elderscrolls/human/breton/germanic media/witcher/human/germanic/norse media/ypp/germanic/norse ${GERMANIC_COMMON_MEDIA_NAMELISTS} ${ELDERSCROLLS_HUMAN_NORD_NAMELISTS}"
 SCANDINAVIAN_EURO_MEDIA_NAMELISTS="media/civbe/human/germanic/norse/danish media/civbe/human/germanic/norse/icelandic media/civbe/human/germanic/norse/norwegian media/civbe/human/germanic/norse/swedish media/pandora/human/germanic/norse/swedish ${SCANDINAVIAN_COMMON_MEDIA_NAMELISTS}"
 SCANDINAVIAN_EURO_REAL_NAMELISTS="real/germanic/norse/danish real/germanic/norse/icelandic real/germanic/norse/norwegian real/germanic/norse/swedish real/germanic/norse/common real/germanic/common real/common/european real/common/_"
 SCANDINAVIAN_EURO_NAMELISTS=$(get-namelists-merged ${SCANDINAVIAN_EURO_MEDIA_NAMELISTS} ${SCANDINAVIAN_EURO_REAL_NAMELISTS})
@@ -376,7 +376,7 @@ ITALIAN_MEDIA_NAMELISTS="media/civbe/human/romance/italian media/pandora/human/r
 ITALIAN_REAL_NAMELISTS="real/romance/italian real/common/european real/common/_"
 ITALIAN_NAMELISTS=$(get-namelists-merged ${ITALIAN_REAL_NAMELISTS} ${ITALIAN_MEDIA_NAMELISTS})
 
-LATIN_MEDIA_NAMELISTS="media/borderlands/human/romance/latin media/civbe/human/romance/latin media/foundation/latin media/pandora/human/romance/latin media/stellaris/human/romance/latin media/stellaris/human/original/spqr media/ypp/romance/latin"
+LATIN_MEDIA_NAMELISTS="media/borderlands/romance/latin media/civbe/human/romance/latin media/foundation/latin media/pandora/human/romance/latin media/stellaris/human/romance/latin media/stellaris/human/original/spqr media/ypp/romance/latin"
 LATIN_REAL_NAMELISTS="real/romance/latin real/common/european real/common/_"
 LATIN_NAMELISTS=$(get-namelists-merged ${LATIN_REAL_NAMELISTS} ${LATIN_MEDIA_NAMELISTS})
 
@@ -392,7 +392,7 @@ PORTUGUESE_LATAM_REAL_NAMELISTS="real/romance/iberian/portuguese/brazilian real/
 PORTUGUESE_LATAM_NAMELISTS=$(get-namelists-merged ${PORTUGUESE_LATAM_REAL_NAMELISTS} ${PORTUGUESE_LATAM_MEDIA_NAMELISTS})
 PORTUGUESE_NAMELISTS=$(get-namelists-merged ${PORTUGUESE_AFRICAN_NAMELISTS} ${PORTUGUESE_EURO_NAMELISTS} ${PORTUGUESE_LATAM_NAMELISTS})
 
-ROMANIAN_MEDIA_NAMELISTS="media/borderlands/human/romance/romanian media/stellaris/human/romance/romanian"
+ROMANIAN_MEDIA_NAMELISTS="media/borderlands/romance/romanian media/stellaris/human/romance/romanian"
 ROMANIAN_REAL_NAMELISTS="real/romance/romanian real/common/european real/common/_"
 ROMANIAN_NAMELISTS=$(get-namelists-merged ${ROMANIAN_REAL_NAMELISTS} ${ROMANIAN_MEDIA_NAMELISTS})
 
