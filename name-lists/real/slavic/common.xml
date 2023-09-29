@@ -22,5 +22,17 @@
         </NameGroup>
       </SunDeities>
     </GreatPersons>
+    <Warfare>
+      <Weapons>
+        <Polearms>
+          <NameGroup>
+            <Name>Polearms</Name>
+            <Values>
+              <string>Bardiche</string>
+            </Values>
+          </NameGroup>
+        </Polearms>
+      </Weapons>
+    </Warfare>
   </NameList>
 </ArrayOfNameList>

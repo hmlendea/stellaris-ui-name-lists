@@ -147,17 +147,5 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Pax Nova - Eastern Resistance</Name>
-          <Values>
-            <string>Cherno</string>
-            <string>Mitkovo</string>
-            <string>Starovo</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

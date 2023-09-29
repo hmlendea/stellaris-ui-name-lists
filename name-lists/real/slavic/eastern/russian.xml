@@ -164,6 +164,7 @@
           <Name>Explorers</Name>
           <Values>
             <string>Gagarin</string>
+            <string>Kuznetsov</string>
             <string>Leonov</string>
             <string>Tereshkova</string>
           </Values>
