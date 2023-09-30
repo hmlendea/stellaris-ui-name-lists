@@ -9,6 +9,7 @@
           <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
           <Values>
             <string>Mullineux</string>
+            <string>Tronchet</string>
           </Values>
         </NameGroup>
       </Generic>

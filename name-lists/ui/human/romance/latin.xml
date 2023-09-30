@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_latin</Id>
+    <Name>Universum Infinitum - Human - Latin</Name>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Britannia Nova</string>
+            <string>Dacia Nova</string>
+            <string>Europa Nova</string>
+            <string>Londinium</string>
+            <string>Nova Roma</string>
+            <string>Nova Thracia</string>
+            <string>Transilvania Nova</string>
+            <string>Varadinum</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Caelum</string> <!-- Sky -->
+            <string>Paradisus</string> <!-- Paradise -->
+            <string>Serenitas</string> <!-- Serenity -->
+            <string>Splendor</string> <!-- Splendor -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

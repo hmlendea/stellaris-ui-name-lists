@@ -22,6 +22,22 @@
       </Cities>
     </Places>
     <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Noon Universe</Name>
+          <Values>
+            <string>Ruzhena</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Noon Universe</Name>
+          <Values>
+            <string>Ruzhena</string>
+          </Values>
+        </NameGroup>
+      </Continental>
       <Tundra>
         <NameGroup>
           <Name>Cities - Escape from Tarkov</Name>

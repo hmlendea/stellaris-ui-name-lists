@@ -17,6 +17,8 @@
         <NameGroup>
           <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
           <Values>
+            <string>Girdwood</string> <!-- Better in Tropical -->
+            <string>Grinstead</string>
             <string>Sunrise</string>
           </Values>
         </NameGroup>

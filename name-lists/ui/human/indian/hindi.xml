@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_hindi</Id>
+    <Name>Universum Infinitum - Human - Hindi</Name>
+    <Planets>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Nyū Nyū Dillī</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Aakash</string> <!-- Sky -->
+            <string>Pratap</string> <!-- Splendor -->
+            <string>Shanti</string> <!-- Serenity -->
+            <string>Swarg</string> <!-- Paradise -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

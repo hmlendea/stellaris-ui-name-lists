@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_spanish_common</Id>
+    <Name>Universum Infinitum - Human - Spanish (Common)</Name>
+    <Planets>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Cielo</string> <!-- Sky -->
+            <string>Paraíso</string> <!-- Paradise -->
+            <string>Serenidad</string> <!-- Serenity -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_hellnic</Id>
+    <Name>Universum Infinitum - Human - Hellenic</Name>
+    <Planets>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Galíni</string> <!-- Serenity -->
+            <string>Lámpsi</string> <!-- Splendor -->
+            <string>Ouranós</string> <!-- Sky -->
+            <string>Parádeisos</string> <!-- Paradise -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

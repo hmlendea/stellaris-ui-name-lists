@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_yugoslavic</Id>
+    <Name>Universum Infinitum - Human - Yugoslavic</Name>
+    <Planets>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Nebo</string> <!-- Sky -->
+            <string>Raj</string> <!-- Paradise -->
+            <string>Sjaj</string> <!-- Splendor -->
+            <string>Spokoj</string> <!-- Serenity -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

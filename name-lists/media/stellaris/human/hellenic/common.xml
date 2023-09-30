@@ -27,7 +27,10 @@
           <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
           <Values>
             <string>Destinikon</string>
+            <string>Hesperides</string>
+            <string>Hesperos</string>
             <string>Nova Constantinople</string>
+            <string>Rattenbury</string>
             <string>Rhea</string>
             <string>Tartessos</string>
             <string>Tethys</string>

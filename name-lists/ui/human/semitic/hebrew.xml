@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_hebrew</Id>
+    <Name>Universum Infinitum - Human - Hebrew</Name>
+    <Planets>
+      <Arid>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Yerushalayim HaChadasha</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Gan Eden</string> <!-- Paradise -->
+            <string>Hod</string> <!-- Splendor -->
+            <string>Shalva</string> <!-- Serenity -->
+            <string>Shamayim</string> <!-- Sky -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

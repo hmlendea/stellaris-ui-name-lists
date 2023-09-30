@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_lithuanian</Id>
+    <Name>Universum Infinitum - Human - Lithuanian</Name>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Naujas Vilnius</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Dangus</string> <!-- Sky -->
+            <string>Ramybė</string> <!-- Serenity -->
+            <string>Rojus</string> <!-- Paradise -->
+            <string>Šlovingumas</string> <!-- Splendor -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

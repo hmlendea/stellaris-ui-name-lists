@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>stellaris_human_english</Id>
-    <Name>Stellaris - Human - English (European)</Name>
+    <Id>ui_human_bulgarian</Id>
+    <Name>Universum Infinitum - Human - Bulgarian</Name>
     <Planets>
-      <Generic>
+      <Continental>
         <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Name>Planets - Based on real places</Name>
           <Values>
-            <string>Knutton</string>
-            <string>Lockney</string>
+            <string>Nova Sofia</string>
           </Values>
         </NameGroup>
-      </Generic>
+      </Continental>
       <Gaia>
         <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Name>Planets - Based on words</Name>
           <Values>
-            <string>Serendipity</string>
+            <string>Nebe</string> <!-- Sky -->
+            <string>Spokoystvie</string> <!-- Serenity -->
           </Values>
         </NameGroup>
       </Gaia>

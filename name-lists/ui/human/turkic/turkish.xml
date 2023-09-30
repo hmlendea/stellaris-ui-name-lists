@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_turkish</Id>
+    <Name>Universum Infinitum - Human - Turkish</Name>
+    <Planets>
+      <Arid>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Yeni Ankara</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Gökyüzü</string> <!-- Sky -->
+            <string>Huzur</string> <!-- Serenity -->
+            <string>Ihtişam</string> <!-- Splendor -->
+            <string>Cennet</string> <!-- Paradise -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
