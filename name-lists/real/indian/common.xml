@@ -118,6 +118,16 @@
       </Rivers>
     </Places>
     <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Elephant</string>
+            <string>Monkey</string>
+            <string>Tiger</string>
+          </Values>
+        </NameGroup>
+      </Animals>
       <MythologicalCreatures>
         <NameGroup>
           <Name>Mythological creatures</Name>

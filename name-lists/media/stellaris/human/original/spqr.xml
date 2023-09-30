@@ -6,7 +6,7 @@
     <Ships>
       <Corvette>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Accipiter</string>
             <string>Acutus</string>
@@ -178,7 +178,7 @@
       </Corvette>
       <Destroyer>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Abundantia</string>
             <string>Acca Larentia</string>
@@ -323,7 +323,7 @@
       </Destroyer>
       <Cruiser>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Aper</string>
             <string>Apollo</string>
@@ -426,7 +426,7 @@
       </Cruiser>
       <Battleship>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Aemilian</string>
             <string>Agrippa</string>
@@ -497,7 +497,7 @@
       </Battleship>
       <Titan>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Imperator Augustus</string>
             <string>Julius Caesar</string>
@@ -509,7 +509,7 @@
       </Titan>
       <Colossus>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Dis Pater</string>
             <string>Pax Romana</string>
@@ -519,7 +519,7 @@
       </Colossus>
       <Juggernaut>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Acca Larentia</string>
             <string>Emperor</string>
@@ -532,7 +532,7 @@
       </Juggernaut>
       <Constructor>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Hibernia</string>
             <string>Macedonia</string>
@@ -552,7 +552,7 @@
       </Constructor>
       <Science>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Acoreus</string>
             <string>Adrastus</string>
@@ -584,7 +584,7 @@
       </Science>
       <Coloniser>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Achaea</string>
             <string>Aegyptus</string>
@@ -613,7 +613,7 @@
       </Coloniser>
       <Transport>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Aeneator</string>
             <string>Aquilifer</string>
@@ -630,7 +630,7 @@
       </Transport>
       <IonCannon>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Ballista</string>
             <string>Javelin</string>
@@ -644,7 +644,7 @@
       <MilitaryStations>
         <Generic>
           <NameGroup>
-            <Name>Military Stations - Stellaris</Name>
+            <Name>zzzzzzz Military Stations - Stellaris</Name>
             <Values>
               <string>Gladius</string>
               <string>Hasta</string>
@@ -682,7 +682,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Planets - Stellaris</Name>
+          <Name>zzzzzzz Planets - Stellaris</Name>
           <Values>
             <string>Acherusia</string>
             <string>Antiochia</string>

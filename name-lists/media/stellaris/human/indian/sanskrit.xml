@@ -3,6 +3,16 @@
   <NameList>
     <Id>stellaris_human_sanskrit</Id>
     <Name>Stellaris - Human - Sanskrit</Name>
+    <Ships>
+      <Cruiser>
+        <NameGroup>
+          <Name>Ships - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Narayana</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+    </Ships>
     <Planets>
       <Tropical>
         <NameGroup>

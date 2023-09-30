@@ -3,6 +3,16 @@
   <NameList>
     <Id>stellaris_human_english</Id>
     <Name>Stellaris - Human - English (European)</Name>
+    <Ships>
+      <Cruiser>
+        <NameGroup>
+          <Name>Ships - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Gawain</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+    </Ships>
     <Planets>
       <Generic>
         <NameGroup>

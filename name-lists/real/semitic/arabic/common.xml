@@ -72,9 +72,15 @@
           <Name>Military unit types</Name>
           <Values>
             <string>Anṣâr</string>
-            <string>Hashashim</string>
+            <string>Assassin</string>
             <string>Mamluk</string>
             <string>Tabardariyya</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military unit types - Endonyms</Name>
+          <Values>
+            <string>Hashashim</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>

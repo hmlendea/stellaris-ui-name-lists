@@ -6,12 +6,28 @@
     <Ships>
       <Juggernaut>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>Ships - Stellaris</Name> <!-- Commonwealth of Man -->
           <Values>
             <string>Ragnarök</string>
           </Values>
         </NameGroup>
       </Juggernaut>
     </Ships>
+    <Planets>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Jotunheim</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Niflheim</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+    </Planets>
   </NameList>
 </ArrayOfNameList>

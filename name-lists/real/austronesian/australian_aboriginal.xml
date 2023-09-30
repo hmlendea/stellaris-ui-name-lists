@@ -11,6 +11,18 @@
         </Values>
       </NameGroup>
     </Denonyms>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Ballarat</string>
+            <string>Jimboomba</string>
+            <string>Mareeba</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
     <BiosphereNames>
       <MythologicalCreatures>
         <NameGroup>

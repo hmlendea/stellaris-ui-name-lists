@@ -12,16 +12,6 @@
           </Values>
         </NameGroup>
       </Regions>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - Australia</Name>
-          <Values>
-            <string>Ballarat</string>
-            <string>Jimboomba</string>
-            <string>Mareeba</string>
-          </Values>
-        </NameGroup>
-      </Cities>
     </Places>
     <Warfare>
       <Weapons>

@@ -68,8 +68,11 @@
         <NameGroup>
           <Name>Animals</Name>
           <Values>
+            <string>Armadillo</string>
             <string>Iguana</string>
+            <string>Jaguar</string>
             <string>Ocelot</string>
+            <string>Puma</string>
           </Values>
         </NameGroup>
       </Animals>

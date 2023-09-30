@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>human_common_all</Id>
+    <Id>human_common_all_obsolete</Id>
     <Name>Human - Common</Name>
     <Denonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>xxxxxxx Denonyms</Name>
         <Values>
-          <string>Human</string>
           <string>Martian</string>
-          <string>Terran</string>
         </Values>
       </NameGroup>
     </Denonyms>
     <Regions>
       <Mountains>
         <NameGroup>
-          <Name>Mountains - Mars</Name>
+          <Name>xxxxxxx Mountains - Mars</Name>
           <Values>
             <string>Olympus Mons</string>
           </Values>
@@ -26,7 +24,7 @@
     <Warfare>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Military unit types</Name>
+          <Name>xxxxxxx Military unit types</Name>
           <Values>
             <string>Archer</string>
             <string>Assassin</string>
@@ -60,7 +58,7 @@
     <BiosphereNames>
       <Animals>
         <NameGroup>
-          <Name>Animals</Name>
+          <Name>xxxxxxx Animals</Name>
           <Values>
             <string>Accentor</string>
             <string>Albatross</string>
@@ -84,7 +82,6 @@
             <string>Harrier</string>
             <string>Hawk</string>
             <string>Jackal</string>
-            <string>Jaguar</string>
             <string>Kangaroo</string>
             <string>Lion</string>
             <string>Lizard</string>
@@ -120,7 +117,7 @@
       </Animals>
       <MythologicalCreatures>
         <NameGroup>
-          <Name>Mythological creatures</Name>
+          <Name>xxxxxxx Mythological creatures</Name>
           <Values>
             <string>Demon</string>
             <string>Dragon</string>
@@ -154,48 +151,10 @@
         </NameGroup>
       </Juggernaut>
     </Ships>
-    <Armies>
-      <Fleet>
-        <NameGroup>
-          <Name>Fleets - Metals</Name>
-          <Values>
-            <string>The Iron Fleet</string>
-            <string>The Golden Fleet</string>
-            <string>The Silver Fleet</string>
-            <string>The Steel Fleet</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Fleets - Colours</Name>
-          <Values>
-            <string>The Black Fleet</string>
-            <string>The Blue Fleet</string>
-            <string>The Brown Fleet</string>
-            <string>The Burgundy Fleet</string>
-            <string>The Chrome Fleet</string>
-            <string>The Cobalt Fleet</string>
-            <string>The Crimson Fleet</string>
-            <string>The Cyan Fleet</string>
-            <string>The Green Fleet</string>
-            <string>The Lime Fleet</string>
-            <string>The Magenta Fleet</string>
-            <string>The Orange Fleet</string>
-            <string>The Pink Fleet</string>
-            <string>The Purple Fleet</string>
-            <string>The Red Fleet</string>
-            <string>The Teal Fleet</string>
-            <string>The Turqoise Fleet</string>
-            <string>The Violet Fleet</string>
-            <string>The White Fleet</string>
-            <string>The Yellow Fleet</string>
-          </Values>
-        </NameGroup>
-      </Fleet>
-    </Armies>
     <Planets>
       <Arctic>
         <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Name>xxxxxxx Planets - Stellaris</Name> <!-- United Nations of Earth -->
           <Values>
             <string>Arctica</string>
           </Values>

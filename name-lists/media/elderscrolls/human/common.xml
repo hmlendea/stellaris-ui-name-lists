@@ -28,7 +28,7 @@
       </Countries>
       <Cities>
         <NameGroup>
-          <Name>Cities - The Elder Scrolls - Human - Hammerfell</Name>
+          <Name>Cities - The Elder Scrolls</Name> <!-- Hammerfell -->
           <Values>
             <string>Abah's Landing</string>
             <string>Sentinel</string>

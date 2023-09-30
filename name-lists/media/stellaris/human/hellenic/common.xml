@@ -4,6 +4,20 @@
     <Id>stellaris_human_hellenic</Id>
     <Name>Stellaris - Human - Hellenic</Name>
     <Ships>
+      <Cruiser>
+        <NameGroup>
+          <Name>Ships - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Achilles</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Ships - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Hydaspes</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
       <Titan>
         <NameGroup>
           <Name>Ships - Stellaris</Name> <!-- United Nations of Earth -->

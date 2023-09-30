@@ -91,5 +91,15 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals</Name>
+          <Values>
+            <string>Puma</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
   </NameList>
 </ArrayOfNameList>

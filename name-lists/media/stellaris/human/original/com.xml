@@ -6,7 +6,7 @@
     <Ships>
       <Corvette>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Agile</string>
             <string>Archer</string>
@@ -169,7 +169,7 @@
       </Corvette>
       <Destroyer>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Adversary</string>
             <string>Alchemist</string>
@@ -322,7 +322,7 @@
       </Destroyer>
       <Cruiser>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Abaddon</string>
             <string>Acheron</string>
@@ -493,7 +493,7 @@
       </Cruiser>
       <Battleship>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Allegiance</string>
             <string>Ambush</string>
@@ -605,7 +605,7 @@
       </Battleship>
       <Titan>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Executor</string>
             <string>Glory</string>
@@ -618,7 +618,7 @@
       </Titan>
       <Colossus>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Annihilator</string>
             <string>Behemoth</string>
@@ -630,7 +630,7 @@
       </Colossus>
       <Juggernaut>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Pendragon</string>
             <string>Doomsday</string>
@@ -642,7 +642,7 @@
       </Juggernaut>
       <Constructor>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Accommodator</string>
             <string>Anvil</string>
@@ -685,7 +685,7 @@
       </Constructor>
       <Science>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Acuity</string>
             <string>Alacrity</string>
@@ -715,7 +715,7 @@
       </Science>
       <Coloniser>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Acquirer</string>
             <string>Brotherhood</string>
@@ -751,7 +751,7 @@
       </Coloniser>
       <Transport>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Cinquedea</string>
             <string>Estoc</string>
@@ -766,7 +766,7 @@
       </Transport>
       <IonCannon>
         <NameGroup>
-          <Name>Ships - Stellaris</Name>
+          <Name>zzzzzzz Ships - Stellaris</Name>
           <Values>
             <string>Arbalest</string>
             <string>Crossbow</string>
@@ -781,7 +781,7 @@
       <MilitaryStations>
         <Generic>
           <NameGroup>
-          <Name>Military Stations - Stellaris</Name>
+          <Name>zzzzzzz Military Stations - Stellaris</Name>
             <Values>
               <string>Constancy</string>
               <string>Dignity</string>
@@ -806,7 +806,7 @@
       <FleetSequentialNames>%0% Strike Force</FleetSequentialNames>
       <Fleet>
         <NameGroup>
-          <Name>Fleets - Stellaris</Name>
+          <Name>zzzzzzz Fleets - Stellaris</Name>
           <Values>
             <string>Strike Force Basilisk</string>
             <string>Strike Force Behemoth</string>
@@ -850,7 +850,7 @@
       <PsionicArmySequentialName>%O% Psy Warriors</PsionicArmySequentialName>
       <PsionicArmy>
         <NameGroup>
-          <Name>Armies - Stellaris</Name>
+          <Name>zzzzzzz Armies - Stellaris</Name>
           <Values>
             <string>Banshee Legion</string>
             <string>Ghost Legion</string>
@@ -868,7 +868,7 @@
       <XenomorphArmySequentialName>%O% Morphling Marauders</XenomorphArmySequentialName>
       <XenomorphArmy>
         <NameGroup>
-          <Name>Armies - Stellaris</Name>
+          <Name>zzzzzzz Armies - Stellaris</Name>
           <Values>
             <string>Experimental Unit 'Amaru'</string>
             <string>Experimental Unit 'Bakunawa'</string>
@@ -891,7 +891,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Planets - Stellaris</Name>
+          <Name>zzzzzzz Planets - Stellaris</Name>
           <Values>
             <string>Acrisia</string>
             <string>Agartha</string>
@@ -947,7 +947,7 @@
       </Generic>
       <Desert>
         <NameGroup>
-          <Name>Planets - Stellaris</Name>
+          <Name>zzzzzzz Planets - Stellaris</Name>
           <Values>
             <string>Frampton Sands</string>
             <string>Inferno</string>
@@ -958,7 +958,7 @@
       </Desert>
       <Tropical>
         <NameGroup>
-          <Name>Planets - Stellaris</Name>
+          <Name>zzzzzzz Planets - Stellaris</Name>
           <Values>
             <string>Broadleaf</string>
             <string>Jangala</string>
@@ -969,7 +969,7 @@
       </Tropical>
       <Arid>
         <NameGroup>
-          <Name>Planets - Stellaris</Name>
+          <Name>zzzzzzz Planets - Stellaris</Name>
           <Values>
             <string>High Ground</string>
             <string>Nova Antioch</string>
@@ -979,7 +979,7 @@
       </Arid>
       <Continental>
         <NameGroup>
-          <Name>Planets - Stellaris</Name>
+          <Name>zzzzzzz Planets - Stellaris</Name>
           <Values>
             <string>Abbassus</string>
             <string>Acropolis</string>
@@ -999,7 +999,7 @@
       </Continental>
       <Gaia>
         <NameGroup>
-          <Name>Planets - Stellaris</Name>
+          <Name>zzzzzzz Planets - Stellaris</Name>
           <Values>
             <string>Apollonia</string>
             <string>Deliverance</string>
@@ -1012,7 +1012,7 @@
       </Gaia>
       <Ocean>
         <NameGroup>
-          <Name>Planets - Stellaris</Name>
+          <Name>zzzzzzz Planets - Stellaris</Name>
           <Values>
             <string>Hyderia</string>
             <string>Meredith Bay</string>
@@ -1024,7 +1024,7 @@
       </Ocean>
       <Tundra>
         <NameGroup>
-          <Name>Planets - Stellaris</Name>
+          <Name>zzzzzzz Planets - Stellaris</Name>
           <Values>
             <string>Evonium</string>
             <string>Nova Samarkand</string>
@@ -1034,7 +1034,7 @@
       </Tundra>
       <Arctic>
         <NameGroup>
-          <Name>Planets - Stellaris</Name>
+          <Name>zzzzzzz Planets - Stellaris</Name>
           <Values>
             <string>Jotunheim</string>
             <string>Winter</string>
