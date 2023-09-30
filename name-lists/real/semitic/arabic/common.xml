@@ -97,6 +97,16 @@
           </Values>
         </NameGroup>
       </Animals>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Ifrit</string>
+            <string>Jinn</string>
+            <string>Roc</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
     </BiosphereNames>
     <Characters>
       <CharacterNames>

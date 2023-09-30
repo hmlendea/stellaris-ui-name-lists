@@ -1,32 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>human_cornish</Id>
-    <Name>Human - Cornish</Name>
+    <Id>human_australian_aboriginal</Id>
+    <Name>Human - Australian (Aboriginal)</Name>
     <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-            <string>Cornish</string>
+          <string>Aboriginal</string>
         </Values>
       </NameGroup>
     </Denonyms>
-    <Places>
-      <Regions>
-        <NameGroup>
-          <Name>Regions</Name>
-          <Values>
-            <string>Cornwall</string>
-          </Values>
-        </NameGroup>
-      </Regions>
-    </Places>
     <BiosphereNames>
       <MythologicalCreatures>
         <NameGroup>
           <Name>Mythological creatures</Name>
           <Values>
-            <string>Spriggan</string>
+            <string>Bunyip</string>
+            <string>Yara-ma-yha-who</string>
           </Values>
         </NameGroup>
       </MythologicalCreatures>

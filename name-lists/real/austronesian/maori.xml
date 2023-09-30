@@ -21,6 +21,16 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Taniwha</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <Planets>
       <Continental>
         <NameGroup>

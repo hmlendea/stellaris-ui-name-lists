@@ -73,6 +73,16 @@
           </Values>
         </NameGroup>
       </Animals>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Chupacabra</string>
+            <string>Quilombo</string>
+            <string>Yacumama</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
     </BiosphereNames>
     <Ships>
       <Coloniser>

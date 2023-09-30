@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_japanese</Id>
+    <Name>Universum Infinitum - Human - Japanese</Name>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Shin Kyoto</string>
+            <string>Shin Tokyo</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Kareino</string> <!-- Splendor -->
+            <string>Seijakuno</string> <!-- Serenity -->
+            <string>Tenkūno</string> <!-- Sky -->
+            <string>Rakuenshi</string> <!-- Paradise -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

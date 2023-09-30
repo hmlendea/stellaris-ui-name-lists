@@ -115,6 +115,22 @@
         </NameGroup>
       </Rivers>
     </Places>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Kappa</string>
+            <string>Kitsune</string>
+            <string>Oni</string>
+            <string>Rokurokubi</string>
+            <string>Tengu</string>
+            <string>Yuki-onna</string>
+            <string>Yurei</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <GreatPeople>
       <LeadersTier1>
         <NameGroup>

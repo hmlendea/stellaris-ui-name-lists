@@ -1,57 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>humans_common_european</Id>
-    <Name>Humans - Common - European</Name>
+    <Id>human_scandinavian</Id>
+    <Name>Human - Scandinavian</Name>
     <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-          <string>European</string>
+          <string>Nord</string>
+          <string>Nordic</string>
         </Values>
       </NameGroup>
     </Denonyms>
     <Places>
       <Regions>
         <NameGroup>
-          <Name>Continents</Name>
+          <Name>Regions</Name>
           <Values>
-            <string>Europe</string>
+            <string>Scandinavia</string>
           </Values>
         </NameGroup>
       </Regions>
     </Places>
-    <Warfare>
-      <Weapons>
-        <Artillery>
-          <NameGroup>
-            <Name>Artillery</Name>
-            <Values>
-              <string>Trebuchet</string>
-            </Values>
-          </NameGroup>
-        </Artillery>
-      </Weapons>
-    </Warfare>
-    <Ships>
-      <Science>
-        <NameGroup>
-          <Name>Landers - Mars</Name>
-          <Values>
-            <string>Phootprint</string>
-          </Values>
-        </NameGroup>
-      </Science>
-    </Ships>
     <BiosphereNames>
       <MythologicalCreatures>
         <NameGroup>
           <Name>Mythological creatures</Name>
           <Values>
-            <string>Gnome</string>
+            <string>Hulder</string>
+            <string>Kraken</string>
           </Values>
         </NameGroup>
       </MythologicalCreatures>
     </BiosphereNames>
+    <GreatPeople>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Alaric</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+      <Explorers>
+        <NameGroup>
+          <Name>Explorers</Name>
+          <Values>
+            <string>Leif Ericson</string>
+          </Values>
+        </NameGroup>
+      </Explorers>
+    </GreatPeople>
   </NameList>
 </ArrayOfNameList>

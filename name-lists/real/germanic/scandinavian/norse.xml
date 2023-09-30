@@ -8,42 +8,23 @@
         <Name>Denonyms</Name>
         <Values>
           <string>Gothic</string>
-          <string>Nord</string>
-          <string>Nordic</string>
           <string>Norse</string>
           <string>Vandal</string>
           <string>Viking</string>
         </Values>
       </NameGroup>
     </Denonyms>
-    <Places>
-      <Regions>
+    <BiosphereNames>
+      <MythologicalCreatures>
         <NameGroup>
-          <Name>Regions</Name>
+          <Name>Mythological creatures</Name>
           <Values>
-            <string>Scandinavia</string>
+            <string>Jormungandr</string>
+            <string>Valkyrie</string>
           </Values>
         </NameGroup>
-      </Regions>
-    </Places>
-    <GreatPeople>
-      <LeadersTier1>
-        <NameGroup>
-          <Name>Leaders</Name>
-          <Values>
-            <string>Alaric</string>
-          </Values>
-        </NameGroup>
-      </LeadersTier1>
-      <Explorers>
-        <NameGroup>
-          <Name>Explorers</Name>
-          <Values>
-            <string>Leif Ericson</string>
-          </Values>
-        </NameGroup>
-      </Explorers>
-    </GreatPeople>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <Warfare>
       <MilitaryUnitTypes>
         <NameGroup>
@@ -79,7 +60,7 @@
       </Cruiser>
       <Battleship>
         <NameGroup>
-          <Name>Mythology</Name>
+          <Name>Mythological creatures</Name>
           <Values>
             <string>Valkyrie</string>
           </Values>
@@ -101,6 +82,14 @@
           </Values>
         </NameGroup>
       </Transport>
+      <Titan>
+        <NameGroup>
+          <Name>Mythology</Name>
+          <Values>
+            <string>Jormungandr</string>
+          </Values>
+        </NameGroup>
+      </Titan>
     </Ships>
     <Planets>
       <Generic>

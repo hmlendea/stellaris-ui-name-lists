@@ -345,6 +345,17 @@
         </NameGroup>
       </Science>
     </Ships>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Dragon</string>
+            <string>Jiangshi</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <Planets>
       <Continental>
         <NameGroup>

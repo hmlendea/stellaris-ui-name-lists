@@ -34,5 +34,15 @@
         </Throwables>
       </Weapons>
     </Warfare>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Quetzalcoatl</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
   </NameList>
 </ArrayOfNameList>

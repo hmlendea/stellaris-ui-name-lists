@@ -293,6 +293,7 @@
         <NameGroup>
           <Name>Mythological creatures</Name>
           <Values>
+            <string>Doppelgänger</string>
             <string>Krampus</string>
           </Values>
         </NameGroup>

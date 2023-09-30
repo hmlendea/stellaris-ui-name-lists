@@ -29,6 +29,19 @@
         </NameGroup>
       </Deserts>
     </Places>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Abada</string>
+            <string>Adze</string>
+            <string>Anansi</string>
+            <string>Mngwa</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <Warfare>
       <Weapons>
         <Throwables>

@@ -106,6 +106,9 @@
           <Name>Mythological creatures</Name>
           <Values>
             <string>Behemoth</string>
+            <string>Dybbuk</string>
+            <string>Golem</string>
+            <string>Ziz</string>
           </Values>
         </NameGroup>
       </MythologicalCreatures>

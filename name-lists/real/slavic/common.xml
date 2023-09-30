@@ -34,5 +34,15 @@
         </Polearms>
       </Weapons>
     </Warfare>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Rusalka</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
   </NameList>
 </ArrayOfNameList>

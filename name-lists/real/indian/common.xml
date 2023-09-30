@@ -117,6 +117,17 @@
         </NameGroup>
       </Rivers>
     </Places>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Naga</string>
+            <string>Rakshasa</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <GreatPeople>
       <Scientists>
         <NameGroup>

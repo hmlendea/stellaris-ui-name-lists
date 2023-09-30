@@ -154,7 +154,9 @@
         <NameGroup>
           <Name>Mythological creatures</Name>
           <Values>
-            <string>Chupacabra</string>
+            <string>Chaneques</string>
+            <string>Huay Chivo</string>
+            <string>La Llorona</string>
           </Values>
         </NameGroup>
       </MythologicalCreatures>

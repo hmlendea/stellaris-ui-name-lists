@@ -122,5 +122,17 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Cù Sìth</string>
+            <string>Kelpie</string>
+            <string>Selkie</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
   </NameList>
 </ArrayOfNameList>
