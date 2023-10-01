@@ -343,39 +343,6 @@
       <RoboticOccupationArmySequentialName>%0% Panzer Division</RoboticOccupationArmySequentialName>
       <SuperSoldierArmySequentialName>%O% Supersoldatten Divison</SuperSoldierArmySequentialName>
     </Armies>
-    <Planets>
-      <Continental>
-        <NameGroup>
-          <Name>Cities</Name>
-          <Values>
-            <string>Neu Berlin</string>
-          </Values>
-        </NameGroup>
-      </Continental>
-      <Ocean>
-        <NameGroup>
-          <Name>Based on rivers</Name>
-          <Values>
-            <string>Elba</string>
-            <string>Rheinland</string>
-          </Values>
-        </NameGroup>
-      </Ocean>
-      <Tomb>
-        <NameGroup>
-          <Name>Words</Name>
-          <Values>
-            <string>Krieg</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Places</Name>
-          <Values>
-            <string>Auschwitz</string>
-          </Values>
-        </NameGroup>
-      </Tomb>
-    </Planets>
     <Characters>
       <CharacterNames>
         <Id>german</Id>

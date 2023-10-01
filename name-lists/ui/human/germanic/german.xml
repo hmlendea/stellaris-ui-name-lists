@@ -12,6 +12,15 @@
           </Values>
         </NameGroup>
       </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on rivers</Name>
+          <Values>
+            <string>Elba</string>
+            <string>Rheinland</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
       <Gaia>
         <NameGroup>
           <Name>Planets - Based on words</Name>
@@ -22,6 +31,20 @@
           </Values>
         </NameGroup>
       </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Krieg</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Auschwitz</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
     </Planets>
   </NameList>
 </ArrayOfNameList>
