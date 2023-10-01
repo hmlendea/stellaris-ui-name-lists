@@ -19,6 +19,12 @@
             <string>Greece</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Elláda</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Regions>
         <NameGroup>

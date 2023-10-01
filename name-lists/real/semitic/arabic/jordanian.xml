@@ -16,8 +16,13 @@
         <NameGroup>
           <Name>Countries</Name>
           <Values>
-            <string>al-Urdunn</string>
             <string>Jordan</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>al-Urdunn</string>
           </Values>
         </NameGroup>
       </Countries>

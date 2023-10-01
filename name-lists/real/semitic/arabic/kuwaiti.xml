@@ -19,6 +19,12 @@
             <string>Kuwait</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>al-Kuwait</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Cities>
         <NameGroup>

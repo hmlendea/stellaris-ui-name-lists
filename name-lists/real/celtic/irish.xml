@@ -19,6 +19,12 @@
             <string>Ireland</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Éire</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Cities>
         <NameGroup>

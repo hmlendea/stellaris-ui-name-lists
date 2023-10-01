@@ -19,6 +19,12 @@
             <string>Montenegro</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Crna Gora</string>
+          </Values>
+        </NameGroup>
       </Countries>
     </Places>
     <Characters>

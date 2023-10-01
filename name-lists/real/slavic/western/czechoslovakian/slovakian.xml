@@ -20,6 +20,12 @@
             <string>Slovakia</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Slovensko</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Cities>
         <NameGroup>

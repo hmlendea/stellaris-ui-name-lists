@@ -25,6 +25,12 @@
             <string>Russia</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Rossiya</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Cities>
         <NameGroup>

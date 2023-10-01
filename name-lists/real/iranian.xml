@@ -19,6 +19,12 @@
             <string>Iran</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Irān</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Cities>
         <NameGroup>

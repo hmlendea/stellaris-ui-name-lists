@@ -19,6 +19,12 @@
             <string>Kiribati</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Tungaru</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Regions>
         <NameGroup>

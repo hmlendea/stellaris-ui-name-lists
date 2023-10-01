@@ -20,6 +20,12 @@
             <string>Mongolia</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Mongol uls</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Cities>
         <NameGroup>

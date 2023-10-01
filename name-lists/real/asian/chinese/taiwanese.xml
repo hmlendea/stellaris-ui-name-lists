@@ -19,6 +19,12 @@
             <string>Taiwan</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Táiwān</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Cities>
         <NameGroup>

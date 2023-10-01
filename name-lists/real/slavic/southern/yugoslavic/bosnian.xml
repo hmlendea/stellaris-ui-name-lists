@@ -20,6 +20,12 @@
             <string>Bosnia</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Bosna</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Regions>
         <NameGroup>

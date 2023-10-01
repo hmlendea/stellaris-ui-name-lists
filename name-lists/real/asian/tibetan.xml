@@ -19,6 +19,12 @@
             <string>Tibet</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Bö</string>
+          </Values>
+        </NameGroup>
       </Countries>
     </Places>
     <GreatPeople>

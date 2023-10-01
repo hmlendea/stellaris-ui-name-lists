@@ -19,6 +19,12 @@
             <string>China</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Zhōngguó</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Regions>
         <NameGroup>
@@ -356,6 +362,16 @@
         </NameGroup>
       </MythologicalCreatures>
     </BiosphereNames>
+    <GreatPeople>
+      <Admirals>
+        <NameGroup>
+          <Name>Admirals</Name>
+          <Values>
+            <string>Zheng He</string>
+          </Values>
+        </NameGroup>
+      </Admirals>
+    </GreatPeople>
     <Planets>
       <Continental>
         <NameGroup>

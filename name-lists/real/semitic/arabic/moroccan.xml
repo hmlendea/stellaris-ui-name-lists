@@ -19,6 +19,12 @@
             <string>Morocco</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>al-Maghrib</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Mountains>
         <NameGroup>

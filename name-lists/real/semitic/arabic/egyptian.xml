@@ -19,6 +19,12 @@
             <string>Egypt</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Mişr</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Rivers>
         <NameGroup>

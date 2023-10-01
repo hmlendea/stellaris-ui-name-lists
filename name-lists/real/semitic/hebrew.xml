@@ -21,6 +21,12 @@
             <string>Israel</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Yisra'el</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Regions>
         <NameGroup>

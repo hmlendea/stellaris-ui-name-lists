@@ -44,6 +44,12 @@
             <string>Moldova</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>România</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Regions>
         <NameGroup>
@@ -74,6 +80,7 @@
             <string>Maramureș</string>
             <string>Moldova</string>
             <string>Transilvania</string>
+            <string>Țara Românească</string>
             <string>Valahia</string>
           </Values>
         </NameGroup>
@@ -123,6 +130,7 @@
             <string>Ochiul Beiului</string>
             <string>Razim</string>
             <string>Sfânta Ana</string>
+            <string>Tarnița</string>
             <string>Tăul Țapului</string>
           </Values>
         </NameGroup>
@@ -198,6 +206,7 @@
           <Name>Leaders</Name>
           <Values>
             <string>Michael the Brave</string>
+            <string>Mircea the Elder</string>
             <string>Stephen the Great</string>
             <string>Vlad the Impaler</string>
           </Values>
@@ -206,6 +215,7 @@
           <Name>Leaders - Endonyms</Name>
           <Values>
             <string>Mihai Viteazul</string>
+            <string>Mircea cel Bătrân</string>
             <string>Ștefan cel Mare</string>
             <string>Vlad Țepeș</string>
           </Values>
@@ -226,6 +236,8 @@
         <NameGroup>
           <Name>Heroes</Name>
           <Values>
+            <string>Iancu</string>
+            <string>Rădulescu</string>
             <string>Teodoroiu</string>
           </Values>
         </NameGroup>
@@ -274,7 +286,7 @@
           <Name>Military unit types</Name>
           <Values>
             <string>Dorobant</string>
-            <string>Falxmen</string>
+            <string>Falxman</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
@@ -296,6 +308,7 @@
           <Values>
             <string>Balaur</string>
             <string>Căpcăun</string>
+            <string>Drac</string>
             <string>Strigoi</string>
             <string>Vampire</string>
             <string>Zmeu</string>

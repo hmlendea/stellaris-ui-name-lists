@@ -19,6 +19,12 @@
             <string>Czechia</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Česko</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Regions>
         <NameGroup>

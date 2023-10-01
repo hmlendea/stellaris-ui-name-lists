@@ -19,6 +19,12 @@
             <string>Hawaii</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Hawai'i</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Regions>
         <NameGroup>

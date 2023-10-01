@@ -19,6 +19,12 @@
             <string>Palestine</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Filasṭīn</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Mountains>
         <NameGroup>
