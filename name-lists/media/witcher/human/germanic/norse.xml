@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>witcher_human_norse</Id>
+    <Name>The Witcher - Human - Norse</Name>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - The Witcher</Name>
+          <Values>
+            <string>Nilfgaard</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - The Witcher</Name>
+          <Values>
+            <string>Arinbjorn</string>
+            <string>Nilfgaard</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Countries - The Witcher</Name>
+          <Values>
+            <string>Nilfgaard</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - The Witcher</Name>
+          <Values>
+            <string>Arinbjorn</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

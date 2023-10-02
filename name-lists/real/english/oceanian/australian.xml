@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>humans_australian</Id>
-    <Name>Humans - Australian</Name>
+    <Id>humans_english_australian</Id>
+    <Name>Humans - English (Australian)</Name>
     <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
@@ -116,5 +116,15 @@
         </NameGroup>
       </AircraftManufacturers>
     </Companies>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals</Name>
+          <Values>
+            <string>Kangaroo</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
   </NameList>
 </ArrayOfNameList>

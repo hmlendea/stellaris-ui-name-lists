@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_latvian</Id>
+    <Name>Universum Infinitum - Human - Latvian</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Elle</string> <!-- Inferno -->
+            <string>Krāsns</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Jaunrīga</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Akvārijs</string> <!-- Aquarium -->
+            <string>Okeānija</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Debesis</string> <!-- Sky -->
+            <string>Dievs</string> <!-- God -->
+            <string>Greznība</string> <!-- Splendor -->
+            <string>Miers</string> <!-- Serenity -->
+            <string>Paradīze</string> <!-- Paradise -->
+            <string>Templis</string> <!-- Temple -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Drupas</string> <!-- Rubble -->
+            <string>Drupas</string> <!-- Ruin -->
+            <string>Geto</string> <!-- Ghetto -->
+            <string>Kapi</string> <!-- Graveyard -->
+            <string>Karš</string> <!-- War -->
+            <string>Kripta</string> <!-- Crypt -->
+            <string>Pelci</string> <!-- Cinder -->
+            <string>Piemineklis</string> <!-- Tombstone -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

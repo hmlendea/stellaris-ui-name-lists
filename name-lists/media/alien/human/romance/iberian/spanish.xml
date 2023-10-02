@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>alien_human_spanish</Id>
+    <Name>Alien - Human - Spanish</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Alien</Name> <!-- Union of Progressive Peoples -->
+          <Values>
+            <string>Sueños Grandes</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Alien</Name>
+          <Values>
+            <string>Cristóbal</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Alien</Name> <!-- Union of Progressive Peoples -->
+          <Values>
+            <string>Sueños Grandes</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>alien_human_german</Id>
+    <Name>Alien - Human - German</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Alien</Name> <!-- Union of Progressive Peoples -->
+          <Values>
+            <string>Neues Aurich</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Companies>
+      <RobotManufacturers>
+        <NameGroup>
+          <Name>Robot Manufacturers - Alien</Name>
+          <Values>
+            <string>Seegson</string>
+          </Values>
+        </NameGroup>
+      </RobotManufacturers>
+    </Companies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Alien</Name> <!-- Union of Progressive Peoples -->
+          <Values>
+            <string>Neues Aurich</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

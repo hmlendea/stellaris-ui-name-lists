@@ -19,6 +19,12 @@
             <string>Japan</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Nippon</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Regions>
         <NameGroup>
@@ -115,6 +121,22 @@
         </NameGroup>
       </Rivers>
     </Places>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Kappa</string>
+            <string>Kitsune</string>
+            <string>Oni</string>
+            <string>Rokurokubi</string>
+            <string>Tengu</string>
+            <string>Yuki-onna</string>
+            <string>Yurei</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <GreatPeople>
       <LeadersTier1>
         <NameGroup>
@@ -338,7 +360,7 @@
       </Tomb>
       <Molten>
         <NameGroup>
-          <Name>Mythology - Places</Name>
+          <Name>Places - Mythology</Name>
           <Values>
             <string>Yomi</string>
           </Values>

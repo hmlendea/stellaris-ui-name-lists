@@ -14,7 +14,7 @@
     <Places>
       <Cities>
         <NameGroup>
-          <Name>Cities - StarWars - Corellia</Name>
+          <Name>Cities - StarWars</Name> <!-- Corellia -->
           <Values>
             <string>Bela Vistal</string>
             <string>Coronet</string>
@@ -28,7 +28,7 @@
     <BiosphereNames>
       <Animals>
         <NameGroup>
-          <Name>Animals - StarWars - Corellia</Name>
+          <Name>Animals - StarWars</Name> <!-- Corellia -->
           <Values>
             <string>Bluevev Glider</string>
             <string>Coppergrin</string>

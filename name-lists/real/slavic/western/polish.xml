@@ -22,6 +22,12 @@
             <string>Poland</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Polska</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Cities>
         <NameGroup>

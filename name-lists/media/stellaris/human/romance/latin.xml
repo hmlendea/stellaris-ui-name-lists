@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>stellaris_human_latin</Id>
+    <Name>Stellaris - Human - Latin</Name>
+    <Ships>
+      <Titan>
+        <NameGroup>
+          <Name>Ships - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Hercules</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Ships - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Imperator</string>
+          </Values>
+        </NameGroup>
+      </Titan>
+      <Colossus>
+        <NameGroup>
+          <Name>Ships - Stellaris</Name> <!-- SPQR -->
+          <Values>
+            <string>Dis Pater</string>
+            <string>Pax Romana</string>
+            <string>Sol Invictus</string>
+          </Values>
+        </NameGroup>
+      </Colossus>
+      <Juggernaut>
+        <NameGroup>
+          <Name>Ships - Stellaris</Name> <!-- SPQR -->
+          <Values>
+            <string>Acca Larentia</string>
+            <string>Axis Mundi</string>
+            <string>Emperor</string>
+            <string>Faustulus</string>
+            <string>Lupa</string>
+            <string>Magister Militum</string>
+            <string>Optimus Princeps</string>
+          </Values>
+        </NameGroup>
+      </Juggernaut>
+    </Ships>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Capella</string>
+            <string>Noricum</string>
+            <string>Nova Constantinople</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- SPQR -->
+          <Values>
+            <string>Acherusia</string>
+            <string>Antiochia</string>
+            <string>Aquilo</string>
+            <string>Argyre</string>
+            <string>Ascrivium</string>
+            <string>Auster</string>
+            <string>Brigantium</string>
+            <string>Caledonia</string>
+            <string>Colonia Augusta</string>
+            <string>Colonia Aurora</string>
+            <string>Colonia Emerita</string>
+            <string>Colonia Pacifica</string>
+            <string>Colonia Traiana</string>
+            <string>Eboracum</string>
+            <string>Eurus</string>
+            <string>Hades</string>
+            <string>Hesperides</string>
+            <string>Hibernia</string>
+            <string>Hyperborea</string>
+            <string>Ithaca</string>
+            <string>Lyrcea</string>
+            <string>Lyrnessus</string>
+            <string>Neritum</string>
+            <string>Nova Aegyptus</string>
+            <string>Nova Parthia</string>
+            <string>Nova Serica</string>
+            <string>Nysa</string>
+            <string>Panchaea</string>
+            <string>Patavium</string>
+            <string>Pedasus</string>
+            <string>Phlegra</string>
+            <string>Rhegium</string>
+            <string>Scandia</string>
+            <string>Silpium</string>
+            <string>Spalatum</string>
+            <string>Telepylos</string>
+            <string>Thrinacia</string>
+            <string>Tritonis</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Delgovicia</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Arid>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Tartarus</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Terra Nova</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Nova Babylon</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Euxina</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Tundra>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Nova Samarkand</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Evonium</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Hyperborea</string>
+            <string>Thule</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+      <Alpine>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- SPQR -->
+          <Values>
+            <string>Olympia</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_english_common</Id>
+    <Name>Universum Infinitum - Human - English (Common)</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Inferno</string>
+            <string>Oven</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Oceania</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>God</string>
+            <string>Paradise</string>
+            <string>Serenity</string>
+            <string>Sky</string>
+            <string>Temple</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Cinder</string>
+            <string>Crypt</string>
+            <string>Ghetto</string>
+            <string>Graveyard</string>
+            <string>Rubble</string>
+            <string>Ruin</string>
+            <string>Tombstone</string>
+            <string>War</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

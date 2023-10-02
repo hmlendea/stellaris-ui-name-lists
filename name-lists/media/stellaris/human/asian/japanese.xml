@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>stellaris_human_japanese</Id>
+    <Name>Stellaris - Human - Japanese</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Nozomi</string>
+            <string>Akatsuki</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Oda</string>
+            <string>Tokugawa</string>
+            <string>Toyotomi</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

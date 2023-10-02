@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>runescape_human_kandarin_french</Id>
+    <Name>RuneScape - Human - Kandarin (French)</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - RuneScape</Name>
+          <Values>
+            <string>Ardougne</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Cities - RuneScape</Name>
+          <Values>
+            <string>Ardougne</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

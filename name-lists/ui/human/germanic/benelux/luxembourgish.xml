@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_luxembourgish</Id>
+    <Name>Universum Infinitum - Human - Luxembourgish</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Hell</string> <!-- Inferno -->
+            <string>Ofen</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Nei Lëtzebuerg</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Aquariem</string> <!-- Aquarium -->
+            <string>Ozeanien</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Gott</string> <!-- God -->
+            <string>Himmel</string> <!-- Sky -->
+            <string>Paradies</string> <!-- Paradise -->
+            <string>Pruet</string> <!-- Splendor -->
+            <string>Rouden</string> <!-- Serenity -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Aasch</string> <!-- Cinder -->
+            <string>Ghetto</string> <!-- Ghetto -->
+            <string>Gravesteen</string> <!-- Tombstone -->
+            <string>Kierfecht</string> <!-- Graveyard -->
+            <string>Krich</string> <!-- War -->
+            <string>Krypta</string> <!-- Crypt -->
+            <string>Ruin</string> <!-- Ruin -->
+            <string>Trëm</string> <!-- Rubble -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

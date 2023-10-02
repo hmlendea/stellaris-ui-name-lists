@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>stellaris_human_english_common</Id>
+    <Name>Stellaris - Huma - English (Common)</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Anchor</string>
+            <string>Bounty</string>
+            <string>Hope</string>
+            <string>Spring</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Girdwood</string> <!-- Better in Tropical -->
+            <string>Grinstead</string>
+            <string>Sunrise</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Dune</string>
+            <string>Sand</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Sunrise</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Arid>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>High Ground</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Rain</string>
+            <string>Storm</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Broadleaf</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Dawn</string>
+            <string>Horizon</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Citadel</string>
+            <string>Dawnlight</string>
+            <string>Destiny</string>
+            <string>Harmony</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Deliverance</string>
+            <string>Garden</string>
+            <string>Sanctuary</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tundra>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Blizzard</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Stonehead</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Winter</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

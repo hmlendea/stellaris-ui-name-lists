@@ -2,7 +2,7 @@
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
     <Id>human_slovenian</Id>
-    <Name>Human - Slavic - Yugoslavic - Slovenian</Name>
+    <Name>Human - Slovenian</Name>
     <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
@@ -18,6 +18,12 @@
           <Name>Countries</Name>
           <Values>
             <string>Slovenia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Slovenija</string>
           </Values>
         </NameGroup>
       </Countries>

@@ -21,13 +21,13 @@
       </Countries>
       <Cities>
         <NameGroup>
-          <Name>Cities - Luxembourg</Name>
+          <Name>Cities</Name>
           <Values>
             <string>Luxembourg</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Luxembourg - Endonyms</Name>
+          <Name>Cities - Endonyms</Name>
           <Values>
             <string>Lëtzebuerg</string>
             <string>Luxemburg</string>

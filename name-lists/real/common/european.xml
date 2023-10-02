@@ -22,6 +22,15 @@
       </Regions>
     </Places>
     <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types</Name>
+          <Values>
+            <string>Crusader</string>
+            <string>Knight</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
       <Weapons>
         <Artillery>
           <NameGroup>
@@ -36,12 +45,22 @@
     <Ships>
       <Science>
         <NameGroup>
-          <Name>Landers - Mars - Future / Proposed</Name>
+          <Name>Landers - Mars</Name>
           <Values>
             <string>Phootprint</string>
           </Values>
         </NameGroup>
       </Science>
     </Ships>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Gnome</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
   </NameList>
 </ArrayOfNameList>

@@ -19,6 +19,12 @@
             <string>Scotland</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Alba</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Cities>
         <NameGroup>
@@ -122,5 +128,17 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Cù Sìth</string>
+            <string>Kelpie</string>
+            <string>Selkie</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
   </NameList>
 </ArrayOfNameList>

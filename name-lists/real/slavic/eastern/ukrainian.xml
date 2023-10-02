@@ -19,6 +19,12 @@
             <string>Ukraine</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Ukraїna</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Cities>
         <NameGroup>

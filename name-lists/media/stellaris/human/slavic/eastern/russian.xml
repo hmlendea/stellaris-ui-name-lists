@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>stellaris_human_russian</Id>
+    <Name>Stellaris - Human - Russian</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Port Karakosov</string>
+            <string>St. Yegorov</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Tundra>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Kola</string>
+            <string>Rus</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Siberia</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

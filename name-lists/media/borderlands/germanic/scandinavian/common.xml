@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>borderlands_human_germanic_scandinavian</Id>
+    <Name>Borderlands - Human - Germanic (Scandinavian)</Name>
+    <Companies>
+      <WeaponManufacturers>
+        <NameGroup>
+          <Name>Weapon Manufacturers - Borderlands</Name>
+          <Values>
+            <string>Dahl</string>
+          </Values>
+        </NameGroup>
+      </WeaponManufacturers>
+    </Companies>
+  </NameList>
+</ArrayOfNameList>

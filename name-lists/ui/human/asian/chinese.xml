@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_chinese</Id>
+    <Name>Universum Infinitum - Human - Chinese</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Dìyù</string> <!-- Inferno -->
+            <string>Kǎoxiāng</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Xīn Běijīng</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Dàyángzhōu</string> <!-- Ocean -->
+            <string>Shuǐzúguǎn</string> <!-- Aquarium -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Guānghuī</string> <!-- Splendor -->
+            <string>Níngjìng Zhī Dì</string> <!-- Serenity -->
+            <string>Shén</string> <!-- God -->
+            <string>Sì Miào</string> <!-- Temple -->
+            <string>Tiānkōng</string> <!-- Sky -->
+            <string>Tiāntáng</string> <!-- Paradise -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Dìxiàshì</string> <!-- Crypt -->
+            <string>Fèixū</string> <!-- Ruin -->
+            <string>Méi Zhā</string> <!-- Cinder -->
+            <string>Mùbēi</string> <!-- Tombstone -->
+            <string>Mùdì</string> <!-- Graveyard -->
+            <string>Pín Mín Qū</string> <!-- Ghetto -->
+            <string>Suìshí</string> <!-- Rubble -->
+            <string>Zhànzhēng</string> <!-- War -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

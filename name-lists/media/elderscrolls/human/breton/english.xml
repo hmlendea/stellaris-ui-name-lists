@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>elderscrolls_human_breton_english</Id>
+    <Name>ElderScrolls - Human - Breton (English)</Name>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - The Elder Scrolls</Name>
+          <Values>
+            <string>High Rock</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - The Elder Scrolls</Name>
+          <Values>
+            <string>Daggerfall</string>
+            <string>Evermore</string>
+            <string>Wayrest</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+  </NameList>
+</ArrayOfNameList>

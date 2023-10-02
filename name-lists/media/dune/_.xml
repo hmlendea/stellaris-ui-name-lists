@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>dune_persian</Id>
+    <Name>Dune - Persian</Name>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Ships - Dune</Name>
+          <Values>
+            <string>Tharondelai</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Ships>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Dune</Name>
+          <Values>
+            <string>Arrakis</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

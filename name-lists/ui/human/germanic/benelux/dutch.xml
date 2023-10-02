@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_dutch</Id>
+    <Name>Universum Infinitum - Human - Dutch</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Hel</string> <!-- Inferno -->
+            <string>Oven</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Nieuw Amsterdam</string>
+            <string>Nieuw Den Haag</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Aquarium</string> <!-- Aquarium -->
+            <string>Oceanië</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>God</string> <!-- God -->
+            <string>Lucht</string> <!-- Sky -->
+            <string>Paradijs</string> <!-- Paradise -->
+            <string>Pracht</string> <!-- Splendor -->
+            <string>Sereniteit</string> <!-- Serenity -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>As</string> <!-- Cinder -->
+            <string>Begraafplaats</string> <!-- Graveyard -->
+            <string>Crypte</string> <!-- Crypt -->
+            <string>Getto</string> <!-- Ghetto -->
+            <string>Grafsteen</string> <!-- Tombstone -->
+            <string>Oorlog</string> <!-- War -->
+            <string>Puin</string> <!-- Rubble -->
+            <string>Ruïne</string> <!-- Ruin -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_welsh</Id>
+    <Name>Universum Infinitum - Human - Welsh</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Uffern</string> <!-- Inferno -->
+            <string>Popty</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Caerdydd Newydd</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Acwariwm</string> <!-- Aquarium -->
+            <string>Oceania</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Awyr</string> <!-- Sky -->
+            <string>Duw</string> <!-- God -->
+            <string>Gogoniant</string> <!-- Splendor -->
+            <string>Paradwys</string> <!-- Paradise -->
+            <string>Tangnefedd</string> <!-- Serenity -->
+            <string>Teml</string> <!-- Temple -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Cerrig</string> <!-- Rubble -->
+            <string>Cript</string> <!-- Crypt -->
+            <string>Distrin</string> <!-- Ruin -->
+            <string>Fynwent</string> <!-- Graveyard -->
+            <string>Ghetto</string> <!-- Ghetto -->
+            <string>Maen Bedd</string> <!-- Tombstone -->
+            <string>Rhyfel</string> <!-- War -->
+            <string>Tân</string> <!-- Cinder -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

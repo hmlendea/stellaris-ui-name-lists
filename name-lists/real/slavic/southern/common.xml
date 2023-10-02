@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_slavic_southern</Id>
+    <Name>Human - Slavic (Southern)</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Balkan</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Balkania</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+    </Places>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Balkania</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

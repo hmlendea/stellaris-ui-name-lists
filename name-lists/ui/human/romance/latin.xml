@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_latin</Id>
+    <Name>Universum Infinitum - Human - Latin</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Infernus</string> <!-- Inferno -->
+            <string>Furnus</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Britannia Nova</string>
+            <string>Dacia Nova</string>
+            <string>Europa Nova</string>
+            <string>Londinium</string>
+            <string>Nova Roma</string>
+            <string>Nova Thracia</string>
+            <string>Transilvania Nova</string>
+            <string>Varadinum</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Aquarium</string> <!-- Aquarium -->
+            <string>Oceania</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Caelum</string> <!-- Sky -->
+            <string>Deus</string> <!-- God -->
+            <string>Paradisus</string> <!-- Paradise -->
+            <string>Serenitas</string> <!-- Serenity -->
+            <string>Splendor</string> <!-- Splendor -->
+            <string>Templum</string> <!-- Temple -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Bellum</string> <!-- War -->
+            <string>Carcera</string> <!-- Ghetto -->
+            <string>Cinis</string> <!-- Cinder -->
+            <string>Crypta</string> <!-- Crypt -->
+            <string>Ruina</string> <!-- Rubble -->
+            <string>Ruina</string> <!-- Ruin -->
+            <string>Sepulcrum</string> <!-- Graveyard -->
+            <string>Sepulcrum</string> <!-- Tombstone -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

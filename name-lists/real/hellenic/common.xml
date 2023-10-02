@@ -68,6 +68,7 @@
           <Values>
             <string>Achilles</string>
             <string>Aeneas</string>
+            <string>Ajax</string>
             <string>Bellerophon</string>
             <string>Cadmus</string>
             <string>Heracles</string>
@@ -477,6 +478,7 @@
             <string>Medusa</string>
             <string>Minotaur</string>
             <string>Naiad</string>
+            <string>Nymph</string>
             <string>Pegasus</string>
             <string>Phoenix</string>
             <string>Satyr</string>
@@ -520,6 +522,12 @@
     </Ships>
     <Planets>
       <Ocean>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Charybdis</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Words</Name>
           <Values>

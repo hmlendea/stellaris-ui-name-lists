@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_fng_human_english</Id>
+    <Name>Generated - FantasyNameGenerators - Human - English</Name>
+    <Stations>
+      <Starbases>
+        <Outposts>
+          <NameGroup>
+            <Name>Outposts - FantasyNameGenerator</Name>
+            <Values>
+              <string>Dire Post</string>
+              <string>Direstar Point</string>
+              <string>Gloom Station</string>
+              <string>Razor Watch</string>
+              <string>Starbreeze Outpost</string>
+              <string>Starwatch Outpost</string>
+              <string>Storm Haven</string>
+            </Values>
+          </NameGroup>
+        </Outposts>
+      </Starbases>
+    </Stations>
+    <Armies>
+      <DefenceArmy>
+        <NameGroup>
+          <Name>Armies - FantasyNameGenerator</Name>
+          <Values>
+            <string>The Guardians</string>
+            <string>The Last Hope</string>
+            <string>The Maroon Martyrs</string>
+            <string>The Saints</string>
+          </Values>
+        </NameGroup>
+      </DefenceArmy>
+      <AssaultArmy>
+        <NameGroup>
+          <Name>Armies - FantasyNameGenerator</Name>
+          <Values>
+            <string>The Silver Lining</string>
+            <string>The Saints</string>
+            <string>The Hounds</string>
+            <string>The Black Sheep</string>
+            <string>The Crushing</string>
+            <string>The Hell Squad</string>
+            <string>The Srumanir</string>
+            <string>The Hell Hosts</string>
+            <string>The Undefeated</string>
+            <string>The Illustrious</string>
+            <string>The Immortals</string>
+            <string>The Rose Regiment</string>
+            <string>The Thunder Troops</string>
+            <string>The Rose Riders</string>
+            <string>The Great Army</string>
+            <string>The Fire Battalion</string>
+            <string>The Eclipse</string>
+            <string>The Punishers</string>
+            <string>The Hellfire Squad</string>
+            <string>The Silver Soldiers</string>
+            <string>The Cataclysm Corps</string>
+            <string>Crimson Corps</string>
+            <string>Vanquisher Corps</string>
+          </Values>
+        </NameGroup>
+      </AssaultArmy>
+      <OccupationArmy>
+        <NameGroup>
+          <Name>Armies - FantasyNameGenerator</Name>
+          <Values>
+            <string>The New Order</string>
+          </Values>
+        </NameGroup>
+      </OccupationArmy>
+      <SlaveArmy>
+        <NameGroup>
+          <Name>Armies - FantasyNameGenerator</Name>
+          <Values>
+            <string>The Dogs</string>
+          </Values>
+        </NameGroup>
+      </SlaveArmy>
+      <PsionicArmy>
+        <NameGroup>
+          <Name>Armies - FantasyNameGenerator</Name>
+          <Values>
+            <string>The Pure Platoon</string>
+          </Values>
+        </NameGroup>
+      </PsionicArmy>
+      <XenomorphArmy>
+        <NameGroup>
+          <Name>Armies - FantasyNameGenerator</Name>
+          <Values>
+            <string>The Swarm</string>
+            <string>The Crimson Cloud</string>
+          </Values>
+        </NameGroup>
+      </XenomorphArmy>
+    </Armies>
+  </NameList>
+</ArrayOfNameList>

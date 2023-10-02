@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>stellaris_human_english_british</Id>
+    <Name>Stellaris - Human - English (British)</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Fitzroy's World</string>
+            <string>Hoxworth</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Avalon</string>
+            <string>New Coventry</string>
+            <string>St. Pomeroy</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Albion</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

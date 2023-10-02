@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>stellaris_human_norse</Id>
+    <Name>Stellaris - Human - Norse</Name>
+    <Ships>
+      <Juggernaut>
+        <NameGroup>
+          <Name>Ships - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Ragnarök</string>
+          </Values>
+        </NameGroup>
+      </Juggernaut>
+    </Ships>
+    <Planets>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Jotunheim</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Niflheim</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

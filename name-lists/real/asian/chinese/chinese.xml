@@ -19,6 +19,12 @@
             <string>China</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Zhōngguó</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Regions>
         <NameGroup>
@@ -117,6 +123,14 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Zhumulangma</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
       <Deserts>
         <NameGroup>
           <Name>Deserts</Name>
@@ -345,6 +359,27 @@
         </NameGroup>
       </Science>
     </Ships>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Dragon</string>
+            <string>Jiangshi</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
+    <GreatPeople>
+      <Admirals>
+        <NameGroup>
+          <Name>Admirals</Name>
+          <Values>
+            <string>Zheng He</string>
+          </Values>
+        </NameGroup>
+      </Admirals>
+    </GreatPeople>
     <Planets>
       <Continental>
         <NameGroup>
@@ -370,7 +405,7 @@
       </Continental>
       <Molten>
         <NameGroup>
-          <Name>Mythology - Places</Name>
+          <Name>Places - Mythology</Name>
           <Values>
             <string>Diu</string>
           </Values>

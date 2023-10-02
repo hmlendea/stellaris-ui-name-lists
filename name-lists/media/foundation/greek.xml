@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>foundation_human_greek</Id>
+    <Name>Foundation - Human (Greek)</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - Foundation</Name>
+        <Values>
+          <string>Anacreon</string>
+          <string>Thespin</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Ships>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - Foundation</Name>
+          <Values>
+            <string>Aegis</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+    </Ships>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Foundation</Name>
+          <Values>
+            <string>Aethra</string>
+            <string>Erythro</string>
+            <string>Euterpe</string>
+            <string>Hesperus</string>
+            <string>Jennisek</string>
+            <string>Locris</string>
+            <string>Megas</string>
+            <string>Melpomenia</string>
+            <string>Thespis</string>
+            <string>Weaver's World</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Arid>
+        <NameGroup>
+          <Name>Planets - Foundation</Name>
+          <Values>
+            <string>Smyrno</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Foundation</Name>
+          <Values>
+            <string>Anacreon</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>civbe_human_latin</Id>
+    <Name>Civilization: Beyond Earth - Human - Latin</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth - Translated</Name> <!-- African Union -->
+          <Values>
+            <string>Castellum</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth - Translated</Name> <!-- Franco-Iberia -->
+          <Values>
+            <string>Mirabilis</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth - Translated</Name> <!-- Slavic Federation -->
+          <Values>
+            <string>Aquila</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth - Translated</Name> <!-- African Union -->
+          <Values>
+            <string>Castellum</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth - Translated</Name> <!-- Slavic Federation -->
+          <Values>
+            <string>Aquila</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Gaia>
+        <NameGroup>
+          <Name>Cities - Civilization: Beyond Earth - Translated</Name> <!-- Franco-Iberia -->
+          <Values>
+            <string>Mirabilis</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

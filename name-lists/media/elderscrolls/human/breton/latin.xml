@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>elderscrolls_human_breton_latin</Id>
+    <Name>ElderScrolls - Human - Breton (Latin)</Name>
+    <Warfare>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations - The Elder Scrolls</Name>
+          <Values>
+            <string>Orsinium</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+    </Warfare>
+  </NameList>
+</ArrayOfNameList>

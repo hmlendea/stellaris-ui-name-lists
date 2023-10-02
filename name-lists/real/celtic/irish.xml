@@ -19,6 +19,12 @@
             <string>Ireland</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Éire</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Cities>
         <NameGroup>
@@ -266,6 +272,8 @@
           <Values>
             <string>Banshee</string>
             <string>Enfield</string>
+            <string>Leprechaun</string>
+            <string>Selkie</string>
           </Values>
         </NameGroup>
       </MythologicalCreatures>

@@ -19,6 +19,12 @@
             <string>Armenia</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Hayastan</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Regions>
         <NameGroup>

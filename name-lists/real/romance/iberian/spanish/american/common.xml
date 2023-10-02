@@ -7,23 +7,11 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-          <string>Peruvian</string>
           <string>Spanish</string>
         </Values>
       </NameGroup>
     </Denonyms>
     <Places>
-      <Countries>
-        <NameGroup>
-          <Name>Countries</Name>
-          <Values>
-            <string>El Salvador</string>
-            <string>Panama</string>
-            <string>Peru</string>
-            <string>Uruguay</string>
-          </Values>
-        </NameGroup>
-      </Countries>
       <Forests>
         <NameGroup>
           <Name>Forests</Name>
@@ -32,43 +20,11 @@
           </Values>
         </NameGroup>
       </Forests>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - El Salvador</Name>
-          <Values>
-            <string>San Salvador</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Panama</Name>
-          <Values>
-            <string>Panama City</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Peru</Name>
-          <Values>
-            <string>Lima</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Uruguay</Name>
-          <Values>
-            <string>Montevideo</string>
-          </Values>
-        </NameGroup>
-      </Cities>
       <Rivers>
         <NameGroup>
           <Name>Rivers</Name>
           <Values>
             <string>Amazon</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Rivers - Paraguay</Name>
-          <Values>
-            <string>Rio Paraguay</string>
           </Values>
         </NameGroup>
       </Rivers>
@@ -93,18 +49,6 @@
             <string>Patagonia</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Deserts - Chile</Name>
-          <Values>
-            <string>Atacama</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Deserts - Peru</Name>
-          <Values>
-            <string>Nazca</string>
-          </Values>
-        </NameGroup>
       </Deserts>
     </Places>
     <Warfare>
@@ -124,16 +68,30 @@
         <NameGroup>
           <Name>Animals</Name>
           <Values>
+            <string>Anaconda</string>
+            <string>Armadillo</string>
             <string>Iguana</string>
+            <string>Jaguar</string>
             <string>Ocelot</string>
+            <string>Puma</string>
           </Values>
         </NameGroup>
       </Animals>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Chupacabra</string>
+            <string>Quilombo</string>
+            <string>Yacumama</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
     </BiosphereNames>
     <Ships>
       <Coloniser>
         <NameGroup>
-          <Name>Mythology - Places</Name>
+          <Name>Places - Mythology</Name>
           <Values>
             <string>El Dorado</string>
           </Values>
@@ -151,7 +109,7 @@
       </Desert>
       <Gaia>
         <NameGroup>
-          <Name>Mythology - Places</Name>
+          <Name>Places - Mythology</Name>
           <Values>
             <string>El Dorado</string>
           </Values>

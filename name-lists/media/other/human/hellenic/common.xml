@@ -3,89 +3,22 @@
   <NameList>
     <Id>other-media_human_hellenic</Id>
     <Name>Other Media - Human - Hellenic</Name>
-    <Places>
-      <Cities>
+    <GreatPersons>
+      <Heroes>
         <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth - Translated</Name> <!-- Franco-Iberia -->
+          <Name>Heroes - Age of Mythology</Name>
           <Values>
-            <string>Philotheos</string>
+            <string>Arkantos</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth - Translated</Name> <!-- Slavic Federation -->
-          <Values>
-            <string>Aberkios</string>
-            <string>Kosmas</string>
-            <string>Zotikos</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Divine Ascension -->
-          <Values>
-            <string>Cynosura</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
-          <Values>
-            <string>Aristotle</string>
-          </Values>
-        </NameGroup>
-      </Cities>
-      <Regions>
-        <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Cnossos</string>
-            <string>Hephaestus' Forge</string>
-          </Values>
-        </NameGroup>
-      </Regions>
-    </Places>
-    <Ships>
-      <Titan>
-        <NameGroup>
-          <Name>Ships - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>Pegasus</string>
-          </Values>
-        </NameGroup>
-      </Titan>
-      <Juggernaut>
-        <NameGroup>
-          <Name>Ships - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>Ararat</string>
-          </Values>
-        </NameGroup>
-      </Juggernaut>
-    </Ships>
+      </Heroes>
+    </GreatPersons>
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth - Translated</Name> <!-- Franco-Iberia -->
+          <Name>Planets - Avatar</Name>
           <Values>
-            <string>Philotheos</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Civilization: Beyond Earth - Translated</Name> <!-- Slavic Federation -->
-          <Values>
-            <string>Aberkios</string>
-            <string>Kosmas</string>
-            <string>Zotikos</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
-          <Values>
-            <string>Aristotle</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Cnossos</string>
+            <string>Polyphemus</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -106,38 +39,8 @@
             <string>Thrace</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
-          <Values>
-            <string>Destinikon</string>
-            <string>Nova Constantinople</string>
-            <string>Rhea</string>
-            <string>Tartessos</string>
-            <string>Tethys</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>New Troy</string>
-            <string>Olympia</string>
-            <string>Theia</string>
-          </Values>
-        </NameGroup>
       </Generic>
       <Arid>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
-          <Values>
-            <string>Tartarus</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>Jaxartes</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Planets - Universum Infinitum</Name>
           <Values>
@@ -145,30 +48,14 @@
           </Values>
         </NameGroup>
       </Arid>
-      <Continental>
+      <Tropical>
         <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Name>Planets - Avatar</Name>
           <Values>
-            <string>Delphi</string>
-            <string>Myndos</string>
-            <string>Thebes</string>
+            <string>Pandora</string>
           </Values>
         </NameGroup>
-      </Continental>
-      <Gaia>
-        <NameGroup>
-          <Name>Cities - Pandora: First Contact</Name> <!-- Divine Ascension -->
-          <Values>
-            <string>Cynosura</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
-          <Values>
-            <string>Apollonia</string>
-          </Values>
-        </NameGroup>
-      </Gaia>
+      </Tropical>
       <Ocean>
         <NameGroup>
           <Name>Heroes - Age of Mythology</Name>
@@ -177,27 +64,11 @@
           </Values>
         </NameGroup>
       </Ocean>
-      <Alpine>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>Apollonia</string>
-            <string>Olympia</string>
-          </Values>
-        </NameGroup>
-      </Alpine>
       <Arctic>
         <NameGroup>
           <Name>Planets - Borderlands</Name>
           <Values>
             <string>Xylourgos</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
-          <Values>
-            <string>Hyperborea</string>
-            <string>Thule</string>
           </Values>
         </NameGroup>
       </Arctic>
@@ -209,14 +80,6 @@
           </Values>
         </NameGroup>
       </Tomb>
-      <Molten>
-        <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Hephaestus' Forge</string>
-          </Values>
-        </NameGroup>
-      </Molten>
     </Planets>
   </NameList>
 </ArrayOfNameList>

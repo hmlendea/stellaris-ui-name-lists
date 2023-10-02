@@ -224,6 +224,7 @@
         <NameGroup>
           <Name>Aircraft manufacturers</Name>
           <Values>
+            <string>Airbus</string>
             <string>Dessault</string>
             <string>Safran</string>
             <string>Thales</string>
@@ -248,6 +249,7 @@
             <Name>Artillery</Name>
             <Values>
               <string>Mangoneau</string>
+              <string>Trebuchet</string>
             </Values>
           </NameGroup>
         </Artillery>
@@ -256,6 +258,7 @@
             <Name>Guns</Name>
             <Values>
               <string>Arquebus</string>
+              <string>Culverin</string>
             </Values>
           </NameGroup>
         </Guns>
@@ -267,6 +270,15 @@
             </Values>
           </NameGroup>
         </Crossbows>
+        <Swords>
+          <NameGroup>
+            <Name>Swords</Name>
+            <Values>
+              <string>Estoc</string>
+              <string>Poignard</string>
+            </Values>
+          </NameGroup>
+        </Swords>
         <Daggers>
           <NameGroup>
             <Name>Daggers</Name>
@@ -310,6 +322,16 @@
         </NameGroup>
       </BattleLocations>
     </Warfare>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Gargouille</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <Ships>
       <Cruiser>
         <NameGroup>
@@ -323,7 +345,7 @@
     <Planets>
       <Gaia>
         <NameGroup>
-          <Name>Mythology - Places</Name>
+          <Name>Places - Mythology</Name>
           <Values>
             <string>Agartha</string>
           </Values>

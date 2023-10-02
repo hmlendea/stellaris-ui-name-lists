@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_hellnic</Id>
+    <Name>Universum Infinitum - Human - Hellenic</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Kólasi</string> <!-- Inferno -->
+            <string>Foúrnos</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Enydreío</string> <!-- Aquarium -->
+            <string>Okeanía</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Galíni</string> <!-- Serenity -->
+            <string>Lámpsi</string> <!-- Splendor -->
+            <string>Naós</string> <!-- Temple -->
+            <string>Ouranós</string> <!-- Sky -->
+            <string>Parádeisos</string> <!-- Paradise -->
+            <string>Theós</string> <!-- God -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Ereípio</string> <!-- Ruin -->
+            <string>Gkéto</string> <!-- Ghetto -->
+            <string>Krýpti</string> <!-- Crypt -->
+            <string>Nekrotafeío</string> <!-- Graveyard -->
+            <string>Pólemos</string> <!-- War -->
+            <string>Stáchti</string> <!-- Cinder -->
+            <string>Syntrímmia</string> <!-- Rubble -->
+            <string>Tafikí Pláka</string> <!-- Tombstone -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

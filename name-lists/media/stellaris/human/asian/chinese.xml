@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>stellaris_human_chinese</Id>
+    <Name>Stellaris - Human - Chinese</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Xianyang</string>
+            <string>Wenzhou</string>
+            <string>Wang Tong</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Ningbo</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Tundra>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Taiyuan</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

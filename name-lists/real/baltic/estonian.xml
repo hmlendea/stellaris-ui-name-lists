@@ -19,6 +19,12 @@
             <string>Estonia</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Eesti</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Regions>
         <NameGroup>

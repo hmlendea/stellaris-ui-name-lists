@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_finnish</Id>
+    <Name>Universum Infinitum - Human - Finnish</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Tulipyörre</string> <!-- Inferno -->
+            <string>Uuni</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Uusi Helsinki</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Akvaario</string> <!-- Aquarium -->
+            <string>Oseania</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Jumala</string> <!-- God -->
+            <string>Loisto</string> <!-- Splendor -->
+            <string>Paratiisi</string> <!-- Paradise -->
+            <string>Rauha</string> <!-- Serenity -->
+            <string>Taivas</string> <!-- Sky -->
+            <string>Temppeli</string> <!-- Temple -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Getto</string> <!-- Ghetto -->
+            <string>Hautakivi</string> <!-- Tombstone -->
+            <string>Hautausmaa</string> <!-- Graveyard -->
+            <string>Krypta</string> <!-- Crypt -->
+            <string>Rauniot</string> <!-- Ruin -->
+            <string>Romu</string> <!-- Rubble -->
+            <string>Sota</string> <!-- War -->
+            <string>Tuhka</string> <!-- Cinder -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

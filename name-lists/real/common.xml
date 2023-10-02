@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_common_all</Id>
+    <Name>Human - Common</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Human</string>
+          <string>Terran</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Armies>
+      <Fleet>
+        <NameGroup>
+          <Name>Fleets - Metals</Name>
+          <Values>
+            <string>The Iron Fleet</string>
+            <string>The Golden Fleet</string>
+            <string>The Silver Fleet</string>
+            <string>The Steel Fleet</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Fleets - Colours</Name>
+          <Values>
+            <string>The Black Fleet</string>
+            <string>The Blue Fleet</string>
+            <string>The Brown Fleet</string>
+            <string>The Burgundy Fleet</string>
+            <string>The Chrome Fleet</string>
+            <string>The Cobalt Fleet</string>
+            <string>The Crimson Fleet</string>
+            <string>The Cyan Fleet</string>
+            <string>The Green Fleet</string>
+            <string>The Lime Fleet</string>
+            <string>The Magenta Fleet</string>
+            <string>The Orange Fleet</string>
+            <string>The Pink Fleet</string>
+            <string>The Purple Fleet</string>
+            <string>The Red Fleet</string>
+            <string>The Teal Fleet</string>
+            <string>The Turqoise Fleet</string>
+            <string>The Violet Fleet</string>
+            <string>The White Fleet</string>
+            <string>The Yellow Fleet</string>
+          </Values>
+        </NameGroup>
+      </Fleet>
+    </Armies>
+  </NameList>
+</ArrayOfNameList>

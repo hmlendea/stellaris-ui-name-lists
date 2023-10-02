@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ypp_english_common</Id>
+    <Name>Puzzle Pirates - English (Common)</Name>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Admiral</string>
+            <string>Angelfish</string>
+            <string>Barracuda</string>
+            <string>Blackthrope</string>
+            <string>Boyle</string>
+            <string>Byrne</string>
+            <string>Charcoal</string>
+            <string>Cormorant</string>
+            <string>Ebony</string>
+            <string>Ember</string>
+            <string>Gallows</string>
+            <string>Midsummer</string>
+            <string>Port Venture</string>
+            <string>Shatterstone</string>
+            <string>Starfish</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+    </Places>
+    <Warfare>
+      <Weapons>
+        <Swords>
+          <NameGroup>
+            <Name>Swords - Puzzle Pirates</Name>
+            <Values>
+              <string>Backsword</string>
+              <string>Cutlass</string>
+              <string>Dirk</string>
+              <string>Foil</string>
+              <string>Longsword</string>
+              <string>Rapier</string>
+              <string>Saber</string>
+              <string>Shortsword</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+      </Weapons>
+    </Warfare>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Ships - Puzzle Pirates</Name>
+          <Values>
+            <string>Active Silverside</string>
+            <string>Advanced Hake</string>
+            <string>Adventurous Alewife</string>
+            <string>Adventurous Blowfish</string>
+            <string>Aggressive Grunion</string>
+            <string>Alone Pike</string>
+            <string>Annoying Wrasse</string>
+            <string>Arrogant Chub</string>
+            <string>Attractive Pickerel</string>
+            <string>Brilliant Ling</string>
+            <string>Brilliant Sardine</string>
+            <string>Brilliant Wrasse</string>
+            <string>Caring Flounder</string>
+            <string>Caring Gurnard</string>
+            <string>Caustic Pike</string>
+            <string>Charming Pike</string>
+            <string>Cheerful Pollack</string>
+            <string>Cheerful Shiner</string>
+            <string>Childish Bluegill</string>
+            <string>Classy Blowfish</string>
+            <string>Clever Bream</string>
+            <string>Clever Chub</string>
+            <string>Clever Halibut</string>
+            <string>Closed Chub</string>
+            <string>Cold Anchovy</string>
+            <string>Comfortable Bass</string>
+            <string>Comfortable Marlin</string>
+            <string>Committed Tuna</string>
+            <string>Complicated Trout</string>
+            <string>Consistent Lamprey</string>
+            <string>Crabby Flounder</string>
+            <string>Credible Mako</string>
+            <string>Credible Roach</string>
+            <string>Critical Mako</string>
+            <string>Critical Pollack</string>
+            <string>Deceitful Clownfish</string>
+            <string>Demented Gar</string>
+            <string>Enthusiastic Halibut</string>
+            <string>Enthusiastic Whitebait</string>
+            <string>Fat Spot</string>
+            <string>Fine Hammerhead</string>
+            <string>First-class Grunion</string>
+            <string>Flipped-out Sailfish</string>
+            <string>Gifted Barbel</string>
+            <string>Grateful Bass</string>
+            <string>Grateful Bream</string>
+            <string>Greedy Sprat</string>
+            <string>Gross Clownfish</string>
+            <string>Half Hake</string>
+            <string>Hard-working Ling</string>
+            <string>Heartless Sailfish</string>
+            <string>Helpful Marlin</string>
+            <string>High Mullet</string>
+            <string>Hospitable Hake</string>
+            <string>Humble Haddock</string>
+            <string>Ignorant Shiner</string>
+            <string>Innocent Hammerhead</string>
+            <string>Innocent Trout</string>
+            <string>Interesting Halibut</string>
+            <string>Loud Clownfish</string>
+            <string>Lucky Shiner</string>
+            <string>Mean Sailfish</string>
+            <string>Merry Eel</string>
+            <string>Merry Haddock</string>
+            <string>Merry Sardine</string>
+            <string>Nit-picky Bullhead</string>
+            <string>Old-fashioned Catfish</string>
+            <string>Outgoing Spot</string>
+            <string>Passionate Silverside</string>
+            <string>Passionate Tench</string>
+            <string>Pleasant Angler</string>
+            <string>Poor Sprat</string>
+            <string>Pretty Catfish</string>
+            <string>Pretty Needlefish</string>
+            <string>Pretty Shiner</string>
+            <string>Pretty Silverside</string>
+            <string>Proper Anchovy</string>
+            <string>Proper Mackerel</string>
+            <string>Proper Rudd</string>
+            <string>Psyched Sprat</string>
+            <string>Rare Bluegill</string>
+            <string>Refined Shad</string>
+            <string>Refined Whitebait</string>
+            <string>Saucy Piranha</string>
+            <string>Self-centered Tigerfish</string>
+            <string>Sensitive Mummichog</string>
+            <string>Short Gurnard</string>
+            <string>Short Mackerel</string>
+            <string>Skillful Gar</string>
+            <string>Slow Rudd</string>
+            <string>Sluggish Piranha</string>
+            <string>Snooty Rudd</string>
+            <string>Stingy Spot</string>
+            <string>Stupid Anchovy</string>
+            <string>Stupid Pollack</string>
+            <string>Successful Halibut</string>
+            <string>Talented Tench</string>
+            <string>Talkative Angler</string>
+            <string>Talkative Needlefish</string>
+            <string>Thankful Barbel</string>
+            <string>Thankful Bass</string>
+            <string>Thankful Catfish</string>
+            <string>Thick Tigerfish</string>
+            <string>Thin Alewife</string>
+            <string>Touchy Lamprey</string>
+            <string>Unchanging Mackerel</string>
+            <string>Unfriendly Hake</string>
+            <string>Unfriendly Sardine</string>
+            <string>Unique Flounder</string>
+            <string>Unique Ling</string>
+            <string>Unstable Eel</string>
+            <string>Unworried Flounder</string>
+            <string>Unworried Plaice</string>
+            <string>Unworried Tuna</string>
+            <string>Valued Mummichog</string>
+            <string>Well-dressed Mummichog</string>
+            <string>Well-informed Rudd</string>
+            <string>Wrong Carp</string>
+            <string>Wrong Stickleback</string>
+            <string>Young Hake</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Ships>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Blackthrope</string>
+            <string>Boyle</string>
+            <string>Byrne</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Gaia>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Cleopatra's Pearl</string>
+            <string>Midsummer</string>
+            <string>Port Venture</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Ocean>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Angelfish</string>
+            <string>Barracuda</string>
+            <string>Cormorant</string>
+            <string>Starfish</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Alpine>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Charcoal</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+      <Tomb>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Ebony</string>
+            <string>Gallows</string>
+            <string>Shatterstone</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+      <Molten>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Ember</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

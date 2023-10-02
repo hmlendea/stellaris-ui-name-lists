@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ypp_french</Id>
+    <Name>Puzzle Pirates - French</Name>
+    <Warfare>
+      <Weapons>
+        <Swords>
+          <NameGroup>
+            <Name>Swords - Puzzle Pirates</Name>
+            <Values>
+              <string>Falchion</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+      </Weapons>
+    </Warfare>
+  </NameList>
+</ArrayOfNameList>

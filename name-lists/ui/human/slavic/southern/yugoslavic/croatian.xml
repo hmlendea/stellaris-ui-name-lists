@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_croatian</Id>
+    <Name>Universum Infinitum - Human - Croatian</Name>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Novi Zagreb</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Akvarij</string> <!-- Aquarium -->
+            <string>Oceanija</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

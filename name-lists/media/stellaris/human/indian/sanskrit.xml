@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>stellaris_human_sanskrit</Id>
+    <Name>Stellaris - Human - Sanskrit</Name>
+    <Ships>
+      <Cruiser>
+        <NameGroup>
+          <Name>Ships - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Narayana</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+    </Ships>
+    <Planets>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Kishkindha</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

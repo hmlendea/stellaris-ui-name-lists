@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>stellaris_human_spanish_common</Id>
+    <Name>Stellaris - Human - Spanish (Common)</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>La Isabela</string>
+            <string>Nueva Cádiz</string>
+            <string>Puerto González</string>
+            <string>San Cristóbal</string>
+            <string>San Fernando</string>
+            <string>San Lucas</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

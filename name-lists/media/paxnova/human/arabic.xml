@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>paxnova_human_arabic</Id>
+    <Name>Pax Nova - Human - Arabic</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Pax Nova</Name> <!-- Eastern Resistance -->
+          <Values>
+            <string>Aram</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pax Nova</Name> <!-- Ra Dynasty -->
+          <Values>
+            <string>Abu Ghurab</string>
+            <string>Abusir</string>
+            <string>Amun</string>
+            <string>Anuket</string>
+            <string>Bidsa</string>
+            <string>Burdayn</string>
+            <string>Burkhayl</string>
+            <string>Dahshur</string>
+            <string>Djehuti</string>
+            <string>Geb</string>
+            <string>Horus</string>
+            <string>Iseion</string>
+            <string>Khafre</string>
+            <string>Khemenu</string>
+            <string>Khepri</string>
+            <string>Khonsu</string>
+            <string>Kueshna</string>
+            <string>New Cairo</string>
+            <string>New Memphis</string>
+            <string>Qarun</string>
+            <string>Sahure</string>
+            <string>Seker</string>
+            <string>Senru</string>
+            <string>Seshat</string>
+            <string>Sharquia</string>
+            <string>Shedet</string>
+            <string>Siwa</string>
+            <string>Thoth</string>
+            <string>Tunaydah</string>
+            <string>Wadjet</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Pax Nova</Name> <!-- Eastern Resistance -->
+          <Values>
+            <string>Aram</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pax Nova</Name> <!-- Ra Dynasty -->
+          <Values>
+            <string>Abu Ghurab</string>
+            <string>Abusir</string>
+            <string>Amun</string>
+            <string>Anuket</string>
+            <string>Bidsa</string>
+            <string>Burdayn</string>
+            <string>Burkhayl</string>
+            <string>Dahshur</string>
+            <string>Djehuti</string>
+            <string>Geb</string>
+            <string>Horus</string>
+            <string>Iseion</string>
+            <string>Khafre</string>
+            <string>Khemenu</string>
+            <string>Khepri</string>
+            <string>Khonsu</string>
+            <string>Kueshna</string>
+            <string>New Cairo</string>
+            <string>New Memphis</string>
+            <string>Qarun</string>
+            <string>Sahure</string>
+            <string>Seker</string>
+            <string>Senru</string>
+            <string>Seshat</string>
+            <string>Sharquia</string>
+            <string>Shedet</string>
+            <string>Siwa</string>
+            <string>Thoth</string>
+            <string>Tunaydah</string>
+            <string>Wadjet</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Al-Jissa</string>
+            <string>Al-Karak</string>
+            <string>Al-Mada'in</string>
+            <string>Al-Matabbah</string>
+            <string>Al-Nuqayrah</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

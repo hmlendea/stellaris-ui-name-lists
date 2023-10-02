@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_austronesian</Id>
+    <Name>Human - Austronesian</Name>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Micronesia</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+    </Places>
+    <Warfare>
+      <Weapons>
+        <Throwables>
+          <NameGroup>
+            <Name>Throwables - Australian</Name>
+            <Values>
+              <string>Woomera</string>
+            </Values>
+          </NameGroup>
+        </Throwables>
+      </Weapons>
+    </Warfare>
+  </NameList>
+</ArrayOfNameList>

@@ -19,7 +19,21 @@
             <string>Tibet</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Bö</string>
+          </Values>
+        </NameGroup>
       </Countries>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Chomolungma</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
     </Places>
     <GreatPeople>
       <LeadersTier1>
@@ -41,10 +55,20 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Yeti</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <Planets>
       <Gaia>
         <NameGroup>
-          <Name>Mythology - Places</Name>
+          <Name>Places - Mythology</Name>
           <Values>
             <string>Shambhala</string>
             <string>Shangri-La</string>

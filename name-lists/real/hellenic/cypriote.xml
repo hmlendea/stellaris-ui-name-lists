@@ -13,9 +13,15 @@
     </Denonyms>
     <Countries>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Countries</Name>
         <Values>
           <string>Cyprus</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Countries - Endonyms</Name>
+        <Values>
+          <string>Kýpros</string>
         </Values>
       </NameGroup>
     </Countries>

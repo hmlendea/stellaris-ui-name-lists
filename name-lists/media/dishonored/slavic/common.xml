@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>dishonored_human_slavic</Id>
+    <Name>Dishonored - Human - Slavic</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
+          <Values>
+            <string>Dabokva</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
+          <Values>
+            <string>Dabokva</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

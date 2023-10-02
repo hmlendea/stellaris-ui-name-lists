@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_czechoslovakian</Id>
+    <Name>Universum Infinitum - Human - Czechoslovakian</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Peklo</string> <!-- Inferno -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Akvárium</string> <!-- Aquarium -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Chrám</string> <!-- Temple -->
+            <string>Nádhera</string> <!-- Splendor -->
+            <string>Pokoj</string> <!-- Serenity -->
+            <string>Ráj</string> <!-- Paradise -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Ghetto</string> <!-- Ghetto -->
+            <string>Krypta</string> <!-- Crypt -->
+            <string>Popel</string> <!-- Cinder -->
+            <string>Ruina</string> <!-- Ruin -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

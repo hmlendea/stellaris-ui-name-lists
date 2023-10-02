@@ -34,7 +34,19 @@
         <NameGroup>
           <Name>Cities</Name>
           <Values>
+            <string>Adi Quala</string>
+            <string>Agordat</string>
             <string>Asmara</string>
+            <string>Assab</string>
+            <string>Barentu</string>
+            <string>Halib Mentel</string>
+            <string>Keren</string>
+            <string>Massawa</string>
+            <string>Mendefera</string>
+            <string>Nacfa</string>
+            <string>Segeneiti</string>
+            <string>Senafe</string>
+            <string>Teseney</string>
           </Values>
         </NameGroup>
       </Cities>

@@ -18,6 +18,11 @@
           <Name>Countries</Name>
           <Values>
             <string>Finland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
             <string>Suomi</string>
           </Values>
         </NameGroup>

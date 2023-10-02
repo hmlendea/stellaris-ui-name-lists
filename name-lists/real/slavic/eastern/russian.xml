@@ -25,6 +25,12 @@
             <string>Russia</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Rossiya</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Cities>
         <NameGroup>
@@ -164,6 +170,8 @@
           <Name>Explorers</Name>
           <Values>
             <string>Gagarin</string>
+            <string>Kuznetsov</string>
+            <string>Leonov</string>
             <string>Tereshkova</string>
           </Values>
         </NameGroup>
@@ -441,6 +449,14 @@
       <SuperSoldierArmySequentialName>%0% Spetsnaz Squad</SuperSoldierArmySequentialName>
     </Armies>
     <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Words</Name>
+          <Values>
+            <string>Znoy</string>
+          </Values>
+        </NameGroup>
+      </Desert>
       <Tomb>
         <NameGroup>
           <Name>Devastated places on Earth</Name>

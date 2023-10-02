@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_estonian</Id>
+    <Name>Universum Infinitum - Human - Estonian</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Põrgu</string> <!-- Inferno -->
+            <string>Ahju</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Uus Tallinn</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Akvaarium</string> <!-- Aquarium -->
+            <string>Okeaania</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Hiilguse</string> <!-- Splendor -->
+            <string>Jumal</string> <!-- God -->
+            <string>Paradiisi</string> <!-- Paradise -->
+            <string>Rauha</string> <!-- Serenity -->
+            <string>Taeva</string> <!-- Sky -->
+            <string>Tempel</string> <!-- Temple -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Geto</string> <!-- Ghetto -->
+            <string>Hauakivi</string> <!-- Tombstone -->
+            <string>Krypt</string> <!-- Crypt -->
+            <string>Praht</string> <!-- Rubble -->
+            <string>Sõda</string> <!-- War -->
+            <string>Surnuaed</string> <!-- Graveyard -->
+            <string>Tuha</string> <!-- Cinder -->
+            <string>Varemed</string> <!-- Ruin -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

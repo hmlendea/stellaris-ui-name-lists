@@ -9,12 +9,129 @@
           <NameGroup>
             <Name>Artillery</Name>
             <Values>
+              <string>Catapult</string>
               <string>Howitzer</string>
             </Values>
           </NameGroup>
         </Artillery>
+        <Guns>
+          <NameGroup>
+            <Name>Guns</Name>
+            <Values>
+              <string>Harpoon</string>
+            </Values>
+          </NameGroup>
+        </Guns>
+        <Crossbows>
+          <NameGroup>
+            <Name>Crossbows</Name>
+            <Values>
+              <string>Crossbow</string>
+            </Values>
+          </NameGroup>
+        </Crossbows>
+        <Bows>
+          <NameGroup>
+            <Name>Bows</Name>
+            <Values>
+              <string>Bow</string>
+              <string>Longbow</string>
+              <string>Shortbow</string>
+            </Values>
+          </NameGroup>
+        </Bows>
+        <Throwables>
+          <NameGroup>
+            <Name>Throwables</Name>
+            <Values>
+              <string>Javelin</string>
+            </Values>
+          </NameGroup>
+        </Throwables>
+        <Swords>
+          <NameGroup>
+            <Name>Swords</Name>
+            <Values>
+              <string>Broadsword</string>
+              <string>Claymore</string>
+              <string>Longsword</string>
+              <string>Saber</string>
+              <string>Shortsword</string>
+              <string>Sword</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+        <Daggers>
+          <NameGroup>
+            <Name>Daggers</Name>
+            <Values>
+              <string>Cleaver</string>
+              <string>Dagger</string>
+            </Values>
+          </NameGroup>
+        </Daggers>
+        <Polearms>
+          <NameGroup>
+            <Name>Polearms</Name>
+            <Values>
+              <string>Glaive</string>
+              <string>Halberd</string>
+              <string>Harpoon</string>
+              <string>Pike</string>
+              <string>Spear</string>
+            </Values>
+          </NameGroup>
+        </Polearms>
+        <Axes>
+          <NameGroup>
+            <Name>Axes</Name>
+            <Values>
+              <string>Axe</string>
+              <string>Battleaxe</string>
+              <string>Hatchet</string>
+            </Values>
+          </NameGroup>
+        </Axes>
+        <Hammers>
+          <NameGroup>
+            <Name>Hammers</Name>
+            <Values>
+              <string>Club</string>
+              <string>Mace</string>
+              <string>Warhammer</string>
+            </Values>
+          </NameGroup>
+        </Hammers>
       </Weapons>
     </Warfare>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals</Name>
+          <Values>
+            <string>Salamander</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
+    <Planets>
+      <Tomb>
+        <NameGroup>
+          <Name>Words</Name>
+          <Values>
+            <string>Armageddon</string>
+            <string>Pitfall</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+      <Savannah>
+        <NameGroup>
+          <Values>
+            <string>Savannah</string>
+          </Values>
+        </NameGroup>
+      </Savannah>
+    </Planets>
     <Characters>
       <CharacterNames>
         <Id>english</Id>

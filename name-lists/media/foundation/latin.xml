@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>foundation_human_latin</Id>
+    <Name>Foundation - Human (Latin)</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - Foundation</Name>
+        <Values>
+          <string>Auroran</string>
+          <string>Solarian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Ships>
+      <Colossus>
+        <NameGroup>
+          <Name>Ships - Foundation</Name>
+          <Values>
+            <string>Invictus</string>
+          </Values>
+        </NameGroup>
+      </Colossus>
+    </Ships>
+    <ShipClasses>
+      <Battleship>
+        <NameGroup>
+          <Name>Ship classes - Foundation</Name>
+          <Values>
+            <string>Trireme</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+    </ShipClasses>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Foundation</Name>
+          <Values>
+            <string>Arcturus</string>
+            <string>Solaria</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Foundation</Name>
+          <Values>
+            <string>Aurora</string>
+            <string>Ignis</string>
+            <string>Terminus</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

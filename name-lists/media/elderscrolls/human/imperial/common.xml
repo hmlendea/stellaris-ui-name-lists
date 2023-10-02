@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>elderscrolls_human_imperial_common</Id>
+    <Name>The Elder Scrolls - Human - Imperial (Common)</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - The Elder Scrolls</Name>
+        <Values>
+          <string>Colovian</string>
+          <string>Nibenese</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - The Elder Scrolls</Name>
+          <Values>
+            <string>Cyrodiil</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions - The Elder Scrolls</Name>
+          <Values>
+            <string>Colovia</string>
+            <string>Nibenay</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - The Elder Scrolls</Name>
+          <Values>
+            <string>Bravil</string>
+            <string>Bruma</string>
+            <string>Chorrol</string>
+            <string>Kvatch</string>
+            <string>Leyawiin</string>
+            <string>Sutch</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers - The Elder Scrolls</Name>
+          <Values>
+            <string>Brena</string>
+            <string>Corbolo</string>
+            <string>Niben</string>
+            <string>Panther</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+    </Places>
+    <Armies>
+      <FleetSequentialName>Star Legion %R%</FleetSequentialName>
+      <DefenceArmySequentialName>Garrison Legion %R%</DefenceArmySequentialName>
+      <AssaultArmySequentialName>Legion %R%</AssaultArmySequentialName>
+      <OccupationArmySequentialName>Legion %R%</OccupationArmySequentialName>
+      <SlaveArmySequentialName>Conscripted Legion %R%</SlaveArmySequentialName>
+      <CloneArmySequentialName>Clone Legion %R%</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Army</UndeadArmySequentialName>
+      <RoboticDefenceArmySequentialName>Robotic Legion %R%</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>Robotic Legion %R%</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>Robotic Legion %R%</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>Synthetic Legion %R%</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>Synthetic Legion %R%</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>Psionic Legion %R%</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>Beast Legion %R%</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>Super-Legion %R%</SuperSoldierArmySequentialName>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - The Elder Scrolls</Name>
+          <Values>
+            <string>Bravil</string>
+            <string>Chorrol</string>
+            <string>Sutch</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Tropical>
+        <NameGroup>
+          <Name>Cities - The Elder Scrolls</Name>
+          <Values>
+            <string>Leyawiin</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Continental>
+        <NameGroup>
+          <Name>Countries - The Elder Scrolls</Name>
+          <Values>
+            <string>Cyrodiil</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - The Elder Scrolls</Name>
+          <Values>
+            <string>Colovia</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Regions - The Elder Scrolls</Name>
+          <Values>
+            <string>Nibenay</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Alpine>
+        <NameGroup>
+          <Name>Cities - The Elder Scrolls</Name>
+          <Values>
+            <string>Bruma</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+      <Tomb>
+        <NameGroup>
+          <Name>Cities - The Elder Scrolls</Name>
+          <Values>
+            <string>Kvatch</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

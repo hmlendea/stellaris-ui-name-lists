@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_bulgarian</Id>
+    <Name>Universum Infinitum - Human - Bulgarian</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Ad</string> <!-- Inferno -->
+            <string>Furna</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Nova Sofia</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Akvarium</string> <!-- Aquarium -->
+            <string>Okeaniya</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Bog</string> <!-- God -->
+            <string>Hram</string> <!-- Temple -->
+            <string>Nebeto</string> <!-- Sky -->
+            <string>Ray</string> <!-- Paradise -->
+            <string>Splendor</string> <!-- Splendor -->
+            <string>Spokoystvie</string> <!-- Serenity -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Geto</string> <!-- Ghetto -->
+            <string>Grobište</string> <!-- Graveyard -->
+            <string>Kripta</string> <!-- Crypt -->
+            <string>Nadgroben Kamŭk</string> <!-- Tombstone -->
+            <string>Pepel</string> <!-- Cinder -->
+            <string>Ruina</string> <!-- Ruin -->
+            <string>Rushevini</string> <!-- Rubble -->
+            <string>Voyna</string> <!-- War -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

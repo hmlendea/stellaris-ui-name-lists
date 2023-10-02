@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_hindi</Id>
+    <Name>Universum Infinitum - Human - Hindi</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Narak</string> <!-- Inferno -->
+            <string>Ovan</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Oshiyānīyā</string> <!-- Ocean -->
+            <string>Matsyashala</string> <!-- Aquarium -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Nyū Nyū Dillī</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Aakash</string> <!-- Sky -->
+            <string>Bhagvān</string> <!-- God -->
+            <string>Mandir</string> <!-- Temple -->
+            <string>Pratap</string> <!-- Splendor -->
+            <string>Shanti</string> <!-- Serenity -->
+            <string>Swarg</string> <!-- Paradise -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Bigṛtī hu'ī Sthiti</string> <!-- Ruin -->
+            <string>Gheto</string> <!-- Ghetto -->
+            <string>Kabra ka Patthar</string> <!-- Tombstone -->
+            <string>Kabristan</string> <!-- Graveyard -->
+            <string>Rukhsar</string> <!-- Rubble -->
+            <string>Samādhi</string> <!-- Crypt -->
+            <string>Sindoor</string> <!-- Cinder -->
+            <string>Yuddh</string> <!-- War -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

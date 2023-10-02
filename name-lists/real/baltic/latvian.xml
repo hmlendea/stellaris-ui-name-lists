@@ -19,6 +19,12 @@
             <string>Latvia</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Latvija</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Regions>
         <NameGroup>

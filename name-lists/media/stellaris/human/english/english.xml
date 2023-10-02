@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>stellaris_human_english</Id>
+    <Name>Stellaris - Human - English (European)</Name>
+    <Ships>
+      <Cruiser>
+        <NameGroup>
+          <Name>Ships - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Gawain</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+    </Ships>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Knutton</string>
+            <string>Lockney</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Serendipity</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

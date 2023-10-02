@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_russian</Id>
+    <Name>Universum Infinitum - Human - Russian</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Ad</string> <!-- Inferno -->
+            <string>Pech</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Novyy Moskva</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Okeaniya</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Bog</string> <!-- God -->
+            <string>Khram</string> <!-- Temple -->
+            <string>Nebo</string> <!-- Sky -->
+            <string>Smireniye</string> <!-- Serenity -->
+            <string>Velikolepiye</string> <!-- Splendor -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Getto</string> <!-- Ghetto -->
+            <string>Kladbishche</string> <!-- Graveyard -->
+            <string>Kripta</string> <!-- Crypt -->
+            <string>Nadgrobny Kamien</string> <!-- Tombstone -->
+            <string>Oblomki</string> <!-- Rubble -->
+            <string>Pepel</string> <!-- Cinder -->
+            <string>Vojna</string> <!-- War -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

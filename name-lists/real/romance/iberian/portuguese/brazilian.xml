@@ -19,6 +19,12 @@
             <string>Brazil</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Brasil</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Forests>
         <NameGroup>
@@ -91,5 +97,15 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals</Name>
+          <Values>
+            <string>Puma</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
   </NameList>
 </ArrayOfNameList>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_lithuanian</Id>
+    <Name>Universum Infinitum - Human - Lithuanian</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Pragaras</string> <!-- Inferno -->
+            <string>Krosnis</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Naujas Vilnius</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Akvariumas</string> <!-- Aquarium -->
+            <string>Okeanija</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Dangus</string> <!-- Sky -->
+            <string>Dievas</string> <!-- God -->
+            <string>Ramybė</string> <!-- Serenity -->
+            <string>Rojus</string> <!-- Paradise -->
+            <string>Šlovingumas</string> <!-- Splendor -->
+            <string>Šventykla</string> <!-- Temple -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Getas</string> <!-- Ghetto -->
+            <string>Griuvėsiai</string> <!-- Ruin -->
+            <string>Kapinės Akmuo</string> <!-- Tombstone -->
+            <string>Kapinės</string> <!-- Graveyard -->
+            <string>Karas</string> <!-- War -->
+            <string>Kripta</string> <!-- Crypt -->
+            <string>Pelėsiai</string> <!-- Cinder -->
+            <string>Šiukšlės</string> <!-- Rubble -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

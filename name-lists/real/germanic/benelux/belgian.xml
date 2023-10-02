@@ -28,14 +28,14 @@
       </Countries>
       <Cities>
         <NameGroup>
-          <Name>Cities - Belgium</Name>
+          <Name>Cities</Name>
           <Values>
             <string>Antwerp</string>
             <string>Brussels</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Belgium - Endonyms</Name>
+          <Name>Cities - Endonyms</Name>
           <Values>
             <string>Antwerpen</string>
             <string>Brussel</string>
@@ -46,7 +46,7 @@
     <Companies>
       <SpacecraftManufacturers>
         <NameGroup>
-          <Name>Spacecraft Manufacturers - Belgian</Name>
+          <Name>Spacecraft Manufacturers</Name>
           <Values>
             <string>QuentiQ</string>
           </Values>

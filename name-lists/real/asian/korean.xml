@@ -19,6 +19,12 @@
             <string>Korea</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Hanguk</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Regions>
         <NameGroup>
@@ -165,7 +171,7 @@
     <Companies>
       <AutomotiveManufacturers>
         <NameGroup>
-          <Name>Vehicle manufacturers</Name>
+          <Name>Automotive Manufacturers</Name>
           <Values>
             <string>Hyundai</string>
           </Values>
