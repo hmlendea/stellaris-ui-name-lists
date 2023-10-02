@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_fng_human_polish</Id>
+    <Name>Generated - FantasyNameGenerators - Human - Polish</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Generated</Name>
+          <Values>
+            <string>Częszów</string>
+            <string>Kędziewiec</string>
+            <string>Kielcławek</string>
+            <string>Świębie</string>
+            <string>Zamoławy</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
