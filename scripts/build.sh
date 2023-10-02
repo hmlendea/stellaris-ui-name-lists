@@ -144,7 +144,7 @@ ARMENIAN_NAMELISTS=$(get-namelists-merged ${ARMENIAN_REAL_NAMELISTS} ${ARMENIAN_
 #############
 ### ASIAN ###
 #############
-CHINESE_MEDIA_NAMELISTS="media/alien/human/asian/chinese media/civbe/human/asian/chinese media/dishonored/asian/chinese media/pandora/human/asian/chinese media/stellaris/human/asian/chinese media/ypp/asian/chinese"
+CHINESE_MEDIA_NAMELISTS="media/alien/human/asian/chinese media/civbe/human/asian/chinese media/dishonored/asian/chinese media/pandora/human/asian/chinese media/stellaris/human/asian/chinese media/ypp/asian/chinese ui/human/asian/chinese"
 CHINESE_REAL_NAMELISTS="real/asian/chinese/chinese real/asian/chinese/taiwanese real/common/asian real/common real/common/_"
 CHINESE_NAMELISTS=$(get-namelists-merged ${CHINESE_REAL_NAMELISTS} ${CHINESE_MEDIA_NAMELISTS})
 
@@ -239,7 +239,7 @@ BALTIC_NAMELISTS=$(get-namelists-merged ${BALTIC_REAL_NAMELISTS} ${BALTIC_MEDIA_
 CELTIC_COMMON_MEDIA_NAMELISTS="media/dishonored/celtic/common media/stellaris/human/celtic/common"
 CELTIC_COMMON_REAL_NAMELISTS="real/celtic/common real/common/european real/common real/common/_"
 
-BRETON_MEDIA_NAMELISTS="ui/celtic/breton ${CELTIC_COMMON_MEDIA_NAMELISTS}"
+BRETON_MEDIA_NAMELISTS="ui/human/celtic/breton ${CELTIC_COMMON_MEDIA_NAMELISTS}"
 BRETON_REAL_NAMELISTS="real/celtic/breton ${CELTIC_COMMON_REAL_NAMELISTS}"
 BRETON_NAMELISTS=$(get-namelists-merged ${BRETON_REAL_NAMELISTS} ${BRETON_MEDIA_NAMELISTS})
 
@@ -259,7 +259,7 @@ SCOTTISH_MEDIA_NAMELISTS="media/civbe/human/celtic/scottish media/dishonored/cel
 SCOTTISH_REAL_NAMELISTS="real/celtic/scottish ${CELTIC_COMMON_REAL_NAMELISTS}"
 SCOTTISH_NAMELISTS=$(get-namelists-merged ${SCOTTISH_REAL_NAMELISTS} ${SCOTTISH_MEDIA_NAMELISTS})
 
-WELSH_MEDIA_NAMELISTS="media/dishonored/celtic/welsh ui/celtic/welsh ${CELTIC_COMMON_MEDIA_NAMELISTS}"
+WELSH_MEDIA_NAMELISTS="media/dishonored/celtic/welsh ui/human/celtic/welsh ${CELTIC_COMMON_MEDIA_NAMELISTS}"
 WELSH_REAL_NAMELISTS="real/celtic/welsh ${CELTIC_COMMON_REAL_NAMELISTS}"
 WELSH_NAMELISTS=$(get-namelists-merged ${WELSH_REAL_NAMELISTS} ${WELSH_MEDIA_NAMELISTS})
 
@@ -624,7 +624,7 @@ build "ui_extra_humans_extended"        "Human - *Extended*"        "L" \
     real/afghan real/iranian real/kazakh real/tajik real/tunisian \
     \
     ${ELDERSCROLLS_HUMAN_NAMELISTS} ${RUNESCAPE_HUMAN_NAMELISTS} ${STARCRAFT_TERRAN_NAMELISTS} ${STARWARS_HUMAN_NAMELISTS} ${STELLARIS_HUMAN_NAMELISTS} \
-    media/foundation/human media/galciv/human/human media/sose/human /human/human media/warcraft/human media/other/human/_ \
+    media/foundation/human media/galciv/human/human media/sose/human media/warcraft/human media/other/human/_ \
     \
     ui/human_extra ui/human_zextended
 
@@ -649,7 +649,7 @@ build "ui_narivia_rodah" "Narivia - Rodah" "R" media/narivia/rodah
 build "ui_runescape_human" "RuneScape - Human" "L" ${RUNESCAPE_HUMAN_NAMELISTS}
 
 build "ui_starcraft_human"      "StarCraft - Human"     "L" ${STARCRAFT_TERRAN_NAMELISTS}
-build "ui_starcraft_protoss"    "StarCraft - Protoss"   "R" ${PROTOSS_NAMELISTS}
+build "ui_starcraft_protoss"    "StarCraft - Protoss"   "R" ${STARCRAFT_PROTOSS_NAMELISTS}
 
 build "ui_starwars_human" "StarWars - Human" "L" ${STARWARS_HUMAN_NAMELISTS}
 
