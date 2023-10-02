@@ -16,7 +16,7 @@
       </Cities>
     </Places>
     <Planets>
-      <Generic>
+      <Arctic>
         <NameGroup>
           <Name>Cities - Frostpunk</Name>
           <Values>
@@ -25,7 +25,7 @@
             <string>Winterhome</string>
           </Values>
         </NameGroup>
-      </Generic>
+      </Arctic>
     </Planets>
   </NameList>
 </ArrayOfNameList>
