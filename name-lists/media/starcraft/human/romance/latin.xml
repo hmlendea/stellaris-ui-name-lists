@@ -3,6 +3,16 @@
   <NameList>
     <Id>starcraft_human_latin</Id>
     <Name>StarCraft - Human - Latin</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - StarCraft</Name> <!-- Braxis -->
+          <Values>
+            <string>Boralis</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
     <Planets>
       <Generic>
         <NameGroup>
@@ -31,5 +41,73 @@
         </NameGroup>
       </Transport>
     </Ships>
+    <ShipClasses>
+      <Transport>
+        <NameGroup>
+          <Name>Ship Classes - StarCraft</Name>
+          <Values>
+            <string>Gladiator</string>
+          </Values>
+        </NameGroup>
+      </Transport>
+    </ShipClasses>
+    <Stations>
+      <MiningStations>
+        <NameGroup>
+          <Name>Mining Stations - StarCraft</Name>
+          <Values>
+            <string>Avernus</string>
+          </Values>
+        </NameGroup>
+      </MiningStations>
+      <MilitaryStations>
+        <Small>
+          <NameGroup>
+            <Name>Military Stations - StarCraft</Name>
+            <Values>
+              <string>Gemini</string>
+              <string>Nova</string>
+            </Values>
+          </NameGroup>
+        </Small>
+        <Medium>
+          <NameGroup>
+            <Name>Military Stations - StarCraft</Name>
+            <Values>
+              <string>Nimbus</string>
+              <string>Proxima</string>
+            </Values>
+          </NameGroup>
+        </Medium>
+      </MilitaryStations>
+    </Stations>
+    <Armies>
+      <PsionicArmy>
+        <NameGroup>
+          <Name>Armies - StarCraft</Name>
+          <Values>
+            <string>Nova Squadron</string>
+          </Values>
+        </NameGroup>
+      </PsionicArmy>
+    </Armies>
+    <Planets>
+      <Molten>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Ignus</string>>
+          </Values>
+        </NameGroup>
+      </Molten>
+      <Barren>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Canis</string>
+          </Values>
+        </NameGroup>
+      </Barren>
+    </Planets>
   </NameList>
 </ArrayOfNameList>

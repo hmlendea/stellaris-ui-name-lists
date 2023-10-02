@@ -23,5 +23,17 @@
         </NameGroup>
       </Science>
     </Ships>
+    <Stations>
+      <MilitaryStations>
+        <Medium>
+          <NameGroup>
+            <Name>Military Stations - StarCraft</Name>
+            <Values>
+              <string>Paladino Terminal</string>
+            </Values>
+          </NameGroup>
+        </Medium>
+      </MilitaryStations>
+    </Stations>
   </NameList>
 </ArrayOfNameList>

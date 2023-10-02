@@ -3,7 +3,57 @@
   <NameList>
     <Id>starcraft_human_english_USA</Id>
     <Name>StarCraft - Human - English (USA)</Name>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - StarCraft</Name>
+          <Values>
+            <string>Confederacy</string>
+            <string>Dominion</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+    </Places>
+    <Ships>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - StarCraft</Name>
+          <Values>
+            <string>Norad</string>
+            <string>Theodore G. Bilbo</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+    </Ships>
+    <Stations>
+      <MilitaryStations>
+        <Small>
+          <NameGroup>
+            <Name>Military Stations - StarCraft</Name>
+            <Values>
+              <string>Giddings</string>
+            </Values>
+          </NameGroup>
+        </Small>
+        <Medium>
+          <NameGroup>
+            <Name>Military Stations - StarCraft</Name>
+            <Values>
+              <string>New Gettysburg</string>
+            </Values>
+          </NameGroup>
+        </Medium>
+      </MilitaryStations>
+    </Stations>
     <Planets>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Port Zion</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
       <Molten>
         <NameGroup>
           <Name>Planets - StarCraft</Name>

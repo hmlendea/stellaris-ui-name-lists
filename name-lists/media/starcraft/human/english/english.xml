@@ -12,6 +12,14 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains - StarCraft</Name> <!-- Braxis -->
+          <Values>
+            <string>Grendel</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
     </Places>
     <Planets>
       <Generic>

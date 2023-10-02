@@ -13,6 +13,16 @@
         </NameGroup>
       </Cities>
     </Places>
+    <Ships>
+      <Titan>
+        <NameGroup>
+          <Name>Ships - StarCraft</Name>
+          <Values>
+            <string>Aleksander</string>
+          </Values>
+        </NameGroup>
+      </Titan>
+    </Ships>
     <ShipClasses>
       <Battleship>
         <NameGroup>

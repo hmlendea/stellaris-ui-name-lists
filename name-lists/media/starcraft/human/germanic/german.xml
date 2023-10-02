@@ -33,5 +33,15 @@
         </NameGroup>
       </Science>
     </ShipClasses>
+    <Planets>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Anselm</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+    </Planets>
   </NameList>
 </ArrayOfNameList>

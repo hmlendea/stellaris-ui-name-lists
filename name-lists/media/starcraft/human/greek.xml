@@ -27,15 +27,30 @@
           <Name>Ships - StarCraft</Name>
           <Values>
             <string>Aeneas</string>
+            <string>Aethon</string>
+            <string>Amphitrite</string>
+            <string>Antigone</string>
+            <string>Bucephalus</string>
+            <string>Cerberus</string>
             <string>Helios</string>
             <string>Hephaestus</string>
             <string>Herakles</string>
+            <string>Hyperion</string>
             <string>Medusa</string>
+            <string>Meleager</string>
             <string>Patroclus</string>
             <string>Phobos</string>
           </Values>
         </NameGroup>
       </Battleship>
+      <Coloniser>
+        <NameGroup>
+          <Name>Ships - StarCraft</Name>
+          <Values>
+            <string>Argo</string>
+          </Values>
+        </NameGroup>
+      </Coloniser>
     </Ships>
     <ShipClasses>
       <Battleship>
@@ -45,11 +60,20 @@
             <string>Gorgon</string>
             <string>Hercules</string>
             <string>Minotaur</string>
+            <string>Moirai</string>
           </Values>
         </NameGroup>
       </Battleship>
     </ShipClasses>
     <Stations>
+      <MiningStations>
+        <NameGroup>
+          <Name>Mining Stations - StarCraft</Name>
+          <Values>
+            <string>Erebus</string>
+          </Values>
+        </NameGroup>
+      </MiningStations>
       <ResearchStations>
         <NameGroup>
           <Name>Research Stations - StarCraft</Name>
@@ -69,12 +93,48 @@
         </Generic>
       </Starbases>
     </Stations>
+    <Armies>
+      <Fleet>
+        <NameGroup>
+          <Name>Squadrons - StarCraft</Name>
+          <Values>
+            <string>Alpha Squadron</string>
+            <string>Delta Squadron</string>
+            <string>Epsilon Squadron</string>
+            <string>Gamma Squadron</string>
+            <string>Omega Squadron</string>
+            <string>Rho Squadron</string>
+            <string>Zeta Squadron</string>
+          </Values>
+        </NameGroup>
+      </Fleet>
+      <DefenceArmy>
+        <NameGroup>
+          <Name>Armies - StarCraft</Name>
+          <Values>
+            <string>Aegis Guard</string>
+            <string>Delta Company</string>
+          </Values>
+        </NameGroup>
+      </DefenceArmy>
+      <AssaultArmy>
+        <NameGroup>
+          <Name>Armies - StarCraft</Name>
+          <Values>
+            <string>Cerberus Squad</string>
+            <string>Prometheus Company</string>
+          </Values>
+        </NameGroup>
+      </AssaultArmy>
+    </Armies>
     <Planets>
       <Generic>
         <NameGroup>
           <Name>Planets - StarCraft</Name> <!-- Unknown or unsure climate -->
           <Values>
+            <string>Asteria</string>
             <string>Brontes</string>
+            <string>Chiron</string>
             <string>Pegasus</string>
           </Values>
         </NameGroup>

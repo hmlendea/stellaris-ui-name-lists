@@ -42,6 +42,14 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Anselm</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
     </Planets>
   </NameList>
 </ArrayOfNameList>

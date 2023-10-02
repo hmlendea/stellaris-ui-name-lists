@@ -12,6 +12,12 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Cities - StarCraft</Name> <!-- Vyctor 5 -->
+          <Values>
+            <string>Lockston</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - StarCraft</Name> <!-- Others -->
           <Values>
             <string>Backwater</string>
@@ -49,12 +55,39 @@
           </Values>
         </NameGroup>
       </Battleship>
+      <Science>
+        <NameGroup>
+          <Name>Ship Classes - StarCraft</Name>
+          <Values>
+            <string>Brin</string>
+          </Values>
+        </NameGroup>
+      </Science>
+      <Transport>
+        <NameGroup>
+          <Name>Ships - StarCraft</Name>
+          <Values>
+            <string>Cormorant</string>
+            <string>Daisy</string>
+          </Values>
+        </NameGroup>
+      </Transport>
     </Ships>
     <ShipClasses>
+      <Corvette>
+        <NameGroup>
+          <Name>Ship Classes - StarCraft</Name>
+          <Values>
+            <string>Avenger</string>
+            <string>Wraith</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
       <Battleship>
         <NameGroup>
           <Name>Ship Classes - StarCraft</Name>
           <Values>
+            <string>Hurricane</string>
             <string>Sovereign</string>
             <string>Starcruiser</string>
           </Values>
@@ -104,6 +137,7 @@
             <Name>Military Stations - StarCraft</Name>
             <Values>
               <string>Crusader</string>
+              <string>Gutterhulk</string>
             </Values>
           </NameGroup>
         </Medium>
@@ -118,6 +152,41 @@
       </MilitaryStations>
     </Stations>
     <Armies>
+      <DefenceArmy>
+        <NameGroup>
+          <Name>Armies - StarCraft</Name>
+          <Values>
+            <string>Elite Guard</string>
+          </Values>
+        </NameGroup>
+      </DefenceArmy>
+      <AssaultArmy>
+        <NameGroup>
+          <Name>Armies - StarCraft</Name>
+          <Values>
+            <string>Annihilators</string>
+            <string>Blackhammers</string>
+            <string>Brute Squad</string>
+            <string>Bulwark Company</string>
+            <string>Charlie Squad</string>
+            <string>Death Heads</string>
+            <string>Death's Head Legion</string>
+            <string>Field Response Theta</string>
+            <string>Hammer Strike Force</string>
+            <string>Heaven's Devils</string>
+            <string>Hellbringers</string>
+            <string>Iron Jesters</string>
+            <string>Lost Wolves</string>
+            <string>Night Wolves</string>
+            <string>Outback Hunters</string>
+            <string>Shock Division</string>
+            <string>Sky Fury Squadron</string>
+            <string>Thundering Third</string>
+            <string>Torch Seven</string>
+            <string>War Pigs</string>
+          </Values>
+        </NameGroup>
+      </AssaultArmy>
       <XenomorphArmy>
         <NameGroup>
           <Name>Armies - StarCraft</Name>
@@ -132,6 +201,7 @@
         <NameGroup>
           <Name>Planets - StarCraft</Name> <!-- Unknown or unsure climate -->
           <Values>
+            <string>Demon's Fair</string>
             <string>Great Bend</string>
           </Values>
         </NameGroup>
@@ -140,9 +210,11 @@
         <NameGroup>
           <Name>Planets - StarCraft</Name>
           <Values>
+            <string>Boone</string>
             <string>Bountiful</string>
             <string>Goldilocks</string>
             <string>Haven</string>
+            <string>Sammy</string>
           </Values>
         </NameGroup>
       </Continental>
@@ -162,6 +234,14 @@
           </Values>
         </NameGroup>
       </Tomb>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Planet Christmas</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
       <Alpine>
         <NameGroup>
           <Name>Planets - StarCraft</Name>
@@ -170,6 +250,14 @@
           </Values>
         </NameGroup>
       </Alpine>
+      <Molten>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Char</string>
+          </Values>
+        </NameGroup>
+      </Molten>
     </Planets>
   </NameList>
 </ArrayOfNameList>

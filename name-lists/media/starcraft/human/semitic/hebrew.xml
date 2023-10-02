@@ -3,6 +3,16 @@
   <NameList>
     <Id>starcraft_human_hebrew</Id>
     <Name>StarCraft - Human - Hebrew</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - StarCraft</Name> <!-- Tyrandor IX -->
+          <Values>
+            <string>New Canaan</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
     <ShipClasses>
       <Battleship>
         <NameGroup>
@@ -13,5 +23,35 @@
         </NameGroup>
       </Battleship>
     </ShipClasses>
+    <Stations>
+      <MilitaryStations>
+        <Large>
+          <NameGroup>
+            <Name>Military Stations - StarCraft</Name>
+            <Values>
+              <string>Gehanna</string>
+            </Values>
+          </NameGroup>
+        </Large>
+      </MilitaryStations>
+    </Stations>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Shiloh</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Molten>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Abaddon</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+    </Planets>
   </NameList>
 </ArrayOfNameList>
