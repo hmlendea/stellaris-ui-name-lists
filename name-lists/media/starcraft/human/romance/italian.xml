@@ -2,7 +2,7 @@
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
     <Id>starcraft_human_italian</Id>
-    <Name>StarCraft - Human (Italian)</Name>
+    <Name>StarCraft - Human - Italian</Name>
     <Planets>
       <Generic>
         <NameGroup>

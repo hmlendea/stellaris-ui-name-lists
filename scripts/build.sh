@@ -309,7 +309,7 @@ BELGIAN_MEDIA_NAMELISTS="${BENELUX_COMMON_MEDIA_NAMELISTS}"
 BELGIAN_REAL_NAMELISTS="real/germanic/benelux/belgian real/common/european real/common real/common/_"
 BELGIAN_NAMELISTS=$(get-namelists-merged ${BELGIAN_REAL_NAMELISTS} ${BELGIAN_MEDIA_NAMELISTS})
 
-DUTCH_MEDIA_NAMELISTS="starcraft/human/germanic/dutch ui/human/germanic/benelux/dutch ${BENELUX_COMMON_MEDIA_NAMELISTS}"
+DUTCH_MEDIA_NAMELISTS="media/starcraft/human/germanic/dutch ui/human/germanic/benelux/dutch ${BENELUX_COMMON_MEDIA_NAMELISTS}"
 DUTCH_REAL_NAMELISTS="real/germanic/benelux/dutch real/common/european real/common real/common/_"
 DUTCH_NAMELISTS=$(get-namelists-merged ${DUTCH_REAL_NAMELISTS} ${DUTCH_MEDIA_NAMELISTS})
 
@@ -553,7 +553,7 @@ SLAVIC_NAMELISTS=$(get-namelists-merged ${SLAVIC_REAL_NAMELISTS} ${SLAVIC_MEDIA_
 ### STARCRAFT ###
 #################
 STARCRAFT_PROTOSS_NAMELISTS=$(get-namelists-merged media/starcraft/protoss/daelaam media/starcraft/protoss/nerazim media/starcraft/protoss/purifier media/starcraft/protoss/taldarim media/starcraft/protoss/common)
-STARCRAFT_TERRAN_NAMELISTS=$(get-namelists-merged media/starcraft/human/human media/starcraft/human/germanic/german media/starcraft/human/spanish)
+STARCRAFT_TERRAN_NAMELISTS=$(get-namelists-merged media/starcraft/human/english/american/american media/starcraft/human/english/oceanian/australian media/starcraft/human/english/english media/starcraft/human/english/american/american media/starcraft/human/germanic/dutch media/starcraft/human/germanic/german media/starcraft/human/germanic/norse media/starcraft/human/romance/french media/starcraft/human/romance/italian media/starcraft/human/romance/latin media/starcraft/human/romance/spanish media/starcraft/human/semitic/arabic media/starcraft/human/semitic/hebrew media/starcraft/human/slavic/common media/starcraft/human/greek media/starcraft/human/human)
 
 ################
 ### STARWARS ###

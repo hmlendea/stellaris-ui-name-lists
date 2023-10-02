@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>starcraft_human_australian</Id>
-    <Name>StarCraft - Human (English, Australia)</Name>
+    <Id>starcraft_human_english_australian</Id>
+    <Name>StarCraft - Human - English (Australia)</Name>
     <Planets>
       <Desert>
         <NameGroup>
