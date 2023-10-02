@@ -40,7 +40,6 @@
             <string>Halberdier</string>
             <string>Hussar</string>
             <string>Javelinman</string>
-            <string>Knight</string>
             <string>Lancer</string>
             <string>Marksman</string>
             <string>Paladin</string>
@@ -63,9 +62,7 @@
             <string>Accentor</string>
             <string>Albatross</string>
             <string>Alligator</string>
-            <string>Anaconda</string>
             <string>Antilope</string>
-            <string>Armadillo</string>
             <string>Badger</string>
             <string>Barracuda</string>
             <string>Buzzard</string>
@@ -73,11 +70,9 @@
             <string>Chameleon</string>
             <string>Cobra</string>
             <string>Cormorant</string>
-            <string>Coyote</string>
             <string>Eagle</string>
             <string>Firefly</string>
             <string>Fox</string>
-            <string>Gazelle</string>
             <string>Haddock</string>
             <string>Harrier</string>
             <string>Hawk</string>

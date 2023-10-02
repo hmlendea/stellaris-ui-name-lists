@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>human_common_asian</Id>
-    <Name>Human - Common - Asian</Name>
+    <Id>human_asian</Id>
+    <Name>Human - Asian</Name>
     <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
@@ -20,22 +20,6 @@
           </Values>
         </NameGroup>
       </Regions>
-      <Mountains>
-        <NameGroup>
-          <Name>Mountains</Name>
-          <Values>
-            <string>Himalaya</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Mountains</Name>
-          <Values>
-            <string>Chomolungma</string>
-            <string>Everest</string>
-            <string>Zhumulangma</string>
-          </Values>
-        </NameGroup>
-      </Mountains>
     </Places>
   </NameList>
 </ArrayOfNameList>

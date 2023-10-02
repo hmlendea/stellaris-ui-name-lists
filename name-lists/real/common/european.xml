@@ -22,6 +22,15 @@
       </Regions>
     </Places>
     <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types</Name>
+          <Values>
+            <string>Crusader</string>
+            <string>Knight</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
       <Weapons>
         <Artillery>
           <NameGroup>

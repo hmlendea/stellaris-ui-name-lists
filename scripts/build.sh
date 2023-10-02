@@ -144,28 +144,30 @@ ARMENIAN_NAMELISTS=$(get-namelists-merged ${ARMENIAN_REAL_NAMELISTS} ${ARMENIAN_
 #############
 ### ASIAN ###
 #############
+ASIAN_COMMON_REAL_NAMELISTS="real/asian/common real/common real/common/_"
+
 CHINESE_MEDIA_NAMELISTS="media/alien/human/asian/chinese media/civbe/human/asian/chinese media/dishonored/asian/chinese media/pandora/human/asian/chinese media/stellaris/human/asian/chinese media/ypp/asian/chinese ui/human/asian/chinese"
-CHINESE_REAL_NAMELISTS="real/asian/chinese/chinese real/asian/chinese/taiwanese real/common/asian real/common real/common/_"
+CHINESE_REAL_NAMELISTS="real/asian/chinese/chinese real/asian/chinese/taiwanese ${ASIAN_COMMON_REAL_NAMELISTS}"
 CHINESE_NAMELISTS=$(get-namelists-merged ${CHINESE_REAL_NAMELISTS} ${CHINESE_MEDIA_NAMELISTS})
 
 JAPANESE_MEDIA_NAMELISTS="media/alien/human/asian/japanese media/pandora/human/asian/japanese media/stellaris/human/asian/japanese media/ypp/asian/japanese ui/human/asian/japanese"
-JAPANESE_REAL_NAMELISTS="real/asian/japanese real/common/asian real/common real/common/_"
+JAPANESE_REAL_NAMELISTS="real/asian/japanese ${ASIAN_COMMON_REAL_NAMELISTS}"
 JAPANESE_NAMELISTS=$(get-namelists-merged ${JAPANESE_REAL_NAMELISTS} ${JAPANESE_MEDIA_NAMELISTS})
 
 KOREAN_MEDIA_NAMELISTS="media/civbe/human/asian/korean ui/human/asian/korean"
-KOREAN_REAL_NAMELISTS="real/asian/korean real/common/asian real/common real/common/_"
+KOREAN_REAL_NAMELISTS="real/asian/korean ${ASIAN_COMMON_REAL_NAMELISTS}"
 KOREAN_NAMELISTS=$(get-namelists-merged ${KOREAN_REAL_NAMELISTS} ${KOREAN_MEDIA_NAMELISTS})
 
 MONGOL_MEDIA_NAMELISTS="media/civbe/human/asian/mongol media/stellaris/human/asian/mongol"
-MONGOL_REAL_NAMELISTS="real/asian/mongol real/common/asian real/common real/common/_"
+MONGOL_REAL_NAMELISTS="real/asian/mongol ${ASIAN_COMMON_REAL_NAMELISTS}"
 MONGOL_NAMELISTS=$(get-namelists-merged ${MONGOL_REAL_NAMELISTS} ${MONGOL_MEDIA_NAMELISTS})
 
 TIBETAN_MEDIA_NAMELISTS="media/paxnova/human/asian/tibetan"
-TIBETAN_REAL_NAMELISTS="real/asian/tibetan real/common/asian real/common real/common/_"
+TIBETAN_REAL_NAMELISTS="real/asian/tibetan ${ASIAN_COMMON_REAL_NAMELISTS}"
 TIBETAN_NAMELISTS=$(get-namelists-merged ${TIBETAN_REAL_NAMELISTS} ${TIBETAN_MEDIA_NAMELISTS})
 
 VIETNAMESE_MEDIA_NAMELISTS="media/civbe/human/asian/vietnamese"
-VIETNAMESE_REAL_NAMELISTS="real/asian/vietnamese real/common/asian real/common real/common/_"
+VIETNAMESE_REAL_NAMELISTS="real/asian/vietnamese ${ASIAN_COMMON_REAL_NAMELISTS}"
 VIETNAMESE_NAMELISTS=$(get-namelists-merged ${VIETNAMESE_REAL_NAMELISTS} ${VIETNAMESE_MEDIA_NAMELISTS})
 
 ASIAN_MEDIA_NAMELISTS=$(get-namelists-merged ${CHINESE_MEDIA_NAMELISTS} ${JAPANESE_MEDIA_NAMELISTS} ${KOREAN_MEDIA_NAMELISTS} ${MONGOL_MEDIA_NAMELISTS} ${TIBETAN_MEDIA_NAMELISTS} ${VIETNAMESE_MEDIA_NAMELISTS})
@@ -372,7 +374,7 @@ NEPALI_REAL_NAMELISTS="real/indian/nepali ${INDIAN_COMMON_REAL_NAMELISTS}"
 NEPALI_NAMELISTS=$(get-namelists-merged ${HINDI_REAL_NAMELISTS} ${HINDI_MEDIA_NAMELISTS})
 
 SANSKRIT_MEDIA_NAMELISTS="media/civbe/human/indian/sanskrit media/stellaris/human/indian/sanskrit ${INDIAN_COMMON_MEDIA_NAMELISTS}"
-SANSKRIT_REAL_NAMELISTS="${INDIAN_COMMON_REAL_NAMELISTS}"
+SANSKRIT_REAL_NAMELISTS="real/indian/sanskrit ${INDIAN_COMMON_REAL_NAMELISTS}"
 SANSKRIT_NAMELISTS=$(get-namelists-merged ${SANSKRIT_REAL_NAMELISTS} ${SANSKRIT_MEDIA_NAMELISTS})
 
 TAMIL_MEDIA_NAMELISTS="media/civbe/human/indian/tamil ${INDIAN_COMMON_MEDIA_NAMELISTS}"

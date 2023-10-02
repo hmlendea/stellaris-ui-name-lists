@@ -41,5 +41,15 @@
         </Swords>
       </Weapons>
     </Warfare>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals</Name>
+          <Values>
+            <string>Salamander</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
   </NameList>
 </ArrayOfNameList>

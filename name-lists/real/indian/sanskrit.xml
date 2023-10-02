@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_sanskrit</Id>
+    <Name>Human - Sanskrit</Name>
+    <Places>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Himalaya</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+    </Places>
+  </NameList>
+</ArrayOfNameList>

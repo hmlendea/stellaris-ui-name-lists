@@ -68,6 +68,7 @@
         <NameGroup>
           <Name>Animals</Name>
           <Values>
+            <string>Anaconda</string>
             <string>Armadillo</string>
             <string>Iguana</string>
             <string>Jaguar</string>

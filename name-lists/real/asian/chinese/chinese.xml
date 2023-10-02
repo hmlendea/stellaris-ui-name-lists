@@ -123,6 +123,14 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Zhumulangma</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
       <Deserts>
         <NameGroup>
           <Name>Deserts</Name>

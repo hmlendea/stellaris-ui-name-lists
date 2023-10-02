@@ -26,6 +26,14 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Chomolungma</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
     </Places>
     <GreatPeople>
       <LeadersTier1>
