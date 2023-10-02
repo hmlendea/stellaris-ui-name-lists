@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starcraft_human_arabic</Id>
+    <Name>StarCraft - Human - Arabic</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Sirocco</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

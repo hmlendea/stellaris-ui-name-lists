@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starcraft_human_greek</Id>
+    <Name>StarCraft - Human (Greek)</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - StarCraft</Name> <!-- Others -->
+          <Values>
+            <string>Metalopolis</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Ships>
+      <Corvette>
+        <NameGroup>
+          <Name>Ships - StarCraft</Name>
+          <Values>
+            <string>Griffin</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - StarCraft</Name>
+          <Values>
+            <string>Aeneas</string>
+            <string>Helios</string>
+            <string>Hephaestus</string>
+            <string>Herakles</string>
+            <string>Medusa</string>
+            <string>Patroclus</string>
+            <string>Phobos</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+    </Ships>
+    <ShipClasses>
+      <Battleship>
+        <NameGroup>
+          <Name>Ship Classes - StarCraft</Name>
+          <Values>
+            <string>Gorgon</string>
+            <string>Hercules</string>
+            <string>Minotaur</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+    </ShipClasses>
+    <Stations>
+      <ResearchStations>
+        <NameGroup>
+          <Name>Research Stations - StarCraft</Name>
+          <Values>
+            <string>Prometheus</string>
+          </Values>
+        </NameGroup>
+      </ResearchStations>
+      <Starbases>
+        <Generic>
+          <NameGroup>
+            <Name>Starbases - StarCraft</Name>
+            <Values>
+              <string>Atlas</string>
+            </Values>
+          </NameGroup>
+        </Generic>
+      </Starbases>
+    </Stations>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name> <!-- Unknown or unsure climate -->
+          <Values>
+            <string>Brontes</string>
+            <string>Pegasus</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name> <!-- Unknown or unsure climate - Mining worlds -->
+          <Values>
+            <string>Pyramus</string>
+            <string>Thisby</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Phaeton</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Halcyon</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

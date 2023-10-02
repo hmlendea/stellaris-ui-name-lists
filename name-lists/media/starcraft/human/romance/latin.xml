@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starcraft_human_latin</Id>
+    <Name>StarCraft - Human (Latin)</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name> <!-- Unknown or unsure climate -->
+          <Values>
+            <string>Bacchus</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Barren>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Brutus</string>
+          </Values>
+        </NameGroup>
+      </Barren>
+    </Planets>
+    <Ships>
+      <Transport>
+        <NameGroup>
+          <Name>Ships - StarCraft</Name>
+          <Values>
+            <string>Hydrus</string>
+          </Values>
+        </NameGroup>
+      </Transport>
+    </Ships>
+  </NameList>
+</ArrayOfNameList>

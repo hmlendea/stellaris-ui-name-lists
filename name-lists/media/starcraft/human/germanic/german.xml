@@ -13,6 +13,16 @@
         </NameGroup>
       </Cities>
     </Places>
+    <Ships>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - StarCraft</Name>
+          <Values>
+            <string>Bismarck</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+    </Ships>
     <ShipClasses>
       <Science>
         <NameGroup>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starcraft_human_slavic</Id>
+    <Name>StarCraft - Human - Slavic</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - StarCraft</Name>
+        <Values>
+          <string>Kel-Morian</string>
+          <string>Terran</string>
+          <string>Umojan</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - StarCraft</Name> <!-- Others -->
+          <Values>
+            <string>Augustgrad</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <ShipClasses>
+      <Battleship>
+        <NameGroup>
+          <Name>Ship Classes - StarCraft</Name>
+          <Values>
+            <string>Pride of Augustgrad</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+    </ShipClasses>
+  </NameList>
+</ArrayOfNameList>

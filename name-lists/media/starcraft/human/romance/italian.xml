@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starcraft_human_italian</Id>
+    <Name>StarCraft - Human (Italian)</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name> <!-- Unknown or unsure climate - Mining worlds -->
+          <Values>
+            <string>Vito</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+    <Ships>
+      <Science>
+        <NameGroup>
+          <Name>Ships - StarCraft</Name>
+          <Values>
+            <string>Amerigo</string>
+          </Values>
+        </NameGroup>
+      </Science>
+    </Ships>
+  </NameList>
+</ArrayOfNameList>

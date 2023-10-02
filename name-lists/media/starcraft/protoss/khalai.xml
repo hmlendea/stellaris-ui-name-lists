@@ -5,14 +5,14 @@
     <Name>StarCraft - Protoss - Khalai</Name>
     <Denonyms>
       <NameGroup>
-        <Name>Denonyms - Groups</Name>
+        <Name>Denonyms</Name> <!-- Groups -->
         <Values>
           <string>Khalai</string>
           <string>Shel'na Kryhas</string>
         </Values>
       </NameGroup>
       <NameGroup>
-        <Name>Denonyms - Tribes</Name>
+        <Name>Denonyms</Name> <!-- Tribes -->
         <Values>
           <string>Akilae</string>
           <string>Ara</string>
@@ -26,24 +26,16 @@
       </NameGroup>
     </Denonyms>
     <Places>
-      <Countries>
-        <NameGroup>
-          <Name>Countries</Name>
-          <Values>
-            <string>Daelaam</string>
-          </Values>
-        </NameGroup>
-      </Countries>
       <Regions>
         <NameGroup>
-          <Name>Regions - Aiur</Name>
+          <Name>Regions</Name> <!-- Aiur -->
           <Values>
             <string>Asari</string>
             <string>Ni Monn Adun</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions - Aiur - Provinces</Name>
+          <Name>Regionsvinces</Name> <!-- Aiur, Provinces -->
           <Values>
             <string>Antioch</string>
             <string>Scion</string>
@@ -51,7 +43,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions - Aiur - Locations</Name>
+          <Name>Regions</Name> <!-- Aiur, Locations -->
           <Values>
             <string>Shreka</string>
           </Values>
@@ -59,7 +51,7 @@
       </Regions>
       <Cities>
         <NameGroup>
-          <Name>Cities - Aiur</Name>
+          <Name>Cities</Name> <!-- Aiur -->
           <Values>
             <string>Aldera</string>
             <string>Kherrisan</string>
@@ -68,7 +60,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Dylar IV</Name>
+          <Name>Cities</Name> <!-- Dylar IV -->
           <Values>
             <string>Dylar</string>
           </Values>
@@ -107,7 +99,7 @@
     <BiosphereNames>
       <Animals>
         <NameGroup>
-          <Name>Animals - Aiur</Name>
+          <Name>Animals</Name> <!-- Aiur -->
           <Values>
             <string>Bengalaas</string>
             <string>Kal-taar</string>
