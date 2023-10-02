@@ -4,17 +4,52 @@
     <Id>ui_human_basque</Id>
     <Name>Universum Infinitum - Human - Basque</Name>
     <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Infernoa</string> <!-- Inferno -->
+            <string>Iratxoa</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Akuarioa</string> <!-- Aquarium -->
+            <string>Ozeania</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
       <Gaia>
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
             <string>Distira</string> <!-- Splendor -->
+            <string>Jainko</string> <!-- God -->
             <string>Lasaitasuna</string> <!-- Serenity -->
             <string>Paradisua</string> <!-- Paradise -->
+            <string>Tenplu</string> <!-- Temple -->
             <string>Zeru</string> <!-- Sky -->
           </Values>
         </NameGroup>
       </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Eztanda</string> <!-- Rubble -->
+            <string>Garri</string> <!-- Cinder -->
+            <string>Gerra</string> <!-- War -->
+            <string>Ghetto</string> <!-- Ghetto -->
+            <string>Hilerria</string> <!-- Graveyard -->
+            <string>Hondalarri</string> <!-- Tombstone -->
+            <string>Hondamendia</string> <!-- Ruin -->
+            <string>Kripta</string> <!-- Crypt -->
+          </Values>
+        </NameGroup>
+      </Tomb>
     </Planets>
   </NameList>
 </ArrayOfNameList>

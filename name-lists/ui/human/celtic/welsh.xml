@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>ui_human_polish</Id>
-    <Name>Universum Infinitum - Human - Polish</Name>
+    <Id>ui_human_welsh</Id>
+    <Name>Universum Infinitum - Human - Welsh</Name>
     <Planets>
       <Desert>
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Piekło</string> <!-- Inferno -->
-            <string>Piekarnik</string> <!-- Oven -->
+            <string>Uffern</string> <!-- Inferno -->
+            <string>Popty</string> <!-- Oven -->
           </Values>
         </NameGroup>
       </Desert>
@@ -17,7 +17,7 @@
         <NameGroup>
           <Name>Planets - Based on real places</Name>
           <Values>
-            <string>Nowa Warszawa</string>
+            <string>Caerdydd Newydd</string>
           </Values>
         </NameGroup>
       </Continental>
@@ -25,7 +25,7 @@
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Akwarium</string> <!-- Aquarium -->
+            <string>Acwariwm</string> <!-- Aquarium -->
             <string>Oceania</string> <!-- Ocean -->
           </Values>
         </NameGroup>
@@ -34,12 +34,12 @@
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Blask</string> <!-- Splendor -->
-            <string>Bóg</string> <!-- God -->
-            <string>Niebo</string> <!-- Sky -->
-            <string>Raj</string> <!-- Paradise -->
-            <string>Spokój</string> <!-- Serenity -->
-            <string>Świątynia</string> <!-- Temple -->
+            <string>Awyr</string> <!-- Sky -->
+            <string>Duw</string> <!-- God -->
+            <string>Gogoniant</string> <!-- Splendor -->
+            <string>Paradwys</string> <!-- Paradise -->
+            <string>Tangnefedd</string> <!-- Serenity -->
+            <string>Teml</string> <!-- Temple -->
           </Values>
         </NameGroup>
       </Gaia>
@@ -47,14 +47,14 @@
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Getto</string> <!-- Ghetto -->
-            <string>Cmentarz</string> <!-- Graveyard -->
-            <string>Ruina</string> <!-- Ruin -->
-            <string>Krypta</string> <!-- Crypt -->
-            <string>Gruz</string> <!-- Rubble -->
-            <string>Popiół</string> <!-- Cinder -->
-            <string>Nagrobek</string> <!-- Tombstone -->
-            <string>Wojna</string> <!-- War -->
+            <string>Cerrig</string> <!-- Rubble -->
+            <string>Cript</string> <!-- Crypt -->
+            <string>Distrin</string> <!-- Ruin -->
+            <string>Fynwent</string> <!-- Graveyard -->
+            <string>Ghetto</string> <!-- Ghetto -->
+            <string>Maen Bedd</string> <!-- Tombstone -->
+            <string>Rhyfel</string> <!-- War -->
+            <string>Tân</string> <!-- Cinder -->
           </Values>
         </NameGroup>
       </Tomb>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>ui_human_japanese</Id>
-    <Name>Universum Infinitum - Human - Japanese</Name>
+    <Id>ui_human_breton</Id>
+    <Name>Universum Infinitum - Human - Breton</Name>
     <Planets>
       <Desert>
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Jigoku</string> <!-- Inferno -->
-            <string>Ōbun</string> <!-- Oven -->
+            <string>Enfer</string> <!-- Inferno -->
+            <string>Four</string> <!-- Oven -->
           </Values>
         </NameGroup>
       </Desert>
@@ -17,8 +17,7 @@
         <NameGroup>
           <Name>Planets - Based on real places</Name>
           <Values>
-            <string>Shin Kyoto</string>
-            <string>Shin Tokyo</string>
+            <string>Roazhon Nevez</string>
           </Values>
         </NameGroup>
       </Continental>
@@ -26,8 +25,8 @@
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
+            <string>Akwarium</string> <!-- Aquarium -->
             <string>Oseania</string> <!-- Ocean -->
-            <string>Suizokukan</string> <!-- Aquarium -->
           </Values>
         </NameGroup>
       </Ocean>
@@ -35,12 +34,12 @@
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Kami</string> <!-- God -->
-            <string>Kareino</string> <!-- Splendor -->
-            <string>Rakuenshi</string> <!-- Paradise -->
-            <string>Seijakuno</string> <!-- Serenity -->
-            <string>Tenkūno</string> <!-- Sky -->
-            <string>Tera</string> <!-- Temple -->
+            <string>Dibened</string> <!-- Serenity -->
+            <string>Doue</string> <!-- God -->
+            <string>Heol</string> <!-- Sky -->
+            <string>Paradis</string> <!-- Paradise -->
+            <string>Splann</string> <!-- Splendor -->
+            <string>Templ</string> <!-- Temple -->
           </Values>
         </NameGroup>
       </Gaia>
@@ -48,14 +47,14 @@
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Baisa</string> <!-- Cinder -->
-            <string>Bochi</string> <!-- Graveyard -->
-            <string>Boketsu</string> <!-- Crypt -->
-            <string>Gareki</string> <!-- Rubble -->
-            <string>Gettō</string> <!-- Ghetto -->
-            <string>Haikyo</string> <!-- Ruin -->
-            <string>Hakaseki</string> <!-- Tombstone -->
-            <string>Sensō</string> <!-- War -->
+            <string>Brezel</string> <!-- War -->
+            <string>Geto</string> <!-- Ghetto -->
+            <string>Gloar</string> <!-- Rubble -->
+            <string>Gloar</string> <!-- Ruin -->
+            <string>Koulskoude</string> <!-- Graveyard -->
+            <string>Kriptenn</string> <!-- Crypt -->
+            <string>Toull-benn</string> <!-- Tombstone -->
+            <string>Troc'hseder</string> <!-- Cinder -->
           </Values>
         </NameGroup>
       </Tomb>

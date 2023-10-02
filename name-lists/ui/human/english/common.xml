@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>ui_human_spanish_common</Id>
-    <Name>Universum Infinitum - Human - Spanish (Common)</Name>
+    <Id>ui_human_english_common</Id>
+    <Name>Universum Infinitum - Human - English (Common)</Name>
     <Planets>
       <Desert>
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Infierno</string> <!-- Inferno -->
-            <string>Horno</string> <!-- Oven -->
+            <string>Inferno</string>
+            <string>Oven</string>
           </Values>
         </NameGroup>
       </Desert>
@@ -17,8 +17,7 @@
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Acuario</string> <!-- Aquarium -->
-            <string>Oceanía</string> <!-- Ocean -->
+            <string>Oceania</string>
           </Values>
         </NameGroup>
       </Ocean>
@@ -26,11 +25,11 @@
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Cielo</string> <!-- Sky -->
-            <string>Dios</string> <!-- God -->
-            <string>Paraíso</string> <!-- Paradise -->
-            <string>Serenidad</string> <!-- Serenity -->
-            <string>Templo</string> <!-- Temple -->
+            <string>God</string>
+            <string>Paradise</string>
+            <string>Serenity</string>
+            <string>Sky</string>
+            <string>Temple</string>
           </Values>
         </NameGroup>
       </Gaia>
@@ -38,11 +37,14 @@
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Cementerio</string> <!-- Graveyard -->
-            <string>Ceniza</string> <!-- Cinder -->
-            <string>Escombros</string> <!-- Rubble -->
-            <string>Lápida</string> <!-- Tombstone -->
-            <string>Ruina</string> <!-- Ruin -->
+            <string>Cinder</string>
+            <string>Crypt</string>
+            <string>Ghetto</string>
+            <string>Graveyard</string>
+            <string>Rubble</string>
+            <string>Ruin</string>
+            <string>Tombstone</string>
+            <string>War</string>
           </Values>
         </NameGroup>
       </Tomb>

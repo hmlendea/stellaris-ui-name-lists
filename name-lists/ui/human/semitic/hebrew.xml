@@ -4,6 +4,15 @@
     <Id>ui_human_hebrew</Id>
     <Name>Universum Infinitum - Human - Hebrew</Name>
     <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Gehenom</string> <!-- Inferno -->
+            <string>Tannur</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
       <Arid>
         <NameGroup>
           <Name>Planets - Based on real places</Name>
@@ -12,10 +21,21 @@
           </Values>
         </NameGroup>
       </Arid>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Akvarium</string> <!-- Aquarium -->
+            <string>Okyanyah</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
       <Gaia>
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
+            <string>Beit HaMikdash</string> <!-- Temple -->
+            <string>Elohim</string> <!-- God -->
             <string>Gan Eden</string> <!-- Paradise -->
             <string>Hod</string> <!-- Splendor -->
             <string>Shalva</string> <!-- Serenity -->
@@ -23,6 +43,21 @@
           </Values>
         </NameGroup>
       </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Beit Kvarot</string> <!-- Graveyard -->
+            <string>Crypta</string> <!-- Crypt -->
+            <string>Even Matzeva</string> <!-- Tombstone -->
+            <string>Evenei Horban</string> <!-- Rubble -->
+            <string>Ghetto</string> <!-- Ghetto -->
+            <string>Horvah</string> <!-- Ruin -->
+            <string>Milchama</string> <!-- War -->
+            <string>Patek</string> <!-- Cinder -->
+          </Values>
+        </NameGroup>
+      </Tomb>
     </Planets>
   </NameList>
 </ArrayOfNameList>

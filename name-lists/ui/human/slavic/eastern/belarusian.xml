@@ -4,6 +4,15 @@
     <Id>ui_human_belarusian</Id>
     <Name>Universum Infinitum - Human - Belarusian</Name>
     <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Pekla</string> <!-- Inferno -->
+            <string>Pech</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
       <Continental>
         <NameGroup>
           <Name>Planets - Based on real places</Name>
@@ -12,16 +21,40 @@
           </Values>
         </NameGroup>
       </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Akiyaniya</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
       <Gaia>
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
+            <string>Bog</string> <!-- God -->
+            <string>Hram</string> <!-- Temple -->
             <string>Nieba</string> <!-- Sky -->
             <string>Spakoy</string> <!-- Serenity -->
             <string>Splestsivasts'</string> <!-- Splendor -->
           </Values>
         </NameGroup>
       </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Heta</string> <!-- Ghetto -->
+            <string>Hramadzkiya Vykaly</string> <!-- Rubble -->
+            <string>Krypta</string> <!-- Crypt -->
+            <string>Magilny Kamien</string> <!-- Tombstone -->
+            <string>Mohilki</string> <!-- Graveyard -->
+            <string>Vaina</string> <!-- War -->
+            <string>Zola</string> <!-- Cinder -->
+          </Values>
+        </NameGroup>
+      </Tomb>
     </Planets>
   </NameList>
 </ArrayOfNameList>

@@ -4,6 +4,15 @@
     <Id>ui_human_slavic_eastern</Id>
     <Name>Universum Infinitum - Human - Slavic (Eastern)</Name>
     <Planets>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Akvarium</string> <!-- Aquarium -->
+            <string>Akiyaniya</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
       <Gaia>
         <NameGroup>
           <Name>Planets - Based on words</Name>
@@ -12,6 +21,14 @@
           </Values>
         </NameGroup>
       </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Ruiny</string> <!-- Ruin -->
+          </Values>
+        </NameGroup>
+      </Tomb>
     </Planets>
   </NameList>
 </ArrayOfNameList>

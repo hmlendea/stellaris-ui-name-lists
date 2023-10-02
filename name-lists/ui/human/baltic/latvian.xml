@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>ui_human_russian</Id>
-    <Name>Universum Infinitum - Human - Russian</Name>
+    <Id>ui_human_latvian</Id>
+    <Name>Universum Infinitum - Human - Latvian</Name>
     <Planets>
       <Desert>
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Ad</string> <!-- Inferno -->
-            <string>Pech</string> <!-- Oven -->
+            <string>Elle</string> <!-- Inferno -->
+            <string>Krāsns</string> <!-- Oven -->
           </Values>
         </NameGroup>
       </Desert>
@@ -17,7 +17,7 @@
         <NameGroup>
           <Name>Planets - Based on real places</Name>
           <Values>
-            <string>Novyy Moskva</string>
+            <string>Jaunrīga</string>
           </Values>
         </NameGroup>
       </Continental>
@@ -25,7 +25,8 @@
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Okeaniya</string> <!-- Ocean -->
+            <string>Akvārijs</string> <!-- Aquarium -->
+            <string>Okeānija</string> <!-- Ocean -->
           </Values>
         </NameGroup>
       </Ocean>
@@ -33,11 +34,12 @@
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Bog</string> <!-- God -->
-            <string>Khram</string> <!-- Temple -->
-            <string>Nebo</string> <!-- Sky -->
-            <string>Smireniye</string> <!-- Serenity -->
-            <string>Velikolepiye</string> <!-- Splendor -->
+            <string>Debesis</string> <!-- Sky -->
+            <string>Dievs</string> <!-- God -->
+            <string>Greznība</string> <!-- Splendor -->
+            <string>Miers</string> <!-- Serenity -->
+            <string>Paradīze</string> <!-- Paradise -->
+            <string>Templis</string> <!-- Temple -->
           </Values>
         </NameGroup>
       </Gaia>
@@ -45,13 +47,14 @@
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Getto</string> <!-- Ghetto -->
-            <string>Kladbishche</string> <!-- Graveyard -->
+            <string>Drupas</string> <!-- Rubble -->
+            <string>Drupas</string> <!-- Ruin -->
+            <string>Geto</string> <!-- Ghetto -->
+            <string>Kapi</string> <!-- Graveyard -->
+            <string>Karš</string> <!-- War -->
             <string>Kripta</string> <!-- Crypt -->
-            <string>Nadgrobny Kamien</string> <!-- Tombstone -->
-            <string>Oblomki</string> <!-- Rubble -->
-            <string>Pepel</string> <!-- Cinder -->
-            <string>Vojna</string> <!-- War -->
+            <string>Pelci</string> <!-- Cinder -->
+            <string>Piemineklis</string> <!-- Tombstone -->
           </Values>
         </NameGroup>
       </Tomb>

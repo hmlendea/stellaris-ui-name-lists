@@ -12,6 +12,15 @@
           </Values>
         </NameGroup>
       </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Akvarij</string> <!-- Aquarium -->
+            <string>Oceanija</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
     </Planets>
   </NameList>
 </ArrayOfNameList>

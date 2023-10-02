@@ -4,6 +4,15 @@
     <Id>ui_human_hungarian</Id>
     <Name>Universum Infinitum - Human - Hungarian</Name>
     <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Pokol</string> <!-- Inferno -->
+            <string>Sütő</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
       <Continental>
         <NameGroup>
           <Name>Planets - Based on real places</Name>
@@ -12,17 +21,43 @@
           </Values>
         </NameGroup>
       </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Akvárium</string> <!-- Aquarium -->
+            <string>Óceánia</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
       <Gaia>
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
             <string>Ég</string> <!-- Sky -->
+            <string>Isten</string> <!-- God -->
             <string>Nyugalom</string> <!-- Serenity -->
             <string>Paradicsom</string> <!-- Paradise -->
             <string>Ragyogás</string> <!-- Splendor -->
+            <string>Templom</string> <!-- Temple -->
           </Values>
         </NameGroup>
       </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Gettó</string> <!-- Ghetto -->
+            <string>Háború</string> <!-- War -->
+            <string>Hamu</string> <!-- Cinder -->
+            <string>Kripta</string> <!-- Crypt -->
+            <string>Rom</string> <!-- Ruin -->
+            <string>Romok</string> <!-- Rubble -->
+            <string>Sírkő</string> <!-- Tombstone -->
+            <string>Temető</string> <!-- Graveyard -->
+          </Values>
+        </NameGroup>
+      </Tomb>
     </Planets>
   </NameList>
 </ArrayOfNameList>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>ui_human_finnish</Id>
-    <Name>Universum Infinitum - Human - Finnish</Name>
+    <Id>ui_human_estonian</Id>
+    <Name>Universum Infinitum - Human - Estonian</Name>
     <Planets>
       <Desert>
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Tulipyörre</string> <!-- Inferno -->
-            <string>Uuni</string> <!-- Oven -->
+            <string>Põrgu</string> <!-- Inferno -->
+            <string>Ahju</string> <!-- Oven -->
           </Values>
         </NameGroup>
       </Desert>
@@ -17,7 +17,7 @@
         <NameGroup>
           <Name>Planets - Based on real places</Name>
           <Values>
-            <string>Uusi Helsinki</string>
+            <string>Uus Tallinn</string>
           </Values>
         </NameGroup>
       </Continental>
@@ -25,8 +25,8 @@
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Akvaario</string> <!-- Aquarium -->
-            <string>Oseania</string> <!-- Ocean -->
+            <string>Akvaarium</string> <!-- Aquarium -->
+            <string>Okeaania</string> <!-- Ocean -->
           </Values>
         </NameGroup>
       </Ocean>
@@ -34,12 +34,12 @@
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Jumala</string> <!-- God -->
-            <string>Loisto</string> <!-- Splendor -->
-            <string>Paratiisi</string> <!-- Paradise -->
+            <string>Hiilguse</string> <!-- Splendor -->
+            <string>Jumal</string> <!-- God -->
+            <string>Paradiisi</string> <!-- Paradise -->
             <string>Rauha</string> <!-- Serenity -->
-            <string>Taivas</string> <!-- Sky -->
-            <string>Temppeli</string> <!-- Temple -->
+            <string>Taeva</string> <!-- Sky -->
+            <string>Tempel</string> <!-- Temple -->
           </Values>
         </NameGroup>
       </Gaia>
@@ -47,14 +47,14 @@
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Getto</string> <!-- Ghetto -->
-            <string>Hautakivi</string> <!-- Tombstone -->
-            <string>Hautausmaa</string> <!-- Graveyard -->
-            <string>Krypta</string> <!-- Crypt -->
-            <string>Rauniot</string> <!-- Ruin -->
-            <string>Romu</string> <!-- Rubble -->
-            <string>Sota</string> <!-- War -->
-            <string>Tuhka</string> <!-- Cinder -->
+            <string>Geto</string> <!-- Ghetto -->
+            <string>Hauakivi</string> <!-- Tombstone -->
+            <string>Krypt</string> <!-- Crypt -->
+            <string>Praht</string> <!-- Rubble -->
+            <string>Sõda</string> <!-- War -->
+            <string>Surnuaed</string> <!-- Graveyard -->
+            <string>Tuha</string> <!-- Cinder -->
+            <string>Varemed</string> <!-- Ruin -->
           </Values>
         </NameGroup>
       </Tomb>

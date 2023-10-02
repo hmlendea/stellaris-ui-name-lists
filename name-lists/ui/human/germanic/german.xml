@@ -4,6 +4,15 @@
     <Id>ui_human_german</Id>
     <Name>Universum Infinitum - Human - German</Name>
     <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Hölle</string> <!-- Inferno -->
+            <string>Ofen</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
       <Continental>
         <NameGroup>
           <Name>Planets - Based on real places</Name>
@@ -20,11 +29,20 @@
             <string>Rheinland</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Aquarium</string> <!-- Aquarium -->
+            <string>Ozeanien</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
       </Ocean>
       <Gaia>
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
+            <string>Gott</string> <!-- God -->
+            <string>Tempel</string> <!-- Temple -->
             <string>Gelassenheit</string> <!-- Serenity -->
             <string>Paradies</string> <!-- Paradise -->
             <string>Pracht</string> <!-- Splendor -->
@@ -35,7 +53,14 @@
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Krieg</string>
+            <string>Asche</string> <!-- Cinder -->
+            <string>Friedhof</string> <!-- Graveyard -->
+            <string>Ghetto</string> <!-- Ghetto -->
+            <string>Grabstein</string> <!-- Tombstone -->
+            <string>Krieg</string> <!-- War -->
+            <string>Krypta</string> <!-- Crypt -->
+            <string>Ruine</string> <!-- Ruin -->
+            <string>Trümmer</string> <!-- Rubble -->
           </Values>
         </NameGroup>
         <NameGroup>

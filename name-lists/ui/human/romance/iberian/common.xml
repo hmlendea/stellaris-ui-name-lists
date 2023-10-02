@@ -12,6 +12,16 @@
           </Values>
         </NameGroup>
       </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Cripta</string> <!-- Crypt -->
+            <string>Guerra</string> <!-- War -->
+            <string>Gueto</string> <!-- Ghetto -->
+          </Values>
+        </NameGroup>
+      </Tomb>
     </Planets>
   </NameList>
 </ArrayOfNameList>

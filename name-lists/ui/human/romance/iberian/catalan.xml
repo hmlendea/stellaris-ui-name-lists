@@ -4,6 +4,15 @@
     <Id>ui_human_romance_catalan</Id>
     <Name>Universum Infinitum - Human - Catalan</Name>
     <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Infern</string> <!-- Inferno -->
+            <string>Forn</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
       <Continental>
         <NameGroup>
           <Name>Planets - Based on real places</Name>
@@ -12,16 +21,39 @@
           </Values>
         </NameGroup>
       </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Aquari</string> <!-- Aquarium -->
+            <string>Oceania</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
       <Gaia>
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
             <string>Cel</string> <!-- Sky -->
+            <string>Déu</string> <!-- God -->
             <string>Paradís</string> <!-- Paradise -->
             <string>Serenitat</string> <!-- Serenity -->
+            <string>Temple</string> <!-- Temple -->
           </Values>
         </NameGroup>
       </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Cementiri</string> <!-- Graveyard -->
+            <string>Cendra</string> <!-- Cinder -->
+            <string>Enderrocs</string> <!-- Rubble -->
+            <string>Làpida</string> <!-- Tombstone -->
+            <string>Ruïna</string> <!-- Ruin -->
+          </Values>
+        </NameGroup>
+      </Tomb>
     </Planets>
   </NameList>
 </ArrayOfNameList>

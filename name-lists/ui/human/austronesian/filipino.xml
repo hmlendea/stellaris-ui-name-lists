@@ -4,14 +4,25 @@
     <Id>ui_human_filipino</Id>
     <Name>Universum Infinitum - Human - Filipino</Name>
     <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Impiyerno</string> <!-- Inferno -->
+            <string>Oven</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
       <Gaia>
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
+            <string>Bathala</string> <!-- God -->
             <string>Kagandahan</string> <!-- Splendor -->
             <string>Kalangitan</string> <!-- Sky -->
             <string>Kaligayahan</string> <!-- Serenity -->
             <string>Paraiso</string> <!-- Paradise -->
+            <string>Simbahan</string> <!-- Temple -->
           </Values>
         </NameGroup>
       </Gaia>
@@ -22,7 +33,29 @@
             <string>Bagong Maynila</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Akwaryum</string> <!-- Aquarium -->
+            <string>Oseanya</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
       </Ocean>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Abo</string> <!-- Cinder -->
+            <string>Bato ng Libingan</string> <!-- Tombstone -->
+            <string>Digmaan</string> <!-- War -->
+            <string>Ghetto</string> <!-- Ghetto -->
+            <string>Gupit</string> <!-- Rubble -->
+            <string>Kripta</string> <!-- Crypt -->
+            <string>Libingan</string> <!-- Graveyard -->
+            <string>Pagkalugi</string> <!-- Ruin -->
+          </Values>
+        </NameGroup>
+      </Tomb>
     </Planets>
   </NameList>
 </ArrayOfNameList>

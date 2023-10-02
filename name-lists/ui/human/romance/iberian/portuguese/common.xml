@@ -4,17 +4,49 @@
     <Id>ui_human_portuguese_common</Id>
     <Name>Universum Infinitum - Human - Portuguese (Common)</Name>
     <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Inferno</string> <!-- Inferno -->
+            <string>Forno</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Aquário</string> <!-- Aquarium -->
+            <string>Oceânia</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
       <Gaia>
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
             <string>Céu</string> <!-- Sky -->
-            <string>Pratap</string> <!-- Splendor -->
+            <string>Deus</string> <!-- God -->
             <string>Paraíso</string> <!-- Paradise -->
+            <string>Pratap</string> <!-- Splendor -->
             <string>Serenidade</string> <!-- Serenity -->
+            <string>Templo</string> <!-- Temple -->
           </Values>
         </NameGroup>
       </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Cemitério</string> <!-- Graveyard -->
+            <string>Cinza</string> <!-- Cinder -->
+            <string>Entulho</string> <!-- Rubble -->
+            <string>Lápide</string> <!-- Tombstone -->
+            <string>Ruína</string> <!-- Ruin -->
+          </Values>
+        </NameGroup>
+      </Tomb>
     </Planets>
   </NameList>
 </ArrayOfNameList>

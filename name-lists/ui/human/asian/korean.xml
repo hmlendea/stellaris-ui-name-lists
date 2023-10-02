@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>ui_human_japanese</Id>
-    <Name>Universum Infinitum - Human - Japanese</Name>
+    <Id>ui_human_korean</Id>
+    <Name>Universum Infinitum - Human - Korean</Name>
     <Planets>
       <Desert>
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Jigoku</string> <!-- Inferno -->
-            <string>Ōbun</string> <!-- Oven -->
+            <string>Jiok</string> <!-- Inferno -->
+            <string>Obun</string> <!-- Oven -->
           </Values>
         </NameGroup>
       </Desert>
@@ -17,8 +17,8 @@
         <NameGroup>
           <Name>Planets - Based on real places</Name>
           <Values>
-            <string>Shin Kyoto</string>
-            <string>Shin Tokyo</string>
+            <string>Sae Pyeongyang</string>
+            <string>Sae Seoul</string>
           </Values>
         </NameGroup>
       </Continental>
@@ -27,7 +27,7 @@
           <Name>Planets - Based on words</Name>
           <Values>
             <string>Oseania</string> <!-- Ocean -->
-            <string>Suizokukan</string> <!-- Aquarium -->
+            <string>Sujokgwan</string> <!-- Aquarium -->
           </Values>
         </NameGroup>
       </Ocean>
@@ -35,12 +35,12 @@
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Kami</string> <!-- God -->
-            <string>Kareino</string> <!-- Splendor -->
-            <string>Rakuenshi</string> <!-- Paradise -->
-            <string>Seijakuno</string> <!-- Serenity -->
-            <string>Tenkūno</string> <!-- Sky -->
-            <string>Tera</string> <!-- Temple -->
+            <string>Hananim</string> <!-- God -->
+            <string>Haneul</string> <!-- Sky -->
+            <string>Hwaryeo</string> <!-- Splendor -->
+            <string>Nakwon</string> <!-- Paradise -->
+            <string>Pyeongon</string> <!-- Serenity -->
+            <string>Sawon</string> <!-- Temple -->
           </Values>
         </NameGroup>
       </Gaia>
@@ -48,14 +48,14 @@
         <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
-            <string>Baisa</string> <!-- Cinder -->
-            <string>Bochi</string> <!-- Graveyard -->
-            <string>Boketsu</string> <!-- Crypt -->
-            <string>Gareki</string> <!-- Rubble -->
-            <string>Gettō</string> <!-- Ghetto -->
-            <string>Haikyo</string> <!-- Ruin -->
-            <string>Hakaseki</string> <!-- Tombstone -->
-            <string>Sensō</string> <!-- War -->
+            <string>Dolbi</string> <!-- Tombstone -->
+            <string>Dolmyeong-i</string> <!-- Rubble -->
+            <string>Getto</string> <!-- Ghetto -->
+            <string>Jatdeomi</string> <!-- Cinder -->
+            <string>Jeonjaeng</string> <!-- War -->
+            <string>Jihasil</string> <!-- Crypt -->
+            <string>Myoji</string> <!-- Graveyard -->
+            <string>Pyehu</string> <!-- Ruin -->
           </Values>
         </NameGroup>
       </Tomb>
