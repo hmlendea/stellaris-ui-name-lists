@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_ung_human_germanic</Id>
+    <Name>Generated - Universal Name Generator - Human - Germanic</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>Adelswalde</string>
+            <string>Balasch</string>
+            <string>Breiten</string>
+            <string>Budschau</string>
+            <string>Cornwald</string>
+            <string>Drusch</string>
+            <string>Dünkärschau</string>
+            <string>Eferdingen</string>
+            <string>Enten</string>
+            <string>Essenburg</string>
+            <string>Feldkirche</string>
+            <string>Geismark</string>
+            <string>Greutz</string>
+            <string>Gudenburg</string>
+            <string>Hollstein</string>
+            <string>Lachsel</string>
+            <string>Marshausen</string>
+            <string>Mecklingen</string>
+            <string>Mettenberg</string>
+            <string>Militz</string>
+            <string>Mitten</string>
+            <string>Mudenthal</string>
+            <string>Nessen</string>
+            <string>Oberbach</string>
+            <string>Ossenringen</string>
+            <string>Plankenstein</string>
+            <string>Posenfurt</string>
+            <string>Reiche</string>
+            <string>Rennien</string>
+            <string>Rinfeld</string>
+            <string>Roggen</string>
+            <string>Schwarzenland</string>
+            <string>Skagenfurt</string>
+            <string>Taubenbüren</string>
+            <string>Tegerfeld</string>
+            <string>Thessau</string>
+            <string>Thole</string>
+            <string>Traunschweig</string>
+            <string>Wassel</string>
+            <string>Wassenien</string>
+            <string>Wattenburg</string>
+            <string>Weisshügel</string>
+            <string>Willingen</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
