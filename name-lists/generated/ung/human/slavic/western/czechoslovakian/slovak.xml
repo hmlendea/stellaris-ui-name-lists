@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_ung_human_slovak</Id>
+    <Name>Generated - Universal Name Generator - Human - Slovak</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>Bakov</string>
+            <string>Boleslava</string>
+            <string>Brianska</string>
+            <string>Čenstochov</string>
+            <string>Čerka</string>
+            <string>Grodna</string>
+            <string>Gudžary</string>
+            <string>Hirošilovgrad</string>
+            <string>Hrodno</string>
+            <string>Rábsko</string>
+            <string>Svište</string>
+            <string>Ťačov</string>
+            <string>Vinohrad</string>
+            <string>Žilini</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

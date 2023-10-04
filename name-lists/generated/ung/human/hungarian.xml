@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_ung_human_greek</Id>
+    <Name>Generated - Universal Name Generator - Human - Greek</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>Borosz</string>
+            <string>Borudzsán</string>
+            <string>Csebokszárd</string>
+            <string>Dassza</string>
+            <string>Huszvár</string>
+            <string>Karácsország</string>
+            <string>Kézdivásár</string>
+            <string>Moldvarhely</string>
+            <string>Nagyhalma</string>
+            <string>Szalambóc</string>
+            <string>Szatmárton</string>
+            <string>Szentína</string>
+            <string>Szõcsvár</string>
+            <string>Thásza</string>
+            <string>Toszkár</string>
+            <string>Zebvasalföld</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

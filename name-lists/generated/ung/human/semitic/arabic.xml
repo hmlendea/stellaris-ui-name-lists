@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_ung_human_arabic</Id>
+    <Name>Generated - Universal Name Generator - Human - Arabic</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>al-Gayda</string>
+            <string>al-Hurīyah</string>
+            <string>al-Jadida</string>
+            <string>al-Mansela</string>
+            <string>ar-Rustan</string>
+            <string>Dubayl</string>
+            <string>Haramun</string>
+            <string>Qandiyānā</string>
+            <string>Qashim</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
