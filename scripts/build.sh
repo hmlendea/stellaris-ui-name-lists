@@ -153,9 +153,10 @@ ARMENIAN_NAMELISTS=$(get-namelists-merged ${ARMENIAN_REAL_NAMELISTS} ${ARMENIAN_
 #############
 ASIAN_COMMON_REAL_NAMELISTS="real/asian/common real/common real/common/_"
 
+CHINESE_GENERATED_NAMELISTS="media/alien/human/asian/chinese media/civbe/human/asian/chinese media/dishonored/asian/chinese media/pandora/human/asian/chinese media/stellaris/human/asian/chinese media/ypp/asian/chinese ui/human/asian/chinese"
 CHINESE_MEDIA_NAMELISTS="media/alien/human/asian/chinese media/civbe/human/asian/chinese media/dishonored/asian/chinese media/pandora/human/asian/chinese media/stellaris/human/asian/chinese media/ypp/asian/chinese ui/human/asian/chinese"
 CHINESE_REAL_NAMELISTS="real/asian/chinese/chinese real/asian/chinese/taiwanese ${ASIAN_COMMON_REAL_NAMELISTS}"
-CHINESE_NAMELISTS=$(get-namelists-merged ${CHINESE_REAL_NAMELISTS} ${CHINESE_MEDIA_NAMELISTS})
+CHINESE_NAMELISTS=$(get-namelists-merged ${CHINESE_REAL_NAMELISTS} ${CHINESE_MEDIA_NAMELISTS} ${CHINESE_GENERATED_NAMELISTS})
 
 JAPANESE_GENERATED_NAMELISTS="generated/ung/human/asian/japanese"
 JAPANESE_MEDIA_NAMELISTS="media/alien/human/asian/japanese media/pandora/human/asian/japanese media/stellaris/human/asian/japanese media/ypp/asian/japanese ui/human/asian/japanese"
@@ -178,7 +179,7 @@ VIETNAMESE_MEDIA_NAMELISTS="media/civbe/human/asian/vietnamese"
 VIETNAMESE_REAL_NAMELISTS="real/asian/vietnamese ${ASIAN_COMMON_REAL_NAMELISTS}"
 VIETNAMESE_NAMELISTS=$(get-namelists-merged ${VIETNAMESE_REAL_NAMELISTS} ${VIETNAMESE_MEDIA_NAMELISTS})
 
-ASIAN_GENERATED_NAMELISTS=$(get-namelists-merged ${JAPANESE_GENERATED_NAMELISTS})
+ASIAN_GENERATED_NAMELISTS=$(get-namelists-merged ${CHINESE_GENERATED_NAMELISTS} ${JAPANESE_GENERATED_NAMELISTS})
 ASIAN_MEDIA_NAMELISTS=$(get-namelists-merged ${CHINESE_MEDIA_NAMELISTS} ${JAPANESE_MEDIA_NAMELISTS} ${KOREAN_MEDIA_NAMELISTS} ${MONGOL_MEDIA_NAMELISTS} ${TIBETAN_MEDIA_NAMELISTS} ${VIETNAMESE_MEDIA_NAMELISTS})
 ASIAN_REAL_NAMELISTS=$(get-namelists-merged ${CHINESE_REAL_NAMELISTS} ${JAPANESE_REAL_NAMELISTS} ${KOREAN_REAL_NAMELISTS} ${MONGOL_REAL_NAMELISTS} ${TIBETAN_REAL_NAMELISTS} ${VIETNAMESE_REAL_NAMELISTS})
 ASIAN_NAMELISTS=$(get-namelists-merged ${ASIAN_REAL_NAMELISTS} ${ASIAN_MEDIA_NAMELISTS} ${ASIAN_GENERATED_NAMELISTS})
@@ -295,23 +296,29 @@ ELDERSCROLLS_HUMAN_NAMELISTS="${ELDERSCROLLS_HUMAN_BRETON_NAMELISTS} ${ELDERSCRO
 ###############
 ### ENGLISH ###
 ###############
+ENGLISH_COMMON_GENERATED_NAMELISTS="generated/ung/human/english/common"
 ENGLISH_COMMON_MEDIA_NAMELISTS="media/aow/planetfall/human/english/common media/elderscrolls/human/breton/english media/elderscrolls/human/imperial/english media/foundation/english media/galciv/human/english media/pandora/human/english/common media/paxnova/human/english/common media/runescape/human/kandarin/english media/runescape/human/misthalinian/english media/starcraft/human/english/common media/stellaris/human/english/common media/ypp/english/common media/other/human/english/common ui/human/english/common"
+ENGLISH_COMMON_REAL_NAMELISTS="real/english/common real/common real/common/_"
 
+ENGLISH_USA_GENERATED_NAMELISTS=$(get-namelists-merged ${ENGLISH_COMMON_GENERATED_NAMELISTS})
 ENGLISH_USA_MEDIA_NAMELISTS="media/civbe/human/english/american media/pandora/human/english/american media/starcraft/human/english/american/american media/stellaris/human/english/american/american media/other/human/english/american/american ${ENGLISH_COMMON_MEDIA_NAMELISTS}"
-ENGLISH_USA_REAL_NAMELISTS="real/english/american/american real/english/american/common real/english/common real/common real/common/_"
-ENGLISH_USA_NAMELISTS=$(get-namelists-merged ${ENGLISH_USA_REAL_NAMELISTS} ${ENGLISH_USA_MEDIA_NAMELISTS})
+ENGLISH_USA_REAL_NAMELISTS="real/english/american/american real/english/american/common ${ENGLISH_COMMON_REAL_NAMELISTS}"
+ENGLISH_USA_NAMELISTS=$(get-namelists-merged ${ENGLISH_USA_REAL_NAMELISTS} ${ENGLISH_USA_MEDIA_NAMELISTS} ${ENGLISH_USA_GENERATED_NAMELISTS})
 
+ENGLISH_NORTHAMERICAN_GENERATED_NAMELISTS=$(get-namelists-merged ${ENGLISH_USA_GENERATED_NAMELISTS} ${ENGLISH_COMMON_GENERATED_NAMELISTS})
 ENGLISH_NORTHAMERICAN_MEDIA_NAMELISTS=$(get-namelists-merged ${ENGLISH_USA_MEDIA_NAMELISTS} media/stellaris/human/english/american/canadian ${ENGLISH_COMMON_MEDIA_NAMELISTS})
-ENGLISH_NORTHAMERICAN_REAL_NAMELISTS=$(get-namelists-merged ${ENGLISH_USA_REAL_NAMELISTS} real/english/american/canadian real/english/american/common real/english/common real/common real/common/_)
-ENGLISH_NORTHAMERICAN_NAMELISTS=$(get-namelists-merged ${ENGLISH_NORTHAMERICAN_MEDIA_NAMELISTS} ${ENGLISH_NORTHAMERICAN_REAL_NAMELISTS})
+ENGLISH_NORTHAMERICAN_REAL_NAMELISTS=$(get-namelists-merged ${ENGLISH_USA_REAL_NAMELISTS} real/english/american/canadian real/english/american/common ${ENGLISH_COMMON_REAL_NAMELISTS})
+ENGLISH_NORTHAMERICAN_NAMELISTS=$(get-namelists-merged ${ENGLISH_NORTHAMERICAN_MEDIA_NAMELISTS} ${ENGLISH_NORTHAMERICAN_REAL_NAMELISTS} ${ENGLISH_NORTHAMERICAN_GENERATED_NAMELISTS})
 
+ENGLISH_EURO_GENERATED_NAMELISTS=$(get-namelists-merged generated/ung/human/english/english ${ENGLISH_COMMON_GENERATED_NAMELISTS})
 ENGLISH_EURO_MEDIA_NAMELISTS="media/alien/human/english/british media/civbe/human/english/british media/dune/english/english media/pandora/human/english/english media/pandora/human/english/british media/starcraft/human/english/english media/stellaris/human/english/english media/stellaris/human/english/british media/witcher/human/english/british media/ypp/english/english media/ypp/english/british media/other/human/english/british ui/human/english/english ${ENGLISH_COMMON_MEDIA_NAMELISTS}"
-ENGLISH_EURO_REAL_NAMELISTS="real/english/english real/english/british real/english/common real/common/european real/common real/common/_"
-ENGLISH_EURO_NAMELISTS=$(get-namelists-merged ${ENGLISH_EURO_MEDIA_NAMELISTS} ${ENGLISH_EURO_REAL_NAMELISTS})
+ENGLISH_EURO_REAL_NAMELISTS="real/english/english real/english/british real/common/european ${ENGLISH_COMMON_REAL_NAMELISTS}"
+ENGLISH_EURO_NAMELISTS=$(get-namelists-merged ${ENGLISH_EURO_MEDIA_NAMELISTS} ${ENGLISH_EURO_REAL_NAMELISTS} ${ENGLISH_EURO_GENERATED_NAMELISTS})
 
+ENGLISH_OCEANIAN_GENERATED_NAMELISTS=$(get-namelists-merged ${ENGLISH_COMMON_GENERATED_NAMELISTS})
 ENGLISH_OCEANIAN_MEDIA_NAMELISTS="media/civbe/human/english/australian ${ENGLISH_COMMON_MEDIA_NAMELISTS}"
-ENGLISH_OCEANIAN_REAL_NAMELISTS="real/english/oceanian/australian real/english/oceanian/zealandian real/english/british real/english/common real/common real/common/_"
-ENGLISH_OCEANIAN_NAMELISTS=$(get-namelists-merged ${ENGLISH_OCEANIAN_MEDIA_NAMELISTS} ${ENGLISH_OCEANIAN_REAL_NAMELISTS})
+ENGLISH_OCEANIAN_REAL_NAMELISTS="real/english/oceanian/australian real/english/oceanian/zealandian real/english/british ${ENGLISH_COMMON_REAL_NAMELISTS}"
+ENGLISH_OCEANIAN_NAMELISTS=$(get-namelists-merged ${ENGLISH_OCEANIAN_MEDIA_NAMELISTS} ${ENGLISH_OCEANIAN_REAL_NAMELISTS} ${ENGLISH_OCEANIAN_NAMELISTS})
 
 ENGLISH_NAMELISTS=$(get-namelists-merged ${ENGLISH_NORTHAMERICAN_NAMELISTS} ${ENGLISH_EURO_NAMELISTS} ${ENGLISH_OCEANIAN_NAMELISTS})
 
@@ -465,9 +472,10 @@ CATALAN_MEDIA_NAMELISTS="media/civbe/human/romance/iberian/catalan ui/human/roma
 CATALAN_REAL_NAMELISTS="real/romance/iberian/catalan real/common/european ${IBERIAN_ROMANCE_COMMON_REAL_NAMELISTS}"
 CATALAN_NAMELISTS=$(get-namelists-merged ${CATALAN_REAL_NAMELISTS} ${CATALAN_MEDIA_NAMELISTS})
 
+ITALIAN_GENERATED_NAMELISTS="generated/ung/human/romance/italian"
 ITALIAN_MEDIA_NAMELISTS="media/civbe/human/romance/italian media/pandora/human/romance/italian media/starcraft/human/romance/italian ui/human/romance/italian"
 ITALIAN_REAL_NAMELISTS="real/romance/italian real/common/european real/common real/common/_"
-ITALIAN_NAMELISTS=$(get-namelists-merged ${ITALIAN_REAL_NAMELISTS} ${ITALIAN_MEDIA_NAMELISTS})
+ITALIAN_NAMELISTS=$(get-namelists-merged ${ITALIAN_REAL_NAMELISTS} ${ITALIAN_MEDIA_NAMELISTS} ${ITALIAN_GENERATED_NAMELISTS})
 
 LATIN_GENERATED_NAMELISTS="generated/letsmakeagame/human/romance/latin generated/ung/human/romance/latin"
 LATIN_MEDIA_NAMELISTS="media/borderlands/romance/latin media/civbe/human/romance/latin media/foundation/latin media/pandora/human/romance/latin media/sose/human/latin media/starcraft/human/romance/latin media/stellaris/human/romance/latin media/stellaris/human/original/spqr media/ypp/romance/latin ui/human/romance/latin"
@@ -492,6 +500,7 @@ PORTUGUESE_LATAM_REAL_NAMELISTS="real/romance/iberian/portuguese/brazilian ${POR
 PORTUGUESE_LATAM_NAMELISTS=$(get-namelists-merged ${PORTUGUESE_LATAM_REAL_NAMELISTS} ${PORTUGUESE_LATAM_MEDIA_NAMELISTS} ${PORTUGUESE_LATAM_GENERATED_NAMELISTS})
 PORTUGUESE_NAMELISTS=$(get-namelists-merged ${PORTUGUESE_AFRICAN_NAMELISTS} ${PORTUGUESE_EURO_NAMELISTS} ${PORTUGUESE_LATAM_NAMELISTS})
 
+ROMANIAN_GENERATED_NAMELISTS=""
 ROMANIAN_MEDIA_NAMELISTS="media/borderlands/romance/romanian media/stellaris/human/romance/romanian"
 ROMANIAN_REAL_NAMELISTS="real/romance/romanian real/common/european real/common real/common/_"
 ROMANIAN_NAMELISTS=$(get-namelists-merged ${ROMANIAN_REAL_NAMELISTS} ${ROMANIAN_MEDIA_NAMELISTS})
@@ -521,13 +530,16 @@ IBERIAN_EURO_REAL_NAMELISTS=$(get-namelists-merged ${IBERIAN_ROMANCE_EURO_REAL_N
 IBERIAN_EURO_NAMELISTS=$(get-namelists-merged ${IBERIAN_EURO_REAL_NAMELISTS} ${IBERIAN_EURO_MEDIA_NAMELISTS} ${IBERIAN_EURO_GENERATED_NAMELISTS})
 IBERIAN_NAMELISTS=$(get-namelists-merged ${IBERIAN_EURO_NAMELISTS} ${PORTUGUESE_NAMELISTS} ${SPANISH_NAMELISTS})
 
-ROMANCE_EURO_NAMELISTS=$(get-namelists-merged ${FRENCH_EURO_NAMELISTS} ${IBERIAN_ROMANCE_EURO_NAMELISTS} ${ITALIAN_NAMELISTS} ${LATIN_NAMELISTS} ${ROMANIAN_NAMELISTS})
+ROMANCE_EURO_GENERATED_NAMELISTS=$(get-namelists-merged ${FRENCH_EURO_GENERATED_NAMELISTS} ${IBERIAN_ROMANCE_EURO_GENERATED_NAMELISTS} ${ITALIAN_GENERATED_NAMELISTS} ${LATIN_GENERATED_NAMELISTS} ${ROMANIAN_GENERATED_NAMELISTS})
+ROMANCE_EURO_MEDIA_NAMELISTS=$(get-namelists-merged ${FRENCH_EURO_MEDIA_NAMELISTS} ${IBERIAN_ROMANCE_EURO_MEDIA_NAMELISTS} ${ITALIAN_MEDIA_NAMELISTS} ${LATIN_MEDIA_NAMELISTS} ${ROMANIAN_MEDIA_NAMELISTS})
+ROMANCE_EURO_REAL_NAMELISTS=$(get-namelists-merged ${FRENCH_EURO_REAL_NAMELISTS} ${IBERIAN_ROMANCE_EURO_REAL_NAMELISTS} ${ITALIAN_REAL_NAMELISTS} ${LATIN_REAL_NAMELISTS} ${ROMANIAN_REAL_NAMELISTS})
+ROMANCE_EURO_NAMELISTS=$(get-namelists-merged ${ROMANCE_EURO_REAL_NAMELISTS} ${ROMANCE_EURO_MEDIA_NAMELISTS} ${ROMANCE_EURO_GENERATED_NAMELISTS})
 ROMANCE_NAMELISTS=$(get-namelists-merged ${ROMANCE_EURO_NAMELISTS} ${FRENCH_NAMELISTS} ${IBERIAN_ROMANCE_NAMELISTS})
 
 ##############
 ### SLAVIC ###
 ##############
-SLAVIC_COMMON_GENERATED_NAMELISTS="generated/fng/human/slavic/common generated/letsmakeagame/human/slavic/common"
+SLAVIC_COMMON_GENERATED_NAMELISTS="generated/fng/human/slavic/common generated/letsmakeagame/human/slavic/common generated/ung/human/slavic/common"
 SLAVIC_COMMON_MEDIA_NAMELISTS="media/alien/human/slavic/common media/civbe/human/slavic/common media/dishonored/slavic/common media/elderscrolls/human/imperial/slavic media/paxnova/human/slavic/common media/starcraft/human/slavic/common media/witcher/human/slavic/common"
 SLAVIC_COMMON_REAL_NAMELISTS="real/slavic/common real/common/european real/common real/common/_"
 
@@ -594,15 +606,16 @@ SLAVIC_EASTERN_GENERATED_NAMELISTS="${RUSSIAN_GENERATED_NAMELISTS} ${SLAVIC_COMM
 SLAVIC_EASTERN_MEDIA_NAMELISTS=$(get-namelists-merged ${RUSSIAN_MEDIA_NAMELISTS} ${UKRAINIAN_MEDIA_NAMELISTS} ${BELARUSIAN_MEDIA_NAMELISTS} ${SLAVIC_EASTERN_COMMON_MEDIA_NAMELISTS} ${SLAVIC_COMMON_MEDIA_NAMELISTS})
 SLAVIC_EASTERN_REAL_NAMELISTS=$(get-namelists-merged ${RUSSIAN_REAL_NAMELISTS} ${UKRAINIAN_REAL_NAMELISTS} ${BELARUSIAN_REAL_NAMELISTS} ${SLAVIC_COMMON_REAL_NAMELISTS})
 SLAVIC_EASTERN_NAMELISTS=$(get-namelists-merged ${SLAVIC_EASTERN_REAL_NAMELISTS} ${SLAVIC_EASTERN_MEDIA_NAMELISTS} ${SLAVIC_EASTERN_GENERATED_NAMELISTS})
+SLAVIC_SOUTHERN_GENERATED_NAMELISTS=$(get-namelists-merged ${YUGOSLAVIC_GENERATED_NAMELISTS} ${SLAVIC_COMMON_GENERATED_NAMELISTS})
 SLAVIC_SOUTHERN_MEDIA_NAMELISTS=$(get-namelists-merged ${YUGOSLAVIC_MEDIA_NAMELISTS} ${SLAVIC_COMMON_MEDIA_NAMELISTS})
 SLAVIC_SOUTHERN_REAL_NAMELISTS=$(get-namelists-merged ${YUGOSLAVIC_REAL_NAMELISTS} ${BULGARIAN_REAL_NAMELISTS})
-SLAVIC_SOUTHERN_NAMELISTS=$(get-namelists-merged ${SLAVIC_SOUTHERN_REAL_NAMELISTS} ${SLAVIC_SOUTHERN_MEDIA_NAMELISTS} ${SLAVIC_COMMON_GENERATED_NAMELISTS})
-SLAVIC_WESTERN_GENERATED_NAMELISTS=$(get-namelists-merged ${POLISH_GENERATED_NAMELISTS} ${SLAVIC_COMMON_GENERATED_NAMELISTS})
+SLAVIC_SOUTHERN_NAMELISTS=$(get-namelists-merged ${SLAVIC_SOUTHERN_REAL_NAMELISTS} ${SLAVIC_SOUTHERN_MEDIA_NAMELISTS} ${SLAVIC_SOUTHERN_GENERATED_NAMELISTS} ${SLAVIC_COMMON_GENERATED_NAMELISTS})
+SLAVIC_WESTERN_GENERATED_NAMELISTS=$(get-namelists-merged ${CZECHOSLOVAKIAN_GENERATED_NAMELISTS} ${POLISH_GENERATED_NAMELISTS} ${SLAVIC_COMMON_GENERATED_NAMELISTS})
 SLAVIC_WESTERN_MEDIA_NAMELISTS=$(get-namelists-merged ${CZECHOSLOVAKIAN_MEDIA_NAMELISTS} ${POLISH_MEDIA_NAMELISTS} ${SLAVIC_COMMON_MEDIA_NAMELISTS})
 SLAVIC_WESTERN_REAL_NAMELISTS=$(get-namelists-merged ${CZECHOSLOVAKIAN_REAL_NAMELISTS} ${POLISH_REAL_NAMELISTS} ${SLAVIC_COMMON_REAL_NAMELISTS})
 SLAVIC_WESTERN_NAMELISTS=$(get-namelists-merged ${SLAVIC_WESTERN_REAL_NAMELISTS} ${SLAVIC_WESTERN_MEDIA_NAMELISTS} ${SLAVIC_WESTERN_GENERATED_NAMELISTS})
 
-SLAVIC_GENERATED_NAMELISTS=$(get-namelists-merged ${SLAVIC_EASTERN_GENERATED_NAMELISTS} ${SLAVIC_WESTERN_GENERATED_NAMELISTS} ${SLAVIC_COMMON_GENERATED_NAMELISTS})
+SLAVIC_GENERATED_NAMELISTS=$(get-namelists-merged ${SLAVIC_EASTERN_GENERATED_NAMELISTS} ${SLAVIC_SOUTHERN_GENERATED_NAMELISTS} ${SLAVIC_WESTERN_GENERATED_NAMELISTS} ${SLAVIC_COMMON_GENERATED_NAMELISTS})
 SLAVIC_MEDIA_NAMELISTS=$(get-namelists-merged ${SLAVIC_EASTERN_MEDIA_NAMELISTS} ${SLAVIC_SOUTHERN_MEDIA_NAMELISTS} ${SLAVIC_WESTERN_MEDIA_NAMELISTS} media/warhammer/fantasy/human/kislev ${SLAVIC_COMMON_MEDIA_NAMELISTS})
 SLAVIC_REAL_NAMELISTS=$(get-namelists-merged ${SLAVIC_EASTERN_REAL_NAMELISTS} ${SLAVIC_SOUTHERN_REAL_NAMELISTS} ${SLAVIC_WESTERN_REAL_NAMELISTS} ${SLAVIC_COMMON_REAL_NAMELISTS})
 SLAVIC_NAMELISTS=$(get-namelists-merged ${SLAVIC_REAL_NAMELISTS} ${SLAVIC_MEDIA_NAMELISTS} ${SLAVIC_GENERATED_NAMELISTS})
@@ -644,8 +657,8 @@ RUNESCAPE_HUMAN_NAMELISTS="media/runescape/human/asgarnian media/runescape/human
 ################
 ### EUROPEAN ###
 ################
-EUROPEAN_GENERATED_NAMELISTS=$(get-namelists-merged ${GERMANIC_EURO_GENERATED_NAMELISTS} ${HUNGARIAN_GENERATED_NAMELISTS} ${LATIN_GENERATED_NAMELISTS} ${SLAVIC_GENERATED_NAMELISTS})
-EUROPEAN_MEDIA_NAMELISTS=$(get-namelists-merged ${BALTIC_MEDIA_NAMELISTS} ${CELTIC_MEDIA_NAMELISTS} ${ENGLISH_EURO_MEDIA_NAMELISTS} ${GERMANIC_EURO_MEDIA_NAMELISTS} ${HELLENIC_MEDIA_NAMELISTS} ${HUNGARIAN_MEDIA_NAMELISTS} ${IBERIAN_EURO_MEDIA_NAMELISTS} ${ROMANCE_EURO_MEDIA_NAMELISTS} ${SLAVIC_MEDIA_NAMELISTS} media/runescape/human/asgarnian media/runescape/human/kandarin/_ media/runescape/human/misthalinian/english media/runescape/human/misthalinian/_ media/runescape/human/common)
+EUROPEAN_GENERATED_NAMELISTS=$(get-namelists-merged ${BALTIC_GENERATED_NAMELISTS} ${CELTIC_GENERATED_NAMELISTS} ${GERMANIC_EURO_GENERATED_NAMELISTS} ${HELLENIC_GENERATED_NAMELISTS} ${HUNGARIAN_GENERATED_NAMELISTS} ${ROMANCE_EURO_GENERATED_NAMELISTS} ${SLAVIC_GENERATED_NAMELISTS})
+EUROPEAN_MEDIA_NAMELISTS=$(get-namelists-merged ${BALTIC_MEDIA_NAMELISTS} ${CELTIC_MEDIA_NAMELISTS} ${ENGLISH_EURO_MEDIA_NAMELISTS} ${GERMANIC_EURO_MEDIA_NAMELISTS} ${HELLENIC_MEDIA_NAMELISTS} ${HUNGARIAN_MEDIA_NAMELISTS} ${IBERIAN_EURO_MEDIA_NAMELISTS} ${ROMANCE_EURO_MEDIA_NAMELISTS} ${SLAVIC_MEDIA_NAMELISTS} media/runescape/human/asgarnian media/runescape/human/kandarin/_ media/runescape/human/misthalinian/_ media/runescape/human/common)
 EUROPEAN_REAL_NAMELISTS=$(get-namelists-merged ${BALTIC_REAL_NAMELISTS} ${CELTIC_REAL_NAMELISTS} ${ENGLISH_EURO_REAL_NAMELISTS} ${GERMANIC_EURO_REAL_NAMELISTS} ${HELLENIC_REAL_NAMELISTS} ${HUNGARIAN_REAL_NAMELISTS} ${IBERIAN_EURO_REAL_NAMELISTS} ${ROMANCE_EURO_REAL_NAMELISTS} ${SLAVIC_REAL_NAMELISTS} real/common real/common/_)
 EUROPEAN_NAMELISTS=$(get-namelists-merged ${EUROPEAN_REAL_NAMELISTS} ${EUROPEAN_MEDIA_NAMELISTS} ${EUROPEAN_GENERATED_NAMELISTS})
 

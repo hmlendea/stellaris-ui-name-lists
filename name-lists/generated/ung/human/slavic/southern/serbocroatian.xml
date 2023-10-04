@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>generated_ung_human_greek</Id>
-    <Name>Generated - Universal Name Generator - Human - Greek</Name>
+    <Id>generated_ung_human_serbocroatian</Id>
+    <Name>Generated - Universal Name Generator - Human - Serbo-Croatian</Name>
     <Planets>
       <Generic>
         <NameGroup>
