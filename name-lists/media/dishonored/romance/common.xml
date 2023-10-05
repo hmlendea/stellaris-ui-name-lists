@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>dishonored_human_celtic</Id>
-    <Name>Dishonored - Human - Celtic</Name>
+    <Id>dishonored_human_spanish_common</Id>
+    <Name>Dishonored - Human - Spanish (Common)</Name>
     <Places>
       <Cities>
         <NameGroup>
           <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
           <Values>
-            <string>Caltan</string>
-            <string>Fraeport</string>
+            <string>Bastillian</string>
+            <string>Cullero</string>
+            <string>Saggunto</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -19,8 +20,9 @@
         <NameGroup>
           <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
           <Values>
-            <string>Caltan</string>
-            <string>Fraeport</string>
+            <string>Bastillian</string>
+            <string>Cullero</string>
+            <string>Saggunto</string>
           </Values>
         </NameGroup>
       </Generic>

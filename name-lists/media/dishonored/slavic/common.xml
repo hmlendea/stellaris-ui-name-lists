@@ -9,6 +9,7 @@
           <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
           <Values>
             <string>Dabokva</string>
+            <string>Pradym</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -19,6 +20,7 @@
           <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
           <Values>
             <string>Dabokva</string>
+            <string>Pradym</string>
           </Values>
         </NameGroup>
       </Generic>

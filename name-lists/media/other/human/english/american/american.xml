@@ -15,14 +15,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Grand Theft Auto</Name>
-          <Values>
-            <string>Alderney</string> <!-- Alderney City -->
-            <string>Liberty</string> <!-- Liberty City -->
-            <string>Vice</string> <!-- Vice City -->
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Saints Row</Name>
           <Values>
             <string>Steelport</string>
@@ -92,23 +84,6 @@
       </ResearchStations>
     </Stations>
     <Planets>
-      <Tropical>
-        <NameGroup>
-          <Name>Cities - Grand Theft Auto</Name>
-          <Values>
-            <string>Vice</string> <!-- Vice City -->
-          </Values>
-        </NameGroup>
-      </Tropical>
-      <Continental>
-        <NameGroup>
-          <Name>Cities - Grand Theft Auto</Name>
-          <Values>
-            <string>Alderney</string> <!-- Alderney City -->
-            <string>Liberty</string> <!-- Liberty City -->
-          </Values>
-        </NameGroup>
-      </Continental>
       <Arid>
         <NameGroup>
           <Name>Cities - Fallout</Name>

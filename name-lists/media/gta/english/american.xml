@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>gta_human_american</Id>
+    <Name>Grand Theft Auto - Human - American</Name>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>States - Grand Theft Auto</Name>
+          <Values>
+            <string>Alderney</string>
+            <string>Guernsey</string> <!-- New Guernsey -->
+            <string>San Andreas</string>
+            <string>Yankton</string> <!-- North Yankton -->
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Grand Theft Auto</Name>
+          <Values>
+            <string>Alderney</string> <!-- Alderney City -->
+            <string>Bullworth</string>
+            <string>Carcer</string> <!-- City of Carcer -->
+            <string>Cottonmouth</string>
+            <string>Guernsey</string> <!-- Guernsey City -->
+            <string>Liberty</string> <!-- Liberty City -->
+            <string>Vice</string> <!-- Vice City -->
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Arid>
+        <NameGroup>
+          <Name>States - Grand Theft Auto</Name>
+          <Values>
+            <string>San Andreas</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Tropical>
+        <NameGroup>
+          <Name>Cities - Grand Theft Auto</Name>
+          <Values>
+            <string>Vice</string> <!-- Vice City -->
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Continental>
+        <NameGroup>
+          <Name>Cities - Grand Theft Auto</Name>
+          <Values>
+            <string>Alderney</string> <!-- Alderney City -->
+            <string>Bullworth</string>
+            <string>Carcer</string> <!-- City of Carcer -->
+            <string>Cottonmouth</string>
+            <string>Guernsey</string> <!-- Guernsey City -->
+            <string>Liberty</string> <!-- Liberty City -->
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Tundra>
+        <NameGroup>
+          <Name>Cities - Grand Theft Auto</Name>
+          <Values>
+            <string>Yankton</string> <!-- North Yankton -->
+          </Values>
+        </NameGroup>
+      </Tundra>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

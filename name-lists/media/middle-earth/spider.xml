@@ -5,7 +5,7 @@
     <Name>Middle Earth - Spider</Name>
     <Denonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Denonyms - Middle Earth</Name>
         <Values>
           <string>Ungol</string>
         </Values>
@@ -14,7 +14,7 @@
     <Places>
       <Regions>
         <NameGroup>
-          <Name>Regions</Name>
+          <Name>Regions - Middle Earth</Name>
           <Values>
             <string>Cirith Ungol</string>
             <string>Nan Dungortheb</string>
@@ -23,7 +23,7 @@
       </Regions>
       <Mountains>
         <NameGroup>
-          <Name>Mountains</Name>
+          <Name>Mountains - Middle Earth</Name>
           <Values>
             <string>Ephel Dúath</string>
             <string>Ered Gorgoroth</string>
@@ -34,7 +34,7 @@
     <GreatPersons>
       <OtherDeities>
         <NameGroup>
-          <Name>Deities</Name>
+          <Name>Deities - Middle Earth</Name>
           <Values>
             <string>Ungoliant</string>
           </Values>
@@ -42,7 +42,7 @@
       </OtherDeities>
       <Heroes>
         <NameGroup>
-          <Name>Heroes - Memes</Name>
+          <Name>Heroes - Middle Earth</Name>
           <Values>
             <string>Shelob</string>
           </Values>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_middle-earth_human</Id>
+    <Name>Middle Earth - Human</Name>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - Middle Earth</Name>
+          <Values>
+            <string>Mordor</string>
+            <string>Rohan</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+    </Places>
+    <Planets>
+      <Tundra>
+        <NameGroup>
+          <Name>Countries - Middle Earth</Name>
+          <Values>
+            <string>Rohan</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+      <Tomb>
+        <NameGroup>
+          <Name>Countries - Middle Earth</Name>
+          <Values>
+            <string>Mordor</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -1,29 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>dishonored_human_celtic</Id>
-    <Name>Dishonored - Human - Celtic</Name>
+    <Id>gta_spanish_german</Id>
+    <Name>Grand Theft Auto - German</Name>
     <Places>
       <Cities>
         <NameGroup>
-          <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
+          <Name>Cities - Grand Theft Auto</Name> <!-- North Yankton -->
           <Values>
-            <string>Caltan</string>
-            <string>Fraeport</string>
+            <string>Ludendorff</string>
           </Values>
         </NameGroup>
       </Cities>
     </Places>
     <Planets>
-      <Generic>
+      <Tundra>
         <NameGroup>
-          <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
+          <Name>Cities - Grand Theft Auto</Name> <!-- North Yankton -->
           <Values>
-            <string>Caltan</string>
-            <string>Fraeport</string>
+            <string>Ludendorff</string>
           </Values>
         </NameGroup>
-      </Generic>
+      </Tundra>
     </Planets>
   </NameList>
 </ArrayOfNameList>
