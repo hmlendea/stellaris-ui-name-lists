@@ -120,12 +120,12 @@ AFRICAN_REAL_MEDIA_NAMELISTS="real/african/others real/african/common real/commo
 
 AFRICAN_BANTU_COMMON_MEDIA_NAMELISTS=$(get-namelists-merged media/ypp/african/bantu/common ${AFRICAN_COMMON_MEDIA_NAMELISTS})
 
-SWAHILI_MEDIA_NAMELISTS="media/dishonored/human/african/swahili media/galactik-football/human/african/swahili media/starcraft/human/african/swahili media/stellaris/human/african/swahili ${AFRICAN_BANTU_COMMON_MEDIA_NAMELISTS}"
+SWAHILI_MEDIA_NAMELISTS="media/dishonored/african/swahili media/galactik-football/african/swahili media/starcraft/human/african/swahili media/stellaris/human/african/swahili ${AFRICAN_BANTU_COMMON_MEDIA_NAMELISTS}"
 SWAHILI_REAL_NAMELISTS="real/african/swahili ${AFRICAN_REAL_MEDIA_NAMELISTS}"
 SWAHILI_NAMELISTS=$(get-namelists-merged ${SWAHILI_REAL_NAMELISTS} ${SWAHILI_MEDIA_NAMELISTS})
 
 AFRICAN_MEDIA_NAMELISTS="media/alien/human/african/congolese media/civbe/human/african/shona media/civbe/human/african/somali media/civbe/human/african/swahili \
-media/civbe/human/african/tswana media/civbe/human/african/xhosa media/civbe/human/african/zulu media/gakactik-football/human/african/yoruba \
+media/civbe/human/african/tswana media/civbe/human/african/xhosa media/civbe/human/african/zulu media/galactik-football/african/yoruba \
 media/marvel/human/african/common media/pandora/human/african/common media/paxnova/human/african/common \
 ${SWAHILI_MEDIA_NAMELISTS} ${AFRICAN_COMMON_MEDIA_NAMELISTS}"
 AFRICAN_REAL_NAMELISTS="real/african/algerian real/african/chadian real/african/congolese real/african/eritrean real/african/ethiopian \
@@ -304,7 +304,7 @@ ENGLISH_COMMON_MEDIA_NAMELISTS="media/aow/planetfall/human/english/common media/
 ENGLISH_COMMON_REAL_NAMELISTS="real/english/common real/common real/common/_"
 
 ENGLISH_USA_GENERATED_NAMELISTS=$(get-namelists-merged ${ENGLISH_COMMON_GENERATED_NAMELISTS})
-ENGLISH_USA_MEDIA_NAMELISTS="media/civbe/human/english/american media/gta/human/english/american media/pandora/human/english/american media/starcraft/human/english/american/american media/stellaris/human/english/american/american media/other/human/english/american/american ${ENGLISH_COMMON_MEDIA_NAMELISTS}"
+ENGLISH_USA_MEDIA_NAMELISTS="media/civbe/human/english/american media/gta/english/american media/pandora/human/english/american media/starcraft/human/english/american/american media/stellaris/human/english/american/american media/other/human/english/american/american ${ENGLISH_COMMON_MEDIA_NAMELISTS}"
 ENGLISH_USA_REAL_NAMELISTS="real/english/american/american real/english/american/common ${ENGLISH_COMMON_REAL_NAMELISTS}"
 ENGLISH_USA_NAMELISTS=$(get-namelists-merged ${ENGLISH_USA_REAL_NAMELISTS} ${ENGLISH_USA_MEDIA_NAMELISTS} ${ENGLISH_USA_GENERATED_NAMELISTS})
 
@@ -385,7 +385,7 @@ HEBREW_NAMELISTS=$(get-namelists-merged ${HEBREW_REAL_NAMELISTS} ${HEBREW_MEDIA_
 ### HELLENIC ###
 ################
 HELLENIC_GENERATED_NAMELISTS="generated/ung/human/greek"
-HELLENIC_MEDIA_NAMELISTS="media/alien/human/hellenic/common media/civbe/human/greek media/dune/greek media/foundation/greek media/galactik-football/human/hellenic/common media/galciv/human/greek media/pandora/human/greek media/stellaris/human/hellenic/common media/starcraft/human/greek media/ypp/greek media/other/human/hellenic/common ui/human/hellenic/greek ui/human/hellenic/common"
+HELLENIC_MEDIA_NAMELISTS="media/alien/human/hellenic/common media/civbe/human/greek media/dune/greek media/foundation/greek media/galactik-football/greek media/galciv/human/greek media/pandora/human/greek media/stellaris/human/hellenic/common media/starcraft/human/greek media/ypp/greek media/other/human/hellenic/common ui/human/hellenic/greek ui/human/hellenic/common"
 HELLENIC_REAL_NAMELISTS="real/hellenic/cypriote real/hellenic/greek real/hellenic/common real/common/european real/common real/common/_"
 HELLENIC_NAMELISTS=$(get-namelists-merged ${HELLENIC_REAL_NAMELISTS} ${HELLENIC_MEDIA_NAMELISTS} ${HELLENIC_GENERATED_NAMELISTS})
 
@@ -415,7 +415,7 @@ NEPALI_MEDIA_NAMELISTS="${INDIAN_COMMON_MEDIA_NAMELISTS}"
 NEPALI_REAL_NAMELISTS="real/indian/nepali ${INDIAN_COMMON_REAL_NAMELISTS}"
 NEPALI_NAMELISTS=$(get-namelists-merged ${HINDI_REAL_NAMELISTS} ${HINDI_MEDIA_NAMELISTS})
 
-SANSKRIT_MEDIA_NAMELISTS="media/civbe/human/indian/sanskrit media/galactik-football/human/indian/sanskrit media/stellaris/human/indian/sanskrit ${INDIAN_COMMON_MEDIA_NAMELISTS}"
+SANSKRIT_MEDIA_NAMELISTS="media/civbe/human/indian/sanskrit media/galactik-football/indian/sanskrit media/stellaris/human/indian/sanskrit ${INDIAN_COMMON_MEDIA_NAMELISTS}"
 SANSKRIT_REAL_NAMELISTS="real/indian/sanskrit ${INDIAN_COMMON_REAL_NAMELISTS}"
 SANSKRIT_NAMELISTS=$(get-namelists-merged ${SANSKRIT_REAL_NAMELISTS} ${SANSKRIT_MEDIA_NAMELISTS})
 
@@ -434,7 +434,7 @@ INDIAN_NAMELISTS=$(get-namelists-merged ${INDIAN_REAL_NAMELISTS} ${INDIAN_MEDIA_
 #######################
 ### NATIVE AMERICAN ###
 #######################
-NATIVE_NORTH_AMERICAN_MEDIA_NAMELISTS="media/dishonored/human/american/native/northern/algonquian media/starcraft/human/american/native/northern/algonquian media/starcraft/human/american/native/northern/washo"
+NATIVE_NORTH_AMERICAN_MEDIA_NAMELISTS="media/dishonored/american/native/northern/algonquian media/starcraft/human/american/native/northern/algonquian media/starcraft/human/american/native/northern/washo"
 NATIVE_NORTH_AMERICAN_REAL_NAMELISTS="real/american/native/northern/algonquian real/american/native/northern/inuit real/american/native/northern/navajo real/american/native/northern/common"
 NATIVE_NORTH_AMERICAN_NAMELISTS=$(get-namelists-merged ${NATIVE_NORTH_AMERICAN_REAL_NAMELISTS} ${NATIVE_NORTH_AMERICAN_MEDIA_NAMELISTS})
 
@@ -476,7 +476,7 @@ CATALAN_REAL_NAMELISTS="real/romance/iberian/catalan real/common/european ${IBER
 CATALAN_NAMELISTS=$(get-namelists-merged ${CATALAN_REAL_NAMELISTS} ${CATALAN_MEDIA_NAMELISTS})
 
 ITALIAN_GENERATED_NAMELISTS="generated/ung/human/romance/italian"
-ITALIAN_MEDIA_NAMELISTS="media/civbe/human/romance/italian media/dishonored/human/romance/italian media/galactik-football/human/romance/italian media/pandora/human/romance/italian media/starcraft/human/romance/italian ui/human/romance/italian"
+ITALIAN_MEDIA_NAMELISTS="media/civbe/human/romance/italian media/dishonored/romance/italian media/galactik-football/romance/italian media/pandora/human/romance/italian media/starcraft/human/romance/italian ui/human/romance/italian"
 ITALIAN_REAL_NAMELISTS="real/romance/italian real/common/european real/common real/common/_"
 ITALIAN_NAMELISTS=$(get-namelists-merged ${ITALIAN_REAL_NAMELISTS} ${ITALIAN_MEDIA_NAMELISTS} ${ITALIAN_GENERATED_NAMELISTS})
 
