@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_ung_human_french</Id>
+    <Name>Generated - Universal Name Generator - Human - French</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>Allemont</string>
+            <string>Angevin</string>
+            <string>Barfleure</string>
+            <string>Basseneur</string>
+            <string>Bassonne</string>
+            <string>Bénissesse</string>
+            <string>Brielles</string>
+            <string>Cantagnes</string>
+            <string>Carmont</string>
+            <string>Céventin</string>
+            <string>Coville</string>
+            <string>Lattaquie</string>
+            <string>Lescareille</string>
+            <string>Marienne</string>
+            <string>Massine</string>
+            <string>Méditerre</string>
+            <string>Messé</string>
+            <string>Moline</string>
+            <string>Montaise</string>
+            <string>Norumbègues</string>
+            <string>Périgon</string>
+            <string>Rivières</string>
+            <string>Saint Émile</string>
+            <string>Sélinois</string>
+            <string>Soligny</string>
+            <string>Tonquière</string>
+            <string>Valette</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

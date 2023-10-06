@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_ung_human_greek</Id>
+    <Name>Generated - Universal Name Generator - Human - Greek</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>Bantiás</string>
+            <string>Bharakēsiōn</string>
+            <string>Boukelona</string>
+            <string>Breskos</string>
+            <string>Chaléstrē</string>
+            <string>Ermoúpolis</string>
+            <string>Eusébeia</string>
+            <string>Geroukia</string>
+            <string>Gynaikos</string>
+            <string>Hydrou</string>
+            <string>Inoménon</string>
+            <string>Ioulikon</string>
+            <string>Kalákon</string>
+            <string>Kastrovion</string>
+            <string>Kiphaistía</string>
+            <string>Kýnai</string>
+            <string>Kýnaitha</string>
+            <string>Lakedonía</string>
+            <string>Lónkastron</string>
+            <string>Nássarṓn</string>
+            <string>Ocháita</string>
+            <string>Oxýrrha</string>
+            <string>Pelénda</string>
+            <string>Phálkonisía</string>
+            <string>Skámandike</string>
+            <string>Soumántion</string>
+            <string>Theodosion</string>
+            <string>Verolína</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

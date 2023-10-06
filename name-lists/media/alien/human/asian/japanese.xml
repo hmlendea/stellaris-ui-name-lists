@@ -3,6 +3,16 @@
   <NameList>
     <Id>alien_human_japanese</Id>
     <Name>Alien - Human - Japanese</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Alien</Name>
+          <Values>
+            <string>Shinowa</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
     <Companies>
       <RobotManufacturers>
         <NameGroup>
@@ -15,6 +25,12 @@
     </Companies>
     <Planets>
       <Generic>
+        <NameGroup>
+          <Name>Cities - Alien</Name>
+          <Values>
+            <string>Shinowa</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Planets - Alien</Name>
           <Values>

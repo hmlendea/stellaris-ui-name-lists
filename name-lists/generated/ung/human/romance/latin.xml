@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_ung_human_latin</Id>
+    <Name>Generated - Universal Name Generator - Human - Latin</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>Abulacum</string>
+            <string>Aemontium</string>
+            <string>Ammona</string>
+            <string>Aruntinum</string>
+            <string>Avona</string>
+            <string>Bellae</string>
+            <string>Bengalia</string>
+            <string>Blonia</string>
+            <string>Bocconium</string>
+            <string>Bravorus</string>
+            <string>Eusebia</string>
+            <string>Galinae</string>
+            <string>Imperius</string>
+            <string>Liminum</string>
+            <string>Lovadum</string>
+            <string>Manticum</string>
+            <string>Meldia</string>
+            <string>Oenoa</string>
+            <string>Orellum</string>
+            <string>Provatum</string>
+            <string>Scarbalis</string>
+            <string>Venona</string>
+            <string>Vertera</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

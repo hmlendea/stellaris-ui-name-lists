@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_fng_human_norse</Id>
+    <Name>Generated - FantasyNameGenerators - Human - Norse</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Generated</Name>
+          <Values>
+            <string>Ámáttrfold</string> <!-- loathsome + world -->
+            <string>Áræðiverǫld</string> <!-- courage + world -->
+            <string>Ariland</string> <!-- eagle + land -->
+            <string>Atalland</string> <!-- terrible + land -->
+            <string>Barsmiðfold</string> <!-- fight + world -->
+            <string>Blóðugrbjǫð</string> <!-- bloody + fields -->
+            <string>Blotjǫrð</string> <!-- sacrifice + world -->
+            <string>Brúland</string> <!-- bridge + land -->
+            <string>Endafold</string> <!-- end + world -->
+            <string>Erfigarðr</string> <!-- funeral feast + dwelling -->
+            <string>Fægirland</string> <!-- artist + land -->
+            <string>Fárbjóðrland</string> <!-- destroyer + land -->
+            <string>Félagiknǫttr</string> <!-- comrade + sphere -->
+            <string>Flárgarðr</string> <!-- treacherous + dwelling -->
+            <string>Fornjǫrð</string> <!-- ancient + world -->
+            <string>Frekibjǫð</string> <!-- wolf + fields -->
+            <string>Frekigarðr</string> <!-- wolf + dwelling -->
+            <string>Fróðleikrknǫttr</string> <!-- magic + sphere -->
+            <string>Fýstgarðr</string> <!-- desire + dwelling -->
+            <string>Grœnnheimr</string> <!-- green + land -->
+            <string>Hamarrfold</string> <!-- hammer + world -->
+            <string>Hamarrknǫttr</string> <!-- hammer + sphere -->
+            <string>Heimskrverǫld</string> <!-- foolish + world -->
+            <string>Herfiligrvegr</string> <!-- bitter + dimension -->
+            <string>Hǫfnvegr</string> <!-- harbor + dimension -->
+            <string>Holrbjǫð</string> <!-- hollow + fields -->
+            <string>Holrgarðr</string> <!-- hollow + dwelling -->
+            <string>Hræzlaheimr</string> <!-- terror + land -->
+            <string>Hvalrvegr</string> <!-- whale + dimension -->
+            <string>Illabiǫð</string> <!-- ill + land -->
+            <string>Járnland</string> <!-- iron + land -->
+            <string>Kappheimr</string> <!-- ardor + land -->
+            <string>Lágrverǫld</string> <!-- small + world -->
+            <string>Lindfold</string> <!-- shield + world -->
+            <string>Litlaussknǫttr</string> <!-- colorless + sphere -->
+            <string>Logabjǫð</string> <!-- blaze + fields -->
+            <string>Mærbiǫð</string> <!-- maiden + land -->
+            <string>Meinlaussbjǫð</string> <!-- sinless + fields -->
+            <string>Mengibjǫð</string> <!-- multitude + fields -->
+            <string>Mestrvegr</string> <!-- greatest + dimension -->
+            <string>Ofríkivegr</string> <!-- tyranny + dimension -->
+            <string>Ógæfabiǫð</string> <!-- misfortune + land -->
+            <string>Ógleðifold</string> <!-- depression + world -->
+            <string>Óhreinnvegr</string> <!-- impure + dimension -->
+            <string>Óttifold</string> <!-- dread + world -->
+            <string>Ráðgarðr</string> <!-- counsel + dwelling -->
+            <string>Rúmbjǫð</string> <!-- space + fields -->
+            <string>Undanheimr</string> <!-- under + land -->
+            <string>Veðrbjǫð</string> <!-- wind + fields -->
+            <string>Þverraheimr</string> <!-- diminish + land -->
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

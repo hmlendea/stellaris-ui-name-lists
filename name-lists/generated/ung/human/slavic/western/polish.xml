@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_ung_human_polish</Id>
+    <Name>Generated - Universal Name Generator - Human - Polish</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>Bołchowszcze</string>
+            <string>Borowka</string>
+            <string>Dźwino</string>
+            <string>Głowacja</string>
+            <string>Jerychów</string>
+            <string>Joszka</string>
+            <string>Juzowka</string>
+            <string>Kipczacz</string>
+            <string>Oldrzyszków</string>
+            <string>Pokarczew</string>
+            <string>Priszana</string>
+            <string>Telczyn</string>
+            <string>Wielkopol</string>
+            <string>Wiernów</string>
+            <string>Zambrówno</string>
+            <string>Zindżan</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

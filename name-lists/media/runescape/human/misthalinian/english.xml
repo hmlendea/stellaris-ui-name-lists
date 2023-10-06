@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>runescape_human_misthalinian_english</Id>
+    <Name>RuneScape - Human - Misthalinian (English)</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - RuneScape</Name>
+          <Values>
+            <string>Edgeville</string>
+            <string>Lumbridge</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers - RuneScape</Name>
+          <Values>
+            <string>Lum</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+    </Places>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Ships - RuneScape</Name>
+          <Values>
+            <string>Lady Lumbridge</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Ships>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Cities - RuneScape</Name>
+          <Values>
+            <string>Edgeville</string>
+            <string>Lumbridge</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Tomb>
+        <NameGroup>
+          <Name>Cities - RuneScape</Name>
+          <Values>
+            <string>Draynor</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

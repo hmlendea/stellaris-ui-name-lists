@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_ung_human_finnish</Id>
+    <Name>Generated - Universal Name Generator - Human - Finnish</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>Egeanmaa</string>
+            <string>Färsaarenmaa</string>
+            <string>Jersikaanpää</string>
+            <string>Kalampi</string>
+            <string>Kitiläinen</string>
+            <string>Lääne</string>
+            <string>Längeli</string>
+            <string>Virumpää</string>
+            <string>Virumpää</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

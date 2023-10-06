@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>galactik-football_italian</Id>
+    <Name>Foundation - Italian</Name>
+    <Planets>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Galactik Football</Name>
+          <Values>
+            <string>Oeno</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

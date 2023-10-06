@@ -8,6 +8,7 @@
         <NameGroup>
           <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
           <Values>
+            <string>Caltan</string>
             <string>Fraeport</string>
           </Values>
         </NameGroup>
@@ -18,6 +19,7 @@
         <NameGroup>
           <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
           <Values>
+            <string>Caltan</string>
             <string>Fraeport</string>
           </Values>
         </NameGroup>

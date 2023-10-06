@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>galactik-football_spanish</Id>
+    <Name>Foundation - Spanish</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Galactik Football</Name>
+          <Values>
+            <string>Menor</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Galactik Football</Name>
+          <Values>
+            <string>Escaron</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starcraft_human_french</Id>
+    <Name>StarCraft - Human - French</Name>
+    <Ships>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - StarCraft</Name>
+          <Values>
+            <string>Napoleon</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+    </Ships>
+  </NameList>
+</ArrayOfNameList>

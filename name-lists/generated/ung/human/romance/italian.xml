@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_ung_human_italian</Id>
+    <Name>Generated - Universal Name Generator - Human - Italian</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>Altopiano</string>
+            <string>Anguillara</string>
+            <string>Argento</string>
+            <string>Avezzane</string>
+            <string>Bressano</string>
+            <string>Cerigonio</string>
+            <string>Chioggiolo</string>
+            <string>Cismo</string>
+            <string>Cizza</string>
+            <string>Cretagna</string>
+            <string>Cristola</string>
+            <string>Ermagna</string>
+            <string>Fosso</string>
+            <string>Glaviopoli</string>
+            <string>Guardia</string>
+            <string>Lessico</string>
+            <string>Liccardo</string>
+            <string>Malenza</string>
+            <string>Mento</string>
+            <string>Provanni</string>
+            <string>Rocco</string>
+            <string>Sattali</string>
+            <string>Sebenicio</string>
+            <string>Sinferiore</string>
+            <string>Stocco</string>
+            <string>Tessano</string>
+            <string>Valvasia</string>
+            <string>Venasso</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Alpine>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>Montaglia</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+      <Tomb>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>Mortellona</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

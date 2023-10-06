@@ -9,7 +9,6 @@
         <Values>
           <string>Kel-Morian</string>
           <string>Terran</string>
-          <string>Umojan</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -18,207 +17,79 @@
         <NameGroup>
           <Name>Countries - StarCraft</Name>
           <Values>
-            <string>Confederacy</string>
-            <string>Dominion</string>
             <string>Kel-Moria</string>
-            <string>Umoja</string>
           </Values>
         </NameGroup>
       </Countries>
       <Cities>
         <NameGroup>
-          <Name>Cities - StarCraft</Name>
+          <Name>Cities - StarCraft</Name> <!-- Antiga Prime -->
           <Values>
-            <!-- Antiga Prime -->
             <string>Andasar</string>
-            <!-- Agria -->
-            <string>Megaton</string>
-            <!-- Braxis -->
-            <string>Boralis</string>
-            <!-- Chau Sara -->
-            <string>Los Andares</string>
-            <!-- Choss -->
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - StarCraft</Name> <!-- Choss -->
+          <Values>
             <string>Bim Battum</string>
-            <!-- Tarsonis -->
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - StarCraft</Name> <!-- Tarsonis -->
+          <Values>
             <string>Tarsonis</string>
-            <!-- Turaxis II -->
-            <string>Braddock</string>
-            <!-- Tyrandor IX -->
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - StarCraft</Name> <!-- Tyrandor IX -->
+          <Values>
             <string>Elsecaro</string>
-            <string>New Canaan</string>
-            <!-- Vyctor 5 -->
-            <string>Lockston</string>
-            <!-- Others -->
-            <string>Augustgrad</string>
-            <string>Backwater</string>
-            <string>Deadman's Port</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - StarCraft</Name> <!-- Others -->
+          <Values>
             <string>Mar Sara</string>
-            <string>Metalopolis</string>
-            <string>Spearpoint</string>
           </Values>
         </NameGroup>
       </Cities>
-      <Mountains>
-        <NameGroup>
-          <Name>Mountains - StarCraft</Name>
-          <Values>
-            <!-- Braxis -->
-            <string>Grendel</string>
-          </Values>
-        </NameGroup>
-      </Mountains>
     </Places>
     <Ships>
-      <Corvette>
-        <NameGroup>
-          <Name>Ships - StarCraft</Name>
-          <Values>
-            <string>Griffin</string>
-          </Values>
-        </NameGroup>
-      </Corvette>
-      <Cruiser>
-        <NameGroup>
-          <Name>Ships - StarCraft</Name>
-          <Values>
-            <string>Victory</string>
-          </Values>
-        </NameGroup>
-      </Cruiser>
       <Battleship>
         <NameGroup>
           <Name>Ships - StarCraft</Name>
           <Values>
-            <string>Aeneas</string>
-            <string>Aethon</string>
-            <string>Amphitrite</string>
-            <string>Antigone</string>
-            <string>Bismarck</string>
-            <string>Bucephalus</string>
-            <string>Cerberus</string>
             <string>Circe</string>
             <string>Cyrus</string>
-            <string>Dark Skies</string>
-            <string>Dominion's Revenge</string>
-            <string>Emperor's Fury</string>
             <string>Eos</string>
-            <string>Fury</string>
-            <string>Gray Tiger</string>
-            <string>Helios</string>
-            <string>Hephaestus</string>
-            <string>Herakles</string>
             <string>Hoosier</string>
             <string>Huey Long</string>
-            <string>Hyperion</string>
-            <string>Iron Fist</string>
-            <string>Iron Justice</string>
-            <string>Jackson's Revenge</string>
-            <string>Jackson</string>
             <string>Kimera</string>
             <string>Kimeran Juggernaut</string>
-            <string>Medusa</string>
-            <string>Meleager</string>
-            <string>Merrimack</string>
             <string>Metis</string>
-            <string>Napoleon</string>
-            <string>Norad</string>
             <string>Palatine</string>
-            <string>Patroclus</string>
-            <string>Phobos</string>
             <string>Ragnorak</string>
             <string>Scion</string>
-            <string>Tahoe</string>
-            <string>Theodore G. Bilbo</string>
-            <string>Thunder Child</string>
             <string>Titan</string>
             <string>Valor of Vardona</string>
-            <string>Victory</string>
-            <string>White Star</string>
           </Values>
         </NameGroup>
       </Battleship>
-      <Titan>
-        <NameGroup>
-          <Name>Ships - StarCraft</Name>
-          <Values>
-            <string>Aleksander</string>
-            <string>Loki</string>
-          </Values>
-        </NameGroup>
-      </Titan>
-      <Science>
-        <NameGroup>
-          <Name>Ships - StarCraft</Name>
-          <Values>
-            <string>Amerigo</string>
-            <string>Brin</string>
-          </Values>
-        </NameGroup>
-      </Science>
-      <Coloniser>
-        <NameGroup>
-          <Name>Ships - StarCraft</Name>
-          <Values>
-            <string>Argo</string>
-            <string>Nagglfar</string>
-          </Values>
-        </NameGroup>
-      </Coloniser>
-      <Transport>
-        <NameGroup>
-          <Name>Ships - StarCraft</Name>
-          <Values>
-            <string>Cormorant</string>
-            <string>Daisy</string>
-            <string>Hydrus</string>
-          </Values>
-        </NameGroup>
-      </Transport>
     </Ships>
     <ShipClasses>
-      <Corvette>
-        <NameGroup>
-          <Name>Ship Classes - StarCraft</Name>
-          <Values>
-            <string>Avenger</string>
-            <string>Banshee</string>
-            <string>Valkyrie</string>
-            <string>Viking</string>
-            <string>Wraith</string>
-          </Values>
-        </NameGroup>
-      </Corvette>
       <Battleship>
         <NameGroup>
           <Name>Ship Classes - StarCraft</Name>
           <Values>
-            <string>Behemoth</string>
-            <string>Gorgon</string>
-            <string>Hercules</string>
-            <string>Hurricane</string>
             <string>Leviathan</string>
-            <string>Minotaur</string>
-            <string>Moirai</string>
-            <string>Pride of Augustgrad</string>
-            <string>Sovereign</string>
-            <string>Starcruiser</string>
           </Values>
         </NameGroup>
       </Battleship>
-      <Science>
-        <NameGroup>
-          <Name>Ship Classes - StarCraft</Name>
-          <Values>
-            <string>Explorer</string>
-          </Values>
-        </NameGroup>
-      </Science>
       <Transport>
         <NameGroup>
           <Name>Ship Classes - StarCraft</Name>
           <Values>
             <string>Cyrus</string>
-            <string>Gladiator</string>
             <string>Hydrus</string>
             <string>Mammoth</string>
           </Values>
@@ -230,12 +101,8 @@
         <NameGroup>
           <Name>Mining Stations - StarCraft</Name>
           <Values>
-            <string>Avernus</string>
             <string>Char Aleph</string>
-            <string>Erebus</string>
-            <string>Revelation</string>
             <string>Sakrysta</string>
-            <string>Scrap</string>
             <string>Shi</string>
             <string>Sorona</string>
           </Values>
@@ -245,9 +112,6 @@
         <NameGroup>
           <Name>Research Stations - StarCraft</Name>
           <Values>
-            <string>Castanar</string>
-            <string>Immortal Forge</string>
-            <string>Prometheus</string>
             <string>Skygeirr</string>
           </Values>
         </NameGroup>
@@ -257,15 +121,8 @@
           <NameGroup>
             <Name>Military Stations - StarCraft</Name>
             <Values>
-              <string>Catwalk Alley</string>
-              <string>Gemini</string>
-              <string>Giddings</string>
               <string>Horley Barton</string>
-              <string>Nova</string>
-              <string>Osborne Port</string>
-              <string>Sky Shield</string>
               <string>Theta Prime</string>
-              <string>Waypoint Junction</string>
             </Values>
           </NameGroup>
         </Small>
@@ -273,32 +130,16 @@
           <NameGroup>
             <Name>Military Stations - StarCraft</Name>
             <Values>
-              <string>Crusader</string>
-              <string>Gutterhulk</string>
-              <string>New Gettysburg</string>
-              <string>Nimbus</string>
-              <string>Paladino Terminal</string>
-              <string>Proxima</string>
               <string>Sigma Centari</string>
             </Values>
           </NameGroup>
         </Medium>
-        <Large>
-          <NameGroup>
-            <Name>Military Stations - StarCraft</Name>
-            <Values>
-              <string>Gehanna</string>
-              <string>The Keep</string>
-            </Values>
-          </NameGroup>
-        </Large>
       </MilitaryStations>
       <Starbases>
         <Generic>
           <NameGroup>
             <Name>Starbases - StarCraft</Name>
             <Values>
-              <string>Atlas</string>
               <string>Dylar</string>
             </Values>
           </NameGroup>
@@ -307,61 +148,8 @@
     </Stations>
     <Armies>
       <FleetSequentialName>%O% Squadron</FleetSequentialName>
-      <Fleet>
-        <NameGroup>
-          <Name>Squadrons - StarCraft</Name>
-          <Values>
-            <string>Alpha Squadron</string>
-            <string>Delta Squadron</string>
-            <string>Epsilon Squadron</string>
-            <string>Gamma Squadron</string>
-            <string>Omega Squadron</string>
-            <string>Rho Squadron</string>
-            <string>Zeta Squadron</string>
-          </Values>
-        </NameGroup>
-      </Fleet>
       <DefenceArmySequentialName>%O% Colonial Militia</DefenceArmySequentialName>
-      <DefenceArmy>
-        <NameGroup>
-          <Name>Armies - StarCraft</Name>
-          <Values>
-            <string>Aegis Guard</string>
-            <string>Delta Company</string>
-            <string>Elite Guard</string>
-          </Values>
-        </NameGroup>
-      </DefenceArmy>
       <AssaultArmySequentialName>%O% Ground Assault Division</AssaultArmySequentialName>
-      <AssaultArmy>
-        <NameGroup>
-          <Name>Armies - StarCraft</Name>
-          <Values>
-            <string>Annihilators</string>
-            <string>Blackhammers</string>
-            <string>Brute Squad</string>
-            <string>Bulwark Company</string>
-            <string>Cerberus Squad</string>
-            <string>Charlie Squad</string>
-            <string>Death Heads</string>
-            <string>Death's Head Legion</string>
-            <string>Field Response Theta</string>
-            <string>Hammer Strike Force</string>
-            <string>Heaven's Devils</string>
-            <string>Hellbringers</string>
-            <string>Iron Jesters</string>
-            <string>Lost Wolves</string>
-            <string>Night Wolves</string>
-            <string>Outback Hunters</string>
-            <string>Prometheus Company</string>
-            <string>Shock Division</string>
-            <string>Sky Fury Squadron</string>
-            <string>Thundering Third</string>
-            <string>Torch Seven</string>
-            <string>War Pigs</string>
-          </Values>
-        </NameGroup>
-      </AssaultArmy>
       <OccupationArmySequentialName>%0% Garrison Force</OccupationArmySequentialName>
       <SlaveArmySequentialName>%O% Indentured Rifles</SlaveArmySequentialName>
       <CloneArmySequentialName>%O% Clone Division</CloneArmySequentialName>
@@ -372,61 +160,33 @@
       <AndroidDefenceArmySequentialName>%O% Synthetic Guard</AndroidDefenceArmySequentialName>
       <AndroidAssaultArmySequentialName>%O% Synthetic Force</AndroidAssaultArmySequentialName>
       <PsionicArmySequentialName>%O% Ghosts</PsionicArmySequentialName>
-      <PsionicArmy>
-        <NameGroup>
-          <Name>Armies - StarCraft</Name>
-          <Values>
-            <string>Nova Squadron</string>
-          </Values>
-        </NameGroup>
-      </PsionicArmy>
       <XenomorphArmySequentialName>%O% Death Flock</XenomorphArmySequentialName>
-      <XenomorphArmy>
-        <NameGroup>
-          <Name>Armies - StarCraft</Name>
-          <Values>
-            <string>The Tamed</string>
-          </Values>
-        </NameGroup>
-      </XenomorphArmy>
       <SuperSoldierArmySequentialName>%O% Resocialised Division</SuperSoldierArmySequentialName>
     </Armies>
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Planets - StarCraft - Unknown or unsure climate</Name>
+          <Name>Planets - StarCraft</Name> <!-- Unknown or unsure climate -->
           <Values>
-            <!-- Unknown or unsure climate -->
-            <string>Thys</string>
-            <string>Pegasus</string>
-            <string>Brontes</string>
             <string>Gohbus</string>
             <string>Torus</string>
-            <string>Valhalla</string>
-            <string>Bacchus</string>
             <string>Tal Qirat</string>
-            <string>Asteria</string>
-            <string>Marlowe</string>
             <string>Gelgaris</string>
-            <string>Demon's Fair</string>
-            <string>Jotun</string>
             <string>Parragos</string>
             <string>Pho-Rekh</string>
             <string>Tepperus</string>
             <string>Melkora</string>
             <string>Cirion</string>
-            <string>Great Bend</string>
-            <string>Chiron</string>
             <string>Ravera</string>
             <string>Seti</string>
             <string>Lakius</string>
             <string>Adena</string>
-            <!-- Unknown or unsure climate - Mining worlds -->
-            <string>Brutus</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name> <!-- Unknown or unsure climate - Mining worlds -->
+          <Values>
             <string>Feronis</string>
-            <string>Pyramus</string>
-            <string>Thisby</string>
-            <string>Vito</string>
           </Values>
         </NameGroup>
       </Generic>
@@ -438,9 +198,6 @@
             <string>Choss</string>
             <string>Gurdlac</string>
             <string>Moria</string>
-            <string>New Sydney</string>
-            <string>Phaeton</string>
-            <string>Sirocco</string>
             <string>Sonyan</string>
           </Values>
         </NameGroup>
@@ -474,20 +231,11 @@
           <Name>Planets - StarCraft</Name>
           <Values>
             <string>Bhekar Ro</string>
-            <string>Boone</string>
-            <string>Bountiful</string>
-            <string>Goldilocks</string>
             <string>Gystt</string>
-            <string>Haji</string>
-            <string>Halcyon</string>
-            <string>Haven</string>
             <string>Korhal</string>
-            <string>Sammy</string>
-            <string>Shiloh</string>
             <string>TarKossia</string>
             <string>Tarsonis</string>
             <string>Tashai</string>
-            <string>Umoja</string>
             <string>Urona Sigma</string>
           </Values>
         </NameGroup>
@@ -513,7 +261,6 @@
           <Name>Planets - StarCraft</Name>
           <Values>
             <string>Hydrax</string>
-            <string>Pridewater</string>
           </Values>
         </NameGroup>
       </Ocean>
@@ -529,32 +276,19 @@
         <NameGroup>
           <Name>Planets - StarCraft</Name>
           <Values>
-            <string>Anselm</string>
             <string>Braxis</string>
             <string>Onuru Sigma</string>
-            <string>Planet Christmas</string>
             <string>Saluset</string>
             <string>Zenn</string>
           </Values>
         </NameGroup>
       </Arctic>
-      <Tomb>
-        <NameGroup>
-          <Name>Planets - StarCraft</Name>
-          <Values>
-            <string>Dead Man's Rock</string>
-            <string>Port Zion</string>
-            <string>Van Osten's Moon</string>
-          </Values>
-        </NameGroup>
-      </Tomb>
       <Alpine>
         <NameGroup>
           <Name>Planets - StarCraft</Name>
           <Values>
             <string>Jarban Minor</string>
             <string>Karkulv</string>
-            <string>Pike's Peak</string>
             <string>Ursa</string>
           </Values>
         </NameGroup>
@@ -563,13 +297,8 @@
         <NameGroup>
           <Name>Planets - StarCraft</Name>
           <Values>
-            <string>Abaddon</string>
             <string>Ashrigo</string>
-            <string>Char</string>
-            <string>Ignus</string>
-            <string>New Folsom</string>
             <string>New Trinidad</string>
-            <string>Old Faithful</string>
             <string>Scoria</string>
           </Values>
         </NameGroup>
@@ -578,8 +307,6 @@
         <NameGroup>
           <Name>Planets - StarCraft</Name>
           <Values>
-            <string>Brutus</string>
-            <string>Canis</string>
             <string>Nemaka</string>
           </Values>
         </NameGroup>

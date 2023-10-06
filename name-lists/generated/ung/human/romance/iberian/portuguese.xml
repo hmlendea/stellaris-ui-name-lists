@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_ung_human_portuguese</Id>
+    <Name>Generated - Universal Name Generator - Human - Portuguese</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>Almarça</string>
+            <string>Atacazes</string>
+            <string>Carque</string>
+            <string>Carvalhes</string>
+            <string>Cinturão</string>
+            <string>Concadalaxar</string>
+            <string>Córdovara</string>
+            <string>Estepenseiro</string>
+            <string>Idanhaco</string>
+            <string>La Carlota</string>
+            <string>Mança</string>
+            <string>Méridas</string>
+            <string>Mogado</string>
+            <string>Rossilhana</string>
+            <string>São Gotardo</string>
+            <string>Tordesilhana</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

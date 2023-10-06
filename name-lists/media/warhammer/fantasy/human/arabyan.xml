@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>warhammer_fantasy_arabyan</Id>
+    <Name>Warhammer Fantasy - Arabyan</Name>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - Warhammer Fantasy</Name>
+          <Values>
+            <string>Araby</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Warhammer Fantasy</Name>
+          <Values>
+            <string>Aiir</string>
+            <string>Akhaba</string>
+            <string>Al-Haikk</string>
+            <string>Arjijil</string>
+            <string>Bel-Aliad</string>
+            <string>Bhagar</string>
+            <string>Copher</string>
+            <string>Djambiya</string>
+            <string>El-Kalabad</string>
+            <string>El-Khabbath</string>
+            <string>Fyrus</string>
+            <string>Ka-Sabar</string>
+            <string>Lashiek</string>
+            <string>Martek</string>
+            <string>Ras Karim</string>
+            <string>Songhai</string>
+            <string>Zarekten</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Warhammer Fantasy</Name>
+          <Values>
+            <string>Aiir</string>
+            <string>Akhaba</string>
+            <string>Al-Haikk</string>
+            <string>Arjijil</string>
+            <string>Bel-Aliad</string>
+            <string>Bhagar</string>
+            <string>Copher</string>
+            <string>Djambiya</string>
+            <string>El-Kalabad</string>
+            <string>El-Khabbath</string>
+            <string>Fyrus</string>
+            <string>Ka-Sabar</string>
+            <string>Lashiek</string>
+            <string>Martek</string>
+            <string>Ras Karim</string>
+            <string>Songhai</string>
+            <string>Zarekten</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

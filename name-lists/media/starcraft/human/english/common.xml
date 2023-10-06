@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starcraft_human_english_common</Id>
+    <Name>StarCraft - Human - English</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - StarCraft</Name> <!-- Agria -->
+          <Values>
+            <string>Megaton</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - StarCraft</Name> <!-- Vyctor 5 -->
+          <Values>
+            <string>Lockston</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - StarCraft</Name> <!-- Others -->
+          <Values>
+            <string>Backwater</string>
+            <string>Deadman's Port</string>
+            <string>Spearpoint</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Ships>
+      <Cruiser>
+        <NameGroup>
+          <Name>Ships - StarCraft</Name>
+          <Values>
+            <string>Victory</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - StarCraft</Name>
+          <Values>
+            <string>Dark Skies</string>
+            <string>Dominion's Revenge</string>
+            <string>Emperor's Fury</string>
+            <string>Fury</string>
+            <string>Gray Tiger</string>
+            <string>Iron Fist</string>
+            <string>Iron Justice</string>
+            <string>Jackson's Revenge</string>
+            <string>Jackson</string>
+            <string>Thunder Child</string>
+            <string>Victory</string>
+            <string>White Star</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Science>
+        <NameGroup>
+          <Name>Ship Classes - StarCraft</Name>
+          <Values>
+            <string>Brin</string>
+          </Values>
+        </NameGroup>
+      </Science>
+      <Transport>
+        <NameGroup>
+          <Name>Ships - StarCraft</Name>
+          <Values>
+            <string>Cormorant</string>
+            <string>Daisy</string>
+          </Values>
+        </NameGroup>
+      </Transport>
+    </Ships>
+    <ShipClasses>
+      <Corvette>
+        <NameGroup>
+          <Name>Ship Classes - StarCraft</Name>
+          <Values>
+            <string>Avenger</string>
+            <string>Wraith</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+      <Battleship>
+        <NameGroup>
+          <Name>Ship Classes - StarCraft</Name>
+          <Values>
+            <string>Hurricane</string>
+            <string>Sovereign</string>
+            <string>Starcruiser</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Science>
+        <NameGroup>
+          <Name>Ship Classes - StarCraft</Name>
+          <Values>
+            <string>Explorer</string>
+          </Values>
+        </NameGroup>
+      </Science>
+    </ShipClasses>
+    <Stations>
+      <MiningStations>
+        <NameGroup>
+          <Name>Mining Stations - StarCraft</Name>
+          <Values>
+            <string>Revelation</string>
+            <string>Scrap</string>
+          </Values>
+        </NameGroup>
+      </MiningStations>
+      <ResearchStations>
+        <NameGroup>
+          <Name>Research Stations - StarCraft</Name>
+          <Values>
+            <string>Immortal Forge</string>
+          </Values>
+        </NameGroup>
+      </ResearchStations>
+      <MilitaryStations>
+        <Small>
+          <NameGroup>
+            <Name>Military Stations - StarCraft</Name>
+            <Values>
+              <string>Catwalk Alley</string>
+              <string>Osborne Port</string>
+              <string>Sky Shield</string>
+              <string>Waypoint Junction</string>
+            </Values>
+          </NameGroup>
+        </Small>
+        <Medium>
+          <NameGroup>
+            <Name>Military Stations - StarCraft</Name>
+            <Values>
+              <string>Crusader</string>
+              <string>Gutterhulk</string>
+            </Values>
+          </NameGroup>
+        </Medium>
+        <Large>
+          <NameGroup>
+            <Name>Military Stations - StarCraft</Name>
+            <Values>
+              <string>The Keep</string>
+            </Values>
+          </NameGroup>
+        </Large>
+      </MilitaryStations>
+    </Stations>
+    <Armies>
+      <DefenceArmy>
+        <NameGroup>
+          <Name>Armies - StarCraft</Name>
+          <Values>
+            <string>Elite Guard</string>
+          </Values>
+        </NameGroup>
+      </DefenceArmy>
+      <AssaultArmy>
+        <NameGroup>
+          <Name>Armies - StarCraft</Name>
+          <Values>
+            <string>Annihilators</string>
+            <string>Blackhammers</string>
+            <string>Brute Squad</string>
+            <string>Bulwark Company</string>
+            <string>Charlie Squad</string>
+            <string>Death Heads</string>
+            <string>Death's Head Legion</string>
+            <string>Field Response Theta</string>
+            <string>Hammer Strike Force</string>
+            <string>Heaven's Devils</string>
+            <string>Hellbringers</string>
+            <string>Iron Jesters</string>
+            <string>Lost Wolves</string>
+            <string>Night Wolves</string>
+            <string>Outback Hunters</string>
+            <string>Shock Division</string>
+            <string>Sky Fury Squadron</string>
+            <string>Thundering Third</string>
+            <string>Torch Seven</string>
+            <string>War Pigs</string>
+          </Values>
+        </NameGroup>
+      </AssaultArmy>
+      <XenomorphArmy>
+        <NameGroup>
+          <Name>Armies - StarCraft</Name>
+          <Values>
+            <string>The Tamed</string>
+          </Values>
+        </NameGroup>
+      </XenomorphArmy>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name> <!-- Unknown or unsure climate -->
+          <Values>
+            <string>Demon's Fair</string>
+            <string>Great Bend</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Boone</string>
+            <string>Bountiful</string>
+            <string>Goldilocks</string>
+            <string>Haven</string>
+            <string>Sammy</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Pridewater</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Dead Man's Rock</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Planet Christmas</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+      <Alpine>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Pike's Peak</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+      <Molten>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Char</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

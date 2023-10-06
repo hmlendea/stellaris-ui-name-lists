@@ -30,12 +30,6 @@
       </Regions>
       <Cities>
         <NameGroup>
-          <Name>Cities - Alien</Name>
-          <Values>
-            <string>Shinowa</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - Bugsnax</Name>
           <Values>
             <string>Snaxburg</string>
@@ -81,50 +75,6 @@
       </XenomorphArmy>
     </Armies>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Cities - Alien</Name>
-          <Values>
-            <string>Shinowa</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Dishonored</Name> <!-- Empire of the Isles -->
-          <Values>
-            <string>Bastillian</string>
-            <string>Caltan</string>
-            <string>Meya</string>
-            <string>Pradym</string>
-            <string>Tamarak</string>
-            <string>Yaro</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Arakoua</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Galactik Football</Name>
-          <Values>
-            <string>Escaron</string>
-            <string>Hectonia</string>
-            <string>Obia</string>
-            <string>Oeno</string>
-            <string>Unadar</string>
-            <string>Xenon</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-      <Desert>
-        <NameGroup>
-          <Name>Planets - Galactik Football</Name>
-          <Values>
-            <string>Menor</string>
-          </Values>
-        </NameGroup>
-      </Desert>
       <Arid>
         <NameGroup>
           <Name>Countries - A Song of Ice and Fire</Name>
@@ -132,20 +82,7 @@
             <string>Dorne</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Islands - Puzzle Pirates</Name>
-          <Values>
-            <string>Caravenserai</string>
-          </Values>
-        </NameGroup>
-      </Arid>
       <Tropical>
-        <NameGroup>
-          <Name>Planets - Galactik Football</Name>
-          <Values>
-            <string>Wamba</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Video Games</Name>
           <Values>
@@ -158,12 +95,6 @@
           <Name>Cities - Bugsnax</Name>
           <Values>
             <string>Snaxburg</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Planets - Warhammer 40K</Name>
-          <Values>
-            <string>Espandor</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -214,14 +145,6 @@
           </Values>
         </NameGroup>
       </Ocean>
-      <Tundra>
-        <NameGroup>
-          <Name>Countries - The Lord of the Rings</Name>
-          <Values>
-            <string>Rohan</string>
-          </Values>
-        </NameGroup>
-      </Tundra>
       <Arctic>
         <NameGroup>
           <Name>Planets - Galactik Football</Name>
@@ -235,12 +158,6 @@
           <Name>Places - A Song of Ice and Fire</Name>
           <Values>
             <string>Valyria</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Places - The Lord of the Rings</Name>
-          <Values>
-            <string>Mordor</string>
           </Values>
         </NameGroup>
       </Tomb>

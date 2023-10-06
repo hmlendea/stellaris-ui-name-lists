@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ypp_persian</Id>
+    <Name>Puzzle Pirates - Persian</Name>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Caravenserai</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+    </Places>
+    <Planets>
+      <Arid>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Caravenserai</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_ung_human_serbocroatian</Id>
+    <Name>Generated - Universal Name Generator - Human - Serbo-Croatian</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>Balatograd</string>
+            <string>Branija</string>
+            <string>Braslavci</string>
+            <string>Breznograd</string>
+            <string>Budišinjevica</string>
+            <string>Černja</string>
+            <string>Demetrija</string>
+            <string>Drijepolj</string>
+            <string>Jedina</string>
+            <string>Jugoslav</string>
+            <string>Kalipolj</string>
+            <string>Krupanjac</string>
+            <string>Lubješov</string>
+            <string>Mosta</string>
+            <string>Pernija</string>
+            <string>Petroko</string>
+            <string>Poljanik</string>
+            <string>Potamija</string>
+            <string>Prijevo</string>
+            <string>Segedinje</string>
+            <string>Siverineja</string>
+            <string>Slavonigrad</string>
+            <string>Smoljana</string>
+            <string>Sredozemska</string>
+            <string>Vitezovija</string>
+            <string>Vojvodin</string>
+            <string>Voronja</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
