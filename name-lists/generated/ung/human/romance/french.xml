@@ -10,6 +10,7 @@
           <Values>
             <string>Allemont</string>
             <string>Angevin</string>
+            <string>Baiesse</string>
             <string>Barfleure</string>
             <string>Basseneur</string>
             <string>Bassonne</string>
@@ -18,9 +19,11 @@
             <string>Cantagnes</string>
             <string>Carmont</string>
             <string>Céventin</string>
+            <string>Chalonie</string>
             <string>Coville</string>
             <string>Lattaquie</string>
             <string>Lescareille</string>
+            <string>Lignes</string>
             <string>Marienne</string>
             <string>Massine</string>
             <string>Méditerre</string>
@@ -28,6 +31,7 @@
             <string>Moline</string>
             <string>Montaise</string>
             <string>Norumbègues</string>
+            <string>Ondangue</string>
             <string>Périgon</string>
             <string>Rivières</string>
             <string>Saint Émile</string>

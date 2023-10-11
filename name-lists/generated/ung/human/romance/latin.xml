@@ -8,32 +8,53 @@
         <NameGroup>
           <Name>Toponyms - Generated</Name>
           <Values>
+            <string>Abretonia</string>
             <string>Abulacum</string>
+            <string>Aelesticum</string>
             <string>Aemontium</string>
             <string>Ammona</string>
             <string>Aruntinum</string>
             <string>Avona</string>
+            <string>Baetina</string>
             <string>Bellae</string>
             <string>Bengalia</string>
             <string>Blonia</string>
             <string>Bocconium</string>
+            <string>Branesiae</string>
             <string>Bravorus</string>
+            <string>Crediana</string>
+            <string>Delminia</string>
+            <string>Dernia</string>
             <string>Eusebia</string>
+            <string>Flexum</string>
             <string>Galinae</string>
             <string>Imperius</string>
+            <string>Leodisium</string>
             <string>Liminum</string>
             <string>Lovadum</string>
             <string>Manticum</string>
             <string>Meldia</string>
             <string>Oenoa</string>
             <string>Orellum</string>
+            <string>Petinae</string>
             <string>Provatum</string>
+            <string>Rangulum</string>
             <string>Scarbalis</string>
+            <string>Triannorum</string>
             <string>Venona</string>
             <string>Vertera</string>
           </Values>
         </NameGroup>
       </Generic>
+      <Ocean>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>Crisiacum</string>
+            <string>Portorum</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
     </Planets>
   </NameList>
 </ArrayOfNameList>
