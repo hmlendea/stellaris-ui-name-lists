@@ -3,9 +3,9 @@
   <NameList>
     <Id>human_romanian</Id>
     <Name>Human - Romanian</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Bessarabian</string>
           <string>Dobrujan</string>
@@ -16,7 +16,7 @@
         </Values>
       </NameGroup>
       <NameGroup>
-        <Name>Denonyms - Endonyms</Name>
+        <Name>Demonyms - Endonyms</Name>
         <Values>
           <string>Apusean</string>
           <string>Ardelean</string>
@@ -34,7 +34,7 @@
           <string>Vlah</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

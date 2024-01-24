@@ -3,15 +3,15 @@
   <NameList>
     <Id>human_malaysian</Id>
     <Name>Human - Malaysian</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Malay</string>
           <string>Malaysian</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

@@ -3,14 +3,14 @@
   <NameList>
     <Id>aow_tigran</Id>
     <Name>AoW - Tigran</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Tigran</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Cities>
         <NameGroup>

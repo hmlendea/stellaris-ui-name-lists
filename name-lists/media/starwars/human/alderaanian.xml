@@ -3,14 +3,14 @@
   <NameList>
     <Id>starwars_human_alderaanian</Id>
     <Name>StarWars - Human - Alderaanian</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - StarWars</Name>
+        <Name>Demonyms - StarWars</Name>
         <Values>
           <string>Alderaanian</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Cities>
         <NameGroup>

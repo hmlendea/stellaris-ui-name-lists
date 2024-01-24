@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_navajo</Id>
     <Name>Human - Navajo</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Navajo</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <BiosphereNames>
       <MythologicalCreatures>
         <NameGroup>

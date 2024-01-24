@@ -3,21 +3,21 @@
   <NameList>
     <Id>ui_elderscrolls_altmer</Id>
     <Name>ElderScrolls - Altmer</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Altmer</string>
           <string>High Elf</string>
         </Values>
       </NameGroup>
       <NameGroup>
-        <Name>Denonyms - Groups</Name>
+        <Name>Demonyms - Groups</Name>
         <Values>
           <string>Thalmor</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

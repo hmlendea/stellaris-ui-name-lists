@@ -3,13 +3,13 @@
   <NameList>
     <Id>human_basque</Id>
     <Name>Human - Basque</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Basque</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
   </NameList>
 </ArrayOfNameList>

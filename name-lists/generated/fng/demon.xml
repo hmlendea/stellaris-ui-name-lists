@@ -3,14 +3,14 @@
   <NameList>
     <Id>ui_generated-fng_demon</Id>
     <Name>Generated - FantasyNameGenerators - Demon</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Demon</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Characters>
       <CharacterNames>
         <Id>fng-demon</Id>

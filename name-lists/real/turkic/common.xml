@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_turkic</Id>
     <Name>Human - Turkic</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
             <string>Turkic</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Warfare>
       <MilitaryUnitTypes>
         <NameGroup>

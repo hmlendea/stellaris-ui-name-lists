@@ -3,15 +3,15 @@
   <NameList>
     <Id>ui_divinity_dwarven</Id>
     <Name>Divinity - Dwarven</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Dwarf</string>
           <string>Dwarven</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <GreatPersons>
       <CreationDeities>
         <NameGroup>

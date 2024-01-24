@@ -3,14 +3,14 @@
   <NameList>
     <Id>starwars_human_coruscanti</Id>
     <Name>StarWars - Human - Coruscanti</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - StarWars</Name>
+        <Name>Demonyms - StarWars</Name>
         <Values>
           <string>Coruscanti</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Armies>
       <FleetSequentialName>%O% Fleet</FleetSequentialName>
       <DefenceArmySequentialName>%O% Stormtroopers</DefenceArmySequentialName>

@@ -3,15 +3,15 @@
   <NameList>
     <Id>ui_aow3_dwarven</Id>
     <Name>AoW3 - Dwarven</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Dwarf</string>
           <string>Dwarven</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Cities>
         <NameGroup>

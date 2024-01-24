@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_common_all_obsolete</Id>
     <Name>Human - Common</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>xxxxxxx Denonyms</Name>
+        <Name>xxxxxxx Demonyms</Name>
         <Values>
           <string>Martian</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Regions>
       <Mountains>
         <NameGroup>

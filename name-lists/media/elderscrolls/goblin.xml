@@ -3,14 +3,14 @@
   <NameList>
     <Id>ui_elderscrolls_goblin</Id>
     <Name>ElderScrolls - Goblin</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Goblin</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Characters>
       <CharacterNames>
         <Id>elderscrolls-goblin</Id>

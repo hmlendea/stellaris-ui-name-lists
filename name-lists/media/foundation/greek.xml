@@ -3,15 +3,15 @@
   <NameList>
     <Id>foundation_human_greek</Id>
     <Name>Foundation - Human (Greek)</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - Foundation</Name>
+        <Name>Demonyms - Foundation</Name>
         <Values>
           <string>Anacreon</string>
           <string>Thespin</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Ships>
       <Battleship>
         <NameGroup>

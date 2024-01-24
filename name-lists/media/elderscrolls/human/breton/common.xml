@@ -3,14 +3,14 @@
   <NameList>
     <Id>elderscrolls_human_breton</Id>
     <Name>ElderScrolls - Human - Breton</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - The Elder Scrolls</Name>
+        <Name>Demonyms - The Elder Scrolls</Name>
         <Values>
           <string>Breton</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Cities>
         <NameGroup>

@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_algonquian</Id>
     <Name>Human - Algonquian</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Algonquian</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <BiosphereNames>
       <MythologicalCreatures>
         <NameGroup>

@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_slavic_southern</Id>
     <Name>Human - Slavic (Southern)</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Balkan</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Regions>
         <NameGroup>

@@ -3,15 +3,15 @@
   <NameList>
     <Id>human_hindi</Id>
     <Name>Human - Hindi</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Hindi</string>
           <string>Raj</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>
@@ -145,6 +145,7 @@
           <Name>Deities</Name>
           <Values>
             <string>Hanuman</string>
+            <string>Hayagriva</string>
             <string>Saraswati</string>
           </Values>
         </NameGroup>

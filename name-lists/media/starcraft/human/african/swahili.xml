@@ -3,14 +3,14 @@
   <NameList>
     <Id>starcraft_human_swahili</Id>
     <Name>StarCraft - Human - Swahili</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - StarCraft</Name>
+        <Name>Demonyms - StarCraft</Name>
         <Values>
           <string>Umojan</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

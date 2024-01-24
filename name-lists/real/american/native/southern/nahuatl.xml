@@ -3,16 +3,16 @@
   <NameList>
     <Id>human_nahuatl</Id>
     <Name>Humans - Nahuatl</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Aztec</string>
           <string>Mexica</string>
           <string>Nahuatl</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Warfare>
       <Weapons>
         <Swords>

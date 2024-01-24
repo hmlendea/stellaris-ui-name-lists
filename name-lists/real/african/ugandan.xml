@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_ugandan</Id>
     <Name>Human - Ugandan</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Ugandan</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>
@@ -24,7 +24,16 @@
         <NameGroup>
           <Name>Cities</Name>
           <Values>
+            <string>Gulu</string>
             <string>Kampala</string>
+            <string>Kasese</string>
+            <string>Kira</string>
+            <string>Lugazi</string>
+            <string>Masaka</string>
+            <string>Mbarara</string>
+            <string>Mukono</string>
+            <string>Nansana</string>
+            <string>Ssabagabo</string>
           </Values>
         </NameGroup>
       </Cities>

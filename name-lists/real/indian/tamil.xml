@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_tamil</Id>
     <Name>Human - Tamil</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Tamil</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <GreatPeople>
       <ProtectionDeities>
         <NameGroup>

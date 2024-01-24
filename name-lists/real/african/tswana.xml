@@ -3,20 +3,20 @@
   <NameList>
     <Id>human_tswana</Id>
     <Name>Human - Tswana</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Tswana</string>
         </Values>
       </NameGroup>
       <NameGroup>
-        <Name>Denonyms - Endonyms</Name>
+        <Name>Demonyms - Endonyms</Name>
         <Values>
           <string>Motswana</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

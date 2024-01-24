@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_maori</Id>
     <Name>Human - Maori</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Māori</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Warfare>
       <MilitaryUnitTypes>
         <NameGroup>

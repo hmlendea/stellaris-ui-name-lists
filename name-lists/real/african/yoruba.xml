@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_yoruba</Id>
     <Name>Human - Yoruba</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Yoruba</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <GreatPeople>
       <LabourDeities>
         <NameGroup>

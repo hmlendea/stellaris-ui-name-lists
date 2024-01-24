@@ -3,9 +3,9 @@
   <NameList>
     <Id>elderscrolls_argonian</Id>
     <Name>ElderScrolls - Argonian</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Adzi-Kostleel</string>
           <string>Agaceph</string>
@@ -26,7 +26,7 @@
           <string>Xit-Xaht</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

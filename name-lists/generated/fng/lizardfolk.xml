@@ -3,14 +3,14 @@
   <NameList>
     <Id>ui_generated-fng_lizardfolk</Id>
     <Name>Generated - FantasyNameGenerators - Lizardfolk</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Lizardfolk</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Ships>
       <Generic>
         <NameGroup>

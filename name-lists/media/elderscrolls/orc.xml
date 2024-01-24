@@ -3,19 +3,19 @@
   <NameList>
     <Id>elderscrolls_orc</Id>
     <Name>ElderScrolls - Orc</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Orc</string>
           <string>Orsimer</string>
         </Values>
       </NameGroup>
       <NameGroup>
-        <Name>Denonyms - Clans</Name>
+        <Name>Demonyms - Clans</Name>
         <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/elder-scrolls/orcish/groups/clans.lst</Url>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Regions>
         <NameGroup>

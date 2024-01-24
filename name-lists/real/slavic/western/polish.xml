@@ -3,9 +3,9 @@
   <NameList>
     <Id>human_polish</Id>
     <Name>Human - Polish</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Kashubian</string>
           <string>Moravian</string>
@@ -13,7 +13,7 @@
           <string>Silesian</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

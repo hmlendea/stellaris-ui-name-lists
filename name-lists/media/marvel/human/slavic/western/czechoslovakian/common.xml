@@ -3,14 +3,14 @@
   <NameList>
     <Id>marvel_human_slavic_czechoslovakian</Id>
     <Name>Marvel - Human - Slavic (Czechoslovakian)</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - Marvel</Name>
+        <Name>Demonyms - Marvel</Name>
         <Values>
           <string>Sokovian</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

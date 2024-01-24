@@ -3,14 +3,14 @@
   <NameList>
     <Id>ui_divinity_orc</Id>
     <Name>Divinity - Orc</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Orc</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Deserts>
         <NameGroup>

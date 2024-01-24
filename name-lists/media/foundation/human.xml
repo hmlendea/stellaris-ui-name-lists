@@ -3,16 +3,16 @@
   <NameList>
     <Id>foundation_human</Id>
     <Name>Foundation - Human</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - Foundation</Name>
+        <Name>Demonyms - Foundation</Name>
         <Values>
           <string>Kalganian</string>
           <string>Synnaxian</string>
           <string>Trantorian</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Ships>
       <Corvette>
         <NameGroup>

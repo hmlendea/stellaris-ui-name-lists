@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_inuit</Id>
     <Name>Human - Inuit</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Inuit</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <BiosphereNames>
       <MythologicalCreatures>
         <NameGroup>

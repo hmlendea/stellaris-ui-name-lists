@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_scottish</Id>
     <Name>Human - Scottish</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
             <string>Scottish</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

@@ -3,14 +3,14 @@
   <NameList>
     <Id>nms_korvax</Id>
     <Name>No Man's Sky - Korvax</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Korvax</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Stations>
       <ResearchStations>
         <NameGroup>

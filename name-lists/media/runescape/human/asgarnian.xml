@@ -3,14 +3,14 @@
   <NameList>
     <Id>runescape_human_asgarnian</Id>
     <Name>RuneScape - Human - Asgarnian</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - RuneScape</Name>
+        <Name>Demonyms - RuneScape</Name>
         <Values>
           <string>Asgarnian</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>
