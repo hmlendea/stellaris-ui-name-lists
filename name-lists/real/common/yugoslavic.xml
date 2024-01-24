@@ -3,16 +3,16 @@
   <NameList>
     <Id>human_common_slavic_yugoslavic</Id>
     <Name>Human - Common - Slavic - Yugoslavic</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Montenegrin</string>
           <string>Yugoslav</string>
           <string>Yugoslavic</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

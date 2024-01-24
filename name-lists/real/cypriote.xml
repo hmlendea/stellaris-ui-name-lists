@@ -3,17 +3,17 @@
   <NameList>
     <Id>human_cypriote</Id>
     <Name>Human - Cypriote</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Cypriote</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Countries>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Cyprus</string>
         </Values>

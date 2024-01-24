@@ -3,14 +3,14 @@
   <NameList>
     <Id>runescape_human_kandarin</Id>
     <Name>RuneScape - Human - Kandarin</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - RuneScape</Name>
+        <Name>Demonyms - RuneScape</Name>
         <Values>
           <string>Kandarin</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_irish</Id>
     <Name>Human - Irish</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
             <string>Irish</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>
@@ -24,10 +24,27 @@
         <NameGroup>
           <Name>Cities</Name>
           <Values>
+            <string>Athlone</string>
+            <string>Balbriggan</string>
             <string>Belfast</string>
+            <string>Bray</string>
+            <string>Carlow</string>
             <string>Cork</string>
             <string>Drogheda</string>
             <string>Dublin</string>
+            <string>Dundalk</string>
+            <string>Ennis</string>
+            <string>Galway</string>
+            <string>Kilkenny</string>
+            <string>Letterkenny</string>
+            <string>Limerick</string>
+            <string>Naas</string>
+            <string>Navan</string>
+            <string>Newbridge</string>
+            <string>Portlaoise</string>
+            <string>Swords</string>
+            <string>Tralee</string>
+            <string>Waterford</string>
           </Values>
         </NameGroup>
         <NameGroup>

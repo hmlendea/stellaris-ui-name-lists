@@ -3,16 +3,16 @@
   <NameList>
     <Id>human_germanic</Id>
     <Name>Human - Germanic</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Belgian</string>
           <string>Gothic</string>
           <string>Vandal</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

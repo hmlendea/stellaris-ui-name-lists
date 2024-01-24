@@ -3,16 +3,16 @@
   <NameList>
     <Id>human_italian</Id>
     <Name>Human - Italian</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
             <string>Italian</string>
             <string>Neapolitan</string>
             <string>Sicilian</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

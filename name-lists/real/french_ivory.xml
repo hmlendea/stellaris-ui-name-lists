@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_french_ivory</Id>
     <Name>Human - French (Ivory Coast)</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Ivorian</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

@@ -3,9 +3,9 @@
   <NameList>
     <Id>elderscrolls_human</Id>
     <Name>ElderScrolls - Human</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - The Elder Scrolls</Name>
+        <Name>Demonyms - The Elder Scrolls</Name>
         <Values>
           <string>Atmoran</string>
           <string>Breton</string>
@@ -21,7 +21,7 @@
           <string>Yokudan</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

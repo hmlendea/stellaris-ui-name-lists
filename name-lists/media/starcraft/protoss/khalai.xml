@@ -3,16 +3,16 @@
   <NameList>
     <Id>starcraft_protoss_khalai</Id>
     <Name>StarCraft - Protoss - Khalai</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - Groups</Name>
+        <Name>Demonyms - Groups</Name>
         <Values>
           <string>Khalai</string>
           <string>Shel'na Kryhas</string>
         </Values>
       </NameGroup>
       <NameGroup>
-        <Name>Denonyms - Tribes</Name>
+        <Name>Demonyms - Tribes</Name>
         <Values>
           <string>Akilae</string>
           <string>Ara</string>
@@ -24,7 +24,7 @@
           <string>Venatir</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

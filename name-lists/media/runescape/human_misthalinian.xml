@@ -3,15 +3,15 @@
   <NameList>
     <Id>runescape_human_misthalinian</Id>
     <Name>RuneScape - Human - Misthalinian</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - RuneScape</Name>
+        <Name>Demonyms - RuneScape</Name>
         <Values>
           <string>Misthalinian</string>
           <string>Misthalite</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

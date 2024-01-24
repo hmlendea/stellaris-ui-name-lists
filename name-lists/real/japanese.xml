@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_japanese</Id>
     <Name>Human - Japanese</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Japanese</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>
@@ -88,6 +88,10 @@
             <string>Fuji</string>
             <string>Gassan</string>
             <string>Haguro</string>
+            <string>Izumi Katsuragi</string>
+            <string>Minami Katsuragi</string>
+            <string>Naka Katsuragi</string>
+            <string>Yamato Katsuragi</string>
             <string>Yudono</string>
           </Values>
         </NameGroup>
@@ -99,14 +103,15 @@
             <string>Abukuma</string>
             <string>Agano</string>
             <string>Fuzi</string>
-            <string>Isikari</string>
+            <string>Ishikari</string>
             <string>Kiso</string>
             <string>Kitakami</string>
             <string>Mogami</string>
             <string>Omono</string>
-            <string>Sinano</string>
+            <string>Shimanto</string>
+            <string>Shinano</string>
             <string>Tenryu</string>
-            <string>Tesio</string>
+            <string>Teshio</string>
             <string>Tokati</string>
             <string>Tone</string>
             <string>Yodo</string>
@@ -114,6 +119,30 @@
           </Values>
         </NameGroup>
       </Rivers>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Abashiri</string>
+            <string>Akkeshi</string>
+            <string>Biwa</string>
+            <string>Hamana</string>
+            <string>Inawashiro</string>
+            <string>Kasumigaura</string>
+            <string>Kitaura</string>
+            <string>Kussharo</string>
+            <string>Kutcharo</string>
+            <string>Nakaumi</string>
+            <string>Notoro</string>
+            <string>Ogawara</string>
+            <string>Saroma</string>
+            <string>Shikotsu</string>
+            <string>Shinji</string>
+            <string>Tazawa</string>
+            <string>Towada</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
     <GreatPeople>
       <LeadersTier1>

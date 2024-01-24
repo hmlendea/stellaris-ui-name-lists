@@ -3,20 +3,20 @@
   <NameList>
     <Id>other-media_human</Id>
     <Name>Other Media - Human</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - Marvel</Name>
+        <Name>Demonyms - Marvel</Name>
         <Values>
           <string>Wakandan</string>
         </Values>
       </NameGroup>
       <NameGroup>
-        <Name>Denonyms - Memes</Name>
+        <Name>Demonyms - Memes</Name>
         <Values>
           <string>Kekistani</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

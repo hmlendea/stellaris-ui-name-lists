@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_latvian</Id>
     <Name>Human - Latvian</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Latvian</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>
@@ -55,6 +55,30 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Alūksnes</string>
+            <string>Babītes</string>
+            <string>Burtnieks</string>
+            <string>Cirma</string>
+            <string>Drīdzis</string>
+            <string>Engures</string>
+            <string>Ežezers</string>
+            <string>Kaņieris</string>
+            <string>Ķīšezers</string>
+            <string>Liepājas</string>
+            <string>Lubāns</string>
+            <string>Papes</string>
+            <string>Rāznas</string>
+            <string>Riču</string>
+            <string>Rušons</string>
+            <string>Sivers</string>
+            <string>Usmas</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
   </NameList>
 </ArrayOfNameList>

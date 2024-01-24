@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_igbo</Id>
     <Name>Human - Igbo</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Igbo</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <GreatPeople>
       <JusticeDeities>
         <NameGroup>

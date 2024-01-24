@@ -3,15 +3,15 @@
   <NameList>
     <Id>elderscrolls_nord</Id>
     <Name>ElderScrolls - Nord</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - The Elder Scrolls</Name>
+        <Name>Demonyms - The Elder Scrolls</Name>
         <Values>
           <string>Nord</string>
           <string>Skaal</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

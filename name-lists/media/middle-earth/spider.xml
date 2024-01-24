@@ -3,14 +3,14 @@
   <NameList>
     <Id>ui_middle-earth_spider</Id>
     <Name>Middle Earth - Spider</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Ungol</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Regions>
         <NameGroup>

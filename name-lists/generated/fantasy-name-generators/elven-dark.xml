@@ -3,14 +3,14 @@
   <NameList>
     <Id>ui_generated-fng_elven-dark</Id>
     <Name>Generated - FantasyNameGenerators - Elven - Dark</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Dark Elf</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Characters>
       <CharacterNames>
         <Id>fng-elven-dark</Id>

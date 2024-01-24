@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_kabyle</Id>
     <Name>Human - Kabyle</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Kabyle</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Warfare>
       <Weapons>
         <Swords>

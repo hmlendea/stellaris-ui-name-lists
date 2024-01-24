@@ -3,16 +3,16 @@
   <NameList>
     <Id>starcraft_human</Id>
     <Name>StarCraft - Human</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - StarCraft</Name>
+        <Name>Demonyms - StarCraft</Name>
         <Values>
           <string>Kel-Morian</string>
           <string>Terran</string>
           <string>Umojan</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

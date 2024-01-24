@@ -22,7 +22,7 @@ if [ ${NEEDS_DOWNLOADING} == true ]; then
 
     echo " > Downloading v${MOD_BUILDER_VERSION}..."
     wget -q -c "${MOD_BUILDER_PACKAGE_URL}" 2>/dev/null
-    
+
     echo " > Extracting..."
     mkdir "${STARTDIR}/${MOD_BUILDER_NAME}"
     unzip -q "${STARTDIR}/${MOD_BUILDER_PACKAGE_NAME}" -d "${STARTDIR}/${MOD_BUILDER_NAME}"

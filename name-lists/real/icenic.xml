@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_icenic</Id>
     <Name>Human - Icenic</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Icenic</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <GreatPeople>
       <LeadersTier3>
         <NameGroup>

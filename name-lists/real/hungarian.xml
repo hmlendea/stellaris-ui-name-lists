@@ -3,9 +3,9 @@
   <NameList>
     <Id>ui_extra_humans_hungarian</Id>
     <Name>Human - Hungarian</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Csángó</string>
           <string>Hungarian</string>
@@ -16,7 +16,7 @@
           <string>Szekely</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

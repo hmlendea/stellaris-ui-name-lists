@@ -3,20 +3,20 @@
   <NameList>
     <Id>starcraft_protoss</Id>
     <Name>StarCraft - Protoss</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Protoss</string>
         </Values>
       </NameGroup>
       <NameGroup>
-        <Name>Denonyms - Groups</Name>
+        <Name>Demonyms - Groups</Name>
         <Values>
           <string>Ihan-rii</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

@@ -3,15 +3,15 @@
   <NameList>
     <Id>starcraft_protoss_nerazim</Id>
     <Name>StarCraft - Protoss - Nerazim</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - Groups</Name>
+        <Name>Demonyms - Groups</Name>
         <Values>
           <string>Nerazim</string>
         </Values>
       </NameGroup>
       <NameGroup>
-        <Name>Denonyms - Tribes</Name>
+        <Name>Demonyms - Tribes</Name>
         <Values>
           <string>Alysaar</string>
           <string>Boros</string>
@@ -19,7 +19,7 @@
           <string>Zer'atai</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Regions>
         <NameGroup>

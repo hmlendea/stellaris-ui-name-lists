@@ -3,16 +3,16 @@
   <NameList>
     <Id>human_bengal</Id>
     <Name>Human - Bengal</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Bangladeshi</string>
           <string>Bengal</string>
           <string>Bengalese</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

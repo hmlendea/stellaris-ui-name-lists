@@ -3,14 +3,14 @@
   <NameList>
     <Id>other-media_human_slavic</Id>
     <Name>Other Media - Human - Slavic</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - Marvel</Name>
+        <Name>Demonyms - Marvel</Name>
         <Values>
           <string>Sokovian</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

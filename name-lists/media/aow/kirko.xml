@@ -3,14 +3,14 @@
   <NameList>
     <Id>ui_aowp_kirko</Id>
     <Name>AoW:P - Kir'Ko</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Kir'Ko</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Cities>
         <NameGroup>

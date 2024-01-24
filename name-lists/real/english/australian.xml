@@ -3,20 +3,20 @@
   <NameList>
     <Id>humans_australian</Id>
     <Name>Humans - Australian</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Australian</string>
         </Values>
       </NameGroup>
       <NameGroup>
-        <Name>Denonyms - Slang</Name>
+        <Name>Demonyms - Slang</Name>
         <Values>
           <string>Aussie</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

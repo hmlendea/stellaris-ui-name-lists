@@ -3,14 +3,14 @@
   <NameList>
     <Id>ui_middle-earth_orc</Id>
     <Name>Middle Earth - Orc</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Orc</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Characters>
       <CharacterNames>
         <Id>middle-earth-orc</Id>
