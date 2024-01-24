@@ -3,15 +3,15 @@
   <NameList>
     <Id>elderscrolls_human_imperial_common</Id>
     <Name>The Elder Scrolls - Human - Imperial (Common)</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - The Elder Scrolls</Name>
+        <Name>Demonyms - The Elder Scrolls</Name>
         <Values>
           <string>Colovian</string>
           <string>Nibenese</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

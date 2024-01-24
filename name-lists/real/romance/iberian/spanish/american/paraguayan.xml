@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_spanish_paraguayan</Id>
     <Name>Human - Spanish - Paraguayan</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Paraguayan</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

@@ -3,15 +3,15 @@
   <NameList>
     <Id>elderscrolls_human_imperial_english</Id>
     <Name>The Elder Scrolls - Human - Imperial (English)</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - The Elder Scrolls</Name>
+        <Name>Demonyms - The Elder Scrolls</Name>
         <Values>
           <string>Heartlander</string>
           <string>Imperial</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Regions>
         <NameGroup>

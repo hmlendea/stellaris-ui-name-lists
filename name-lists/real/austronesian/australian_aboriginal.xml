@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_australian_aboriginal</Id>
     <Name>Human - Australian (Aboriginal)</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Aboriginal</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Cities>
         <NameGroup>

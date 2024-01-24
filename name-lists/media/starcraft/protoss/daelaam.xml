@@ -3,14 +3,14 @@
   <NameList>
     <Id>starcraft_protoss_daelaam</Id>
     <Name>StarCraft - Protoss - Daelaam</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Daelaam</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>
