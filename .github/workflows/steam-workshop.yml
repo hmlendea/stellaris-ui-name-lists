@@ -1,0 +1,31 @@
+name: Steam Workshop
+
+on:
+  push:
+    tags:
+    - 'v*.*.*'
+
+jobs:
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Download the release asset
+      run: |
+        wget "https://github.com/hmlendea/stellaris-ui-name-lists/releases/download/${{github.ref_name}}/ui-name-lists_${GITHUB_REF:11}.zip" -O "release.zip"
+        unzip "release.zip" -d "release/"
+
+    - name: Upload
+      uses: hmlendea/steam-workshop-update@latest
+      with:
+        appid: 281990
+        itemid: 1912242707
+        path: "release/ui-name-lists/"
+        changenote: "[url=https://github.com/hmlendea/stellaris-ui-name-lists/releases/tag/${{github.ref_name}}]Version ${{github.ref_name}}[/url]"
+      env:
+        STEAM_USERNAME: ${{secrets.STEAM_USERNAME}}
+        STEAM_PASSWORD: ${{secrets.STEAM_PASSWORD}}
+        STEAM_2FASEED: ${{secrets.STEAM_2FASEED}}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_spanish_peruvian</Id>
+    <Name>Human - Spanish - Peruvian</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Peruvian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Peru</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Lima</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts</Name>
+          <Values>
+            <string>Nazca</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
+    </Places>
+    <GreatPeople>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Castro</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
+    </GreatPeople>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Pandora: First Contact - Solar Dynasty</Name>
+          <Values>
+            <string>Castro</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

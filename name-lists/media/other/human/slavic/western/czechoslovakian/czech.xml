@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_czech</Id>
+    <Name>Other Media - Human - Czech</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Villages - Kingdom Come: Deliverance</Name>
+          <Values>
+            <string>Skalitz</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Villages - Kingdom Come: Deliverance</Name>
+          <Values>
+            <string>Skalitz</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

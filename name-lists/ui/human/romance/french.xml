@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_french</Id>
+    <Name>Universum Infinitum - Human - French</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Enfer</string> <!-- Inferno -->
+            <string>Four</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Nouveau Paris</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Aquarium</string> <!-- Aquarium -->
+            <string>Océanie</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Ciel</string> <!-- Sky -->
+            <string>Dieu</string> <!-- God -->
+            <string>Paradis</string> <!-- Paradise -->
+            <string>Sérénité</string> <!-- Serenity -->
+            <string>Splendeur</string> <!-- Splendor -->
+            <string>Temple</string> <!-- Temple -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Cendre</string> <!-- Cinder -->
+            <string>Cimetière</string> <!-- Graveyard -->
+            <string>Crypte</string> <!-- Crypt -->
+            <string>Décombres</string> <!-- Rubble -->
+            <string>Ghetto</string> <!-- Ghetto -->
+            <string>Guerre</string> <!-- War -->
+            <string>Pierre Tombale</string> <!-- Tombstone -->
+            <string>Ruine</string> <!-- Ruin -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

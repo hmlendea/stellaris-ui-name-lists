@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_german_common</Id>
+    <Name>Other Media - Human - German (Common)</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Media</Name>
+          <Values>
+            <string>Friedland</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

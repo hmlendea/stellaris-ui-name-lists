@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>foundation_human</Id>
+    <Name>Foundation - Human</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - Foundation</Name>
+        <Values>
+          <string>Kalganian</string>
+          <string>Synnaxian</string>
+          <string>Trantorian</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Ships>
+      <Corvette>
+        <NameGroup>
+          <Name>Ships - Foundation</Name>
+          <Values>
+            <string>Spirit Rising</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - Foundation</Name>
+          <Values>
+            <string>Shining Destiny</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+    </Ships>
+    <ShipClasses>
+      <Coloniser>
+        <NameGroup>
+          <Name>Ship classes - Foundation</Name>
+          <Values>
+            <string>Imperative</string>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+    </ShipClasses>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Foundation</Name>
+          <Values>
+            <string>Comporellon</string>
+            <string>Daribow</string>
+            <string>Delicass</string>
+            <string>Dol</string>
+            <string>Kalgan</string>
+            <string>Korell</string>
+            <string>Lepsis</string>
+            <string>Nexon</string>
+            <string>Nishaya</string>
+            <string>Santanni</string>
+            <string>Trantor</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Foundation</Name>
+          <Values>
+            <string>Oona's World</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Foundation</Name>
+          <Values>
+            <string>Siwenna</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Foundation</Name>
+          <Values>
+            <string>Synnax</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Alpine>
+        <NameGroup>
+          <Name>Planets - Foundation</Name>
+          <Values>
+            <string>Helicon</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

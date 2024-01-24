@@ -20,6 +20,12 @@
             <string>Tajikistan</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Tojikiston</string>
+          </Values>
+        </NameGroup>
       </Countries>
     </Places>
   </NameList>

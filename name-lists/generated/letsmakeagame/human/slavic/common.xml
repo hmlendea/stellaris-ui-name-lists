@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>letsmakeagame_human_slavic</Id>
+    <Name>letsmakeagame.net - Human - Slavic</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Generated</Name>
+          <Values>
+            <string>Adov</string>
+            <string>Beohenov</string>
+            <string>Brunonov</string>
+            <string>Nonov</string>
+            <string>Phuhanov</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

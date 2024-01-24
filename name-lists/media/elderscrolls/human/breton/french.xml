@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>elderscrolls_human_breton_french</Id>
+    <Name>ElderScrolls - Human - Breton (French)</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - The Elder Scrolls</Name>
+          <Values>
+            <string>Alcaire</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers - The Elder Scrolls</Name>
+          <Values>
+            <string>Bjoulsae</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+    </Places>
+  </NameList>
+</ArrayOfNameList>

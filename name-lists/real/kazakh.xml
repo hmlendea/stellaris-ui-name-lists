@@ -20,6 +20,12 @@
             <string>Kazakhstan</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Qazaqstan</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Regions>
         <NameGroup>

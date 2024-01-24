@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_breton</Id>
+    <Name>Universum Infinitum - Human - Breton</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Enfer</string> <!-- Inferno -->
+            <string>Four</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Roazhon Nevez</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Akwarium</string> <!-- Aquarium -->
+            <string>Oseania</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Dibened</string> <!-- Serenity -->
+            <string>Doue</string> <!-- God -->
+            <string>Heol</string> <!-- Sky -->
+            <string>Paradis</string> <!-- Paradise -->
+            <string>Splann</string> <!-- Splendor -->
+            <string>Templ</string> <!-- Temple -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Brezel</string> <!-- War -->
+            <string>Geto</string> <!-- Ghetto -->
+            <string>Gloar</string> <!-- Rubble -->
+            <string>Gloar</string> <!-- Ruin -->
+            <string>Koulskoude</string> <!-- Graveyard -->
+            <string>Kriptenn</string> <!-- Crypt -->
+            <string>Toull-benn</string> <!-- Tombstone -->
+            <string>Troc'hseder</string> <!-- Cinder -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

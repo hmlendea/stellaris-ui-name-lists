@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_french_ivory</Id>
+    <Name>Human - Romance - French (Ivorian)</Name>
+    <Demonyms>
+      <NameGroup>
+        <Name>Demonyms</Name>
+        <Values>
+          <string>Ivorian</string>
+        </Values>
+      </NameGroup>
+    </Demonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Ivory Coast</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Côte d'Ivoire</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Agnéby-Tiassa</string>
+            <string>Bafing</string>
+            <string>Bagoué</string>
+            <string>Bélier</string>
+            <string>Béré</string>
+            <string>Cavally</string>
+            <string>Folon</string>
+            <string>Grands-Ponts</string>
+            <string>Guémon</string>
+            <string>Hambol</string>
+            <string>Haut-Sassandra</string>
+            <string>Iffou</string>
+            <string>Indénié-Djuablin</string>
+            <string>La Mé</string>
+            <string>Marahoué</string>
+            <string>Moronou</string>
+            <string>San-Pédro</string>
+            <string>Sud-Comoé</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Abidjan</string>
+            <string>Agboville</string>
+            <string>Bingerville</string>
+            <string>Bouaflé</string>
+            <string>Bouaké</string>
+            <string>Daloa</string>
+            <string>San-Pédro</string>
+            <string>Soubré</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Agnéby</string>
+            <string>Bagoé</string>
+            <string>Bandama</string>
+            <string>Baoulé</string>
+            <string>Cavally</string>
+            <string>Comoé</string>
+            <string>Dégou</string>
+            <string>Marahoué</string>
+            <string>Nipoué</string>
+            <string>Sassandra</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+    </Places>
+  </NameList>
+</ArrayOfNameList>

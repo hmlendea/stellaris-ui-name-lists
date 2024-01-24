@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_bosnian</Id>
+    <Name>Human - Slavic - Yugoslavic - Bosnian</Name>
+    <Demonyms>
+      <NameGroup>
+        <Name>Demonyms</Name>
+        <Values>
+          <string>Bosniak</string>
+          <string>Bosnian</string>
+        </Values>
+      </NameGroup>
+    </Demonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Bosnia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Bosna</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Donji Kraji</string>
+            <string>Glaž</string>
+            <string>Herzegovina</string>
+            <string>Krajina</string>
+            <string>Podrinje</string>
+            <string>Soli</string>
+            <string>Tropolje</string>
+            <string>Usora</string>
+            <string>Vrhbosna</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Banja Luka</string>
+            <string>Bihać</string>
+            <string>Bijeljinah</string>
+            <string>Čapljina</string>
+            <string>Cazin</string>
+            <string>Dobojh</string>
+            <string>Goražde</string>
+            <string>Gračanica</string>
+            <string>Gradačac</string>
+            <string>Gradiška</string>
+            <string>Istočno Sarajevoh</string>
+            <string>Livno</string>
+            <string>Ljubuški</string>
+            <string>Mostar</string>
+            <string>Prijedorh</string>
+            <string>Sarajevo</string>
+            <string>Široki Brijeg</string>
+            <string>Srebrenik</string>
+            <string>Trebinjeh</string>
+            <string>Tuzla</string>
+            <string>Visoko</string>
+            <string>Zenica</string>
+            <string>Živinice</string>
+            <string>Zvornik</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Balkana</string>
+            <string>Blidinje</string>
+            <string>Boračko</string>
+            <string>Buško</string>
+            <string>Jablanica</string>
+            <string>Jugovo</string>
+            <string>Orlovačko</string>
+            <string>Pliva</string>
+            <string>Prokoško</string>
+            <string>Rama</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
+    </Places>
+  </NameList>
+</ArrayOfNameList>

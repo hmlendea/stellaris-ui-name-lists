@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>humans_english_american_common</Id>
+    <Name>Humans - English - American (Common)</Name>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals</Name>
+          <Values>
+            <string>Coyote</string>
+            <string>Puma</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
+  </NameList>
+</ArrayOfNameList>

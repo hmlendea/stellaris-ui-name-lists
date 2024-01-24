@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_hellenic</Id>
+    <Name>Other Media - Human - Hellenic</Name>
+    <GreatPersons>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - Age of Mythology</Name>
+          <Values>
+            <string>Arkantos</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+    </GreatPersons>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Avatar</Name>
+          <Values>
+            <string>Polyphemus</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - CoDominium</Name> <!-- Federacy -->
+          <Values>
+            <string>Alexander</string>
+            <string>New Thessaly</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Borderlands</Name>
+          <Values>
+            <string>Isolus</string>
+            <string>Menoetius</string>
+            <string>Promethea</string>
+            <string>Tantalus</string>
+            <string>Themis</string>
+            <string>Thrace</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Arid>
+        <NameGroup>
+          <Name>Planets - Universum Infinitum</Name>
+          <Values>
+            <string>New Troy</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Avatar</Name>
+          <Values>
+            <string>Pandora</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Ocean>
+        <NameGroup>
+          <Name>Heroes - Age of Mythology</Name>
+          <Values>
+            <string>Arkantos</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - Borderlands</Name>
+          <Values>
+            <string>Xylourgos</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Borderlands</Name>
+          <Values>
+            <string>Nekrotafeyo</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_slovenian</Id>
+    <Name>Human - Slovenian</Name>
+    <Demonyms>
+      <NameGroup>
+        <Name>Demonyms</Name>
+        <Values>
+          <string>Slovene</string>
+          <string>Slovenian</string>
+        </Values>
+      </NameGroup>
+    </Demonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Slovenia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Slovenija</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Celje</string>
+            <string>Domžale</string>
+            <string>Izola</string>
+            <string>Jesenice</string>
+            <string>Kamnik</string>
+            <string>Koper</string>
+            <string>Kranj</string>
+            <string>Ljubljana</string>
+            <string>Maribor</string>
+            <string>Murska Sobota	</string>
+            <string>Nova Gorica</string>
+            <string>Novo Mesto</string>
+            <string>Ptuj</string>
+            <string>Škofja Loka</string>
+            <string>Trbovlje</string>
+            <string>Velenje</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+  </NameList>
+</ArrayOfNameList>

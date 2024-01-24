@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_hebrew</Id>
+    <Name>Human - Hebrew</Name>
+    <Demonyms>
+      <NameGroup>
+        <Name>Demonyms</Name>
+        <Values>
+          <string>Hebrew</string>
+          <string>Israelite</string>
+          <string>Jew</string>
+        </Values>
+      </NameGroup>
+    </Demonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Israel</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Yisra'el</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Haifa</string>
+            <string>Jerusalem</string>
+            <string>Judea</string>
+            <string>Samaria</string>
+            <string>Tel Aviv</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Acre</string>
+            <string>Afula</string>
+            <string>Ashdod</string>
+            <string>Ashkelon</string>
+            <string>Bat Yam</string>
+            <string>Beersheba</string>
+            <string>Beit Shemesh</string>
+            <string>Bnei Brak</string>
+            <string>Eilat</string>
+            <string>El'ad</string>
+            <string>Givatayim</string>
+            <string>Hadera</string>
+            <string>Haifa</string>
+            <string>Herzliya</string>
+            <string>Hod HaSharon</string>
+            <string>Holon</string>
+            <string>Jerusalem</string>
+            <string>Kfar Saba</string>
+            <string>Kiryat Ata</string>
+            <string>Kiryat Gat</string>
+            <string>Lod</string>
+            <string>Modi'in-Maccabim-Re'ut</string>
+            <string>Nahariya</string>
+            <string>Nazareth</string>
+            <string>Ness Ziona</string>
+            <string>Netanya</string>
+            <string>Petah Tikva</string>
+            <string>Ra'anana</string>
+            <string>Rahat</string>
+            <string>Ramat Gan</string>
+            <string>Ramat HaSharon</string>
+            <string>Ramla</string>
+            <string>Rehovot</string>
+            <string>Rishon LeZion</string>
+            <string>Rosh HaAyin</string>
+            <string>Tel Aviv</string>
+            <string>Umm al-Fahm</string>
+            <string>Yavne</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts</Name>
+          <Values>
+            <string>Negev</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
+    </Places>
+    <Warfare>
+      <Weapons>
+        <Swords>
+          <NameGroup>
+            <Name>Guns</Name>
+            <Values>
+              <string>Galil</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+      </Weapons>
+    </Warfare>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Behemoth</string>
+            <string>Dybbuk</string>
+            <string>Golem</string>
+            <string>Ziz</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
+  </NameList>
+</ArrayOfNameList>

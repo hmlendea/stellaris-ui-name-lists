@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>stellaris_human_hellenic</Id>
+    <Name>Stellaris - Human - Hellenic</Name>
+    <Ships>
+      <Cruiser>
+        <NameGroup>
+          <Name>Ships - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Achilles</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Ships - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Hydaspes</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Titan>
+        <NameGroup>
+          <Name>Ships - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Pegasus</string>
+          </Values>
+        </NameGroup>
+      </Titan>
+      <Juggernaut>
+        <NameGroup>
+          <Name>Ships - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Ararat</string>
+          </Values>
+        </NameGroup>
+      </Juggernaut>
+    </Ships>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Destinikon</string>
+            <string>Hesperides</string>
+            <string>Hesperos</string>
+            <string>Nova Constantinople</string>
+            <string>Rattenbury</string>
+            <string>Rhea</string>
+            <string>Tartessos</string>
+            <string>Tethys</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>New Troy</string>
+            <string>Olympia</string>
+            <string>Theia</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Arid>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Tartarus</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Jaxartes</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Delphi</string>
+            <string>Myndos</string>
+            <string>Thebes</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- Commonwealth of Man -->
+          <Values>
+            <string>Apollonia</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Alpine>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Apollonia</string>
+            <string>Olympia</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - Stellaris</Name> <!-- United Nations of Earth -->
+          <Values>
+            <string>Hyperborea</string>
+            <string>Thule</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

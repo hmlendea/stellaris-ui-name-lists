@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_common_spanish_american</Id>
+    <Name>Human - Common - Spanish - American</Name>
+    <Demonyms>
+      <NameGroup>
+        <Name>Demonyms</Name>
+        <Values>
+          <string>Spanish</string>
+        </Values>
+      </NameGroup>
+    </Demonyms>
+    <Places>
+      <Forests>
+        <NameGroup>
+          <Name>Forests</Name>
+          <Values>
+            <string>Amazonia</string>
+          </Values>
+        </NameGroup>
+      </Forests>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Amazon</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Andes</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mountains - Mythological</Name>
+          <Values>
+            <string>Sierra de la Plata</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts</Name>
+          <Values>
+            <string>Patagonia</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
+    </Places>
+    <Warfare>
+      <Weapons>
+        <Throwables>
+          <NameGroup>
+            <Name>Throwables</Name>
+            <Values>
+              <string>Bola</string>
+            </Values>
+          </NameGroup>
+        </Throwables>
+      </Weapons>
+    </Warfare>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals</Name>
+          <Values>
+            <string>Anaconda</string>
+            <string>Armadillo</string>
+            <string>Iguana</string>
+            <string>Jaguar</string>
+            <string>Ocelot</string>
+            <string>Puma</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Chupacabra</string>
+            <string>Quilombo</string>
+            <string>Yacumama</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
+    <Ships>
+      <Coloniser>
+        <NameGroup>
+          <Name>Places - Mythology</Name>
+          <Values>
+            <string>El Dorado</string>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+    </Ships>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Places</Name>
+          <Values>
+            <string>Nuevo Mojave</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Gaia>
+        <NameGroup>
+          <Name>Places - Mythology</Name>
+          <Values>
+            <string>El Dorado</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

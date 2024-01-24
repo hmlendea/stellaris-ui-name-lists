@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starcraft_protoss_daelaam</Id>
+    <Name>StarCraft - Protoss - Daelaam</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Daelaam</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Daelaam</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+    </Places>
+    <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types</Name>
+          <Values>
+            <string>Akhundelar</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
+    <Ships>
+      <Coloniser>
+        <NameGroup>
+          <Name>Ships</Name>
+          <Values>
+            <string>Daelaam</string>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+    </Ships>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets</Name>
+          <Values>
+            <string>Artika</string>
+            <string>Cantar</string>
+            <string>Nelyth</string>
+            <string>Rajal</string>
+            <string>Saalok</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets</Name>
+          <Values>
+            <string>Ash'Arak</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

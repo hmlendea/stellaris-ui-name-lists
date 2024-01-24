@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>elderscrolls_human_common</Id>
+    <Name>ElderScrolls - Human (Common)</Name>
+    <Demonyms>
+      <NameGroup>
+        <Name>Demonyms - The Elder Scrolls</Name>
+        <Values>
+          <string>Crown</string>
+          <string>Forebear</string>
+          <string>Human</string>
+          <string>Reachman</string>
+          <string>Redguard</string>
+          <string>Yokudan</string>
+        </Values>
+      </NameGroup>
+    </Demonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - The Elder Scrolls</Name>
+          <Values>
+            <string>Hammerfell</string>
+            <string>Yokuda</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - The Elder Scrolls</Name> <!-- Hammerfell -->
+          <Values>
+            <string>Abah's Landing</string>
+            <string>Sentinel</string>
+            <string>Taneth</string>
+            <string>Elinhir</string>
+            <string>Belkarth</string>
+            <string>Port Hunding</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <GreatPersons>
+      <CreationDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Aka</string>
+            <string>Anu</string>
+          </Values>
+        </NameGroup>
+      </CreationDeities>
+      <DestructionDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Padomay</string>
+          </Values>
+        </NameGroup>
+      </DestructionDeities>
+      <DeathDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Arkay</string>
+          </Values>
+        </NameGroup>
+      </DeathDeities>
+      <TimeDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Akatosh</string>
+          </Values>
+        </NameGroup>
+      </TimeDeities>
+      <JusticeDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Julianos</string>
+            <string>Stendarr</string>
+          </Values>
+        </NameGroup>
+      </JusticeDeities>
+      <DisloyaltyDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Orkey</string>
+          </Values>
+        </NameGroup>
+      </DisloyaltyDeities>
+      <LoveDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Dibella</string>
+            <string>Mara</string>
+          </Values>
+        </NameGroup>
+      </LoveDeities>
+      <KnowledgeDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Julianos</string>
+          </Values>
+        </NameGroup>
+      </KnowledgeDeities>
+      <FortuneDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Zenithar</string>
+          </Values>
+        </NameGroup>
+      </FortuneDeities>
+      <AirDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Kynareth</string>
+          </Values>
+        </NameGroup>
+      </AirDeities>
+      <OtherDeites>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Morihaus</string>
+            <string>Reman</string>
+            <string>Shezarr</string>
+            <string>Talos</string>
+          </Values>
+        </NameGroup>
+      </OtherDeites>
+    </GreatPersons>
+    <Warfare>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations - The Elder Scrolls</Name>
+          <Values>
+            <string>Red Mountain</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+    </Warfare>
+    <Armies>
+      <FleetSequentialName>Star Legion %R%</FleetSequentialName>
+      <DefenceArmySequentialName>Garrison Legion %R%</DefenceArmySequentialName>
+      <AssaultArmySequentialName>Legion %R%</AssaultArmySequentialName>
+      <OccupationArmySequentialName>Legion %R%</OccupationArmySequentialName>
+      <SlaveArmySequentialName>Conscripted Legion %R%</SlaveArmySequentialName>
+      <CloneArmySequentialName>Clone Legion %R%</CloneArmySequentialName>
+      <UndeadArmySequentialName>%O% Undead Army</UndeadArmySequentialName>
+      <RoboticDefenceArmySequentialName>Robotic Legion %R%</RoboticDefenceArmySequentialName>
+      <RoboticAssaultArmySequentialName>Robotic Legion %R%</RoboticAssaultArmySequentialName>
+      <RoboticOccupationArmySequentialName>Robotic Legion %R%</RoboticOccupationArmySequentialName>
+      <AndroidDefenceArmySequentialName>Synthetic Legion %R%</AndroidDefenceArmySequentialName>
+      <AndroidAssaultArmySequentialName>Synthetic Legion %R%</AndroidAssaultArmySequentialName>
+      <PsionicArmySequentialName>Psionic Legion %R%</PsionicArmySequentialName>
+      <XenomorphArmySequentialName>Beast Legion %R%</XenomorphArmySequentialName>
+      <SuperSoldierArmySequentialName>Super-Legion %R%</SuperSoldierArmySequentialName>
+    </Armies>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Continents - The Elder Scrolls</Name>
+          <Values>
+            <string>Tamriel</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

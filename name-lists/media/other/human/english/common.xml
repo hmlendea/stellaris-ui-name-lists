@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_common_english</Id>
+    <Name>Other Media - Human - Common - English</Name>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - Elder Scrolls</Name>
+          <Values>
+            <string>Summerset</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - A Song of Ice and Fire</Name> <!-- Dorne -->
+          <Values>
+            <string>Runestone</string>
+            <string>Skyreach</string>
+            <string>Sunspear</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains - A Song of Ice and Fire</Name>
+          <Values>
+            <string>Frostfang</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Lakes>
+        <NameGroup>
+          <Name>Bays - A Song of Ice and Fire</Name>
+          <Values>
+            <string>Blazewater</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
+    </Places>
+    <GreatPeople>
+      <Heroes>
+        <NameGroup>
+          <Name>Characters - Mad Jack the Pirate</Name>
+          <Values>
+            <string>Mad Jack the Pirate</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+    </GreatPeople>
+    <Stations>
+      <Starbases>
+        <Outposts>
+          <NameGroup>
+            <Name>Video Games</Name>
+            <Values>
+              <string>No Man's Sky</string>
+            </Values>
+          </NameGroup>
+        </Outposts>
+      </Starbases>
+    </Stations>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Dark Souls</Name>
+          <Values>
+            <string>Blighttown</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Arid>
+        <NameGroup>
+          <Name>Countries - A Song of Ice and Fire</Name>
+          <Values>
+            <string>Dorne</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - A Song of Ice and Fire</Name> <!-- Dorne -->
+          <Values>
+            <string>Sunspear</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Gaia>
+        <NameGroup>
+          <Name>Countries - Elder Scrolls</Name>
+          <Values>
+            <string>Summerset</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Alpine>
+        <NameGroup>
+          <Name>Cities - A Song of Ice and Fire</Name>
+          <Values>
+            <string>Skyreach</string>
+            <string>Runestone</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+      <Tomb>
+        <NameGroup>
+          <Name>Cities - Dark Souls</Name>
+          <Values>
+            <string>Blighttown</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - The Elder Scrolls</Name>
+          <Values>
+            <string>Bleakfalls</string>
+            <string>Coldharbour</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

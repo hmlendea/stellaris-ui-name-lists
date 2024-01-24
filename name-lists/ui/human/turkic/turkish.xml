@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_turkish</Id>
+    <Name>Universum Infinitum - Human - Turkish</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Cehennem</string> <!-- Inferno -->
+            <string>Fırın</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Arid>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Yeni Ankara</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Akvaryum</string> <!-- Aquarium -->
+            <string>Okyanusya</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Cennet</string> <!-- Paradise -->
+            <string>Gökyüzü</string> <!-- Sky -->
+            <string>Huzur</string> <!-- Serenity -->
+            <string>Ihtişam</string> <!-- Splendor -->
+            <string>Tanrı</string> <!-- God -->
+            <string>Tapınak</string> <!-- Temple -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Enkaz</string> <!-- Rubble -->
+            <string>Ghetto</string> <!-- Ghetto -->
+            <string>Harabe</string> <!-- Ruin -->
+            <string>Kömür</string> <!-- Cinder -->
+            <string>Kripta</string> <!-- Crypt -->
+            <string>Mezar Taşı</string> <!-- Tombstone -->
+            <string>Mezarlık</string> <!-- Graveyard -->
+            <string>Savaş</string> <!-- War -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

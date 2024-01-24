@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>alien_human_english_american</Id>
+    <Name>Alien - Human - English (American)</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Alien</Name> <!-- United States of America -->
+          <Values>
+            <string>Gotham</string>
+            <string>Neonopolis</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Ships>
+      <Transport>
+        <NameGroup>
+          <Name>Ships - Alien</Name> <!-- United States -->
+          <Values>
+            <string>Loose Moose</string>
+          </Values>
+        </NameGroup>
+      </Transport>
+    </Ships>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Alien</Name> <!-- United States of America -->
+          <Values>
+            <string>Gotham</string>
+            <string>Neonopolis</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

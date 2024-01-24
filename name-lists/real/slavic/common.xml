@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_common_slavic</Id>
+    <Name>Human - Common - Slavic</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Slav</string>
+          <string>Slavic</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <GreatPersons>
+      <SunDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Svarog</string>
+          </Values>
+        </NameGroup>
+      </SunDeities>
+    </GreatPersons>
+    <Warfare>
+      <Weapons>
+        <Polearms>
+          <NameGroup>
+            <Name>Polearms</Name>
+            <Values>
+              <string>Bardiche</string>
+            </Values>
+          </NameGroup>
+        </Polearms>
+      </Weapons>
+    </Warfare>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Rusalka</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
+  </NameList>
+</ArrayOfNameList>

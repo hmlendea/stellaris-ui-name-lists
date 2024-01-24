@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>humans_common_british</Id>
+    <Name>Humans - Common - British</Name>
+    <Demonyms>
+      <NameGroup>
+        <Name>Demonyms</Name>
+        <Values>
+          <string>British</string>
+        </Values>
+      </NameGroup>
+    </Demonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Britain</string>
+            <string>Great Britain</string>
+            <string>United Kingdom</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+    </Places>
+    <GreatPeople>
+      <Explorers>
+        <NameGroup>
+          <Name>Explorers</Name>
+          <Values>
+            <string>James Cook</string>
+            <string>Walter Raleigh</string>
+          </Values>
+        </NameGroup>
+      </Explorers>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists</Name>
+          <Values>
+            <string>Clarke</string>
+            <string>Hawking</string>
+            <string>Kelvin</string>
+            <string>Newton</string>
+            <string>Penrose</string>
+            <string>Spencer</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Churchill</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Victoria</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
+      <FlyingAces>
+        <NameGroup>
+          <Name>Flying Aces</Name>
+          <Values>
+            <string>MacLachlan</string>
+            <string>Mannock</string>
+            <string>Milne</string>
+          </Values>
+        </NameGroup>
+      </FlyingAces>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes</Name>
+          <Values>
+            <string>Robin Hood</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+      <Admirals>
+        <NameGroup>
+          <Name>Admirals</Name>
+          <Values>
+            <string>Beatty</string>
+            <string>Byng</string>
+            <string>Codrington</string>
+            <string>Crutchley</string>
+            <string>Cunningham</string>
+            <string>Hargood</string>
+            <string>Hawke</string>
+            <string>Hood</string>
+            <string>Howe</string>
+            <string>Jellicoe</string>
+            <string>Laforey</string>
+            <string>Milne</string>
+            <string>Mountbatten</string>
+          </Values>
+        </NameGroup>
+      </Admirals>
+    </GreatPeople>
+    <Companies>
+      <AutomotiveManufacturers>
+        <NameGroup>
+          <Name>Automotive Manufacturers</Name>
+          <Values>
+            <string>Aston Martin</string>
+            <string>Rover</string>
+            <string>Vauxhall</string>
+          </Values>
+        </NameGroup>
+      </AutomotiveManufacturers>
+      <AircraftManufacturers>
+        <NameGroup>
+          <Name>Aircraft manufacturers</Name>
+          <Values>
+            <string>BAE</string>
+            <string>Rolls-Royce</string>
+          </Values>
+        </NameGroup>
+      </AircraftManufacturers>
+      <SpacecraftManufacturers>
+        <NameGroup>
+          <Name>Spacecraft manufacturers</Name>
+          <Values>
+            <string>Clyde</string>
+            <string>Hawker Siddeley</string>
+            <string>In-Space</string>
+            <string>OneWeb</string>
+            <string>RAL</string>
+          </Values>
+        </NameGroup>
+      </SpacecraftManufacturers>
+      <InvestmentCompanies>
+        <NameGroup>
+          <Name>Investment Companies</Name>
+          <Values>
+            <string>Schroders</string>
+          </Values>
+        </NameGroup>
+      </InvestmentCompanies>
+    </Companies>
+    <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types</Name>
+          <Values>
+            <string>Cavalier</string>
+            <string>Redcoat</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Banshee</string>
+            <string>Enfield</string>
+            <string>Spriggan</string>
+            <string>Wyvern</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
+    <Ships>
+      <Cruiser>
+        <NameGroup>
+          <Name>Ships</Name>
+          <Values>
+            <string>Temeraire</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Science>
+        <NameGroup>
+          <Name>Ships</Name>
+          <Values>
+            <string>Untiring</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Landers - Mars</Name>
+          <Values>
+            <string>Beagle</string>
+          </Values>
+        </NameGroup>
+      </Science>
+    </Ships>
+  </NameList>
+</ArrayOfNameList>

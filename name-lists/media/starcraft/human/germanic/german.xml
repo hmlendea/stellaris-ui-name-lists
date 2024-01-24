@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starcraft_human_german</Id>
+    <Name>StarCraft - Human - German</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - StarCraft</Name>
+          <Values>
+            <string>Sharpsburg</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Ships>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - StarCraft</Name>
+          <Values>
+            <string>Bismarck</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+    </Ships>
+    <ShipClasses>
+      <Science>
+        <NameGroup>
+          <Name>Ship Classes - StarCraft</Name>
+          <Values>
+            <string>Kurzweil</string>
+          </Values>
+        </NameGroup>
+      </Science>
+    </ShipClasses>
+    <Planets>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Anselm</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

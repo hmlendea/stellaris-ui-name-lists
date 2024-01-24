@@ -29,6 +29,34 @@
         </NameGroup>
       </Deserts>
     </Places>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals</Name>
+          <Values>
+            <string>Aardvark</string>
+            <string>Antelope</string>
+            <string>Dromedary</string>
+            <string>Elephant</string>
+            <string>Gazelle</string>
+            <string>Lion</string>
+            <string>Monkey</string>
+            <string>Nicator</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Abada</string>
+            <string>Adze</string>
+            <string>Anansi</string>
+            <string>Mngwa</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <Warfare>
       <Weapons>
         <Throwables>

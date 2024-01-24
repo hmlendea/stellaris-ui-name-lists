@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_spanish_common</Id>
+    <Name>Universum Infinitum - Human - Spanish (Common)</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Infierno</string> <!-- Inferno -->
+            <string>Horno</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Acuario</string> <!-- Aquarium -->
+            <string>Oceanía</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Cielo</string> <!-- Sky -->
+            <string>Dios</string> <!-- God -->
+            <string>Paraíso</string> <!-- Paradise -->
+            <string>Serenidad</string> <!-- Serenity -->
+            <string>Templo</string> <!-- Temple -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Cementerio</string> <!-- Graveyard -->
+            <string>Ceniza</string> <!-- Cinder -->
+            <string>Escombros</string> <!-- Rubble -->
+            <string>Lápida</string> <!-- Tombstone -->
+            <string>Ruina</string> <!-- Ruin -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

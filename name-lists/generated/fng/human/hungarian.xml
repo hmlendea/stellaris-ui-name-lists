@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_fng_human_hungarian</Id>
+    <Name>Generated - FantasyNameGenerators - Human - Hungarian</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Generated</Name>
+          <Values>
+            <string>Jászlom</string>
+            <string>Szigefalu</string>
+            <string>Tiszacika</string>
+            <string>Újfekövesd</string>
+            <string>Várpafüred</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

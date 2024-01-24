@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_american</Id>
+    <Name>Other Media - Human - American</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Fallout</Name>
+          <Values>
+            <string>Grayditch</string>
+            <string>Megaton</string>
+            <string>New Vegas</string>
+            <string>Rivet</string> <!-- Rivet City -->
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Saints Row</Name>
+          <Values>
+            <string>Steelport</string>
+            <string>Stilwater</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <GreatPeople>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes - Memes</Name>
+          <Values>
+            <string>Rick Roll</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+    </GreatPeople>
+    <Ships>
+      <Battleship>
+        <NameGroup>
+          <Name>Movies</Name>
+          <Values>
+            <string>Disaster Artist</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Constructor>
+        <NameGroup>
+          <Name>People - Cartoons</Name>
+          <Values>
+            <string>Bob</string>
+          </Values>
+        </NameGroup>
+      </Constructor>
+    </Ships>
+    <Armies>
+      <AssaultArmy>
+        <NameGroup>
+          <Name>Movies</Name>
+          <Values>
+            <string>The Expendables</string>
+          </Values>
+        </NameGroup>
+      </AssaultArmy>
+    </Armies>
+    <Stations>
+      <ResearchStations>
+        <NameGroup>
+          <Name>Research facilities - Half Life</Name>
+          <Values>
+            <string>Black Mesa</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Research facilities - Portal</Name>
+          <Values>
+            <string>Aperture Science</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Fallout</Name>
+          <Values>
+            <string>Helios One</string>
+          </Values>
+        </NameGroup>
+      </ResearchStations>
+    </Stations>
+    <Planets>
+      <Arid>
+        <NameGroup>
+          <Name>Cities - Fallout</Name>
+          <Values>
+            <string>New Vegas</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Alpine>
+        <NameGroup>
+          <Name>Cities - Fallout</Name>
+          <Values>
+            <string>Grayditch</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+      <Tomb>
+        <NameGroup>
+          <Name>Cities - Fallout</Name>
+          <Values>
+            <string>Megaton</string>
+            <string>Rivet</string> <!-- Rivet City -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

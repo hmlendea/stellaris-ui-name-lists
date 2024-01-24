@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_australian_aboriginal</Id>
+    <Name>Human - Australian (Aboriginal)</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms</Name>
+        <Values>
+          <string>Aboriginal</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Ballarat</string>
+            <string>Jimboomba</string>
+            <string>Mareeba</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Bunyip</string>
+            <string>Yara-ma-yha-who</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
+  </NameList>
+</ArrayOfNameList>

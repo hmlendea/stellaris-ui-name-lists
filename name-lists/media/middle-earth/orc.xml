@@ -5,9 +5,10 @@
     <Name>Middle Earth - Orc</Name>
     <Demonyms>
       <NameGroup>
-        <Name>Demonyms</Name>
+        <Name>Demonyms - Middle Earth</Name>
         <Values>
           <string>Orc</string>
+          <string>Uruk Hai</string>
         </Values>
       </NameGroup>
     </Demonyms>

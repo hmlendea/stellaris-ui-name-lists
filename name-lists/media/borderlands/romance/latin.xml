@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>borderlands_human_latin</Id>
+    <Name>Borderlands - Human - Latin</Name>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Borderlands</Name>
+          <Values>
+            <string>Thrace</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

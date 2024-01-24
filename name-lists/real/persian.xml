@@ -88,15 +88,18 @@
         </NameGroup>
       </MilitaryUnitTypes>
     </Warfare>
-    <Planets>
-      <Generic>
+    <BiosphereNames>
+      <MythologicalCreatures>
         <NameGroup>
-          <Name>Cities - Pax Nova</Name> <!-- Eastern Resistance -->
+          <Name>Mythological creatures</Name>
           <Values>
-            <string>Kard</string>
+            <string>Manticore</string>
+            <string>Simurgh</string>
           </Values>
         </NameGroup>
-      </Generic>
+      </MythologicalCreatures>
+    </BiosphereNames>
+    <Planets>
       <Desert>
         <NameGroup>
           <Name>Places</Name>

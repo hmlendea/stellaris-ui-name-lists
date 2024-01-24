@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_brazilian</Id>
+    <Name>Human - Portuguese - Brazilian</Name>
+    <Demonyms>
+      <NameGroup>
+        <Name>Demonyms</Name>
+        <Values>
+          <string>Brazilian</string>
+        </Values>
+      </NameGroup>
+    </Demonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Brazil</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Brasil</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Forests>
+        <NameGroup>
+          <Name>Forests</Name>
+          <Values>
+            <string>Amazonia</string>
+          </Values>
+        </NameGroup>
+      </Forests>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Brasilia</string>
+            <string>Rio de Janeiro</string>
+            <string>Sao Paulo</string>
+            <string>São Paulo</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Amazon</string>
+            <string>Jaguaribe</string>
+            <string>Paranoá</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Guarapiranga</string>
+            <string>Orós</string>
+            <string>Paranoá</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
+    </Places>
+    <GreatPeople>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Pedro II</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
+    </GreatPeople>
+    <Companies>
+      <AircraftManufacturers>
+        <NameGroup>
+          <Name>Aircraft manufacturers</Name>
+          <Values>
+            <string>Embraer</string>
+          </Values>
+        </NameGroup>
+      </AircraftManufacturers>
+    </Companies>
+    <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types</Name>
+          <Values>
+            <string>Fuzileiro</string>
+            <string>Pracinha</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals</Name>
+          <Values>
+            <string>Puma</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
+  </NameList>
+</ArrayOfNameList>

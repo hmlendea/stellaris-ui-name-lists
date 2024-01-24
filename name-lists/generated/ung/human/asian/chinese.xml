@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_ung_human_chinese</Id>
+    <Name>Generated - Universal Name Generator - Human - Chinese</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>Dàiníng</string>
+            <string>Daqiangsong</string>
+            <string>Fēngsāng</string>
+            <string>Jūnshì</string>
+            <string>Sàdīng</string>
+            <string>Shàngbù</string>
+            <string>Sīlǐláng</string>
+            <string>Wéijiāng</string>
+            <string>Wéilǎng</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

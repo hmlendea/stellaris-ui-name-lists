@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_iberian</Id>
+    <Name>Human - Iberian</Name>
+    <Demonyms>
+      <NameGroup>
+        <Name>Demonyms</Name>
+        <Values>
+          <string>Iberian</string>
+        </Values>
+      </NameGroup>
+    </Demonyms>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Iberia</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+    </Places>
+    <Warfare>
+      <Weapons>
+        <Throwables>
+          <NameGroup>
+            <Name>Throwables</Name>
+            <Values>
+              <string>Falarica</string>
+            </Values>
+          </NameGroup>
+        </Throwables>
+        <Swords>
+          <NameGroup>
+            <Name>Swords</Name>
+            <Values>
+              <string>Falcata</string>
+            </Values>
+          </NameGroup>
+        </Swords>
+      </Weapons>
+    </Warfare>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals</Name>
+          <Values>
+            <string>Salamander</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
+  </NameList>
+</ArrayOfNameList>

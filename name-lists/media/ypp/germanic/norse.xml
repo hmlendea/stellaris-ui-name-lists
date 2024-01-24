@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ypp_norse</Id>
+    <Name>Puzzle Pirates - Norse</Name>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Jorvik</string>
+            <string>Norse</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+    </Places>
+    <Planets>
+      <Tundra>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Jorvik</string>
+            <string>Norse</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_japanese</Id>
+    <Name>Universum Infinitum - Human - Japanese</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Jigoku</string> <!-- Inferno -->
+            <string>Ōbun</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Shin Kyoto</string>
+            <string>Shin Tokyo</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Oseania</string> <!-- Ocean -->
+            <string>Suizokukan</string> <!-- Aquarium -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Kami</string> <!-- God -->
+            <string>Kareino</string> <!-- Splendor -->
+            <string>Rakuenshi</string> <!-- Paradise -->
+            <string>Seijakuno</string> <!-- Serenity -->
+            <string>Tenkūno</string> <!-- Sky -->
+            <string>Tera</string> <!-- Temple -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Baisa</string> <!-- Cinder -->
+            <string>Bochi</string> <!-- Graveyard -->
+            <string>Boketsu</string> <!-- Crypt -->
+            <string>Gareki</string> <!-- Rubble -->
+            <string>Gettō</string> <!-- Ghetto -->
+            <string>Haikyo</string> <!-- Ruin -->
+            <string>Hakaseki</string> <!-- Tombstone -->
+            <string>Sensō</string> <!-- War -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

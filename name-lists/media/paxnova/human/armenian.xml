@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>paxnova_human_armenian</Id>
+    <Name>Pax Nova - Human - Armenian</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Pax Nova</Name> <!-- Eastern Resistance -->
+          <Values>
+            <string>Aravus</string>
+            <string>Areg</string>
+            <string>Kherbeklu</string>
+            <string>Yervandashat</string>
+            <string>Zorats</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Pax Nova</Name> <!-- Eastern Resistance -->
+          <Values>
+            <string>Aravus</string>
+            <string>Areg</string>
+            <string>Kherbeklu</string>
+            <string>Yervandashat</string>
+            <string>Zorats</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

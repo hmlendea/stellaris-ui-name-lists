@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_russian</Id>
+    <Name>Other Media - Human - Russian</Name>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Regions - Escape from Tarkov</Name>
+          <Values>
+            <string>Norvinsk</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Escape from Tarkov</Name>
+          <Values>
+            <string>Tarkov</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Noon Universe</Name>
+          <Values>
+            <string>Ruzhena</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Noon Universe</Name>
+          <Values>
+            <string>Ruzhena</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Tundra>
+        <NameGroup>
+          <Name>Cities - Escape from Tarkov</Name>
+          <Values>
+            <string>Tarkov</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Escape from Tarkov</Name>
+          <Values>
+            <string>Norvinsk</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

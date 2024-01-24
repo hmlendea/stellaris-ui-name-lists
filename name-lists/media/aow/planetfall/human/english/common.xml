@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>aow_planetfall_human_english_common</Id>
+    <Name>Age of Wonders: Planetfall - Human - English (Common)</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Age of Wonders: Planetfall</Name> <!-- Vanguard -->
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/age-of-wonders-planetfall/human/locations/cities.lst</Url>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Age of Wonders: Planetfall</Name> <!-- Vanguard -->
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/age-of-wonders-planetfall/human/locations/cities.lst</Url>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

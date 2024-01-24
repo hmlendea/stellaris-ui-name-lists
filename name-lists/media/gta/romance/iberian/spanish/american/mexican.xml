@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>gta_spanish_mexican</Id>
+    <Name>Grand Theft Auto - Spanish (Mexican)</Name>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>States - Grand Theft Auto</Name>
+          <Values>
+            <string>San Andreas</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Grand Theft Auto</Name> <!-- San Andreas -->
+          <Values>
+            <string>San Fierro</string>
+            <string>Las Venturas</string>
+            <string>Los Santos</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Cities - Grand Theft Auto</Name>
+          <Values>
+            <string>Las Venturas</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Arid>
+        <NameGroup>
+          <Name>States - Grand Theft Auto</Name>
+          <Values>
+            <string>San Andreas</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Grand Theft Auto</Name>
+          <Values>
+            <string>Los Santos</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Continental>
+        <NameGroup>
+          <Name>Cities - Grand Theft Auto</Name>
+          <Values>
+            <string>San Fierro</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

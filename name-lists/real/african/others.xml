@@ -7,8 +7,6 @@
       <NameGroup>
         <Name>Demonyms</Name>
         <Values>
-          <string>African</string>
-          <string>Ugandan</string>
           <string>Zimbo</string>
         </Values>
       </NameGroup>
@@ -24,43 +22,42 @@
             <string>Mozambique</string>
             <string>Sierra Leone</string>
             <string>South Africa</string>
-            <string>Uganda</string>
           </Values>
         </NameGroup>
       </Countries>
       <Cities>
         <NameGroup>
-          <Name>Cities - Djibouti</Name>
+          <Name>Cities</Name> <!-- Djibouti -->
           <Values>
             <string>Djibouti</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Ghana</Name>
+          <Name>Cities</Name> <!-- Ghana -->
           <Values>
             <string>Accra</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Madagascar</Name>
+          <Name>Cities</Name> <!-- Madagascar -->
           <Values>
             <string>Antananarivo</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Mozambique</Name>
+          <Name>Cities</Name> <!-- Mozambique -->
           <Values>
             <string>Maputo</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Sierra Leone</Name>
+          <Name>Cities</Name> <!-- Sierra Leone -->
           <Values>
             <string>Freetown</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - South Africa</Name>
+          <Name>Cities</Name> <!-- South Africa -->
           <Values>
             <string>Cape Town</string>
             <string>Port Elizabeth</string>
@@ -81,26 +78,13 @@
       </Deserts>
       <Rivers>
         <NameGroup>
-          <Name>Rivers - Mozambique</Name>
+          <Name>Rivers</Name> <!-- Mozambique -->
           <Values>
             <string>Limpopo</string>
           </Values>
         </NameGroup>
       </Rivers>
     </Places>
-    <BiosphereNames>
-      <Animals>
-        <NameGroup>
-          <Name>Animals</Name>
-          <Values>
-            <string>Aardvark</string>
-            <string>Dromedary</string>
-            <string>Elephant</string>
-            <string>Nicator</string>
-          </Values>
-        </NameGroup>
-      </Animals>
-    </BiosphereNames>
     <Characters>
       <CharacterNames>
         <Id>hausa</Id>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starcraft_human_hebrew</Id>
+    <Name>StarCraft - Human - Hebrew</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - StarCraft</Name> <!-- Tyrandor IX -->
+          <Values>
+            <string>New Canaan</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <ShipClasses>
+      <Battleship>
+        <NameGroup>
+          <Name>Ship Classes - StarCraft</Name>
+          <Values>
+            <string>Behemoth</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+    </ShipClasses>
+    <Stations>
+      <MilitaryStations>
+        <Large>
+          <NameGroup>
+            <Name>Military Stations - StarCraft</Name>
+            <Values>
+              <string>Gehanna</string>
+            </Values>
+          </NameGroup>
+        </Large>
+      </MilitaryStations>
+    </Stations>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Shiloh</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Molten>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Abaddon</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

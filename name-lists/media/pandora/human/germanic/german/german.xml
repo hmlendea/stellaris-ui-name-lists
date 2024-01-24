@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>pandora_human_german</Id>
+    <Name>Pandora: First Contact - Human - German</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Imperium -->
+          <Values>
+            <string>Rommel</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
+          <Values>
+            <string>Haeckel</string>
+            <string>Mendel</string>
+            <string>Möbius</string>
+            <string>Schimper</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
+          <Values>
+            <string>Heisenberg</string>
+            <string>Landau</string>
+            <string>Planck</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Imperium -->
+          <Values>
+            <string>Rommel</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Terra Salvum -->
+          <Values>
+            <string>Haeckel</string>
+            <string>Mendel</string>
+            <string>Möbius</string>
+            <string>Schimper</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
+          <Values>
+            <string>Landau</string>
+            <string>Planck</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Tomb>
+        <NameGroup>
+          <Name>Cities - Pandora: First Contact</Name> <!-- Togra University -->
+          <Values>
+            <string>Heisenberg</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

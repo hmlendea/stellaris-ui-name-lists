@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ypp_english_european</Id>
+    <Name>Puzzle Pirates - English (European)</Name>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Wensleydale</string>
+            <string>Yorrick</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+    </Places>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Wensleydale</string>
+            <string>Admiral</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Alpine>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Yorrick</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

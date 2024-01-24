@@ -44,7 +44,14 @@
         <NameGroup>
           <Name>Cities</Name>
           <Values>
+            <string>Abéché</string>
+            <string>Am Timan</string>
+            <string>Bongor</string>
+            <string>Faya-Largeau</string>
+            <string>Kelo</string>
+            <string>Koumra</string>
             <string>Moundou</string>
+            <string>Moussoro</string>
             <string>N'Djamena</string>
           </Values>
         </NameGroup>

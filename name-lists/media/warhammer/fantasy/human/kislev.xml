@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>warhammer_fantasy_kislev</Id>
+    <Name>Warhammer Fantasy - Kislev</Name>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - Warhammer Fantasy</Name>
+          <Values>
+            <string>Kislev</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Warhammer Fantasy</Name>
+          <Values>
+            <string>Alexandronov</string> <!-- Castle Alexandronov -->
+            <string>Bolgasgrad</string>
+            <string>Dervingard</string>
+            <string>Enisov</string>
+            <string>Erengrad</string>
+            <string>Gerslev</string>
+            <string>Kislev</string>
+            <string>Krasicyno</string>
+            <string>Leblya</string>
+            <string>Milkavala</string>
+            <string>Praag</string>
+            <string>Ramaejk</string>
+            <string>Resov</string>
+            <string>Sepukzy</string>
+            <string>Vitevo</string>
+            <string>Volksgrad</string>
+            <string>Zavstra</string>
+            <string>Zhidovsk</string>
+            <string>Zoishenk</string>
+            <string>Zvenilev</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Warhammer Fantasy</Name>
+          <Values>
+            <string>Alexandronov</string> <!-- Castle Alexandronov -->
+            <string>Bolgasgrad</string>
+            <string>Dervingard</string>
+            <string>Enisov</string>
+            <string>Erengrad</string>
+            <string>Gerslev</string>
+            <string>Kislev</string>
+            <string>Krasicyno</string>
+            <string>Leblya</string>
+            <string>Milkavala</string>
+            <string>Praag</string>
+            <string>Ramaejk</string>
+            <string>Resov</string>
+            <string>Sepukzy</string>
+            <string>Vitevo</string>
+            <string>Volksgrad</string>
+            <string>Zavstra</string>
+            <string>Zhidovsk</string>
+            <string>Zoishenk</string>
+            <string>Zvenilev</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Arctic>
+        <NameGroup>
+          <Name>Cities - Warhammer Fantasy</Name>
+          <Values>
+            <string>Praag</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

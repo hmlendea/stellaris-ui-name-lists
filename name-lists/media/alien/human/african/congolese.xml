@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>alien_human_congolese</Id>
+    <Name>Alien - Human - Congolese</Name>
+    <Stations>
+      <MiningStations>
+        <NameGroup>
+          <Name>Mining Stations - Alien</Name>
+          <Values>
+            <string>Katanga</string>
+          </Values>
+        </NameGroup>
+      </MiningStations>
+    </Stations>
+  </NameList>
+</ArrayOfNameList>

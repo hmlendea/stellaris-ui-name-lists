@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_ung_human_spanish</Id>
+    <Name>Generated - Universal Name Generator - Human - Spanish</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>Alejard</string>
+            <string>Algueras</string>
+            <string>Beregovia</string>
+            <string>Cantánamo</string>
+            <string>Catara</string>
+            <string>Cerdeña</string>
+            <string>Costaná</string>
+            <string>Cuella</string>
+            <string>Ensenada</string>
+            <string>Federado</string>
+            <string>Guantábrico</string>
+            <string>Lilonia</string>
+            <string>Lucernandos</string>
+            <string>Numanca</string>
+            <string>Odomano</string>
+            <string>Quermaica</string>
+            <string>Rondoñedo</string>
+            <string>Santosa</string>
+            <string>Terrato</string>
+            <string>Timán</string>
+            <string>Trebia</string>
+            <string>Vancoso</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

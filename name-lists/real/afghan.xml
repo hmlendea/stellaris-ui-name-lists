@@ -20,6 +20,12 @@
             <string>Afghanistan</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonym</Name>
+          <Values>
+            <string>Afġānistān</string>
+          </Values>
+        </NameGroup>
       </Countries>
       <Regions>
         <NameGroup>

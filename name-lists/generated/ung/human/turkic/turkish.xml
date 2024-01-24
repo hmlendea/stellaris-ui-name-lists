@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_ung_human_turkish</Id>
+    <Name>Generated - Universal Name Generator - Human - Turkish</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>Barköy</string>
+            <string>Beypazarit</string>
+            <string>Büyük</string>
+            <string>Ilbasi</string>
+            <string>Istendi</string>
+            <string>Jur Hisar</string>
+            <string>Kasimiye</string>
+            <string>Kuşinagarze</string>
+            <string>Maratorluğu</string>
+            <string>Musalim Hisarı</string>
+            <string>Qostan</string>
+            <string>Saratorluğu</string>
+            <string>Süleyma</string>
+            <string>Timurlular</string>
+            <string>Yenişehir</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starcraft_human_dutch</Id>
+    <Name>StarCraft - Human - Dutch</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name> <!-- Unknown or unsure climate -->
+          <Values>
+            <string>Thys</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Van Osten's Moon</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_ung_human_russian</Id>
+    <Name>Generated - Universal Name Generator - Human - Russian</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>Akersk</string>
+            <string>Bambov</string>
+            <string>Borgoziya</string>
+            <string>Borov</string>
+            <string>Bredvezhya</string>
+            <string>Butiliya</string>
+            <string>Byudinsk</string>
+            <string>Byudinsk</string>
+            <string>Dandorov</string>
+            <string>Kalangosk</string>
+            <string>Katalovo</string>
+            <string>Khemnitsa</string>
+            <string>Kirginiya</string>
+            <string>Kototynsk</string>
+            <string>Kraslavl</string>
+            <string>Marshevanovsk</string>
+            <string>Peshkov</string>
+            <string>Rodosiya</string>
+            <string>Savangorsk</string>
+            <string>Velikiya</string>
+            <string>Verchevo</string>
+            <string>Vitaniya</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

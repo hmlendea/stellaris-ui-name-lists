@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>sose_human_latin</Id>
+    <Name>Sins of a Solar Empire - Human - Latin</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Sins of a Solar Empire</Name>
+          <Values>
+            <string>Galanthus</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Sins of a Solar Empire</Name>
+          <Values>
+            <string>Naeve</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

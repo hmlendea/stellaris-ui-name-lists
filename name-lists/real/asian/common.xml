@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_asian</Id>
+    <Name>Human - Asian</Name>
+    <Demonyms>
+      <NameGroup>
+        <Name>Demonyms</Name>
+        <Values>
+          <string>Asian</string>
+        </Values>
+      </NameGroup>
+    </Demonyms>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Continents</Name>
+          <Values>
+            <string>Asia</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+    </Places>
+  </NameList>
+</ArrayOfNameList>

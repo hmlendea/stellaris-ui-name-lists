@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starcraft_human_swahili</Id>
+    <Name>StarCraft - Human - Swahili</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - StarCraft</Name>
+        <Values>
+          <string>Umojan</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - StarCraft</Name>
+          <Values>
+            <string>Umoja</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+    </Places>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Umoja</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -5,13 +5,13 @@
     <Name>StarCraft - Protoss - Tal'darim</Name>
     <Demonyms>
       <NameGroup>
-        <Name>Demonyms - Groups</Name>
+        <Name>Demonyms</Name> <!-- Groups -->
         <Values>
           <string>Tal'darim</string>
         </Values>
       </NameGroup>
       <NameGroup>
-        <Name>Demonyms - Groups</Name>
+        <Name>Demonyms</Name> <!-- Tribes -->
         <Values>
           <string>Xava'kai</string>
         </Values>
@@ -20,26 +20,26 @@
     <Places>
       <Regions>
         <NameGroup>
-          <Name>Regions - Bel'Shir - Locations</Name>
+          <Name>Regions</Name> <!-- Bel'Shir, Locations -->
           <Values>
             <string>Kulas</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions - Shakuras</Name>
+          <Name>Regions</Name> <!-- Shakuras -->
           <Values>
             <string>Katuul</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions - Shakuras - Locations</Name>
+          <Name>Regions</Name> <!-- Shakuras, Locations -->
           <Values>
             <string>Razjan</string>
             <string>Kakaru</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions - Typhon XI</Name>
+          <Name>Regions</Name> <!-- Typhon XI -->
           <Values>
             <string>Elysium</string>
           </Values>
@@ -47,7 +47,7 @@
       </Regions>
       <Cities>
         <NameGroup>
-          <Name>Cities - Monlyth</Name>
+          <Name>Cities</Name> <!-- Monlyth -->
           <Values>
             <string>Zenith</string>
           </Values>
@@ -72,7 +72,7 @@
       </MilitaryUnitTypes>
       <Forts>
         <NameGroup>
-          <Name>Strongholds - Bel'Shir</Name>
+          <Name>Strongholds</Name> <!-- Bel'Shir -->
           <Values>
             <string>Arakan</string>
           </Values>
@@ -82,7 +82,7 @@
     <BiosphereNames>
       <Animals>
         <NameGroup>
-          <Name>Animals - Slayn</Name>
+          <Name>Animals</Name> <!-- Slayn -->
           <Values>
             <string>Dirge</string>
             <string>Slayn</string>
@@ -92,13 +92,13 @@
       </Animals>
       <Animals>
         <NameGroup>
-          <Name>Animals - Typhon XI</Name>
+          <Name>Animals</Name> <!-- Typhon XI -->
           <Values>
             <string>Karak</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Animals - Xil</Name>
+          <Name>Animals</Name> <!-- Xil -->
           <Values>
             <string>Urubu</string>
           </Values>

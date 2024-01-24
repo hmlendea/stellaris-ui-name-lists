@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>elderscrolls_human_atmoran</Id>
+    <Name>The Elder Scrolls - Human - Atmoran</Name>
+    <Denonyms>
+      <NameGroup>
+        <Name>Denonyms - The Elder Scrolls</Name>
+        <Values>
+          <string>Atmoran</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - The Elder Scrolls</Name>
+          <Values>
+            <string>Atmora</string>
+            <string>Roscrea</string>
+            <string>Solstheim</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Islands - The Elder Scrolls</Name>
+          <Values>
+            <string>Solstheim</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - The Elder Scrolls</Name> <!-- Atmora -->
+          <Values>
+            <string>Jylkurfyk</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - The Elder Scrolls</Name> <!-- Skyrim -->
+          <Values>
+            <string>Saarthal</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Arctic>
+        <NameGroup>
+          <Name>Countries - The Elder Scrolls</Name>
+          <Values>
+            <string>Atmora</string>
+            <string>Solstheim</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

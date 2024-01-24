@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ypp_greek</Id>
+    <Name>Puzzle Pirates - Greek</Name>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Cnossos</string>
+            <string>Hephaestus' Forge</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+    </Places>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Cnossos</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Molten>
+        <NameGroup>
+          <Name>Islands - Puzzle Pirates</Name>
+          <Values>
+            <string>Hephaestus' Forge</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_english_british</Id>
+    <Name>Other Media - Human - English (British)</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Frostpunk</Name>
+          <Values>
+            <string>Frostfire</string>
+            <string>Frostpunk</string>
+            <string>Winterhome</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Arctic>
+        <NameGroup>
+          <Name>Cities - Frostpunk</Name>
+          <Values>
+            <string>Frostfire</string>
+            <string>Frostpunk</string>
+            <string>Winterhome</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

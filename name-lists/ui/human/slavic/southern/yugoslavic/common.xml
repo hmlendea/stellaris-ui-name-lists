@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_yugoslavic</Id>
+    <Name>Universum Infinitum - Human - Yugoslavic</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Pakao</string> <!-- Inferno -->
+            <string>Pećnica</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Bog</string> <!-- God -->
+            <string>Hram</string> <!-- Temple -->
+            <string>Nebo</string> <!-- Sky -->
+            <string>Raj</string> <!-- Paradise -->
+            <string>Sjaj</string> <!-- Splendor -->
+            <string>Spokoj</string> <!-- Serenity -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Geto</string> <!-- Ghetto -->
+            <string>Groblje</string> <!-- Graveyard -->
+            <string>Grobnica</string> <!-- Crypt -->
+            <string>Nadgrobni Kamen</string> <!-- Tombstone -->
+            <string>Pepeo</string> <!-- Cinder -->
+            <string>Rat</string> <!-- War -->
+            <string>Ruina</string> <!-- Ruin -->
+            <string>Ruševine</string> <!-- Rubble -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

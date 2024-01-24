@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_galciv_human</Id>
+    <Name>Galactic Civilisations - Human</Name>
+    <Ships>
+      <Corvette>
+        <NameGroup>
+          <Name>Ships - Galactic Civilisations</Name>
+          <Values>
+            <string>Alecto</string>
+            <string>Galavant</string>
+            <string>Megaera</string>
+            <string>Tisiphone</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+    </Ships>
+  </NameList>
+</ArrayOfNameList>

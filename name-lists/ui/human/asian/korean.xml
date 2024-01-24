@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_korean</Id>
+    <Name>Universum Infinitum - Human - Korean</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Jiok</string> <!-- Inferno -->
+            <string>Obun</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Sae Pyeongyang</string>
+            <string>Sae Seoul</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Oseania</string> <!-- Ocean -->
+            <string>Sujokgwan</string> <!-- Aquarium -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Hananim</string> <!-- God -->
+            <string>Haneul</string> <!-- Sky -->
+            <string>Hwaryeo</string> <!-- Splendor -->
+            <string>Nakwon</string> <!-- Paradise -->
+            <string>Pyeongon</string> <!-- Serenity -->
+            <string>Sawon</string> <!-- Temple -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Dolbi</string> <!-- Tombstone -->
+            <string>Dolmyeong-i</string> <!-- Rubble -->
+            <string>Getto</string> <!-- Ghetto -->
+            <string>Jatdeomi</string> <!-- Cinder -->
+            <string>Jeonjaeng</string> <!-- War -->
+            <string>Jihasil</string> <!-- Crypt -->
+            <string>Myoji</string> <!-- Graveyard -->
+            <string>Pyehu</string> <!-- Ruin -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

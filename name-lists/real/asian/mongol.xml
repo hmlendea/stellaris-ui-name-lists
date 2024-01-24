@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_mongol</Id>
+    <Name>Human - Mongol</Name>
+    <Demonyms>
+      <NameGroup>
+        <Name>Demonyms</Name>
+        <Values>
+          <string>Mongol</string>
+          <string>Mongolian</string>
+        </Values>
+      </NameGroup>
+    </Demonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Mongolia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Mongol uls</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Altai</string>
+            <string>Arvaikheer</string>
+            <string>Baganuur</string>
+            <string>Bayankhongor</string>
+            <string>Choibalsan</string>
+            <string>Dalanzadgad</string>
+            <string>Darkhan</string>
+            <string>Erdenet</string>
+            <string>Khovd</string>
+            <string>Mörön</string>
+            <string>Nalaikh</string>
+            <string>Ölgii</string>
+            <string>Öndörkhaan</string>
+            <string>Sainshand</string>
+            <string>Sükhbaatar</string>
+            <string>Tsetserleg</string>
+            <string>Ulaangom</string>
+            <string>Ulan Bator</string>
+            <string>Uliastai</string>
+            <string>Züünkharaa</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts</Name>
+          <Values>
+            <string>Bayanzag</string>
+            <string>Dzungaria</string>
+            <string>Gobi</string>
+            <string>Khongoryn Els</string>
+            <string>Ordos</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
+    </Places>
+    <GreatPeople>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists</Name>
+          <Values>
+            <string>Ganzorig</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+      <LeadersTier1>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Kublai Khan</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier1>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Genghis Khan</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
+      <GeneralsTier2>
+        <NameGroup>
+          <Name>Generals</Name>
+          <Values>
+            <string>Subutai</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier2>
+    </GreatPeople>
+    <Warfare>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types</Name>
+          <Values>
+            <string>Keshig</string> <!-- AKA Keshik -->
+            <string>Mangudai</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
+  </NameList>
+</ArrayOfNameList>

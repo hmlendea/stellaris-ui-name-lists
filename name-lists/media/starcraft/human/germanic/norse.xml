@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>starcraft_human_norse</Id>
+    <Name>StarCraft - Human - Norse</Name>
+    <Ships>
+      <Titan>
+        <NameGroup>
+          <Name>Ships - StarCraft</Name>
+          <Values>
+            <string>Loki</string>
+          </Values>
+        </NameGroup>
+      </Titan>
+      <Coloniser>
+        <NameGroup>
+          <Name>Ships - StarCraft</Name>
+          <Values>
+            <string>Nagglfar</string>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+    </Ships>
+    <ShipClasses>
+      <Corvette>
+        <NameGroup>
+          <Name>Ship Classes - StarCraft</Name>
+          <Values>
+            <string>Valkyrie</string>
+            <string>Viking</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+    </ShipClasses>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name> <!-- Unknown or unsure climate -->
+          <Values>
+            <string>Valhalla</string>
+            <string>Jotun</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - StarCraft</Name>
+          <Values>
+            <string>Anselm</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

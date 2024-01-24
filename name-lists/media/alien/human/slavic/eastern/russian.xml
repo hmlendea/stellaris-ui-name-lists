@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>alien_human_russian</Id>
+    <Name>Alien - Human - Russian</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Alien</Name> <!-- Union of Progressive Peoples -->
+          <Values>
+            <string>Novaya Tver</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Stations>
+      <Starbases>
+        <Outposts>
+          <NameGroup>
+            <Name>Outposts - Alien</Name> <!-- Union of Progressive Peoples -->
+            <Values>
+              <string>Avozka</string> <!-- Avozka Sector Base -->
+              <string>Donovoy</string>
+              <string>Romashka</string>
+              <string>Sentyabr</string>
+              <string>Znoy</string>
+            </Values>
+          </NameGroup>
+        </Outposts>
+      </Starbases>
+    </Stations>
+    <Armies>
+      <AssaultArmy>
+        <NameGroup>
+          <Name>Assault armies</Name>
+          <Values>
+            <string>Iron Bears</string>
+          </Values>
+        </NameGroup>
+      </AssaultArmy>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Cities - Alien</Name> <!-- Union of Progressive Peoples -->
+          <Values>
+            <string>Novaya Tver</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>humans_american</Id>
+    <Name>Humans - American</Name>
+    <Demonyms>
+      <NameGroup>
+        <Name>Demonyms</Name>
+        <Values>
+          <string>American</string>
+        </Values>
+      </NameGroup>
+    </Demonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>America</string>
+            <string>United States</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Continents</Name>
+          <Values>
+            <string>America</string>
+            <string>North America</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Alabama</string>
+            <string>Alaska</string>
+            <string>Arizona</string>
+            <string>Arkansas</string>
+            <string>California</string>
+            <string>Colorado</string>
+            <string>Connecticut</string>
+            <string>Delaware</string>
+            <string>Florida</string>
+            <string>Georgia</string>
+            <string>Hawaii</string>
+            <string>Idaho</string>
+            <string>Illinois</string>
+            <string>Indiana</string>
+            <string>Iowa</string>
+            <string>Kansas</string>
+            <string>Kentucky</string>
+            <string>Louisiana</string>
+            <string>Maine</string>
+            <string>Maryland</string>
+            <string>Massachusetts</string>
+            <string>Michigan</string>
+            <string>Minnesota</string>
+            <string>Mississippi</string>
+            <string>Missouri</string>
+            <string>Montana</string>
+            <string>Nebraska</string>
+            <string>Nevada</string>
+            <string>New Hampshire</string>
+            <string>New Jersey</string>
+            <string>New Mexico</string>
+            <string>New York</string>
+            <string>North Carolina</string>
+            <string>North Dakota</string>
+            <string>Ohio</string>
+            <string>Oklahoma</string>
+            <string>Oregon</string>
+            <string>Pennsylvania</string>
+            <string>Rhode Island</string>
+            <string>South Carolina</string>
+            <string>South Dakota</string>
+            <string>Tennessee</string>
+            <string>Texas</string>
+            <string>Utah</string>
+            <string>Vermont</string>
+            <string>Virginia</string>
+            <string>Washington</string>
+            <string>West Virginia</string>
+            <string>Wisconsin</string>
+            <string>Wyoming</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Albuquerque</string>
+            <string>Anchorage</string>
+            <string>Arlington</string>
+            <string>Atlanta</string>
+            <string>Austin</string>
+            <string>Bakersfield</string>
+            <string>Baltimore</string>
+            <string>Boston</string>
+            <string>Charlotte</string>
+            <string>Chicago</string>
+            <string>Cincinnati</string>
+            <string>Cleveland</string>
+            <string>Dallas</string>
+            <string>Denver</string>
+            <string>Detroit</string>
+            <string>El Paso</string>
+            <string>Fort Worth</string>
+            <string>Fresno</string>
+            <string>Gettysburg</string>
+            <string>Hartford</string>
+            <string>Honolulu</string>
+            <string>Houston</string>
+            <string>Huntsville</string>
+            <string>Indianapolis</string>
+            <string>Jacksonville</string>
+            <string>Kansas City</string>
+            <string>Knoxville</string>
+            <string>Las Vegas</string>
+            <string>Los Angeles</string>
+            <string>Louisville</string>
+            <string>Miami</string>
+            <string>Minneapolis</string>
+            <string>Nashville</string>
+            <string>New Orleans</string>
+            <string>New York</string>
+            <string>Oklahoma City</string>
+            <string>Orlando</string>
+            <string>Philadelphia</string>
+            <string>Phoenix</string>
+            <string>Pittsburgh</string>
+            <string>Portland</string>
+            <string>Reno</string>
+            <string>Richmond</string>
+            <string>Sacramento</string>
+            <string>Salt Lake City</string>
+            <string>San Antonio</string>
+            <string>San Diego</string>
+            <string>San Francisco</string>
+            <string>San Jose</string>
+            <string>Saratoga</string>
+            <string>Savannah</string>
+            <string>Seattle</string>
+            <string>Spokane</string>
+            <string>St. Louis</string>
+            <string>Tallahassee</string>
+            <string>Tucson</string>
+            <string>Tulsa</string>
+            <string>Washington</string>
+            <string>Wichita</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts</Name>
+          <Values>
+            <string>Colorado</string>
+            <string>Mojave</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Arkansas</string>
+            <string>Colorado</string>
+            <string>Hudson</string>
+            <string>Merrimack</string>
+            <string>Mississippi</string>
+            <string>Potomac</string>
+            <string>Sacramento</string>
+            <string>Shenandoah</string>
+            <string>Susquehanna</string>
+            <string>Yukon</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+      <Airports>
+        <NameGroup>
+          <Name>Airports</Name>
+          <Values>
+            <string>John F. Kennedy</string>
+          </Values>
+        </NameGroup>
+      </Airports>
+    </Places>
+    <GreatPeople>
+      <Explorers>
+        <NameGroup>
+          <Name>Explorers</Name>
+          <Values>
+            <string>Aldrin</string>
+            <string>Armstrong</string>
+            <string>Grissom</string>
+          </Values>
+        </NameGroup>
+      </Explorers>
+      <Pioneers>
+        <NameGroup>
+          <Name>Pioneers</Name>
+          <Values>
+            <string>Earhart</string>
+          </Values>
+        </NameGroup>
+      </Pioneers>
+      <Scientists>
+        <NameGroup>
+          <Name>Scientists</Name>
+          <Values>
+            <string>Goddard</string>
+            <string>Goodenough</string>
+            <string>Hubble</string>
+            <string>Leffingwell</string>
+            <string>Odum</string>
+            <string>Pauling</string>
+            <string>Sagan</string>
+            <string>Swallow Richards</string>
+            <string>Whipple</string>
+          </Values>
+        </NameGroup>
+      </Scientists>
+      <LeadersTier2>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Lincoln</string>
+            <string>Roosevelt</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier2>
+      <LeadersTier3>
+        <NameGroup>
+          <Name>Leaders</Name>
+          <Values>
+            <string>Washington</string>
+          </Values>
+        </NameGroup>
+      </LeadersTier3>
+      <FlyingAces>
+        <NameGroup>
+          <Name>Flying Aces</Name>
+          <Values>
+            <string>Boyington</string>
+            <string>McCampbell</string>
+            <string>O'Hare</string>
+            <string>Olds</string>
+            <string>Rickenbacker</string>
+            <string>Yeager</string>
+          </Values>
+        </NameGroup>
+      </FlyingAces>
+      <Heroes>
+        <NameGroup>
+          <Name>Heroes</Name>
+          <Values>
+            <string>Paul Bunyan</string>
+            <string>Reuben James</string>
+            <string>Rodger Young</string>
+          </Values>
+        </NameGroup>
+      </Heroes>
+      <Admirals>
+        <NameGroup>
+          <Name>Admirals</Name>
+          <Values>
+            <string>Farragut</string>
+            <string>Fletcher</string>
+            <string>Halsey</string>
+            <string>Nimitz</string>
+            <string>Spruance</string>
+            <string>Turner</string>
+          </Values>
+        </NameGroup>
+      </Admirals>
+      <GeneralsTier1>
+        <NameGroup>
+          <Name>Generals</Name>
+          <Values>
+            <string>Doolittle</string>
+            <string>McAuliffe</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier1>
+      <GeneralsTier2>
+        <NameGroup>
+          <Name>Generals</Name>
+          <Values>
+            <string>Eisenhower</string>
+            <string>MacArthur</string>
+            <string>Patton</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier2>
+      <GeneralsTier3>
+        <NameGroup>
+          <Name>Generals</Name>
+          <Values>
+            <string>Hart</string>
+            <string>Tyler</string>
+          </Values>
+        </NameGroup>
+      </GeneralsTier3>
+    </GreatPeople>
+    <Companies>
+      <AutomotiveManufacturers>
+        <NameGroup>
+          <Name>Automotive Manufacturers</Name>
+          <Values>
+            <string>Ford</string>
+            <string>General Motors</string>
+            <string>Harley-Davidson</string>
+            <string>Paccar</string>
+            <string>Tesla</string>
+          </Values>
+        </NameGroup>
+      </AutomotiveManufacturers>
+      <AircraftManufacturers>
+        <NameGroup>
+          <Name>Aircraft manufacturers</Name>
+          <Values>
+            <string>Gulfstream</string>
+            <string>United Technologies</string>
+          </Values>
+        </NameGroup>
+      </AircraftManufacturers>
+      <SpacecraftManufacturers>
+        <NameGroup>
+          <Name>Spacecraft manufacturers</Name>
+          <Values>
+            <string>AeroAstro</string>
+            <string>Ball</string>
+            <string>Boeing</string>
+            <string>Fairchild</string>
+            <string>General Electric</string>
+            <string>Hughes</string>
+            <string>Lockheed Martin</string>
+            <string>Loral</string>
+            <string>Millenium Space</string>
+            <string>Northrop Grumman</string>
+            <string>Orcho</string>
+            <string>Philco Ford</string>
+            <string>Pumpkin</string>
+            <string>Raytheon</string>
+            <string>RCA Astro</string>
+            <string>Rockwell</string>
+            <string>Space Systems</string>
+            <string>Ytheona</string>
+          </Values>
+        </NameGroup>
+      </SpacecraftManufacturers>
+    </Companies>
+    <Warfare>
+      <Weapons>
+        <Axes>
+          <NameGroup>
+            <Name>Axes</Name>
+            <Values>
+              <string>Tomahawk</string>
+            </Values>
+          </NameGroup>
+        </Axes>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military unit types</Name>
+          <Values>
+            <string>Minuteman</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations</Name>
+          <Values>
+            <string>Antietam</string>
+            <string>Chickamagua</string>
+            <string>Gettysburg</string>
+            <string>Lexington</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+    </Warfare>
+    <BiosphereNames>
+      <Animals>
+        <NameGroup>
+          <Name>Animals</Name>
+          <Values>
+            <string>Grizzly</string>
+          </Values>
+        </NameGroup>
+      </Animals>
+    </BiosphereNames>
+    <Ships>
+      <Corvette>
+        <NameGroup>
+          <Name>Persons - Writers</Name>
+          <Values>
+            <string>John Henry</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Ships</Name>
+          <Values>
+            <string>John Paul Jones</string>
+            <string>Kearsarge</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+      <Cruiser>
+        <NameGroup>
+          <Name>Ships</Name>
+          <Values>
+            <string>Chancellorsville</string>
+            <string>Oriskany</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Science>
+        <NameGroup>
+          <Name>Landers - Mars</Name>
+          <Values>
+            <string>Curiosity</string>
+            <string>Insight</string>
+            <string>Opportunity</string>
+            <string>Pathfinder</string>
+            <string>Perseverance</string>
+            <string>Phoenix</string>
+            <string>Spirit</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Landers - Mars - Future / Proposed</Name>
+          <Values>
+            <string>Icebreaker</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rovers - Mars</Name>
+          <Values>
+            <string>Sojourner</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Space Probes</Name>
+          <Values>
+            <string>Voyager</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Space Shuttles</Name>
+          <Values>
+            <string>Atlantis</string>
+            <string>Challenger</string>
+            <string>Columbia</string>
+            <string>Discovery</string>
+            <string>Endeavour</string>
+            <string>Enterprise</string>
+            <string>Pathfinder</string>
+          </Values>
+        </NameGroup>
+      </Science>
+    </Ships>
+    <Armies>
+      <AssaultArmy>
+        <NameGroup>
+          <Name>Assault armies</Name>
+          <Values>
+            <string>Easy Company</string>
+            <string>Screaming Eagles</string>
+          </Values>
+        </NameGroup>
+      </AssaultArmy>
+      <DefenceArmy>
+        <NameGroup>
+          <Name>Defence armies</Name>
+          <Values>
+            <string>The Minutemen</string>
+          </Values>
+        </NameGroup>
+      </DefenceArmy>
+    </Armies>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Places</Name>
+          <Values>
+            <string>New Mojave</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Arid>
+        <NameGroup>
+          <Name>Places</Name>
+          <Values>
+            <string>Nevada</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

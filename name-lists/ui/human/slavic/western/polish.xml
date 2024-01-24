@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_polish</Id>
+    <Name>Universum Infinitum - Human - Polish</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Piekło</string> <!-- Inferno -->
+            <string>Piekarnik</string> <!-- Oven -->
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Based on real places</Name>
+          <Values>
+            <string>Nowa Warszawa</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Akwarium</string> <!-- Aquarium -->
+            <string>Oceania</string> <!-- Ocean -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Blask</string> <!-- Splendor -->
+            <string>Bóg</string> <!-- God -->
+            <string>Niebo</string> <!-- Sky -->
+            <string>Raj</string> <!-- Paradise -->
+            <string>Spokój</string> <!-- Serenity -->
+            <string>Świątynia</string> <!-- Temple -->
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Based on words</Name>
+          <Values>
+            <string>Getto</string> <!-- Ghetto -->
+            <string>Cmentarz</string> <!-- Graveyard -->
+            <string>Ruina</string> <!-- Ruin -->
+            <string>Krypta</string> <!-- Crypt -->
+            <string>Gruz</string> <!-- Rubble -->
+            <string>Popiół</string> <!-- Cinder -->
+            <string>Nagrobek</string> <!-- Tombstone -->
+            <string>Wojna</string> <!-- War -->
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

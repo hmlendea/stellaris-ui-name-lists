@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>human_taiwanese</Id>
+    <Name>Human - Taiwanese</Name>
+    <Demonyms>
+      <NameGroup>
+        <Name>Demonyms</Name>
+        <Values>
+          <string>Taiwanese</string>
+        </Values>
+      </NameGroup>
+    </Demonyms>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries</Name>
+          <Values>
+            <string>Taiwan</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - Endonyms</Name>
+          <Values>
+            <string>Táiwān</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Changhua</string>
+            <string>Chiayi</string>
+            <string>Douliu</string>
+            <string>Hsinchu</string>
+            <string>Hualien</string>
+            <string>Kaohsiung</string>
+            <string>Keelung</string>
+            <string>Magong</string>
+            <string>Miaoli</string>
+            <string>Nantou</string>
+            <string>Pingtung</string>
+            <string>Puzi</string>
+            <string>Taibao</string>
+            <string>Taichung</string>
+            <string>Tainan</string>
+            <string>Taipei</string>
+            <string>Taitung</string>
+            <string>Taoyuan</string>
+            <string>Toufen</string>
+            <string>Wenzhou</string>
+            <string>Yilan</string>
+            <string>Yuanlin</string>
+            <string>Zhubei</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+  </NameList>
+</ArrayOfNameList>
