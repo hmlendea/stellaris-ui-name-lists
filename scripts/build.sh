@@ -139,7 +139,7 @@ AFRICAN_NAMELISTS=$(get-namelists-merged ${AFRICAN_MEDIA_NAMELISTS} ${AFRICAN_RE
 ### ARABIC ###
 ##############
 ARABIC_GENERATED_NAMELISTS="generated/ung/human/semitic/arabic"
-ARABIC_MEDIA_NAMELISTS="media/civbe/human/semitic/arabic media/pandora/human/arabic media/paxnova/human/arabic media/runescape/human/kharidian media/starcraft/human/semitic/arabic media/warhammer/fantasy/human/arabyan"
+ARABIC_MEDIA_NAMELISTS="media/civbe/human/semitic/arabic media/pandora/human/arabic media/paxnova/human/arabic media/runescape/human/kharidian media/starcraft/human/semitic/arabic media/warhammer/fantasy/human/arabyan ui/human/semitic/arabic/maltese"
 ARABIC_REAL_NAMELISTS="real/semitic/arabic/berber real/semitic/arabic/egyptian real/semitic/arabic/iraqi real/semitic/arabic/jordanian real/semitic/arabic/kuwaiti \
 real/semitic/arabic/moroccan real/semitic/arabic/palestinian real/semitic/arabic/saudi real/semitic/arabic/syrian real/semitic/arabic/uae real/semitic/arabic/common real/common real/common/_"
 ARABIC_NAMELISTS=$(get-namelists-merged ${ARABIC_MEDIA_NAMELISTS} ${ARABIC_REAL_NAMELISTS} ${ARABIC_GENERATED_NAMELISTS})
@@ -488,6 +488,9 @@ LATIN_MEDIA_NAMELISTS="media/borderlands/romance/latin media/civbe/human/romance
 LATIN_REAL_NAMELISTS="real/romance/latin real/common/european real/common real/common/_"
 LATIN_NAMELISTS=$(get-namelists-merged ${LATIN_REAL_NAMELISTS} ${LATIN_MEDIA_NAMELISTS} ${LATIN_GENERATED_NAMELISTS})
 
+OCCITAN_MEDIA_NAMELISTS="ui/human/romance/iberian/occitan ${IBERIAN_ROMANCE_COMMON_MEDIA_NAMELISTS}"
+OCCITAN_NAMELISTS=$(get-namelists-merged ${OCCITAN_MEDIA_NAMELISTS})
+
 PORTUGUESE_COMMON_GENERATED_NAMELISTS="generated/ung/human/romance/iberian/portuguese"
 PORTUGUESE_COMMON_MEDIA_NAMELISTS="media/civbe/human/romance/iberian/portuguese ui/human/romance/iberian/portuguese/common ${IBERIAN_ROMANCE_COMMON_MEDIA_NAMELISTS}"
 PORTUGUESE_COMMON_REAL_NAMELISTS="real/romance/iberian/portuguese/common ${IBERIAN_ROMANCE_COMMON_REAL_NAMELISTS}"
@@ -525,10 +528,10 @@ SPANISH_LATAM_NAMELISTS=$(get-namelists-merged ${SPANISH_LATAM_REAL_NAMELISTS} $
 SPANISH_NAMELISTS=$(get-namelists-merged ${SPANISH_EURO_NAMELISTS} ${SPANISH_LATAM_NAMELISTS})
 
 IBERIAN_ROMANCE_EURO_GENERATED_NAMELISTS=$(get-namelists-merged ${SPANISH_EURO_GENERATED_NAMELISTS} ${PORTUGUESE_EURO_GENERATED_NAMELISTS})
-IBERIAN_ROMANCE_EURO_MEDIA_NAMELISTS=$(get-namelists-merged ${SPANISH_EURO_MEDIA_NAMELISTS} ${PORTUGUESE_EURO_MEDIA_NAMELISTS} ${CATALAN_MEDIA_NAMELISTS} ${IBERIAN_ROMANCE_COMMON_MEDIA_NAMELISTS})
+IBERIAN_ROMANCE_EURO_MEDIA_NAMELISTS=$(get-namelists-merged ${SPANISH_EURO_MEDIA_NAMELISTS} ${PORTUGUESE_EURO_MEDIA_NAMELISTS} ${CATALAN_MEDIA_NAMELISTS} ${OCCITAN_MEDIA_NAMELISTS} ${IBERIAN_ROMANCE_COMMON_MEDIA_NAMELISTS})
 IBERIAN_ROMANCE_EURO_REAL_NAMELISTS=$(get-namelists-merged ${SPANISH_EURO_REAL_NAMELISTS} ${PORTUGUESE_EURO_REAL_NAMELISTS} ${CATALAN_REAL_NAMELISTS} real/common/european ${IBERIAN_ROMANCE_COMMON_REAL_NAMELISTS})
 IBERIAN_ROMANCE_EURO_NAMELISTS=$(get-namelists-merged ${IBERIAN_ROMANCE_EURO_REAL_NAMELISTS} ${IBERIAN_ROMANCE_EURO_MEDIA_NAMELISTS} ${IBERIAN_ROMANCE_EURO_GENERATED_NAMELISTS})
-IBERIAN_ROMANCE_NAMELISTS=$(get-namelists-merged ${SPANISH_NAMELISTS} ${PORTUGUESE_NAMELISTS} ${CATALAN_NAMELISTS} ${IBERIAN_ROMANCE_EURO_NAMELISTS})
+IBERIAN_ROMANCE_NAMELISTS=$(get-namelists-merged ${SPANISH_NAMELISTS} ${PORTUGUESE_NAMELISTS} ${CATALAN_NAMELISTS} ${OCCITAN_NAMELISTS} ${IBERIAN_ROMANCE_EURO_NAMELISTS})
 
 IBERIAN_EURO_GENERATED_NAMELISTS=$(get-namelists-merged ${IBERIAN_ROMANCE_EURO_GENERATED_NAMELISTS})
 IBERIAN_EURO_MEDIA_NAMELISTS=$(get-namelists-merged ${IBERIAN_ROMANCE_EURO_MEDIA_NAMELISTS} media/civbe/human/basque)
