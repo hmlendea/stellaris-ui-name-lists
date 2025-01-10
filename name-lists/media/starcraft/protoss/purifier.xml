@@ -3,14 +3,14 @@
   <NameList>
     <Id>starcraft_protoss_purifier</Id>
     <Name>StarCraft - Protoss - Purifier</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name> <!-- Groups -->
+        <Name>Demonyms</Name> <!-- Groups -->
         <Values>
           <string>Purifier</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Stations>
       <MilitaryStations>
         <Generic>

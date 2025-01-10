@@ -3,18 +3,18 @@
   <NameList>
     <Id>ui_runescape_goblinc</Id>
     <Name>RuneScape - Goblin</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Goblin</string>
         </Values>
       </NameGroup>
       <NameGroup>
-        <Name>Denonyms - Clans</Name>
+        <Name>Demonyms - Clans</Name>
         <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/runescape/goblins/groups/clans.lst</Url>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Characters>
       <CharacterNames>
         <Id>runescape-goblin</Id>

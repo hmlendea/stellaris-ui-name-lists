@@ -3,14 +3,14 @@
   <NameList>
     <Id>humans_common_african</Id>
     <Name>Humans - Common - African</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>African</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Regions>
         <NameGroup>

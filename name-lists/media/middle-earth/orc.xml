@@ -3,15 +3,15 @@
   <NameList>
     <Id>ui_middle-earth_orc</Id>
     <Name>Middle Earth - Orc</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - Middle Earth</Name>
+        <Name>Demonyms - Middle Earth</Name>
         <Values>
           <string>Orc</string>
           <string>Uruk Hai</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Characters>
       <CharacterNames>
         <Id>middle-earth-orc</Id>

@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_iranian</Id>
     <Name>Human - Iranian</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Iranian</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>
@@ -32,7 +32,9 @@
           <Values>
             <string>Faisalabad</string>
             <string>Isfahan</string>
+            <string>Kermanshah</string>
             <string>Mashhad</string>
+            <string>Tabriz</string>
             <string>Tehran</string>
           </Values>
         </NameGroup>

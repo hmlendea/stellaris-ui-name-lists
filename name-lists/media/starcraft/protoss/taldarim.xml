@@ -3,20 +3,20 @@
   <NameList>
     <Id>starcraft_protoss_tadarim</Id>
     <Name>StarCraft - Protoss - Tal'darim</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name> <!-- Groups -->
+        <Name>Demonyms</Name> <!-- Groups -->
         <Values>
           <string>Tal'darim</string>
         </Values>
       </NameGroup>
       <NameGroup>
-        <Name>Denonyms</Name> <!-- Tribes -->
+        <Name>Demonyms</Name> <!-- Tribes -->
         <Values>
           <string>Xava'kai</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Regions>
         <NameGroup>

@@ -3,14 +3,14 @@
   <NameList>
     <Id>nms_traveller</Id>
     <Name>No Man's Sky - Traveller</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Traveller</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Stations>
       <ResearchStations>
         <NameGroup>

@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_zande</Id>
     <Name>Human - Zande</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Zande</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Warfare>
       <Weapons>
         <Throwables>

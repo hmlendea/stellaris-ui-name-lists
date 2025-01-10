@@ -3,9 +3,9 @@
   <NameList>
     <Id>ui_middle-earth_elven</Id>
     <Name>Middle Earth - Elven</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - Middle Earth</Name>
+        <Name>Demonyms - Middle Earth</Name>
         <Values>
           <string>Avarin</string>
           <string>Calaquendi</string>
@@ -20,7 +20,7 @@
           <string>Vanyarin</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Characters>
       <CharacterNames>
         <Id>sindarin</Id>

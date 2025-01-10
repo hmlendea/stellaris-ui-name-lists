@@ -3,20 +3,20 @@
   <NameList>
     <Id>human_french</Id>
     <Name>Humans - French</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>French</string>
         </Values>
       </NameGroup>
       <NameGroup>
-        <Name>Denonyms - Endonyms</Name>
+        <Name>Demonyms - Endonyms</Name>
         <Values>
           <string>François</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

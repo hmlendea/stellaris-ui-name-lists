@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_zulu</Id>
     <Name>Human - Zulu</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Zulu</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <GreatPeople>
       <LeadersTier1>
         <NameGroup>

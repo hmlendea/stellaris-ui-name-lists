@@ -3,14 +3,14 @@
   <NameList>
     <Id>nms_gek</Id>
     <Name>No Man's Sky - Gek</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Gek</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Stations>
       <ResearchStations>
         <NameGroup>

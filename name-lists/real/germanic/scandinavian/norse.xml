@@ -3,9 +3,9 @@
   <NameList>
     <Id>human_common_norse</Id>
     <Name>Human - Common - Norse</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Gothic</string>
           <string>Norse</string>
@@ -13,7 +13,7 @@
           <string>Viking</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <BiosphereNames>
       <MythologicalCreatures>
         <NameGroup>

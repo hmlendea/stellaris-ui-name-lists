@@ -3,16 +3,16 @@
   <NameList>
     <Id>human_hebrew</Id>
     <Name>Human - Hebrew</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Hebrew</string>
           <string>Israelite</string>
           <string>Jew</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

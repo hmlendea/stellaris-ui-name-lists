@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_common_slavic_montenegrin</Id>
     <Name>Human - Slavic - Montenegrin</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Montenegrin</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

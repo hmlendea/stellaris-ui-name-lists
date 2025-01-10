@@ -3,14 +3,14 @@
   <NameList>
     <Id>human_common_spanish_american</Id>
     <Name>Human - Common - Spanish - American</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Spanish</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Forests>
         <NameGroup>

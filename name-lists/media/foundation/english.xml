@@ -3,14 +3,14 @@
   <NameList>
     <Id>foundation_human_english</Id>
     <Name>Foundation - Human (English)</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - Foundation</Name>
+        <Name>Demonyms - Foundation</Name>
         <Values>
           <string>Sayshellian</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Planets>
       <Generic>
         <NameGroup>

@@ -3,14 +3,14 @@
   <NameList>
     <Id>runescape_human_kharidian</Id>
     <Name>RuneScape - Human - Kharidian</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - RuneScape</Name>
+        <Name>Demonyms - RuneScape</Name>
         <Values>
           <string>Kharidian</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>

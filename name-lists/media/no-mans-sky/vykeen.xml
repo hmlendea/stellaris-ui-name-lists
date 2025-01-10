@@ -3,14 +3,14 @@
   <NameList>
     <Id>nms_vykeen</Id>
     <Name>No Man's Sky - Vy'keen</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Demonyms</Name>
         <Values>
           <string>Vy'keen</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Stations>
       <ResearchStations>
         <NameGroup>

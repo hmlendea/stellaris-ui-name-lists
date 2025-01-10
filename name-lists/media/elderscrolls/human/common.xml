@@ -3,9 +3,9 @@
   <NameList>
     <Id>elderscrolls_human_common</Id>
     <Name>ElderScrolls - Human (Common)</Name>
-    <Denonyms>
+    <Demonyms>
       <NameGroup>
-        <Name>Denonyms - The Elder Scrolls</Name>
+        <Name>Demonyms - The Elder Scrolls</Name>
         <Values>
           <string>Crown</string>
           <string>Forebear</string>
@@ -15,7 +15,7 @@
           <string>Yokudan</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Demonyms>
     <Places>
       <Countries>
         <NameGroup>
