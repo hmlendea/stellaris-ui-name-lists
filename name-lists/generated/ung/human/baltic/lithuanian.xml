@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>generated_ung_human_lithuanian</Id>
+    <Name>Generated - Universal Name Generator - Human - Lithuanian</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Toponyms - Generated</Name>
+          <Values>
+            <string>Bardenas</string>
+            <string>Kaidanas</string>
+            <string>Kajanas</string>
+            <string>Kalaminas</string>
+            <string>Kalinas</string>
+            <string>Kašgardas</string>
+            <string>Kovenas</string>
+            <string>Pitalovėjus</string>
+            <string>Roveris</string>
+            <string>Sarkemišas</string>
+            <string>Šiauris</string>
+            <string>Skagenė</string>
+            <string>Tãlavas</string>
+            <string>Telemas</string>
+            <string>Valjė</string>
+            <string>Virandas</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

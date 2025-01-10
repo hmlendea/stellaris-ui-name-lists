@@ -21,6 +21,13 @@
             <string>Okeanía</string> <!-- Ocean -->
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Planets - Based on names for Natural Phenomenon</Name>
+          <Values>
+            <string>Garbī́s</string> <!-- Libeccio. Westerly or south-westerly wind, predominantly in northern Corsica -->
+            <string>Lívas</string> <!-- Libeccio. Westerly or south-westerly wind, predominantly in northern Corsica -->
+          </Values>
+        </NameGroup>
       </Ocean>
       <Gaia>
         <NameGroup>
