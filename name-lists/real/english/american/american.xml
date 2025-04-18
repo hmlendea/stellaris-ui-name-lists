@@ -181,7 +181,11 @@
         <NameGroup>
           <Name>Airports</Name>
           <Values>
+            <string>Harry Reid</string>
             <string>John F. Kennedy</string>
+            <string>LaGuardia</string>
+            <string>Logan</string>
+            <string>O'Hare</string>
           </Values>
         </NameGroup>
       </Airports>
@@ -318,7 +322,7 @@
       </AutomotiveManufacturers>
       <AircraftManufacturers>
         <NameGroup>
-          <Name>Aircraft manufacturers</Name>
+          <Name>Aircraft Manufacturers</Name>
           <Values>
             <string>Gulfstream</string>
             <string>United Technologies</string>
@@ -327,7 +331,7 @@
       </AircraftManufacturers>
       <SpacecraftManufacturers>
         <NameGroup>
-          <Name>Spacecraft manufacturers</Name>
+          <Name>Spacecraft Manufacturers</Name>
           <Values>
             <string>AeroAstro</string>
             <string>Ball</string>
@@ -372,12 +376,23 @@
       </MilitaryUnitTypes>
       <BattleLocations>
         <NameGroup>
-          <Name>Battle locations</Name>
+          <Name>Battle Locations</Name>
           <Values>
             <string>Antietam</string>
+            <string>Belmont</string>
             <string>Chickamagua</string>
+            <string>Cockpit Point</string>
+            <string>Cole Camp</string>
+            <string>Drewry's Bluff</string>
             <string>Gettysburg</string>
+            <string>Globe Tavern</string>
             <string>Lexington</string>
+            <string>Pea Ridge</string>
+            <string>Plattsburgh</string>
+            <string>Roan's Tan Yard</string>
+            <string>Seven Pines</string>
+            <string>Shiloh</string>
+            <string>Simmon's Bluff</string>
           </Values>
         </NameGroup>
       </BattleLocations>

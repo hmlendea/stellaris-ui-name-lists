@@ -179,7 +179,7 @@
       </AutomotiveManufacturers>
       <SpacecraftManufacturers>
         <NameGroup>
-          <Name>Spacecraft manufacturers</Name>
+          <Name>Spacecraft Manufacturers</Name>
           <Values>
             <string>Satrec</string>
           </Values>
@@ -207,9 +207,17 @@
       </MilitaryUnitTypes>
       <BattleLocations>
         <NameGroup>
-          <Name>Battle locations</Name>
+          <Name>Battle Locations</Name>
           <Values>
+            <string>Chungju</string>
+            <string>Haengju</string>
             <string>Incheon</string>
+            <string>Myeongnyang</string>
+            <string>Okpo</string>
+            <string>Pakchon</string>
+            <string>Pungdo</string>
+            <string>Sacheon</string>
+            <string>Seonghwan</string>
           </Values>
         </NameGroup>
       </BattleLocations>

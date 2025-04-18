@@ -282,7 +282,7 @@
     <ShipClasses>
       <Generic>
         <NameGroup>
-          <Name>Spacecraft manufacturers</Name>
+          <Name>Spacecraft Manufacturers</Name>
           <Values>
             <string>GAUSS</string>
           </Values>

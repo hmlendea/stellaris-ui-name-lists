@@ -100,7 +100,7 @@
     <Companies>
       <AircraftManufacturers>
         <NameGroup>
-          <Name>Aircraft manufacturers</Name>
+          <Name>Aircraft Manufacturers</Name>
           <Values>
             <string>Bombardier</string>
           </Values>
@@ -108,7 +108,7 @@
       </AircraftManufacturers>
       <SpacecraftManufacturers>
         <NameGroup>
-          <Name>Spacecraft manufacturers</Name>
+          <Name>Spacecraft Manufacturers</Name>
           <Values>
             <string>MicroSat</string>
           </Values>
@@ -124,6 +124,22 @@
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle Locations</Name>
+          <Values>
+            <string>Crysler's Farm</string>
+            <string>Cut Knife</string>
+            <string>Duck Lake</string>
+            <string>Fish Creek</string>
+            <string>Loon Lake</string>
+            <string>Montgomery's Tavern</string>
+            <string>Pelee Island</string>
+            <string>Valcour Island</string>
+            <string>Windsor</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
     </Warfare>
   </NameList>
 </ArrayOfNameList>

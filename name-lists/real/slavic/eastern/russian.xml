@@ -296,7 +296,7 @@
     <Companies>
       <AircraftManufacturers>
         <NameGroup>
-          <Name>Aircraft manufacturers</Name>
+          <Name>Aircraft Manufacturers</Name>
           <Values>
             <string>Energia</string>
             <string>Tupolev</string>
@@ -312,7 +312,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Spacecraft manufacturers</Name>
+          <Name>Spacecraft Manufacturers</Name>
           <Values>
             <string>Energiya</string>
             <string>Lavochkin</string>

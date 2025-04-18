@@ -257,7 +257,7 @@
       </AutomotiveManufacturers>
       <AircraftManufacturers>
         <NameGroup>
-          <Name>Aircraft manufacturers</Name>
+          <Name>Aircraft Manufacturers</Name>
           <Values>
             <string>Changhe</string>
             <string>Hafei</string>

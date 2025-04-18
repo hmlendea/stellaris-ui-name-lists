@@ -117,7 +117,7 @@
     <Companies>
       <SpacecraftManufacturers>
         <NameGroup>
-          <Name>Spacecraft manufacturers</Name>
+          <Name>Spacecraft Manufacturers</Name>
           <Values>
             <string>INVAP</string>
           </Values>
@@ -127,7 +127,7 @@
     <Warfare>
       <BattleLocations>
         <NameGroup>
-          <Name>Battle locations</Name>
+          <Name>Battle Locations</Name>
           <Values>
             <string>Goose Green</string>
           </Values>

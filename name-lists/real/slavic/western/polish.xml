@@ -85,7 +85,7 @@
     <Companies>
       <AircraftManufacturers>
         <NameGroup>
-          <Name>Aircraft manufacturers</Name>
+          <Name>Aircraft Manufacturers</Name>
           <Values>
             <string>PZL</string>
           </Values>

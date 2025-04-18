@@ -109,13 +109,25 @@
     <Companies>
       <AircraftManufacturers>
         <NameGroup>
-          <Name>Aircraft manufacturers</Name>
+          <Name>Aircraft Manufacturers</Name>
           <Values>
             <string>Brumby</string>
           </Values>
         </NameGroup>
       </AircraftManufacturers>
     </Companies>
+    <Warfare>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle Locations</Name>
+          <Values>
+            <string>Broken River</string>
+            <string>One Tree Hill</string>
+            <string>Richmond Hill</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+    </Warfare>
     <BiosphereNames>
       <Animals>
         <NameGroup>
