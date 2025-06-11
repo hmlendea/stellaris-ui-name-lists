@@ -64,7 +64,7 @@
       </MilitaryUnitTypes>
       <BattleLocations>
         <NameGroup>
-          <Name>Battle locations</Name>
+          <Name>Battle Locations</Name>
           <Values>
             <string>Kharkov</string>
             <string>Poltava</string>

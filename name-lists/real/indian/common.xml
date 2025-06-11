@@ -178,7 +178,7 @@
       </AutomotiveManufacturers>
       <AircraftManufacturers>
         <NameGroup>
-          <Name>Aircraft manufacturers</Name>
+          <Name>Aircraft Manufacturers</Name>
           <Values>
             <string>Hindustan</string>
           </Values>
@@ -186,7 +186,7 @@
       </AircraftManufacturers>
       <SpacecraftManufacturers>
         <NameGroup>
-          <Name>Spacecraft manufacturers</Name>
+          <Name>Spacecraft Manufacturers</Name>
           <Values>
             <string>Dhruva</string>
           </Values>

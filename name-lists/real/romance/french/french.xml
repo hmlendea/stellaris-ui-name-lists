@@ -222,7 +222,7 @@
       </AutomotiveManufacturers>
       <AircraftManufacturers>
         <NameGroup>
-          <Name>Aircraft manufacturers</Name>
+          <Name>Aircraft Manufacturers</Name>
           <Values>
             <string>Airbus</string>
             <string>Dessault</string>
@@ -235,7 +235,7 @@
       </AircraftManufacturers>
       <SpacecraftManufacturers>
         <NameGroup>
-          <Name>Spacecraft manufacturers</Name> <!-- Belgian -->
+          <Name>Spacecraft Manufacturers</Name> <!-- Belgian -->
           <Values>
             <string>QuentiQ</string>
           </Values>
@@ -313,7 +313,7 @@
       </MilitaryUnitTypes>
       <BattleLocations>
         <NameGroup>
-          <Name>Battle locations</Name>
+          <Name>Battle Locations</Name>
           <Values>
             <string>Belleau Wood</string>
             <string>Somme</string>
