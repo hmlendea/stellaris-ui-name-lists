@@ -13,6 +13,15 @@
           </Values>
         </NameGroup>
       </Desert>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on names for Natural Phenomenon</Name>
+          <Values>
+            <string>Garbin</string> <!-- Libeccio. Westerly or south-westerly wind, predominantly in northern Corsica -->
+            <string>Lebić</string> <!-- Libeccio. Westerly or south-westerly wind, predominantly in northern Corsica -->
+          </Values>
+        </NameGroup>
+      </Ocean>
       <Gaia>
         <NameGroup>
           <Name>Planets - Based on words</Name>

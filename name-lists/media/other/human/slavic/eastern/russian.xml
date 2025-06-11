@@ -14,9 +14,22 @@
       </Regions>
       <Cities>
         <NameGroup>
+          <Name>Cities - Atom RPG</Name>
+          <Values>
+            <string>Kraznosnamenny</string>
+            <string>Trudograd</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - Escape from Tarkov</Name>
           <Values>
             <string>Tarkov</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Villages - Atom RPG</Name>
+          <Values>
+            <string>Otradnoye</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -24,9 +37,22 @@
     <Planets>
       <Generic>
         <NameGroup>
+          <Name>Cities - Atom RPG</Name>
+          <Values>
+            <string>Kraznosnamenny</string>
+            <string>Trudograd</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Planets - Noon Universe</Name>
           <Values>
             <string>Ruzhena</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Villages - Atom RPG</Name>
+          <Values>
+            <string>Otradnoye</string>
           </Values>
         </NameGroup>
       </Generic>

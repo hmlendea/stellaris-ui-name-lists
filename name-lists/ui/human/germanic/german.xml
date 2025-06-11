@@ -51,6 +51,12 @@
       </Gaia>
       <Tomb>
         <NameGroup>
+          <Name>Persons - Scientists</Name>
+          <Values>
+            <string>Oppenheimer</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Planets - Based on words</Name>
           <Values>
             <string>Asche</string> <!-- Cinder -->

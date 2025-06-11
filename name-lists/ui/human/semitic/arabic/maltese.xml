@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_human_romance_maltese</Id>
+    <Name>Universum Infinitum - Human - Maltese</Name>
+    <Planets>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Based on names for Natural Phenomenon</Name>
+          <Values>
+            <string>Lbiċ</string> <!-- Libeccio. Westerly or south-westerly wind, predominantly in northern Corsica -->
+          </Values>
+        </NameGroup>
+      </Ocean>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
