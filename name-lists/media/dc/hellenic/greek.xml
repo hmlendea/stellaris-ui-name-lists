@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>dc_greek</Id>
+    <Name>DC Comics - Greek</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - DC Comics</Name>
+          <Values>
+            <string>Thanagar</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Molten>
+        <NameGroup>
+          <Name>Planets - DC Comics</Name>
+          <Values>
+            <string>Apokolips</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - DC Comics</Name>
+          <Values>
+            <string>Krypton</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

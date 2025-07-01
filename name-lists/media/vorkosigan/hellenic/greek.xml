@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>dune_persian</Id>
-    <Name>Dune - Persian</Name>
-    <Ships>
-      <Generic>
+    <Id>vorkosigan_greek</Id>
+    <Name>Vorkosigan Saga - Greek</Name>
+    <Planets>
+      <Continental>
         <NameGroup>
-          <Name>Ships - Dune</Name>
+          <Name>Planets - Vorkosigan Saga</Name>
           <Values>
-            <string>Tharondelai</string>
+            <string>Athos</string>
           </Values>
         </NameGroup>
-      </Generic>
-    </Ships>
+      </Continental>
+    </Planets>
   </NameList>
 </ArrayOfNameList>

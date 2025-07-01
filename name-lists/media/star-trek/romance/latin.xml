@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>star-trek_vulcan</Id>
+    <Name>Star Trek - Latin</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Star Trek</Name>
+          <Values>
+            <string>Cardassia</string>
+            <string>Remus</string>
+            <string>Romulus</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Star Trek</Name>
+          <Values>
+            <string>Vulcan</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

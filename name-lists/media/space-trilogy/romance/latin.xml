@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>space-trilogy_latin</Id>
+    <Name>The Space Trilogy - Human (Latin)</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Foundation</Name>
+          <Values>
+            <string>Arcturus</string>
+            <string>Solaria</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - The Space Trilogy</Name>
+          <Values>
+            <string>Perelandra</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

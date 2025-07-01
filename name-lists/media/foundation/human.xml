@@ -84,14 +84,6 @@
           </Values>
         </NameGroup>
       </Ocean>
-      <Alpine>
-        <NameGroup>
-          <Name>Planets - Foundation</Name>
-          <Values>
-            <string>Helicon</string>
-          </Values>
-        </NameGroup>
-      </Alpine>
     </Planets>
   </NameList>
 </ArrayOfNameList>

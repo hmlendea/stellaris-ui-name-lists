@@ -22,13 +22,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Planets - CoDominium</Name> <!-- Federacy -->
-          <Values>
-            <string>Alexander</string>
-            <string>New Thessaly</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Planets - Borderlands</Name>
           <Values>
             <string>Isolus</string>
@@ -37,6 +30,13 @@
             <string>Tantalus</string>
             <string>Themis</string>
             <string>Thrace</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - CoDominium</Name> <!-- Federacy -->
+          <Values>
+            <string>Alexander</string>
+            <string>New Thessaly</string>
           </Values>
         </NameGroup>
       </Generic>

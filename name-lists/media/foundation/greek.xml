@@ -40,6 +40,14 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Alpine>
+        <NameGroup>
+          <Name>Planets - Foundation</Name>
+          <Values>
+            <string>Helicon</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
       <Arid>
         <NameGroup>
           <Name>Planets - Foundation</Name>

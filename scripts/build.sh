@@ -139,7 +139,7 @@ AFRICAN_NAMELISTS=$(get-namelists-merged ${AFRICAN_MEDIA_NAMELISTS} ${AFRICAN_RE
 ### ARABIC ###
 ##############
 ARABIC_GENERATED_NAMELISTS="generated/ung/human/semitic/arabic"
-ARABIC_MEDIA_NAMELISTS="media/civbe/human/semitic/arabic media/pandora/human/arabic media/paxnova/human/arabic media/runescape/human/kharidian media/starcraft/human/semitic/arabic media/warhammer/fantasy/human/arabyan ui/human/semitic/arabic/maltese"
+ARABIC_MEDIA_NAMELISTS="media/civbe/human/semitic/arabic media/dune/semitic/arabic media/pandora/human/arabic media/paxnova/human/arabic media/runescape/human/kharidian media/starcraft/human/semitic/arabic media/warhammer/fantasy/human/arabyan ui/human/semitic/arabic/maltese"
 ARABIC_REAL_NAMELISTS="real/semitic/arabic/berber real/semitic/arabic/egyptian real/semitic/arabic/iraqi real/semitic/arabic/jordanian real/semitic/arabic/kuwaiti \
 real/semitic/arabic/moroccan real/semitic/arabic/palestinian real/semitic/arabic/saudi real/semitic/arabic/syrian real/semitic/arabic/uae real/semitic/arabic/common real/common real/common/_"
 ARABIC_NAMELISTS=$(get-namelists-merged ${ARABIC_MEDIA_NAMELISTS} ${ARABIC_REAL_NAMELISTS} ${ARABIC_GENERATED_NAMELISTS})
@@ -303,7 +303,7 @@ ELDERSCROLLS_HUMAN_NAMELISTS="${ELDERSCROLLS_HUMAN_BRETON_NAMELISTS} ${ELDERSCRO
 ### ENGLISH ###
 ###############
 ENGLISH_COMMON_GENERATED_NAMELISTS="generated/ung/human/english/common"
-ENGLISH_COMMON_MEDIA_NAMELISTS="media/aow/planetfall/human/english/common media/elderscrolls/human/breton/english media/elderscrolls/human/imperial/english media/foundation/english media/galciv/human/english media/pandora/human/english/common media/paxnova/human/english/common media/runescape/human/kandarin/english media/runescape/human/misthalinian/english media/starcraft/human/english/common media/stellaris/human/english/common media/ypp/english/common media/other/human/english/common ui/human/english/common"
+ENGLISH_COMMON_MEDIA_NAMELISTS="media/aow/planetfall/human/english/common media/dc/english/common media/elderscrolls/human/breton/english media/elderscrolls/human/imperial/english media/foundation/english media/galciv/human/english media/pandora/human/english/common media/paxnova/human/english/common media/runescape/human/kandarin/english media/runescape/human/misthalinian/english media/starcraft/human/english/common media/stellaris/human/english/common media/ypp/english/common media/other/human/english/common ui/human/english/common"
 ENGLISH_COMMON_REAL_NAMELISTS="real/english/common real/common real/common/_"
 
 ENGLISH_USA_GENERATED_NAMELISTS=$(get-namelists-merged ${ENGLISH_COMMON_GENERATED_NAMELISTS})
@@ -388,7 +388,7 @@ HEBREW_NAMELISTS=$(get-namelists-merged ${HEBREW_REAL_NAMELISTS} ${HEBREW_MEDIA_
 ### HELLENIC ###
 ################
 HELLENIC_GENERATED_NAMELISTS="generated/ung/human/greek"
-HELLENIC_MEDIA_NAMELISTS="media/alien/human/hellenic/common media/civbe/human/greek media/dune/greek media/foundation/greek media/galactik-football/greek media/galciv/human/greek media/pandora/human/greek media/stellaris/human/hellenic/common media/starcraft/human/greek media/ypp/greek media/other/human/hellenic/common ui/human/hellenic/greek ui/human/hellenic/common"
+HELLENIC_MEDIA_NAMELISTS="media/alien/human/hellenic/common media/civbe/human/greek media/dc/hellenic/greek media/dune/greek media/firefly/hellenic/common media/foundation/greek media/galactik-football/greek media/galciv/human/greek media/pandora/human/greek media/stellaris/human/hellenic/common media/starcraft/human/greek media/ypp/greek media/other/human/hellenic/common ui/human/hellenic/greek ui/human/hellenic/common"
 HELLENIC_REAL_NAMELISTS="real/hellenic/cypriote real/hellenic/greek real/hellenic/common real/common/european real/common real/common/_"
 HELLENIC_NAMELISTS=$(get-namelists-merged ${HELLENIC_REAL_NAMELISTS} ${HELLENIC_MEDIA_NAMELISTS} ${HELLENIC_GENERATED_NAMELISTS})
 
@@ -460,7 +460,7 @@ PERSIAN_NAMELISTS=$(get-namelists-merged ${PERSIAN_REAL_NAMELISTS} ${PERSIAN_MED
 ### ROMANCE ###
 ###############
 FRENCH_COMMON_GENERATED_NAMELISTS="generated/ung/human/romance/french"
-FRENCH_COMMON_MEDIA_NAMELISTS="media/civbe/human/romance/french media/elderscrolls/human/breton/french media/elderscrolls/human/imperial/french media/pandora/human/romance/french media/paxnova/human/romance/french media/runescape/human/kandarin/french media/starcraft/human/romance/french media/stellaris/human/romance/french media/warhammer/fantasy/human/bretonnia media/ypp/romance/french ui/human/romance/french"
+FRENCH_COMMON_MEDIA_NAMELISTS="media/civbe/human/romance/french media/doctor-who/human/romance/french media/elderscrolls/human/breton/french media/elderscrolls/human/imperial/french media/pandora/human/romance/french media/paxnova/human/romance/french media/runescape/human/kandarin/french media/starcraft/human/romance/french media/stellaris/human/romance/french media/warhammer/fantasy/human/bretonnia media/ypp/romance/french ui/human/romance/french"
 IBERIAN_ROMANCE_COMMON_MEDIA_NAMELISTS="media/starcraft/human/romance/iberian/common ui/human/romance/iberian/common"
 IBERIAN_ROMANCE_COMMON_REAL_NAMELISTS="real/romance/iberian/common real/common real/common/_"
 
@@ -484,7 +484,7 @@ ITALIAN_REAL_NAMELISTS="real/romance/italian real/common/european real/common re
 ITALIAN_NAMELISTS=$(get-namelists-merged ${ITALIAN_REAL_NAMELISTS} ${ITALIAN_MEDIA_NAMELISTS} ${ITALIAN_GENERATED_NAMELISTS})
 
 LATIN_GENERATED_NAMELISTS="generated/letsmakeagame/human/romance/latin generated/ung/human/romance/latin"
-LATIN_MEDIA_NAMELISTS="media/borderlands/romance/latin media/civbe/human/romance/latin media/foundation/latin media/pandora/human/romance/latin media/sose/human/latin media/starcraft/human/romance/latin media/stellaris/human/romance/latin media/stellaris/human/original/spqr media/ypp/romance/latin ui/human/romance/latin"
+LATIN_MEDIA_NAMELISTS="media/borderlands/romance/latin media/civbe/human/romance/latin media/foundation/latin media/pandora/human/romance/latin media/sose/human/latin media/space-trilogy/romance/latin media/star-trek/romance/latin media/starcraft/human/romance/latin media/stellaris/human/romance/latin media/stellaris/human/original/spqr media/ypp/romance/latin ui/human/romance/latin"
 LATIN_REAL_NAMELISTS="real/romance/latin real/common/european real/common real/common/_"
 LATIN_NAMELISTS=$(get-namelists-merged ${LATIN_REAL_NAMELISTS} ${LATIN_MEDIA_NAMELISTS} ${LATIN_GENERATED_NAMELISTS})
 
@@ -633,7 +633,7 @@ SLAVIC_NAMELISTS=$(get-namelists-merged ${SLAVIC_REAL_NAMELISTS} ${SLAVIC_MEDIA_
 ### STARCRAFT ###
 #################
 STARCRAFT_PROTOSS_NAMELISTS=$(get-namelists-merged media/starcraft/protoss/daelaam media/starcraft/protoss/nerazim media/starcraft/protoss/purifier media/starcraft/protoss/taldarim media/starcraft/protoss/common)
-STARCRAFT_TERRAN_NAMELISTS=$(get-namelists-merged media/starcraft/human/american/native/northern/algonquian media/starcraft/human/american/native/northern/washo media/starcraft/human/english/american/american media/starcraft/human/english/oceanian/australian media/starcraft/human/english/english media/starcraft/human/english/american/american media/starcraft/human/germanic/dutch media/starcraft/human/germanic/german media/starcraft/human/germanic/norse media/starcraft/human/romance/french media/starcraft/human/romance/italian media/starcraft/human/romance/latin media/starcraft/human/romance/iberian/spanish media/starcraft/human/romance/iberian/common media/starcraft/human/semitic/arabic media/starcraft/human/semitic/hebrew media/starcraft/human/slavic/common media/starcraft/human/greek media/starcraft/human/human)
+STARCRAFT_TERRAN_NAMELISTS=$(get-namelists-merged media/starcraft/human/american/native/northern/algonquian media/starcraft/human/american/native/northern/washo media/starcraft/human/english/american/american media/starcraft/human/english/oceanian/australian media/starcraft/human/english/english media/starcraft/human/english/american/american media/starcraft/human/germanic/dutch media/starcraft/human/germanic/german media/starcraft/human/germanic/norse media/starcraft/human/romance/french media/starcraft/human/romance/italian media/starcraft/human/romance/latin media/starcraft/human/romance/iberian/spanish media/starcraft/human/romance/iberian/common media/starcraft/human/semitic/arabic media/starcraft/human/semitic/hebrew media/starcraft/human/slavic/common media/starcraft/human/greek media/starcraft/human/human media/vorkosigan/hellenic/greek)
 
 ################
 ### STARWARS ###

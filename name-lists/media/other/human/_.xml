@@ -125,12 +125,6 @@
             <string>Valinor</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Planets - Doctor Who</Name>
-          <Values>
-            <string>Gallifrey</string>
-          </Values>
-        </NameGroup>
       </Gaia>
       <Ocean>
         <NameGroup>
