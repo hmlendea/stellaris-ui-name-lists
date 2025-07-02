@@ -383,7 +383,7 @@ GERMANIC_NAMELISTS=$(get-namelists-merged ${GERMANIC_EURO_NAMELISTS} ${SCANDINAV
 ##############
 ### HEBREW ###
 ##############
-HEBREW_MEDIA_NAMELISTS="media/alien/human/semitic/hebrew media/civbe/human/semitic/hebrew media/mass-effect/human/semitic/hebrew media/starcraft/human/semitic/hebrew media/stellaris/human/semitic/hebrew media/warhammer/40k/human/semitic/hebrew"
+HEBREW_MEDIA_NAMELISTS="media/alien/human/semitic/hebrew media/borderlands/human/semitic/hebrew media/civbe/human/semitic/hebrew media/mass-effect/human/semitic/hebrew media/starcraft/human/semitic/hebrew media/stellaris/human/semitic/hebrew media/warhammer/40k/human/semitic/hebrew"
 HEBREW_REAL_NAMELISTS="real/semitic/hebrew real/common real/common/_"
 HEBREW_NAMELISTS=$(get-namelists-merged ${HEBREW_REAL_NAMELISTS} ${HEBREW_MEDIA_NAMELISTS})
 
@@ -391,7 +391,7 @@ HEBREW_NAMELISTS=$(get-namelists-merged ${HEBREW_REAL_NAMELISTS} ${HEBREW_MEDIA_
 ### HELLENIC ###
 ################
 HELLENIC_GENERATED_NAMELISTS="generated/ung/human/greek"
-HELLENIC_MEDIA_NAMELISTS="media/alien/human/hellenic/common media/civbe/human/greek media/dc/hellenic/greek media/dune/greek media/firefly/hellenic/common media/foundation/greek media/galactik-football/greek media/galciv/human/greek media/halo/human/hellenic/common media/mass-effect/human/hellenic/common media/pandora/human/greek media/stellaris/human/hellenic/common media/starcraft/human/hellenic/common media/warhammer/40k/human/hellenic/common media/ypp/greek media/other/human/hellenic/common ui/human/hellenic/greek ui/human/hellenic/common"
+HELLENIC_MEDIA_NAMELISTS="media/alien/human/hellenic/common media/borderlands/human/hellenic/common media/civbe/human/greek media/dc/hellenic/greek media/dune/greek media/firefly/hellenic/common media/foundation/greek media/galactik-football/greek media/galciv/human/greek media/halo/human/hellenic/common media/mass-effect/human/hellenic/common media/pandora/human/greek media/stellaris/human/hellenic/common media/starcraft/human/hellenic/common media/warhammer/40k/human/hellenic/common media/ypp/greek media/other/human/hellenic/common ui/human/hellenic/greek ui/human/hellenic/common"
 HELLENIC_REAL_NAMELISTS="real/hellenic/cypriote real/hellenic/greek real/hellenic/common real/common/european real/common real/common/_"
 HELLENIC_NAMELISTS=$(get-namelists-merged ${HELLENIC_REAL_NAMELISTS} ${HELLENIC_MEDIA_NAMELISTS} ${HELLENIC_GENERATED_NAMELISTS})
 

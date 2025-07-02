@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>borderlands_human_greek</Id>
+    <Name>Borderlands - Human - Greek</Name>
+    <Planets>
+      <Arid>
+        <NameGroup>
+          <Name>Planets - Borderlands</Name>
+          <Values>
+            <string>Pandora</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Borderlands</Name> <!-- Order of the Impending Storm -->
+          <Values>
+            <string>Athenas</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Planets - Borderlands</Name>
+          <Values>
+            <string>Promethea</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Frozen>
+        <NameGroup>
+          <Name>Planets - Borderlands</Name> <!-- The Bonded -->
+          <Values>
+            <string>Xylourgos</string>
+          </Values>
+        </NameGroup>
+      </Frozen>
+      <Molten>
+        <NameGroup>
+          <Name>Planets - Borderlands</Name> <!-- Eridians -->
+          <Values>
+            <string>Minos</string> <!-- Minos Prime -->
+          </Values>
+        </NameGroup>
+      </Molten>
+      <Barren>
+        <NameGroup>
+          <Name>Planets - Borderlands</Name> <!-- Hyperion -->
+          <Values>
+            <string>Elpis</string>
+          </Values>
+        </NameGroup>
+      </Barren>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Borderlands</Name> <!-- Eridians -->
+          <Values>
+            <string>Nekrotafeyo</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
