@@ -40,6 +40,14 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Helliconia Trilogy</Name>
+          <Values>
+            <string>Helliconia</string>
+          </Values>
+        </NameGroup>
+      </Continental>
       <Arid>
         <NameGroup>
           <Name>Planets - Universum Infinitum</Name>

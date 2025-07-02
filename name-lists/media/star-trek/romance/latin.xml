@@ -22,6 +22,14 @@
           </Values>
         </NameGroup>
       </Desert>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - Star Trek</Name>
+          <Values>
+            <string>Andoria</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
     </Planets>
   </NameList>
 </ArrayOfNameList>

@@ -16,18 +16,20 @@
         <NameGroup>
           <Name>Planets - Halo</Name>
           <Values>
+            <string>Carrow</string>
+            <string>Partition</string>
             <string>Reach</string>
           </Values>
         </NameGroup>
       </Continental>
-      <Tomb>
+      <Tropical>
         <NameGroup>
           <Name>Planets - Halo</Name>
           <Values>
             <string>Harvest</string>
           </Values>
         </NameGroup>
-      </Tomb>
+      </Tropical>
     </Planets>
   </NameList>
 </ArrayOfNameList>
