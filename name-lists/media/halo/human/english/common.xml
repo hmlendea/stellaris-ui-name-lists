@@ -4,6 +4,14 @@
     <Id>halo_english_common</Id>
     <Name>Halo - English - Common</Name>
     <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Halo</Name>
+          <Values>
+            <string>Onyx</string>
+          </Values>
+        </NameGroup>
+      </Generic>
       <Continental>
         <NameGroup>
           <Name>Planets - Halo</Name>
@@ -12,6 +20,14 @@
           </Values>
         </NameGroup>
       </Continental>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Halo</Name>
+          <Values>
+            <string>Harvest</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
     </Planets>
   </NameList>
 </ArrayOfNameList>

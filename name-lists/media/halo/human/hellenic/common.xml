@@ -12,6 +12,14 @@
           </Values>
         </NameGroup>
       </Desert>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Halo</Name>
+          <Values>
+            <string>Arcadia</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
     </Planets>
   </NameList>
 </ArrayOfNameList>
