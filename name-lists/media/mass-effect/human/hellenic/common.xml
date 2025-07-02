@@ -8,10 +8,29 @@
         <NameGroup>
           <Name>Planets - Mass Effect</Name>
           <Values>
+            <string>Aeia</string>
+            <string>Ilos</string>
             <string>Thessia</string>
           </Values>
         </NameGroup>
       </Continental>
+      <Barren>
+        <NameGroup>
+          <Name>Moons - Mass Effect</Name>
+          <Values>
+            <string>Menae</string>
+          </Values>
+        </NameGroup>
+      </Barren>
+      <Tomb>
+        <NameGroup>
+          <Name>Planet - Mass Effect</Name>
+          <Values>
+            <string>Feros</string>
+            <string>Menae</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
     </Planets>
   </NameList>
 </ArrayOfNameList>

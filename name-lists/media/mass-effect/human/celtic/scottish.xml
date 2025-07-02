@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>mass-effect_celtic_scottish</Id>
+    <Name>Mass Effect - Celtic - Scottish</Name>
+    <Planets>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Mass Effect</Name>
+          <Values>
+            <string>Rannoch</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

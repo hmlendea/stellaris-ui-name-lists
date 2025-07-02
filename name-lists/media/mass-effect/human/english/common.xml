@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>mass-effect_slavic_common</Id>
-    <Name>Mass Effect - Slavic - Common</Name>
+    <Id>mass-effect_english_common</Id>
+    <Name>Mass Effect - English - Common</Name>
     <Planets>
-      <Tropical>
+      <Continental>
         <NameGroup>
           <Name>Planets - Mass Effect</Name>
           <Values>
-            <string>Zorya</string>
+            <string>Horizon</string>
           </Values>
         </NameGroup>
-      </Tropical>
-      <Tomb>
+      </Continental>
+      <Gaia>
         <NameGroup>
           <Name>Planets - Mass Effect</Name>
           <Values>
-            <string>Pragia</string>
-            <string>Tuchanka</string>
+            <string>Benning</string>
           </Values>
         </NameGroup>
-      </Tomb>
+      </Gaia>
     </Planets>
   </NameList>
 </ArrayOfNameList>
