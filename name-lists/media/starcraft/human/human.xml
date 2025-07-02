@@ -35,12 +35,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - StarCraft</Name> <!-- Tarsonis -->
-          <Values>
-            <string>Tarsonis</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Cities - StarCraft</Name> <!-- Tyrandor IX -->
           <Values>
             <string>Elsecaro</string>
@@ -234,7 +228,6 @@
             <string>Gystt</string>
             <string>Korhal</string>
             <string>TarKossia</string>
-            <string>Tarsonis</string>
             <string>Tashai</string>
             <string>Urona Sigma</string>
           </Values>

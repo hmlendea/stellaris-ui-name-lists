@@ -6,6 +6,12 @@
     <Places>
       <Cities>
         <NameGroup>
+          <Name>Cities - StarCraft</Name> <!-- Tarsonis -->
+          <Values>
+            <string>Tarsonis</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - StarCraft</Name> <!-- Others -->
           <Values>
             <string>Metalopolis</string>
@@ -159,6 +165,7 @@
           <Name>Planets - StarCraft</Name>
           <Values>
             <string>Halcyon</string>
+            <string>Tarsonis</string>
           </Values>
         </NameGroup>
       </Continental>
