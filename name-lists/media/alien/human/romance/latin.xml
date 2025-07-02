@@ -1,51 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>alien_human_japanese</Id>
-    <Name>Alien - Human - Japanese</Name>
-    <Places>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - Alien</Name>
-          <Values>
-            <string>Shinowa</string>
-          </Values>
-        </NameGroup>
-      </Cities>
-    </Places>
-    <Companies>
-      <RobotManufacturers>
-        <NameGroup>
-          <Name>Research Companies - Alien</Name>
-          <Values>
-            <string>Yutani</string>
-          </Values>
-        </NameGroup>
-      </RobotManufacturers>
-    </Companies>
+    <Id>alien_human_romance_latin</Id>
+    <Name>Alien - Human - Romance - Latin</Name>
     <Planets>
-      <Generic>
-        <NameGroup>
-          <Name>Cities - Alien</Name>
-          <Values>
-            <string>Shinowa</string>
-          </Values>
-        </NameGroup>
+      <Continental>
         <NameGroup>
           <Name>Planets - Alien</Name>
           <Values>
-            <string>Wakahashi's World</string>
+            <string>Actura</string>
+            <string>Colonnade</string> <!-- Colonnade Colony -->
           </Values>
         </NameGroup>
-      </Generic>
-      <Tropical>
+      </Continental>
+      <Arid>
         <NameGroup>
           <Name>Planets - Alien</Name>
           <Values>
-            <string>Hotoke</string>
+            <string>Crestus</string> <!-- Crestus Prime -->
           </Values>
         </NameGroup>
-      </Tropical>
+      </Arid>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Alien</Name>
+          <Values>
+            <string>Celeste</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Frozen>
+        <NameGroup>
+          <Name>Planets - Alien</Name>
+          <Values>
+            <string>Arcturia</string>
+          </Values>
+        </NameGroup>
+      </Frozen>
+      <Molten>
+        <NameGroup>
+          <Name>Planets - Alien</Name>
+          <Values>
+            <string>Ferro</string>
+          </Values>
+        </NameGroup>
+      </Molten>
     </Planets>
   </NameList>
 </ArrayOfNameList>

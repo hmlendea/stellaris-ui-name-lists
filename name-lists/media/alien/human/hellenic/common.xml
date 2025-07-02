@@ -52,14 +52,56 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Alien</Name>
+          <Values>
+            <string>Delos</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Alien</Name>
+          <Values>
+            <string>Alexandria</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
       <Ocean>
         <NameGroup>
           <Name>Planets - Alien</Name>
           <Values>
+            <string>Delphís</string>
             <string>Pandora</string>
           </Values>
         </NameGroup>
       </Ocean>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Alien</Name>
+          <Values>
+            <string>Damara</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Molten>
+        <NameGroup>
+          <Name>Planets - Alien</Name>
+          <Values>
+            <string>Atomos</string>
+            <string>Hephaestus</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+      <Barren>
+        <NameGroup>
+          <Name>Planets - Alien</Name>
+          <Values>
+            <string>Calpamos</string>
+          </Values>
+        </NameGroup>
+      </Barren>
     </Planets>
   </NameList>
 </ArrayOfNameList>
