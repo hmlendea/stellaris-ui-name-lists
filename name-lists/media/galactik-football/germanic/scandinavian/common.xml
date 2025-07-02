@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>galactik-football_romance_italian</Id>
-    <Name>Foundation - Romance - Italian</Name>
+    <Id>galactik-football_germanic_scandinavian_common</Id>
+    <Name>Foundation - Germanic - Scandinavian (Common)</Name>
     <Planets>
-      <Tropical>
+      <Arctic>
         <NameGroup>
           <Name>Planets - Galactik Football</Name>
           <Values>
-            <string>Oeno</string>
+            <string>Akillian</string>
           </Values>
         </NameGroup>
-      </Tropical>
+      </Arctic>
     </Planets>
   </NameList>
 </ArrayOfNameList>

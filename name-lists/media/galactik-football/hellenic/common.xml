@@ -1,25 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>galactik-football_romance_iberian_spanish</Id>
-    <Name>Foundation - Romance - Iberian - Spanish</Name>
+    <Id>galactik-football_greek</Id>
+    <Name>Foundation - Greek</Name>
     <Planets>
-      <Desert>
+      <Generic>
         <NameGroup>
           <Name>Planets - Galactik Football</Name>
           <Values>
-            <string>Menor</string>
+            <string>Cyclopias</string>
           </Values>
         </NameGroup>
-      </Desert>
-      <Tropical>
+      </Generic>
+      <Ocean>
         <NameGroup>
           <Name>Planets - Galactik Football</Name>
           <Values>
-            <string>Escaron</string>
+            <string>Hectonia</string>
           </Values>
         </NameGroup>
-      </Tropical>
+      </Ocean>
+      <Molten>
+        <NameGroup>
+          <Name>Planets - Galactik Football</Name>
+          <Values>
+            <string>Xenon</string>
+          </Values>
+        </NameGroup>
+      </Molten>
     </Planets>
   </NameList>
 </ArrayOfNameList>

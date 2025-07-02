@@ -371,7 +371,7 @@ NORSE_GENERATED_NAMELISTS="generated/fng/human/germanic/norse"
 NORSE_MEDIA_NAMELISTS="media/civbe/human/germanic/norse/norse media/mass-effect/human/germanic/scandinavian/norse media/starcraft/human/germanic/norse media/stellaris/human/germanic/norse media/witcher/human/germanic/norse media/warhammer/40k/human/germanic/scandinavian/norse media/ypp/germanic/norse"
 
 SCANDINAVIAN_COMMON_GENERATED_NAMELISTS="${NORSE_GENERATED_NAMELISTS}"
-SCANDINAVIAN_COMMON_MEDIA_NAMELISTS="media/borderlands/germanic/scandinavian/common media/elderscrolls/human/breton/germanic ${GERMANIC_COMMON_MEDIA_NAMELISTS} ${ELDERSCROLLS_HUMAN_NORD_NAMELISTS} ${NORSE_MEDIA_NAMELISTS}"
+SCANDINAVIAN_COMMON_MEDIA_NAMELISTS="media/borderlands/germanic/scandinavian/common media/elderscrolls/human/breton/germanic media/galactik-football/germanic/scandinavian/common ${GERMANIC_COMMON_MEDIA_NAMELISTS} ${ELDERSCROLLS_HUMAN_NORD_NAMELISTS} ${NORSE_MEDIA_NAMELISTS}"
 SCANDINAVIAN_EURO_GENERATED_NAMELISTS="${SCANDINAVIAN_COMMON_GENERATED_NAMELISTS}"
 SCANDINAVIAN_EURO_MEDIA_NAMELISTS="media/civbe/human/germanic/norse/danish media/civbe/human/germanic/norse/icelandic media/civbe/human/germanic/norse/norwegian media/civbe/human/germanic/norse/swedish media/pandora/human/germanic/norse/swedish ${SCANDINAVIAN_COMMON_MEDIA_NAMELISTS}"
 SCANDINAVIAN_EURO_REAL_NAMELISTS="real/germanic/scandinavian/danish real/germanic/scandinavian/icelandic real/germanic/scandinavian/norwegian real/germanic/scandinavian/swedish real/germanic/scandinavian/common real/germanic/common real/common/european real/common real/common/_"
@@ -399,7 +399,7 @@ HEBREW_NAMELISTS=$(get-namelists-merged ${HEBREW_REAL_NAMELISTS} ${HEBREW_MEDIA_
 ### HELLENIC ###
 ################
 HELLENIC_GENERATED_NAMELISTS="generated/ung/human/greek"
-HELLENIC_MEDIA_NAMELISTS="media/alien/human/hellenic/common media/borderlands/human/hellenic/common media/civbe/human/greek media/dc/hellenic/greek media/doctor-who/human/hellenic/greek media/dune/greek media/firefly/hellenic/common media/foundation/greek media/galactik-football/greek media/galciv/human/greek media/halo/human/hellenic/common media/mass-effect/human/hellenic/common media/pandora/human/greek media/stellaris/human/hellenic/common media/starcraft/human/hellenic/common media/warhammer/40k/human/hellenic/common media/ypp/greek media/other/human/hellenic/common ui/human/hellenic/greek ui/human/hellenic/common"
+HELLENIC_MEDIA_NAMELISTS="media/alien/human/hellenic/common media/borderlands/human/hellenic/common media/civbe/human/greek media/dc/hellenic/greek media/doctor-who/human/hellenic/greek media/dune/greek media/firefly/hellenic/common media/foundation/greek media/galactik-football/hellenic/common media/galciv/human/greek media/halo/human/hellenic/common media/mass-effect/human/hellenic/common media/pandora/human/greek media/stellaris/human/hellenic/common media/starcraft/human/hellenic/common media/warhammer/40k/human/hellenic/common media/ypp/greek media/other/human/hellenic/common ui/human/hellenic/greek ui/human/hellenic/common"
 HELLENIC_REAL_NAMELISTS="real/hellenic/cypriote real/hellenic/greek real/hellenic/common real/common/european real/common real/common/_"
 HELLENIC_NAMELISTS=$(get-namelists-merged ${HELLENIC_REAL_NAMELISTS} ${HELLENIC_MEDIA_NAMELISTS} ${HELLENIC_GENERATED_NAMELISTS})
 
@@ -495,7 +495,7 @@ ITALIAN_REAL_NAMELISTS="real/romance/italian real/common/european real/common re
 ITALIAN_NAMELISTS=$(get-namelists-merged ${ITALIAN_REAL_NAMELISTS} ${ITALIAN_MEDIA_NAMELISTS} ${ITALIAN_GENERATED_NAMELISTS})
 
 LATIN_GENERATED_NAMELISTS="generated/letsmakeagame/human/romance/latin generated/ung/human/romance/latin"
-LATIN_MEDIA_NAMELISTS="media/alien/human/romance/latin media/borderlands/romance/latin media/civbe/human/romance/latin media/doctor-who/human/romance/latin media/dune/romance/latin media/foundation/latin media/firefly/romance/latin media/other/human/romance/latin media/mass-effect/human/romance/latin media/pandora/human/romance/latin media/sose/human/latin media/space-trilogy/romance/latin media/star-trek/romance/latin media/starcraft/human/romance/latin media/stellaris/human/romance/latin media/stellaris/human/original/spqr media/warhammer/40k/human/romance/latin media/ypp/romance/latin ui/human/romance/latin"
+LATIN_MEDIA_NAMELISTS="media/alien/human/romance/latin media/borderlands/romance/latin media/civbe/human/romance/latin media/doctor-who/human/romance/latin media/dune/romance/latin media/foundation/latin media/firefly/romance/latin media/galactik-football/romance/latin media/other/human/romance/latin media/mass-effect/human/romance/latin media/pandora/human/romance/latin media/sose/human/latin media/space-trilogy/romance/latin media/star-trek/romance/latin media/starcraft/human/romance/latin media/stellaris/human/romance/latin media/stellaris/human/original/spqr media/warhammer/40k/human/romance/latin media/ypp/romance/latin ui/human/romance/latin"
 LATIN_REAL_NAMELISTS="real/romance/latin real/common/european real/common real/common/_"
 LATIN_NAMELISTS=$(get-namelists-merged ${LATIN_REAL_NAMELISTS} ${LATIN_MEDIA_NAMELISTS} ${LATIN_GENERATED_NAMELISTS})
 
@@ -659,14 +659,18 @@ STELLARIS_HUMAN_NAMELISTS=$(get-namelists-merged media/stellaris/human/original/
 ##############
 ### TURKIC ###
 ##############
-TURKISH_GENERATED_NAMELISTS="generated/ung/human/turkic/turkish"
-TURKISH_MEDIA_NAMELISTS="media/paxnova/human/turkish ui/human/turkic/turkish"
-TURKISH_REAL_NAMELISTS="real/turkic/turkish real/turkic/common real/common real/common/_"
+TURKIC_COMMON_GENERATED_NAMELISTS=""
+TURKIC_COMMON_MEDIA_NAMELISTS="media/galactik-football/turkic/common"
+TURKIC_COMMON_REAL_NAMELISTS="real/turkic/common real/common real/common/_"
+
+TURKISH_GENERATED_NAMELISTS="generated/ung/human/turkic/turkish ${TURKIC_COMMON_GENERATED_NAMELISTS}"
+TURKISH_MEDIA_NAMELISTS="media/paxnova/human/turkish ui/human/turkic/turkish ${TURKIC_COMMON_MEDIA_NAMELISTS}"
+TURKISH_REAL_NAMELISTS="real/turkic/turkish ${TURKIC_COMMON_REAL_NAMELISTS}"
 TURKISH_NAMELISTS=$(get-namelists-merged ${TURKISH_REAL_NAMELISTS} ${TURKISH_MEDIA_NAMELISTS} ${TURKISH_GENERATED_NAMELISTS})
 
-TURKIC_GENERATED_NAMELISTS="${TURKISH_GENERATED_NAMELISTS}"
-TURKIC_MEDIA_NAMELISTS="${TURKISH_MEDIA_NAMELISTS}"
-TURKIC_REAL_NAMELISTS="${TURKISH_REAL_NAMELISTS} real/turkic/turkmen real/turkic/uyghur real/turkic/common real/common real/common/_"
+TURKIC_GENERATED_NAMELISTS="${TURKISH_GENERATED_NAMELISTS} ${TURKIC_COMMON_GENERATED_NAMELISTS}"
+TURKIC_MEDIA_NAMELISTS="${TURKISH_MEDIA_NAMELISTS} ${TURKIC_COMMON_MEDIA_NAMELISTS}"
+TURKIC_REAL_NAMELISTS="${TURKISH_REAL_NAMELISTS} real/turkic/turkmen real/turkic/uyghur real/turkic/common ${TURKIC_COMMON_REAL_NAMELISTS}"
 TURKIC_NAMELISTS=$(get-namelists-merged ${TURKIC_MEDIA_NAMELISTS} ${TURKIC_REAL_NAMELISTS} ${TURKIC_GENERATED_NAMELISTS})
 
 #################
