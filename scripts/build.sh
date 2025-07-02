@@ -139,7 +139,7 @@ AFRICAN_NAMELISTS=$(get-namelists-merged ${AFRICAN_MEDIA_NAMELISTS} ${AFRICAN_RE
 ### ARABIC ###
 ##############
 ARABIC_GENERATED_NAMELISTS="generated/ung/human/semitic/arabic"
-ARABIC_MEDIA_NAMELISTS="media/alien/human/semitic/arabic media/civbe/human/semitic/arabic media/dune/semitic/arabic media/pandora/human/arabic media/paxnova/human/arabic media/runescape/human/kharidian media/starcraft/human/semitic/arabic media/warhammer/fantasy/human/arabyan ui/human/semitic/arabic/maltese"
+ARABIC_MEDIA_NAMELISTS="media/alien/human/semitic/arabic media/civbe/human/semitic/arabic media/dune/semitic/arabic media/foundation/semitic/arabic media/pandora/human/arabic media/paxnova/human/arabic media/runescape/human/kharidian media/starcraft/human/semitic/arabic media/warhammer/fantasy/human/arabyan ui/human/semitic/arabic/maltese"
 ARABIC_REAL_NAMELISTS="real/semitic/arabic/berber real/semitic/arabic/egyptian real/semitic/arabic/iraqi real/semitic/arabic/jordanian real/semitic/arabic/kuwaiti \
 real/semitic/arabic/moroccan real/semitic/arabic/palestinian real/semitic/arabic/saudi real/semitic/arabic/syrian real/semitic/arabic/uae real/semitic/arabic/common real/common real/common/_"
 ARABIC_NAMELISTS=$(get-namelists-merged ${ARABIC_MEDIA_NAMELISTS} ${ARABIC_REAL_NAMELISTS} ${ARABIC_GENERATED_NAMELISTS})
@@ -170,7 +170,7 @@ KOREAN_MEDIA_NAMELISTS="media/civbe/human/asian/korean media/dune/asian/korean u
 KOREAN_REAL_NAMELISTS="real/asian/korean ${ASIAN_COMMON_REAL_NAMELISTS}"
 KOREAN_NAMELISTS=$(get-namelists-merged ${KOREAN_REAL_NAMELISTS} ${KOREAN_MEDIA_NAMELISTS})
 
-MONGOL_MEDIA_NAMELISTS="media/civbe/human/asian/mongol media/stellaris/human/asian/mongol"
+MONGOL_MEDIA_NAMELISTS="media/civbe/human/asian/mongol media/foundation/asian/mongol media/stellaris/human/asian/mongol"
 MONGOL_REAL_NAMELISTS="real/asian/mongol ${ASIAN_COMMON_REAL_NAMELISTS}"
 MONGOL_NAMELISTS=$(get-namelists-merged ${MONGOL_REAL_NAMELISTS} ${MONGOL_MEDIA_NAMELISTS})
 
@@ -490,7 +490,7 @@ CATALAN_REAL_NAMELISTS="real/romance/iberian/catalan real/common/european ${IBER
 CATALAN_NAMELISTS=$(get-namelists-merged ${CATALAN_REAL_NAMELISTS} ${CATALAN_MEDIA_NAMELISTS})
 
 ITALIAN_GENERATED_NAMELISTS="generated/ung/human/romance/italian"
-ITALIAN_MEDIA_NAMELISTS="media/alien/human/romance/italian media/civbe/human/romance/italian media/dishonored/romance/italian media/doctor-who/human/romance/italian media/dune/romance/italian media/galactik-football/romance/italian media/pandora/human/romance/italian media/starcraft/human/romance/italian media/warhammer/40k/human/romance/italian ui/human/romance/italian"
+ITALIAN_MEDIA_NAMELISTS="media/alien/human/romance/italian media/civbe/human/romance/italian media/dishonored/romance/italian media/doctor-who/human/romance/italian media/dune/romance/italian media/foundation/romance/italian media/galactik-football/romance/italian media/pandora/human/romance/italian media/starcraft/human/romance/italian media/warhammer/40k/human/romance/italian ui/human/romance/italian"
 ITALIAN_REAL_NAMELISTS="real/romance/italian real/common/european real/common real/common/_"
 ITALIAN_NAMELISTS=$(get-namelists-merged ${ITALIAN_REAL_NAMELISTS} ${ITALIAN_MEDIA_NAMELISTS} ${ITALIAN_GENERATED_NAMELISTS})
 
@@ -526,7 +526,7 @@ ROMANIAN_REAL_NAMELISTS="real/romance/romanian real/common/european real/common 
 ROMANIAN_NAMELISTS=$(get-namelists-merged ${ROMANIAN_REAL_NAMELISTS} ${ROMANIAN_MEDIA_NAMELISTS})
 
 SPANISH_COMMON_GENERATED_NAMELISTS="generated/ung/human/romance/iberian/spanish"
-SPANISH_COMMON_MEDIA_NAMELISTS="media/dishonored/romance/iberian/spanish/common media/doctor-who/human/romance/iberian/spanish/common media/galactik-football/romance/iberian/spanish media/starcraft/human/romance/iberian/spanish media/stellaris/human/romance/iberian/spanish/common media/ypp/romance/iberian/spanish media/other/human/romance/iberian/spanish/common ui/human/romance/iberian/spanish/common ${IBERIAN_ROMANCE_COMMON_MEDIA_NAMELISTS}"
+SPANISH_COMMON_MEDIA_NAMELISTS="media/dishonored/romance/iberian/spanish/common media/doctor-who/human/romance/iberian/spanish/common media/foundation/romance/iberian/spanish/common media/galactik-football/romance/iberian/spanish media/starcraft/human/romance/iberian/spanish media/stellaris/human/romance/iberian/spanish/common media/ypp/romance/iberian/spanish media/other/human/romance/iberian/spanish/common ui/human/romance/iberian/spanish/common ${IBERIAN_ROMANCE_COMMON_MEDIA_NAMELISTS}"
 SPANISH_COMMON_REAL_NAMELISTS="real/romance/iberian/spanish/common ${IBERIAN_ROMANCE_COMMON_REAL_NAMELISTS}"
 SPANISH_EURO_GENERATED_NAMELISTS="${SPANISH_COMMON_GENERATED_NAMELISTS}"
 SPANISH_EURO_MEDIA_NAMELISTS="media/alien/human/romance/iberian/spanish media/civbe/human/romance/iberian/spanish ${SPANISH_COMMON_MEDIA_NAMELISTS}"

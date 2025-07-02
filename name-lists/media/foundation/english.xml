@@ -21,6 +21,14 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Foundation</Name>
+          <Values>
+            <string>Haven</string>
+          </Values>
+        </NameGroup>
+      </Continental>
     </Planets>
   </NameList>
 </ArrayOfNameList>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>foundation_human_romance_iberian_spanish_common</Id>
+    <Name>Foundation - Romance - Iberian - Spanish (Common)</Name>
+    <Planets>
+      <Arid>
+        <NameGroup>
+          <Name>Planets - Foundation</Name>
+          <Values>
+            <string>Ifni</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
