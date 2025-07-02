@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>firefly_greek</Id>
-    <Name>Firefly - Greek</Name>
+    <Id>firefly_english_british</Id>
+    <Name>Firefly - English (British)</Name>
     <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Firefly</Name>
+          <Values>
+            <string>Angel</string>
+          </Values>
+        </NameGroup>
+      </Generic>
       <Continental>
         <NameGroup>
           <Name>Planets - Firefly</Name>
           <Values>
-            <string>Ariel</string>
-            <string>Athens</string>
-            <string>Hera</string>
-            <string>Persephone</string>
+            <string>Aberdeen</string>
           </Values>
         </NameGroup>
       </Continental>
-      <Ocean>
-        <NameGroup>
-          <Name>Planets - Firefly</Name>
-          <Values>
-            <string>Bellerophon</string>
-          </Values>
-        </NameGroup>
-      </Ocean>
     </Planets>
   </NameList>
 </ArrayOfNameList>
