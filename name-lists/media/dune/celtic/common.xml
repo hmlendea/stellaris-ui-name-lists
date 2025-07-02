@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>dune_english_celtic_common</Id>
+    <Name>Dune - Celtic (Common)</Name>
+    <Planets>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Dune</Name>
+          <Values>
+            <string>Caladan</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Dune</Name>
+          <Values>
+            <string>Corrin</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
