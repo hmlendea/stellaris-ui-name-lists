@@ -4,14 +4,14 @@
     <Id>warhammer_40k_persian</Id>
     <Name>Warhammer 40K - Persian</Name>
     <Planets>
-      <Tropical>
+      <Tomb>
         <NameGroup>
           <Name>Planets - Warhammer 40K</Name>
           <Values>
-            <string>Espandor</string>
+            <string>Dharrovar</string>
           </Values>
         </NameGroup>
-      </Tropical>
+      </Tomb>
     </Planets>
   </NameList>
 </ArrayOfNameList>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>warhammer_40k_romance_iberian_spanish</Id>
+    <Name>Warhammer 40K - Spanish</Name>
+    <Planets>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Espandor</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Alpine>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Jago</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

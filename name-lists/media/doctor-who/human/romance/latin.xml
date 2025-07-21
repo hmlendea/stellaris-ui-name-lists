@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>doctor-who_latin</Id>
+    <Name>Doctor Who - Latin</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Doctor Who</Name>
+          <Values>
+            <string>Aridius</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Doctor Who</Name>
+          <Values>
+            <string>Alzarius</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Frozen>
+        <NameGroup>
+          <Name>Planets - Doctor Who</Name>
+          <Values>
+            <string>Calufrax</string> <!-- Calufrax Minor -->
+            <string>Mondas</string>
+          </Values>
+        </NameGroup>
+      </Frozen>
+      <Barren>
+        <NameGroup>
+          <Name>Planets - Doctor Who</Name>
+          <Values>
+            <string>Vortis</string>
+          </Values>
+        </NameGroup>
+      </Barren>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Doctor Who</Name>
+          <Values>
+            <string>Dido</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

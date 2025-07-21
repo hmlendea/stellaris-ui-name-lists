@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>firefly_celtic_irish</Id>
+    <Name>Firefly - Celtic - Irish</Name>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Firefly</Name>
+          <Values>
+            <string>Kerry</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

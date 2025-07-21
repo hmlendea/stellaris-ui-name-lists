@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>halo_hellenic</Id>
+    <Name>Halo - Hellenic</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Halo</Name>
+          <Values>
+            <string>Sanghelios</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Halo</Name>
+          <Values>
+            <string>Arcadia</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>dc_english</Id>
+    <Name>DC Comics - English</Name>
+    <Planets>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - DC Comics</Name>
+          <Values>
+            <string>New Genesis</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -28,9 +28,6 @@
           <Name>Planets - Foundation</Name>
           <Values>
             <string>Aethra</string>
-            <string>Erythro</string>
-            <string>Euterpe</string>
-            <string>Hesperus</string>
             <string>Jennisek</string>
             <string>Locris</string>
             <string>Megas</string>
@@ -40,6 +37,22 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Foundation</Name>
+          <Values>
+            <string>Hesperos</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Alpine>
+        <NameGroup>
+          <Name>Planets - Foundation</Name>
+          <Values>
+            <string>Helicon</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
       <Arid>
         <NameGroup>
           <Name>Planets - Foundation</Name>
@@ -53,9 +66,43 @@
           <Name>Planets - Foundation</Name>
           <Values>
             <string>Anacreon</string>
+            <string>Euterpe</string>
           </Values>
         </NameGroup>
       </Tropical>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Foundation</Name>
+          <Values>
+            <string>Alpha</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Frozen>
+        <NameGroup>
+          <Name>Moons - Foundation</Name>
+          <Values>
+            <string>Eos</string>
+          </Values>
+        </NameGroup>
+      </Frozen>
+      <Barren>
+        <NameGroup>
+          <Name>Moons - Foundation</Name>
+          <Values>
+            <string>Erythro</string>
+            <string>Melpomenia</string>
+          </Values>
+        </NameGroup>
+      </Barren>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Foundation</Name>
+          <Values>
+            <string>Gaia</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
     </Planets>
   </NameList>
 </ArrayOfNameList>

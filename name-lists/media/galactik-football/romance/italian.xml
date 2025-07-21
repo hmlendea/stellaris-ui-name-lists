@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>galactik-football_italian</Id>
-    <Name>Foundation - Italian</Name>
+    <Id>galactik-football_romance_italian</Id>
+    <Name>Foundation - Romance - Italian</Name>
     <Planets>
       <Tropical>
         <NameGroup>

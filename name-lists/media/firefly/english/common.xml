@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>firefly_english_common</Id>
+    <Name>Firefly - English (Common)</Name>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Firefly</Name>
+          <Values>
+            <string>Dyton</string>
+            <string>Highgate</string>
+            <string>Salisbury</string>
+            <string>Silverhold</string>
+            <string>Three Hills</string>
+            <string>Whittier</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Firefly</Name>
+          <Values>
+            <string>Greenleaf</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Firefly</Name>
+          <Values>
+            <string>Newhall</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Arid>
+        <NameGroup>
+          <Name>Planets - Firefly</Name>
+          <Values>
+            <string>Deadwood</string>
+            <string>Harvest</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Frozen>
+        <NameGroup>
+          <Name>Planets - Firefly</Name>
+          <Values>
+            <string>Beylix</string>
+          </Values>
+        </NameGroup>
+      </Frozen>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Firefly</Name>
+          <Values>
+            <string>Shadow</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

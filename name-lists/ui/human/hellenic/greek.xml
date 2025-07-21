@@ -8,6 +8,7 @@
         <NameGroup>
           <Name>Planets - Based on real places</Name>
           <Values>
+            <string>Byzantium</string>
             <string>Néa Athína</string>
           </Values>
         </NameGroup>

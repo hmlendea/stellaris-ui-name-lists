@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>warhammer_40k_hellenic_common</Id>
+    <Name>Warhammer 40K - Hellenic - Common</Name>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Cyclothrathe</string>
+            <string>Medusa</string>
+            <string>Olympia</string>
+            <string>Kronus</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Cadia</string>
+            <string>Hagia</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Adrion</string>
+            <string>Eleusis</string>
+            <string>Ithaka</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Belaeno</string>
+            <string>Cytheria</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Arid>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Colchis</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Celephace</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Damnos</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Cyprian's Gate</string>
+            <string>Rophanon</string>
+            <string>Terion</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

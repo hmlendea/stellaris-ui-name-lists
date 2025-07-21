@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>galactik-football_greek</Id>
-    <Name>Foundation - Greek</Name>
+    <Id>firefly_asian_chinese</Id>
+    <Name>Firefly - Asian - Chinese</Name>
     <Planets>
-      <Tropical>
+      <Gaia>
         <NameGroup>
-          <Name>Planets - Galactik Football</Name>
+          <Name>Planets - Firefly</Name>
           <Values>
-            <string>Hectonia</string>
-            <string>Xenon</string>
+            <string>Liann Jiun</string>
+            <string>Sihnon</string>
           </Values>
         </NameGroup>
-      </Tropical>
+      </Gaia>
     </Planets>
   </NameList>
 </ArrayOfNameList>

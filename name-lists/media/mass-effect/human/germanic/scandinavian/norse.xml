@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>mass-effect_germanic_scandinavian_norse</Id>
+    <Name>Mass Effect - Germanic - Scandinavian - Norse</Name>
+    <Planets>
+      <Molten>
+        <NameGroup>
+          <Name>Planets - Mass Effect</Name>
+          <Values>
+            <string>Haestrom</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

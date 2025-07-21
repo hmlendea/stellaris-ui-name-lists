@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>warhammer_40k_aramaic</Id>
+    <Name>Warhammer 40K - Aramaic</Name>
+    <Planets>
+      <Barren>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Golgotha</string>
+          </Values>
+        </NameGroup>
+      </Barren>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

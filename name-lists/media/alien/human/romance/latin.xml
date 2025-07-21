@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>alien_human_romance_latin</Id>
+    <Name>Alien - Human - Romance - Latin</Name>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Alien</Name>
+          <Values>
+            <string>Actura</string>
+            <string>Colonnade</string> <!-- Colonnade Colony -->
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Arid>
+        <NameGroup>
+          <Name>Planets - Alien</Name>
+          <Values>
+            <string>Crestus</string> <!-- Crestus Prime -->
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Alien</Name>
+          <Values>
+            <string>Celeste</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+      <Frozen>
+        <NameGroup>
+          <Name>Planets - Alien</Name>
+          <Values>
+            <string>Arcturia</string>
+          </Values>
+        </NameGroup>
+      </Frozen>
+      <Molten>
+        <NameGroup>
+          <Name>Planets - Alien</Name>
+          <Values>
+            <string>Ferro</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>mass-effect_hellenic</Id>
+    <Name>Mass Effect - Hellenic</Name>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Mass Effect</Name>
+          <Values>
+            <string>Aeia</string>
+            <string>Ilos</string>
+            <string>Thessia</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Barren>
+        <NameGroup>
+          <Name>Moons - Mass Effect</Name>
+          <Values>
+            <string>Menae</string>
+          </Values>
+        </NameGroup>
+      </Barren>
+      <Tomb>
+        <NameGroup>
+          <Name>Planet - Mass Effect</Name>
+          <Values>
+            <string>Feros</string>
+            <string>Menae</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

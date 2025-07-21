@@ -34,6 +34,22 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Alien</Name> <!-- United Americas -->
+          <Values>
+            <string>Bracken's World</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Alien</Name> <!-- United Americas -->
+          <Values>
+            <string>Bowen's Landing</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
     </Planets>
   </NameList>
 </ArrayOfNameList>

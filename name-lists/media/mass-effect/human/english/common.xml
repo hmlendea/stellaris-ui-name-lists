@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>mass-effect_english_common</Id>
+    <Name>Mass Effect - English - Common</Name>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Mass Effect</Name>
+          <Values>
+            <string>Horizon</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Mass Effect</Name>
+          <Values>
+            <string>Benning</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

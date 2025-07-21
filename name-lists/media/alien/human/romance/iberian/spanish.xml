@@ -28,6 +28,23 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Alien</Name>
+          <Values>
+            <string>Gimeno</string>
+            <string>Ibárruri</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Arid>
+        <NameGroup>
+          <Name>Planets - Alien</Name>
+          <Values>
+            <string>Aires</string> <!-- Aires Outpost -->
+          </Values>
+        </NameGroup>
+      </Arid>
     </Planets>
   </NameList>
 </ArrayOfNameList>

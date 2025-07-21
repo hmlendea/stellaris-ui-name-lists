@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>dune_romance_french</Id>
+    <Name>Dune - Romance - French</Name>
+    <Planets>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Dune</Name>
+          <Values>
+            <string>Gamont</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

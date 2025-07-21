@@ -13,15 +13,5 @@
         </NameGroup>
       </Generic>
     </Ships>
-    <Planets>
-      <Desert>
-        <NameGroup>
-          <Name>Planets - Dune</Name>
-          <Values>
-            <string>Arrakis</string>
-          </Values>
-        </NameGroup>
-      </Desert>
-    </Planets>
   </NameList>
 </ArrayOfNameList>

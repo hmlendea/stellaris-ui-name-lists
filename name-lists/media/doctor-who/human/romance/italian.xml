@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>doctor-who_italian</Id>
+    <Name>Doctor Who - Italian</Name>
+    <Planets>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Doctor Who</Name>
+          <Values>
+            <string>Androzani</string> <!-- Androzani Minor -->
+          </Values>
+        </NameGroup>
+      </Tropical>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

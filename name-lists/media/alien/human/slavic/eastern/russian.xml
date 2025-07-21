@@ -48,6 +48,14 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Arid>
+        <NameGroup>
+          <Name>Planets - Alien</Name>
+          <Values>
+            <string>Kalisk</string>
+          </Values>
+        </NameGroup>
+      </Arid>
     </Planets>
   </NameList>
 </ArrayOfNameList>

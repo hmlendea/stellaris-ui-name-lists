@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>galactik-football_romance_latin</Id>
+    <Name>Foundation - Romance - Latin</Name>
+    <Planets>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Galactik Football</Name>
+          <Values>
+            <string>Paradisia</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

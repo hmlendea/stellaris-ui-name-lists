@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>mass-effect_slavic_common</Id>
+    <Name>Mass Effect - Slavic - Common</Name>
+    <Planets>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Mass Effect</Name>
+          <Values>
+            <string>Zorya</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Mass Effect</Name>
+          <Values>
+            <string>Pragia</string>
+            <string>Tuchanka</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

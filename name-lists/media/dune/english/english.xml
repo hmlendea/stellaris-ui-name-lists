@@ -4,14 +4,31 @@
     <Id>dune_english_european</Id>
     <Name>Dune - English (European)</Name>
     <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Planets - Dune</Name>
+          <Values>
+            <string>Junction</string>
+          </Values>
+        </NameGroup>
+      </Generic>
       <Continental>
         <NameGroup>
           <Name>Planets - Dune</Name>
           <Values>
+            <string>Chapterhouse</string>
             <string>Crompton</string>
           </Values>
         </NameGroup>
       </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Dune</Name>
+          <Values>
+            <string>Buzzell</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
       <Desert>
         <NameGroup>
           <Name>Planets - Dune</Name>

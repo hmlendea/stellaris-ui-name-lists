@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>dune_latin</Id>
+    <Name>Dune - Latin</Name>
+    <Planets>
+      <Arid>
+        <NameGroup>
+          <Name>Planets - Dune</Name>
+          <Values>
+            <string>Salusa</string> <!-- Salus Secundus -->
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Dune</Name>
+          <Values>
+            <string>Poritrin</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

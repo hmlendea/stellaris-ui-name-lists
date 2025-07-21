@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>warhammer_40k_slavic_common</Id>
+    <Name>Warhammer 40K - Slavic (Common)</Name>
+    <Planets>
+      <Continental>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Adrastapol</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Kalidar</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Alpine>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Klybo</string>
+            <string>Korvosi</string>
+            <string>Orask</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+      <Tundra>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Vlistad</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
