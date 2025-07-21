@@ -3,7 +3,7 @@ source 'scripts/common/paths.sh'
 
 MOD_ID='ui-name-lists'
 MOD_NAME='Universum Infinitum: Name Lists'
-STELLARIS_VERSION='4.0.*'
+STELLARIS_VERSION='v4.0.*'
 
 OUTPUT_MOD_DIRECTORY_PATH="${OUTPUT_DIR}/${MOD_ID}"
 OUTPUT_NAMELISTS_DIRECTORY_PATH="${OUTPUT_MOD_DIRECTORY_PATH}/common/name_lists"
