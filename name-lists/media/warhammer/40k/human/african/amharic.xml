@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>ui_human_greek</Id>
-    <Name>Universum Infinitum - Human - Greek</Name>
+    <Id>warhammer_40k_african_amharic</Id>
+    <Name>Warhammer 40K - Amharic</Name>
     <Planets>
-      <Continental>
+      <Desert>
         <NameGroup>
-          <Name>Planets - Based on real places</Name>
+          <Name>Planets - Warhammer 40K</Name>
           <Values>
-            <string>Byzantium</string>
-            <string>Néa Athína</string>
+            <string>Masali</string>
           </Values>
         </NameGroup>
-      </Continental>
+      </Desert>
     </Planets>
   </NameList>
 </ArrayOfNameList>

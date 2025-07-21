@@ -16,7 +16,7 @@ MOD_DESCRIPTOR_PRIMARY_FILE_PATH="${OUTPUT_DIR}/${MOD_ID}.mod"
 MOD_DESCRIPTOR_SECONDARY_FILE_PATH="${OUTPUT_MOD_DIRECTORY_PATH}/descriptor.mod"
 
 if [[ $* != *--skip-updates* ]]; then
-    "${SCRIPTS_DIR}"/update-builder.sh
+    /bin/bash "${SCRIPTS_DIR}"/update-builder.sh
 fi
 
 if [[ $* != *--skip-validation* ]]; then
@@ -143,7 +143,7 @@ AFRICAN_NAMELISTS=$(get-namelists-merged ${AFRICAN_MEDIA_NAMELISTS} ${AFRICAN_RE
 ### ARABIC ###
 ##############
 ARABIC_GENERATED_NAMELISTS="generated/ung/human/semitic/arabic"
-ARABIC_MEDIA_NAMELISTS="media/alien/human/semitic/arabic media/civbe/human/semitic/arabic media/dune/semitic/arabic media/foundation/semitic/arabic media/pandora/human/arabic media/paxnova/human/arabic media/runescape/human/kharidian media/starcraft/human/semitic/arabic media/warhammer/fantasy/human/arabyan media/warhammer/40k/human/semitic/arabic/common ui/human/semitic/arabic/maltese"
+ARABIC_MEDIA_NAMELISTS="media/alien/human/semitic/arabic/common media/civbe/human/semitic/arabic media/dune/semitic/arabic media/foundation/semitic/arabic media/pandora/human/arabic media/paxnova/human/arabic media/runescape/human/kharidian media/starcraft/human/semitic/arabic media/warhammer/fantasy/human/arabyan media/warhammer/40k/human/semitic/arabic/common ui/human/semitic/arabic/maltese"
 ARABIC_REAL_NAMELISTS="real/semitic/arabic/berber real/semitic/arabic/egyptian real/semitic/arabic/iraqi real/semitic/arabic/jordanian real/semitic/arabic/kuwaiti \
 real/semitic/arabic/moroccan real/semitic/arabic/palestinian real/semitic/arabic/saudi real/semitic/arabic/syrian real/semitic/arabic/uae real/semitic/arabic/common real/common real/common/_"
 ARABIC_NAMELISTS=$(get-namelists-merged ${ARABIC_MEDIA_NAMELISTS} ${ARABIC_REAL_NAMELISTS} ${ARABIC_GENERATED_NAMELISTS})
@@ -385,7 +385,7 @@ NORSE_MEDIA_NAMELISTS="media/civbe/human/germanic/norse/norse media/mass-effect/
 SCANDINAVIAN_COMMON_GENERATED_NAMELISTS="${NORSE_GENERATED_NAMELISTS}"
 SCANDINAVIAN_COMMON_MEDIA_NAMELISTS="media/borderlands/germanic/scandinavian/common media/elderscrolls/human/breton/germanic media/galactik-football/germanic/scandinavian/common media/warhammer/40k/human/germanic/scandinavian/common ${GERMANIC_COMMON_MEDIA_NAMELISTS} ${ELDERSCROLLS_HUMAN_NORD_NAMELISTS} ${NORSE_MEDIA_NAMELISTS}"
 SCANDINAVIAN_EURO_GENERATED_NAMELISTS="${SCANDINAVIAN_COMMON_GENERATED_NAMELISTS}"
-SCANDINAVIAN_EURO_MEDIA_NAMELISTS="media/civbe/human/germanic/norse/danish media/civbe/human/germanic/norse/icelandic media/civbe/human/germanic/norse/norwegian media/civbe/human/germanic/norse/swedish media/pandora/human/germanic/norse/swedish ${SCANDINAVIAN_COMMON_MEDIA_NAMELISTS}"
+SCANDINAVIAN_EURO_MEDIA_NAMELISTS="media/civbe/human/germanic/norse/danish media/civbe/human/germanic/norse/icelandic media/civbe/human/germanic/norse/norwegian media/civbe/human/germanic/norse/swedish media/pandora/human/germanic/norse/swedish ui/human/germanic/scandinavian/danish ui/human/germanic/scandinavian/swedish ${SCANDINAVIAN_COMMON_MEDIA_NAMELISTS}"
 SCANDINAVIAN_EURO_REAL_NAMELISTS="real/germanic/scandinavian/danish real/germanic/scandinavian/icelandic real/germanic/scandinavian/norwegian real/germanic/scandinavian/swedish real/germanic/scandinavian/common real/germanic/common real/common/european real/common real/common/_"
 SCANDINAVIAN_EURO_NAMELISTS=$(get-namelists-merged ${SCANDINAVIAN_EURO_MEDIA_NAMELISTS} ${SCANDINAVIAN_EURO_REAL_NAMELISTS} ${SCANDINAVIAN_EURO_GENERATED_NAMELISTS})
 SCANDINAVIAN_GENERATED_NAMELISTS="${SCANDINAVIAN_COMMON_GENERATED_NAMELISTS}"
@@ -403,7 +403,7 @@ GERMANIC_NAMELISTS=$(get-namelists-merged ${GERMANIC_EURO_NAMELISTS} ${SCANDINAV
 ##############
 ### HEBREW ###
 ##############
-HEBREW_MEDIA_NAMELISTS="media/alien/human/semitic/hebrew media/borderlands/human/semitic/hebrew media/civbe/human/semitic/hebrew media/firefly/semitic/hebrew media/mass-effect/human/semitic/hebrew media/starcraft/human/semitic/hebrew media/stellaris/human/semitic/hebrew media/warhammer/40k/human/semitic/hebrew"
+HEBREW_MEDIA_NAMELISTS="media/alien/human/semitic/hebrew media/borderlands/semitic/hebrew media/civbe/human/semitic/hebrew media/firefly/semitic/hebrew media/mass-effect/human/semitic/hebrew media/starcraft/human/semitic/hebrew media/stellaris/human/semitic/hebrew media/warhammer/40k/human/semitic/hebrew"
 HEBREW_REAL_NAMELISTS="real/semitic/hebrew real/common real/common/_"
 HEBREW_NAMELISTS=$(get-namelists-merged ${HEBREW_REAL_NAMELISTS} ${HEBREW_MEDIA_NAMELISTS})
 
@@ -411,7 +411,7 @@ HEBREW_NAMELISTS=$(get-namelists-merged ${HEBREW_REAL_NAMELISTS} ${HEBREW_MEDIA_
 ### HELLENIC ###
 ################
 HELLENIC_GENERATED_NAMELISTS="generated/ung/human/greek"
-HELLENIC_MEDIA_NAMELISTS="media/alien/human/hellenic/common media/borderlands/human/hellenic/common media/civbe/human/greek media/dc/hellenic/greek media/doctor-who/human/hellenic/greek media/dune/greek media/firefly/hellenic/common media/foundation/greek media/galactik-football/hellenic/common media/galciv/human/greek media/halo/human/hellenic/common media/mass-effect/human/hellenic/common media/pandora/human/greek media/stellaris/human/hellenic/common media/starcraft/human/hellenic/common media/warhammer/40k/human/hellenic/common media/ypp/greek media/other/human/hellenic/common ui/human/hellenic/greek ui/human/hellenic/common"
+HELLENIC_MEDIA_NAMELISTS="media/alien/human/hellenic/common media/borderlands/hellenic/common media/civbe/human/greek media/dc/hellenic/greek media/doctor-who/human/hellenic/common media/dune/greek media/firefly/hellenic/common media/foundation/greek media/galactik-football/hellenic/common media/galciv/human/greek media/halo/human/hellenic/common media/mass-effect/human/hellenic/common media/pandora/human/greek media/stellaris/human/hellenic/common media/starcraft/human/hellenic/common media/warhammer/40k/human/hellenic/common media/ypp/greek media/other/human/hellenic/common ui/human/hellenic/greek ui/human/hellenic/common"
 HELLENIC_REAL_NAMELISTS="real/hellenic/cypriote real/hellenic/greek real/hellenic/common real/common/european real/common real/common/_"
 HELLENIC_NAMELISTS=$(get-namelists-merged ${HELLENIC_REAL_NAMELISTS} ${HELLENIC_MEDIA_NAMELISTS} ${HELLENIC_GENERATED_NAMELISTS})
 

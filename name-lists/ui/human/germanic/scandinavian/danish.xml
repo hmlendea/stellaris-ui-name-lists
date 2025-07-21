@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>ui_human_greek</Id>
-    <Name>Universum Infinitum - Human - Greek</Name>
+    <Id>ui_human_germanic_scandinavian_danish</Id>
+    <Name>Universum Infinitum - Human - Danish</Name>
     <Planets>
-      <Continental>
+      <Gaia>
         <NameGroup>
-          <Name>Planets - Based on real places</Name>
+          <Name>Planets - Based on words</Name>
           <Values>
-            <string>Byzantium</string>
-            <string>Néa Athína</string>
+            <string>Himlen</string> <!-- Sky -->
           </Values>
         </NameGroup>
-      </Continental>
+      </Gaia>
     </Planets>
   </NameList>
 </ArrayOfNameList>
