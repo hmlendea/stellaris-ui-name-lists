@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>warhammer_40k_persian</Id>
-    <Name>Warhammer 40K - Persian</Name>
+    <Id>warhammer_40k_african_swahili</Id>
+    <Name>Warhammer 40K - Swahili</Name>
     <Planets>
-      <Tomb>
+      <Desert>
         <NameGroup>
           <Name>Planets - Warhammer 40K</Name>
           <Values>
-            <string>Dharrovar</string>
+            <string>Masali</string>
           </Values>
         </NameGroup>
-      </Tomb>
+      </Desert>
     </Planets>
   </NameList>
 </ArrayOfNameList>

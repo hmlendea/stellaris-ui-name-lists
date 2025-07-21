@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>warhammer_40k_persian</Id>
-    <Name>Warhammer 40K - Persian</Name>
+    <Id>warhammer_40k_celtic_welsh</Id>
+    <Name>Warhammer 40K - Celtic - welsh</Name>
     <Planets>
-      <Tomb>
+      <Gaia>
         <NameGroup>
           <Name>Planets - Warhammer 40K</Name>
           <Values>
-            <string>Dharrovar</string>
+            <string>Alyandu</string>
+            <string>Carmyn</string>
           </Values>
         </NameGroup>
-      </Tomb>
+      </Gaia>
     </Planets>
   </NameList>
 </ArrayOfNameList>

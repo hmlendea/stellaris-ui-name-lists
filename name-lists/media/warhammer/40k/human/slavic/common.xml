@@ -1,33 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>warhammer_40k_romance_italian</Id>
-    <Name>Warhammer 40K - Latin</Name>
+    <Id>warhammer_40k_slavic_common</Id>
+    <Name>Warhammer 40K - Slavic (Common)</Name>
     <Planets>
       <Continental>
         <NameGroup>
           <Name>Planets - Warhammer 40K</Name>
           <Values>
-            <string>Prospero</string>
+            <string>Adrastapol</string>
           </Values>
         </NameGroup>
       </Continental>
-      <Tomb>
+      <Desert>
         <NameGroup>
           <Name>Planets - Warhammer 40K</Name>
           <Values>
-            <string>Necromunda</string>
+            <string>Kalidar</string>
           </Values>
         </NameGroup>
-      </Tomb>
-      <Barren>
+      </Desert>
+      <Alpine>
         <NameGroup>
           <Name>Planets - Warhammer 40K</Name>
           <Values>
-            <string>Nostramo</string>
+            <string>Klybo</string>
+            <string>Korvosi</string>
+            <string>Orask</string>
           </Values>
         </NameGroup>
-      </Barren>
+      </Alpine>
+      <Tundra>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Vlistad</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
     </Planets>
   </NameList>
 </ArrayOfNameList>

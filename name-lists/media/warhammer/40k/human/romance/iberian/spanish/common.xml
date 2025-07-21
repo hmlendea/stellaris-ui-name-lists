@@ -1,33 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>warhammer_40k_romance_italian</Id>
-    <Name>Warhammer 40K - Latin</Name>
+    <Id>warhammer_40k_romance_iberian_spanish</Id>
+    <Name>Warhammer 40K - Spanish</Name>
     <Planets>
-      <Continental>
+      <Tropical>
         <NameGroup>
           <Name>Planets - Warhammer 40K</Name>
           <Values>
-            <string>Prospero</string>
+            <string>Espandor</string>
           </Values>
         </NameGroup>
-      </Continental>
-      <Tomb>
+      </Tropical>
+      <Alpine>
         <NameGroup>
           <Name>Planets - Warhammer 40K</Name>
           <Values>
-            <string>Necromunda</string>
+            <string>Jago</string>
           </Values>
         </NameGroup>
-      </Tomb>
-      <Barren>
-        <NameGroup>
-          <Name>Planets - Warhammer 40K</Name>
-          <Values>
-            <string>Nostramo</string>
-          </Values>
-        </NameGroup>
-      </Barren>
+      </Alpine>
     </Planets>
   </NameList>
 </ArrayOfNameList>

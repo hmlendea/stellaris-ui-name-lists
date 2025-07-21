@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>warhammer_40k_latin</Id>
+    <Id>warhammer_40k_romance_latin</Id>
     <Name>Warhammer 40K - Latin</Name>
     <Planets>
       <Generic>
@@ -9,6 +9,7 @@
           <Name>Planets - Warhammer 40K</Name>
           <Values>
             <string>Barbarus</string>
+            <string>Vigilus</string>
           </Values>
         </NameGroup>
       </Generic>
@@ -16,11 +17,82 @@
         <NameGroup>
           <Name>Planets - Warhammer 40K</Name>
           <Values>
-            <string>Nocturne</string>
+            <string>Cadia</string>
+            <string>Calderius</string>
+            <string>Drusus</string>
+            <string>Octarius</string>
             <string>Prospero</string>
+            <string>Vaxanide</string>
           </Values>
         </NameGroup>
       </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Laeran</string>
+            <string>Sapiencia</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Eireius</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Angelis</string>
+            <string>Calderis</string>
+            <string>Lavantia</string>
+            <string>Quintarn</string>
+            <string>Tarentus</string>
+            <string>Thargorum</string>
+            <string>Vitria</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Molten>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Nocturne</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+      <Toxic>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Sacris</string>
+            <string>Sicarus</string>
+          </Values>
+        </NameGroup>
+      </Toxic>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Cryptus</string>
+            <string>Necromunda</string>
+            <string>Sortiarius</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Cyprian's Gate</string>
+            <string>Sendennis</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
     </Planets>
   </NameList>
 </ArrayOfNameList>

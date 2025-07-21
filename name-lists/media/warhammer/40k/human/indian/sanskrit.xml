@@ -1,33 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>warhammer_40k_romance_italian</Id>
-    <Name>Warhammer 40K - Latin</Name>
+    <Id>warhammer_40k_indian_sanskrit</Id>
+    <Name>Warhammer 40K - Sanskrit</Name>
     <Planets>
-      <Continental>
+      <Desert>
         <NameGroup>
           <Name>Planets - Warhammer 40K</Name>
           <Values>
-            <string>Prospero</string>
+            <string>Arkunasha</string>
           </Values>
         </NameGroup>
-      </Continental>
+      </Desert>
       <Tomb>
         <NameGroup>
           <Name>Planets - Warhammer 40K</Name>
           <Values>
-            <string>Necromunda</string>
+            <string>Dharrovar</string>
           </Values>
         </NameGroup>
       </Tomb>
-      <Barren>
-        <NameGroup>
-          <Name>Planets - Warhammer 40K</Name>
-          <Values>
-            <string>Nostramo</string>
-          </Values>
-        </NameGroup>
-      </Barren>
     </Planets>
   </NameList>
 </ArrayOfNameList>

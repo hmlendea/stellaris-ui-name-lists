@@ -8,10 +8,63 @@
         <NameGroup>
           <Name>Planets - Warhammer 40K</Name>
           <Values>
+            <string>Acreage</string>
             <string>Caliban</string>
+            <string>Catachan</string>
+            <string>Rynn's World</string>
           </Values>
         </NameGroup>
       </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Wrath</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Tropical>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Drykeena</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Reth</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+      <Barren>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Deliverance</string>
+          </Values>
+        </NameGroup>
+      </Barren>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Pilgrim's Pause</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Breanna</string>
+            <string>Dawnbreak</string>
+            <string>Farfallen</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
     </Planets>
   </NameList>
 </ArrayOfNameList>

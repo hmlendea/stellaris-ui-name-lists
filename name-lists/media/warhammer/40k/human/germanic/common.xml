@@ -4,14 +4,38 @@
     <Id>warhammer_40k_germanic</Id>
     <Name>Warhammer 40K - Germanic</Name>
     <Planets>
-      <Generic>
+      <Continental>
         <NameGroup>
           <Name>Planets - Warhammer 40K</Name>
           <Values>
             <string>Gudrun</string>
           </Values>
         </NameGroup>
-      </Generic>
+      </Continental>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Hethgard</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Molten>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Medrengard</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Granithor</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
     </Planets>
   </NameList>
 </ArrayOfNameList>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>warhammer_40k_norse</Id>
+    <Id>warhammer_40k_germanic_scandinavian_norse</Id>
     <Name>Warhammer 40K - Norse</Name>
     <Planets>
       <Arctic>
@@ -9,9 +9,34 @@
           <Name>Planets - Warhammer 40K</Name>
           <Values>
             <string>Fenris</string>
+            <string>Valhalla</string>
           </Values>
         </NameGroup>
       </Arctic>
+      <Arid>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Ullanor</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Molten>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Medrengard</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+      <Tomb>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Granithor</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
     </Planets>
   </NameList>
 </ArrayOfNameList>

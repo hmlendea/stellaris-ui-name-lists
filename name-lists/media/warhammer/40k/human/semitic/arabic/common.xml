@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>warhammer_40k_arabic_common</Id>
+    <Name>Warhammer 40K - Arabic (Common)</Name>
+    <Planets>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Warhammer 40K</Name>
+          <Values>
+            <string>Arkunasha</string>
+            <string>Kitab</string>
+            <string>Marfak</string>
+            <string>Murzim</string>
+            <string>Quaran</string>
+            <string>Tallarn</string>
+            <string>Tunis</string>
+            <string>Zibal</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
