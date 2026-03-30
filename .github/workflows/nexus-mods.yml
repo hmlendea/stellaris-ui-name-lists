@@ -15,11 +15,16 @@ jobs:
     name: Release
     runs-on: ubuntu-latest
 
+    env:
+      VERSION: ${{ inputs.tag || github.ref_name }}
+
     steps:
     - uses: actions/checkout@v1
 
     - name: Download the release asset
-      run: wget "https://github.com/hmlendea/stellaris-ui-name-lists/releases/download/${{inputs.tag}}/ui-name-lists_${GITHUB_REF:11}.zip" -O "release.zip"
+      run: |
+        RELEASE_ASSET_NAME="ui-name-lists_${VERSION#v}.zip"
+        wget "https://github.com/hmlendea/stellaris-ui-name-lists/releases/download/${VERSION}/${RELEASE_ASSET_NAME}" -O "release.zip"
 
     - name: Upload
       uses: Nexus-Mods/upload-action@v1.0.0-beta.3
@@ -28,6 +33,6 @@ jobs:
         file_group_id: 918667
         filename: release.zip
         display_name: ui-name-lists.zip
-        version: ${{inputs.tag}}
-        description: "Changelog: https://github.com/hmlendea/stellaris-ui-name-lists/releases/${{inputs.tag}}"
+        version: ${{env.VERSION}}
+        description: "Changelog: https://github.com/hmlendea/stellaris-ui-name-lists/releases/${{env.VERSION}}"
         file_category: main
