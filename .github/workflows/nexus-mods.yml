@@ -4,6 +4,11 @@ on:
   push:
     tags:
     - 'v*.*.*'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Tag to release'
+        required: true
 
 jobs:
   release:
@@ -14,16 +19,15 @@ jobs:
     - uses: actions/checkout@v1
 
     - name: Download the release asset
-      run: wget "https://github.com/hmlendea/stellaris-ui-name-lists/releases/download/${{github.ref_name}}/ui-name-lists_${GITHUB_REF:11}.zip" -O "release.zip"
+      run: wget "https://github.com/hmlendea/stellaris-ui-name-lists/releases/download/${{inputs.tag}}/ui-name-lists_${GITHUB_REF:11}.zip" -O "release.zip"
 
     - name: Upload
-      uses: hmlendea/nexusmods-update@latest
+      uses: Nexus-Mods/upload-action@v1.0.0-beta.3
       with:
-        account_email_address: ${{secrets.NEXUS_EMAIL_ADDRESS}}
-        account_password: ${{secrets.NEXUS_PASSWORD}}
-        nexus_game_id: "stellaris"
-        nexus_mod_id: "77"
-        mod_file_name: "ui-name-lists"
-        mod_version: ${{github.ref_name}}
-        file_description: "Changelog: https://github.com/hmlendea/stellaris-ui-name-lists/releases/${{github.ref_name}}"
-        file_path: "release.zip"
+        api_key: ${{ secrets.NEXUSMODS_API_KEY }}
+        file_group_id: 918667
+        filename: release.zip
+        display_name: ui-name-lists.zip
+        version: ${{inputs.tag}}
+        description: "Changelog: https://github.com/hmlendea/stellaris-ui-name-lists/releases/${{inputs.tag}}"
+        file_category: main
