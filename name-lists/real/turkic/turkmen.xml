@@ -20,6 +20,76 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Ahal</string>
+            <string>Ashgabat</string>
+            <string>Balkan</string>
+            <string>Daşoguz</string>
+            <string>Lebap</string>
+            <string>Mary</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Altyn Asyr</string>
+            <string>Arkadag</string>
+            <string>Babadaýhan</string>
+            <string>Bereket</string>
+            <string>Darganata</string>
+            <string>Dostluk</string>
+            <string>Dänew</string>
+            <string>Esenguly</string>
+            <string>Etrek</string>
+            <string>Farap</string>
+            <string>Garabekewül</string>
+            <string>Garabogaz</string>
+            <string>Gazojak</string>
+            <string>Gubadag</string>
+            <string>Görogly</string>
+            <string>Halaç</string>
+            <string>Hojambaz</string>
+            <string>Kaka</string>
+            <string>Köýtendag</string>
+            <string>Magtymguly</string>
+            <string>Murgap</string>
+            <string>Sakar</string>
+            <string>Sakarçäge</string>
+            <string>Sarahs</string>
+            <string>Saýat</string>
+            <string>Serhetabat</string>
+            <string>Seýdi</string>
+            <string>Türkmengala</string>
+            <string>Änew</string>
+            <string>Ýolöten</string>
+            <string>Şabat</string>
+            <string>Şatlyk</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Chandyr</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes</Name>
+          <Values>
+            <string>Hanhowuz</string>
+            <string>Kow Ata</string>
+            <string>Sarygamysh</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
       <Deserts>
         <NameGroup>
           <Name>Deserts - Turkmenistan</Name>

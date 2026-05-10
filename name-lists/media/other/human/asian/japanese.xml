@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_japanese</Id>
+    <Name>Other Media - Human - Japanese</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Trigun</Name>
+          <Values>
+            <string>Dankin</string>
+            <string>December</string>
+            <string>Felnarl</string>
+            <string>Inepril</string>
+            <string>July</string>
+            <string>Octovern</string>
+            <string>Voldoor</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - Star☆Twinkle Pretty Cure</Name>
+          <Values>
+            <string>Aisuno</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+      <Desert>
+        <NameGroup>
+          <Name>Planets - Trigun</Name>
+          <Values>
+            <string>Gunsmoke</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Molten>
+        <NameGroup>
+          <Name>Planets - Star☆Twinkle Pretty Cure</Name>
+          <Values>
+            <string>Plasma</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+      <Ocean>
+        <NameGroup>
+          <Name>Planets - Star☆Twinkle Pretty Cure</Name>
+          <Values>
+            <string>Pururun</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>
