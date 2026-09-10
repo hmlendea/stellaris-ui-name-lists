@@ -245,12 +245,12 @@
         <Weight>66</Weight>
         <MaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft/protoss/khalai/persons/males.lst</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator-wordlists/master/wordlists/starcraft/protoss/khalai/persons/males.lst</Url>
           </NameGroup>
         </MaleFullNames>
         <FemaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/starcraft/protoss/khalai/persons/females.lst</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator-wordlists/master/wordlists/starcraft/protoss/khalai/persons/females.lst</Url>
           </NameGroup>
         </FemaleFullNames>
       </CharacterNames>
