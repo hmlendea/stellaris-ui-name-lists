@@ -179,6 +179,9 @@
           <Values>
             <string>Akuria</string>
             <string>Carlac</string>
+            <string>Hoth</string>
+            <string>Jentawui</string>
+            <string>Krownest</string>
             <string>Pelorum</string>
           </Values>
         </NameGroup>
@@ -187,6 +190,7 @@
         <NameGroup>
           <Name>Planets - StarWars</Name>
           <Values>
+            <string>Lola Sayu</string>
             <string>Mustafar</string>
           </Values>
         </NameGroup>
