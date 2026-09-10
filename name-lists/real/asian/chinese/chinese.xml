@@ -418,7 +418,7 @@
         <Weight>22</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/chinese/persons/males.lst</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator-wordlists/master/wordlists/real/chinese/persons/males.lst</Url>
           </NameGroup>
         </MaleFirstNames>
         <MaleRoyalFirstNames>
@@ -439,7 +439,7 @@
         </MaleRoyalFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/chinese/persons/females.lst</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator-wordlists/master/wordlists/real/chinese/persons/females.lst</Url>
           </NameGroup>
         </FemaleFirstNames>
         <FemaleRoyalFirstNames>
@@ -463,7 +463,7 @@
         </FemaleRoyalFirstNames>
         <SecondNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/chinese/persons/surnames.lst</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator-wordlists/master/wordlists/real/chinese/persons/surnames.lst</Url>
           </NameGroup>
         </SecondNames>
         <RoyalSecondNames>
