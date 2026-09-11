@@ -7,7 +7,7 @@
       <Cities>
         <NameGroup>
           <Name>Cities - Age of Wonders: Planetfall</Name> <!-- Vanguard -->
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/age-of-wonders-planetfall/human/locations/cities.lst</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator-wordlists/master/wordlists/age-of-wonders-planetfall/human/locations/cities.lst</Url>
         </NameGroup>
       </Cities>
     </Places>
@@ -15,7 +15,7 @@
       <Generic>
         <NameGroup>
           <Name>Cities - Age of Wonders: Planetfall</Name> <!-- Vanguard -->
-          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/age-of-wonders-planetfall/human/locations/cities.lst</Url>
+          <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator-wordlists/master/wordlists/age-of-wonders-planetfall/human/locations/cities.lst</Url>
         </NameGroup>
       </Generic>
     </Planets>

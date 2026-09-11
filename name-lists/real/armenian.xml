@@ -49,14 +49,37 @@
           <Name>Cities</Name>
           <Values>
             <string>Abovyan</string>
+            <string>Alaverdi</string>
+            <string>Ararat</string>
             <string>Armavir</string>
             <string>Artashat</string>
             <string>Artik</string>
+            <string>Ashtarak</string>
+            <string>Berd</string>
+            <string>Byureghavan</string>
+            <string>Charentsavan</string>
+            <string>Dilijan</string>
+            <string>Gavar</string>
+            <string>Goris</string>
             <string>Gyumri</string>
             <string>Hrazdan</string>
+            <string>Ijevan</string>
+            <string>Kajaran</string>
             <string>Kapan</string>
+            <string>Martuni</string>
+            <string>Masis</string>
+            <string>Metsamor</string>
+            <string>Nor Hachn</string>
+            <string>Sevan</string>
+            <string>Sisian</string>
+            <string>Stepanavan</string>
+            <string>Tashir</string>
             <string>Vagharshapat</string>
             <string>Vanadzor</string>
+            <string>Vardenis</string>
+            <string>Vedi</string>
+            <string>Yeghegnadzor</string>
+            <string>Yeghvard</string>
             <string>Yerevan</string>
           </Values>
         </NameGroup>
@@ -65,6 +88,8 @@
         <NameGroup>
           <Name>Rivers</Name>
           <Values>
+            <string>Akhuryan</string>
+            <string>Getar</string>
             <string>Hrazdan</string>
           </Values>
         </NameGroup>

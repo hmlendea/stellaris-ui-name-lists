@@ -27,17 +27,17 @@
         <Weight>100</Weight>
         <MaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/divinity/elven/persons/males.lst</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator-wordlists/master/wordlists/divinity/elven/persons/males.lst</Url>
           </NameGroup>
         </MaleFullNames>
         <FemaleFullNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/divinity/elven/persons/females.lst</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator-wordlists/master/wordlists/divinity/elven/persons/females.lst</Url>
           </NameGroup>
         </FemaleFullNames>
         <SecondNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/divinity/elven/persons/surnames.lst</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator-wordlists/master/wordlists/divinity/elven/persons/surnames.lst</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>

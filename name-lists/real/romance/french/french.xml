@@ -358,7 +358,7 @@
         <Weight>2</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/french/persons/males.lst</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator-wordlists/master/wordlists/real/french/persons/males.lst</Url>
           </NameGroup>
         </MaleFirstNames>
         <MaleRoyalFirstNames>
@@ -378,7 +378,7 @@
         </MaleRoyalFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/french/persons/females.lst</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator-wordlists/master/wordlists/real/french/persons/females.lst</Url>
           </NameGroup>
         </FemaleFirstNames>
         <FemaleRoyalFirstNames>
@@ -394,7 +394,7 @@
         </FemaleRoyalFirstNames>
         <SecondNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/french/persons/surnames.lst</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator-wordlists/master/wordlists/real/french/persons/surnames.lst</Url>
           </NameGroup>
         </SecondNames>
         <RoyalSecondNames>
