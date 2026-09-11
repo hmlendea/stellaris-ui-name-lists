@@ -86,17 +86,17 @@
         <Weight>1</Weight>
         <MaleFirstNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/lithuanian/persons/males.lst</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator-wordlists/master/wordlists/real/lithuanian/persons/males.lst</Url>
           </NameGroup>
         </MaleFirstNames>
         <FemaleFirstNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/lithuanian/persons/females.lst</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator-wordlists/master/wordlists/real/lithuanian/persons/females.lst</Url>
           </NameGroup>
         </FemaleFirstNames>
         <SecondNames>
           <NameGroup>
-            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator/master/Wordlists/real/lithuanian/persons/surnames.lst</Url>
+            <Url>https://raw.githubusercontent.com/hmlendea/universal-name-generator-wordlists/master/wordlists/real/lithuanian/persons/surnames.lst</Url>
           </NameGroup>
         </SecondNames>
       </CharacterNames>
