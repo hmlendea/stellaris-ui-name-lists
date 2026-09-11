@@ -21,6 +21,7 @@ A Stellaris modification that provides numerous detailed name lists, including t
   - [Build](#build)
   - [Test](#test)
   - [Continuous Integration](#continuous-integration)
+- [Architecture](#architecture)
 - [Project Structure](#project-structure)
   - [Directories](#directories)
 - [Contributing](#contributing)
@@ -101,6 +102,10 @@ The principal CI workflow validates input files and then builds with cached depe
 bash scripts/validate-data.sh
 bash scripts/build.sh --skip-validation --skip-updates
 ```
+
+## 🏗️ Architecture
+
+The system implements a data transformation pipeline that validates, merges, and generates Stellaris-compatible name list modifications. For detailed architecture documentation, see [ARCHITECTURE.md](ARCHITECTURE.md).
 
 ## 🗂️ Project Structure
 
