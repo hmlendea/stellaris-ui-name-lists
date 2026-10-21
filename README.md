@@ -123,9 +123,15 @@ The repository organises raw source name-list data, generated inputs, UI-focused
 
 ## 🤝 Contributing
 
-You are welcome to submit any suggestion, feedback, or modification to this project.
+Thank you for your interest in contributing to **Universum Infinitum: Name Lists**! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on:
 
-When doing so, please:
+- [Code of Conduct](CONTRIBUTING.md#code-of-conduct)
+- [Getting Started](CONTRIBUTING.md#getting-started) — Prerequisites and development setup
+- [How to Contribute](CONTRIBUTING.md#how-to-contribute) — Bug reports, enhancements, and pull requests
+- [Development Workflow](CONTRIBUTING.md#development-workflow) — Branching, commits, testing, and code style
+- [License](CONTRIBUTING.md#license) — GNU General Public License v3.0
+
+In summary, when contributing please:
 - Maintain cross-platform compatibility
 - Submit focused pull requests that conform to the existing code style
 - Maintain your branch synchronised with `master`
