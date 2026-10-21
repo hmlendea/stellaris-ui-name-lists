@@ -25,6 +25,7 @@ A Stellaris modification that provides numerous detailed name lists, including t
 - [Project Structure](#project-structure)
   - [Directories](#directories)
 - [Contributing](#contributing)
+- [Code of Conduct](#code-of-conduct)
 - [Related Projects](#related-projects)
 - [Privacy and Data](#privacy-and-data)
 - [Project Engagement](#project-engagement)
@@ -124,21 +125,21 @@ The repository organises raw source name-list data, generated inputs, UI-focused
 
 ## 🤝 Contributing
 
-Thank you for your interest in contributing to **Universum Infinitum: Name Lists**! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on:
+You are welcome to submit any suggestion, feedback, or modification to this project.
 
-- [Code of Conduct](CONTRIBUTING.md#code-of-conduct)
-- [Getting Started](CONTRIBUTING.md#getting-started) — Prerequisites and development setup
-- [How to Contribute](CONTRIBUTING.md#how-to-contribute) — Bug reports, enhancements, and pull requests
-- [Development Workflow](CONTRIBUTING.md#development-workflow) — Branching, commits, testing, and code style
-- [License](CONTRIBUTING.md#license) — GNU General Public License v3.0
-
-In summary, when contributing please:
+When doing so, please:
 - Maintain cross-platform compatibility
 - Submit focused pull requests that conform to the existing code style
 - Maintain your branch synchronised with `master`
 - Revise the documentation when functionality changes
 - Properly test all modifications, including edge cases and error conditions
 - Raise a new [issue](https://github.com/hmlendea/stellaris-ui-name-lists/issues) for problems or suggestions
+
+See the [contributing guidelines](./CONTRIBUTING.md) for details on how to report issues, suggest enhancements, and submit changes.
+
+## 📜 Code of Conduct
+
+See the [Code of Conduct](CODE_OF_CONDUCT.md) for the standards of conduct expected in all project spaces.
 
 ## 🔗 Related Projects
 
