@@ -26,6 +26,7 @@ A Stellaris modification that provides numerous detailed name lists, including t
   - [Directories](#directories)
 - [Contributing](#contributing)
 - [Related Projects](#related-projects)
+- [Privacy and Data](#privacy-and-data)
 - [Project Engagement](#project-engagement)
 - [License](#license)
 
@@ -150,6 +151,12 @@ In summary, when contributing please:
 - [stellaris-ui-species-names](https://github.com/hmlendea/stellaris-ui-species-names): Additional species naming content.
 - [stellaris-ui-species-traits](https://github.com/hmlendea/stellaris-ui-species-traits): Expanded species trait content.
 - [stellaris-ui-star-names](https://github.com/hmlendea/stellaris-ui-star-names): Expanded stellar naming content.
+
+## 🛡️ Privacy and Data
+
+Universum Infinitum: Name Lists does not collect, process, transmit, or persist any personal data. The mod consists exclusively of static name list definitions read locally by the Stellaris game engine. No network connectivity, telemetry, analytics, or external integrations are present.
+
+For the detailed description of how the application handles privacy and personal data, see [PRIVACY.md](./PRIVACY.md).
 
 ## 💝 Project Engagement
 
