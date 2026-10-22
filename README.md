@@ -28,6 +28,7 @@ A Stellaris modification that provides numerous detailed name lists, including t
 - [Code of Conduct](#code-of-conduct)
 - [Related Projects](#related-projects)
 - [Privacy and Data](#privacy-and-data)
+- [Security](#security)
 - [Project Engagement](#project-engagement)
 - [License](#license)
 
@@ -166,6 +167,12 @@ Discovered a problem or have a suggestion? [Open an issue](https://github.com/hm
 If you find this project useful, consider [funding it](https://hmlendea.go.ro/funding) or starring ⭐️ it on GitHub, or giving it a thumbs up and adding it as a favourite on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1912242707)!
 
 [![Donate](https://raw.githubusercontent.com/hmlendea/readme-assets/master/donate_generic.png)](https://hmlendea.go.ro/funding)
+
+## 🔒 Security
+
+Universum Infinitum: Name Lists is a Stellaris modification consisting exclusively of static name list definitions with no executable code, network connectivity, telemetry, analytics, or external integrations. The security policy addresses the integrity of the distributed name list data and the build pipeline that produces it.
+
+For information on reporting security vulnerabilities, see [SECURITY.md](./SECURITY.md).
 
 ## 📄 License
 
