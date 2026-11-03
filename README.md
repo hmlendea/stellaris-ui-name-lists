@@ -108,7 +108,11 @@ bash scripts/build.sh --skip-validation --skip-updates
 
 ## 🏗️ Architecture
 
-The system implements a data transformation pipeline that validates, merges, and generates Stellaris-compatible name list modifications. For detailed architecture documentation, see [ARCHITECTURE.md](ARCHITECTURE.md).
+Universum Infinitum: Name Lists implements a data transformation pipeline that validates, merges, and generates Stellaris-compatible name list modifications.
+
+See [ARCHITECTURE.md](ARCHITECTURE.md) for the system context, principal components, runtime flows, ownership boundaries, dependencies, constraints, and extension points.
+
+See [docs/INDEX.md](docs/INDEX.md) for comprehensive documentation covering architecture, components, flows, behaviours, operations, and API reference.
 
 ## 🗂️ Project Structure
 
@@ -176,5 +180,5 @@ For information on reporting security vulnerabilities, see [SECURITY.md](./SECUR
 
 ## 📄 License
 
-This project is being distributed under the `GNU General Public License v3.0`.
+This project is being distributed under the `GNU General Public License v3.0` or later.
 See [LICENSE](./LICENSE) for further information.
