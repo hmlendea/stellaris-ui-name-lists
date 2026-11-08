@@ -11,6 +11,59 @@
         </Values>
       </NameGroup>
     </Demonyms>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>Regions</Name>
+          <Values>
+            <string>Manawatū-Whanganui</string>
+            <string>Murihiku</string>
+            <string>Taranaki</string>
+            <string>Te Matau-a-Māui</string>
+            <string>Te Moana-a-Toi</string>
+            <string>Te Tai Poutini</string>
+            <string>Te Tai Tokerau</string>
+            <string>Te Tai-o-Aorere</string>
+            <string>Te Tairāwhiti</string>
+            <string>Te Tauihu-o-te-waka</string>
+            <string>Te Whanga-nui-a-Tara</string>
+            <string>Tāmaki-makau-rau</string>
+            <string>Waikato</string>
+            <string>Waitaha</string>
+            <string>Whakatū</string>
+            <string>Ōtākou</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities</Name>
+          <Values>
+            <string>Ahuriri</string>
+            <string>Kirikiriroa</string>
+            <string>Māwhera</string>
+            <string>Ngāmotu</string>
+            <string>Pari-rua</string>
+            <string>Rotorua</string>
+            <string>Tauranga</string>
+            <string>Te Awa Kairangi ki Tai</string>
+            <string>Te Papaioea</string>
+            <string>Te Whanganui-a-Tara</string>
+            <string>Tāmaki Makaurau</string>
+            <string>Tūranganui-a-Kiwa</string>
+            <string>Waiharakeke</string>
+            <string>Waihōpai</string>
+            <string>Waimea</string>
+            <string>Whakaahurangi</string>
+            <string>Whakatāne</string>
+            <string>Whakatū</string>
+            <string>Whangārei</string>
+            <string>Ōtautahi</string>
+            <string>Ōtepoti</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
     <Warfare>
       <MilitaryUnitTypes>
         <NameGroup>
@@ -26,7 +79,10 @@
         <NameGroup>
           <Name>Mythological creatures</Name>
           <Values>
+            <string>Kurangaituku</string>
+            <string>Patupaiarehe</string>
             <string>Taniwha</string>
+            <string>Waitoreke</string>
           </Values>
         </NameGroup>
       </MythologicalCreatures>
