@@ -6,6 +6,12 @@
     <Places>
       <Cities>
         <NameGroup>
+          <Name>Cities - Destroy All Humans</Name>
+          <Values>
+            <string>Takoshima</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - Trigun</Name>
           <Values>
             <string>Dankin</string>

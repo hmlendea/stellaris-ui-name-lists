@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_chinese</Id>
+    <Name>Other Media - Chinese</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Destroy All Humans</Name>
+          <Values>
+            <string>Shen Long</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+  </NameList>
+</ArrayOfNameList>

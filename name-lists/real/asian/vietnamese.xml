@@ -20,7 +20,7 @@
           </Values>
         </NameGroup>
       </Countries>
-      <Countries>
+      <Cities>
         <NameGroup>
           <Name>Cities</Name>
           <Values>
@@ -37,7 +37,7 @@
             <string>Thủ Đức</string>
           </Values>
         </NameGroup>
-      </Countries>
+      </Cities>
     </Places>
   </NameList>
 </ArrayOfNameList>

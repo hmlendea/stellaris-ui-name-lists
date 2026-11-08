@@ -6,6 +6,19 @@
     <Places>
       <Cities>
         <NameGroup>
+          <Name>Cities - Destroy All Humans</Name>
+          <Values>
+            <string>Bay City</string>
+            <string>Capitol City</string>
+            <string>Fairfield</string>
+            <string>Harbor City</string>
+            <string>Rockwell</string>
+            <string>Sunnywood</string>
+            <string>Turnipseed Farm</string>
+            <string>Union Town</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - Fallout</Name>
           <Values>
             <string>Grayditch</string>
