@@ -63,6 +63,17 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Aoraki</string>
+            <string>Rakiroa</string>
+            <string>Rangirua</string>
+            <string>Te Horokōau</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
     </Places>
     <Warfare>
       <MilitaryUnitTypes>
