@@ -77,6 +77,12 @@
             <string>Norvinsk</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Planets - Starfield</Name>
+          <Values>
+            <string>Suvorov</string>
+          </Values>
+        </NameGroup>
       </Tundra>
     </Planets>
   </NameList>

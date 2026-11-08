@@ -4,6 +4,14 @@
     <Id>other-media_latin</Id>
     <Name>Other Media - Latin</Name>
     <Planets>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - Starfield</Name>
+          <Values>
+            <string>Pontem</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
       <Continental>
         <NameGroup>
           <Name>Planets - Masters of the Universe</Name>

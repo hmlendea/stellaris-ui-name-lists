@@ -21,6 +21,15 @@
             <string>Sunspear</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Cities - Stellaris</Name>
+          <Values>
+            <string>Gagarin Landing</string>
+            <string>HopeTown</string>
+            <string>New Homestead</string>
+            <string>Red Mile</string>
+          </Values>
+        </NameGroup>
       </Cities>
       <Mountains>
         <NameGroup>
