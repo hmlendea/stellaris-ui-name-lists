@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_spanish_mexican</Id>
+    <Name>Other Media - Spanish (Mexican)</Name>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>States - Red Dead Redemption</Name>
+          <Values>
+            <string>Nuevo Paraíso</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - The Book of Life</Name>
+          <Values>
+            <string>San Angel</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Destroy All Humans</Name>
+          <Values>
+            <string>Las Paradiso</string>
+            <string>Santa Modesta</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Red Dead Redemption</Name>
+          <Values>
+            <string>Chuparosa</string>
+            <string>Escalera</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+  </NameList>
+</ArrayOfNameList>

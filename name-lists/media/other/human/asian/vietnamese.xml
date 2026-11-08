@@ -1,0 +1,24 @@
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_vietnamese</Id>
+    <Name>Other Media - Vietnamese</Name>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - Destroy All Humans</Name>
+          <Values>
+            <string>Vietmahl</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Chí Phèo</Name>
+          <Values>
+            <string>Vũ Đại</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+  </NameList>
+</ArrayOfNameList>

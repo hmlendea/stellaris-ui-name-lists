@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_french</Id>
+    <Name>Other Media - French</Name>
+    <Places>
+      <Regions>
+        <NameGroup>
+          <Name>States - Red Dead Redemption</Name>
+          <Values>
+            <string>Lemoyne</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Destroy All Humans</Name>
+          <Values>
+            <string>Belleville</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - The French Dispatch</Name>
+          <Values>
+            <string>Ennui-sur-Blasé</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Red Dead Redemption</Name>
+          <Values>
+            <string>Saint Denis</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+  </NameList>
+</ArrayOfNameList>
