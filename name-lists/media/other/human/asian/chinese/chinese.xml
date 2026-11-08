@@ -11,6 +11,12 @@
             <string>Shen Long</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Cities - Shemue</Name>
+          <Values>
+            <string>Niaowu</string>
+          </Values>
+        </NameGroup>
       </Cities>
     </Places>
   </NameList>

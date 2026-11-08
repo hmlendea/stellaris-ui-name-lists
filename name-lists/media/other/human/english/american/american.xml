@@ -4,6 +4,16 @@
     <Id>other-media_human_american</Id>
     <Name>Other Media - Human - American</Name>
     <Places>
+      <Regions>
+        <NameGroup>
+          <Name>States - Red Dead Redemption</Name>
+          <Values>
+            <string>New Austin</string>
+            <string>New Hanover</string>
+            <string>West Elizabeth</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Destroy All Humans</Name>
@@ -25,6 +35,18 @@
             <string>Megaton</string>
             <string>New Vegas</string>
             <string>Rivet</string> <!-- Rivet City -->
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Red Dead Redemption</Name>
+          <Values>
+            <string>Annesburg</string>
+            <string>Blackwater</string>
+            <string>Rhodes</string>
+            <string>Strawberry</string>
+            <string>Thieves' Landing</string>
+            <string>Tumbleweed</string>
+            <string>Valentine</string>
           </Values>
         </NameGroup>
         <NameGroup>
