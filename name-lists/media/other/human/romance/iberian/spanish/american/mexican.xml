@@ -33,6 +33,12 @@
             <string>Escalera</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Cities - Saints Row</Name>
+          <Values>
+            <string>Santo Ileso</string>
+          </Values>
+        </NameGroup>
       </Cities>
     </Places>
   </NameList>

@@ -62,10 +62,8 @@
             <string>Kahaluu</string>
             <string>Kahului</string>
             <string>Kailua</string>
-            <string>Kailua</string>
             <string>Kalaheo</string>
             <string>Kalaoa</string>
-            <string>Kaneohe</string>
             <string>Kaneohe</string>
             <string>Kapaa</string>
             <string>Kaunakakai</string>
@@ -96,10 +94,8 @@
             <string>Wailua</string>
             <string>Waimalu</string>
             <string>Waimanalo</string>
-            <string>Waimanalo</string>
             <string>Waimea</string>
             <string>Waipahu</string>
-            <string>Waipio</string>
             <string>Waipio</string>
           </Values>
         </NameGroup>
@@ -114,7 +110,26 @@
           </Values>
         </NameGroup>
       </LeadersTier2>
+      <WarDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Kū</string>
+          </Values>
+        </NameGroup>
+      </WarDeities>
     </GreatPeople>
+    <BiosphereNames>
+      <MythologicalCreatures>
+        <NameGroup>
+          <Name>Mythological creatures</Name>
+          <Values>
+            <string>Apukohai</string>
+            <string>Menehune</string>
+          </Values>
+        </NameGroup>
+      </MythologicalCreatures>
+    </BiosphereNames>
     <Ships>
       <Corvette>
         <NameGroup>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_human_italian</Id>
+    <Name>Other Media - Human - Italian</Name>
+    <Places>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Luca</Name>
+          <Values>
+            <string>Portorosso</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Stellaris</Name>
+          <Values>
+            <string>Paradiso</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Planets>
+      <Arctic>
+        <NameGroup>
+          <Name>Planets - Starfield</Name>
+          <Values>
+            <string>Abetti</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

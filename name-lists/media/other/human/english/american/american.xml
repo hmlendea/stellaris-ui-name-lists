@@ -31,9 +31,22 @@
         <NameGroup>
           <Name>Cities - Fallout</Name>
           <Values>
+            <string>Andale</string>
+            <string>Arefu</string>
+            <string>Big Town</string>
+            <string>Canterbury Commons</string>
+            <string>Diamond City</string>
+            <string>Girdershade</string>
+            <string>Goodsprings</string>
             <string>Grayditch</string>
+            <string>Jacobstown</string>
+            <string>Little Lamplight</string>
             <string>Megaton</string>
             <string>New Vegas</string>
+            <string>Nipton</string>
+            <string>Novac</string>
+            <string>Paradise Falls</string>
+            <string>Primm</string>
             <string>Rivet</string> <!-- Rivet City -->
           </Values>
         </NameGroup>
