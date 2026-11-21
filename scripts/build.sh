@@ -160,7 +160,7 @@ ARMENIAN_NAMELISTS=$(get-namelists-merged ${ARMENIAN_REAL_NAMELISTS} ${ARMENIAN_
 #############
 ASIAN_COMMON_REAL_NAMELISTS="real/asian/common real/common real/common/_"
 
-CHINESE_GENERATED_NAMELISTS="media/alien/human/asian/chinese media/civbe/human/asian/chinese media/dishonored/asian/chinese media/pandora/human/asian/chinese media/stellaris/human/asian/chinese media/ypp/asian/chinese ui/human/asian/chinese"
+CHINESE_GENERATED_NAMELISTS="generated/ung/human/asian/chinese"
 CHINESE_MEDIA_NAMELISTS="media/alien/human/asian/chinese media/civbe/human/asian/chinese media/dishonored/asian/chinese media/firefly/asian/chinese media/pandora/human/asian/chinese media/stellaris/human/asian/chinese media/ypp/asian/chinese ui/human/asian/chinese"
 CHINESE_REAL_NAMELISTS="real/asian/chinese/chinese real/asian/chinese/taiwanese ${ASIAN_COMMON_REAL_NAMELISTS}"
 CHINESE_NAMELISTS=$(get-namelists-merged ${CHINESE_REAL_NAMELISTS} ${CHINESE_MEDIA_NAMELISTS} ${CHINESE_GENERATED_NAMELISTS})
@@ -362,19 +362,19 @@ DUTCH_MEDIA_NAMELISTS="media/starcraft/human/germanic/dutch media/warhammer/40k/
 DUTCH_REAL_NAMELISTS="real/germanic/benelux/dutch ${BENELUX_COMMON_REAL_NAMELISTS}"
 DUTCH_NAMELISTS=$(get-namelists-merged ${DUTCH_REAL_NAMELISTS} ${DUTCH_MEDIA_NAMELISTS})
 
-LUXEMBOURGISH_MEDIA_NAMELISTS="ui/human/germanic/benelux/dutch ${BENELUX_COMMON_MEDIA_NAMELISTS}"
-LUXEMBOURGISH_REAL_NAMELISTS="real/germanic/benelux/dutch ${BENELUX_COMMON_REAL_NAMELISTS}"
+LUXEMBOURGISH_MEDIA_NAMELISTS="ui/human/germanic/benelux/luxembourgish ${BENELUX_COMMON_MEDIA_NAMELISTS}"
+LUXEMBOURGISH_REAL_NAMELISTS="real/germanic/benelux/luxembourgish ${BENELUX_COMMON_REAL_NAMELISTS}"
 LUXEMBOURGISH_NAMELISTS=$(get-namelists-merged ${LUXEMBOURGISH_REAL_NAMELISTS} ${LUXEMBOURGISH_MEDIA_NAMELISTS})
 
 BENELUX_GENERATED_NAMELISTS=$(get-namelists-merged ${DUTCH_GENERATED_NAMELISTS})
 BENELUX_MEDIA_NAMELISTS=$(get-namelists-merged ${BELGIAN_MEDIA_NAMELISTS} ${DUTCH_MEDIA_NAMELISTS} ${LUXEMBOURGISH_MEDIA_NAMELISTS} ${BENELUX_COMMON_MEDIA_NAMELISTS})
 BENELUX_REAL_NAMELISTS=$(get-namelists-merged ${BELGIAN_REAL_NAMELISTS} ${DUTCH_REAL_NAMELISTS} ${LUXEMBOURGISH_REAL_NAMELISTS} ${BENELUX_COMMON_REAL_NAMELISTS})
-BENELUX_NAMELISTS=$(get-namelists-merged ${BENELUX_REAL_NAMELISTS} ${BENELUX_MEDIA_NAMELISTS})
+BENELUX_NAMELISTS=$(get-namelists-merged ${BENELUX_REAL_NAMELISTS} ${BENELUX_MEDIA_NAMELISTS} ${BENELUX_GENERATED_NAMELISTS})
 
 GERMANIC_COMMON_MEDIA_NAMELISTS="media/warhammer/40k/human/germanic/common ui/human/germanic/common"
 
 GERMAN_GENERATED_NAMELISTS="generated/letsmakeagame/human/germanic/german generated/ung/human/germanic/german"
-GERMAN_MEDIA_NAMELISTS="media/alien/human/germanic/german media/civbe/human/germanic/german media/dune/germanic/german media/firefly/germanic/german media/gta/germanic/german media/pandora/human/germanic/german/german media/runescape/human/misthalinian/german media/starcraft/human/germanic/german media/pandora/human/germanic/german/austrian media/pandora/human/germanic/german/german media/pandora/human/germanic/german/swiss media/stellaris/human/germanic/german media/warhammer/40k/human/germanic/german media/warhammer/fantasy/human/imperial media/ypp/germanic/german media/other/human/germanic/german media/other/human/germanic/german ui/human/germanic/german ${GERMANIC_COMMON_MEDIA_NAMELISTS}"
+GERMAN_MEDIA_NAMELISTS="media/alien/human/germanic/german media/civbe/human/germanic/german media/dune/germanic/german media/firefly/germanic/german media/gta/germanic/german media/pandora/human/germanic/german/german media/runescape/human/misthalinian/german media/starcraft/human/germanic/german media/pandora/human/germanic/german/austrian media/pandora/human/germanic/german/swiss media/stellaris/human/germanic/german media/warhammer/40k/human/germanic/german media/warhammer/fantasy/human/imperial media/ypp/germanic/german media/other/human/germanic/german ${GERMANIC_COMMON_MEDIA_NAMELISTS}"
 GERMAN_REAL_NAMELISTS="real/germanic/german/austrian real/germanic/german/german real/germanic/german/swiss real/germanic/german/common real/common/european real/common real/common/_"
 GERMAN_NAMELISTS=$(get-namelists-merged ${GERMAN_REAL_NAMELISTS} ${GERMAN_MEDIA_NAMELISTS} ${GERMAN_GENERATED_NAMELISTS})
 
