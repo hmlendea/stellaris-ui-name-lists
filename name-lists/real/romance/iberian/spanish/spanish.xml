@@ -50,16 +50,23 @@
           <Name>Cities</Name>
           <Values>
             <string>Alicante</string>
+            <string>Badalona</string>
+            <string>Barcelona</string>
             <string>Bilbao</string>
             <string>Córdoba</string>
             <string>Gibraltar</string>
+            <string>Gijón</string>
             <string>Granada</string>
             <string>Madrid</string>
-            <string>Málaga</string>
             <string>Murcia</string>
+            <string>Málaga</string>
+            <string>Oviedo</string>
             <string>Palma</string>
+            <string>Sabadell</string>
             <string>Seville</string>
+            <string>Terrassa</string>
             <string>Valladolid</string>
+            <string>Vigo</string>
             <string>Zaragoza</string>
           </Values>
         </NameGroup>
@@ -69,6 +76,7 @@
           <Name>Deserts</Name>
           <Values>
             <string>Bardenas</string>
+            <string>Monegros</string>
             <string>Tabernas</string>
           </Values>
         </NameGroup>
@@ -115,10 +123,13 @@
         <NameGroup>
           <Name>Military unit types</Name>
           <Values>
+            <string>Aduanero</string>
             <string>Almogávar</string>
+            <string>Chapelgorri</string>
             <string>Conquistador</string>
-            <string>Espadachino</string>
+            <string>Espadachín</string>
             <string>Jinete</string>
+            <string>Pesetero</string>
             <string>Rodelero</string>
             <string>Tercio</string>
           </Values>
