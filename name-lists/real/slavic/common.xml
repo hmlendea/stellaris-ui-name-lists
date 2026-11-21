@@ -21,6 +21,14 @@
           </Values>
         </NameGroup>
       </SunDeities>
+      <WarmthDeities>
+        <NameGroup>
+          <Name>Deities</Name>
+          <Values>
+            <string>Svarog</string>
+          </Values>
+        </NameGroup>
+      </WarmthDeities>
     </GreatPersons>
     <Warfare>
       <Weapons>

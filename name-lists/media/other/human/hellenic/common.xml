@@ -89,5 +89,27 @@
         </NameGroup>
       </Tomb>
     </Planets>
+    <Ships>
+      <Cruiser>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Cydonia</string>
+            <string>Pella</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Bellerophon</string>
+            <string>Phoebe</string>
+            <string>Tripoli</string>
+            <string>Zenobia</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+    </Ships>
   </NameList>
 </ArrayOfNameList>

@@ -129,6 +129,7 @@
         <NameGroup>
           <Name>Military unit types</Name>
           <Values>
+            <string>Hippeus</string>
             <string>Skiritai</string>
           </Values>
         </NameGroup>

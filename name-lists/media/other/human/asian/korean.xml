@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_korean</Id>
+    <Name>Other Media - Korean</Name>
+    <Ships>
+      <Destroyer>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Seung Un</string>
+          </Values>
+        </NameGroup>
+      </Destroyer>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Harman Dae-Jung</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+    </Ships>
+  </NameList>
+</ArrayOfNameList>

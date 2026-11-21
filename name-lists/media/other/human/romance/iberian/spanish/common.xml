@@ -13,5 +13,28 @@
         </NameGroup>
       </Generic>
     </Planets>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Atacama</string>
+            <string>Bandon</string>
+            <string>Rocinante</string>
+            <string>Santa Maria</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Montenegro</string>
+            <string>Rising Derecho</string>
+            <string>Tynan</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+    </Ships>
   </NameList>
 </ArrayOfNameList>

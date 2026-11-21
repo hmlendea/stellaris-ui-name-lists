@@ -123,5 +123,101 @@
         </NameGroup>
       </Tomb>
     </Planets>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+
+            <string>Crowley</string>
+            <string>Farragut</string>
+            <string>Governor Knight</string>
+            <string>Intrepid</string>
+            <string>John Cabot</string>
+            <string>Ontario</string>
+            <string>R R Martin</string> <!-- Named after George R. R. Martin -->
+            <string>Razorback</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Corvette>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Orinoco</string>
+            <string>Serrio Mal</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+      <Destroyer>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Avalanche</string>
+            <string>Damascus</string>
+            <string>Gathering Storm</string>
+            <string>Hamill-Stewart</string>
+            <string>Monsoon</string>
+            <string>Smith</string>
+            <string>Stover</string>
+          </Values>
+        </NameGroup>
+      </Destroyer>
+      <Cruiser>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Tori Byron</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Agatha King</string>
+            <string>Armstrong</string>
+            <string>Barkeith</string>
+            <string>Bradbury</string>
+            <string>Eye of the Typhoon</string>
+            <string>Firebrand</string>
+            <string>Heart of the Tempest</string>
+            <string>Hiram Grant</string> <!-- Named after Ulysses S. Grant -->
+            <string>Hotspur</string>
+            <string>Nathan Hale</string>
+            <string>Thomas Prince</string>
+            <string>Voice of the Whirlwind</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Science>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Falcon</string>
+          </Values>
+        </NameGroup>
+      </Science>
+      <Coloniser>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Edward Israel</string>
+            <string>Nauvoo</string>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+      <Transport>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Canterbury</string>
+            <string>Lazy Songbird</string>
+            <string>Nokota Sioux</string>
+            <string>Weeping Somnambulist</string>
+          </Values>
+        </NameGroup>
+      </Transport>
+    </Ships>
   </NameList>
 </ArrayOfNameList>

@@ -719,6 +719,8 @@
             <string>Centurion</string>
             <string>Cornicen</string>
             <string>Draconarius</string>
+            <string>Equites</string>
+            <string>Hastati</string>
             <string>Legion</string>
             <string>Legionaire</string>
             <string>Legionarius</string>
@@ -777,6 +779,7 @@
           <Name>Ship Types</Name>
           <Values>
             <string>Bireme</string>
+            <string>Dromon</string>
             <string>Quadireme</string>
             <string>Quinquereme</string>
             <string>Trireme</string>

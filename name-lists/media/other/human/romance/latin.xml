@@ -21,5 +21,18 @@
         </NameGroup>
       </Ocean>
     </Planets>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Icaria Planum</string>
+            <string>Mammatus</string>
+            <string>Scipio Africanus</string>
+            <string>Scopuli</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Ships>
   </NameList>
 </ArrayOfNameList>

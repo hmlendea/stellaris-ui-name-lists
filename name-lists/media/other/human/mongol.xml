@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_mongol</Id>
+    <Name>Other Media - Mongol</Name>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Subutai</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Ships>
+  </NameList>
+</ArrayOfNameList>

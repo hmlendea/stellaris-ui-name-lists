@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_norse</Id>
+    <Name>Other Media - Norse</Name>
+    <Ships>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Jotunn</string>
+            <string>Valkyrie</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+    </Ships>
+  </NameList>
+</ArrayOfNameList>
