@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_persian</Id>
+    <Name>Other Media - Persian</Name>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Ferdowsi</string>
+            <string>Khandahar</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Ships>
+  </NameList>
+</ArrayOfNameList>

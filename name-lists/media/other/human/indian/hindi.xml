@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_hindi</Id>
+    <Name>Other Media - Hindi</Name>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Ravi</string>
+            <string>Talwar</string>
+            <string>Yamuna</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Ships>
+  </NameList>
+</ArrayOfNameList>

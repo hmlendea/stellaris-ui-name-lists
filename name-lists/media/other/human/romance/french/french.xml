@@ -33,5 +33,24 @@
         </NameGroup>
       </Cities>
     </Places>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Austerlitz</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Carcassonne</string>
+            <string>Gatamang Feronte</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+    </Ships>
   </NameList>
 </ArrayOfNameList>

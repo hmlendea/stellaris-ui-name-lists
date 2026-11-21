@@ -79,5 +79,25 @@
         </NameGroup>
       </Tundra>
     </Planets>
+    <Ships>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Kutuzov</string>
+            <string>Raskolnikov</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Transport>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Marasmus</string>
+            <string>Panshin</string>
+          </Values>
+        </NameGroup>
+      </Transport>
+    </Ships>
   </NameList>
 </ArrayOfNameList>

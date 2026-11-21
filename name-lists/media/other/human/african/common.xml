@@ -13,5 +13,18 @@
         </NameGroup>
       </Heroes>
     </GreatPeople>
+    <Ships>
+      <Destroyer>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Ambedkar</string>
+            <string>Daskell</string>
+            <string>Ekandjo</string>
+            <string>Okimbo</string>
+          </Values>
+        </NameGroup>
+      </Destroyer>
+    </Ships>
   </NameList>
 </ArrayOfNameList>

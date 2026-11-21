@@ -47,6 +47,25 @@
         </NameGroup>
       </Animals>
     </BiosphereNames>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Gryphon</string>
+            <string>Leviathan</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Bellaire</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+    </Ships>
     <ShipClasses>
       <Generic>
         <NameGroup>
@@ -56,6 +75,57 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Corvette>
+        <NameGroup>
+          <Name>Ship classes - The Expanse</Name>
+          <Values>
+            <string>Amun-Ra</string>
+            <string>Anubis</string>
+            <string>Gemini</string>
+            <string>Phantom</string>
+            <string>Warvette</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+      <Destroyer>
+        <NameGroup>
+          <Name>Ship classes - The Expanse</Name>
+          <Values>
+            <string>Andronicus</string>
+            <string>Banshee</string>
+            <string>Morgaina</string>
+            <string>Morrigan</string>
+            <string>Munroe</string>
+            <string>Murphy</string>
+            <string>Protector</string>
+            <string>Pulsar</string>
+            <string>Storm</string>
+          </Values>
+        </NameGroup>
+      </Destroyer>
+      <Cruiser>
+        <NameGroup>
+          <Name>Ship classes - The Expanse</Name>
+          <Values>
+            <string>Raptor</string>
+            <string>Scirocco</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Battleship>
+        <NameGroup>
+          <Name>Ship classes - The Expanse</Name>
+          <Values>
+            <string>Donnager</string>
+            <string>Gravitar</string>
+            <string>Leonidas</string>
+            <string>Magnetar</string>
+            <string>Proteus</string>
+            <string>Truman</string>
+            <string>Xerxes</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
     </ShipClasses>
     <Armies>
       <XenomorphArmy>

@@ -414,6 +414,14 @@
             </Values>
           </NameGroup>
         </Daggers>
+        <Axes>
+          <NameGroup>
+            <Name>Axes</Name>
+            <Values>
+              <string>Labrys</string>
+            </Values>
+          </NameGroup>
+        </Axes>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
@@ -425,6 +433,7 @@
         <NameGroup>
           <Name>Military unit types</Name>
           <Values>
+            <string>Akritai</string>
             <string>Cataphract</string>
             <string>Hoplite</string>
             <string>Hoplomachus</string>
@@ -434,7 +443,9 @@
             <string>Myrmidon</string>
             <string>Optimatoi</string>
             <string>Phalanx</string>
+            <string>Strategos</string>
             <string>Stratioti</string>
+            <string>Toxotai</string>
             <string>Varangian</string>
           </Values>
         </NameGroup>

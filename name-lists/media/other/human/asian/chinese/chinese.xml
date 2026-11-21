@@ -19,5 +19,20 @@
         </NameGroup>
       </Cities>
     </Places>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Azure Dragon</string>
+            <string>Cao Cao</string>
+            <string>Shandian</string>
+            <string>Wu Tsao</string>
+            <string>Xuesen</string>
+            <string>Zhang Fei</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </Ships>
   </NameList>
 </ArrayOfNameList>

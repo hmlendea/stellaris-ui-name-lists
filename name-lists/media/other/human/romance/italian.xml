@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>other-media_italian</Id>
+    <Name>Other Media - Italian</Name>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Barbapiccola</string>
+            <string>Drusilla</string>
+            <string>Giambattista</string>
+            <string>Guy Molinari</string>
+            <string>Solano</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Schiaparelli</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+    </Ships>
+  </NameList>
+</ArrayOfNameList>

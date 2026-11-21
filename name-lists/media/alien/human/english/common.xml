@@ -47,5 +47,15 @@
         </NameGroup>
       </Tomb>
     </Planets>
+    <Ships>
+      <Constructor>
+        <NameGroup>
+          <Name>Ships - Alien</Name>
+          <Values>
+            <string>Nostromo</string>
+          </Values>
+        </NameGroup>
+      </Constructor>
+    </Ships>
   </NameList>
 </ArrayOfNameList>

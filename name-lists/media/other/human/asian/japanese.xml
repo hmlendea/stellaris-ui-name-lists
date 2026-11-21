@@ -59,5 +59,36 @@
         </NameGroup>
       </Ocean>
     </Planets>
+    <Ships>
+      <Generic>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Odachi</string>
+            <string>Tsukumogami</string>
+            <string>Yasijuro</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Destroyer>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Koto</string>
+            <string>Kunai</string>
+            <string>Tachi</string>
+            <string>Tanto</string>
+          </Values>
+        </NameGroup>
+      </Destroyer>
+      <Transport>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Inazami</string>
+          </Values>
+        </NameGroup>
+      </Transport>
+    </Ships>
   </NameList>
 </ArrayOfNameList>

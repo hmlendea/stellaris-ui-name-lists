@@ -13,5 +13,26 @@
         </NameGroup>
       </Generic>
     </Planets>
+    <Ships>
+      <Battleship>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Franck</string>
+            <string>Frederick Lewis</string>
+            <string>Lauber</string>
+            <string>Severin</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Destroyer>
+        <NameGroup>
+          <Name>Ships - The Expanse</Name>
+          <Values>
+            <string>Ackermann</string>
+          </Values>
+        </NameGroup>
+      </Destroyer>
+    </Ships>
   </NameList>
 </ArrayOfNameList>
