@@ -27,12 +27,14 @@ jobs:
         wget "https://github.com/hmlendea/stellaris-ui-name-lists/releases/download/${VERSION}/${RELEASE_ASSET_NAME}" -O "release.zip"
 
     - name: Upload
-      uses: Nexus-Mods/upload-action@v1.0.0-beta.3
+      uses: Nexus-Mods/upload-action@v1.0.0-beta.10
       with:
         api_key: ${{ secrets.NEXUSMODS_API_KEY }}
-        file_group_id: 918667
+        file_id: 918667
         filename: release.zip
         display_name: ui-name-lists.zip
         version: ${{env.VERSION}}
         description: "Changelog: https://github.com/hmlendea/stellaris-ui-name-lists/releases/${{env.VERSION}}"
-        file_category: main
+        category: main
+        archive_existing_version: true
+        update_mod_version: true
