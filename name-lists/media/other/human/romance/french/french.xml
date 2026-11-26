@@ -14,6 +14,18 @@
       </Regions>
       <Cities>
         <NameGroup>
+          <Name>Cities - Clark Ashton Smith</Name>
+          <Values>
+            <string>La Frenâie</string>
+            <string>Les Hiboux</string>
+            <string>Moulins</string>
+            <string>Périgon</string>
+            <string>Sainte Zenobie</string>
+            <string>Vyônes</string>
+            <string>Ximes</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - Destroy All Humans</Name>
           <Values>
             <string>Belleville</string>

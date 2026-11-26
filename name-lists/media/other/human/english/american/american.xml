@@ -148,6 +148,14 @@
           </Values>
         </NameGroup>
       </Alpine>
+      <Gaia>
+        <NameGroup>
+          <Name>Planets - Starfield</Name>
+          <Values>
+            <string>Jemison</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
       <Tomb>
         <NameGroup>
           <Name>Cities - Fallout</Name>
